@@ -1,0 +1,12 @@
+# Your data — never commit this
+data/progress.json
+data/reviews.jsonl
+data/backups/
+data/vocab/00-my-words.json
+
+# Regenerated on demand (audio + images)
+cache/
+
+node_modules/
+.DS_Store
+*.log

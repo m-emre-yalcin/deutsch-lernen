@@ -1,0 +1,21 @@
+{
+  "name": "deutsch-lernen",
+  "version": "2.0.0",
+  "private": true,
+  "description": "German A0-A2 learning app \u2014 spaced repetition, six practice modes, grammar course",
+  "type": "module",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "start": "./start.sh",
+    "serve": "node server/server.js",
+    "test": "node tools/test.js",
+    "validate": "node tools/validate.js",
+    "grammar": "node tools/build-grammar.js",
+    "dedupe": "node tools/dedupe.js",
+    "prefetch": "node tools/prefetch.js --images --sentences",
+    "responsive": "node --experimental-websocket tools/responsive-check.js"
+  },
+  "comment": "There are deliberately NO dependencies. Node 18+ has everything this needs, so there is nothing to install and nothing to break later. `npm install` is never required."
+}
