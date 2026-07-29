@@ -1,0 +1,4302 @@
+{
+  "category": "Reflexive & Daily-Routine Verbs",
+  "words": [
+    {
+      "id": "sich-freuen",
+      "word": "sich freuen",
+      "lemma": "freuen",
+      "translation": "to be happy",
+      "translations": [
+        "to be happy",
+        "to be glad",
+        "to look forward"
+      ],
+      "level": "A1",
+      "category": "Reflexive & Daily-Routine Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 175,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": true,
+      "cases": [
+        "akk"
+      ],
+      "forms": {
+        "ich": "freue mich",
+        "du": "freust dich",
+        "er": "freut sich",
+        "wir": "freuen uns",
+        "ihr": "freut euch",
+        "sie": "freuen sich",
+        "praeteritum": "freute sich",
+        "perfekt": "hat sich gefreut",
+        "imperativ": "freu dich!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich freue mich sehr über dein Geschenk.",
+          "en": "I'm very happy about your present."
+        },
+        {
+          "de": "Wir freuen uns auf das Wochenende.",
+          "en": "We're looking forward to the weekend."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Freut ihr ___ auf den Urlaub?",
+          "answer": "euch",
+          "en": "Are you looking forward to the holiday?"
+        }
+      ],
+      "notes": "sich freuen ÜBER + Akkusativ = be glad about something that already happened. sich freuen AUF + Akkusativ = look forward to something still to come.",
+      "mnemonic": "FREUen ~ 'Freude' = joy.",
+      "germany_context": "'Freut mich!' is the standard reply when someone introduces themselves to you - short for 'Es freut mich, Sie kennenzulernen.'",
+      "emoji": "😊",
+      "imageable": false,
+      "tags": [
+        "reflexive",
+        "akkusativ",
+        "emotion",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "sich ärgern"
+      ],
+      "related": [
+        "sich-aergern",
+        "sich-fuehlen",
+        "sich-vorstellen"
+      ]
+    },
+    {
+      "id": "sich-interessieren",
+      "word": "sich interessieren für",
+      "lemma": "interessieren",
+      "translation": "to be interested in",
+      "translations": [
+        "to be interested in"
+      ],
+      "level": "A1",
+      "category": "Reflexive & Daily-Routine Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 520,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": true,
+      "cases": [
+        "akk"
+      ],
+      "forms": {
+        "ich": "interessiere mich",
+        "du": "interessierst dich",
+        "er": "interessiert sich",
+        "wir": "interessieren uns",
+        "ihr": "interessiert euch",
+        "sie": "interessieren sich",
+        "praeteritum": "interessierte sich",
+        "perfekt": "hat sich interessiert",
+        "imperativ": "interessier dich!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich interessiere mich für Technik.",
+          "en": "I'm interested in technology."
+        },
+        {
+          "de": "Interessierst du dich für Fußball?",
+          "en": "Are you interested in football?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Sie ___ sich sehr für deutsche Geschichte.",
+          "answer": "interessiert",
+          "en": "She is very interested in German history."
+        }
+      ],
+      "notes": "Always sich interessieren FÜR + Akkusativ. The adjective version is 'an etwas interessiert sein'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🤔",
+      "imageable": false,
+      "tags": [
+        "reflexive",
+        "akkusativ",
+        "opinion"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "sich-informieren"
+      ]
+    },
+    {
+      "id": "sich-vorstellen",
+      "word": "sich vorstellen",
+      "lemma": "vorstellen",
+      "translation": "to introduce oneself",
+      "translations": [
+        "to introduce oneself",
+        "to imagine"
+      ],
+      "level": "A1",
+      "category": "Reflexive & Daily-Routine Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 300,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "haben",
+      "reflexive": true,
+      "cases": [
+        "akk"
+      ],
+      "forms": {
+        "ich": "stelle mich vor",
+        "du": "stellst dich vor",
+        "er": "stellt sich vor",
+        "wir": "stellen uns vor",
+        "ihr": "stellt euch vor",
+        "sie": "stellen sich vor",
+        "praeteritum": "stellte sich vor",
+        "perfekt": "hat sich vorgestellt",
+        "imperativ": "stell dich vor!"
+      },
+      "example_sentences": [
+        {
+          "de": "Darf ich mich kurz vorstellen?",
+          "en": "May I introduce myself briefly?"
+        },
+        {
+          "de": "Sie stellt sich dem neuen Team vor.",
+          "en": "She introduces herself to the new team."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Bitte ___ Sie sich kurz vor.",
+          "answer": "stellen",
+          "en": "Please introduce yourself briefly."
+        }
+      ],
+      "notes": "Separable: vor|stellen. With an AKKUSATIV pronoun it means 'introduce oneself'; with a DATIV pronoun it means 'imagine': 'Das kann ich mir gut vorstellen.'",
+      "mnemonic": null,
+      "germany_context": "Every German job interview starts with 'Stellen Sie sich bitte kurz vor.' Prepare a two-minute answer.",
+      "emoji": "🤝",
+      "imageable": false,
+      "tags": [
+        "reflexive",
+        "akkusativ",
+        "social",
+        "work"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "sich-bewerben",
+        "sich-freuen"
+      ]
+    },
+    {
+      "id": "sich-setzen",
+      "word": "sich setzen",
+      "lemma": "setzen",
+      "translation": "to sit down",
+      "translations": [
+        "to sit down",
+        "to take a seat"
+      ],
+      "level": "A1",
+      "category": "Reflexive & Daily-Routine Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 355,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": true,
+      "cases": [
+        "akk"
+      ],
+      "forms": {
+        "ich": "setze mich",
+        "du": "setzt dich",
+        "er": "setzt sich",
+        "wir": "setzen uns",
+        "ihr": "setzt euch",
+        "sie": "setzen sich",
+        "praeteritum": "setzte sich",
+        "perfekt": "hat sich gesetzt",
+        "imperativ": "setz dich!"
+      },
+      "example_sentences": [
+        {
+          "de": "Setz dich bitte!",
+          "en": "Please sit down!"
+        },
+        {
+          "de": "Wir setzen uns an den Tisch am Fenster.",
+          "en": "We sit down at the table by the window."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Darf ich mich hier ___?",
+          "answer": "setzen",
+          "en": "May I sit down here?"
+        }
+      ],
+      "notes": "'sich setzen' is the movement of sitting down; 'sitzen' is the state of being seated. Compare 'Setz dich!' with 'Du sitzt gut.'",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🪑",
+      "imageable": false,
+      "tags": [
+        "reflexive",
+        "akkusativ",
+        "movement"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "aufstehen"
+      ],
+      "related": [
+        "sich-hinlegen",
+        "sich-anstellen"
+      ]
+    },
+    {
+      "id": "sich-waschen",
+      "word": "sich waschen",
+      "lemma": "waschen",
+      "translation": "to wash oneself",
+      "translations": [
+        "to wash oneself",
+        "to have a wash"
+      ],
+      "level": "A1",
+      "category": "Reflexive & Daily-Routine Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 410,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": true,
+      "cases": [
+        "akk"
+      ],
+      "forms": {
+        "ich": "wasche mich",
+        "du": "wäschst dich",
+        "er": "wäscht sich",
+        "wir": "waschen uns",
+        "ihr": "wascht euch",
+        "sie": "waschen sich",
+        "praeteritum": "wusch sich",
+        "perfekt": "hat sich gewaschen",
+        "imperativ": "wasch dich!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich wasche mich jeden Morgen kalt.",
+          "en": "I wash with cold water every morning."
+        },
+        {
+          "de": "Das Kind wäscht sich schon allein.",
+          "en": "The child already washes itself."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wasch ___ bitte die Hände!",
+          "answer": "dir",
+          "en": "Please wash your hands!"
+        }
+      ],
+      "notes": "AKKUSATIV pronoun for the whole body (ich wasche mich), but DATIV when a body part follows (ich wasche mir die Hände). Irregular: du wäschst, er wäscht.",
+      "mnemonic": "WASCHen ~ 'wash'.",
+      "germany_context": null,
+      "emoji": "🧼",
+      "imageable": false,
+      "tags": [
+        "reflexive",
+        "akkusativ",
+        "daily-routine",
+        "hygiene"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "sich-duschen",
+        "zaehne-putzen"
+      ]
+    },
+    {
+      "id": "sich-duschen",
+      "word": "sich duschen",
+      "lemma": "duschen",
+      "translation": "to shower",
+      "translations": [
+        "to shower",
+        "to have a shower"
+      ],
+      "level": "A1",
+      "category": "Reflexive & Daily-Routine Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 330,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": true,
+      "cases": [
+        "akk"
+      ],
+      "forms": {
+        "ich": "dusche mich",
+        "du": "duschst dich",
+        "er": "duscht sich",
+        "wir": "duschen uns",
+        "ihr": "duscht euch",
+        "sie": "duschen sich",
+        "praeteritum": "duschte sich",
+        "perfekt": "hat sich geduscht",
+        "imperativ": "dusch dich!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich dusche mich jeden Abend.",
+          "en": "I shower every evening."
+        },
+        {
+          "de": "Nach dem Sport duscht er sich sofort.",
+          "en": "After sport he showers immediately."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ du morgens oder abends?",
+          "answer": "Duschst",
+          "en": "Do you shower in the morning or in the evening?"
+        }
+      ],
+      "notes": "Very often used without the pronoun: 'Ich dusche.' Both versions are correct German.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🚿",
+      "imageable": false,
+      "tags": [
+        "reflexive",
+        "akkusativ",
+        "daily-routine",
+        "hygiene"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "sich-waschen",
+        "sich-rasieren"
+      ]
+    },
+    {
+      "id": "sich-anziehen",
+      "word": "sich anziehen",
+      "lemma": "anziehen",
+      "translation": "to get dressed",
+      "translations": [
+        "to get dressed",
+        "to put on"
+      ],
+      "level": "A1",
+      "category": "Reflexive & Daily-Routine Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 315,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "haben",
+      "reflexive": true,
+      "cases": [
+        "akk"
+      ],
+      "forms": {
+        "ich": "ziehe mich an",
+        "du": "ziehst dich an",
+        "er": "zieht sich an",
+        "wir": "ziehen uns an",
+        "ihr": "zieht euch an",
+        "sie": "ziehen sich an",
+        "praeteritum": "zog sich an",
+        "perfekt": "hat sich angezogen",
+        "imperativ": "zieh dich an!"
+      },
+      "example_sentences": [
+        {
+          "de": "Zieh dich warm an, es ist kalt draußen.",
+          "en": "Dress warmly, it's cold outside."
+        },
+        {
+          "de": "Ich ziehe mich schnell an und komme.",
+          "en": "I'll get dressed quickly and come."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Das Kind ___ sich schon allein an.",
+          "answer": "zieht",
+          "en": "The child already gets dressed on its own."
+        }
+      ],
+      "notes": "Separable: an|ziehen. With a garment it switches to DATIV: 'Ich ziehe mir eine Jacke an.'",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "👕",
+      "imageable": false,
+      "tags": [
+        "reflexive",
+        "akkusativ",
+        "daily-routine",
+        "clothes"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "sich ausziehen"
+      ],
+      "related": [
+        "sich-ausziehen",
+        "sich-umziehen"
+      ]
+    },
+    {
+      "id": "sich-entschuldigen",
+      "word": "sich entschuldigen",
+      "lemma": "entschuldigen",
+      "translation": "to apologise",
+      "translations": [
+        "to apologise",
+        "to say sorry"
+      ],
+      "level": "A0",
+      "category": "Reflexive & Daily-Routine Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 150,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": true,
+      "cases": [
+        "akk"
+      ],
+      "forms": {
+        "ich": "entschuldige mich",
+        "du": "entschuldigst dich",
+        "er": "entschuldigt sich",
+        "wir": "entschuldigen uns",
+        "ihr": "entschuldigt euch",
+        "sie": "entschuldigen sich",
+        "praeteritum": "entschuldigte sich",
+        "perfekt": "hat sich entschuldigt",
+        "imperativ": "entschuldige dich!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich entschuldige mich für die Verspätung.",
+          "en": "I apologise for being late."
+        },
+        {
+          "de": "Er hat sich bei mir entschuldigt.",
+          "en": "He apologised to me."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Du solltest dich bei ihr ___.",
+          "answer": "entschuldigen",
+          "en": "You should apologise to her."
+        }
+      ],
+      "notes": "sich BEI jemandem FÜR etwas entschuldigen. 'Entschuldigung!' or 'Entschuldigen Sie!' is also how you get a stranger's attention on the street.",
+      "mnemonic": null,
+      "germany_context": "'Entschuldigen Sie, wo ist ...?' is the polite opener for asking a stranger for directions - never just start with the question.",
+      "emoji": "🙇",
+      "imageable": false,
+      "tags": [
+        "reflexive",
+        "akkusativ",
+        "social",
+        "essential",
+        "survival"
+      ],
+      "synonyms": [
+        "sich bedanken"
+      ],
+      "antonyms": [],
+      "related": [
+        "sich-bedanken",
+        "leidtun"
+      ]
+    },
+    {
+      "id": "sich-bedanken",
+      "word": "sich bedanken",
+      "lemma": "bedanken",
+      "translation": "to thank",
+      "translations": [
+        "to thank",
+        "to say thank you"
+      ],
+      "level": "A1",
+      "category": "Reflexive & Daily-Routine Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 505,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": true,
+      "cases": [
+        "akk"
+      ],
+      "forms": {
+        "ich": "bedanke mich",
+        "du": "bedankst dich",
+        "er": "bedankt sich",
+        "wir": "bedanken uns",
+        "ihr": "bedankt euch",
+        "sie": "bedanken sich",
+        "praeteritum": "bedankte sich",
+        "perfekt": "hat sich bedankt",
+        "imperativ": "bedank dich!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich möchte mich für deine Hilfe bedanken.",
+          "en": "I would like to thank you for your help."
+        },
+        {
+          "de": "Sie bedankt sich bei dem Nachbarn.",
+          "en": "She thanks the neighbour."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wir ___ uns herzlich für das Geschenk.",
+          "answer": "bedanken",
+          "en": "We thank you warmly for the present."
+        }
+      ],
+      "notes": "sich BEI jemandem FÜR etwas bedanken. A step more formal and complete than a plain 'Danke'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🙏",
+      "imageable": false,
+      "tags": [
+        "reflexive",
+        "akkusativ",
+        "social"
+      ],
+      "synonyms": [
+        "danken"
+      ],
+      "antonyms": [],
+      "related": [
+        "sich-entschuldigen",
+        "leidtun"
+      ]
+    },
+    {
+      "id": "sich-treffen",
+      "word": "sich treffen",
+      "lemma": "treffen",
+      "translation": "to meet",
+      "translations": [
+        "to meet",
+        "to meet up"
+      ],
+      "level": "A1",
+      "category": "Reflexive & Daily-Routine Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 205,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": true,
+      "cases": [
+        "akk"
+      ],
+      "forms": {
+        "ich": "treffe mich",
+        "du": "triffst dich",
+        "er": "trifft sich",
+        "wir": "treffen uns",
+        "ihr": "trefft euch",
+        "sie": "treffen sich",
+        "praeteritum": "traf sich",
+        "perfekt": "hat sich getroffen",
+        "imperativ": "triff dich!"
+      },
+      "example_sentences": [
+        {
+          "de": "Wir treffen uns um acht am Bahnhof.",
+          "en": "We're meeting at eight at the station."
+        },
+        {
+          "de": "Triffst du dich heute mit Anna?",
+          "en": "Are you meeting Anna today?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Sie ___ sich jeden Freitag im Café.",
+          "answer": "treffen",
+          "en": "They meet every Friday in the café."
+        }
+      ],
+      "notes": "Reciprocal: 'wir treffen uns' = we meet each other. sich treffen MIT + Dativ. Irregular: du triffst, er trifft.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "👥",
+      "imageable": false,
+      "tags": [
+        "reflexive",
+        "akkusativ",
+        "social"
+      ],
+      "synonyms": [
+        "sich verabreden"
+      ],
+      "antonyms": [],
+      "related": [
+        "sich-unterhalten",
+        "sich-anschauen"
+      ]
+    },
+    {
+      "id": "sich-unterhalten",
+      "word": "sich unterhalten",
+      "lemma": "unterhalten",
+      "translation": "to have a conversation",
+      "translations": [
+        "to have a conversation",
+        "to chat",
+        "to talk"
+      ],
+      "level": "A2",
+      "category": "Reflexive & Daily-Routine Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 590,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": true,
+      "cases": [
+        "akk"
+      ],
+      "forms": {
+        "ich": "unterhalte mich",
+        "du": "unterhältst dich",
+        "er": "unterhält sich",
+        "wir": "unterhalten uns",
+        "ihr": "unterhaltet euch",
+        "sie": "unterhalten sich",
+        "praeteritum": "unterhielt sich",
+        "perfekt": "hat sich unterhalten",
+        "imperativ": "unterhalte dich!"
+      },
+      "example_sentences": [
+        {
+          "de": "Wir haben uns lange unterhalten.",
+          "en": "We talked for a long time."
+        },
+        {
+          "de": "Er unterhält sich mit dem Vermieter.",
+          "en": "He is talking with the landlord."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Worüber ___ ihr euch?",
+          "answer": "unterhaltet",
+          "en": "What are you talking about?"
+        }
+      ],
+      "notes": "sich unterhalten MIT jemandem ÜBER etwas. Warmer than 'sprechen' - it means a real two-way chat. Irregular: du unterhältst, er unterhält.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "💬",
+      "imageable": false,
+      "tags": [
+        "reflexive",
+        "akkusativ",
+        "social",
+        "communication"
+      ],
+      "synonyms": [
+        "reden",
+        "sprechen"
+      ],
+      "antonyms": [],
+      "related": [
+        "sich-treffen",
+        "sich-streiten"
+      ]
+    },
+    {
+      "id": "sich-fuehlen",
+      "word": "sich fühlen",
+      "lemma": "fühlen",
+      "translation": "to feel",
+      "translations": [
+        "to feel"
+      ],
+      "level": "A1",
+      "category": "Reflexive & Daily-Routine Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 285,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": true,
+      "cases": [
+        "akk"
+      ],
+      "forms": {
+        "ich": "fühle mich",
+        "du": "fühlst dich",
+        "er": "fühlt sich",
+        "wir": "fühlen uns",
+        "ihr": "fühlt euch",
+        "sie": "fühlen sich",
+        "praeteritum": "fühlte sich",
+        "perfekt": "hat sich gefühlt",
+        "imperativ": "fühl dich!"
+      },
+      "example_sentences": [
+        {
+          "de": "Wie fühlst du dich heute?",
+          "en": "How do you feel today?"
+        },
+        {
+          "de": "Ich fühle mich nicht gut.",
+          "en": "I don't feel well."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Nach dem Urlaub ___ er sich viel besser.",
+          "answer": "fühlt",
+          "en": "After the holiday he feels much better."
+        }
+      ],
+      "notes": "Describing your own state always needs the pronoun: 'Ich fühle mich krank.' Never 'Ich fühle krank.'",
+      "mnemonic": null,
+      "germany_context": "At the doctor's you will be asked 'Wie fühlen Sie sich?' - a simple 'Ich fühle mich schwach/müde/krank' is enough.",
+      "emoji": "🌡️",
+      "imageable": false,
+      "tags": [
+        "reflexive",
+        "akkusativ",
+        "health",
+        "emotion",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "wehtun",
+        "fehlen",
+        "sich-erkaelten"
+      ]
+    },
+    {
+      "id": "sich-befinden",
+      "word": "sich befinden",
+      "lemma": "befinden",
+      "translation": "to be located",
+      "translations": [
+        "to be located",
+        "to be situated"
+      ],
+      "level": "A2",
+      "category": "Reflexive & Daily-Routine Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 850,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": true,
+      "cases": [
+        "akk"
+      ],
+      "forms": {
+        "ich": "befinde mich",
+        "du": "befindest dich",
+        "er": "befindet sich",
+        "wir": "befinden uns",
+        "ihr": "befindet euch",
+        "sie": "befinden sich",
+        "praeteritum": "befand sich",
+        "perfekt": "hat sich befunden",
+        "imperativ": "—"
+      },
+      "example_sentences": [
+        {
+          "de": "Das Rathaus befindet sich im Zentrum.",
+          "en": "The town hall is located in the centre."
+        },
+        {
+          "de": "Wir befinden uns gerade im Zug.",
+          "en": "We are on the train right now."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wo ___ sich der Ausgang?",
+          "answer": "befindet",
+          "en": "Where is the exit?"
+        }
+      ],
+      "notes": "Formal 'to be located'. In everyday speech people just say 'ist' or 'liegt'. Practically no imperative.",
+      "mnemonic": null,
+      "germany_context": "You will meet this verb constantly on official signs and letters: 'Das Bürgeramt befindet sich im 2. Stock.'",
+      "emoji": "📍",
+      "imageable": false,
+      "tags": [
+        "reflexive",
+        "akkusativ",
+        "place",
+        "formal"
+      ],
+      "synonyms": [
+        "liegen",
+        "sein"
+      ],
+      "antonyms": [],
+      "related": [
+        "sich-umschauen"
+      ]
+    },
+    {
+      "id": "sich-melden",
+      "word": "sich melden",
+      "lemma": "melden",
+      "translation": "to get in touch",
+      "translations": [
+        "to get in touch",
+        "to report",
+        "to answer"
+      ],
+      "level": "A1",
+      "category": "Reflexive & Daily-Routine Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 465,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": true,
+      "cases": [
+        "akk"
+      ],
+      "forms": {
+        "ich": "melde mich",
+        "du": "meldest dich",
+        "er": "meldet sich",
+        "wir": "melden uns",
+        "ihr": "meldet euch",
+        "sie": "melden sich",
+        "praeteritum": "meldete sich",
+        "perfekt": "hat sich gemeldet",
+        "imperativ": "meld dich!"
+      },
+      "example_sentences": [
+        {
+          "de": "Meld dich, wenn du angekommen bist.",
+          "en": "Get in touch when you've arrived."
+        },
+        {
+          "de": "Ich melde mich morgen bei dir.",
+          "en": "I'll get in touch with you tomorrow."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Er hat sich seit Wochen nicht ___.",
+          "answer": "gemeldet",
+          "en": "He hasn't been in touch for weeks."
+        }
+      ],
+      "notes": "'Meld dich!' = 'Stay in touch!' Also used for raising your hand in class and for answering the phone ('Niemand meldet sich').",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "📞",
+      "imageable": false,
+      "tags": [
+        "reflexive",
+        "akkusativ",
+        "communication"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "sich-anmelden",
+        "sich-krankmelden"
+      ]
+    },
+    {
+      "id": "sich-bewerben",
+      "word": "sich bewerben",
+      "lemma": "bewerben",
+      "translation": "to apply",
+      "translations": [
+        "to apply",
+        "to apply for a job"
+      ],
+      "level": "A2",
+      "category": "Reflexive & Daily-Routine Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 545,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": true,
+      "cases": [
+        "akk"
+      ],
+      "forms": {
+        "ich": "bewerbe mich",
+        "du": "bewirbst dich",
+        "er": "bewirbt sich",
+        "wir": "bewerben uns",
+        "ihr": "bewerbt euch",
+        "sie": "bewerben sich",
+        "praeteritum": "bewarb sich",
+        "perfekt": "hat sich beworben",
+        "imperativ": "bewirb dich!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich bewerbe mich um eine Stelle als Entwickler.",
+          "en": "I'm applying for a position as a developer."
+        },
+        {
+          "de": "Er hat sich bei drei Firmen beworben.",
+          "en": "He applied to three companies."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ dich einfach online!",
+          "answer": "Bewirb",
+          "en": "Just apply online!"
+        }
+      ],
+      "notes": "sich bewerben UM/AUF eine Stelle, BEI einer Firma. Irregular: du bewirbst, er bewirbt.",
+      "mnemonic": null,
+      "germany_context": "A German Bewerbung normally contains a Lebenslauf (CV with dates, often a photo), an Anschreiben (cover letter) and Arbeitszeugnisse - written references from every previous employer.",
+      "emoji": "📄",
+      "imageable": false,
+      "tags": [
+        "reflexive",
+        "akkusativ",
+        "work",
+        "bureaucracy"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "sich-vorstellen",
+        "sich-anmelden"
+      ]
+    },
+    {
+      "id": "sich-kuemmern",
+      "word": "sich kümmern um",
+      "lemma": "kümmern",
+      "translation": "to take care of",
+      "translations": [
+        "to take care of",
+        "to look after"
+      ],
+      "level": "A1",
+      "category": "Reflexive & Daily-Routine Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 490,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": true,
+      "cases": [
+        "akk"
+      ],
+      "forms": {
+        "ich": "kümmere mich",
+        "du": "kümmerst dich",
+        "er": "kümmert sich",
+        "wir": "kümmern uns",
+        "ihr": "kümmert euch",
+        "sie": "kümmern sich",
+        "praeteritum": "kümmerte sich",
+        "perfekt": "hat sich gekümmert",
+        "imperativ": "kümmere dich!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich kümmere mich um die Anmeldung.",
+          "en": "I'll take care of the registration."
+        },
+        {
+          "de": "Wer kümmert sich am Wochenende um den Hund?",
+          "en": "Who looks after the dog at the weekend?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Kannst du dich um die Post ___?",
+          "answer": "kümmern",
+          "en": "Can you take care of the post?"
+        }
+      ],
+      "notes": "Always sich kümmern UM + Akkusativ. 'Ich kümmere mich drum' is the everyday way to say 'I'll handle it'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🧑‍🔧",
+      "imageable": false,
+      "tags": [
+        "reflexive",
+        "akkusativ",
+        "responsibility"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "sich-entscheiden",
+        "sich-sorgen-machen"
+      ]
+    },
+    {
+      "id": "sich-entscheiden",
+      "word": "sich entscheiden",
+      "lemma": "entscheiden",
+      "translation": "to decide",
+      "translations": [
+        "to decide",
+        "to make up one's mind"
+      ],
+      "level": "A1",
+      "category": "Reflexive & Daily-Routine Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 445,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": true,
+      "cases": [
+        "akk"
+      ],
+      "forms": {
+        "ich": "entscheide mich",
+        "du": "entscheidest dich",
+        "er": "entscheidet sich",
+        "wir": "entscheiden uns",
+        "ihr": "entscheidet euch",
+        "sie": "entscheiden sich",
+        "praeteritum": "entschied sich",
+        "perfekt": "hat sich entschieden",
+        "imperativ": "entscheide dich!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich habe mich für die kleinere Wohnung entschieden.",
+          "en": "I decided on the smaller flat."
+        },
+        {
+          "de": "Entscheide dich bitte bis morgen.",
+          "en": "Please make up your mind by tomorrow."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wir ___ uns oft viel zu spät.",
+          "answer": "entscheiden",
+          "en": "We often decide far too late."
+        }
+      ],
+      "notes": "sich entscheiden FÜR/GEGEN + Akkusativ. Without the pronoun, 'entscheiden' means to decide a matter: 'Der Chef entscheidet das.'",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🤷",
+      "imageable": false,
+      "tags": [
+        "reflexive",
+        "akkusativ",
+        "mind"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "sich-kuemmern",
+        "sich-informieren"
+      ]
+    },
+    {
+      "id": "sich-gewoehnen",
+      "word": "sich gewöhnen an",
+      "lemma": "gewöhnen",
+      "translation": "to get used to",
+      "translations": [
+        "to get used to",
+        "to get accustomed to"
+      ],
+      "level": "A2",
+      "category": "Reflexive & Daily-Routine Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 770,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": true,
+      "cases": [
+        "akk"
+      ],
+      "forms": {
+        "ich": "gewöhne mich",
+        "du": "gewöhnst dich",
+        "er": "gewöhnt sich",
+        "wir": "gewöhnen uns",
+        "ihr": "gewöhnt euch",
+        "sie": "gewöhnen sich",
+        "praeteritum": "gewöhnte sich",
+        "perfekt": "hat sich gewöhnt",
+        "imperativ": "gewöhn dich!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich gewöhne mich langsam an das Wetter.",
+          "en": "I'm slowly getting used to the weather."
+        },
+        {
+          "de": "Man gewöhnt sich an alles.",
+          "en": "You get used to everything."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Hast du dich schon an die Arbeitszeiten ___?",
+          "answer": "gewöhnt",
+          "en": "Have you got used to the working hours yet?"
+        }
+      ],
+      "notes": "sich gewöhnen AN + Akkusativ. 'gewohnt sein' = to be used to something already.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🔁",
+      "imageable": false,
+      "tags": [
+        "reflexive",
+        "akkusativ",
+        "change"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "sich-merken",
+        "sich-ueberlegen"
+      ]
+    },
+    {
+      "id": "sich-verspaeten",
+      "word": "sich verspäten",
+      "lemma": "verspäten",
+      "translation": "to be late",
+      "translations": [
+        "to be late",
+        "to be delayed"
+      ],
+      "level": "A1",
+      "category": "Reflexive & Daily-Routine Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 610,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": true,
+      "cases": [
+        "akk"
+      ],
+      "forms": {
+        "ich": "verspäte mich",
+        "du": "verspätest dich",
+        "er": "verspätet sich",
+        "wir": "verspäten uns",
+        "ihr": "verspätet euch",
+        "sie": "verspäten sich",
+        "praeteritum": "verspätete sich",
+        "perfekt": "hat sich verspätet",
+        "imperativ": "verspäte dich nicht!"
+      },
+      "example_sentences": [
+        {
+          "de": "Der Zug verspätet sich um zehn Minuten.",
+          "en": "The train is ten minutes late."
+        },
+        {
+          "de": "Ich habe mich leider verspätet.",
+          "en": "Unfortunately I was late."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Entschuldigung, ich ___ mich heute etwas.",
+          "answer": "verspäte",
+          "en": "Sorry, I'm running a bit late today."
+        }
+      ],
+      "notes": "'Verspätung haben' is the more common noun version: 'Der Zug hat 20 Minuten Verspätung.'",
+      "mnemonic": "ver-SPÄT-en ~ 'spät' = late.",
+      "germany_context": "Punctuality is taken seriously. If you will be more than five minutes late for a Termin, call or write ahead - showing up late without notice is genuinely rude.",
+      "emoji": "⏰",
+      "imageable": false,
+      "tags": [
+        "reflexive",
+        "akkusativ",
+        "time",
+        "travel"
+      ],
+      "synonyms": [
+        "zu spät kommen"
+      ],
+      "antonyms": [
+        "pünktlich sein"
+      ],
+      "related": [
+        "sich-entschuldigen",
+        "sich-anstellen"
+      ]
+    },
+    {
+      "id": "fruehstuecken",
+      "word": "frühstücken",
+      "lemma": "frühstücken",
+      "translation": "to have breakfast",
+      "translations": [
+        "to have breakfast"
+      ],
+      "level": "A1",
+      "category": "Reflexive & Daily-Routine Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 415,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "frühstücke",
+        "du": "frühstückst",
+        "er": "frühstückt",
+        "wir": "frühstücken",
+        "ihr": "frühstückt",
+        "sie": "frühstücken",
+        "praeteritum": "frühstückte",
+        "perfekt": "hat gefrühstückt",
+        "imperativ": "frühstück!"
+      },
+      "example_sentences": [
+        {
+          "de": "Wir frühstücken am Wochenende sehr lange.",
+          "en": "We have a long breakfast at the weekend."
+        },
+        {
+          "de": "Ich frühstücke nur einen Kaffee.",
+          "en": "I only have a coffee for breakfast."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ du zu Hause oder im Büro?",
+          "answer": "Frühstückst",
+          "en": "Do you have breakfast at home or at the office?"
+        }
+      ],
+      "notes": "One word, not separable: 'Ich frühstücke', never 'Ich stücke früh'. The noun is 'das Frühstück'.",
+      "mnemonic": "FRÜH + STÜCK = an early piece (of food).",
+      "germany_context": "A classic German breakfast is fresh Brötchen from the Bäckerei with cheese, cold cuts, jam and a boiled egg. Bakeries are one of the few shops open on Sunday morning.",
+      "emoji": "🥐",
+      "imageable": false,
+      "tags": [
+        "daily-routine",
+        "food",
+        "morning"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "schmecken",
+        "sich-fertig-machen"
+      ]
+    },
+    {
+      "id": "sich-rasieren",
+      "word": "sich rasieren",
+      "lemma": "rasieren",
+      "translation": "to shave",
+      "translations": [
+        "to shave"
+      ],
+      "level": "A1",
+      "category": "Reflexive & Daily-Routine Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 800,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": true,
+      "cases": [
+        "akk"
+      ],
+      "forms": {
+        "ich": "rasiere mich",
+        "du": "rasierst dich",
+        "er": "rasiert sich",
+        "wir": "rasieren uns",
+        "ihr": "rasiert euch",
+        "sie": "rasieren sich",
+        "praeteritum": "rasierte sich",
+        "perfekt": "hat sich rasiert",
+        "imperativ": "rasier dich!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich rasiere mich jeden zweiten Tag.",
+          "en": "I shave every second day."
+        },
+        {
+          "de": "Er hat sich heute nicht rasiert.",
+          "en": "He didn't shave today."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ du dich vor der Arbeit?",
+          "answer": "Rasierst",
+          "en": "Do you shave before work?"
+        }
+      ],
+      "notes": "For a body part it switches to Dativ: 'Ich rasiere mir den Bart.'",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🪒",
+      "imageable": false,
+      "tags": [
+        "reflexive",
+        "akkusativ",
+        "daily-routine",
+        "hygiene"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "sich-duschen",
+        "sich-kaemmen"
+      ]
+    },
+    {
+      "id": "zaehne-putzen",
+      "word": "sich die Zähne putzen",
+      "lemma": "Zähne putzen",
+      "translation": "to brush one's teeth",
+      "translations": [
+        "to brush one's teeth"
+      ],
+      "level": "A1",
+      "category": "Reflexive & Daily-Routine Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 390,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": true,
+      "cases": [
+        "dat"
+      ],
+      "forms": {
+        "ich": "putze mir die Zähne",
+        "du": "putzt dir die Zähne",
+        "er": "putzt sich die Zähne",
+        "wir": "putzen uns die Zähne",
+        "ihr": "putzt euch die Zähne",
+        "sie": "putzen sich die Zähne",
+        "praeteritum": "putzte sich die Zähne",
+        "perfekt": "hat sich die Zähne geputzt",
+        "imperativ": "putz dir die Zähne!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich putze mir zweimal am Tag die Zähne.",
+          "en": "I brush my teeth twice a day."
+        },
+        {
+          "de": "Hast du dir schon die Zähne geputzt?",
+          "en": "Have you brushed your teeth yet?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Die Kinder ___ sich vor dem Schlafen die Zähne.",
+          "answer": "putzen",
+          "en": "The children brush their teeth before sleeping."
+        }
+      ],
+      "notes": "Body-part actions take a DATIV pronoun: mir, dir, sich. Never 'ich putze mich die Zähne'. The literal verb is 'putzen' = to clean.",
+      "mnemonic": null,
+      "germany_context": "Statutory health insurance pays for one check-up (Kontrolle) per year; getting it stamped in your Bonusheft lowers what you pay for future dental work.",
+      "emoji": "🪥",
+      "imageable": false,
+      "tags": [
+        "reflexive",
+        "dativ",
+        "daily-routine",
+        "hygiene"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "sich-waschen",
+        "sich-abtrocknen"
+      ]
+    },
+    {
+      "id": "sich-kaemmen",
+      "word": "sich kämmen",
+      "lemma": "kämmen",
+      "translation": "to comb one's hair",
+      "translations": [
+        "to comb one's hair"
+      ],
+      "level": "A1",
+      "category": "Reflexive & Daily-Routine Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 1050,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": true,
+      "cases": [
+        "akk"
+      ],
+      "forms": {
+        "ich": "kämme mich",
+        "du": "kämmst dich",
+        "er": "kämmt sich",
+        "wir": "kämmen uns",
+        "ihr": "kämmt euch",
+        "sie": "kämmen sich",
+        "praeteritum": "kämmte sich",
+        "perfekt": "hat sich gekämmt",
+        "imperativ": "kämm dich!"
+      },
+      "example_sentences": [
+        {
+          "de": "Sie kämmt sich vor dem Spiegel.",
+          "en": "She combs her hair in front of the mirror."
+        },
+        {
+          "de": "Ich habe mich noch nicht gekämmt.",
+          "en": "I haven't combed my hair yet."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ dich, bevor wir losgehen!",
+          "answer": "Kämm",
+          "en": "Comb your hair before we set off!"
+        }
+      ],
+      "notes": "With the body part it takes Dativ: 'Ich kämme mir die Haare.' The noun is 'der Kamm'.",
+      "mnemonic": "KÄMMen ~ 'Kamm' = comb.",
+      "germany_context": null,
+      "emoji": "💇",
+      "imageable": false,
+      "tags": [
+        "reflexive",
+        "akkusativ",
+        "daily-routine",
+        "hygiene"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "sich-rasieren",
+        "sich-waschen"
+      ]
+    },
+    {
+      "id": "ins-bett-gehen",
+      "word": "ins Bett gehen",
+      "lemma": "ins Bett gehen",
+      "translation": "to go to bed",
+      "translations": [
+        "to go to bed"
+      ],
+      "level": "A1",
+      "category": "Reflexive & Daily-Routine Verbs",
+      "partOfSpeech": "phrase",
+      "frequency": 340,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "sein",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "gehe ins Bett",
+        "du": "gehst ins Bett",
+        "er": "geht ins Bett",
+        "wir": "gehen ins Bett",
+        "ihr": "geht ins Bett",
+        "sie": "gehen ins Bett",
+        "praeteritum": "ging ins Bett",
+        "perfekt": "ist ins Bett gegangen",
+        "imperativ": "geh ins Bett!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich gehe heute früh ins Bett.",
+          "en": "I'm going to bed early today."
+        },
+        {
+          "de": "Wann gehst du normalerweise ins Bett?",
+          "en": "When do you normally go to bed?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Die Kinder ___ um acht ins Bett.",
+          "answer": "gehen",
+          "en": "The children go to bed at eight."
+        }
+      ],
+      "notes": "'ins' = in + das, and it takes the Akkusativ because it is movement into the bed. 'im Bett' (Dativ) = already in bed.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🛌",
+      "imageable": false,
+      "tags": [
+        "daily-routine",
+        "evening"
+      ],
+      "synonyms": [
+        "schlafen gehen"
+      ],
+      "antonyms": [
+        "aufstehen"
+      ],
+      "related": [
+        "sich-hinlegen",
+        "sich-ausruhen",
+        "sich-fertig-machen"
+      ]
+    },
+    {
+      "id": "sich-anmelden",
+      "word": "sich anmelden",
+      "lemma": "anmelden",
+      "translation": "to register",
+      "translations": [
+        "to register",
+        "to sign up"
+      ],
+      "level": "A1",
+      "category": "Reflexive & Daily-Routine Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 195,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "haben",
+      "reflexive": true,
+      "cases": [
+        "akk"
+      ],
+      "forms": {
+        "ich": "melde mich an",
+        "du": "meldest dich an",
+        "er": "meldet sich an",
+        "wir": "melden uns an",
+        "ihr": "meldet euch an",
+        "sie": "melden sich an",
+        "praeteritum": "meldete sich an",
+        "perfekt": "hat sich angemeldet",
+        "imperativ": "meld dich an!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich muss mich beim Bürgeramt anmelden.",
+          "en": "I have to register at the citizens' office."
+        },
+        {
+          "de": "Hast du dich schon für den Kurs angemeldet?",
+          "en": "Have you registered for the course yet?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wir ___ uns online für den Deutschkurs an.",
+          "answer": "melden",
+          "en": "We register online for the German course."
+        }
+      ],
+      "notes": "Separable: an|melden. sich anmelden BEI einer Behörde, FÜR einen Kurs.",
+      "mnemonic": null,
+      "germany_context": "After moving into a German flat you must do the Anmeldung at the Bürgeramt, in most cities within 14 days. Bring your passport and the Wohnungsgeberbestätigung from your landlord. Without it there is no Steuer-ID, no bank account and no mobile contract.",
+      "emoji": "🏛️",
+      "imageable": false,
+      "tags": [
+        "reflexive",
+        "akkusativ",
+        "bureaucracy",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "sich abmelden"
+      ],
+      "related": [
+        "sich-abmelden",
+        "sich-melden",
+        "sich-bewerben"
+      ]
+    },
+    {
+      "id": "sich-abmelden",
+      "word": "sich abmelden",
+      "lemma": "abmelden",
+      "translation": "to deregister",
+      "translations": [
+        "to deregister",
+        "to cancel a registration"
+      ],
+      "level": "A2",
+      "category": "Reflexive & Daily-Routine Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 690,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "haben",
+      "reflexive": true,
+      "cases": [
+        "akk"
+      ],
+      "forms": {
+        "ich": "melde mich ab",
+        "du": "meldest dich ab",
+        "er": "meldet sich ab",
+        "wir": "melden uns ab",
+        "ihr": "meldet euch ab",
+        "sie": "melden sich ab",
+        "praeteritum": "meldete sich ab",
+        "perfekt": "hat sich abgemeldet",
+        "imperativ": "meld dich ab!"
+      },
+      "example_sentences": [
+        {
+          "de": "Vor dem Umzug ins Ausland muss man sich abmelden.",
+          "en": "Before moving abroad you have to deregister."
+        },
+        {
+          "de": "Ich habe mich im Fitnessstudio abgemeldet.",
+          "en": "I cancelled my gym membership."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ dich rechtzeitig ab, sonst zahlst du weiter.",
+          "answer": "Meld",
+          "en": "Deregister in time, otherwise you keep paying."
+        }
+      ],
+      "notes": "The opposite of 'sich anmelden'. Separable: ab|melden.",
+      "mnemonic": null,
+      "germany_context": "When you leave Germany for good you do the Abmeldung at the Bürgeramt. The Abmeldebestätigung is what stops the Rundfunkbeitrag and is needed to close accounts and claim tax back.",
+      "emoji": "📤",
+      "imageable": false,
+      "tags": [
+        "reflexive",
+        "akkusativ",
+        "bureaucracy"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "sich anmelden"
+      ],
+      "related": [
+        "sich-anmelden"
+      ]
+    },
+    {
+      "id": "sich-krankmelden",
+      "word": "sich krankmelden",
+      "lemma": "krankmelden",
+      "translation": "to call in sick",
+      "translations": [
+        "to call in sick"
+      ],
+      "level": "A2",
+      "category": "Reflexive & Daily-Routine Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 655,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "haben",
+      "reflexive": true,
+      "cases": [
+        "akk"
+      ],
+      "forms": {
+        "ich": "melde mich krank",
+        "du": "meldest dich krank",
+        "er": "meldet sich krank",
+        "wir": "melden uns krank",
+        "ihr": "meldet euch krank",
+        "sie": "melden sich krank",
+        "praeteritum": "meldete sich krank",
+        "perfekt": "hat sich krankgemeldet",
+        "imperativ": "meld dich krank!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich melde mich heute krank.",
+          "en": "I'm calling in sick today."
+        },
+        {
+          "de": "Er hat sich telefonisch krankgemeldet.",
+          "en": "He called in sick by phone."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wenn du Fieber hast, ___ dich krank.",
+          "answer": "meld",
+          "en": "If you have a fever, call in sick."
+        }
+      ],
+      "notes": "Separable: krank|melden. The related noun is 'die Krankmeldung'.",
+      "mnemonic": null,
+      "germany_context": "Tell your employer before your shift starts, ideally by phone. From the fourth sick day you need an AU (Arbeitsunfähigkeitsbescheinigung) from a doctor - many contracts demand it from day one, so check yours.",
+      "emoji": "🤒",
+      "imageable": false,
+      "tags": [
+        "reflexive",
+        "akkusativ",
+        "work",
+        "health",
+        "bureaucracy"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "sich-melden",
+        "sich-erkaelten",
+        "wehtun"
+      ]
+    },
+    {
+      "id": "sich-beschweren",
+      "word": "sich beschweren",
+      "lemma": "beschweren",
+      "translation": "to complain",
+      "translations": [
+        "to complain",
+        "to make a complaint"
+      ],
+      "level": "A2",
+      "category": "Reflexive & Daily-Routine Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 790,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": true,
+      "cases": [
+        "akk"
+      ],
+      "forms": {
+        "ich": "beschwere mich",
+        "du": "beschwerst dich",
+        "er": "beschwert sich",
+        "wir": "beschweren uns",
+        "ihr": "beschwert euch",
+        "sie": "beschweren sich",
+        "praeteritum": "beschwerte sich",
+        "perfekt": "hat sich beschwert",
+        "imperativ": "beschwer dich!"
+      },
+      "example_sentences": [
+        {
+          "de": "Der Nachbar hat sich über den Lärm beschwert.",
+          "en": "The neighbour complained about the noise."
+        },
+        {
+          "de": "Ich möchte mich beim Vermieter beschweren.",
+          "en": "I would like to complain to the landlord."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Warum ___ ihr euch eigentlich immer?",
+          "answer": "beschwert",
+          "en": "Why do you actually always complain?"
+        }
+      ],
+      "notes": "sich beschweren BEI jemandem ÜBER etwas. Stronger and more formal than 'sich ärgern'.",
+      "mnemonic": null,
+      "germany_context": "German buildings have Ruhezeiten - normally 22:00 to 06:00 plus all day Sunday and on holidays. Drilling, loud music or running the washing machine then is the classic reason neighbours complain or call the Hausmeister.",
+      "emoji": "😤",
+      "imageable": false,
+      "tags": [
+        "reflexive",
+        "akkusativ",
+        "housing",
+        "conflict"
+      ],
+      "synonyms": [
+        "reklamieren"
+      ],
+      "antonyms": [],
+      "related": [
+        "sich-aergern",
+        "sich-streiten"
+      ]
+    },
+    {
+      "id": "sich-vorbereiten",
+      "word": "sich vorbereiten auf",
+      "lemma": "vorbereiten",
+      "translation": "to prepare",
+      "translations": [
+        "to prepare",
+        "to get ready"
+      ],
+      "level": "A2",
+      "category": "Reflexive & Daily-Routine Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 735,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "haben",
+      "reflexive": true,
+      "cases": [
+        "akk"
+      ],
+      "forms": {
+        "ich": "bereite mich vor",
+        "du": "bereitest dich vor",
+        "er": "bereitet sich vor",
+        "wir": "bereiten uns vor",
+        "ihr": "bereitet euch vor",
+        "sie": "bereiten sich vor",
+        "praeteritum": "bereitete sich vor",
+        "perfekt": "hat sich vorbereitet",
+        "imperativ": "bereite dich vor!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich bereite mich auf das Vorstellungsgespräch vor.",
+          "en": "I'm preparing for the job interview."
+        },
+        {
+          "de": "Wir haben uns gut auf die Prüfung vorbereitet.",
+          "en": "We prepared well for the exam."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ dich gut auf den Termin vor!",
+          "answer": "Bereite",
+          "en": "Prepare well for the appointment!"
+        }
+      ],
+      "notes": "Separable: vor|bereiten. sich vorbereiten AUF + Akkusativ.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "📚",
+      "imageable": false,
+      "tags": [
+        "reflexive",
+        "akkusativ",
+        "work",
+        "study"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "sich-bewerben",
+        "sich-informieren"
+      ]
+    },
+    {
+      "id": "sich-informieren",
+      "word": "sich informieren über",
+      "lemma": "informieren",
+      "translation": "to find out about",
+      "translations": [
+        "to find out about",
+        "to inform oneself"
+      ],
+      "level": "A2",
+      "category": "Reflexive & Daily-Routine Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 760,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": true,
+      "cases": [
+        "akk"
+      ],
+      "forms": {
+        "ich": "informiere mich",
+        "du": "informierst dich",
+        "er": "informiert sich",
+        "wir": "informieren uns",
+        "ihr": "informiert euch",
+        "sie": "informieren sich",
+        "praeteritum": "informierte sich",
+        "perfekt": "hat sich informiert",
+        "imperativ": "informier dich!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich informiere mich über die Krankenversicherung.",
+          "en": "I'm finding out about health insurance."
+        },
+        {
+          "de": "Informieren Sie sich bitte vorher im Internet.",
+          "en": "Please inform yourself online beforehand."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Er hat sich über die Preise ___.",
+          "answer": "informiert",
+          "en": "He found out about the prices."
+        }
+      ],
+      "notes": "sich informieren ÜBER + Akkusativ. Common on German websites and official letters.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🔎",
+      "imageable": false,
+      "tags": [
+        "reflexive",
+        "akkusativ",
+        "bureaucracy",
+        "learning"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "sich-interessieren",
+        "sich-entscheiden"
+      ]
+    },
+    {
+      "id": "sich-ausruhen",
+      "word": "sich ausruhen",
+      "lemma": "ausruhen",
+      "translation": "to rest",
+      "translations": [
+        "to rest",
+        "to have a rest"
+      ],
+      "level": "A2",
+      "category": "Reflexive & Daily-Routine Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 715,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "haben",
+      "reflexive": true,
+      "cases": [
+        "akk"
+      ],
+      "forms": {
+        "ich": "ruhe mich aus",
+        "du": "ruhst dich aus",
+        "er": "ruht sich aus",
+        "wir": "ruhen uns aus",
+        "ihr": "ruht euch aus",
+        "sie": "ruhen sich aus",
+        "praeteritum": "ruhte sich aus",
+        "perfekt": "hat sich ausgeruht",
+        "imperativ": "ruh dich aus!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich ruhe mich kurz aus.",
+          "en": "I'm resting for a moment."
+        },
+        {
+          "de": "Nach der Arbeit ruht er sich eine Stunde aus.",
+          "en": "After work he rests for an hour."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ dich ein bisschen aus!",
+          "answer": "Ruh",
+          "en": "Get some rest!"
+        }
+      ],
+      "notes": "Separable: aus|ruhen. 'ausgeruht sein' = to be well rested.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🛋️",
+      "imageable": false,
+      "tags": [
+        "reflexive",
+        "akkusativ",
+        "daily-routine",
+        "health"
+      ],
+      "synonyms": [
+        "sich erholen"
+      ],
+      "antonyms": [],
+      "related": [
+        "sich-erholen",
+        "sich-hinlegen"
+      ]
+    },
+    {
+      "id": "sich-umziehen",
+      "word": "sich umziehen",
+      "lemma": "umziehen",
+      "translation": "to change clothes",
+      "translations": [
+        "to change clothes",
+        "to get changed"
+      ],
+      "level": "A1",
+      "category": "Reflexive & Daily-Routine Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 650,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "haben",
+      "reflexive": true,
+      "cases": [
+        "akk"
+      ],
+      "forms": {
+        "ich": "ziehe mich um",
+        "du": "ziehst dich um",
+        "er": "zieht sich um",
+        "wir": "ziehen uns um",
+        "ihr": "zieht euch um",
+        "sie": "ziehen sich um",
+        "praeteritum": "zog sich um",
+        "perfekt": "hat sich umgezogen",
+        "imperativ": "zieh dich um!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich ziehe mich schnell um.",
+          "en": "I'll quickly get changed."
+        },
+        {
+          "de": "Nach dem Sport zieht sie sich um.",
+          "en": "After sport she changes her clothes."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Musst du dich vorher noch ___?",
+          "answer": "umziehen",
+          "en": "Do you still have to get changed first?"
+        }
+      ],
+      "notes": "Reflexive = to change clothes, with HABEN. Without the pronoun 'umziehen' means to move house and takes SEIN: 'Wir sind nach München umgezogen.'",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "👖",
+      "imageable": false,
+      "tags": [
+        "reflexive",
+        "akkusativ",
+        "daily-routine",
+        "clothes"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "sich-anziehen",
+        "sich-ausziehen"
+      ]
+    },
+    {
+      "id": "sich-ausziehen",
+      "word": "sich ausziehen",
+      "lemma": "ausziehen",
+      "translation": "to undress",
+      "translations": [
+        "to undress",
+        "to take off"
+      ],
+      "level": "A1",
+      "category": "Reflexive & Daily-Routine Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 700,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "haben",
+      "reflexive": true,
+      "cases": [
+        "akk"
+      ],
+      "forms": {
+        "ich": "ziehe mich aus",
+        "du": "ziehst dich aus",
+        "er": "zieht sich aus",
+        "wir": "ziehen uns aus",
+        "ihr": "zieht euch aus",
+        "sie": "ziehen sich aus",
+        "praeteritum": "zog sich aus",
+        "perfekt": "hat sich ausgezogen",
+        "imperativ": "zieh dich aus!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich ziehe mich aus und gehe duschen.",
+          "en": "I'll get undressed and take a shower."
+        },
+        {
+          "de": "Das Kind zieht sich schon allein aus.",
+          "en": "The child already undresses on its own."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Er hat sich schnell ___.",
+          "answer": "ausgezogen",
+          "en": "He got undressed quickly."
+        }
+      ],
+      "notes": "Separable: aus|ziehen. Without the pronoun it also means to move out of a flat, with SEIN: 'Wir sind letzte Woche ausgezogen.'",
+      "mnemonic": null,
+      "germany_context": "In German homes you normally take your shoes off at the door. Asking 'Soll ich die Schuhe ausziehen?' when you arrive is polite and expected.",
+      "emoji": "🧦",
+      "imageable": false,
+      "tags": [
+        "reflexive",
+        "akkusativ",
+        "daily-routine",
+        "clothes",
+        "housing"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "sich anziehen"
+      ],
+      "related": [
+        "sich-anziehen",
+        "sich-umziehen"
+      ]
+    },
+    {
+      "id": "sich-verabschieden",
+      "word": "sich verabschieden",
+      "lemma": "verabschieden",
+      "translation": "to say goodbye",
+      "translations": [
+        "to say goodbye",
+        "to take one's leave"
+      ],
+      "level": "A2",
+      "category": "Reflexive & Daily-Routine Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 860,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": true,
+      "cases": [
+        "akk"
+      ],
+      "forms": {
+        "ich": "verabschiede mich",
+        "du": "verabschiedest dich",
+        "er": "verabschiedet sich",
+        "wir": "verabschieden uns",
+        "ihr": "verabschiedet euch",
+        "sie": "verabschieden sich",
+        "praeteritum": "verabschiedete sich",
+        "perfekt": "hat sich verabschiedet",
+        "imperativ": "verabschiede dich!"
+      },
+      "example_sentences": [
+        {
+          "de": "Er hat sich von allen verabschiedet.",
+          "en": "He said goodbye to everyone."
+        },
+        {
+          "de": "Wir verabschieden uns jetzt.",
+          "en": "We're saying goodbye now."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Vergiss nicht, dich vom Chef zu ___.",
+          "answer": "verabschieden",
+          "en": "Don't forget to say goodbye to the boss."
+        }
+      ],
+      "notes": "sich verabschieden VON + Dativ. Leaving a German party without saying goodbye to the host is noticed.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "👋",
+      "imageable": false,
+      "tags": [
+        "reflexive",
+        "akkusativ",
+        "social"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "begrüßen"
+      ],
+      "related": [
+        "sich-vorstellen",
+        "sich-bedanken"
+      ]
+    },
+    {
+      "id": "sich-streiten",
+      "word": "sich streiten",
+      "lemma": "streiten",
+      "translation": "to argue",
+      "translations": [
+        "to argue",
+        "to quarrel"
+      ],
+      "level": "A2",
+      "category": "Reflexive & Daily-Routine Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 830,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": true,
+      "cases": [
+        "akk"
+      ],
+      "forms": {
+        "ich": "streite mich",
+        "du": "streitest dich",
+        "er": "streitet sich",
+        "wir": "streiten uns",
+        "ihr": "streitet euch",
+        "sie": "streiten sich",
+        "praeteritum": "stritt sich",
+        "perfekt": "hat sich gestritten",
+        "imperativ": "streit dich nicht!"
+      },
+      "example_sentences": [
+        {
+          "de": "Die Nachbarn streiten sich oft.",
+          "en": "The neighbours argue often."
+        },
+        {
+          "de": "Wir haben uns wegen der Miete gestritten.",
+          "en": "We argued about the rent."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ euch bitte nicht wegen so etwas!",
+          "answer": "Streitet",
+          "en": "Please don't argue about something like that!"
+        }
+      ],
+      "notes": "Reciprocal: 'wir streiten uns' = we argue with each other. sich streiten MIT jemandem ÜBER/WEGEN etwas. Irregular past: stritt.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🗣️",
+      "imageable": false,
+      "tags": [
+        "reflexive",
+        "akkusativ",
+        "conflict"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "sich vertragen"
+      ],
+      "related": [
+        "sich-beschweren",
+        "sich-aergern"
+      ]
+    },
+    {
+      "id": "sich-konzentrieren",
+      "word": "sich konzentrieren auf",
+      "lemma": "konzentrieren",
+      "translation": "to concentrate",
+      "translations": [
+        "to concentrate",
+        "to focus"
+      ],
+      "level": "A2",
+      "category": "Reflexive & Daily-Routine Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 855,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": true,
+      "cases": [
+        "akk"
+      ],
+      "forms": {
+        "ich": "konzentriere mich",
+        "du": "konzentrierst dich",
+        "er": "konzentriert sich",
+        "wir": "konzentrieren uns",
+        "ihr": "konzentriert euch",
+        "sie": "konzentrieren sich",
+        "praeteritum": "konzentrierte sich",
+        "perfekt": "hat sich konzentriert",
+        "imperativ": "konzentrier dich!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich kann mich hier nicht konzentrieren.",
+          "en": "I can't concentrate here."
+        },
+        {
+          "de": "Konzentrier dich bitte auf die Arbeit.",
+          "en": "Please focus on the work."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Im Großraumbüro ___ er sich schlecht.",
+          "answer": "konzentriert",
+          "en": "He concentrates badly in the open-plan office."
+        }
+      ],
+      "notes": "sich konzentrieren AUF + Akkusativ.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🎯",
+      "imageable": false,
+      "tags": [
+        "reflexive",
+        "akkusativ",
+        "work",
+        "mind"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "sich-vorbereiten",
+        "sich-ueberlegen"
+      ]
+    },
+    {
+      "id": "sich-erkaelten",
+      "word": "sich erkälten",
+      "lemma": "erkälten",
+      "translation": "to catch a cold",
+      "translations": [
+        "to catch a cold"
+      ],
+      "level": "A2",
+      "category": "Reflexive & Daily-Routine Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 920,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": true,
+      "cases": [
+        "akk"
+      ],
+      "forms": {
+        "ich": "erkälte mich",
+        "du": "erkältest dich",
+        "er": "erkältet sich",
+        "wir": "erkälten uns",
+        "ihr": "erkältet euch",
+        "sie": "erkälten sich",
+        "praeteritum": "erkältete sich",
+        "perfekt": "hat sich erkältet",
+        "imperativ": "erkälte dich nicht!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich habe mich im Zug erkältet.",
+          "en": "I caught a cold on the train."
+        },
+        {
+          "de": "Zieh eine Jacke an, sonst erkältest du dich.",
+          "en": "Put on a jacket, otherwise you'll catch a cold."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Im Winter ___ man sich hier schnell.",
+          "answer": "erkältet",
+          "en": "In winter you catch a cold quickly here."
+        }
+      ],
+      "notes": "From 'kalt'. 'erkältet sein' = to have a cold; 'die Erkältung' = the cold.",
+      "mnemonic": "er-KÄLT-en ~ 'kalt' = cold.",
+      "germany_context": "For a cold you go to a Hausarzt, not to a hospital. Pharmacies close on Sundays except for the rotating Notdienst posted on every Apotheke door.",
+      "emoji": "🤧",
+      "imageable": false,
+      "tags": [
+        "reflexive",
+        "akkusativ",
+        "health"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "sich-krankmelden",
+        "wehtun",
+        "sich-fuehlen"
+      ]
+    },
+    {
+      "id": "sich-leisten",
+      "word": "sich leisten",
+      "lemma": "leisten",
+      "translation": "to afford",
+      "translations": [
+        "to afford"
+      ],
+      "level": "A2",
+      "category": "Reflexive & Daily-Routine Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 970,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": true,
+      "cases": [
+        "dat"
+      ],
+      "forms": {
+        "ich": "leiste mir",
+        "du": "leistest dir",
+        "er": "leistet sich",
+        "wir": "leisten uns",
+        "ihr": "leistet euch",
+        "sie": "leisten sich",
+        "praeteritum": "leistete sich",
+        "perfekt": "hat sich geleistet",
+        "imperativ": "leiste dir!"
+      },
+      "example_sentences": [
+        {
+          "de": "Diese Wohnung kann ich mir nicht leisten.",
+          "en": "I can't afford this flat."
+        },
+        {
+          "de": "Wir leisten uns einmal im Jahr einen Urlaub.",
+          "en": "We treat ourselves to a holiday once a year."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Kannst du dir das neue Auto ___?",
+          "answer": "leisten",
+          "en": "Can you afford the new car?"
+        }
+      ],
+      "notes": "DATIV reflexive: mir, dir, sich. Almost always with 'können': 'Das kann ich mir nicht leisten.'",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "💶",
+      "imageable": false,
+      "tags": [
+        "reflexive",
+        "dativ",
+        "money"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "passen",
+        "sich-lohnen"
+      ]
+    },
+    {
+      "id": "duzen",
+      "word": "duzen",
+      "lemma": "duzen",
+      "translation": "to use 'du' with someone",
+      "translations": [
+        "to use 'du' with someone",
+        "to be on first-name terms"
+      ],
+      "level": "A1",
+      "category": "Reflexive & Daily-Routine Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 880,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "duze",
+        "du": "duzt",
+        "er": "duzt",
+        "wir": "duzen",
+        "ihr": "duzt",
+        "sie": "duzen",
+        "praeteritum": "duzte",
+        "perfekt": "hat geduzt",
+        "imperativ": "duz mich!"
+      },
+      "example_sentences": [
+        {
+          "de": "Wir duzen uns hier alle.",
+          "en": "We all use 'du' with each other here."
+        },
+        {
+          "de": "Darf ich dich duzen?",
+          "en": "May I call you 'du'?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Im Team ___ sich alle.",
+          "answer": "duzen",
+          "en": "Everyone in the team is on 'du' terms."
+        }
+      ],
+      "notes": "Reciprocal use is normal: 'Wir duzen uns.' The offer is 'Wollen wir uns duzen?'",
+      "mnemonic": "DU + -zen = to 'du' someone.",
+      "germany_context": "In most German tech companies colleagues duzen each other from day one. With officials, landlords, doctors and shop staff you stay with 'Sie' until the older or higher-ranking person offers the 'du'.",
+      "emoji": "🫱",
+      "imageable": false,
+      "tags": [
+        "social",
+        "culture"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "siezen"
+      ],
+      "related": [
+        "siezen",
+        "sich-vorstellen"
+      ]
+    },
+    {
+      "id": "siezen",
+      "word": "siezen",
+      "lemma": "siezen",
+      "translation": "to use 'Sie' with someone",
+      "translations": [
+        "to use 'Sie' with someone",
+        "to address formally"
+      ],
+      "level": "A1",
+      "category": "Reflexive & Daily-Routine Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 940,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "sieze",
+        "du": "siezt",
+        "er": "siezt",
+        "wir": "siezen",
+        "ihr": "siezt",
+        "sie": "siezen",
+        "praeteritum": "siezte",
+        "perfekt": "hat gesiezt",
+        "imperativ": "siez mich!"
+      },
+      "example_sentences": [
+        {
+          "de": "Man siezt den Vermieter normalerweise.",
+          "en": "You normally use 'Sie' with the landlord."
+        },
+        {
+          "de": "Bitte siezen Sie mich weiterhin.",
+          "en": "Please keep addressing me with 'Sie'."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Auf dem Amt ___ man sich immer.",
+          "answer": "siezt",
+          "en": "At the public office people always use 'Sie'."
+        }
+      ],
+      "notes": "'Sie' is always capitalised. Default to it with anyone you do not know.",
+      "mnemonic": "SIE + -zen = to 'Sie' someone.",
+      "germany_context": "Using 'du' too early with an official, a doctor or an older neighbour reads as disrespectful. Wait for 'Wir können uns gerne duzen.'",
+      "emoji": "🎩",
+      "imageable": false,
+      "tags": [
+        "social",
+        "culture"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "duzen"
+      ],
+      "related": [
+        "duzen",
+        "sich-vorstellen"
+      ]
+    },
+    {
+      "id": "passen",
+      "word": "passen",
+      "lemma": "passen",
+      "translation": "to fit",
+      "translations": [
+        "to fit",
+        "to suit",
+        "to be convenient"
+      ],
+      "level": "A1",
+      "category": "Reflexive & Daily-Routine Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 380,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [
+        "dat"
+      ],
+      "forms": {
+        "ich": "passe",
+        "du": "passt",
+        "er": "passt",
+        "wir": "passen",
+        "ihr": "passt",
+        "sie": "passen",
+        "praeteritum": "passte",
+        "perfekt": "hat gepasst",
+        "imperativ": "—"
+      },
+      "example_sentences": [
+        {
+          "de": "Die Hose passt mir nicht.",
+          "en": "The trousers don't fit me."
+        },
+        {
+          "de": "Passt Ihnen Dienstag um zehn Uhr?",
+          "en": "Does Tuesday at ten o'clock suit you?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Termin ___ mir leider nicht.",
+          "answer": "passt",
+          "en": "Unfortunately the appointment doesn't suit me."
+        }
+      ],
+      "notes": "DATIV. Two meanings: clothes that fit, and times that are convenient. 'passen zu' = to go well with something. No real imperative.",
+      "mnemonic": null,
+      "germany_context": "Almost everything in Germany runs on Termine. 'Passt Ihnen der Termin?' is what you will hear on the phone at the Bürgeramt, the doctor's and the Werkstatt.",
+      "emoji": "👗",
+      "imageable": false,
+      "tags": [
+        "dativ-verb",
+        "clothes",
+        "time"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "schmecken",
+        "sich-lohnen"
+      ]
+    },
+    {
+      "id": "schmecken",
+      "word": "schmecken",
+      "lemma": "schmecken",
+      "translation": "to taste",
+      "translations": [
+        "to taste",
+        "to taste good"
+      ],
+      "level": "A1",
+      "category": "Reflexive & Daily-Routine Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 300,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [
+        "dat"
+      ],
+      "forms": {
+        "ich": "schmecke",
+        "du": "schmeckst",
+        "er": "schmeckt",
+        "wir": "schmecken",
+        "ihr": "schmeckt",
+        "sie": "schmecken",
+        "praeteritum": "schmeckte",
+        "perfekt": "hat geschmeckt",
+        "imperativ": "—"
+      },
+      "example_sentences": [
+        {
+          "de": "Das Essen schmeckt mir sehr gut.",
+          "en": "The food tastes very good to me."
+        },
+        {
+          "de": "Wie schmeckt dir der Kaffee?",
+          "en": "How do you like the coffee?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Die Suppe ___ uns leider nicht.",
+          "answer": "schmeckt",
+          "en": "Unfortunately we don't like the soup."
+        }
+      ],
+      "notes": "DATIV, built like gefallen: the food is the subject. No real imperative form is used.",
+      "mnemonic": null,
+      "germany_context": "'Hat's geschmeckt?' is what waiters ask when they clear your plate. 'Ja, sehr gut, danke' is the expected answer.",
+      "emoji": "😋",
+      "imageable": false,
+      "tags": [
+        "dativ-verb",
+        "food"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "fruehstuecken",
+        "passen"
+      ]
+    },
+    {
+      "id": "wehtun",
+      "word": "wehtun",
+      "lemma": "wehtun",
+      "translation": "to hurt",
+      "translations": [
+        "to hurt",
+        "to be painful"
+      ],
+      "level": "A1",
+      "category": "Reflexive & Daily-Routine Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 575,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [
+        "dat"
+      ],
+      "forms": {
+        "ich": "tue weh",
+        "du": "tust weh",
+        "er": "tut weh",
+        "wir": "tun weh",
+        "ihr": "tut weh",
+        "sie": "tun weh",
+        "praeteritum": "tat weh",
+        "perfekt": "hat wehgetan",
+        "imperativ": "—"
+      },
+      "example_sentences": [
+        {
+          "de": "Mein Rücken tut mir weh.",
+          "en": "My back hurts."
+        },
+        {
+          "de": "Tut dir der Kopf weh?",
+          "en": "Does your head hurt?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Die Füße ___ mir nach dem Umzug weh.",
+          "answer": "tun",
+          "en": "My feet hurt after the move."
+        }
+      ],
+      "notes": "Separable (weh|tun) and DATIV: the body part is the subject, the person is in the Dativ. Written as one word in the infinitive.",
+      "mnemonic": null,
+      "germany_context": "At the doctor's you describe pain this way: 'Mir tut der Hals weh.' You will also be asked 'Seit wann tut es weh?'",
+      "emoji": "🤕",
+      "imageable": false,
+      "tags": [
+        "dativ-verb",
+        "health",
+        "body"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "sich-fuehlen",
+        "sich-erkaelten",
+        "leidtun"
+      ]
+    },
+    {
+      "id": "leidtun",
+      "word": "leidtun",
+      "lemma": "leidtun",
+      "translation": "to be sorry",
+      "translations": [
+        "to be sorry"
+      ],
+      "level": "A0",
+      "category": "Reflexive & Daily-Routine Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 95,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [
+        "dat"
+      ],
+      "forms": {
+        "ich": "tue leid",
+        "du": "tust leid",
+        "er": "tut leid",
+        "wir": "tun leid",
+        "ihr": "tut leid",
+        "sie": "tun leid",
+        "praeteritum": "tat leid",
+        "perfekt": "hat leidgetan",
+        "imperativ": "—"
+      },
+      "example_sentences": [
+        {
+          "de": "Es tut mir leid.",
+          "en": "I'm sorry."
+        },
+        {
+          "de": "Der Fehler tut ihm sehr leid.",
+          "en": "He is very sorry about the mistake."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Das ___ uns wirklich leid.",
+          "answer": "tut",
+          "en": "We are really sorry about that."
+        }
+      ],
+      "notes": "Lives almost only in the phrase 'Es tut mir leid'. DATIV: mir, dir, ihm, uns. Written as one word in the infinitive since the spelling reform.",
+      "mnemonic": null,
+      "germany_context": "'Es tut mir leid' is an apology; 'Entschuldigung' is also used to get attention. Mixing them up sounds odd - use 'Entschuldigung, ...' to open a question.",
+      "emoji": "😔",
+      "imageable": false,
+      "tags": [
+        "dativ-verb",
+        "social",
+        "essential",
+        "survival"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "sich-entschuldigen",
+        "wehtun"
+      ]
+    },
+    {
+      "id": "fehlen",
+      "word": "fehlen",
+      "lemma": "fehlen",
+      "translation": "to be missing",
+      "translations": [
+        "to be missing",
+        "to miss",
+        "to be absent"
+      ],
+      "level": "A1",
+      "category": "Reflexive & Daily-Routine Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 460,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [
+        "dat"
+      ],
+      "forms": {
+        "ich": "fehle",
+        "du": "fehlst",
+        "er": "fehlt",
+        "wir": "fehlen",
+        "ihr": "fehlt",
+        "sie": "fehlen",
+        "praeteritum": "fehlte",
+        "perfekt": "hat gefehlt",
+        "imperativ": "—"
+      },
+      "example_sentences": [
+        {
+          "de": "Du fehlst mir sehr.",
+          "en": "I miss you a lot."
+        },
+        {
+          "de": "Mir fehlt noch ein Dokument.",
+          "en": "I'm still missing one document."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Was ___ dir denn?",
+          "answer": "fehlt",
+          "en": "What's wrong with you?"
+        }
+      ],
+      "notes": "DATIV and reversed from English: 'Du fehlst mir' = 'I miss you'. 'Was fehlt Ihnen?' is what a doctor asks to mean 'What's the problem?'",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "❓",
+      "imageable": false,
+      "tags": [
+        "dativ-verb",
+        "health",
+        "emotion"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "wehtun",
+        "sich-fuehlen"
+      ]
+    },
+    {
+      "id": "sich-sorgen-machen",
+      "word": "sich Sorgen machen",
+      "lemma": "Sorgen machen",
+      "translation": "to worry",
+      "translations": [
+        "to worry",
+        "to be worried"
+      ],
+      "level": "A2",
+      "category": "Reflexive & Daily-Routine Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 705,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": true,
+      "cases": [
+        "dat"
+      ],
+      "forms": {
+        "ich": "mache mir Sorgen",
+        "du": "machst dir Sorgen",
+        "er": "macht sich Sorgen",
+        "wir": "machen uns Sorgen",
+        "ihr": "macht euch Sorgen",
+        "sie": "machen sich Sorgen",
+        "praeteritum": "machte sich Sorgen",
+        "perfekt": "hat sich Sorgen gemacht",
+        "imperativ": "mach dir keine Sorgen!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich mache mir Sorgen um meinen Vater.",
+          "en": "I'm worried about my father."
+        },
+        {
+          "de": "Mach dir keine Sorgen, das wird schon.",
+          "en": "Don't worry, it'll be fine."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Meine Eltern ___ sich immer Sorgen.",
+          "answer": "machen",
+          "en": "My parents always worry."
+        }
+      ],
+      "notes": "DATIV pronoun: mir, dir, sich. 'Mach dir keine Sorgen!' is the everyday 'Don't worry!' The preposition is 'um' + Akkusativ.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "😟",
+      "imageable": false,
+      "tags": [
+        "reflexive",
+        "dativ",
+        "emotion"
+      ],
+      "synonyms": [
+        "sich Gedanken machen"
+      ],
+      "antonyms": [
+        "sich beruhigen"
+      ],
+      "related": [
+        "sich-beruhigen",
+        "sich-aufregen"
+      ]
+    },
+    {
+      "id": "sich-ueberlegen",
+      "word": "sich überlegen",
+      "lemma": "überlegen",
+      "translation": "to think over",
+      "translations": [
+        "to think over",
+        "to consider"
+      ],
+      "level": "A2",
+      "category": "Reflexive & Daily-Routine Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 745,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": true,
+      "cases": [
+        "dat"
+      ],
+      "forms": {
+        "ich": "überlege mir",
+        "du": "überlegst dir",
+        "er": "überlegt sich",
+        "wir": "überlegen uns",
+        "ihr": "überlegt euch",
+        "sie": "überlegen sich",
+        "praeteritum": "überlegte sich",
+        "perfekt": "hat sich überlegt",
+        "imperativ": "überleg dir!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich überlege mir das noch mal.",
+          "en": "I'll think it over again."
+        },
+        {
+          "de": "Überleg dir das gut!",
+          "en": "Think it over carefully!"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wir haben uns eine bessere Lösung ___.",
+          "answer": "überlegt",
+          "en": "We came up with a better solution."
+        }
+      ],
+      "notes": "DATIV reflexive: 'sich etwas überlegen' = to think something over. 'Ich überlege es mir' is the polite way to not answer yet.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "💭",
+      "imageable": false,
+      "tags": [
+        "reflexive",
+        "dativ",
+        "mind"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "sich-entscheiden",
+        "sich-merken"
+      ]
+    },
+    {
+      "id": "sich-merken",
+      "word": "sich merken",
+      "lemma": "merken",
+      "translation": "to memorise",
+      "translations": [
+        "to memorise",
+        "to remember"
+      ],
+      "level": "A2",
+      "category": "Reflexive & Daily-Routine Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 685,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": true,
+      "cases": [
+        "dat"
+      ],
+      "forms": {
+        "ich": "merke mir",
+        "du": "merkst dir",
+        "er": "merkt sich",
+        "wir": "merken uns",
+        "ihr": "merkt euch",
+        "sie": "merken sich",
+        "praeteritum": "merkte sich",
+        "perfekt": "hat sich gemerkt",
+        "imperativ": "merk dir!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich kann mir keine Namen merken.",
+          "en": "I can't remember names."
+        },
+        {
+          "de": "Merk dir bitte die Hausnummer.",
+          "en": "Please memorise the house number."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Hast du dir die Adresse ___?",
+          "answer": "gemerkt",
+          "en": "Have you memorised the address?"
+        }
+      ],
+      "notes": "DATIV reflexive = to commit something to memory. Without the pronoun 'merken' means to notice: 'Ich merke, dass du müde bist.'",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🧠",
+      "imageable": false,
+      "tags": [
+        "reflexive",
+        "dativ",
+        "mind"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "sich-ueberlegen",
+        "sich-konzentrieren"
+      ]
+    },
+    {
+      "id": "sich-wuenschen",
+      "word": "sich wünschen",
+      "lemma": "wünschen",
+      "translation": "to wish for",
+      "translations": [
+        "to wish for",
+        "to want"
+      ],
+      "level": "A1",
+      "category": "Reflexive & Daily-Routine Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 560,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": true,
+      "cases": [
+        "dat"
+      ],
+      "forms": {
+        "ich": "wünsche mir",
+        "du": "wünschst dir",
+        "er": "wünscht sich",
+        "wir": "wünschen uns",
+        "ihr": "wünscht euch",
+        "sie": "wünschen sich",
+        "praeteritum": "wünschte sich",
+        "perfekt": "hat sich gewünscht",
+        "imperativ": "wünsch dir!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich wünsche mir ein neues Fahrrad.",
+          "en": "I want a new bike."
+        },
+        {
+          "de": "Was wünschst du dir zum Geburtstag?",
+          "en": "What do you want for your birthday?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Die Kinder ___ sich einen Hund.",
+          "answer": "wünschen",
+          "en": "The children want a dog."
+        }
+      ],
+      "notes": "DATIV reflexive. Without the pronoun it means to wish somebody something: 'Ich wünsche dir alles Gute.'",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🎁",
+      "imageable": false,
+      "tags": [
+        "reflexive",
+        "dativ",
+        "wishes"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "sich-freuen",
+        "sich-leisten"
+      ]
+    },
+    {
+      "id": "sich-anschauen",
+      "word": "sich anschauen",
+      "lemma": "anschauen",
+      "translation": "to have a look at",
+      "translations": [
+        "to have a look at",
+        "to view"
+      ],
+      "level": "A2",
+      "category": "Reflexive & Daily-Routine Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 720,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "haben",
+      "reflexive": true,
+      "cases": [
+        "dat"
+      ],
+      "forms": {
+        "ich": "schaue mir an",
+        "du": "schaust dir an",
+        "er": "schaut sich an",
+        "wir": "schauen uns an",
+        "ihr": "schaut euch an",
+        "sie": "schauen sich an",
+        "praeteritum": "schaute sich an",
+        "perfekt": "hat sich angeschaut",
+        "imperativ": "schau dir an!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich schaue mir morgen eine Wohnung an.",
+          "en": "I'm viewing a flat tomorrow."
+        },
+        {
+          "de": "Schau dir mal die Preise an!",
+          "en": "Just look at these prices!"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wir haben uns die ganze Stadt ___.",
+          "answer": "angeschaut",
+          "en": "We had a look at the whole city."
+        }
+      ],
+      "notes": "Separable (an|schauen) + DATIV pronoun. 'sich etwas ansehen' means exactly the same and is more common in the north.",
+      "mnemonic": null,
+      "germany_context": "Flat hunting means going to a Besichtigung, where you 'schaust dir die Wohnung an' - often together with twenty other applicants. Bring your Schufa and payslips.",
+      "emoji": "👀",
+      "imageable": false,
+      "tags": [
+        "reflexive",
+        "dativ",
+        "housing"
+      ],
+      "synonyms": [
+        "sich ansehen"
+      ],
+      "antonyms": [],
+      "related": [
+        "sich-umschauen",
+        "sich-informieren"
+      ]
+    },
+    {
+      "id": "sich-zeit-nehmen",
+      "word": "sich Zeit nehmen",
+      "lemma": "Zeit nehmen",
+      "translation": "to take one's time",
+      "translations": [
+        "to take one's time",
+        "to make time"
+      ],
+      "level": "A2",
+      "category": "Reflexive & Daily-Routine Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 810,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": true,
+      "cases": [
+        "dat"
+      ],
+      "forms": {
+        "ich": "nehme mir Zeit",
+        "du": "nimmst dir Zeit",
+        "er": "nimmt sich Zeit",
+        "wir": "nehmen uns Zeit",
+        "ihr": "nehmt euch Zeit",
+        "sie": "nehmen sich Zeit",
+        "praeteritum": "nahm sich Zeit",
+        "perfekt": "hat sich Zeit genommen",
+        "imperativ": "nimm dir Zeit!"
+      },
+      "example_sentences": [
+        {
+          "de": "Nimm dir Zeit für das Formular.",
+          "en": "Take your time with the form."
+        },
+        {
+          "de": "Ich nehme mir am Wochenende Zeit für dich.",
+          "en": "I'll make time for you at the weekend."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Er ___ sich nie Zeit zum Essen.",
+          "answer": "nimmt",
+          "en": "He never takes time to eat."
+        }
+      ],
+      "notes": "DATIV. Irregular stem: du nimmst dir, er nimmt sich. Compare 'sich Zeit lassen' = to take it slow.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "⏳",
+      "imageable": false,
+      "tags": [
+        "reflexive",
+        "dativ",
+        "time"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "sich-beruhigen",
+        "sich-entspannen"
+      ]
+    },
+    {
+      "id": "sich-lohnen",
+      "word": "sich lohnen",
+      "lemma": "lohnen",
+      "translation": "to be worth it",
+      "translations": [
+        "to be worth it",
+        "to pay off"
+      ],
+      "level": "A2",
+      "category": "Reflexive & Daily-Routine Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 825,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": true,
+      "cases": [
+        "akk"
+      ],
+      "forms": {
+        "ich": "lohne mich",
+        "du": "lohnst dich",
+        "er": "lohnt sich",
+        "wir": "lohnen uns",
+        "ihr": "lohnt euch",
+        "sie": "lohnen sich",
+        "praeteritum": "lohnte sich",
+        "perfekt": "hat sich gelohnt",
+        "imperativ": "—"
+      },
+      "example_sentences": [
+        {
+          "de": "Das lohnt sich wirklich.",
+          "en": "That's really worth it."
+        },
+        {
+          "de": "Der Umzug hat sich gelohnt.",
+          "en": "The move paid off."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ sich das Ticket für einen Tag?",
+          "answer": "Lohnt",
+          "en": "Is the ticket worth it for one day?"
+        }
+      ],
+      "notes": "Used almost only in the 3rd person: 'Es lohnt sich.' = 'It's worth it.' No imperative.",
+      "mnemonic": null,
+      "germany_context": "'Lohnt sich das?' is the standard question about a BahnCard or a Jahresticket for public transport - both are discount cards that pay off only if you travel regularly, so do the maths first.",
+      "emoji": "💰",
+      "imageable": false,
+      "tags": [
+        "reflexive",
+        "akkusativ",
+        "money",
+        "decisions"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "sich-leisten",
+        "passen"
+      ]
+    },
+    {
+      "id": "sich-umschauen",
+      "word": "sich umschauen",
+      "lemma": "umschauen",
+      "translation": "to look around",
+      "translations": [
+        "to look around",
+        "to browse"
+      ],
+      "level": "A2",
+      "category": "Reflexive & Daily-Routine Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 905,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "haben",
+      "reflexive": true,
+      "cases": [
+        "akk"
+      ],
+      "forms": {
+        "ich": "schaue mich um",
+        "du": "schaust dich um",
+        "er": "schaut sich um",
+        "wir": "schauen uns um",
+        "ihr": "schaut euch um",
+        "sie": "schauen sich um",
+        "praeteritum": "schaute sich um",
+        "perfekt": "hat sich umgeschaut",
+        "imperativ": "schau dich um!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich schaue mich nur um, danke.",
+          "en": "I'm just browsing, thanks."
+        },
+        {
+          "de": "Schau dich in Ruhe um.",
+          "en": "Take your time and look around."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wir ___ uns nach einer größeren Wohnung um.",
+          "answer": "schauen",
+          "en": "We're looking around for a bigger flat."
+        }
+      ],
+      "notes": "Separable: um|schauen, with an AKKUSATIV pronoun. 'sich umsehen' is identical in meaning.",
+      "mnemonic": null,
+      "germany_context": "Shop staff will greet you with 'Kann ich Ihnen helfen?' - 'Danke, ich schaue mich nur um' is the standard polite way to say you are just browsing.",
+      "emoji": "🛍️",
+      "imageable": false,
+      "tags": [
+        "reflexive",
+        "akkusativ",
+        "shopping"
+      ],
+      "synonyms": [
+        "sich umsehen"
+      ],
+      "antonyms": [],
+      "related": [
+        "sich-anschauen",
+        "sich-informieren"
+      ]
+    },
+    {
+      "id": "sich-anstellen",
+      "word": "sich anstellen",
+      "lemma": "anstellen",
+      "translation": "to queue up",
+      "translations": [
+        "to queue up",
+        "to line up"
+      ],
+      "level": "A2",
+      "category": "Reflexive & Daily-Routine Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 935,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "haben",
+      "reflexive": true,
+      "cases": [
+        "akk"
+      ],
+      "forms": {
+        "ich": "stelle mich an",
+        "du": "stellst dich an",
+        "er": "stellt sich an",
+        "wir": "stellen uns an",
+        "ihr": "stellt euch an",
+        "sie": "stellen sich an",
+        "praeteritum": "stellte sich an",
+        "perfekt": "hat sich angestellt",
+        "imperativ": "stell dich an!"
+      },
+      "example_sentences": [
+        {
+          "de": "Wir müssen uns an der Kasse anstellen.",
+          "en": "We have to queue at the checkout."
+        },
+        {
+          "de": "Stell dich bitte hinten an.",
+          "en": "Please join the back of the queue."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Alle ___ sich vor dem Amt an.",
+          "answer": "stellen",
+          "en": "Everyone queues up in front of the office."
+        }
+      ],
+      "notes": "Separable: an|stellen. Colloquially 'Stell dich nicht so an!' means 'Don't make such a fuss!'",
+      "mnemonic": null,
+      "germany_context": "At the Bürgeramt you normally do not queue - you book a Termin online, sometimes weeks ahead. Queues happen at the supermarket checkout and the Bäckerei, and pushing in gets called out immediately.",
+      "emoji": "🚶",
+      "imageable": false,
+      "tags": [
+        "reflexive",
+        "akkusativ",
+        "everyday",
+        "bureaucracy"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "passen",
+        "sich-anmelden"
+      ]
+    },
+    {
+      "id": "sich-hinlegen",
+      "word": "sich hinlegen",
+      "lemma": "hinlegen",
+      "translation": "to lie down",
+      "translations": [
+        "to lie down",
+        "to have a lie-down"
+      ],
+      "level": "A1",
+      "category": "Reflexive & Daily-Routine Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 655,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "haben",
+      "reflexive": true,
+      "cases": [
+        "akk"
+      ],
+      "forms": {
+        "ich": "lege mich hin",
+        "du": "legst dich hin",
+        "er": "legt sich hin",
+        "wir": "legen uns hin",
+        "ihr": "legt euch hin",
+        "sie": "legen sich hin",
+        "praeteritum": "legte sich hin",
+        "perfekt": "hat sich hingelegt",
+        "imperativ": "leg dich hin!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich lege mich kurz hin.",
+          "en": "I'm going to lie down for a bit."
+        },
+        {
+          "de": "Leg dich hin, du siehst müde aus.",
+          "en": "Lie down, you look tired."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Nach dem Essen ___ er sich immer hin.",
+          "answer": "legt",
+          "en": "After eating he always lies down."
+        }
+      ],
+      "notes": "Separable: hin|legen. 'liegen' = to be lying somewhere; 'sich hinlegen' = the act of lying down.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🛌",
+      "imageable": false,
+      "tags": [
+        "reflexive",
+        "akkusativ",
+        "daily-routine",
+        "rest"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "aufstehen"
+      ],
+      "related": [
+        "sich-ausruhen",
+        "ins-bett-gehen"
+      ]
+    },
+    {
+      "id": "sich-wohlfuehlen",
+      "word": "sich wohlfühlen",
+      "lemma": "wohlfühlen",
+      "translation": "to feel comfortable",
+      "translations": [
+        "to feel comfortable",
+        "to feel at home"
+      ],
+      "level": "A2",
+      "category": "Reflexive & Daily-Routine Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 755,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "haben",
+      "reflexive": true,
+      "cases": [
+        "akk"
+      ],
+      "forms": {
+        "ich": "fühle mich wohl",
+        "du": "fühlst dich wohl",
+        "er": "fühlt sich wohl",
+        "wir": "fühlen uns wohl",
+        "ihr": "fühlt euch wohl",
+        "sie": "fühlen sich wohl",
+        "praeteritum": "fühlte sich wohl",
+        "perfekt": "hat sich wohlgefühlt",
+        "imperativ": "fühl dich wohl!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich fühle mich hier sehr wohl.",
+          "en": "I feel very comfortable here."
+        },
+        {
+          "de": "Fühlst du dich in der neuen Stadt wohl?",
+          "en": "Do you feel at home in the new city?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Im neuen Büro ___ er sich nicht wohl.",
+          "answer": "fühlt",
+          "en": "He doesn't feel comfortable in the new office."
+        }
+      ],
+      "notes": "Separable: wohl|fühlen. Careful: 'Ich fühle mich nicht wohl' can mean both 'I feel uneasy' and 'I feel unwell'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🏡",
+      "imageable": false,
+      "tags": [
+        "reflexive",
+        "akkusativ",
+        "emotion",
+        "health"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "sich-fuehlen",
+        "sich-gewoehnen"
+      ]
+    },
+    {
+      "id": "sich-verlaufen",
+      "word": "sich verlaufen",
+      "lemma": "verlaufen",
+      "translation": "to get lost",
+      "translations": [
+        "to get lost",
+        "to lose one's way"
+      ],
+      "level": "A2",
+      "category": "Reflexive & Daily-Routine Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 955,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": true,
+      "cases": [
+        "akk"
+      ],
+      "forms": {
+        "ich": "verlaufe mich",
+        "du": "verläufst dich",
+        "er": "verläuft sich",
+        "wir": "verlaufen uns",
+        "ihr": "verlauft euch",
+        "sie": "verlaufen sich",
+        "praeteritum": "verlief sich",
+        "perfekt": "hat sich verlaufen",
+        "imperativ": "verlauf dich nicht!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich habe mich in der Altstadt verlaufen.",
+          "en": "I got lost in the old town."
+        },
+        {
+          "de": "Verlauf dich nicht im Wald!",
+          "en": "Don't get lost in the forest!"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wir ___ uns in großen Städten oft.",
+          "answer": "verlaufen",
+          "en": "We often get lost in big cities."
+        }
+      ],
+      "notes": "Getting lost ON FOOT. In a car it is 'sich verfahren'. Irregular: du verläufst dich, er verläuft sich.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🗺️",
+      "imageable": false,
+      "tags": [
+        "reflexive",
+        "akkusativ",
+        "travel",
+        "city"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "sich-befinden",
+        "sich-umschauen"
+      ]
+    },
+    {
+      "id": "sich-verletzen",
+      "word": "sich verletzen",
+      "lemma": "verletzen",
+      "translation": "to injure oneself",
+      "translations": [
+        "to injure oneself",
+        "to get hurt"
+      ],
+      "level": "A2",
+      "category": "Reflexive & Daily-Routine Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 975,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": true,
+      "cases": [
+        "akk"
+      ],
+      "forms": {
+        "ich": "verletze mich",
+        "du": "verletzt dich",
+        "er": "verletzt sich",
+        "wir": "verletzen uns",
+        "ihr": "verletzt euch",
+        "sie": "verletzen sich",
+        "praeteritum": "verletzte sich",
+        "perfekt": "hat sich verletzt",
+        "imperativ": "verletz dich nicht!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich habe mich beim Sport verletzt.",
+          "en": "I injured myself doing sport."
+        },
+        {
+          "de": "Er hat sich am Finger verletzt.",
+          "en": "He hurt his finger."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Pass auf, dass du dich nicht ___!",
+          "answer": "verletzt",
+          "en": "Be careful not to hurt yourself!"
+        }
+      ],
+      "notes": "'verletzt sein' = to be injured. The noun is 'die Verletzung'.",
+      "mnemonic": null,
+      "germany_context": "An accident at work or on the way to work is an Arbeitsunfall. Report it to your employer and go to a Durchgangsarzt (D-Arzt), not to your normal Hausarzt - the accident insurance pays.",
+      "emoji": "🩹",
+      "imageable": false,
+      "tags": [
+        "reflexive",
+        "akkusativ",
+        "health",
+        "work"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "wehtun",
+        "sich-krankmelden"
+      ]
+    },
+    {
+      "id": "sich-anschnallen",
+      "word": "sich anschnallen",
+      "lemma": "anschnallen",
+      "translation": "to fasten one's seatbelt",
+      "translations": [
+        "to fasten one's seatbelt",
+        "to buckle up"
+      ],
+      "level": "A2",
+      "category": "Reflexive & Daily-Routine Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 1095,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "haben",
+      "reflexive": true,
+      "cases": [
+        "akk"
+      ],
+      "forms": {
+        "ich": "schnalle mich an",
+        "du": "schnallst dich an",
+        "er": "schnallt sich an",
+        "wir": "schnallen uns an",
+        "ihr": "schnallt euch an",
+        "sie": "schnallen sich an",
+        "praeteritum": "schnallte sich an",
+        "perfekt": "hat sich angeschnallt",
+        "imperativ": "schnall dich an!"
+      },
+      "example_sentences": [
+        {
+          "de": "Bitte schnallen Sie sich an.",
+          "en": "Please fasten your seatbelt."
+        },
+        {
+          "de": "Ich schnalle mich immer sofort an.",
+          "en": "I always buckle up straight away."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Die Kinder ___ sich hinten an.",
+          "answer": "schnallen",
+          "en": "The children buckle up in the back."
+        }
+      ],
+      "notes": "Separable: an|schnallen. From 'die Schnalle' = buckle.",
+      "mnemonic": null,
+      "germany_context": "Seat belts are compulsory in every seat in Germany, front and back, and driving without one is a fine that is genuinely enforced.",
+      "emoji": "🚗",
+      "imageable": false,
+      "tags": [
+        "reflexive",
+        "akkusativ",
+        "travel",
+        "safety"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "sich-fertig-machen"
+      ]
+    },
+    {
+      "id": "sich-abtrocknen",
+      "word": "sich abtrocknen",
+      "lemma": "abtrocknen",
+      "translation": "to dry oneself",
+      "translations": [
+        "to dry oneself",
+        "to towel off"
+      ],
+      "level": "A2",
+      "category": "Reflexive & Daily-Routine Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 1140,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "haben",
+      "reflexive": true,
+      "cases": [
+        "akk"
+      ],
+      "forms": {
+        "ich": "trockne mich ab",
+        "du": "trocknest dich ab",
+        "er": "trocknet sich ab",
+        "wir": "trocknen uns ab",
+        "ihr": "trocknet euch ab",
+        "sie": "trocknen sich ab",
+        "praeteritum": "trocknete sich ab",
+        "perfekt": "hat sich abgetrocknet",
+        "imperativ": "trockne dich ab!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich trockne mich nach dem Duschen ab.",
+          "en": "I dry myself after showering."
+        },
+        {
+          "de": "Das Kind trocknet sich schon allein ab.",
+          "en": "The child already dries itself off."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Trockne ___ bitte die Hände ab!",
+          "answer": "dir",
+          "en": "Please dry your hands!"
+        }
+      ],
+      "notes": "Separable: ab|trocknen. AKKUSATIV for the whole body, DATIV when a body part follows: 'Ich trockne mir die Haare ab.'",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🧺",
+      "imageable": false,
+      "tags": [
+        "reflexive",
+        "akkusativ",
+        "daily-routine",
+        "hygiene"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "sich-duschen",
+        "sich-waschen"
+      ]
+    },
+    {
+      "id": "sich-schminken",
+      "word": "sich schminken",
+      "lemma": "schminken",
+      "translation": "to put on make-up",
+      "translations": [
+        "to put on make-up"
+      ],
+      "level": "A2",
+      "category": "Reflexive & Daily-Routine Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 1230,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": true,
+      "cases": [
+        "akk"
+      ],
+      "forms": {
+        "ich": "schminke mich",
+        "du": "schminkst dich",
+        "er": "schminkt sich",
+        "wir": "schminken uns",
+        "ihr": "schminkt euch",
+        "sie": "schminken sich",
+        "praeteritum": "schminkte sich",
+        "perfekt": "hat sich geschminkt",
+        "imperativ": "schmink dich!"
+      },
+      "example_sentences": [
+        {
+          "de": "Sie schminkt sich jeden Morgen.",
+          "en": "She puts on make-up every morning."
+        },
+        {
+          "de": "Ich habe mich heute nicht geschminkt.",
+          "en": "I didn't put on make-up today."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ du dich für die Party?",
+          "answer": "Schminkst",
+          "en": "Are you doing your make-up for the party?"
+        }
+      ],
+      "notes": "'die Schminke' = make-up. For a body part it switches to Dativ: 'Sie schminkt sich die Augen.'",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "💄",
+      "imageable": false,
+      "tags": [
+        "reflexive",
+        "akkusativ",
+        "daily-routine",
+        "hygiene"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "sich-kaemmen",
+        "sich-fertig-machen"
+      ]
+    },
+    {
+      "id": "sich-wundern",
+      "word": "sich wundern",
+      "lemma": "wundern",
+      "translation": "to be surprised",
+      "translations": [
+        "to be surprised",
+        "to wonder"
+      ],
+      "level": "A2",
+      "category": "Reflexive & Daily-Routine Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 1075,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": true,
+      "cases": [
+        "akk"
+      ],
+      "forms": {
+        "ich": "wundere mich",
+        "du": "wunderst dich",
+        "er": "wundert sich",
+        "wir": "wundern uns",
+        "ihr": "wundert euch",
+        "sie": "wundern sich",
+        "praeteritum": "wunderte sich",
+        "perfekt": "hat sich gewundert",
+        "imperativ": "wundere dich nicht!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich wundere mich über die hohen Nebenkosten.",
+          "en": "I'm surprised at the high additional costs."
+        },
+        {
+          "de": "Wundere dich nicht, sonntags ist hier alles zu.",
+          "en": "Don't be surprised, everything is closed here on Sundays."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Er ___ sich über die vielen Formulare.",
+          "answer": "wundert",
+          "en": "He is surprised at all the forms."
+        }
+      ],
+      "notes": "sich wundern ÜBER + Akkusativ. You can also say it without the reflexive: 'Es wundert mich, dass ...'",
+      "mnemonic": null,
+      "germany_context": "Nebenkosten - heating, water, rubbish, Hausmeister - are billed on top of the Kaltmiete and settled once a year. The annual Nachzahlung is the classic newcomer surprise, so budget for it.",
+      "emoji": "😲",
+      "imageable": false,
+      "tags": [
+        "reflexive",
+        "akkusativ",
+        "emotion",
+        "housing"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "sich-aergern",
+        "sich-beschweren"
+      ]
+    },
+    {
+      "id": "sich-fertig-machen",
+      "word": "sich fertig machen",
+      "lemma": "fertig machen",
+      "translation": "to get ready",
+      "translations": [
+        "to get ready"
+      ],
+      "level": "A1",
+      "category": "Reflexive & Daily-Routine Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 640,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": true,
+      "cases": [
+        "akk"
+      ],
+      "forms": {
+        "ich": "mache mich fertig",
+        "du": "machst dich fertig",
+        "er": "macht sich fertig",
+        "wir": "machen uns fertig",
+        "ihr": "macht euch fertig",
+        "sie": "machen sich fertig",
+        "praeteritum": "machte sich fertig",
+        "perfekt": "hat sich fertig gemacht",
+        "imperativ": "mach dich fertig!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich mache mich schnell fertig.",
+          "en": "I'll get ready quickly."
+        },
+        {
+          "de": "Mach dich fertig, wir gehen gleich.",
+          "en": "Get ready, we're leaving in a minute."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Sie ___ sich gerade für die Arbeit fertig.",
+          "answer": "macht",
+          "en": "She is getting ready for work right now."
+        }
+      ],
+      "notes": "'sich fertig machen' (two words) = to get ready. Written as one word, 'jemanden fertigmachen' means to wear somebody down - very different.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🚪",
+      "imageable": false,
+      "tags": [
+        "reflexive",
+        "akkusativ",
+        "daily-routine",
+        "morning"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "sich-anziehen",
+        "sich-duschen"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,5093 @@
+{
+  "category": "Numbers, Time & Dates",
+  "words": [
+    {
+      "id": "null",
+      "word": "null",
+      "lemma": "null",
+      "translation": "zero",
+      "translations": [
+        "zero",
+        "nil"
+      ],
+      "level": "A1",
+      "category": "Numbers, Time & Dates",
+      "partOfSpeech": "numeral",
+      "frequency": 620,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Das Spiel steht zwei zu null.",
+          "en": "The game is two to nil."
+        },
+        {
+          "de": "Mein Handy hat null Prozent Akku.",
+          "en": "My phone has zero percent battery."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Draußen sind es heute ___ Grad.",
+          "answer": "null",
+          "en": "It's zero degrees outside today."
+        }
+      ],
+      "notes": "Als Nomen: die Null (die Ziffer 0). Im Sport sagt man 'zwei zu null'.",
+      "mnemonic": "null ~ englisch 'null/nil'.",
+      "germany_context": null,
+      "emoji": "0️⃣",
+      "imageable": false,
+      "tags": [
+        "numbers",
+        "zahlen"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "eins"
+      ]
+    },
+    {
+      "id": "eins",
+      "word": "eins",
+      "lemma": "eins",
+      "translation": "one",
+      "translations": [
+        "one"
+      ],
+      "level": "A0",
+      "category": "Numbers, Time & Dates",
+      "partOfSpeech": "numeral",
+      "frequency": 30,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich zähle: eins, zwei, drei.",
+          "en": "I'm counting: one, two, three."
+        },
+        {
+          "de": "Es ist eins.",
+          "en": "It's one o'clock."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Nehmen Sie zwei? Nein, nur ___.",
+          "answer": "eins",
+          "en": "Are you taking two? No, only one."
+        }
+      ],
+      "notes": "Vor einem Nomen wird 'eins' zu 'ein/eine': ein Bier, eine Stunde. Allein (zählen, Uhrzeit) sagt man 'eins'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "1️⃣",
+      "imageable": false,
+      "tags": [
+        "numbers",
+        "zahlen"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "erste",
+        "zwei"
+      ]
+    },
+    {
+      "id": "zwei",
+      "word": "zwei",
+      "lemma": "zwei",
+      "translation": "two",
+      "translations": [
+        "two"
+      ],
+      "level": "A0",
+      "category": "Numbers, Time & Dates",
+      "partOfSpeech": "numeral",
+      "frequency": 31,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich hätte gern zwei Brötchen, bitte.",
+          "en": "I'd like two rolls, please."
+        },
+        {
+          "de": "Wir bleiben zwei Wochen in Berlin.",
+          "en": "We're staying two weeks in Berlin."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Termin ist um ___ Uhr.",
+          "answer": "zwei",
+          "en": "The appointment is at two o'clock."
+        }
+      ],
+      "notes": "Am Telefon sagt man oft 'zwo' statt 'zwei', damit man es nicht mit 'drei' verwechselt.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "2️⃣",
+      "imageable": false,
+      "tags": [
+        "numbers",
+        "zahlen"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "zweite"
+      ]
+    },
+    {
+      "id": "drei",
+      "word": "drei",
+      "lemma": "drei",
+      "translation": "three",
+      "translations": [
+        "three"
+      ],
+      "level": "A0",
+      "category": "Numbers, Time & Dates",
+      "partOfSpeech": "numeral",
+      "frequency": 32,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich habe drei Geschwister.",
+          "en": "I have three siblings."
+        },
+        {
+          "de": "Der Kaffee kostet drei Euro.",
+          "en": "The coffee costs three euros."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Das Meeting dauert ___ Stunden.",
+          "answer": "drei",
+          "en": "The meeting lasts three hours."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "3️⃣",
+      "imageable": false,
+      "tags": [
+        "numbers",
+        "zahlen"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "dritte"
+      ]
+    },
+    {
+      "id": "vier",
+      "word": "vier",
+      "lemma": "vier",
+      "translation": "four",
+      "translations": [
+        "four"
+      ],
+      "level": "A0",
+      "category": "Numbers, Time & Dates",
+      "partOfSpeech": "numeral",
+      "frequency": 33,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Meine Wohnung hat vier Zimmer.",
+          "en": "My flat has four rooms."
+        },
+        {
+          "de": "Wir treffen uns um vier.",
+          "en": "We're meeting at four."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich brauche ___ Kartoffeln für die Suppe.",
+          "answer": "vier",
+          "en": "I need four potatoes for the soup."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "4️⃣",
+      "imageable": false,
+      "tags": [
+        "numbers",
+        "zahlen"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "vierte"
+      ]
+    },
+    {
+      "id": "fuenf",
+      "word": "fünf",
+      "lemma": "fünf",
+      "translation": "five",
+      "translations": [
+        "five"
+      ],
+      "level": "A0",
+      "category": "Numbers, Time & Dates",
+      "partOfSpeech": "numeral",
+      "frequency": 34,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Bus kommt in fünf Minuten.",
+          "en": "The bus is coming in five minutes."
+        },
+        {
+          "de": "Ich arbeite fünf Tage pro Woche.",
+          "en": "I work five days a week."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Das kostet ___ Euro fünfzig.",
+          "answer": "fünf",
+          "en": "That costs five euros fifty."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "5️⃣",
+      "imageable": false,
+      "tags": [
+        "numbers",
+        "zahlen"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    {
+      "id": "sechs",
+      "word": "sechs",
+      "lemma": "sechs",
+      "translation": "six",
+      "translations": [
+        "six"
+      ],
+      "level": "A0",
+      "category": "Numbers, Time & Dates",
+      "partOfSpeech": "numeral",
+      "frequency": 35,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich stehe um sechs Uhr auf.",
+          "en": "I get up at six o'clock."
+        },
+        {
+          "de": "Wir haben sechs Eier gekauft.",
+          "en": "We bought six eggs."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Zug fährt um ___ Uhr ab.",
+          "answer": "sechs",
+          "en": "The train departs at six o'clock."
+        }
+      ],
+      "notes": "Achtung bei sechzehn und sechzig: das 's' von 'sechs' fällt weg.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "6️⃣",
+      "imageable": false,
+      "tags": [
+        "numbers",
+        "zahlen"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    {
+      "id": "sieben",
+      "word": "sieben",
+      "lemma": "sieben",
+      "translation": "seven",
+      "translations": [
+        "seven"
+      ],
+      "level": "A0",
+      "category": "Numbers, Time & Dates",
+      "partOfSpeech": "numeral",
+      "frequency": 36,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Eine Woche hat sieben Tage.",
+          "en": "A week has seven days."
+        },
+        {
+          "de": "Ich komme um sieben nach Hause.",
+          "en": "I get home at seven."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Mein Sohn ist ___ Jahre alt.",
+          "answer": "sieben",
+          "en": "My son is seven years old."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "7️⃣",
+      "imageable": false,
+      "tags": [
+        "numbers",
+        "zahlen"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    {
+      "id": "acht",
+      "word": "acht",
+      "lemma": "acht",
+      "translation": "eight",
+      "translations": [
+        "eight"
+      ],
+      "level": "A0",
+      "category": "Numbers, Time & Dates",
+      "partOfSpeech": "numeral",
+      "frequency": 37,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich arbeite acht Stunden am Tag.",
+          "en": "I work eight hours a day."
+        },
+        {
+          "de": "Der Laden öffnet um acht.",
+          "en": "The shop opens at eight."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wir haben ___ Gäste eingeladen.",
+          "answer": "acht",
+          "en": "We invited eight guests."
+        }
+      ],
+      "notes": "Nicht verwechseln mit 'Achtung!' (attention) oder 'die Acht' (die Ziffer 8).",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "8️⃣",
+      "imageable": false,
+      "tags": [
+        "numbers",
+        "zahlen"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    {
+      "id": "neun",
+      "word": "neun",
+      "lemma": "neun",
+      "translation": "nine",
+      "translations": [
+        "nine"
+      ],
+      "level": "A0",
+      "category": "Numbers, Time & Dates",
+      "partOfSpeech": "numeral",
+      "frequency": 38,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Praxis öffnet um neun Uhr.",
+          "en": "The doctor's office opens at nine o'clock."
+        },
+        {
+          "de": "Ich habe neun Euro im Geldbeutel.",
+          "en": "I have nine euros in my wallet."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Sie hat ___ Bücher gelesen.",
+          "answer": "neun",
+          "en": "She has read nine books."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "9️⃣",
+      "imageable": false,
+      "tags": [
+        "numbers",
+        "zahlen"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    {
+      "id": "zehn",
+      "word": "zehn",
+      "lemma": "zehn",
+      "translation": "ten",
+      "translations": [
+        "ten"
+      ],
+      "level": "A0",
+      "category": "Numbers, Time & Dates",
+      "partOfSpeech": "numeral",
+      "frequency": 39,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich bin in zehn Minuten da.",
+          "en": "I'll be there in ten minutes."
+        },
+        {
+          "de": "Das Ticket kostet zehn Euro.",
+          "en": "The ticket costs ten euros."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wir wohnen seit ___ Jahren in Hamburg.",
+          "answer": "zehn",
+          "en": "We've been living in Hamburg for ten years."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🔟",
+      "imageable": false,
+      "tags": [
+        "numbers",
+        "zahlen"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "zehnte"
+      ]
+    },
+    {
+      "id": "elf",
+      "word": "elf",
+      "lemma": "elf",
+      "translation": "eleven",
+      "translations": [
+        "eleven"
+      ],
+      "level": "A1",
+      "category": "Numbers, Time & Dates",
+      "partOfSpeech": "numeral",
+      "frequency": 200,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Termin ist um elf Uhr.",
+          "en": "The appointment is at eleven o'clock."
+        },
+        {
+          "de": "Elf Spieler stehen auf dem Platz.",
+          "en": "Eleven players are on the pitch."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Es ist schon ___ Uhr, ich muss los.",
+          "answer": "elf",
+          "en": "It's already eleven o'clock, I have to go."
+        }
+      ],
+      "notes": null,
+      "mnemonic": "elf ~ 'eleven' — beide fangen mit 'el' an.",
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "numbers",
+        "zahlen"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    {
+      "id": "zwoelf",
+      "word": "zwölf",
+      "lemma": "zwölf",
+      "translation": "twelve",
+      "translations": [
+        "twelve"
+      ],
+      "level": "A1",
+      "category": "Numbers, Time & Dates",
+      "partOfSpeech": "numeral",
+      "frequency": 205,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Um zwölf Uhr mache ich Mittagspause.",
+          "en": "At twelve o'clock I take my lunch break."
+        },
+        {
+          "de": "Ein Jahr hat zwölf Monate.",
+          "en": "A year has twelve months."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wir treffen uns um ___ zum Mittagessen.",
+          "answer": "zwölf",
+          "en": "We're meeting at twelve for lunch."
+        }
+      ],
+      "notes": "Ab zwölf werden die Zahlen regelmäßig: dreizehn, vierzehn, fünfzehn …",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "numbers",
+        "zahlen"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    {
+      "id": "dreizehn",
+      "word": "dreizehn",
+      "lemma": "dreizehn",
+      "translation": "thirteen",
+      "translations": [
+        "thirteen"
+      ],
+      "level": "A1",
+      "category": "Numbers, Time & Dates",
+      "partOfSpeech": "numeral",
+      "frequency": 400,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Meine Tochter ist dreizehn Jahre alt.",
+          "en": "My daughter is thirteen years old."
+        },
+        {
+          "de": "Der Zug fährt um dreizehn Uhr.",
+          "en": "The train leaves at one p.m."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wir sind ___ Leute im Team.",
+          "answer": "dreizehn",
+          "en": "There are thirteen of us on the team."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Deutschland benutzt im Alltag die 24-Stunden-Uhr: 13 Uhr ist 1 p.m. Auf Fahrplänen und Terminen steht nie 'a.m./p.m.'.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "numbers",
+        "zahlen",
+        "time",
+        "zeit"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    {
+      "id": "vierzehn",
+      "word": "vierzehn",
+      "lemma": "vierzehn",
+      "translation": "fourteen",
+      "translations": [
+        "fourteen"
+      ],
+      "level": "A1",
+      "category": "Numbers, Time & Dates",
+      "partOfSpeech": "numeral",
+      "frequency": 405,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich bleibe vierzehn Tage in der Türkei.",
+          "en": "I'm staying fourteen days in Turkey."
+        },
+        {
+          "de": "Der Kurs beginnt um vierzehn Uhr.",
+          "en": "The course starts at two p.m."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Nach dem Umzug hast du ___ Tage Zeit für die Anmeldung.",
+          "answer": "vierzehn",
+          "en": "After moving you have fourteen days for the registration."
+        }
+      ],
+      "notes": "'vierzehn Tage' sagt man im Deutschen sehr oft statt 'zwei Wochen'.",
+      "mnemonic": null,
+      "germany_context": "Nach dem Umzug musst du dich innerhalb von 14 Tagen beim Bürgeramt anmelden (Anmeldung) — ohne Anmeldebestätigung gibt es kein Bankkonto und keine Steuer-ID.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "numbers",
+        "zahlen",
+        "buerokratie"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    {
+      "id": "fuenfzehn",
+      "word": "fünfzehn",
+      "lemma": "fünfzehn",
+      "translation": "fifteen",
+      "translations": [
+        "fifteen"
+      ],
+      "level": "A1",
+      "category": "Numbers, Time & Dates",
+      "partOfSpeech": "numeral",
+      "frequency": 410,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Bus fährt alle fünfzehn Minuten.",
+          "en": "The bus runs every fifteen minutes."
+        },
+        {
+          "de": "Ich bin in fünfzehn Minuten zu Hause.",
+          "en": "I'll be home in fifteen minutes."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Die Pause dauert ___ Minuten.",
+          "answer": "fünfzehn",
+          "en": "The break lasts fifteen minutes."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "numbers",
+        "zahlen"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    {
+      "id": "sechzehn",
+      "word": "sechzehn",
+      "lemma": "sechzehn",
+      "translation": "sixteen",
+      "translations": [
+        "sixteen"
+      ],
+      "level": "A1",
+      "category": "Numbers, Time & Dates",
+      "partOfSpeech": "numeral",
+      "frequency": 415,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Mein Bruder ist sechzehn.",
+          "en": "My brother is sixteen."
+        },
+        {
+          "de": "Der Termin ist um sechzehn Uhr.",
+          "en": "The appointment is at four p.m."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ab ___ Jahren darf man in Deutschland Bier kaufen.",
+          "answer": "sechzehn",
+          "en": "From the age of sixteen you may buy beer in Germany."
+        }
+      ],
+      "notes": "Schreibweise ohne 's': sechzehn, nicht 'sechszehn'.",
+      "mnemonic": null,
+      "germany_context": "Ab 16 darf man Bier und Wein kaufen und trinken, Spirituosen erst ab 18. An der Kasse wird der Ausweis kontrolliert.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "numbers",
+        "zahlen"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    {
+      "id": "siebzehn",
+      "word": "siebzehn",
+      "lemma": "siebzehn",
+      "translation": "seventeen",
+      "translations": [
+        "seventeen"
+      ],
+      "level": "A1",
+      "category": "Numbers, Time & Dates",
+      "partOfSpeech": "numeral",
+      "frequency": 420,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Sie ist siebzehn Jahre alt.",
+          "en": "She is seventeen years old."
+        },
+        {
+          "de": "Wir treffen uns um siebzehn Uhr am Bahnhof.",
+          "en": "We're meeting at five p.m. at the station."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Meine Klasse hat ___ Schüler.",
+          "answer": "siebzehn",
+          "en": "My class has seventeen pupils."
+        }
+      ],
+      "notes": "Ohne '-en-': siebzehn, nicht 'siebenzehn'. Genauso siebzig.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "numbers",
+        "zahlen"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    {
+      "id": "achtzehn",
+      "word": "achtzehn",
+      "lemma": "achtzehn",
+      "translation": "eighteen",
+      "translations": [
+        "eighteen"
+      ],
+      "level": "A1",
+      "category": "Numbers, Time & Dates",
+      "partOfSpeech": "numeral",
+      "frequency": 425,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "In Deutschland ist man mit achtzehn volljährig.",
+          "en": "In Germany you come of age at eighteen."
+        },
+        {
+          "de": "Der Film beginnt um achtzehn Uhr.",
+          "en": "The film starts at six p.m."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ab ___ darf man Auto fahren.",
+          "answer": "achtzehn",
+          "en": "From eighteen you're allowed to drive a car."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Mit 18 ist man volljährig: Führerschein, eigene Verträge, Spirituosen. Vorher darf man nichts unterschreiben.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "numbers",
+        "zahlen"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    {
+      "id": "neunzehn",
+      "word": "neunzehn",
+      "lemma": "neunzehn",
+      "translation": "nineteen",
+      "translations": [
+        "nineteen"
+      ],
+      "level": "A1",
+      "category": "Numbers, Time & Dates",
+      "partOfSpeech": "numeral",
+      "frequency": 430,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Das T-Shirt kostet neunzehn Euro.",
+          "en": "The T-shirt costs nineteen euros."
+        },
+        {
+          "de": "Im Preis sind neunzehn Prozent Mehrwertsteuer enthalten.",
+          "en": "The price includes nineteen percent VAT."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Sie wohnt in der Hauptstraße ___.",
+          "answer": "neunzehn",
+          "en": "She lives at Hauptstraße nineteen."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Der normale Mehrwertsteuersatz ist 19 %, auf Lebensmittel nur 7 %. Preise im Laden sind immer inklusive Steuer — es kommt an der Kasse nichts dazu.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "numbers",
+        "zahlen"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    {
+      "id": "zwanzig",
+      "word": "zwanzig",
+      "lemma": "zwanzig",
+      "translation": "twenty",
+      "translations": [
+        "twenty"
+      ],
+      "level": "A0",
+      "category": "Numbers, Time & Dates",
+      "partOfSpeech": "numeral",
+      "frequency": 45,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Zug fährt in zwanzig Minuten.",
+          "en": "The train leaves in twenty minutes."
+        },
+        {
+          "de": "Das kostet zwanzig Euro.",
+          "en": "That costs twenty euros."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich bin ___ Jahre alt.",
+          "answer": "zwanzig",
+          "en": "I am twenty years old."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "numbers",
+        "zahlen"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "einundzwanzig",
+        "zwanzigste"
+      ]
+    },
+    {
+      "id": "einundzwanzig",
+      "word": "einundzwanzig",
+      "lemma": "einundzwanzig",
+      "translation": "twenty-one",
+      "translations": [
+        "twenty-one"
+      ],
+      "level": "A1",
+      "category": "Numbers, Time & Dates",
+      "partOfSpeech": "numeral",
+      "frequency": 500,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Mein Kollege ist einundzwanzig.",
+          "en": "My colleague is twenty-one."
+        },
+        {
+          "de": "Ich wohne in der Gartenstraße einundzwanzig.",
+          "en": "I live at Gartenstraße twenty-one."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Zwanzig plus eins ist ___.",
+          "answer": "einundzwanzig",
+          "en": "Twenty plus one is twenty-one."
+        }
+      ],
+      "notes": "Deutsche Zahlen ab 21 spricht man rückwärts: einundzwanzig = 'one-and-twenty'. Bei Preisen und Telefonnummern immer nachfragen: 'Zweiundvierzig oder vierundzwanzig?'",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "numbers",
+        "zahlen"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    {
+      "id": "dreissig",
+      "word": "dreißig",
+      "lemma": "dreißig",
+      "translation": "thirty",
+      "translations": [
+        "thirty"
+      ],
+      "level": "A1",
+      "category": "Numbers, Time & Dates",
+      "partOfSpeech": "numeral",
+      "frequency": 210,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Monat hat dreißig Tage.",
+          "en": "The month has thirty days."
+        },
+        {
+          "de": "Ich fahre dreißig Kilometer zur Arbeit.",
+          "en": "I drive thirty kilometres to work."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "In der Stadt darf man oft nur ___ fahren.",
+          "answer": "dreißig",
+          "en": "In town you're often only allowed to drive thirty."
+        }
+      ],
+      "notes": "Einziger Zehner mit 'ß': dreißig, aber vierzig, fünfzig …",
+      "mnemonic": null,
+      "germany_context": "Tempo 30 gilt in vielen Wohngebieten und vor Schulen; sonst innerorts 50. Blitzer stehen überall und Bußgelder kommen per Post.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "numbers",
+        "zahlen"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    {
+      "id": "vierzig",
+      "word": "vierzig",
+      "lemma": "vierzig",
+      "translation": "forty",
+      "translations": [
+        "forty"
+      ],
+      "level": "A1",
+      "category": "Numbers, Time & Dates",
+      "partOfSpeech": "numeral",
+      "frequency": 215,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich arbeite vierzig Stunden pro Woche.",
+          "en": "I work forty hours a week."
+        },
+        {
+          "de": "Sie ist vierzig Jahre alt.",
+          "en": "She is forty years old."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Die Fahrt dauert ___ Minuten.",
+          "answer": "vierzig",
+          "en": "The trip takes forty minutes."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Eine Vollzeitstelle sind in Deutschland meist 38–40 Stunden pro Woche, plus mindestens 20 Urlaubstage im Jahr.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "numbers",
+        "zahlen"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    {
+      "id": "fuenfzig",
+      "word": "fünfzig",
+      "lemma": "fünfzig",
+      "translation": "fifty",
+      "translations": [
+        "fifty"
+      ],
+      "level": "A1",
+      "category": "Numbers, Time & Dates",
+      "partOfSpeech": "numeral",
+      "frequency": 220,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Innerorts darf man fünfzig fahren.",
+          "en": "In town you may drive fifty."
+        },
+        {
+          "de": "Das Buch kostet fünfzig Euro.",
+          "en": "The book costs fifty euros."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Meine Mutter wird nächstes Jahr ___.",
+          "answer": "fünfzig",
+          "en": "My mother turns fifty next year."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "numbers",
+        "zahlen"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    {
+      "id": "sechzig",
+      "word": "sechzig",
+      "lemma": "sechzig",
+      "translation": "sixty",
+      "translations": [
+        "sixty"
+      ],
+      "level": "A1",
+      "category": "Numbers, Time & Dates",
+      "partOfSpeech": "numeral",
+      "frequency": 225,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Eine Stunde hat sechzig Minuten.",
+          "en": "An hour has sixty minutes."
+        },
+        {
+          "de": "Mein Vater ist sechzig Jahre alt.",
+          "en": "My father is sixty years old."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Eine Minute hat ___ Sekunden.",
+          "answer": "sechzig",
+          "en": "A minute has sixty seconds."
+        }
+      ],
+      "notes": "Ohne 's': sechzig, nicht 'sechszig'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "numbers",
+        "zahlen"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    {
+      "id": "siebzig",
+      "word": "siebzig",
+      "lemma": "siebzig",
+      "translation": "seventy",
+      "translations": [
+        "seventy"
+      ],
+      "level": "A1",
+      "category": "Numbers, Time & Dates",
+      "partOfSpeech": "numeral",
+      "frequency": 230,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Meine Oma ist siebzig.",
+          "en": "My grandma is seventy."
+        },
+        {
+          "de": "Das Hotelzimmer kostet siebzig Euro pro Nacht.",
+          "en": "The hotel room costs seventy euros per night."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Kurs hat ___ Teilnehmer.",
+          "answer": "siebzig",
+          "en": "The course has seventy participants."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "numbers",
+        "zahlen"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    {
+      "id": "achtzig",
+      "word": "achtzig",
+      "lemma": "achtzig",
+      "translation": "eighty",
+      "translations": [
+        "eighty"
+      ],
+      "level": "A1",
+      "category": "Numbers, Time & Dates",
+      "partOfSpeech": "numeral",
+      "frequency": 235,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Fernseher kostet achtzig Euro.",
+          "en": "The TV costs eighty euros."
+        },
+        {
+          "de": "Mein Nachbar ist achtzig geworden.",
+          "en": "My neighbour turned eighty."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wir sind ___ Kilometer gefahren.",
+          "answer": "achtzig",
+          "en": "We drove eighty kilometres."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "numbers",
+        "zahlen"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    {
+      "id": "neunzig",
+      "word": "neunzig",
+      "lemma": "neunzig",
+      "translation": "ninety",
+      "translations": [
+        "ninety"
+      ],
+      "level": "A1",
+      "category": "Numbers, Time & Dates",
+      "partOfSpeech": "numeral",
+      "frequency": 240,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ein Fußballspiel dauert neunzig Minuten.",
+          "en": "A football match lasts ninety minutes."
+        },
+        {
+          "de": "Die Miete ist um neunzig Euro gestiegen.",
+          "en": "The rent went up by ninety euros."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Akku ist zu ___ Prozent geladen.",
+          "answer": "neunzig",
+          "en": "The battery is charged to ninety percent."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "numbers",
+        "zahlen"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    {
+      "id": "hundert",
+      "word": "hundert",
+      "lemma": "hundert",
+      "translation": "hundred",
+      "translations": [
+        "hundred",
+        "one hundred"
+      ],
+      "level": "A1",
+      "category": "Numbers, Time & Dates",
+      "partOfSpeech": "numeral",
+      "frequency": 150,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Das kostet hundert Euro.",
+          "en": "That costs a hundred euros."
+        },
+        {
+          "de": "Auf der Landstraße darf man hundert fahren.",
+          "en": "On country roads you may drive a hundred."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich habe ___ Euro abgehoben.",
+          "answer": "hundert",
+          "en": "I withdrew a hundred euros."
+        }
+      ],
+      "notes": "Man sagt 'hundert' oder 'einhundert'; als Nomen: die Hundert.",
+      "mnemonic": null,
+      "germany_context": "Auf Landstraßen gilt Tempo 100. Auf vielen Autobahnabschnitten gibt es tatsächlich kein Tempolimit — aber eine Richtgeschwindigkeit von 130.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "numbers",
+        "zahlen"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    {
+      "id": "tausend",
+      "word": "tausend",
+      "lemma": "tausend",
+      "translation": "thousand",
+      "translations": [
+        "thousand",
+        "one thousand"
+      ],
+      "level": "A1",
+      "category": "Numbers, Time & Dates",
+      "partOfSpeech": "numeral",
+      "frequency": 155,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Wohnung kostet tausend Euro warm.",
+          "en": "The flat costs a thousand euros including bills."
+        },
+        {
+          "de": "Tausend Dank für deine Hilfe!",
+          "en": "A thousand thanks for your help!"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Laptop hat ___ Euro gekostet.",
+          "answer": "tausend",
+          "en": "The laptop cost a thousand euros."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Mieten werden 'kalt' (nur die Wohnung) und 'warm' (mit Nebenkosten und Heizung) angegeben. Dazu kommt meist eine Kaution von drei Kaltmieten.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "numbers",
+        "zahlen"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    {
+      "id": "million",
+      "word": "die Million",
+      "lemma": "Million",
+      "translation": "million",
+      "translations": [
+        "million"
+      ],
+      "level": "A2",
+      "category": "Numbers, Time & Dates",
+      "partOfSpeech": "noun",
+      "frequency": 300,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Millionen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Berlin hat fast vier Millionen Einwohner.",
+          "en": "Berlin has almost four million inhabitants."
+        },
+        {
+          "de": "Er hat im Lotto eine Million gewonnen.",
+          "en": "He won a million in the lottery."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "München hat über eine ___ Einwohner.",
+          "answer": "Million",
+          "en": "Munich has over a million inhabitants."
+        }
+      ],
+      "notes": "'Million' ist ein Nomen: eine Million, zwei Millionen — mit Plural-n.",
+      "mnemonic": null,
+      "germany_context": "Zahlen schreibt man in Deutschland umgekehrt zum Englischen: 1.000.000 mit Punkt als Tausendertrenner und 1.000,50 € mit Komma für Cent.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "numbers",
+        "zahlen"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    {
+      "id": "erste",
+      "word": "erste",
+      "lemma": "erste",
+      "translation": "first",
+      "translations": [
+        "first",
+        "1st"
+      ],
+      "level": "A1",
+      "category": "Numbers, Time & Dates",
+      "partOfSpeech": "numeral",
+      "frequency": 100,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich wohne im ersten Stock.",
+          "en": "I live on the first floor."
+        },
+        {
+          "de": "Der erste Mai ist ein Feiertag.",
+          "en": "The first of May is a public holiday."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Heute ist der ___ September.",
+          "answer": "erste",
+          "en": "Today is the first of September."
+        }
+      ],
+      "notes": "Ordnungszahlen: 1–19 mit '-te' (vierte), ab 20 mit '-ste' (zwanzigste). Unregelmäßig: erste, dritte, siebte, achte.",
+      "mnemonic": null,
+      "germany_context": "Datumsangaben spricht man mit Ordnungszahl: '1. Mai' sagt man 'der erste Mai'. Die Miete wird meist zum Ersten des Monats überwiesen.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "numbers",
+        "zahlen",
+        "date",
+        "datum"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "letzte"
+      ],
+      "related": [
+        "zweite",
+        "dritte",
+        "letzte"
+      ]
+    },
+    {
+      "id": "zweite",
+      "word": "zweite",
+      "lemma": "zweite",
+      "translation": "second",
+      "translations": [
+        "second",
+        "2nd"
+      ],
+      "level": "A1",
+      "category": "Numbers, Time & Dates",
+      "partOfSpeech": "numeral",
+      "frequency": 110,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Nimm die zweite Straße links.",
+          "en": "Take the second street on the left."
+        },
+        {
+          "de": "Das ist heute schon mein zweiter Termin.",
+          "en": "That's already my second appointment today."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wir wohnen im ___ Stock.",
+          "answer": "zweiten",
+          "en": "We live on the second floor."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "numbers",
+        "zahlen",
+        "date",
+        "datum"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "erste"
+      ]
+    },
+    {
+      "id": "dritte",
+      "word": "dritte",
+      "lemma": "dritte",
+      "translation": "third",
+      "translations": [
+        "third",
+        "3rd"
+      ],
+      "level": "A1",
+      "category": "Numbers, Time & Dates",
+      "partOfSpeech": "numeral",
+      "frequency": 115,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der dritte Oktober ist der Tag der Deutschen Einheit.",
+          "en": "The third of October is German Unity Day."
+        },
+        {
+          "de": "Ich bin zum dritten Mal in Berlin.",
+          "en": "I'm in Berlin for the third time."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Sie hat ihr ___ Kind bekommen.",
+          "answer": "drittes",
+          "en": "She had her third child."
+        }
+      ],
+      "notes": "Unregelmäßig: nicht 'dreite', sondern dritte.",
+      "mnemonic": null,
+      "germany_context": "Der 3. Oktober (Tag der Deutschen Einheit) ist bundesweiter Feiertag — alle Geschäfte sind geschlossen.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "numbers",
+        "zahlen",
+        "date",
+        "datum"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    {
+      "id": "vierte",
+      "word": "vierte",
+      "lemma": "vierte",
+      "translation": "fourth",
+      "translations": [
+        "fourth",
+        "4th"
+      ],
+      "level": "A1",
+      "category": "Numbers, Time & Dates",
+      "partOfSpeech": "numeral",
+      "frequency": 250,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Heute ist der vierte April.",
+          "en": "Today is the fourth of April."
+        },
+        {
+          "de": "Der Aufzug hält in der vierten Etage.",
+          "en": "The lift stops on the fourth floor."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wir feiern seinen ___ Geburtstag.",
+          "answer": "vierten",
+          "en": "We're celebrating his fourth birthday."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "numbers",
+        "zahlen",
+        "date",
+        "datum"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    {
+      "id": "zehnte",
+      "word": "zehnte",
+      "lemma": "zehnte",
+      "translation": "tenth",
+      "translations": [
+        "tenth",
+        "10th"
+      ],
+      "level": "A1",
+      "category": "Numbers, Time & Dates",
+      "partOfSpeech": "numeral",
+      "frequency": 260,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Mein Termin ist am zehnten Mai.",
+          "en": "My appointment is on the tenth of May."
+        },
+        {
+          "de": "Das ist schon der zehnte Anruf heute.",
+          "en": "That's already the tenth call today."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Heute ist der ___ Dezember.",
+          "answer": "zehnte",
+          "en": "Today is the tenth of December."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "numbers",
+        "zahlen",
+        "date",
+        "datum"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    {
+      "id": "zwanzigste",
+      "word": "zwanzigste",
+      "lemma": "zwanzigste",
+      "translation": "twentieth",
+      "translations": [
+        "twentieth",
+        "20th"
+      ],
+      "level": "A2",
+      "category": "Numbers, Time & Dates",
+      "partOfSpeech": "numeral",
+      "frequency": 520,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der zwanzigste Juni ist ein Montag.",
+          "en": "The twentieth of June is a Monday."
+        },
+        {
+          "de": "Am zwanzigsten habe ich frei.",
+          "en": "I'm off on the twentieth."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Mein Vertrag endet am ___ September.",
+          "answer": "zwanzigsten",
+          "en": "My contract ends on the twentieth of September."
+        }
+      ],
+      "notes": "Ab 20 hängt man '-ste' an: zwanzigste, dreißigste, hundertste.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "numbers",
+        "zahlen",
+        "date",
+        "datum"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    {
+      "id": "letzte",
+      "word": "letzte",
+      "lemma": "letzte",
+      "translation": "last",
+      "translations": [
+        "last",
+        "final"
+      ],
+      "level": "A1",
+      "category": "Numbers, Time & Dates",
+      "partOfSpeech": "adjective",
+      "frequency": 180,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Das war der letzte Bus.",
+          "en": "That was the last bus."
+        },
+        {
+          "de": "Letzte Woche war ich krank.",
+          "en": "Last week I was ill."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich habe ihn ___ Jahr gesehen.",
+          "answer": "letztes",
+          "en": "I saw him last year."
+        }
+      ],
+      "notes": "Zeitangaben mit 'letzt-' stehen im Akkusativ ohne Präposition: letzten Monat, letztes Jahr.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "time",
+        "zeit"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "erste",
+        "nächste"
+      ],
+      "related": [
+        "naechste"
+      ]
+    },
+    {
+      "id": "naechste",
+      "word": "nächste",
+      "lemma": "nächste",
+      "translation": "next",
+      "translations": [
+        "next",
+        "nearest"
+      ],
+      "level": "A1",
+      "category": "Numbers, Time & Dates",
+      "partOfSpeech": "adjective",
+      "frequency": 175,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Nächste Woche habe ich Urlaub.",
+          "en": "Next week I'm on holiday."
+        },
+        {
+          "de": "Wo ist die nächste Bushaltestelle?",
+          "en": "Where is the nearest bus stop?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wir sehen uns ___ Montag.",
+          "answer": "nächsten",
+          "en": "See you next Monday."
+        }
+      ],
+      "notes": "'nächste' heißt 'next' (nächste Woche) UND 'nearest' (die nächste Apotheke).",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "time",
+        "zeit"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "letzte"
+      ],
+      "related": [
+        "letzte"
+      ]
+    },
+    {
+      "id": "halb",
+      "word": "halb",
+      "lemma": "halb",
+      "translation": "half",
+      "translations": [
+        "half"
+      ],
+      "level": "A1",
+      "category": "Numbers, Time & Dates",
+      "partOfSpeech": "adjective",
+      "frequency": 190,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Es ist halb drei.",
+          "en": "It's half past two."
+        },
+        {
+          "de": "Ich hätte gern ein halbes Kilo Hackfleisch.",
+          "en": "I'd like half a kilo of minced meat."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Zug fährt um ___ neun.",
+          "answer": "halb",
+          "en": "The train leaves at half past eight."
+        }
+      ],
+      "notes": "'halb + Stunde' zeigt auf die kommende Stunde: halb sieben = 6:30.",
+      "mnemonic": null,
+      "germany_context": "Die größte Zeitfalle in Deutschland: 'halb drei' ist 2:30, NICHT 3:30. Deutsche zählen zur nächsten vollen Stunde hin — wer das verwechselt, kommt eine Stunde zu spät.",
+      "emoji": "🕝",
+      "imageable": false,
+      "tags": [
+        "time",
+        "zeit"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "haelfte",
+        "viertel-nach"
+      ]
+    },
+    {
+      "id": "haelfte",
+      "word": "die Hälfte",
+      "lemma": "Hälfte",
+      "translation": "half",
+      "translations": [
+        "half"
+      ],
+      "level": "A2",
+      "category": "Numbers, Time & Dates",
+      "partOfSpeech": "noun",
+      "frequency": 480,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Hälften",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Hälfte der Gruppe ist schon da.",
+          "en": "Half of the group is already here."
+        },
+        {
+          "de": "Ich zahle die Hälfte.",
+          "en": "I'll pay half."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wir teilen die Rechnung: jeder zahlt die ___.",
+          "answer": "Hälfte",
+          "en": "We're splitting the bill: everyone pays half."
+        }
+      ],
+      "notes": "'halb' ist ein Adjektiv, 'die Hälfte' ein Nomen: ein halber Kuchen = die Hälfte des Kuchens.",
+      "mnemonic": null,
+      "germany_context": "Getrennt zahlen ist in Deutschland völlig normal — fast jeder Kellner fragt 'Zusammen oder getrennt?'.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "numbers",
+        "zahlen"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "halb"
+      ]
+    },
+    {
+      "id": "viertel",
+      "word": "das Viertel",
+      "lemma": "Viertel",
+      "translation": "quarter",
+      "translations": [
+        "quarter",
+        "district"
+      ],
+      "level": "A1",
+      "category": "Numbers, Time & Dates",
+      "partOfSpeech": "noun",
+      "frequency": 470,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Viertel",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Es ist Viertel nach sieben.",
+          "en": "It's quarter past seven."
+        },
+        {
+          "de": "Ein Viertel von zwanzig ist fünf.",
+          "en": "A quarter of twenty is five."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Nur ein ___ der Klasse war da.",
+          "answer": "Viertel",
+          "en": "Only a quarter of the class was there."
+        }
+      ],
+      "notes": "'das Viertel' heißt auch 'Stadtteil': Ich wohne in einem ruhigen Viertel.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "numbers",
+        "zahlen",
+        "time",
+        "zeit"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "viertel-nach",
+        "viertel-vor"
+      ]
+    },
+    {
+      "id": "drittel",
+      "word": "das Drittel",
+      "lemma": "Drittel",
+      "translation": "third",
+      "translations": [
+        "third"
+      ],
+      "level": "A2",
+      "category": "Numbers, Time & Dates",
+      "partOfSpeech": "noun",
+      "frequency": 900,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Drittel",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ein Drittel der Miete zahlt mein Mitbewohner.",
+          "en": "My flatmate pays a third of the rent."
+        },
+        {
+          "de": "Zwei Drittel der Plätze sind frei.",
+          "en": "Two thirds of the seats are free."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Nur ein ___ der Gäste ist gekommen.",
+          "answer": "Drittel",
+          "en": "Only a third of the guests came."
+        }
+      ],
+      "notes": "Bruchzahlen bildet man mit '-tel': ein Drittel, ein Viertel, ein Fünftel.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "numbers",
+        "zahlen"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "viertel"
+      ]
+    },
+    {
+      "id": "uhr",
+      "word": "die Uhr",
+      "lemma": "Uhr",
+      "translation": "clock",
+      "translations": [
+        "clock",
+        "watch",
+        "o'clock"
+      ],
+      "level": "A0",
+      "category": "Numbers, Time & Dates",
+      "partOfSpeech": "noun",
+      "frequency": 60,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Uhren",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Wie viel Uhr ist es?",
+          "en": "What time is it?"
+        },
+        {
+          "de": "Der Termin ist um acht Uhr.",
+          "en": "The appointment is at eight o'clock."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Meine ___ geht zwei Minuten vor.",
+          "answer": "Uhr",
+          "en": "My watch is two minutes fast."
+        }
+      ],
+      "notes": "'die Uhr' ist das Gerät UND das Wort für 'o'clock': um drei Uhr.",
+      "mnemonic": null,
+      "germany_context": "Fahrpläne, Termine und Öffnungszeiten laufen über die 24-Stunden-Uhr: 18:30 sagt man 'achtzehn Uhr dreißig'.",
+      "emoji": "⌚",
+      "imageable": true,
+      "tags": [
+        "time",
+        "zeit"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "uhrzeit",
+        "stunde"
+      ]
+    },
+    {
+      "id": "uhrzeit",
+      "word": "die Uhrzeit",
+      "lemma": "Uhrzeit",
+      "translation": "time (of day)",
+      "translations": [
+        "time (of day)",
+        "clock time"
+      ],
+      "level": "A2",
+      "category": "Numbers, Time & Dates",
+      "partOfSpeech": "noun",
+      "frequency": 700,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Uhrzeiten",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Kannst du mir die Uhrzeit sagen?",
+          "en": "Can you tell me the time?"
+        },
+        {
+          "de": "Auf dem Ticket steht die Uhrzeit.",
+          "en": "The time is printed on the ticket."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Welche ___ passt dir am besten?",
+          "answer": "Uhrzeit",
+          "en": "Which time suits you best?"
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "time",
+        "zeit"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "uhr",
+        "wie-spaet-ist-es"
+      ]
+    },
+    {
+      "id": "minute",
+      "word": "die Minute",
+      "lemma": "Minute",
+      "translation": "minute",
+      "translations": [
+        "minute"
+      ],
+      "level": "A1",
+      "category": "Numbers, Time & Dates",
+      "partOfSpeech": "noun",
+      "frequency": 130,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Minuten",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Bus kommt in fünf Minuten.",
+          "en": "The bus comes in five minutes."
+        },
+        {
+          "de": "Warte eine Minute, bitte!",
+          "en": "Wait a minute, please!"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Die S-Bahn hat zehn ___ Verspätung.",
+          "answer": "Minuten",
+          "en": "The train is ten minutes late."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Verspätungen werden minutengenau angesagt. Ab 60 Minuten Verspätung erstattet die Deutsche Bahn einen Teil des Fahrpreises.",
+      "emoji": "⏱️",
+      "imageable": false,
+      "tags": [
+        "time",
+        "zeit"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "stunde",
+        "sekunde"
+      ]
+    },
+    {
+      "id": "stunde",
+      "word": "die Stunde",
+      "lemma": "Stunde",
+      "translation": "hour",
+      "translations": [
+        "hour"
+      ],
+      "level": "A1",
+      "category": "Numbers, Time & Dates",
+      "partOfSpeech": "noun",
+      "frequency": 135,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Stunden",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Flug dauert zwei Stunden.",
+          "en": "The flight takes two hours."
+        },
+        {
+          "de": "Ich habe eine Stunde Mittagspause.",
+          "en": "I have an hour's lunch break."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wir warten schon eine ___ auf den Zug.",
+          "answer": "Stunde",
+          "en": "We've been waiting an hour for the train."
+        }
+      ],
+      "notes": "'Stunde' = 60 Minuten. Nicht mit 'Uhr' (o'clock) verwechseln.",
+      "mnemonic": null,
+      "germany_context": "Löhne werden pro Stunde gerechnet (Mindestlohn), und im Arbeitsvertrag steht die Wochenstundenzahl.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "time",
+        "zeit"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "minute",
+        "uhr"
+      ]
+    },
+    {
+      "id": "sekunde",
+      "word": "die Sekunde",
+      "lemma": "Sekunde",
+      "translation": "second",
+      "translations": [
+        "second"
+      ],
+      "level": "A2",
+      "category": "Numbers, Time & Dates",
+      "partOfSpeech": "noun",
+      "frequency": 750,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Sekunden",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Eine Minute hat sechzig Sekunden.",
+          "en": "A minute has sixty seconds."
+        },
+        {
+          "de": "Warte eine Sekunde!",
+          "en": "Wait a second!"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Das dauert nur ein paar ___.",
+          "answer": "Sekunden",
+          "en": "That only takes a few seconds."
+        }
+      ],
+      "notes": "Umgangssprachlich sagt man 'Sekunde!' wie 'Moment!'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "time",
+        "zeit"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "minute"
+      ]
+    },
+    {
+      "id": "viertel-nach",
+      "word": "Viertel nach",
+      "lemma": "Viertel nach",
+      "translation": "quarter past",
+      "translations": [
+        "quarter past"
+      ],
+      "level": "A1",
+      "category": "Numbers, Time & Dates",
+      "partOfSpeech": "phrase",
+      "frequency": 640,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Es ist Viertel nach acht.",
+          "en": "It's quarter past eight."
+        },
+        {
+          "de": "Wir treffen uns Viertel nach sechs vor dem Kino.",
+          "en": "We're meeting at quarter past six in front of the cinema."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Film beginnt um ___ neun.",
+          "answer": "Viertel nach",
+          "en": "The film starts at quarter past nine."
+        }
+      ],
+      "notes": "Viertel nach = :15. Im Süden und Osten hört man auch 'viertel neun' für 8:15 — das verwirrt viele.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "time",
+        "zeit"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "viertel-vor",
+        "halb"
+      ]
+    },
+    {
+      "id": "viertel-vor",
+      "word": "Viertel vor",
+      "lemma": "Viertel vor",
+      "translation": "quarter to",
+      "translations": [
+        "quarter to"
+      ],
+      "level": "A1",
+      "category": "Numbers, Time & Dates",
+      "partOfSpeech": "phrase",
+      "frequency": 645,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Es ist Viertel vor zwölf.",
+          "en": "It's quarter to twelve."
+        },
+        {
+          "de": "Ich bin Viertel vor sieben aufgestanden.",
+          "en": "I got up at quarter to seven."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Zug fährt um ___ drei ab.",
+          "answer": "Viertel vor",
+          "en": "The train departs at quarter to three."
+        }
+      ],
+      "notes": "Viertel vor = :45. 'Viertel vor drei' ist 14:45 bzw. 2:45.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "time",
+        "zeit"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "viertel-nach",
+        "halb"
+      ]
+    },
+    {
+      "id": "mittag",
+      "word": "der Mittag",
+      "lemma": "Mittag",
+      "translation": "midday",
+      "translations": [
+        "midday",
+        "noon"
+      ],
+      "level": "A1",
+      "category": "Numbers, Time & Dates",
+      "partOfSpeech": "noun",
+      "frequency": 550,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Mittage",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Am Mittag mache ich eine Pause.",
+          "en": "At midday I take a break."
+        },
+        {
+          "de": "Bis Mittag bin ich im Büro.",
+          "en": "I'm in the office until midday."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wir essen zu ___ um zwölf.",
+          "answer": "Mittag",
+          "en": "We have lunch at twelve."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Das Mittagessen ist in Deutschland oft die warme Hauptmahlzeit, meist zwischen 12 und 13 Uhr. Viele Behörden schließen dann kurz.",
+      "emoji": "🌞",
+      "imageable": false,
+      "tags": [
+        "time",
+        "zeit"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "mitternacht",
+        "nachmittag"
+      ]
+    },
+    {
+      "id": "mitternacht",
+      "word": "die Mitternacht",
+      "lemma": "Mitternacht",
+      "translation": "midnight",
+      "translations": [
+        "midnight"
+      ],
+      "level": "A2",
+      "category": "Numbers, Time & Dates",
+      "partOfSpeech": "noun",
+      "frequency": 850,
+      "gender": "f",
+      "article": "die",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Zug kommt um Mitternacht an.",
+          "en": "The train arrives at midnight."
+        },
+        {
+          "de": "Wir haben bis Mitternacht gefeiert.",
+          "en": "We celebrated until midnight."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Um ___ beginnt das neue Jahr.",
+          "answer": "Mitternacht",
+          "en": "The new year begins at midnight."
+        }
+      ],
+      "notes": "Meist ohne Artikel: 'um Mitternacht', 'nach Mitternacht'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🌙",
+      "imageable": false,
+      "tags": [
+        "time",
+        "zeit"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "mittag",
+        "nacht"
+      ]
+    },
+    {
+      "id": "morgen-nomen",
+      "word": "der Morgen",
+      "lemma": "Morgen",
+      "translation": "morning",
+      "translations": [
+        "morning"
+      ],
+      "level": "A0",
+      "category": "Numbers, Time & Dates",
+      "partOfSpeech": "noun",
+      "frequency": 120,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Morgen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Guten Morgen!",
+          "en": "Good morning!"
+        },
+        {
+          "de": "Am Morgen trinke ich immer Kaffee.",
+          "en": "In the morning I always drink coffee."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der ___ war heute sehr kalt.",
+          "answer": "Morgen",
+          "en": "The morning was very cold today."
+        }
+      ],
+      "notes": "Nicht verwechseln: 'der Morgen' (Tageszeit) und 'morgen' (tomorrow). 'morgen früh' heißt 'tomorrow morning'.",
+      "mnemonic": null,
+      "germany_context": "'Guten Morgen' benutzt man bis etwa 10 oder 11 Uhr, danach 'Guten Tag'. Im Norden reicht ganztags 'Moin'.",
+      "emoji": "🌅",
+      "imageable": false,
+      "tags": [
+        "time",
+        "zeit"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "morgens",
+        "vormittag"
+      ]
+    },
+    {
+      "id": "vormittag",
+      "word": "der Vormittag",
+      "lemma": "Vormittag",
+      "translation": "morning (before noon)",
+      "translations": [
+        "morning (before noon)",
+        "forenoon"
+      ],
+      "level": "A2",
+      "category": "Numbers, Time & Dates",
+      "partOfSpeech": "noun",
+      "frequency": 800,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Vormittage",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Am Vormittag habe ich einen Termin beim Arzt.",
+          "en": "In the morning I have a doctor's appointment."
+        },
+        {
+          "de": "Der Vormittag war sehr ruhig.",
+          "en": "The morning was very quiet."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich rufe dich morgen ___ an.",
+          "answer": "Vormittag",
+          "en": "I'll call you tomorrow morning."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Behörden und viele Arztpraxen haben nur vormittags offen — Bürgeramt-Termine liegen fast immer zwischen 8 und 12 Uhr.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "time",
+        "zeit"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "nachmittag",
+        "morgen-nomen"
+      ]
+    },
+    {
+      "id": "nachmittag",
+      "word": "der Nachmittag",
+      "lemma": "Nachmittag",
+      "translation": "afternoon",
+      "translations": [
+        "afternoon"
+      ],
+      "level": "A1",
+      "category": "Numbers, Time & Dates",
+      "partOfSpeech": "noun",
+      "frequency": 600,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Nachmittage",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Am Nachmittag gehe ich einkaufen.",
+          "en": "In the afternoon I go shopping."
+        },
+        {
+          "de": "Wir treffen uns heute Nachmittag.",
+          "en": "We're meeting this afternoon."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der ___ ist frei, ich habe keine Termine.",
+          "answer": "Nachmittag",
+          "en": "The afternoon is free, I have no appointments."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "time",
+        "zeit"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "vormittag",
+        "abend"
+      ]
+    },
+    {
+      "id": "abend",
+      "word": "der Abend",
+      "lemma": "Abend",
+      "translation": "evening",
+      "translations": [
+        "evening"
+      ],
+      "level": "A0",
+      "category": "Numbers, Time & Dates",
+      "partOfSpeech": "noun",
+      "frequency": 90,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Abende",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Guten Abend!",
+          "en": "Good evening!"
+        },
+        {
+          "de": "Am Abend koche ich meistens.",
+          "en": "In the evening I usually cook."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wir gehen heute ___ ins Kino.",
+          "answer": "Abend",
+          "en": "We're going to the cinema this evening."
+        }
+      ],
+      "notes": "'Abendbrot' ist das kalte Abendessen mit Brot, Käse und Wurst — sehr deutsch.",
+      "mnemonic": null,
+      "germany_context": "'Guten Abend' sagt man ab etwa 18 Uhr, zum Abschied 'Schönen Abend noch!'.",
+      "emoji": "🌆",
+      "imageable": false,
+      "tags": [
+        "time",
+        "zeit"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "abends",
+        "nacht"
+      ]
+    },
+    {
+      "id": "nacht",
+      "word": "die Nacht",
+      "lemma": "Nacht",
+      "translation": "night",
+      "translations": [
+        "night"
+      ],
+      "level": "A1",
+      "category": "Numbers, Time & Dates",
+      "partOfSpeech": "noun",
+      "frequency": 140,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Nächte",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Gute Nacht!",
+          "en": "Good night!"
+        },
+        {
+          "de": "Ich habe die ganze Nacht gearbeitet.",
+          "en": "I worked the whole night."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "In der ___ war es sehr laut.",
+          "answer": "Nacht",
+          "en": "It was very loud during the night."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Nachtruhe gilt meist von 22 bis 6 Uhr: keine laute Musik, keine Waschmaschine, kein Bohren. Nachbarn beschweren sich hier schnell.",
+      "emoji": "🌃",
+      "imageable": false,
+      "tags": [
+        "time",
+        "zeit"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "nachts",
+        "mitternacht"
+      ]
+    },
+    {
+      "id": "morgens",
+      "word": "morgens",
+      "lemma": "morgens",
+      "translation": "in the morning(s)",
+      "translations": [
+        "in the morning(s)",
+        "every morning"
+      ],
+      "level": "A1",
+      "category": "Numbers, Time & Dates",
+      "partOfSpeech": "adverb",
+      "frequency": 320,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Morgens trinke ich Kaffee.",
+          "en": "In the mornings I drink coffee."
+        },
+        {
+          "de": "Der Bäcker öffnet morgens um sechs.",
+          "en": "The bakery opens at six in the morning."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich gehe ___ immer joggen.",
+          "answer": "morgens",
+          "en": "I always go jogging in the morning."
+        }
+      ],
+      "notes": "Die Formen auf '-s' (morgens, mittags, abends, nachts) bedeuten 'regelmäßig', nicht 'einmal'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "time",
+        "zeit"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "abends",
+        "nachts",
+        "morgen-nomen"
+      ]
+    },
+    {
+      "id": "abends",
+      "word": "abends",
+      "lemma": "abends",
+      "translation": "in the evening(s)",
+      "translations": [
+        "in the evening(s)",
+        "every evening"
+      ],
+      "level": "A1",
+      "category": "Numbers, Time & Dates",
+      "partOfSpeech": "adverb",
+      "frequency": 325,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Abends bin ich meistens zu Hause.",
+          "en": "In the evenings I'm usually at home."
+        },
+        {
+          "de": "Wir essen abends um sieben.",
+          "en": "We eat at seven in the evening."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ ist der Supermarkt sehr voll.",
+          "answer": "Abends",
+          "en": "In the evening the supermarket is very full."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "time",
+        "zeit"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "morgens",
+        "abend"
+      ]
+    },
+    {
+      "id": "nachts",
+      "word": "nachts",
+      "lemma": "nachts",
+      "translation": "at night",
+      "translations": [
+        "at night",
+        "during the night"
+      ],
+      "level": "A1",
+      "category": "Numbers, Time & Dates",
+      "partOfSpeech": "adverb",
+      "frequency": 330,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Nachts fahren nur wenige Busse.",
+          "en": "At night only a few buses run."
+        },
+        {
+          "de": "Ich schlafe nachts schlecht.",
+          "en": "I sleep badly at night."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Späti hat auch ___ offen.",
+          "answer": "nachts",
+          "en": "The corner shop is open at night too."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "'Späti' (Spätkauf) gibt es vor allem in Berlin. Sonst schließen Supermärkte spätestens um 22 Uhr — danach hilft nur die Tankstelle.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "time",
+        "zeit"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "nacht",
+        "morgens"
+      ]
+    },
+    {
+      "id": "montag",
+      "word": "der Montag",
+      "lemma": "Montag",
+      "translation": "Monday",
+      "translations": [
+        "Monday"
+      ],
+      "level": "A1",
+      "category": "Numbers, Time & Dates",
+      "partOfSpeech": "noun",
+      "frequency": 70,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Montage",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Am Montag beginnt die Arbeitswoche.",
+          "en": "The working week starts on Monday."
+        },
+        {
+          "de": "Der Montag war sehr stressig.",
+          "en": "Monday was very stressful."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wir sehen uns am ___.",
+          "answer": "Montag",
+          "en": "See you on Monday."
+        }
+      ],
+      "notes": "Wochentage sind alle maskulin: der Montag, der Dienstag …",
+      "mnemonic": null,
+      "germany_context": "Viele Museen und einige Restaurants haben montags Ruhetag — vorher die Öffnungszeiten prüfen.",
+      "emoji": "📅",
+      "imageable": false,
+      "tags": [
+        "date",
+        "datum"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "dienstag",
+        "woche"
+      ]
+    },
+    {
+      "id": "dienstag",
+      "word": "der Dienstag",
+      "lemma": "Dienstag",
+      "translation": "Tuesday",
+      "translations": [
+        "Tuesday"
+      ],
+      "level": "A1",
+      "category": "Numbers, Time & Dates",
+      "partOfSpeech": "noun",
+      "frequency": 71,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Dienstage",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Am Dienstag habe ich einen Termin.",
+          "en": "On Tuesday I have an appointment."
+        },
+        {
+          "de": "Der Dienstag passt mir gut.",
+          "en": "Tuesday works well for me."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Kurs findet jeden ___ statt.",
+          "answer": "Dienstag",
+          "en": "The course takes place every Tuesday."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "📅",
+      "imageable": false,
+      "tags": [
+        "date",
+        "datum"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "montag"
+      ]
+    },
+    {
+      "id": "mittwoch",
+      "word": "der Mittwoch",
+      "lemma": "Mittwoch",
+      "translation": "Wednesday",
+      "translations": [
+        "Wednesday"
+      ],
+      "level": "A1",
+      "category": "Numbers, Time & Dates",
+      "partOfSpeech": "noun",
+      "frequency": 72,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Mittwoche",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Am Mittwoch gehe ich zum Sport.",
+          "en": "On Wednesday I go to the gym."
+        },
+        {
+          "de": "Mittwoch ist die Mitte der Woche.",
+          "en": "Wednesday is the middle of the week."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Können wir uns am ___ treffen?",
+          "answer": "Mittwoch",
+          "en": "Can we meet on Wednesday?"
+        }
+      ],
+      "notes": null,
+      "mnemonic": "Mittwoch = Mitte + Woche.",
+      "germany_context": null,
+      "emoji": "📅",
+      "imageable": false,
+      "tags": [
+        "date",
+        "datum"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "woche"
+      ]
+    },
+    {
+      "id": "donnerstag",
+      "word": "der Donnerstag",
+      "lemma": "Donnerstag",
+      "translation": "Thursday",
+      "translations": [
+        "Thursday"
+      ],
+      "level": "A1",
+      "category": "Numbers, Time & Dates",
+      "partOfSpeech": "noun",
+      "frequency": 73,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Donnerstage",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Am Donnerstag kommt der Handwerker.",
+          "en": "The repairman is coming on Thursday."
+        },
+        {
+          "de": "Donnerstag habe ich frei.",
+          "en": "I'm off on Thursday."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Müll wird immer am ___ abgeholt.",
+          "answer": "Donnerstag",
+          "en": "The rubbish is always collected on Thursday."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Müll wird nach festem Plan abgeholt — Restmüll, Bio, Papier und Gelber Sack an verschiedenen Tagen. Die Tonne muss am Vorabend an die Straße.",
+      "emoji": "📅",
+      "imageable": false,
+      "tags": [
+        "date",
+        "datum"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    {
+      "id": "freitag",
+      "word": "der Freitag",
+      "lemma": "Freitag",
+      "translation": "Friday",
+      "translations": [
+        "Friday"
+      ],
+      "level": "A1",
+      "category": "Numbers, Time & Dates",
+      "partOfSpeech": "noun",
+      "frequency": 74,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Freitage",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Am Freitag gehen wir aus.",
+          "en": "On Friday we're going out."
+        },
+        {
+          "de": "Freitag ist mein Lieblingstag.",
+          "en": "Friday is my favourite day."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der ___ ist der letzte Arbeitstag der Woche.",
+          "answer": "Freitag",
+          "en": "Friday is the last working day of the week."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Viele Büros machen freitags früher Schluss, und Behörden schließen oft schon um 12 Uhr.",
+      "emoji": "📅",
+      "imageable": false,
+      "tags": [
+        "date",
+        "datum"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    {
+      "id": "samstag",
+      "word": "der Samstag",
+      "lemma": "Samstag",
+      "translation": "Saturday",
+      "translations": [
+        "Saturday"
+      ],
+      "level": "A0",
+      "category": "Numbers, Time & Dates",
+      "partOfSpeech": "noun",
+      "frequency": 75,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Samstage",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Am Samstag kaufe ich für die ganze Woche ein.",
+          "en": "On Saturday I shop for the whole week."
+        },
+        {
+          "de": "Der Samstag ist mein einziger freier Tag.",
+          "en": "Saturday is my only free day."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Wochenmarkt ist immer am ___.",
+          "answer": "Samstag",
+          "en": "The farmers' market is always on Saturday."
+        }
+      ],
+      "notes": "Im Norden und Osten sagt man auch 'Sonnabend'.",
+      "mnemonic": null,
+      "germany_context": "Samstag ist der große Einkaufstag, weil sonntags alle Supermärkte zu sind. Nachmittags sind die Läden voll.",
+      "emoji": "🛒",
+      "imageable": false,
+      "tags": [
+        "date",
+        "datum"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "sonntag",
+        "wochenende"
+      ]
+    },
+    {
+      "id": "sonntag",
+      "word": "der Sonntag",
+      "lemma": "Sonntag",
+      "translation": "Sunday",
+      "translations": [
+        "Sunday"
+      ],
+      "level": "A0",
+      "category": "Numbers, Time & Dates",
+      "partOfSpeech": "noun",
+      "frequency": 76,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Sonntage",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Am Sonntag sind alle Läden zu.",
+          "en": "On Sunday all the shops are closed."
+        },
+        {
+          "de": "Der Sonntag ist ein Ruhetag.",
+          "en": "Sunday is a day of rest."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Am ___ ist der Supermarkt geschlossen.",
+          "answer": "Sonntag",
+          "en": "On Sunday the supermarket is closed."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Sonntag ist gesetzlicher Ruhetag: Geschäfte sind geschlossen, Bohren, Rasenmähen und laute Arbeiten sind verboten. Offen haben nur Tankstellen, Bäckereien am Vormittag und Supermärkte in großen Bahnhöfen.",
+      "emoji": "😴",
+      "imageable": false,
+      "tags": [
+        "date",
+        "datum"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "samstag",
+        "feiertag"
+      ]
+    },
+    {
+      "id": "januar",
+      "word": "der Januar",
+      "lemma": "Januar",
+      "translation": "January",
+      "translations": [
+        "January"
+      ],
+      "level": "A1",
+      "category": "Numbers, Time & Dates",
+      "partOfSpeech": "noun",
+      "frequency": 340,
+      "gender": "m",
+      "article": "der",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Im Januar ist es sehr kalt.",
+          "en": "In January it's very cold."
+        },
+        {
+          "de": "Mein Vertrag beginnt am ersten Januar.",
+          "en": "My contract starts on the first of January."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der ___ ist der erste Monat im Jahr.",
+          "answer": "Januar",
+          "en": "January is the first month of the year."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Der 1. Januar (Neujahr) ist gesetzlicher Feiertag. In der Silvesternacht wird überall privat geböllert.",
+      "emoji": "🗓️",
+      "imageable": false,
+      "tags": [
+        "date",
+        "datum",
+        "monate"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "monat"
+      ]
+    },
+    {
+      "id": "februar",
+      "word": "der Februar",
+      "lemma": "Februar",
+      "translation": "February",
+      "translations": [
+        "February"
+      ],
+      "level": "A1",
+      "category": "Numbers, Time & Dates",
+      "partOfSpeech": "noun",
+      "frequency": 345,
+      "gender": "m",
+      "article": "der",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Februar hat achtundzwanzig Tage.",
+          "en": "February has twenty-eight days."
+        },
+        {
+          "de": "Im Februar fahren wir in den Urlaub.",
+          "en": "In February we're going on holiday."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Mein Geburtstag ist im ___.",
+          "answer": "Februar",
+          "en": "My birthday is in February."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Im Februar ist Karneval bzw. Fasching. Im Rheinland (Köln, Düsseldorf) sind Rosenmontag und Faschingsdienstag praktisch arbeitsfrei.",
+      "emoji": "🗓️",
+      "imageable": false,
+      "tags": [
+        "date",
+        "datum",
+        "monate"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "monat"
+      ]
+    },
+    {
+      "id": "maerz",
+      "word": "der März",
+      "lemma": "März",
+      "translation": "March",
+      "translations": [
+        "March"
+      ],
+      "level": "A1",
+      "category": "Numbers, Time & Dates",
+      "partOfSpeech": "noun",
+      "frequency": 350,
+      "gender": "m",
+      "article": "der",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Im März wird es wieder wärmer.",
+          "en": "In March it gets warmer again."
+        },
+        {
+          "de": "Der Frühling beginnt im März.",
+          "en": "Spring begins in March."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wir ziehen im ___ um.",
+          "answer": "März",
+          "en": "We're moving house in March."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Ende März wird die Uhr eine Stunde vorgestellt — die Sommerzeit beginnt.",
+      "emoji": "🗓️",
+      "imageable": false,
+      "tags": [
+        "date",
+        "datum",
+        "monate"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "monat"
+      ]
+    },
+    {
+      "id": "april",
+      "word": "der April",
+      "lemma": "April",
+      "translation": "April",
+      "translations": [
+        "April"
+      ],
+      "level": "A1",
+      "category": "Numbers, Time & Dates",
+      "partOfSpeech": "noun",
+      "frequency": 355,
+      "gender": "m",
+      "article": "der",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Im April regnet es oft.",
+          "en": "In April it often rains."
+        },
+        {
+          "de": "Der Kurs beginnt im April.",
+          "en": "The course starts in April."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Das Wetter im ___ ist sehr wechselhaft.",
+          "answer": "April",
+          "en": "The weather in April is very changeable."
+        }
+      ],
+      "notes": "'April, April!' ruft man am 1. April nach einem Aprilscherz.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🗓️",
+      "imageable": false,
+      "tags": [
+        "date",
+        "datum",
+        "monate"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "monat"
+      ]
+    },
+    {
+      "id": "mai",
+      "word": "der Mai",
+      "lemma": "Mai",
+      "translation": "May",
+      "translations": [
+        "May"
+      ],
+      "level": "A1",
+      "category": "Numbers, Time & Dates",
+      "partOfSpeech": "noun",
+      "frequency": 360,
+      "gender": "m",
+      "article": "der",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der erste Mai ist ein Feiertag.",
+          "en": "The first of May is a public holiday."
+        },
+        {
+          "de": "Im Mai blühen die Bäume.",
+          "en": "In May the trees blossom."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wir heiraten im ___.",
+          "answer": "Mai",
+          "en": "We're getting married in May."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Der 1. Mai (Tag der Arbeit) ist bundesweiter Feiertag — alles ist geschlossen, dafür gibt es Demos und Straßenfeste.",
+      "emoji": "🗓️",
+      "imageable": false,
+      "tags": [
+        "date",
+        "datum",
+        "monate"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "monat"
+      ]
+    },
+    {
+      "id": "juni",
+      "word": "der Juni",
+      "lemma": "Juni",
+      "translation": "June",
+      "translations": [
+        "June"
+      ],
+      "level": "A1",
+      "category": "Numbers, Time & Dates",
+      "partOfSpeech": "noun",
+      "frequency": 365,
+      "gender": "m",
+      "article": "der",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Im Juni werden die Tage lang.",
+          "en": "In June the days get long."
+        },
+        {
+          "de": "Der Sommer beginnt im Juni.",
+          "en": "Summer begins in June."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Mein Urlaub ist im ___.",
+          "answer": "Juni",
+          "en": "My holiday is in June."
+        }
+      ],
+      "notes": "Am Telefon sagt man oft 'Juno' statt 'Juni', damit man es nicht mit 'Juli' verwechselt.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🗓️",
+      "imageable": false,
+      "tags": [
+        "date",
+        "datum",
+        "monate"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "monat"
+      ]
+    },
+    {
+      "id": "juli",
+      "word": "der Juli",
+      "lemma": "Juli",
+      "translation": "July",
+      "translations": [
+        "July"
+      ],
+      "level": "A1",
+      "category": "Numbers, Time & Dates",
+      "partOfSpeech": "noun",
+      "frequency": 370,
+      "gender": "m",
+      "article": "der",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Im Juli ist es meistens heiß.",
+          "en": "In July it's usually hot."
+        },
+        {
+          "de": "Die Schulferien beginnen im Juli.",
+          "en": "The school holidays start in July."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wir fliegen im ___ nach Istanbul.",
+          "answer": "Juli",
+          "en": "We're flying to Istanbul in July."
+        }
+      ],
+      "notes": "Am Telefon sagt man 'Julei' statt 'Juli', um es von 'Juni' zu unterscheiden.",
+      "mnemonic": null,
+      "germany_context": "Die Sommerferien liegen je nach Bundesland zwischen Juni und September und wechseln jedes Jahr — Flüge werden dann teuer.",
+      "emoji": "🗓️",
+      "imageable": false,
+      "tags": [
+        "date",
+        "datum",
+        "monate"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "monat"
+      ]
+    },
+    {
+      "id": "august",
+      "word": "der August",
+      "lemma": "August",
+      "translation": "August",
+      "translations": [
+        "August"
+      ],
+      "level": "A1",
+      "category": "Numbers, Time & Dates",
+      "partOfSpeech": "noun",
+      "frequency": 375,
+      "gender": "m",
+      "article": "der",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Im August sind viele Kollegen im Urlaub.",
+          "en": "In August many colleagues are on holiday."
+        },
+        {
+          "de": "Der August ist der achte Monat.",
+          "en": "August is the eighth month."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Im ___ war es dieses Jahr sehr heiß.",
+          "answer": "August",
+          "en": "This year it was very hot in August."
+        }
+      ],
+      "notes": "Als Vorname wird 'August' anders betont: der Monat heißt au-GUST.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🗓️",
+      "imageable": false,
+      "tags": [
+        "date",
+        "datum",
+        "monate"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "monat"
+      ]
+    },
+    {
+      "id": "september",
+      "word": "der September",
+      "lemma": "September",
+      "translation": "September",
+      "translations": [
+        "September"
+      ],
+      "level": "A1",
+      "category": "Numbers, Time & Dates",
+      "partOfSpeech": "noun",
+      "frequency": 380,
+      "gender": "m",
+      "article": "der",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Im September beginnt die Schule wieder.",
+          "en": "School starts again in September."
+        },
+        {
+          "de": "Das Oktoberfest beginnt schon im September.",
+          "en": "Oktoberfest already starts in September."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Herbst beginnt im ___.",
+          "answer": "September",
+          "en": "Autumn begins in September."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Das Oktoberfest in München startet trotz des Namens Mitte September und endet Anfang Oktober.",
+      "emoji": "🗓️",
+      "imageable": false,
+      "tags": [
+        "date",
+        "datum",
+        "monate"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "monat"
+      ]
+    },
+    {
+      "id": "oktober",
+      "word": "der Oktober",
+      "lemma": "Oktober",
+      "translation": "October",
+      "translations": [
+        "October"
+      ],
+      "level": "A1",
+      "category": "Numbers, Time & Dates",
+      "partOfSpeech": "noun",
+      "frequency": 385,
+      "gender": "m",
+      "article": "der",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Im Oktober werden die Blätter bunt.",
+          "en": "In October the leaves turn colourful."
+        },
+        {
+          "de": "Der dritte Oktober ist ein Feiertag.",
+          "en": "The third of October is a public holiday."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ende ___ wird die Uhr zurückgestellt.",
+          "answer": "Oktober",
+          "en": "At the end of October the clocks go back."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Ende Oktober endet die Sommerzeit: Die Uhr wird eine Stunde zurückgestellt, es wird früh dunkel.",
+      "emoji": "🗓️",
+      "imageable": false,
+      "tags": [
+        "date",
+        "datum",
+        "monate"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "monat"
+      ]
+    },
+    {
+      "id": "november",
+      "word": "der November",
+      "lemma": "November",
+      "translation": "November",
+      "translations": [
+        "November"
+      ],
+      "level": "A1",
+      "category": "Numbers, Time & Dates",
+      "partOfSpeech": "noun",
+      "frequency": 390,
+      "gender": "m",
+      "article": "der",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Im November ist es oft grau.",
+          "en": "In November it's often grey."
+        },
+        {
+          "de": "Der November hat dreißig Tage.",
+          "en": "November has thirty days."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Im ___ wird es schon um vier Uhr dunkel.",
+          "answer": "November",
+          "en": "In November it gets dark as early as four o'clock."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Der November gilt als der graueste Monat. Viele nehmen im Winter Vitamin D, weil es kaum Sonne gibt.",
+      "emoji": "🗓️",
+      "imageable": false,
+      "tags": [
+        "date",
+        "datum",
+        "monate"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "monat"
+      ]
+    },
+    {
+      "id": "dezember",
+      "word": "der Dezember",
+      "lemma": "Dezember",
+      "translation": "December",
+      "translations": [
+        "December"
+      ],
+      "level": "A1",
+      "category": "Numbers, Time & Dates",
+      "partOfSpeech": "noun",
+      "frequency": 395,
+      "gender": "m",
+      "article": "der",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Im Dezember ist Weihnachten.",
+          "en": "Christmas is in December."
+        },
+        {
+          "de": "Der Dezember ist der letzte Monat des Jahres.",
+          "en": "December is the last month of the year."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Die Weihnachtsmärkte öffnen Ende November oder Anfang ___.",
+          "answer": "Dezember",
+          "en": "The Christmas markets open at the end of November or the beginning of December."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Der 24. Dezember ist kein offizieller Feiertag, aber die Läden schließen mittags. Der 25. und 26. Dezember sind Feiertage — alles ist zu.",
+      "emoji": "🗓️",
+      "imageable": false,
+      "tags": [
+        "date",
+        "datum",
+        "monate"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "monat"
+      ]
+    },
+    {
+      "id": "fruehling",
+      "word": "der Frühling",
+      "lemma": "Frühling",
+      "translation": "spring",
+      "translations": [
+        "spring"
+      ],
+      "level": "A1",
+      "category": "Numbers, Time & Dates",
+      "partOfSpeech": "noun",
+      "frequency": 440,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Frühlinge",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Im Frühling wird es wieder warm.",
+          "en": "In spring it gets warm again."
+        },
+        {
+          "de": "Der Frühling ist meine Lieblingsjahreszeit.",
+          "en": "Spring is my favourite season."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Die Blumen blühen im ___.",
+          "answer": "Frühling",
+          "en": "The flowers bloom in spring."
+        }
+      ],
+      "notes": "Auch 'das Frühjahr' — vor allem im Wetterbericht und in offiziellen Texten.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🌸",
+      "imageable": false,
+      "tags": [
+        "date",
+        "datum",
+        "jahreszeiten"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "jahreszeit"
+      ]
+    },
+    {
+      "id": "sommer",
+      "word": "der Sommer",
+      "lemma": "Sommer",
+      "translation": "summer",
+      "translations": [
+        "summer"
+      ],
+      "level": "A1",
+      "category": "Numbers, Time & Dates",
+      "partOfSpeech": "noun",
+      "frequency": 445,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Sommer",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Im Sommer gehen wir schwimmen.",
+          "en": "In summer we go swimming."
+        },
+        {
+          "de": "Der Sommer war dieses Jahr sehr heiß.",
+          "en": "The summer was very hot this year."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Im ___ sitzen alle draußen im Biergarten.",
+          "answer": "Sommer",
+          "en": "In summer everyone sits outside in the beer garden."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Im Sommer sind Biergärten, Freibäder und Seen voll. Klimaanlagen sind in Wohnungen und Zügen selten.",
+      "emoji": "☀️",
+      "imageable": false,
+      "tags": [
+        "date",
+        "datum",
+        "jahreszeiten"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "jahreszeit"
+      ]
+    },
+    {
+      "id": "winter",
+      "word": "der Winter",
+      "lemma": "Winter",
+      "translation": "winter",
+      "translations": [
+        "winter"
+      ],
+      "level": "A1",
+      "category": "Numbers, Time & Dates",
+      "partOfSpeech": "noun",
+      "frequency": 455,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Winter",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Im Winter schneit es manchmal.",
+          "en": "In winter it sometimes snows."
+        },
+        {
+          "de": "Der Winter in Deutschland ist kalt und dunkel.",
+          "en": "Winter in Germany is cold and dark."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Im ___ brauchst du eine dicke Jacke.",
+          "answer": "Winter",
+          "en": "In winter you need a thick jacket."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Winterreifen sind bei Schnee und Eis Pflicht ('situative Winterreifenpflicht') — ohne sie gibt es Bußgeld und Ärger mit der Versicherung.",
+      "emoji": "❄️",
+      "imageable": false,
+      "tags": [
+        "date",
+        "datum",
+        "jahreszeiten"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "jahreszeit"
+      ]
+    },
+    {
+      "id": "tag",
+      "word": "der Tag",
+      "lemma": "Tag",
+      "translation": "day",
+      "translations": [
+        "day"
+      ],
+      "level": "A0",
+      "category": "Numbers, Time & Dates",
+      "partOfSpeech": "noun",
+      "frequency": 50,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Tage",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Guten Tag!",
+          "en": "Hello! / Good day!"
+        },
+        {
+          "de": "Der Tag hat vierundzwanzig Stunden.",
+          "en": "The day has twenty-four hours."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich arbeite jeden ___ acht Stunden.",
+          "answer": "Tag",
+          "en": "I work eight hours every day."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "'Guten Tag' ist die normale Begrüßung im Laden und im Büro. Im Süden hört man 'Grüß Gott', im Norden 'Moin'.",
+      "emoji": "📆",
+      "imageable": false,
+      "tags": [
+        "time",
+        "zeit"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "woche",
+        "jeden-tag"
+      ]
+    },
+    {
+      "id": "woche",
+      "word": "die Woche",
+      "lemma": "Woche",
+      "translation": "week",
+      "translations": [
+        "week"
+      ],
+      "level": "A0",
+      "category": "Numbers, Time & Dates",
+      "partOfSpeech": "noun",
+      "frequency": 65,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Wochen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Diese Woche habe ich viel zu tun.",
+          "en": "This week I have a lot to do."
+        },
+        {
+          "de": "Die Woche hat sieben Tage.",
+          "en": "The week has seven days."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich fahre nächste ___ nach München.",
+          "answer": "Woche",
+          "en": "I'm going to Munich next week."
+        }
+      ],
+      "notes": "In Deutschland beginnt die Woche am Montag, nicht am Sonntag — auch in Kalendern.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "time",
+        "zeit"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "tag",
+        "wochenende",
+        "monat"
+      ]
+    },
+    {
+      "id": "monat",
+      "word": "der Monat",
+      "lemma": "Monat",
+      "translation": "month",
+      "translations": [
+        "month"
+      ],
+      "level": "A1",
+      "category": "Numbers, Time & Dates",
+      "partOfSpeech": "noun",
+      "frequency": 105,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Monate",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich zahle die Miete jeden Monat.",
+          "en": "I pay the rent every month."
+        },
+        {
+          "de": "Das Jahr hat zwölf Monate.",
+          "en": "The year has twelve months."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Letzten ___ war ich in Berlin.",
+          "answer": "Monat",
+          "en": "Last month I was in Berlin."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Gehalt kommt meist am Monatsende, die Miete ist spätestens am dritten Werktag des Monats fällig. Kündigungsfristen zählen ebenfalls in Monaten.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "time",
+        "zeit"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "woche",
+        "jahr"
+      ]
+    },
+    {
+      "id": "jahr",
+      "word": "das Jahr",
+      "lemma": "Jahr",
+      "translation": "year",
+      "translations": [
+        "year"
+      ],
+      "level": "A0",
+      "category": "Numbers, Time & Dates",
+      "partOfSpeech": "noun",
+      "frequency": 80,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Jahre",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich bin dreißig Jahre alt.",
+          "en": "I am thirty years old."
+        },
+        {
+          "de": "Nächstes Jahr ziehe ich nach Berlin.",
+          "en": "Next year I'm moving to Berlin."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wir wohnen seit zwei ___ hier.",
+          "answer": "Jahren",
+          "en": "We've been living here for two years."
+        }
+      ],
+      "notes": "Alter sagt man immer mit 'Jahre alt' oder nur der Zahl: 'Ich bin 30.'",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "time",
+        "zeit"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "monat",
+        "jahreszeit"
+      ]
+    },
+    {
+      "id": "wochenende",
+      "word": "das Wochenende",
+      "lemma": "Wochenende",
+      "translation": "weekend",
+      "translations": [
+        "weekend"
+      ],
+      "level": "A1",
+      "category": "Numbers, Time & Dates",
+      "partOfSpeech": "noun",
+      "frequency": 145,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Wochenenden",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Am Wochenende schlafe ich lange.",
+          "en": "At the weekend I sleep in."
+        },
+        {
+          "de": "Schönes Wochenende!",
+          "en": "Have a nice weekend!"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Was machst du am ___?",
+          "answer": "Wochenende",
+          "en": "What are you doing at the weekend?"
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "'Schönes Wochenende!' sagt man freitags zu allen — auch zur Kassiererin. Samstag wird eingekauft, Sonntag ist alles zu.",
+      "emoji": "🎉",
+      "imageable": false,
+      "tags": [
+        "time",
+        "zeit"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "samstag",
+        "sonntag"
+      ]
+    },
+    {
+      "id": "feiertag",
+      "word": "der Feiertag",
+      "lemma": "Feiertag",
+      "translation": "public holiday",
+      "translations": [
+        "public holiday",
+        "bank holiday"
+      ],
+      "level": "A2",
+      "category": "Numbers, Time & Dates",
+      "partOfSpeech": "noun",
+      "frequency": 560,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Feiertage",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Morgen ist ein Feiertag, die Läden sind zu.",
+          "en": "Tomorrow is a public holiday, the shops are closed."
+        },
+        {
+          "de": "Wie viele Feiertage gibt es hier?",
+          "en": "How many public holidays are there here?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "An einem ___ fährt der Bus wie am Sonntag.",
+          "answer": "Feiertag",
+          "en": "On a public holiday the bus runs like on Sunday."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Feiertage sind Ländersache: Bayern hat 13, Berlin nur 9. An Feiertagen gelten Sonntagsregeln — Geschäfte zu, Busse und Bahnen nach Sonntagsfahrplan. Vorher einkaufen!",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "date",
+        "datum"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "sonntag"
+      ]
+    },
+    {
+      "id": "geburtstag",
+      "word": "der Geburtstag",
+      "lemma": "Geburtstag",
+      "translation": "birthday",
+      "translations": [
+        "birthday"
+      ],
+      "level": "A1",
+      "category": "Numbers, Time & Dates",
+      "partOfSpeech": "noun",
+      "frequency": 290,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Geburtstage",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Herzlichen Glückwunsch zum Geburtstag!",
+          "en": "Happy birthday!"
+        },
+        {
+          "de": "Mein Geburtstag ist im Mai.",
+          "en": "My birthday is in May."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wann hast du ___?",
+          "answer": "Geburtstag",
+          "en": "When is your birthday?"
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Man gratuliert nie vor dem Tag — das bringt angeblich Unglück. Und wer Geburtstag hat, bringt selbst Kuchen ins Büro mit und lädt ein.",
+      "emoji": "🎂",
+      "imageable": false,
+      "tags": [
+        "date",
+        "datum"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "datum"
+      ]
+    },
+    {
+      "id": "datum",
+      "word": "das Datum",
+      "lemma": "Datum",
+      "translation": "date",
+      "translations": [
+        "date"
+      ],
+      "level": "A2",
+      "category": "Numbers, Time & Dates",
+      "partOfSpeech": "noun",
+      "frequency": 570,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Daten",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Welches Datum haben wir heute?",
+          "en": "What's the date today?"
+        },
+        {
+          "de": "Schreib bitte das Datum auf das Formular.",
+          "en": "Please write the date on the form."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Das ___ auf dem Vertrag ist falsch.",
+          "answer": "Datum",
+          "en": "The date on the contract is wrong."
+        }
+      ],
+      "notes": "Plural 'die Daten' heißt auch 'data' (Computer).",
+      "mnemonic": null,
+      "germany_context": "Deutsche Daten sind DD.MM.JJJJ: 03.08.2026 ist der 3. August, nicht der 8. März. Auf Formularen immer mit Punkten und vierstelligem Jahr schreiben.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "date",
+        "datum"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "geburtstag",
+        "erste"
+      ]
+    },
+    {
+      "id": "termin",
+      "word": "der Termin",
+      "lemma": "Termin",
+      "translation": "appointment",
+      "translations": [
+        "appointment",
+        "date (meeting)"
+      ],
+      "level": "A1",
+      "category": "Numbers, Time & Dates",
+      "partOfSpeech": "noun",
+      "frequency": 165,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Termine",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich habe morgen einen Termin beim Arzt.",
+          "en": "I have a doctor's appointment tomorrow."
+        },
+        {
+          "de": "Können wir einen Termin machen?",
+          "en": "Can we make an appointment?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich möchte einen ___ vereinbaren.",
+          "answer": "Termin",
+          "en": "I'd like to make an appointment."
+        }
+      ],
+      "notes": "'Termin' ist nicht 'deadline' — das heißt 'die Frist'.",
+      "mnemonic": null,
+      "germany_context": "Ohne Termin geht in Deutschland fast nichts: Bürgeramt, Arzt, Bank, Handwerker, oft sogar der Friseur. Termine bucht man Wochen im Voraus online und sagt rechtzeitig ab — wer nicht erscheint, zahlt beim Arzt manchmal eine Ausfallgebühr.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "time",
+        "zeit",
+        "buerokratie"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "uhrzeit",
+        "datum"
+      ]
+    },
+    {
+      "id": "zeit",
+      "word": "die Zeit",
+      "lemma": "Zeit",
+      "translation": "time",
+      "translations": [
+        "time"
+      ],
+      "level": "A1",
+      "category": "Numbers, Time & Dates",
+      "partOfSpeech": "noun",
+      "frequency": 85,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Zeiten",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich habe keine Zeit.",
+          "en": "I don't have time."
+        },
+        {
+          "de": "Hast du kurz Zeit?",
+          "en": "Do you have a minute?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wir haben genug ___ bis zum Zug.",
+          "answer": "Zeit",
+          "en": "We have enough time until the train."
+        }
+      ],
+      "notes": "'Zeit haben' = frei sein. 'Es wird Zeit' = it's about time.",
+      "mnemonic": null,
+      "germany_context": "Pünktlichkeit ist hier ein Zeichen von Respekt: Zum Termin kommt man 5 Minuten früher, bei privaten Einladungen höchstens 15 Minuten später.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "time",
+        "zeit"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "stunde",
+        "termin"
+      ]
+    },
+    {
+      "id": "uebermorgen",
+      "word": "übermorgen",
+      "lemma": "übermorgen",
+      "translation": "the day after tomorrow",
+      "translations": [
+        "the day after tomorrow"
+      ],
+      "level": "A1",
+      "category": "Numbers, Time & Dates",
+      "partOfSpeech": "adverb",
+      "frequency": 620,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Übermorgen fliege ich nach Istanbul.",
+          "en": "The day after tomorrow I'm flying to Istanbul."
+        },
+        {
+          "de": "Der Termin ist übermorgen um zehn.",
+          "en": "The appointment is the day after tomorrow at ten."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Heute ist Montag, also ist ___ Mittwoch.",
+          "answer": "übermorgen",
+          "en": "Today is Monday, so the day after tomorrow is Wednesday."
+        }
+      ],
+      "notes": "morgen = tomorrow, übermorgen = the day after tomorrow. Gegenteil: vorgestern.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "time",
+        "zeit"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "vorgestern"
+      ],
+      "related": [
+        "vorgestern"
+      ]
+    },
+    {
+      "id": "vorgestern",
+      "word": "vorgestern",
+      "lemma": "vorgestern",
+      "translation": "the day before yesterday",
+      "translations": [
+        "the day before yesterday"
+      ],
+      "level": "A2",
+      "category": "Numbers, Time & Dates",
+      "partOfSpeech": "adverb",
+      "frequency": 780,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Vorgestern war ich beim Arzt.",
+          "en": "The day before yesterday I was at the doctor's."
+        },
+        {
+          "de": "Das Paket ist vorgestern gekommen.",
+          "en": "The parcel arrived the day before yesterday."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich habe ihn ___ zum letzten Mal gesehen.",
+          "answer": "vorgestern",
+          "en": "I saw him for the last time the day before yesterday."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "time",
+        "zeit"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "übermorgen"
+      ],
+      "related": [
+        "uebermorgen"
+      ]
+    },
+    {
+      "id": "jeden-tag",
+      "word": "jeden Tag",
+      "lemma": "jeden Tag",
+      "translation": "every day",
+      "translations": [
+        "every day",
+        "daily"
+      ],
+      "level": "A1",
+      "category": "Numbers, Time & Dates",
+      "partOfSpeech": "phrase",
+      "frequency": 195,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich fahre jeden Tag mit der S-Bahn.",
+          "en": "I take the train every day."
+        },
+        {
+          "de": "Jeden Tag lerne ich zehn neue Wörter.",
+          "en": "Every day I learn ten new words."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Meine Nachbarin geht ___ spazieren.",
+          "answer": "jeden Tag",
+          "en": "My neighbour goes for a walk every day."
+        }
+      ],
+      "notes": "Zeitangaben mit 'jeden/jede/jedes' stehen im Akkusativ: jeden Tag, jede Woche, jedes Jahr.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "time",
+        "zeit"
+      ],
+      "synonyms": [
+        "täglich"
+      ],
+      "antonyms": [],
+      "related": [
+        "tag",
+        "einmal-pro-woche"
+      ]
+    },
+    {
+      "id": "einmal-pro-woche",
+      "word": "einmal pro Woche",
+      "lemma": "einmal pro Woche",
+      "translation": "once a week",
+      "translations": [
+        "once a week"
+      ],
+      "level": "A2",
+      "category": "Numbers, Time & Dates",
+      "partOfSpeech": "phrase",
+      "frequency": 890,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich gehe einmal pro Woche zum Deutschkurs.",
+          "en": "I go to the German course once a week."
+        },
+        {
+          "de": "Wir telefonieren einmal pro Woche.",
+          "en": "We talk on the phone once a week."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Gelbe Sack wird nur ___ abgeholt.",
+          "answer": "einmal pro Woche",
+          "en": "The recycling bag is only collected once a week."
+        }
+      ],
+      "notes": "Auch 'einmal die Woche' oder 'einmal in der Woche'. Weiter: zweimal pro Monat, dreimal pro Jahr.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "time",
+        "zeit"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "jeden-tag",
+        "woche"
+      ]
+    }
+  ]
+}

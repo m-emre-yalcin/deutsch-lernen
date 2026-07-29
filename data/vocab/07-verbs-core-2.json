@@ -1,0 +1,4159 @@
+{
+  "category": "Core Verbs II",
+  "words": [
+    {
+      "id": "bezahlen",
+      "word": "bezahlen",
+      "lemma": "bezahlen",
+      "translation": "to pay",
+      "translations": [
+        "to pay",
+        "to pay for"
+      ],
+      "level": "A0",
+      "category": "Core Verbs II",
+      "partOfSpeech": "verb",
+      "frequency": 180,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "bezahle",
+        "du": "bezahlst",
+        "er": "bezahlt",
+        "wir": "bezahlen",
+        "ihr": "bezahlt",
+        "sie": "bezahlen",
+        "praeteritum": "bezahlte",
+        "perfekt": "hat bezahlt",
+        "imperativ": "bezahl(e)!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich möchte bitte bezahlen.",
+          "en": "I would like to pay, please."
+        },
+        {
+          "de": "Kann ich mit Karte bezahlen?",
+          "en": "Can I pay by card?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wir haben die Rechnung schon ___.",
+          "answer": "bezahlt",
+          "en": "We have already paid the bill."
+        }
+      ],
+      "notes": "Inseparable be- prefix, so no ge- in the participle: hat bezahlt. 'Zahlen' alone works too: 'Zahlen, bitte!'",
+      "mnemonic": "be-ZAHL-en — 'Zahl' is a number, and paying is about numbers.",
+      "germany_context": "Plenty of bakeries, kiosks, doctors' practices and small restaurants are still cash-only. Always ask 'Karte oder bar?' and keep cash on you.",
+      "emoji": "💳",
+      "imageable": false,
+      "tags": [
+        "money",
+        "shopping",
+        "essential"
+      ],
+      "synonyms": [
+        "zahlen"
+      ],
+      "antonyms": [],
+      "related": [
+        "kosten",
+        "verdienen"
+      ]
+    },
+    {
+      "id": "kosten",
+      "word": "kosten",
+      "lemma": "kosten",
+      "translation": "to cost",
+      "translations": [
+        "to cost"
+      ],
+      "level": "A0",
+      "category": "Core Verbs II",
+      "partOfSpeech": "verb",
+      "frequency": 195,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "koste",
+        "du": "kostest",
+        "er": "kostet",
+        "wir": "kosten",
+        "ihr": "kostet",
+        "sie": "kosten",
+        "praeteritum": "kostete",
+        "perfekt": "hat gekostet",
+        "imperativ": "koste!"
+      },
+      "example_sentences": [
+        {
+          "de": "Was kostet das?",
+          "en": "How much does that cost?"
+        },
+        {
+          "de": "Die Fahrkarte kostet drei Euro fünfzig.",
+          "en": "The ticket costs three euros fifty."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wie viel ___ ein Kaffee hier?",
+          "answer": "kostet",
+          "en": "How much does a coffee cost here?"
+        }
+      ],
+      "notes": "'Was kostet das?' is the single most useful shopping question. Stem ends in -st, so du kostest.",
+      "mnemonic": null,
+      "germany_context": "Prices on German shelves and menus always include Mehrwertsteuer — the number you see is exactly what you pay at the till.",
+      "emoji": "💶",
+      "imageable": false,
+      "tags": [
+        "money",
+        "shopping",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "bezahlen"
+      ]
+    },
+    {
+      "id": "verkaufen",
+      "word": "verkaufen",
+      "lemma": "verkaufen",
+      "translation": "to sell",
+      "translations": [
+        "to sell"
+      ],
+      "level": "A1",
+      "category": "Core Verbs II",
+      "partOfSpeech": "verb",
+      "frequency": 520,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "verkaufe",
+        "du": "verkaufst",
+        "er": "verkauft",
+        "wir": "verkaufen",
+        "ihr": "verkauft",
+        "sie": "verkaufen",
+        "praeteritum": "verkaufte",
+        "perfekt": "hat verkauft",
+        "imperativ": "verkauf(e)!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich verkaufe mein altes Fahrrad.",
+          "en": "I am selling my old bike."
+        },
+        {
+          "de": "Der Laden verkauft nur Bio-Produkte.",
+          "en": "The shop only sells organic products."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Er hat sein Auto letzte Woche ___.",
+          "answer": "verkauft",
+          "en": "He sold his car last week."
+        }
+      ],
+      "notes": "Same family as 'kaufen'; the ver- prefix flips the direction.",
+      "mnemonic": null,
+      "germany_context": "Kleinanzeigen (the old eBay Kleinanzeigen) is where almost everyone in Germany buys and sells used furniture, bikes and electronics — handy when you furnish a first flat.",
+      "emoji": "🏷️",
+      "imageable": false,
+      "tags": [
+        "money",
+        "shopping"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "kaufen"
+      ],
+      "related": [
+        "kosten",
+        "bezahlen"
+      ]
+    },
+    {
+      "id": "bestellen",
+      "word": "bestellen",
+      "lemma": "bestellen",
+      "translation": "to order",
+      "translations": [
+        "to order"
+      ],
+      "level": "A1",
+      "category": "Core Verbs II",
+      "partOfSpeech": "verb",
+      "frequency": 340,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "bestelle",
+        "du": "bestellst",
+        "er": "bestellt",
+        "wir": "bestellen",
+        "ihr": "bestellt",
+        "sie": "bestellen",
+        "praeteritum": "bestellte",
+        "perfekt": "hat bestellt",
+        "imperativ": "bestell(e)!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich bestelle eine Pizza.",
+          "en": "I'm ordering a pizza."
+        },
+        {
+          "de": "Habt ihr schon bestellt?",
+          "en": "Have you ordered yet?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Was ___ du zu trinken?",
+          "answer": "bestellst",
+          "en": "What are you ordering to drink?"
+        }
+      ],
+      "notes": "Used both for restaurants and for online shopping.",
+      "mnemonic": null,
+      "germany_context": "Tap water is not served in German restaurants. If you order 'Wasser' you get a paid bottle — say 'still' for flat or 'mit Kohlensäure' for sparkling.",
+      "emoji": "🍕",
+      "imageable": false,
+      "tags": [
+        "restaurant",
+        "shopping"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "reservieren",
+        "bezahlen"
+      ]
+    },
+    {
+      "id": "suchen",
+      "word": "suchen",
+      "lemma": "suchen",
+      "translation": "to look for",
+      "translations": [
+        "to look for",
+        "to search"
+      ],
+      "level": "A0",
+      "category": "Core Verbs II",
+      "partOfSpeech": "verb",
+      "frequency": 230,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "suche",
+        "du": "suchst",
+        "er": "sucht",
+        "wir": "suchen",
+        "ihr": "sucht",
+        "sie": "suchen",
+        "praeteritum": "suchte",
+        "perfekt": "hat gesucht",
+        "imperativ": "such(e)!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich suche den Bahnhof.",
+          "en": "I'm looking for the train station."
+        },
+        {
+          "de": "Wir suchen eine Wohnung in Berlin.",
+          "en": "We are looking for a flat in Berlin."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Was ___ du denn?",
+          "answer": "suchst",
+          "en": "What are you looking for?"
+        }
+      ],
+      "notes": "'Ich suche …' is the polite opener when you need help in a shop or on the street.",
+      "mnemonic": null,
+      "germany_context": "Flat hunting runs on ImmoScout24 and WG-Gesucht. Bring a Schufa-Auskunft, your last three payslips and a Mieterselbstauskunft to every viewing — landlords expect the full folder.",
+      "emoji": "🔍",
+      "imageable": false,
+      "tags": [
+        "daily",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "finden"
+      ],
+      "related": [
+        "mieten",
+        "umziehen"
+      ]
+    },
+    {
+      "id": "benutzen",
+      "word": "benutzen",
+      "lemma": "benutzen",
+      "translation": "to use",
+      "translations": [
+        "to use"
+      ],
+      "level": "A1",
+      "category": "Core Verbs II",
+      "partOfSpeech": "verb",
+      "frequency": 610,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "benutze",
+        "du": "benutzt",
+        "er": "benutzt",
+        "wir": "benutzen",
+        "ihr": "benutzt",
+        "sie": "benutzen",
+        "praeteritum": "benutzte",
+        "perfekt": "hat benutzt",
+        "imperativ": "benutz(e)!"
+      },
+      "example_sentences": [
+        {
+          "de": "Darf ich dein Handy benutzen?",
+          "en": "May I use your phone?"
+        },
+        {
+          "de": "Ich benutze die App jeden Tag.",
+          "en": "I use the app every day."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wir ___ zu Hause kein Auto.",
+          "answer": "benutzen",
+          "en": "We don't use a car at home."
+        }
+      ],
+      "notes": "Southern Germany and Austria also say 'benützen'. 'Nutzen' means the same but sounds more formal.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "daily"
+      ],
+      "synonyms": [
+        "nutzen",
+        "verwenden"
+      ],
+      "antonyms": [],
+      "related": []
+    },
+    {
+      "id": "vergessen",
+      "word": "vergessen",
+      "lemma": "vergessen",
+      "translation": "to forget",
+      "translations": [
+        "to forget"
+      ],
+      "level": "A1",
+      "category": "Core Verbs II",
+      "partOfSpeech": "verb",
+      "frequency": 375,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "vergesse",
+        "du": "vergisst",
+        "er": "vergisst",
+        "wir": "vergessen",
+        "ihr": "vergesst",
+        "sie": "vergessen",
+        "praeteritum": "vergaß",
+        "perfekt": "hat vergessen",
+        "imperativ": "vergiss!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich habe meinen Schlüssel vergessen.",
+          "en": "I forgot my key."
+        },
+        {
+          "de": "Vergiss nicht, den Müll rauszubringen.",
+          "en": "Don't forget to take out the rubbish."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Du ___ immer meinen Geburtstag.",
+          "answer": "vergisst",
+          "en": "You always forget my birthday."
+        }
+      ],
+      "notes": "Strong verb, e→i: du vergisst, er vergisst. The participle has no -t and looks like the infinitive: vergessen.",
+      "mnemonic": null,
+      "germany_context": "Locking yourself out is an expensive mistake here — a Schlüsseldienst call-out easily runs 100–200 €, more at night or on Sunday.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "daily",
+        "mind"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "sich erinnern"
+      ],
+      "related": [
+        "erinnern"
+      ]
+    },
+    {
+      "id": "erinnern",
+      "word": "sich erinnern",
+      "lemma": "erinnern",
+      "translation": "to remember",
+      "translations": [
+        "to remember",
+        "to recall"
+      ],
+      "level": "A2",
+      "category": "Core Verbs II",
+      "partOfSpeech": "verb",
+      "frequency": 780,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": true,
+      "cases": [],
+      "forms": {
+        "ich": "erinnere mich",
+        "du": "erinnerst dich",
+        "er": "erinnert sich",
+        "wir": "erinnern uns",
+        "ihr": "erinnert euch",
+        "sie": "erinnern sich",
+        "praeteritum": "erinnerte sich",
+        "perfekt": "hat sich erinnert",
+        "imperativ": "erinnere dich!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich erinnere mich an unseren ersten Tag in Berlin.",
+          "en": "I remember our first day in Berlin."
+        },
+        {
+          "de": "Erinnerst du dich an ihn?",
+          "en": "Do you remember him?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Sie ___ sich nicht an das Passwort.",
+          "answer": "erinnert",
+          "en": "She doesn't remember the password."
+        }
+      ],
+      "notes": "Reflexive and always with 'an + Akkusativ'. Without 'sich' it means to remind someone: 'Erinnere mich bitte an den Termin.'",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "mind"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "vergessen"
+      ],
+      "related": [
+        "vergessen"
+      ]
+    },
+    {
+      "id": "entscheiden",
+      "word": "entscheiden",
+      "lemma": "entscheiden",
+      "translation": "to decide",
+      "translations": [
+        "to decide"
+      ],
+      "level": "A2",
+      "category": "Core Verbs II",
+      "partOfSpeech": "verb",
+      "frequency": 715,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "entscheide",
+        "du": "entscheidest",
+        "er": "entscheidet",
+        "wir": "entscheiden",
+        "ihr": "entscheidet",
+        "sie": "entscheiden",
+        "praeteritum": "entschied",
+        "perfekt": "hat entschieden",
+        "imperativ": "entscheide!"
+      },
+      "example_sentences": [
+        {
+          "de": "Du musst selbst entscheiden.",
+          "en": "You have to decide for yourself."
+        },
+        {
+          "de": "Wir haben uns für die kleine Wohnung entschieden.",
+          "en": "We decided on the small flat."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich kann mich nicht ___.",
+          "answer": "entscheiden",
+          "en": "I can't make up my mind."
+        }
+      ],
+      "notes": "'Sich entscheiden für + Akkusativ' = to decide on something. Strong: entschied, entschieden.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "mind"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "waehlen"
+      ]
+    },
+    {
+      "id": "erklaeren",
+      "word": "erklären",
+      "lemma": "erklären",
+      "translation": "to explain",
+      "translations": [
+        "to explain"
+      ],
+      "level": "A1",
+      "category": "Core Verbs II",
+      "partOfSpeech": "verb",
+      "frequency": 480,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [
+        "akk",
+        "dat"
+      ],
+      "forms": {
+        "ich": "erkläre",
+        "du": "erklärst",
+        "er": "erklärt",
+        "wir": "erklären",
+        "ihr": "erklärt",
+        "sie": "erklären",
+        "praeteritum": "erklärte",
+        "perfekt": "hat erklärt",
+        "imperativ": "erklär(e)!"
+      },
+      "example_sentences": [
+        {
+          "de": "Können Sie mir das bitte erklären?",
+          "en": "Could you please explain that to me?"
+        },
+        {
+          "de": "Der Lehrer erklärt die Grammatik.",
+          "en": "The teacher explains the grammar."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich ___ dir den Weg.",
+          "answer": "erkläre",
+          "en": "I'll explain the way to you."
+        }
+      ],
+      "notes": "'Jemandem etwas erklären' — the person is dative, the thing accusative.",
+      "mnemonic": "'klar' is inside erKLÄRen — you make something clear.",
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "communication",
+        "school"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "antworten",
+        "wiederholen"
+      ]
+    },
+    {
+      "id": "antworten",
+      "word": "antworten",
+      "lemma": "antworten",
+      "translation": "to answer",
+      "translations": [
+        "to answer",
+        "to reply"
+      ],
+      "level": "A1",
+      "category": "Core Verbs II",
+      "partOfSpeech": "verb",
+      "frequency": 420,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [
+        "dat"
+      ],
+      "forms": {
+        "ich": "antworte",
+        "du": "antwortest",
+        "er": "antwortet",
+        "wir": "antworten",
+        "ihr": "antwortet",
+        "sie": "antworten",
+        "praeteritum": "antwortete",
+        "perfekt": "hat geantwortet",
+        "imperativ": "antworte!"
+      },
+      "example_sentences": [
+        {
+          "de": "Bitte antworte mir schnell.",
+          "en": "Please answer me quickly."
+        },
+        {
+          "de": "Er antwortet nie auf meine E-Mails.",
+          "en": "He never replies to my emails."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Warum ___ du nicht?",
+          "answer": "antwortest",
+          "en": "Why aren't you answering?"
+        }
+      ],
+      "notes": "'Jemandem antworten' (Dativ), but 'auf eine Frage antworten'. 'Beantworten' takes a plain accusative: 'eine Frage beantworten'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "communication"
+      ],
+      "synonyms": [
+        "beantworten"
+      ],
+      "antonyms": [
+        "fragen"
+      ],
+      "related": [
+        "fragen",
+        "erklaeren"
+      ]
+    },
+    {
+      "id": "wiederholen",
+      "word": "wiederholen",
+      "lemma": "wiederholen",
+      "translation": "to repeat",
+      "translations": [
+        "to repeat",
+        "to revise"
+      ],
+      "level": "A2",
+      "category": "Core Verbs II",
+      "partOfSpeech": "verb",
+      "frequency": 690,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "wiederhole",
+        "du": "wiederholst",
+        "er": "wiederholt",
+        "wir": "wiederholen",
+        "ihr": "wiederholt",
+        "sie": "wiederholen",
+        "praeteritum": "wiederholte",
+        "perfekt": "hat wiederholt",
+        "imperativ": "wiederhol(e)!"
+      },
+      "example_sentences": [
+        {
+          "de": "Können Sie das bitte wiederholen?",
+          "en": "Could you please repeat that?"
+        },
+        {
+          "de": "Ich wiederhole die Vokabeln jeden Abend.",
+          "en": "I revise the vocabulary every evening."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Lehrer ___ den Satz noch einmal.",
+          "answer": "wiederholt",
+          "en": "The teacher repeats the sentence once more."
+        }
+      ],
+      "notes": "Inseparable in this meaning (ich wiederhole), so no ge- in the participle: hat wiederholt.",
+      "mnemonic": null,
+      "germany_context": "'Können Sie das bitte wiederholen?' or 'Wie bitte?' are the polite ways to say you didn't catch something — a bare 'Was?' sounds rude.",
+      "emoji": "🔁",
+      "imageable": false,
+      "tags": [
+        "school",
+        "communication"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "ueben",
+        "erklaeren"
+      ]
+    },
+    {
+      "id": "ueben",
+      "word": "üben",
+      "lemma": "üben",
+      "translation": "to practise",
+      "translations": [
+        "to practise",
+        "to practice"
+      ],
+      "level": "A1",
+      "category": "Core Verbs II",
+      "partOfSpeech": "verb",
+      "frequency": 640,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "übe",
+        "du": "übst",
+        "er": "übt",
+        "wir": "üben",
+        "ihr": "übt",
+        "sie": "üben",
+        "praeteritum": "übte",
+        "perfekt": "hat geübt",
+        "imperativ": "üb(e)!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich übe jeden Tag Deutsch.",
+          "en": "I practise German every day."
+        },
+        {
+          "de": "Wir üben zusammen für die Prüfung.",
+          "en": "We're practising together for the exam."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Du musst mehr ___!",
+          "answer": "üben",
+          "en": "You have to practise more!"
+        }
+      ],
+      "notes": "'Übung macht den Meister' — practice makes perfect.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "📝",
+      "imageable": false,
+      "tags": [
+        "school",
+        "learning"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "lernen",
+        "wiederholen"
+      ]
+    },
+    {
+      "id": "studieren",
+      "word": "studieren",
+      "lemma": "studieren",
+      "translation": "to study",
+      "translations": [
+        "to study",
+        "to be at university"
+      ],
+      "level": "A1",
+      "category": "Core Verbs II",
+      "partOfSpeech": "verb",
+      "frequency": 560,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "studiere",
+        "du": "studierst",
+        "er": "studiert",
+        "wir": "studieren",
+        "ihr": "studiert",
+        "sie": "studieren",
+        "praeteritum": "studierte",
+        "perfekt": "hat studiert",
+        "imperativ": "studier(e)!"
+      },
+      "example_sentences": [
+        {
+          "de": "Sie studiert Informatik in München.",
+          "en": "She studies computer science in Munich."
+        },
+        {
+          "de": "Wo hast du studiert?",
+          "en": "Where did you study?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Mein Bruder ___ Medizin.",
+          "answer": "studiert",
+          "en": "My brother studies medicine."
+        }
+      ],
+      "notes": "'Studieren' means being at university. For school homework or a language, use 'lernen'. Verbs in -ieren never take ge- in the participle.",
+      "mnemonic": null,
+      "germany_context": "Public universities charge no tuition — only a Semesterbeitrag of roughly 150–350 €, which usually includes a regional transport ticket.",
+      "emoji": "🎓",
+      "imageable": false,
+      "tags": [
+        "school",
+        "work"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "lernen",
+        "ueben"
+      ]
+    },
+    {
+      "id": "schicken",
+      "word": "schicken",
+      "lemma": "schicken",
+      "translation": "to send",
+      "translations": [
+        "to send"
+      ],
+      "level": "A1",
+      "category": "Core Verbs II",
+      "partOfSpeech": "verb",
+      "frequency": 400,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [
+        "akk",
+        "dat"
+      ],
+      "forms": {
+        "ich": "schicke",
+        "du": "schickst",
+        "er": "schickt",
+        "wir": "schicken",
+        "ihr": "schickt",
+        "sie": "schicken",
+        "praeteritum": "schickte",
+        "perfekt": "hat geschickt",
+        "imperativ": "schick(e)!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich schicke dir die Adresse per WhatsApp.",
+          "en": "I'll send you the address by WhatsApp."
+        },
+        {
+          "de": "Kannst du mir ein Foto schicken?",
+          "en": "Can you send me a photo?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Er hat mir gestern eine E-Mail ___.",
+          "answer": "geschickt",
+          "en": "He sent me an email yesterday."
+        }
+      ],
+      "notes": "The everyday word; 'senden' is the formal twin.",
+      "mnemonic": null,
+      "germany_context": "A Päckchen or Paket normally travels with DHL. If nobody is home it goes to a Packstation, a Paketshop or a neighbour — check the yellow slip in your Briefkasten.",
+      "emoji": "📤",
+      "imageable": false,
+      "tags": [
+        "communication",
+        "post"
+      ],
+      "synonyms": [
+        "senden"
+      ],
+      "antonyms": [],
+      "related": [
+        "senden",
+        "empfangen"
+      ]
+    },
+    {
+      "id": "senden",
+      "word": "senden",
+      "lemma": "senden",
+      "translation": "to send",
+      "translations": [
+        "to send",
+        "to transmit"
+      ],
+      "level": "A2",
+      "category": "Core Verbs II",
+      "partOfSpeech": "verb",
+      "frequency": 950,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [
+        "akk",
+        "dat"
+      ],
+      "forms": {
+        "ich": "sende",
+        "du": "sendest",
+        "er": "sendet",
+        "wir": "senden",
+        "ihr": "sendet",
+        "sie": "senden",
+        "praeteritum": "sendete",
+        "perfekt": "hat gesendet",
+        "imperativ": "sende!"
+      },
+      "example_sentences": [
+        {
+          "de": "Wir senden Ihnen die Rechnung per E-Mail.",
+          "en": "We'll send you the invoice by email."
+        },
+        {
+          "de": "Bitte senden Sie das Formular an das Amt.",
+          "en": "Please send the form to the office."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich habe die Datei schon ___.",
+          "answer": "gesendet",
+          "en": "I've already sent the file."
+        }
+      ],
+      "notes": "More formal than 'schicken'. Two past sets: weak sendete/gesendet (everyday, broadcasting) and strong sandte/gesandt (formal letters).",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "communication",
+        "formal"
+      ],
+      "synonyms": [
+        "schicken"
+      ],
+      "antonyms": [],
+      "related": [
+        "schicken",
+        "empfangen"
+      ]
+    },
+    {
+      "id": "empfangen",
+      "word": "empfangen",
+      "lemma": "empfangen",
+      "translation": "to receive",
+      "translations": [
+        "to receive",
+        "to welcome"
+      ],
+      "level": "A2",
+      "category": "Core Verbs II",
+      "partOfSpeech": "verb",
+      "frequency": 1150,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "empfange",
+        "du": "empfängst",
+        "er": "empfängt",
+        "wir": "empfangen",
+        "ihr": "empfangt",
+        "sie": "empfangen",
+        "praeteritum": "empfing",
+        "perfekt": "hat empfangen",
+        "imperativ": "empfang(e)!"
+      },
+      "example_sentences": [
+        {
+          "de": "Hier empfange ich kein Netz.",
+          "en": "I get no signal here."
+        },
+        {
+          "de": "Der Chef empfängt die Gäste.",
+          "en": "The boss welcomes the guests."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich habe deine Nachricht nicht ___.",
+          "answer": "empfangen",
+          "en": "I didn't receive your message."
+        }
+      ],
+      "notes": "Strong with Umlaut: du empfängst, er empfängt. In everyday speech people say 'bekommen' or 'kriegen'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "communication"
+      ],
+      "synonyms": [
+        "bekommen",
+        "kriegen"
+      ],
+      "antonyms": [
+        "senden"
+      ],
+      "related": [
+        "senden",
+        "schicken"
+      ]
+    },
+    {
+      "id": "buchen",
+      "word": "buchen",
+      "lemma": "buchen",
+      "translation": "to book",
+      "translations": [
+        "to book",
+        "to reserve"
+      ],
+      "level": "A1",
+      "category": "Core Verbs II",
+      "partOfSpeech": "verb",
+      "frequency": 620,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "buche",
+        "du": "buchst",
+        "er": "bucht",
+        "wir": "buchen",
+        "ihr": "bucht",
+        "sie": "buchen",
+        "praeteritum": "buchte",
+        "perfekt": "hat gebucht",
+        "imperativ": "buch(e)!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich buche das Hotel online.",
+          "en": "I'm booking the hotel online."
+        },
+        {
+          "de": "Wir haben zwei Tickets nach Istanbul gebucht.",
+          "en": "We booked two tickets to Istanbul."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Hast du schon den Flug ___?",
+          "answer": "gebucht",
+          "en": "Have you booked the flight yet?"
+        }
+      ],
+      "notes": "Used for travel, hotels and courses; for a restaurant table Germans say 'reservieren'.",
+      "mnemonic": null,
+      "germany_context": "Deutsche Bahn tickets are far cheaper as a Sparpreis booked weeks ahead, but that ticket only works on the one train you booked.",
+      "emoji": "✈️",
+      "imageable": false,
+      "tags": [
+        "travel"
+      ],
+      "synonyms": [
+        "reservieren"
+      ],
+      "antonyms": [],
+      "related": [
+        "reservieren",
+        "bezahlen"
+      ]
+    },
+    {
+      "id": "reservieren",
+      "word": "reservieren",
+      "lemma": "reservieren",
+      "translation": "to reserve",
+      "translations": [
+        "to reserve",
+        "to book"
+      ],
+      "level": "A1",
+      "category": "Core Verbs II",
+      "partOfSpeech": "verb",
+      "frequency": 730,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "reserviere",
+        "du": "reservierst",
+        "er": "reserviert",
+        "wir": "reservieren",
+        "ihr": "reserviert",
+        "sie": "reservieren",
+        "praeteritum": "reservierte",
+        "perfekt": "hat reserviert",
+        "imperativ": "reservier(e)!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich möchte einen Tisch für zwei Personen reservieren.",
+          "en": "I'd like to reserve a table for two."
+        },
+        {
+          "de": "Wir haben für acht Uhr reserviert.",
+          "en": "We have a reservation for eight o'clock."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Können Sie mir bitte einen Platz ___?",
+          "answer": "reservieren",
+          "en": "Could you reserve a seat for me, please?"
+        }
+      ],
+      "notes": "Verb in -ieren: no ge- in the participle.",
+      "mnemonic": null,
+      "germany_context": "In the ICE a Sitzplatzreservierung costs about 5,50 € extra. Without one you can end up standing on busy Friday and Sunday trains.",
+      "emoji": "🪑",
+      "imageable": false,
+      "tags": [
+        "travel",
+        "restaurant"
+      ],
+      "synonyms": [
+        "buchen"
+      ],
+      "antonyms": [],
+      "related": [
+        "buchen",
+        "bestellen"
+      ]
+    },
+    {
+      "id": "mieten",
+      "word": "mieten",
+      "lemma": "mieten",
+      "translation": "to rent",
+      "translations": [
+        "to rent",
+        "to hire"
+      ],
+      "level": "A1",
+      "category": "Core Verbs II",
+      "partOfSpeech": "verb",
+      "frequency": 590,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "miete",
+        "du": "mietest",
+        "er": "mietet",
+        "wir": "mieten",
+        "ihr": "mietet",
+        "sie": "mieten",
+        "praeteritum": "mietete",
+        "perfekt": "hat gemietet",
+        "imperativ": "miete!"
+      },
+      "example_sentences": [
+        {
+          "de": "Wir mieten eine Wohnung mit zwei Zimmern.",
+          "en": "We're renting a two-room flat."
+        },
+        {
+          "de": "Man kann hier auch ein Auto mieten.",
+          "en": "You can also rent a car here."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich habe das Zimmer für drei Monate ___.",
+          "answer": "gemietet",
+          "en": "I rented the room for three months."
+        }
+      ],
+      "notes": "'Mieten' = to rent from someone, 'vermieten' = to rent out. Der Mieter is the tenant, der Vermieter the landlord.",
+      "mnemonic": null,
+      "germany_context": "Budget for a Kaution of up to three months' Kaltmiete plus monthly Nebenkosten (heating, water, rubbish) on top of the rent itself.",
+      "emoji": "🏠",
+      "imageable": false,
+      "tags": [
+        "home",
+        "money"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "vermieten"
+      ],
+      "related": [
+        "umziehen",
+        "kuendigen",
+        "suchen"
+      ]
+    },
+    {
+      "id": "putzen",
+      "word": "putzen",
+      "lemma": "putzen",
+      "translation": "to clean",
+      "translations": [
+        "to clean",
+        "to brush"
+      ],
+      "level": "A1",
+      "category": "Core Verbs II",
+      "partOfSpeech": "verb",
+      "frequency": 750,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "putze",
+        "du": "putzt",
+        "er": "putzt",
+        "wir": "putzen",
+        "ihr": "putzt",
+        "sie": "putzen",
+        "praeteritum": "putzte",
+        "perfekt": "hat geputzt",
+        "imperativ": "putz(e)!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich putze am Samstag die Wohnung.",
+          "en": "I clean the flat on Saturdays."
+        },
+        {
+          "de": "Putz dir bitte die Zähne.",
+          "en": "Please brush your teeth."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wer ___ heute das Bad?",
+          "answer": "putzt",
+          "en": "Who is cleaning the bathroom today?"
+        }
+      ],
+      "notes": "Stem ends in -tz, so du and er look the same: du putzt, er putzt.",
+      "mnemonic": null,
+      "germany_context": "Many buildings run a Putzplan or Kehrwoche: tenants take turns cleaning the stairwell and sweeping the pavement. Skipping your week is a genuine neighbour dispute.",
+      "emoji": "🧹",
+      "imageable": false,
+      "tags": [
+        "home",
+        "chores"
+      ],
+      "synonyms": [
+        "sauber machen"
+      ],
+      "antonyms": [],
+      "related": [
+        "waschen"
+      ]
+    },
+    {
+      "id": "waschen",
+      "word": "waschen",
+      "lemma": "waschen",
+      "translation": "to wash",
+      "translations": [
+        "to wash"
+      ],
+      "level": "A1",
+      "category": "Core Verbs II",
+      "partOfSpeech": "verb",
+      "frequency": 645,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "wasche",
+        "du": "wäschst",
+        "er": "wäscht",
+        "wir": "waschen",
+        "ihr": "wascht",
+        "sie": "waschen",
+        "praeteritum": "wusch",
+        "perfekt": "hat gewaschen",
+        "imperativ": "wasch(e)!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich wasche mir die Hände.",
+          "en": "I'm washing my hands."
+        },
+        {
+          "de": "Wäschst du heute die Wäsche?",
+          "en": "Are you doing the laundry today?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Er ___ das Auto jeden Samstag.",
+          "answer": "wäscht",
+          "en": "He washes the car every Saturday."
+        }
+      ],
+      "notes": "Strong with Umlaut: du wäschst, er wäscht; past wusch, gewaschen.",
+      "mnemonic": null,
+      "germany_context": "Many buildings share a Waschküche in the cellar with a booking sheet, and running a machine after 22:00 breaks the Nachtruhe.",
+      "emoji": "🧺",
+      "imageable": false,
+      "tags": [
+        "home",
+        "chores"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "putzen"
+      ]
+    },
+    {
+      "id": "kochen",
+      "word": "kochen",
+      "lemma": "kochen",
+      "translation": "to cook",
+      "translations": [
+        "to cook",
+        "to boil"
+      ],
+      "level": "A1",
+      "category": "Core Verbs II",
+      "partOfSpeech": "verb",
+      "frequency": 430,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "koche",
+        "du": "kochst",
+        "er": "kocht",
+        "wir": "kochen",
+        "ihr": "kocht",
+        "sie": "kochen",
+        "praeteritum": "kochte",
+        "perfekt": "hat gekocht",
+        "imperativ": "koch(e)!"
+      },
+      "example_sentences": [
+        {
+          "de": "Heute koche ich türkisch.",
+          "en": "Today I'm cooking Turkish food."
+        },
+        {
+          "de": "Das Wasser kocht schon.",
+          "en": "The water is already boiling."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Was ___ du zum Abendessen?",
+          "answer": "kochst",
+          "en": "What are you cooking for dinner?"
+        }
+      ],
+      "notes": "Also used intransitively for boiling water.",
+      "mnemonic": null,
+      "germany_context": "Supermarkets are closed all day Sunday, so do the shopping for anything you plan to cook by Saturday evening.",
+      "emoji": "🍳",
+      "imageable": false,
+      "tags": [
+        "food",
+        "home"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "backen",
+        "schneiden",
+        "einkaufen"
+      ]
+    },
+    {
+      "id": "backen",
+      "word": "backen",
+      "lemma": "backen",
+      "translation": "to bake",
+      "translations": [
+        "to bake"
+      ],
+      "level": "A2",
+      "category": "Core Verbs II",
+      "partOfSpeech": "verb",
+      "frequency": 900,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "backe",
+        "du": "backst",
+        "er": "backt",
+        "wir": "backen",
+        "ihr": "backt",
+        "sie": "backen",
+        "praeteritum": "backte",
+        "perfekt": "hat gebacken",
+        "imperativ": "back(e)!"
+      },
+      "example_sentences": [
+        {
+          "de": "Meine Mutter backt einen Kuchen.",
+          "en": "My mother is baking a cake."
+        },
+        {
+          "de": "Wir haben gestern Brot gebacken.",
+          "en": "We baked bread yesterday."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich ___ heute Plätzchen für Weihnachten.",
+          "answer": "backe",
+          "en": "I'm baking cookies for Christmas today."
+        }
+      ],
+      "notes": "The old strong forms 'du bäckst / er bäckt' still exist but 'backst / backt' is normal today. The participle stays strong: gebacken.",
+      "mnemonic": null,
+      "germany_context": "The Bäckerei is the one shop type usually allowed to open on Sunday mornings — often the only place to buy anything before Monday.",
+      "emoji": "🍰",
+      "imageable": false,
+      "tags": [
+        "food",
+        "home"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "kochen"
+      ]
+    },
+    {
+      "id": "schneiden",
+      "word": "schneiden",
+      "lemma": "schneiden",
+      "translation": "to cut",
+      "translations": [
+        "to cut",
+        "to slice"
+      ],
+      "level": "A2",
+      "category": "Core Verbs II",
+      "partOfSpeech": "verb",
+      "frequency": 810,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "schneide",
+        "du": "schneidest",
+        "er": "schneidet",
+        "wir": "schneiden",
+        "ihr": "schneidet",
+        "sie": "schneiden",
+        "praeteritum": "schnitt",
+        "perfekt": "hat geschnitten",
+        "imperativ": "schneide!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich schneide das Brot.",
+          "en": "I'm cutting the bread."
+        },
+        {
+          "de": "Er hat sich in den Finger geschnitten.",
+          "en": "He cut his finger."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Kannst du die Zwiebeln klein ___?",
+          "answer": "schneiden",
+          "en": "Can you chop the onions small?"
+        }
+      ],
+      "notes": "Strong: schnitt, geschnitten. 'Sich die Haare schneiden lassen' = to get a haircut.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🔪",
+      "imageable": false,
+      "tags": [
+        "food",
+        "home"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "kochen"
+      ]
+    },
+    {
+      "id": "reparieren",
+      "word": "reparieren",
+      "lemma": "reparieren",
+      "translation": "to repair",
+      "translations": [
+        "to repair",
+        "to fix"
+      ],
+      "level": "A1",
+      "category": "Core Verbs II",
+      "partOfSpeech": "verb",
+      "frequency": 840,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "repariere",
+        "du": "reparierst",
+        "er": "repariert",
+        "wir": "reparieren",
+        "ihr": "repariert",
+        "sie": "reparieren",
+        "praeteritum": "reparierte",
+        "perfekt": "hat repariert",
+        "imperativ": "reparier(e)!"
+      },
+      "example_sentences": [
+        {
+          "de": "Kannst du mein Fahrrad reparieren?",
+          "en": "Can you fix my bike?"
+        },
+        {
+          "de": "Die Heizung wird morgen repariert.",
+          "en": "The heating will be repaired tomorrow."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wer hat den Kühlschrank ___?",
+          "answer": "repariert",
+          "en": "Who repaired the fridge?"
+        }
+      ],
+      "notes": "Verb in -ieren: no ge- in the participle.",
+      "mnemonic": null,
+      "germany_context": "For anything broken in a rented flat, tell the Hausmeister or write to the Vermieter — repairs to the building and its fittings are the landlord's job, not the tenant's.",
+      "emoji": "🔧",
+      "imageable": false,
+      "tags": [
+        "home",
+        "practical"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "bauen",
+        "funktionieren"
+      ]
+    },
+    {
+      "id": "bauen",
+      "word": "bauen",
+      "lemma": "bauen",
+      "translation": "to build",
+      "translations": [
+        "to build"
+      ],
+      "level": "A1",
+      "category": "Core Verbs II",
+      "partOfSpeech": "verb",
+      "frequency": 783,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "baue",
+        "du": "baust",
+        "er": "baut",
+        "wir": "bauen",
+        "ihr": "baut",
+        "sie": "bauen",
+        "praeteritum": "baute",
+        "perfekt": "hat gebaut",
+        "imperativ": "bau(e)!"
+      },
+      "example_sentences": [
+        {
+          "de": "Sie bauen ein neues Haus.",
+          "en": "They're building a new house."
+        },
+        {
+          "de": "Hier wird eine Brücke gebaut.",
+          "en": "A bridge is being built here."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Die Kinder ___ eine Burg aus Sand.",
+          "answer": "bauen",
+          "en": "The children are building a sandcastle."
+        }
+      ],
+      "notes": "'Die Baustelle' (building site) is on every second German street sign.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🏗️",
+      "imageable": false,
+      "tags": [
+        "practical"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "reparieren"
+      ]
+    },
+    {
+      "id": "wechseln",
+      "word": "wechseln",
+      "lemma": "wechseln",
+      "translation": "to change",
+      "translations": [
+        "to change",
+        "to switch"
+      ],
+      "level": "A1",
+      "category": "Core Verbs II",
+      "partOfSpeech": "verb",
+      "frequency": 706,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "wechsle",
+        "du": "wechselst",
+        "er": "wechselt",
+        "wir": "wechseln",
+        "ihr": "wechselt",
+        "sie": "wechseln",
+        "praeteritum": "wechselte",
+        "perfekt": "hat gewechselt",
+        "imperativ": "wechsle!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich muss Geld wechseln.",
+          "en": "I need to change money."
+        },
+        {
+          "de": "Wir wechseln in Frankfurt den Zug.",
+          "en": "We change trains in Frankfurt."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Er ___ oft den Job.",
+          "answer": "wechselt",
+          "en": "He changes jobs often."
+        }
+      ],
+      "notes": "Verbs in -eln drop the e in the ich-form: ich wechsle.",
+      "mnemonic": null,
+      "germany_context": "Switching your Stromanbieter, Handyvertrag or Krankenkasse is completely normal in Germany and usually saves money — but always kündigen in writing before the contract auto-renews.",
+      "emoji": "🔄",
+      "imageable": false,
+      "tags": [
+        "money",
+        "daily"
+      ],
+      "synonyms": [
+        "tauschen",
+        "ändern"
+      ],
+      "antonyms": [],
+      "related": [
+        "aendern",
+        "tauschen",
+        "kuendigen"
+      ]
+    },
+    {
+      "id": "aendern",
+      "word": "ändern",
+      "lemma": "ändern",
+      "translation": "to change",
+      "translations": [
+        "to change",
+        "to alter"
+      ],
+      "level": "A1",
+      "category": "Core Verbs II",
+      "partOfSpeech": "verb",
+      "frequency": 693,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "ändere",
+        "du": "änderst",
+        "er": "ändert",
+        "wir": "ändern",
+        "ihr": "ändert",
+        "sie": "ändern",
+        "praeteritum": "änderte",
+        "perfekt": "hat geändert",
+        "imperativ": "ändere!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich möchte meinen Termin ändern.",
+          "en": "I'd like to change my appointment."
+        },
+        {
+          "de": "Das Wetter ändert sich schnell.",
+          "en": "The weather changes quickly."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Kann man die Adresse online ___?",
+          "answer": "ändern",
+          "en": "Can you change the address online?"
+        }
+      ],
+      "notes": "'Etwas ändern' = to change something; 'sich ändern' = to change by itself.",
+      "mnemonic": null,
+      "germany_context": "A change of address or surname has to be reported separately to the Bürgeramt, your bank, the Krankenkasse and the Finanzamt — nothing updates automatically.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "daily",
+        "bureaucracy"
+      ],
+      "synonyms": [
+        "wechseln"
+      ],
+      "antonyms": [],
+      "related": [
+        "wechseln",
+        "verschieben"
+      ]
+    },
+    {
+      "id": "tauschen",
+      "word": "tauschen",
+      "lemma": "tauschen",
+      "translation": "to swap",
+      "translations": [
+        "to swap",
+        "to exchange"
+      ],
+      "level": "A2",
+      "category": "Core Verbs II",
+      "partOfSpeech": "verb",
+      "frequency": 1050,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "tausche",
+        "du": "tauschst",
+        "er": "tauscht",
+        "wir": "tauschen",
+        "ihr": "tauscht",
+        "sie": "tauschen",
+        "praeteritum": "tauschte",
+        "perfekt": "hat getauscht",
+        "imperativ": "tausch(e)!"
+      },
+      "example_sentences": [
+        {
+          "de": "Wollen wir die Plätze tauschen?",
+          "en": "Shall we swap seats?"
+        },
+        {
+          "de": "Ich tausche meine Schicht mit einem Kollegen.",
+          "en": "I'm swapping my shift with a colleague."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wir haben unsere Telefonnummern ___.",
+          "answer": "getauscht",
+          "en": "We exchanged phone numbers."
+        }
+      ],
+      "notes": "For returning goods to a shop Germans say 'umtauschen'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "daily"
+      ],
+      "synonyms": [
+        "wechseln"
+      ],
+      "antonyms": [],
+      "related": [
+        "wechseln"
+      ]
+    },
+    {
+      "id": "sparen",
+      "word": "sparen",
+      "lemma": "sparen",
+      "translation": "to save",
+      "translations": [
+        "to save",
+        "to save up"
+      ],
+      "level": "A1",
+      "category": "Core Verbs II",
+      "partOfSpeech": "verb",
+      "frequency": 660,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "spare",
+        "du": "sparst",
+        "er": "spart",
+        "wir": "sparen",
+        "ihr": "spart",
+        "sie": "sparen",
+        "praeteritum": "sparte",
+        "perfekt": "hat gespart",
+        "imperativ": "spar(e)!"
+      },
+      "example_sentences": [
+        {
+          "de": "Wir sparen für eine Wohnung.",
+          "en": "We're saving up for a flat."
+        },
+        {
+          "de": "So sparst du viel Zeit.",
+          "en": "That way you save a lot of time."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich ___ jeden Monat zweihundert Euro.",
+          "answer": "spare",
+          "en": "I save two hundred euros every month."
+        }
+      ],
+      "notes": "Works for money and for time or energy alike.",
+      "mnemonic": null,
+      "germany_context": "Germans separate the Girokonto (daily money) from a Tagesgeldkonto (savings). Many banks charge Kontoführungsgebühren, so compare before opening one.",
+      "emoji": "🏦",
+      "imageable": false,
+      "tags": [
+        "money"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "ausgeben"
+      ],
+      "related": [
+        "verdienen",
+        "ausgeben"
+      ]
+    },
+    {
+      "id": "verdienen",
+      "word": "verdienen",
+      "lemma": "verdienen",
+      "translation": "to earn",
+      "translations": [
+        "to earn",
+        "to deserve"
+      ],
+      "level": "A1",
+      "category": "Core Verbs II",
+      "partOfSpeech": "verb",
+      "frequency": 570,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "verdiene",
+        "du": "verdienst",
+        "er": "verdient",
+        "wir": "verdienen",
+        "ihr": "verdient",
+        "sie": "verdienen",
+        "praeteritum": "verdiente",
+        "perfekt": "hat verdient",
+        "imperativ": "verdien(e)!"
+      },
+      "example_sentences": [
+        {
+          "de": "Wie viel verdienst du im Monat?",
+          "en": "How much do you earn a month?"
+        },
+        {
+          "de": "Sie verdient gut als Ingenieurin.",
+          "en": "She earns well as an engineer."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Er ___ nicht genug für diese Miete.",
+          "answer": "verdient",
+          "en": "He doesn't earn enough for this rent."
+        }
+      ],
+      "notes": "Also means 'to deserve': 'Du hast eine Pause verdient.'",
+      "mnemonic": null,
+      "germany_context": "German salaries are quoted brutto per year. After Lohnsteuer, Krankenversicherung and the rest, your netto is roughly 60–65 % of that number.",
+      "emoji": "💰",
+      "imageable": false,
+      "tags": [
+        "money",
+        "work"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "ausgeben"
+      ],
+      "related": [
+        "sparen",
+        "arbeiten",
+        "bezahlen"
+      ]
+    },
+    {
+      "id": "ausgeben",
+      "word": "ausgeben",
+      "lemma": "ausgeben",
+      "translation": "to spend",
+      "translations": [
+        "to spend",
+        "to hand out"
+      ],
+      "level": "A2",
+      "category": "Core Verbs II",
+      "partOfSpeech": "verb",
+      "frequency": 880,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "gebe aus",
+        "du": "gibst aus",
+        "er": "gibt aus",
+        "wir": "geben aus",
+        "ihr": "gebt aus",
+        "sie": "geben aus",
+        "praeteritum": "gab aus",
+        "perfekt": "hat ausgegeben",
+        "imperativ": "gib aus!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich gebe zu viel Geld für Essen aus.",
+          "en": "I spend too much money on food."
+        },
+        {
+          "de": "Wie viel hast du dafür ausgegeben?",
+          "en": "How much did you spend on that?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wir ___ jeden Monat 400 Euro für Lebensmittel aus.",
+          "answer": "geben",
+          "en": "We spend 400 euros a month on groceries."
+        }
+      ],
+      "notes": "Separable and strong: du gibst aus, er gibt aus. 'Ich gebe einen aus' means 'the drinks are on me'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "money"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "sparen"
+      ],
+      "related": [
+        "sparen",
+        "bezahlen"
+      ]
+    },
+    {
+      "id": "leihen",
+      "word": "leihen",
+      "lemma": "leihen",
+      "translation": "to lend",
+      "translations": [
+        "to lend",
+        "to borrow"
+      ],
+      "level": "A1",
+      "category": "Core Verbs II",
+      "partOfSpeech": "verb",
+      "frequency": 870,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [
+        "akk",
+        "dat"
+      ],
+      "forms": {
+        "ich": "leihe",
+        "du": "leihst",
+        "er": "leiht",
+        "wir": "leihen",
+        "ihr": "leiht",
+        "sie": "leihen",
+        "praeteritum": "lieh",
+        "perfekt": "hat geliehen",
+        "imperativ": "leih(e)!"
+      },
+      "example_sentences": [
+        {
+          "de": "Kannst du mir zehn Euro leihen?",
+          "en": "Can you lend me ten euros?"
+        },
+        {
+          "de": "Ich habe mir ein Buch aus der Bibliothek geliehen.",
+          "en": "I borrowed a book from the library."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Er ___ mir sein Auto.",
+          "answer": "leiht",
+          "en": "He's lending me his car."
+        }
+      ],
+      "notes": "'Jemandem etwas leihen' = to lend; 'sich etwas leihen' = to borrow. Strong: lieh, geliehen.",
+      "mnemonic": null,
+      "germany_context": "A Stadtbibliothek card costs around 10–20 € a year and lets you borrow books, e-books, films and in some cities even tools and board games.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "money",
+        "daily"
+      ],
+      "synonyms": [
+        "borgen"
+      ],
+      "antonyms": [],
+      "related": [
+        "borgen",
+        "schenken"
+      ]
+    },
+    {
+      "id": "borgen",
+      "word": "borgen",
+      "lemma": "borgen",
+      "translation": "to lend",
+      "translations": [
+        "to lend",
+        "to borrow"
+      ],
+      "level": "A2",
+      "category": "Core Verbs II",
+      "partOfSpeech": "verb",
+      "frequency": 1300,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [
+        "akk",
+        "dat"
+      ],
+      "forms": {
+        "ich": "borge",
+        "du": "borgst",
+        "er": "borgt",
+        "wir": "borgen",
+        "ihr": "borgt",
+        "sie": "borgen",
+        "praeteritum": "borgte",
+        "perfekt": "hat geborgt",
+        "imperativ": "borg(e)!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich borge dir gern mein Fahrrad.",
+          "en": "I'm happy to lend you my bike."
+        },
+        {
+          "de": "Darf ich mir deinen Stift borgen?",
+          "en": "May I borrow your pen?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Sie hat sich Geld von ihrem Bruder ___.",
+          "answer": "geborgt",
+          "en": "She borrowed money from her brother."
+        }
+      ],
+      "notes": "Same idea as 'leihen' but more colloquial; 'leihen' is the safer everyday choice.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "money",
+        "daily"
+      ],
+      "synonyms": [
+        "leihen"
+      ],
+      "antonyms": [],
+      "related": [
+        "leihen"
+      ]
+    },
+    {
+      "id": "schenken",
+      "word": "schenken",
+      "lemma": "schenken",
+      "translation": "to give as a gift",
+      "translations": [
+        "to give as a gift",
+        "to give"
+      ],
+      "level": "A1",
+      "category": "Core Verbs II",
+      "partOfSpeech": "verb",
+      "frequency": 720,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [
+        "akk",
+        "dat"
+      ],
+      "forms": {
+        "ich": "schenke",
+        "du": "schenkst",
+        "er": "schenkt",
+        "wir": "schenken",
+        "ihr": "schenkt",
+        "sie": "schenken",
+        "praeteritum": "schenkte",
+        "perfekt": "hat geschenkt",
+        "imperativ": "schenk(e)!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich schenke ihr Blumen zum Geburtstag.",
+          "en": "I'm giving her flowers for her birthday."
+        },
+        {
+          "de": "Was hast du deinem Vater geschenkt?",
+          "en": "What did you give your father?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Meine Eltern ___ mir ein Fahrrad.",
+          "answer": "schenken",
+          "en": "My parents are giving me a bike."
+        }
+      ],
+      "notes": "'Jemandem etwas schenken' — person dative, gift accusative. 'Das Geschenk' is the present.",
+      "mnemonic": null,
+      "germany_context": "If you're invited to a German home, bring a small gift — flowers, wine, or something from your home country. Turning up empty-handed is noticed.",
+      "emoji": "🎁",
+      "imageable": false,
+      "tags": [
+        "social",
+        "celebration"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "gratulieren",
+        "feiern",
+        "einladen"
+      ]
+    },
+    {
+      "id": "gratulieren",
+      "word": "gratulieren",
+      "lemma": "gratulieren",
+      "translation": "to congratulate",
+      "translations": [
+        "to congratulate"
+      ],
+      "level": "A2",
+      "category": "Core Verbs II",
+      "partOfSpeech": "verb",
+      "frequency": 990,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [
+        "dat"
+      ],
+      "forms": {
+        "ich": "gratuliere",
+        "du": "gratulierst",
+        "er": "gratuliert",
+        "wir": "gratulieren",
+        "ihr": "gratuliert",
+        "sie": "gratulieren",
+        "praeteritum": "gratulierte",
+        "perfekt": "hat gratuliert",
+        "imperativ": "gratulier(e)!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich gratuliere dir zum Geburtstag!",
+          "en": "Happy birthday!"
+        },
+        {
+          "de": "Wir gratulieren euch zur Hochzeit.",
+          "en": "We congratulate you on your wedding."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Alle ___ ihm zum neuen Job.",
+          "answer": "gratulieren",
+          "en": "Everyone congratulates him on the new job."
+        }
+      ],
+      "notes": "Dative person plus 'zu + Dativ' for the occasion: 'jemandem zu etwas gratulieren'.",
+      "mnemonic": null,
+      "germany_context": "Germans consider it bad luck to congratulate before the actual day — never say 'Herzlichen Glückwunsch' the evening before someone's birthday.",
+      "emoji": "🎉",
+      "imageable": false,
+      "tags": [
+        "social",
+        "celebration"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "feiern",
+        "schenken"
+      ]
+    },
+    {
+      "id": "feiern",
+      "word": "feiern",
+      "lemma": "feiern",
+      "translation": "to celebrate",
+      "translations": [
+        "to celebrate",
+        "to party"
+      ],
+      "level": "A1",
+      "category": "Core Verbs II",
+      "partOfSpeech": "verb",
+      "frequency": 613,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "feiere",
+        "du": "feierst",
+        "er": "feiert",
+        "wir": "feiern",
+        "ihr": "feiert",
+        "sie": "feiern",
+        "praeteritum": "feierte",
+        "perfekt": "hat gefeiert",
+        "imperativ": "feiere!"
+      },
+      "example_sentences": [
+        {
+          "de": "Wir feiern heute Abend.",
+          "en": "We're celebrating tonight."
+        },
+        {
+          "de": "Sie hat ihren Geburtstag im Park gefeiert.",
+          "en": "She celebrated her birthday in the park."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Was ___ ihr denn?",
+          "answer": "feiert",
+          "en": "What are you celebrating?"
+        }
+      ],
+      "notes": "'Feierabend' is the end of the working day, not a party.",
+      "mnemonic": null,
+      "germany_context": "At work and among friends the birthday person brings the cake and pays for the round — the opposite of what most newcomers expect.",
+      "emoji": "🥳",
+      "imageable": false,
+      "tags": [
+        "social",
+        "celebration"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "gratulieren",
+        "einladen"
+      ]
+    },
+    {
+      "id": "besuchen",
+      "word": "besuchen",
+      "lemma": "besuchen",
+      "translation": "to visit",
+      "translations": [
+        "to visit",
+        "to attend"
+      ],
+      "level": "A1",
+      "category": "Core Verbs II",
+      "partOfSpeech": "verb",
+      "frequency": 450,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "besuche",
+        "du": "besuchst",
+        "er": "besucht",
+        "wir": "besuchen",
+        "ihr": "besucht",
+        "sie": "besuchen",
+        "praeteritum": "besuchte",
+        "perfekt": "hat besucht",
+        "imperativ": "besuch(e)!"
+      },
+      "example_sentences": [
+        {
+          "de": "Am Wochenende besuche ich meine Familie.",
+          "en": "I'm visiting my family at the weekend."
+        },
+        {
+          "de": "Hast du schon das Museum besucht?",
+          "en": "Have you visited the museum yet?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wann ___ du uns endlich?",
+          "answer": "besuchst",
+          "en": "When are you finally going to visit us?"
+        }
+      ],
+      "notes": "Also 'einen Kurs besuchen' = to attend a course.",
+      "mnemonic": null,
+      "germany_context": "Dropping by unannounced is unusual in Germany. Text or call first, even with close friends and even for neighbours.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "social"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "einladen",
+        "verabreden"
+      ]
+    },
+    {
+      "id": "kennenlernen",
+      "word": "kennenlernen",
+      "lemma": "kennenlernen",
+      "translation": "to get to know",
+      "translations": [
+        "to get to know",
+        "to meet"
+      ],
+      "level": "A1",
+      "category": "Core Verbs II",
+      "partOfSpeech": "verb",
+      "frequency": 500,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "lerne kennen",
+        "du": "lernst kennen",
+        "er": "lernt kennen",
+        "wir": "lernen kennen",
+        "ihr": "lernt kennen",
+        "sie": "lernen kennen",
+        "praeteritum": "lernte kennen",
+        "perfekt": "hat kennengelernt",
+        "imperativ": "lern kennen!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich möchte neue Leute kennenlernen.",
+          "en": "I'd like to meet new people."
+        },
+        {
+          "de": "Wir haben uns in Berlin kennengelernt.",
+          "en": "We met in Berlin."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Freut mich, Sie ___!",
+          "answer": "kennenzulernen",
+          "en": "Pleased to meet you!"
+        }
+      ],
+      "notes": "Written as one word but still separable: 'Ich lerne ihn kennen.' The zu goes inside: kennenzulernen.",
+      "mnemonic": null,
+      "germany_context": "A handshake is still standard when meeting someone new, at work and privately. Say your surname clearly — Germans introduce themselves by it.",
+      "emoji": "🤝",
+      "imageable": false,
+      "tags": [
+        "social",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "treffen",
+        "besuchen",
+        "verabreden"
+      ]
+    },
+    {
+      "id": "verabreden",
+      "word": "sich verabreden",
+      "lemma": "verabreden",
+      "translation": "to arrange to meet",
+      "translations": [
+        "to arrange to meet",
+        "to make a date"
+      ],
+      "level": "A2",
+      "category": "Core Verbs II",
+      "partOfSpeech": "verb",
+      "frequency": 1200,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": true,
+      "cases": [],
+      "forms": {
+        "ich": "verabrede mich",
+        "du": "verabredest dich",
+        "er": "verabredet sich",
+        "wir": "verabreden uns",
+        "ihr": "verabredet euch",
+        "sie": "verabreden sich",
+        "praeteritum": "verabredete sich",
+        "perfekt": "hat sich verabredet",
+        "imperativ": "verabrede dich!"
+      },
+      "example_sentences": [
+        {
+          "de": "Wir haben uns für Freitag verabredet.",
+          "en": "We arranged to meet on Friday."
+        },
+        {
+          "de": "Ich verabrede mich oft mit Kollegen nach der Arbeit.",
+          "en": "I often arrange to meet colleagues after work."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ du dich morgen mit ihr?",
+          "answer": "Verabredest",
+          "en": "Are you meeting up with her tomorrow?"
+        }
+      ],
+      "notes": "Reflexive, with 'mit + Dativ' for the person. 'Die Verabredung' is the arrangement itself.",
+      "mnemonic": null,
+      "germany_context": "Germans plan private meetings days or weeks ahead. A spontaneous 'let's meet in an hour' rarely works, even with good friends.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "social"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "treffen",
+        "einladen",
+        "absagen"
+      ]
+    },
+    {
+      "id": "verschieben",
+      "word": "verschieben",
+      "lemma": "verschieben",
+      "translation": "to postpone",
+      "translations": [
+        "to postpone",
+        "to move",
+        "to push"
+      ],
+      "level": "A2",
+      "category": "Core Verbs II",
+      "partOfSpeech": "verb",
+      "frequency": 1000,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "verschiebe",
+        "du": "verschiebst",
+        "er": "verschiebt",
+        "wir": "verschieben",
+        "ihr": "verschiebt",
+        "sie": "verschieben",
+        "praeteritum": "verschob",
+        "perfekt": "hat verschoben",
+        "imperativ": "verschieb(e)!"
+      },
+      "example_sentences": [
+        {
+          "de": "Können wir den Termin verschieben?",
+          "en": "Can we postpone the appointment?"
+        },
+        {
+          "de": "Das Meeting wurde auf Montag verschoben.",
+          "en": "The meeting was moved to Monday."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wir haben die Reise auf nächstes Jahr ___.",
+          "answer": "verschoben",
+          "en": "We postponed the trip to next year."
+        }
+      ],
+      "notes": "Strong: verschob, verschoben. Also literal: 'den Schrank verschieben' = to shift the cupboard.",
+      "mnemonic": null,
+      "germany_context": "Moving a Termin at an Amt usually means going back to the end of the queue — the next free slot can be weeks or months away.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "time",
+        "bureaucracy"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "absagen",
+        "aendern",
+        "schieben"
+      ]
+    },
+    {
+      "id": "dauern",
+      "word": "dauern",
+      "lemma": "dauern",
+      "translation": "to last",
+      "translations": [
+        "to last",
+        "to take (time)"
+      ],
+      "level": "A1",
+      "category": "Core Verbs II",
+      "partOfSpeech": "verb",
+      "frequency": 470,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "dauere",
+        "du": "dauerst",
+        "er": "dauert",
+        "wir": "dauern",
+        "ihr": "dauert",
+        "sie": "dauern",
+        "praeteritum": "dauerte",
+        "perfekt": "hat gedauert",
+        "imperativ": null
+      },
+      "example_sentences": [
+        {
+          "de": "Wie lange dauert die Fahrt?",
+          "en": "How long does the journey take?"
+        },
+        {
+          "de": "Das dauert nur fünf Minuten.",
+          "en": "That only takes five minutes."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Film ___ zwei Stunden.",
+          "answer": "dauert",
+          "en": "The film lasts two hours."
+        }
+      ],
+      "notes": "Used almost only in the 3rd person, so there is no real imperative. 'Es dauert noch' = it'll be a while yet.",
+      "mnemonic": null,
+      "germany_context": "Getting a slot at the Ausländerbehörde can dauern for months. Book the Termin the moment you know you will need one.",
+      "emoji": "⏳",
+      "imageable": false,
+      "tags": [
+        "time"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "warten"
+      ]
+    },
+    {
+      "id": "beeilen",
+      "word": "sich beeilen",
+      "lemma": "beeilen",
+      "translation": "to hurry",
+      "translations": [
+        "to hurry",
+        "to rush"
+      ],
+      "level": "A1",
+      "category": "Core Verbs II",
+      "partOfSpeech": "verb",
+      "frequency": 800,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": true,
+      "cases": [],
+      "forms": {
+        "ich": "beeile mich",
+        "du": "beeilst dich",
+        "er": "beeilt sich",
+        "wir": "beeilen uns",
+        "ihr": "beeilt euch",
+        "sie": "beeilen sich",
+        "praeteritum": "beeilte sich",
+        "perfekt": "hat sich beeilt",
+        "imperativ": "beeil dich!"
+      },
+      "example_sentences": [
+        {
+          "de": "Beeil dich, der Bus kommt!",
+          "en": "Hurry up, the bus is coming!"
+        },
+        {
+          "de": "Ich muss mich beeilen.",
+          "en": "I have to hurry."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wir ___ uns, sonst kommen wir zu spät.",
+          "answer": "beeilen",
+          "en": "We're hurrying, otherwise we'll be late."
+        }
+      ],
+      "notes": "Always reflexive. 'Eile' means haste — 'Beeil dich!' is the everyday 'hurry up!'",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🏃",
+      "imageable": false,
+      "tags": [
+        "time",
+        "daily"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "warten",
+        "dauern"
+      ]
+    },
+    {
+      "id": "klingeln",
+      "word": "klingeln",
+      "lemma": "klingeln",
+      "translation": "to ring",
+      "translations": [
+        "to ring",
+        "to ring the bell"
+      ],
+      "level": "A1",
+      "category": "Core Verbs II",
+      "partOfSpeech": "verb",
+      "frequency": 903,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "klingle",
+        "du": "klingelst",
+        "er": "klingelt",
+        "wir": "klingeln",
+        "ihr": "klingelt",
+        "sie": "klingeln",
+        "praeteritum": "klingelte",
+        "perfekt": "hat geklingelt",
+        "imperativ": "klingle!"
+      },
+      "example_sentences": [
+        {
+          "de": "Es hat geklingelt.",
+          "en": "Someone rang the doorbell."
+        },
+        {
+          "de": "Bitte klingeln Sie zweimal.",
+          "en": "Please ring twice."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Mein Wecker ___ um sechs Uhr.",
+          "answer": "klingelt",
+          "en": "My alarm clock rings at six o'clock."
+        }
+      ],
+      "notes": "Verbs in -eln drop the e in the ich-form: ich klingle.",
+      "mnemonic": null,
+      "germany_context": "Your surname must be on the Klingelschild and the Briefkasten. Without it, post and parcels get sent straight back to the sender.",
+      "emoji": "🔔",
+      "imageable": false,
+      "tags": [
+        "home",
+        "daily"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "drücken",
+        "besuchen"
+      ]
+    },
+    {
+      "id": "druecken",
+      "word": "drücken",
+      "lemma": "drücken",
+      "translation": "to push",
+      "translations": [
+        "to push",
+        "to press"
+      ],
+      "level": "A1",
+      "category": "Core Verbs II",
+      "partOfSpeech": "verb",
+      "frequency": 850,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "drücke",
+        "du": "drückst",
+        "er": "drückt",
+        "wir": "drücken",
+        "ihr": "drückt",
+        "sie": "drücken",
+        "praeteritum": "drückte",
+        "perfekt": "hat gedrückt",
+        "imperativ": "drück(e)!"
+      },
+      "example_sentences": [
+        {
+          "de": "Drücken Sie bitte diesen Knopf.",
+          "en": "Please press this button."
+        },
+        {
+          "de": "Die Schuhe drücken.",
+          "en": "The shoes pinch."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Man muss die Tür ___, nicht ziehen.",
+          "answer": "drücken",
+          "en": "You have to push the door, not pull it."
+        }
+      ],
+      "notes": "Also 'jemandem die Daumen drücken' = to keep your fingers crossed for someone.",
+      "mnemonic": null,
+      "germany_context": "German doors are labelled 'Drücken' (push) and 'Ziehen' (pull). Worth memorising before your first Bäckerei door at 7 a.m.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "movement",
+        "daily"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "ziehen"
+      ],
+      "related": [
+        "ziehen",
+        "klingeln"
+      ]
+    },
+    {
+      "id": "ziehen",
+      "word": "ziehen",
+      "lemma": "ziehen",
+      "translation": "to pull",
+      "translations": [
+        "to pull",
+        "to move"
+      ],
+      "level": "A1",
+      "category": "Core Verbs II",
+      "partOfSpeech": "verb",
+      "frequency": 623,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "ziehe",
+        "du": "ziehst",
+        "er": "zieht",
+        "wir": "ziehen",
+        "ihr": "zieht",
+        "sie": "ziehen",
+        "praeteritum": "zog",
+        "perfekt": "hat gezogen",
+        "imperativ": "zieh!"
+      },
+      "example_sentences": [
+        {
+          "de": "Das Kind zieht seine Mutter am Arm.",
+          "en": "The child is pulling its mother by the arm."
+        },
+        {
+          "de": "Der Zahnarzt hat mir einen Zahn gezogen.",
+          "en": "The dentist pulled one of my teeth."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "An dieser Tür muss man ___.",
+          "answer": "ziehen",
+          "en": "You have to pull this door."
+        }
+      ],
+      "notes": "With 'haben' when you pull something; with 'sein' when it means to move house: 'Er ist nach Köln gezogen.' Strong: zog, gezogen.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "movement",
+        "daily"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "drücken"
+      ],
+      "related": [
+        "druecken",
+        "umziehen",
+        "schieben"
+      ]
+    },
+    {
+      "id": "schieben",
+      "word": "schieben",
+      "lemma": "schieben",
+      "translation": "to push",
+      "translations": [
+        "to push",
+        "to shove"
+      ],
+      "level": "A2",
+      "category": "Core Verbs II",
+      "partOfSpeech": "verb",
+      "frequency": 1250,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "schiebe",
+        "du": "schiebst",
+        "er": "schiebt",
+        "wir": "schieben",
+        "ihr": "schiebt",
+        "sie": "schieben",
+        "praeteritum": "schob",
+        "perfekt": "hat geschoben",
+        "imperativ": "schieb(e)!"
+      },
+      "example_sentences": [
+        {
+          "de": "Wir schieben das Fahrrad den Berg hoch.",
+          "en": "We're pushing the bike up the hill."
+        },
+        {
+          "de": "Kannst du den Tisch ein bisschen schieben?",
+          "en": "Can you push the table a bit?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Er hat den Einkaufswagen zur Kasse ___.",
+          "answer": "geschoben",
+          "en": "He pushed the shopping trolley to the till."
+        }
+      ],
+      "notes": "'Schieben' is pushing something along a surface; 'drücken' is pressing against it. Strong: schob, geschoben.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "movement"
+      ],
+      "synonyms": [
+        "drücken"
+      ],
+      "antonyms": [],
+      "related": [
+        "druecken",
+        "ziehen",
+        "verschieben"
+      ]
+    },
+    {
+      "id": "werfen",
+      "word": "werfen",
+      "lemma": "werfen",
+      "translation": "to throw",
+      "translations": [
+        "to throw"
+      ],
+      "level": "A2",
+      "category": "Core Verbs II",
+      "partOfSpeech": "verb",
+      "frequency": 1080,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "werfe",
+        "du": "wirfst",
+        "er": "wirft",
+        "wir": "werfen",
+        "ihr": "werft",
+        "sie": "werfen",
+        "praeteritum": "warf",
+        "perfekt": "hat geworfen",
+        "imperativ": "wirf!"
+      },
+      "example_sentences": [
+        {
+          "de": "Wirf den Ball zu mir!",
+          "en": "Throw the ball to me!"
+        },
+        {
+          "de": "Er wirft die Flasche in den Müll.",
+          "en": "He's throwing the bottle in the bin."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Papier ___ man in die blaue Tonne.",
+          "answer": "wirft",
+          "en": "You throw paper in the blue bin."
+        }
+      ],
+      "notes": "Strong, e→i: du wirfst, er wirft, wirf!; warf, geworfen.",
+      "mnemonic": null,
+      "germany_context": "Mülltrennung is taken seriously: paper in the blue bin, packaging in the yellow one, food waste in brown, the rest in black. Pfand bottles go back to the shop, never in the bin.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "movement",
+        "home"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "fangen",
+        "fallen"
+      ]
+    },
+    {
+      "id": "fangen",
+      "word": "fangen",
+      "lemma": "fangen",
+      "translation": "to catch",
+      "translations": [
+        "to catch"
+      ],
+      "level": "A2",
+      "category": "Core Verbs II",
+      "partOfSpeech": "verb",
+      "frequency": 1350,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "fange",
+        "du": "fängst",
+        "er": "fängt",
+        "wir": "fangen",
+        "ihr": "fangt",
+        "sie": "fangen",
+        "praeteritum": "fing",
+        "perfekt": "hat gefangen",
+        "imperativ": "fang(e)!"
+      },
+      "example_sentences": [
+        {
+          "de": "Der Torwart fängt den Ball.",
+          "en": "The goalkeeper catches the ball."
+        },
+        {
+          "de": "Wir haben im Urlaub einen Fisch gefangen.",
+          "en": "We caught a fish on holiday."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Sie ___ die Katze im Garten.",
+          "answer": "fängt",
+          "en": "She catches the cat in the garden."
+        }
+      ],
+      "notes": "Strong with Umlaut: du fängst, er fängt; fing, gefangen. The prefixed 'anfangen' (to begin) is far more common in daily life.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "movement"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "werfen"
+      ],
+      "related": [
+        "werfen",
+        "anfangen"
+      ]
+    },
+    {
+      "id": "fallen",
+      "word": "fallen",
+      "lemma": "fallen",
+      "translation": "to fall",
+      "translations": [
+        "to fall"
+      ],
+      "level": "A1",
+      "category": "Core Verbs II",
+      "partOfSpeech": "verb",
+      "frequency": 709,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "sein",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "falle",
+        "du": "fällst",
+        "er": "fällt",
+        "wir": "fallen",
+        "ihr": "fallt",
+        "sie": "fallen",
+        "praeteritum": "fiel",
+        "perfekt": "ist gefallen",
+        "imperativ": "fall(e)!"
+      },
+      "example_sentences": [
+        {
+          "de": "Pass auf, du fällst!",
+          "en": "Careful, you're going to fall!"
+        },
+        {
+          "de": "Das Glas ist auf den Boden gefallen.",
+          "en": "The glass fell on the floor."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Im Winter ___ hier viel Schnee.",
+          "answer": "fällt",
+          "en": "A lot of snow falls here in winter."
+        }
+      ],
+      "notes": "Strong with Umlaut: du fällst, er fällt; fiel, ist gefallen. Perfekt with 'sein' — it's a change of place.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "movement"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "steigen"
+      ],
+      "related": [
+        "steigen",
+        "sinken"
+      ]
+    },
+    {
+      "id": "steigen",
+      "word": "steigen",
+      "lemma": "steigen",
+      "translation": "to rise",
+      "translations": [
+        "to rise",
+        "to climb",
+        "to get on"
+      ],
+      "level": "A1",
+      "category": "Core Verbs II",
+      "partOfSpeech": "verb",
+      "frequency": 663,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "sein",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "steige",
+        "du": "steigst",
+        "er": "steigt",
+        "wir": "steigen",
+        "ihr": "steigt",
+        "sie": "steigen",
+        "praeteritum": "stieg",
+        "perfekt": "ist gestiegen",
+        "imperativ": "steig(e)!"
+      },
+      "example_sentences": [
+        {
+          "de": "Die Preise steigen jedes Jahr.",
+          "en": "Prices rise every year."
+        },
+        {
+          "de": "Wir sind in den falschen Zug gestiegen.",
+          "en": "We got on the wrong train."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Die Miete ist schon wieder ___.",
+          "answer": "gestiegen",
+          "en": "The rent has gone up again."
+        }
+      ],
+      "notes": "The base for all the transport verbs: einsteigen (get on), aussteigen (get off), umsteigen (change trains).",
+      "mnemonic": null,
+      "germany_context": "On the S-Bahn and U-Bahn you constantly hear 'Umsteigen zur Linie …' — that is steigen with a prefix, and it's the announcement that matters.",
+      "emoji": "📈",
+      "imageable": false,
+      "tags": [
+        "movement",
+        "travel"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "sinken",
+        "fallen"
+      ],
+      "related": [
+        "sinken",
+        "fallen",
+        "einsteigen"
+      ]
+    },
+    {
+      "id": "sinken",
+      "word": "sinken",
+      "lemma": "sinken",
+      "translation": "to sink",
+      "translations": [
+        "to sink",
+        "to fall",
+        "to drop"
+      ],
+      "level": "A2",
+      "category": "Core Verbs II",
+      "partOfSpeech": "verb",
+      "frequency": 1500,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "sein",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "sinke",
+        "du": "sinkst",
+        "er": "sinkt",
+        "wir": "sinken",
+        "ihr": "sinkt",
+        "sie": "sinken",
+        "praeteritum": "sank",
+        "perfekt": "ist gesunken",
+        "imperativ": "sink(e)!"
+      },
+      "example_sentences": [
+        {
+          "de": "Die Temperaturen sinken.",
+          "en": "Temperatures are falling."
+        },
+        {
+          "de": "Die Preise sind wieder gesunken.",
+          "en": "Prices have gone down again."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Im Winter ___ die Temperatur oft unter null.",
+          "answer": "sinkt",
+          "en": "In winter the temperature often drops below zero."
+        }
+      ],
+      "notes": "Strong: sank, ist gesunken. Used for prices, temperatures and ships.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "📉",
+      "imageable": false,
+      "tags": [
+        "movement",
+        "weather"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "steigen"
+      ],
+      "related": [
+        "steigen",
+        "fallen"
+      ]
+    },
+    {
+      "id": "wachsen",
+      "word": "wachsen",
+      "lemma": "wachsen",
+      "translation": "to grow",
+      "translations": [
+        "to grow"
+      ],
+      "level": "A2",
+      "category": "Core Verbs II",
+      "partOfSpeech": "verb",
+      "frequency": 1153,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "sein",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "wachse",
+        "du": "wächst",
+        "er": "wächst",
+        "wir": "wachsen",
+        "ihr": "wachst",
+        "sie": "wachsen",
+        "praeteritum": "wuchs",
+        "perfekt": "ist gewachsen",
+        "imperativ": "wachs(e)!"
+      },
+      "example_sentences": [
+        {
+          "de": "Die Kinder wachsen so schnell.",
+          "en": "The children are growing so fast."
+        },
+        {
+          "de": "Im Garten wachsen Tomaten.",
+          "en": "Tomatoes grow in the garden."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Meine Haare ___ sehr langsam.",
+          "answer": "wachsen",
+          "en": "My hair grows very slowly."
+        }
+      ],
+      "notes": "Strong with Umlaut: du wächst and er wächst look identical; wuchs, ist gewachsen.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🌱",
+      "imageable": false,
+      "tags": [
+        "nature",
+        "change"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "steigen"
+      ]
+    },
+    {
+      "id": "sterben",
+      "word": "sterben",
+      "lemma": "sterben",
+      "translation": "to die",
+      "translations": [
+        "to die"
+      ],
+      "level": "A2",
+      "category": "Core Verbs II",
+      "partOfSpeech": "verb",
+      "frequency": 1253,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "sein",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "sterbe",
+        "du": "stirbst",
+        "er": "stirbt",
+        "wir": "sterben",
+        "ihr": "sterbt",
+        "sie": "sterben",
+        "praeteritum": "starb",
+        "perfekt": "ist gestorben",
+        "imperativ": "stirb!"
+      },
+      "example_sentences": [
+        {
+          "de": "Meine Großmutter ist letztes Jahr gestorben.",
+          "en": "My grandmother died last year."
+        },
+        {
+          "de": "Die Pflanze stirbt ohne Wasser.",
+          "en": "The plant dies without water."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich ___ vor Hunger!",
+          "answer": "sterbe",
+          "en": "I'm starving!"
+        }
+      ],
+      "notes": "Strong, e→i: du stirbst, er stirbt; starb, ist gestorben. 'Ich sterbe vor Hunger' = I'm starving.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "life"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "leben"
+      ],
+      "related": [
+        "leben",
+        "geboren-werden"
+      ]
+    },
+    {
+      "id": "geboren-werden",
+      "word": "geboren werden",
+      "lemma": "geboren werden",
+      "translation": "to be born",
+      "translations": [
+        "to be born"
+      ],
+      "level": "A2",
+      "category": "Core Verbs II",
+      "partOfSpeech": "verb",
+      "frequency": 1400,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "sein",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "werde geboren",
+        "du": "wirst geboren",
+        "er": "wird geboren",
+        "wir": "werden geboren",
+        "ihr": "werdet geboren",
+        "sie": "werden geboren",
+        "praeteritum": "wurde geboren",
+        "perfekt": "ist geboren worden",
+        "imperativ": null
+      },
+      "example_sentences": [
+        {
+          "de": "Ich bin 1993 in Izmir geboren.",
+          "en": "I was born in Izmir in 1993."
+        },
+        {
+          "de": "Unser Sohn ist in Berlin geboren worden.",
+          "en": "Our son was born in Berlin."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wann ___ du geboren?",
+          "answer": "bist",
+          "en": "When were you born?"
+        }
+      ],
+      "notes": "In everyday German use the short sein-form: 'Ich bin … geboren.' The full passive 'ist geboren worden' is reserved for the birth event itself. No imperative exists.",
+      "mnemonic": null,
+      "germany_context": "Every German form asks for Geburtsdatum and Geburtsort. Bring a sworn translation (beglaubigte Übersetzung) of your Turkish birth certificate for the Bürgeramt and Standesamt.",
+      "emoji": "👶",
+      "imageable": false,
+      "tags": [
+        "life",
+        "bureaucracy"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "sterben",
+        "heiraten"
+      ]
+    },
+    {
+      "id": "heiraten",
+      "word": "heiraten",
+      "lemma": "heiraten",
+      "translation": "to marry",
+      "translations": [
+        "to marry",
+        "to get married"
+      ],
+      "level": "A1",
+      "category": "Core Verbs II",
+      "partOfSpeech": "verb",
+      "frequency": 803,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "heirate",
+        "du": "heiratest",
+        "er": "heiratet",
+        "wir": "heiraten",
+        "ihr": "heiratet",
+        "sie": "heiraten",
+        "praeteritum": "heiratete",
+        "perfekt": "hat geheiratet",
+        "imperativ": "heirate!"
+      },
+      "example_sentences": [
+        {
+          "de": "Wir heiraten im Sommer.",
+          "en": "We're getting married in the summer."
+        },
+        {
+          "de": "Sie hat einen Deutschen geheiratet.",
+          "en": "She married a German."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wann ___ ihr?",
+          "answer": "heiratet",
+          "en": "When are you getting married?"
+        }
+      ],
+      "notes": "Takes a plain accusative, no preposition: 'Er heiratet sie' — never 'mit ihr'.",
+      "mnemonic": null,
+      "germany_context": "Only the ceremony at the Standesamt is legally valid in Germany. A religious or symbolic wedding has no legal effect on its own.",
+      "emoji": "💍",
+      "imageable": false,
+      "tags": [
+        "life",
+        "family"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "feiern",
+        "geboren-werden"
+      ]
+    },
+    {
+      "id": "kuendigen",
+      "word": "kündigen",
+      "lemma": "kündigen",
+      "translation": "to cancel",
+      "translations": [
+        "to cancel",
+        "to give notice",
+        "to quit"
+      ],
+      "level": "A2",
+      "category": "Core Verbs II",
+      "partOfSpeech": "verb",
+      "frequency": 760,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "kündige",
+        "du": "kündigst",
+        "er": "kündigt",
+        "wir": "kündigen",
+        "ihr": "kündigt",
+        "sie": "kündigen",
+        "praeteritum": "kündigte",
+        "perfekt": "hat gekündigt",
+        "imperativ": "kündig(e)!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich habe meinen Vertrag gekündigt.",
+          "en": "I cancelled my contract."
+        },
+        {
+          "de": "Sie kündigt zum Ende des Monats.",
+          "en": "She's quitting at the end of the month."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wir müssen die Wohnung drei Monate vorher ___.",
+          "answer": "kündigen",
+          "en": "We have to give notice on the flat three months in advance."
+        }
+      ],
+      "notes": "'Etwas kündigen' (Akkusativ) = cancel a contract; 'jemandem kündigen' (Dativ) = to fire someone. The noun is 'die Kündigung'.",
+      "mnemonic": null,
+      "germany_context": "German contracts renew automatically unless you cancel. A Kündigung normally has to be in writing, and a flat requires three months' notice.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "bureaucracy",
+        "work",
+        "home"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "unterschreiben",
+        "mieten",
+        "absagen"
+      ]
+    },
+    {
+      "id": "atmen",
+      "word": "atmen",
+      "lemma": "atmen",
+      "translation": "to breathe",
+      "translations": [
+        "to breathe"
+      ],
+      "level": "A2",
+      "category": "Core Verbs II",
+      "partOfSpeech": "verb",
+      "frequency": 1203,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "atme",
+        "du": "atmest",
+        "er": "atmet",
+        "wir": "atmen",
+        "ihr": "atmet",
+        "sie": "atmen",
+        "praeteritum": "atmete",
+        "perfekt": "hat geatmet",
+        "imperativ": "atme!"
+      },
+      "example_sentences": [
+        {
+          "de": "Atmen Sie bitte ruhig weiter.",
+          "en": "Please keep breathing calmly."
+        },
+        {
+          "de": "Nach dem Laufen atme ich schwer.",
+          "en": "After running I breathe heavily."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Das Baby ___ ganz leise.",
+          "answer": "atmet",
+          "en": "The baby breathes very quietly."
+        }
+      ],
+      "notes": "The stem ends in -tm, so an extra -e- is inserted: du atmest, er atmet, ihr atmet.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "body",
+        "health"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "leben"
+      ]
+    },
+    {
+      "id": "weinen",
+      "word": "weinen",
+      "lemma": "weinen",
+      "translation": "to cry",
+      "translations": [
+        "to cry",
+        "to weep"
+      ],
+      "level": "A1",
+      "category": "Core Verbs II",
+      "partOfSpeech": "verb",
+      "frequency": 786,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "weine",
+        "du": "weinst",
+        "er": "weint",
+        "wir": "weinen",
+        "ihr": "weint",
+        "sie": "weinen",
+        "praeteritum": "weinte",
+        "perfekt": "hat geweint",
+        "imperativ": "wein(e)!"
+      },
+      "example_sentences": [
+        {
+          "de": "Das Baby weint schon wieder.",
+          "en": "The baby is crying again."
+        },
+        {
+          "de": "Sie hat vor Freude geweint.",
+          "en": "She cried for joy."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Warum ___ du?",
+          "answer": "weinst",
+          "en": "Why are you crying?"
+        }
+      ],
+      "notes": "Careful: 'weinen' is to cry, 'der Wein' is wine. Different words, same sound.",
+      "mnemonic": "WEINen sounds like 'whining'.",
+      "germany_context": null,
+      "emoji": "😢",
+      "imageable": false,
+      "tags": [
+        "emotion",
+        "body"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "lachen"
+      ],
+      "related": [
+        "lachen",
+        "schreien"
+      ]
+    },
+    {
+      "id": "lachen",
+      "word": "lachen",
+      "lemma": "lachen",
+      "translation": "to laugh",
+      "translations": [
+        "to laugh"
+      ],
+      "level": "A1",
+      "category": "Core Verbs II",
+      "partOfSpeech": "verb",
+      "frequency": 523,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "lache",
+        "du": "lachst",
+        "er": "lacht",
+        "wir": "lachen",
+        "ihr": "lacht",
+        "sie": "lachen",
+        "praeteritum": "lachte",
+        "perfekt": "hat gelacht",
+        "imperativ": "lach(e)!"
+      },
+      "example_sentences": [
+        {
+          "de": "Wir haben viel gelacht.",
+          "en": "We laughed a lot."
+        },
+        {
+          "de": "Er lacht über meinen Akzent.",
+          "en": "He's laughing about my accent."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Alle ___, aber ich verstehe den Witz nicht.",
+          "answer": "lachen",
+          "en": "Everyone is laughing, but I don't get the joke."
+        }
+      ],
+      "notes": "'Über etwas lachen' (Akkusativ) = to laugh about something.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "😂",
+      "imageable": false,
+      "tags": [
+        "emotion"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "weinen"
+      ],
+      "related": [
+        "laecheln",
+        "weinen"
+      ]
+    },
+    {
+      "id": "laecheln",
+      "word": "lächeln",
+      "lemma": "lächeln",
+      "translation": "to smile",
+      "translations": [
+        "to smile"
+      ],
+      "level": "A2",
+      "category": "Core Verbs II",
+      "partOfSpeech": "verb",
+      "frequency": 970,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "lächle",
+        "du": "lächelst",
+        "er": "lächelt",
+        "wir": "lächeln",
+        "ihr": "lächelt",
+        "sie": "lächeln",
+        "praeteritum": "lächelte",
+        "perfekt": "hat gelächelt",
+        "imperativ": "lächle!"
+      },
+      "example_sentences": [
+        {
+          "de": "Sie lächelt freundlich.",
+          "en": "She smiles in a friendly way."
+        },
+        {
+          "de": "Bitte lächeln!",
+          "en": "Say cheese!"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Verkäufer hat nur kurz ___.",
+          "answer": "gelächelt",
+          "en": "The shop assistant only smiled briefly."
+        }
+      ],
+      "notes": "'Lächeln' = smile, 'lachen' = laugh. Verbs in -eln drop the e in the ich-form: ich lächle.",
+      "mnemonic": null,
+      "germany_context": "Strangers in Germany rarely smile at each other on the street or in shops. It isn't unfriendliness, just a different norm — don't read it as rejection.",
+      "emoji": "🙂",
+      "imageable": false,
+      "tags": [
+        "emotion",
+        "social"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "lachen"
+      ]
+    },
+    {
+      "id": "schreien",
+      "word": "schreien",
+      "lemma": "schreien",
+      "translation": "to shout",
+      "translations": [
+        "to shout",
+        "to scream"
+      ],
+      "level": "A2",
+      "category": "Core Verbs II",
+      "partOfSpeech": "verb",
+      "frequency": 1156,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "schreie",
+        "du": "schreist",
+        "er": "schreit",
+        "wir": "schreien",
+        "ihr": "schreit",
+        "sie": "schreien",
+        "praeteritum": "schrie",
+        "perfekt": "hat geschrien",
+        "imperativ": "schrei(e)!"
+      },
+      "example_sentences": [
+        {
+          "de": "Schrei bitte nicht so laut!",
+          "en": "Please don't shout so loudly!"
+        },
+        {
+          "de": "Das Kind hat die ganze Nacht geschrien.",
+          "en": "The child screamed all night."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Warum ___ er so?",
+          "answer": "schreit",
+          "en": "Why is he shouting like that?"
+        }
+      ],
+      "notes": "Strong: schrie, geschrien — note there is no -e- before the -n in the participle.",
+      "mnemonic": null,
+      "germany_context": "Ruhezeiten are real rules, not suggestions: usually 22:00–06:00, plus all day Sunday. Loud noise gets you a complaint from the neighbours or a visit from the Ordnungsamt.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "emotion",
+        "noise"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "flüstern"
+      ],
+      "related": [
+        "fluestern",
+        "weinen"
+      ]
+    },
+    {
+      "id": "fluestern",
+      "word": "flüstern",
+      "lemma": "flüstern",
+      "translation": "to whisper",
+      "translations": [
+        "to whisper"
+      ],
+      "level": "A2",
+      "category": "Core Verbs II",
+      "partOfSpeech": "verb",
+      "frequency": 1600,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "flüstere",
+        "du": "flüsterst",
+        "er": "flüstert",
+        "wir": "flüstern",
+        "ihr": "flüstert",
+        "sie": "flüstern",
+        "praeteritum": "flüsterte",
+        "perfekt": "hat geflüstert",
+        "imperativ": "flüstere!"
+      },
+      "example_sentences": [
+        {
+          "de": "Sie flüstert mir etwas ins Ohr.",
+          "en": "She whispers something in my ear."
+        },
+        {
+          "de": "Im Museum flüstern alle.",
+          "en": "Everyone whispers in the museum."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Warum ___ ihr?",
+          "answer": "flüstert",
+          "en": "Why are you whispering?"
+        }
+      ],
+      "notes": "Verbs in -ern keep the e in the ich-form: ich flüstere.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "noise",
+        "communication"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "schreien"
+      ],
+      "related": [
+        "schreien"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4602 @@
+{
+  "category": "Modal & Separable Verbs",
+  "words": [
+    {
+      "id": "koennen",
+      "word": "können",
+      "lemma": "können",
+      "translation": "can",
+      "translations": [
+        "can",
+        "to be able to"
+      ],
+      "level": "A1",
+      "category": "Modal & Separable Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 40,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "kann",
+        "du": "kannst",
+        "er": "kann",
+        "wir": "können",
+        "ihr": "könnt",
+        "sie": "können",
+        "praeteritum": "konnte",
+        "perfekt": "hat gekonnt",
+        "imperativ": "—"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich kann noch nicht gut Deutsch.",
+          "en": "I can't speak German well yet."
+        },
+        {
+          "de": "Können Sie mir bitte helfen?",
+          "en": "Can you help me, please?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ du morgen um acht kommen?",
+          "answer": "Kannst",
+          "en": "Can you come at eight tomorrow?"
+        }
+      ],
+      "notes": "ich kann / er kann have NO -t ending. With a second verb the infinitive goes to the end: 'Ich kann heute nicht arbeiten.' In Perfekt with a second verb you say 'Ich habe nicht kommen können' (double infinitive), not 'gekonnt'.",
+      "mnemonic": "können ~ 'can' — same K sound, same job.",
+      "germany_context": null,
+      "emoji": "💪",
+      "imageable": false,
+      "tags": [
+        "modal",
+        "essential",
+        "core"
+      ],
+      "synonyms": [
+        "dürfen"
+      ],
+      "antonyms": [],
+      "related": [
+        "muessen",
+        "duerfen",
+        "wollen"
+      ]
+    },
+    {
+      "id": "duerfen",
+      "word": "dürfen",
+      "lemma": "dürfen",
+      "translation": "to be allowed to",
+      "translations": [
+        "to be allowed to",
+        "may"
+      ],
+      "level": "A1",
+      "category": "Modal & Separable Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 110,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "darf",
+        "du": "darfst",
+        "er": "darf",
+        "wir": "dürfen",
+        "ihr": "dürft",
+        "sie": "dürfen",
+        "praeteritum": "durfte",
+        "perfekt": "hat gedurft",
+        "imperativ": "—"
+      },
+      "example_sentences": [
+        {
+          "de": "Hier darf man nicht rauchen.",
+          "en": "You're not allowed to smoke here."
+        },
+        {
+          "de": "Darf ich kurz stören?",
+          "en": "May I bother you for a moment?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Kinder ___ hier nicht allein spielen.",
+          "answer": "dürfen",
+          "en": "Children are not allowed to play here alone."
+        }
+      ],
+      "notes": "'nicht dürfen' = forbidden; 'nicht müssen' = not necessary. Signs use it constantly: 'Hunde dürfen nicht mit rein.' 'Darf ich …?' is the polite way to ask permission.",
+      "mnemonic": "DARF = 'do I have the right?' — D for 'darf' and 'dürfen'.",
+      "germany_context": "German public life runs on explicit rules — 'Das darf man nicht' is a complete argument. Expect strangers to tell you what you dürfen nicht (crossing at a red light, wrong bin, wrong bike lane).",
+      "emoji": "🚫",
+      "imageable": false,
+      "tags": [
+        "modal",
+        "permission",
+        "essential"
+      ],
+      "synonyms": [
+        "können"
+      ],
+      "antonyms": [],
+      "related": [
+        "muessen",
+        "koennen"
+      ]
+    },
+    {
+      "id": "wollen",
+      "word": "wollen",
+      "lemma": "wollen",
+      "translation": "to want",
+      "translations": [
+        "to want",
+        "to intend"
+      ],
+      "level": "A1",
+      "category": "Modal & Separable Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 60,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "will",
+        "du": "willst",
+        "er": "will",
+        "wir": "wollen",
+        "ihr": "wollt",
+        "sie": "wollen",
+        "praeteritum": "wollte",
+        "perfekt": "hat gewollt",
+        "imperativ": "—"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich will nächstes Jahr nach Berlin ziehen.",
+          "en": "I want to move to Berlin next year."
+        },
+        {
+          "de": "Was wollt ihr heute Abend machen?",
+          "en": "What do you want to do tonight?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Er ___ noch ein Bier bestellen.",
+          "answer": "will",
+          "en": "He wants to order another beer."
+        }
+      ],
+      "notes": "FALSE FRIEND for English speakers: 'ich will' means 'I want', NOT 'I will'. It sounds blunt when ordering — use 'ich möchte' or 'ich hätte gern' in shops and restaurants.",
+      "mnemonic": "'Ich will' = I WANT — the German 'will' is willpower, not future tense.",
+      "germany_context": null,
+      "emoji": "🎯",
+      "imageable": false,
+      "tags": [
+        "modal",
+        "essential",
+        "false-friend"
+      ],
+      "synonyms": [
+        "möchten"
+      ],
+      "antonyms": [],
+      "related": [
+        "moechten",
+        "moegen",
+        "koennen"
+      ]
+    },
+    {
+      "id": "sollen",
+      "word": "sollen",
+      "lemma": "sollen",
+      "translation": "should",
+      "translations": [
+        "should",
+        "to be supposed to"
+      ],
+      "level": "A2",
+      "category": "Modal & Separable Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 130,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "soll",
+        "du": "sollst",
+        "er": "soll",
+        "wir": "sollen",
+        "ihr": "sollt",
+        "sie": "sollen",
+        "praeteritum": "sollte",
+        "perfekt": "hat gesollt",
+        "imperativ": "—"
+      },
+      "example_sentences": [
+        {
+          "de": "Soll ich das Fenster aufmachen?",
+          "en": "Should I open the window?"
+        },
+        {
+          "de": "Der Arzt sagt, ich soll mehr schlafen.",
+          "en": "The doctor says I should sleep more."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wann ___ ich morgen da sein?",
+          "answer": "soll",
+          "en": "When should I be there tomorrow?"
+        }
+      ],
+      "notes": "'sollen' = someone else says so (advice, orders, plans). 'sollte' is the softer 'ought to': 'Du solltest zum Arzt gehen.' 'Soll ich …?' is how you offer help.",
+      "mnemonic": "sollen ~ 'shall/should' — s-ll in both.",
+      "germany_context": null,
+      "emoji": "🗣️",
+      "imageable": false,
+      "tags": [
+        "modal",
+        "advice",
+        "core"
+      ],
+      "synonyms": [
+        "müssen"
+      ],
+      "antonyms": [],
+      "related": [
+        "muessen",
+        "koennen"
+      ]
+    },
+    {
+      "id": "moechten",
+      "word": "möchten",
+      "lemma": "möchten",
+      "translation": "would like",
+      "translations": [
+        "would like",
+        "to want (politely)"
+      ],
+      "level": "A0",
+      "category": "Modal & Separable Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 55,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "möchte",
+        "du": "möchtest",
+        "er": "möchte",
+        "wir": "möchten",
+        "ihr": "möchtet",
+        "sie": "möchten",
+        "praeteritum": "wollte",
+        "perfekt": "hat gewollt",
+        "imperativ": "—"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich möchte einen Kaffee, bitte.",
+          "en": "I'd like a coffee, please."
+        },
+        {
+          "de": "Möchten Sie noch etwas trinken?",
+          "en": "Would you like something else to drink?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wir ___ gern die Rechnung.",
+          "answer": "möchten",
+          "en": "We'd like the bill, please."
+        }
+      ],
+      "notes": "Formally the Konjunktiv II of 'mögen', but treat it as its own verb. ich möchte / er möchte have no -t added. There is no past tense — use 'wollte'. This is your default politeness verb from day one.",
+      "mnemonic": "möchte = 'mögen' wearing a suit — the polite version.",
+      "germany_context": "In a Bäckerei or Restaurant, 'Ich möchte …' or 'Ich hätte gern …' is standard. Plain 'Ich will …' sounds like a demanding child.",
+      "emoji": "🙏",
+      "imageable": false,
+      "tags": [
+        "modal",
+        "polite",
+        "survival",
+        "essential"
+      ],
+      "synonyms": [
+        "wollen"
+      ],
+      "antonyms": [],
+      "related": [
+        "moegen",
+        "wollen"
+      ]
+    },
+    {
+      "id": "moegen",
+      "word": "mögen",
+      "lemma": "mögen",
+      "translation": "to like",
+      "translations": [
+        "to like"
+      ],
+      "level": "A1",
+      "category": "Modal & Separable Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 160,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "mag",
+        "du": "magst",
+        "er": "mag",
+        "wir": "mögen",
+        "ihr": "mögt",
+        "sie": "mögen",
+        "praeteritum": "mochte",
+        "perfekt": "hat gemocht",
+        "imperativ": "—"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich mag deutsches Brot sehr.",
+          "en": "I really like German bread."
+        },
+        {
+          "de": "Magst du Kaffee oder lieber Tee?",
+          "en": "Do you like coffee or tea instead?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Meine Kollegin ___ keine langen Meetings.",
+          "answer": "mag",
+          "en": "My colleague doesn't like long meetings."
+        }
+      ],
+      "notes": "'mögen' takes a noun object ('Ich mag Käse'). For liking an ACTION, Germans use 'gern' + verb: 'Ich koche gern', not 'Ich mag kochen'. Don't confuse with 'möchten'.",
+      "mnemonic": "'Ich MAG' — MAG rhymes with 'ja, gerne'.",
+      "germany_context": null,
+      "emoji": "😊",
+      "imageable": false,
+      "tags": [
+        "modal",
+        "preference",
+        "core"
+      ],
+      "synonyms": [
+        "gern haben"
+      ],
+      "antonyms": [
+        "hassen"
+      ],
+      "related": [
+        "moechten",
+        "wollen"
+      ]
+    },
+    {
+      "id": "aufstehen",
+      "word": "aufstehen",
+      "lemma": "aufstehen",
+      "translation": "to get up",
+      "translations": [
+        "to get up",
+        "to stand up"
+      ],
+      "level": "A1",
+      "category": "Modal & Separable Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 190,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "sein",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "stehe auf",
+        "du": "stehst auf",
+        "er": "steht auf",
+        "wir": "stehen auf",
+        "ihr": "steht auf",
+        "sie": "stehen auf",
+        "praeteritum": "stand auf",
+        "perfekt": "ist aufgestanden",
+        "imperativ": "steh auf!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich stehe um sieben Uhr auf.",
+          "en": "I get up at seven o'clock."
+        },
+        {
+          "de": "Am Sonntag ist er erst um elf aufgestanden.",
+          "en": "On Sunday he only got up at eleven."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wann ___ du normalerweise auf?",
+          "answer": "stehst",
+          "en": "When do you usually get up?"
+        }
+      ],
+      "notes": "Separable: the prefix 'auf' jumps to the end of the main clause — 'Ich stehe um 7 Uhr auf.' In the Perfekt the -ge- sits between prefix and stem: auf-ge-standen. Takes 'sein'.",
+      "mnemonic": "auf = up, stehen = stand → stand UP.",
+      "germany_context": null,
+      "emoji": "⏰",
+      "imageable": false,
+      "tags": [
+        "separable",
+        "daily-routine",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "schlafen gehen"
+      ],
+      "related": [
+        "aufwachen",
+        "einschlafen"
+      ]
+    },
+    {
+      "id": "aufwachen",
+      "word": "aufwachen",
+      "lemma": "aufwachen",
+      "translation": "to wake up",
+      "translations": [
+        "to wake up"
+      ],
+      "level": "A2",
+      "category": "Modal & Separable Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 620,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "sein",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "wache auf",
+        "du": "wachst auf",
+        "er": "wacht auf",
+        "wir": "wachen auf",
+        "ihr": "wacht auf",
+        "sie": "wachen auf",
+        "praeteritum": "wachte auf",
+        "perfekt": "ist aufgewacht",
+        "imperativ": "wach auf!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich wache oft vor dem Wecker auf.",
+          "en": "I often wake up before the alarm."
+        },
+        {
+          "de": "Heute Nacht bin ich dreimal aufgewacht.",
+          "en": "I woke up three times last night."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Das Baby ___ jede Nacht um drei auf.",
+          "answer": "wacht",
+          "en": "The baby wakes up at three every night."
+        }
+      ],
+      "notes": "Separable: 'Ich wache um 6 Uhr auf.' Difference from 'aufstehen': aufwachen = your eyes open, aufstehen = you actually leave the bed.",
+      "mnemonic": "wach = awake → auf-WACH-en = become awake.",
+      "germany_context": null,
+      "emoji": "😴",
+      "imageable": false,
+      "tags": [
+        "separable",
+        "daily-routine"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "einschlafen"
+      ],
+      "related": [
+        "aufstehen",
+        "einschlafen"
+      ]
+    },
+    {
+      "id": "einschlafen",
+      "word": "einschlafen",
+      "lemma": "einschlafen",
+      "translation": "to fall asleep",
+      "translations": [
+        "to fall asleep"
+      ],
+      "level": "A2",
+      "category": "Modal & Separable Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 760,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "sein",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "schlafe ein",
+        "du": "schläfst ein",
+        "er": "schläft ein",
+        "wir": "schlafen ein",
+        "ihr": "schlaft ein",
+        "sie": "schlafen ein",
+        "praeteritum": "schlief ein",
+        "perfekt": "ist eingeschlafen",
+        "imperativ": "schlaf ein!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich kann abends schlecht einschlafen.",
+          "en": "I have trouble falling asleep in the evening."
+        },
+        {
+          "de": "Er ist vor dem Fernseher eingeschlafen.",
+          "en": "He fell asleep in front of the TV."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Das Kind ___ immer sehr schnell ein.",
+          "answer": "schläft",
+          "en": "The child always falls asleep very quickly."
+        }
+      ],
+      "notes": "Separable, and the stem umlauts: du schläfst ein / er schläft ein. Takes 'sein' (change of state). 'einschlafen' = fall asleep, 'schlafen' = be asleep.",
+      "mnemonic": "ein = 'into' → you slide INTO sleep.",
+      "germany_context": null,
+      "emoji": "💤",
+      "imageable": false,
+      "tags": [
+        "separable",
+        "daily-routine"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "aufwachen"
+      ],
+      "related": [
+        "aufwachen",
+        "aufstehen"
+      ]
+    },
+    {
+      "id": "anfangen",
+      "word": "anfangen",
+      "lemma": "anfangen",
+      "translation": "to start",
+      "translations": [
+        "to start",
+        "to begin"
+      ],
+      "level": "A1",
+      "category": "Modal & Separable Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 210,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "fange an",
+        "du": "fängst an",
+        "er": "fängt an",
+        "wir": "fangen an",
+        "ihr": "fangt an",
+        "sie": "fangen an",
+        "praeteritum": "fing an",
+        "perfekt": "hat angefangen",
+        "imperativ": "fang an!"
+      },
+      "example_sentences": [
+        {
+          "de": "Der Kurs fängt um neun Uhr an.",
+          "en": "The course starts at nine o'clock."
+        },
+        {
+          "de": "Ich habe letzte Woche in der neuen Firma angefangen.",
+          "en": "I started at the new company last week."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wann ___ der Film an?",
+          "answer": "fängt",
+          "en": "When does the film start?"
+        }
+      ],
+      "notes": "Separable with umlaut in du/er: du fängst an, er fängt an. 'Ich fange mit der Arbeit an' (mit + Dativ). 'beginnen' is the more formal synonym and is NOT separable.",
+      "mnemonic": "fangen = catch → you 'catch on' at the start.",
+      "germany_context": null,
+      "emoji": "▶️",
+      "imageable": false,
+      "tags": [
+        "separable",
+        "time",
+        "essential"
+      ],
+      "synonyms": [
+        "beginnen",
+        "starten"
+      ],
+      "antonyms": [
+        "aufhören"
+      ],
+      "related": [
+        "aufhoeren",
+        "losgehen"
+      ]
+    },
+    {
+      "id": "aufhoeren",
+      "word": "aufhören",
+      "lemma": "aufhören",
+      "translation": "to stop",
+      "translations": [
+        "to stop",
+        "to quit"
+      ],
+      "level": "A2",
+      "category": "Modal & Separable Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 420,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "höre auf",
+        "du": "hörst auf",
+        "er": "hört auf",
+        "wir": "hören auf",
+        "ihr": "hört auf",
+        "sie": "hören auf",
+        "praeteritum": "hörte auf",
+        "perfekt": "hat aufgehört",
+        "imperativ": "hör auf!"
+      },
+      "example_sentences": [
+        {
+          "de": "Der Regen hört gleich auf.",
+          "en": "The rain will stop in a moment."
+        },
+        {
+          "de": "Er hat mit dem Rauchen aufgehört.",
+          "en": "He stopped smoking."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Bitte ___ endlich damit auf!",
+          "answer": "hör",
+          "en": "Please stop that at last!"
+        }
+      ],
+      "notes": "Separable: 'Ich höre um 17 Uhr auf.' To stop DOING something: 'aufhören mit + Dativ' or 'aufhören zu + Infinitiv'. 'Hör auf!' is the everyday 'Stop it!' — 'stoppen' is mostly for vehicles.",
+      "mnemonic": "hören = hear; 'auf-hören' = the noise stops.",
+      "germany_context": null,
+      "emoji": "🛑",
+      "imageable": false,
+      "tags": [
+        "separable",
+        "essential"
+      ],
+      "synonyms": [
+        "beenden"
+      ],
+      "antonyms": [
+        "anfangen"
+      ],
+      "related": [
+        "anfangen",
+        "anhalten"
+      ]
+    },
+    {
+      "id": "anrufen",
+      "word": "anrufen",
+      "lemma": "anrufen",
+      "translation": "to call",
+      "translations": [
+        "to call",
+        "to phone"
+      ],
+      "level": "A1",
+      "category": "Modal & Separable Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 200,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "rufe an",
+        "du": "rufst an",
+        "er": "ruft an",
+        "wir": "rufen an",
+        "ihr": "ruft an",
+        "sie": "rufen an",
+        "praeteritum": "rief an",
+        "perfekt": "hat angerufen",
+        "imperativ": "ruf an!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich rufe dich heute Abend an.",
+          "en": "I'll call you this evening."
+        },
+        {
+          "de": "Hat der Vermieter schon angerufen?",
+          "en": "Has the landlord called yet?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ mich bitte morgen früh an!",
+          "answer": "Ruf",
+          "en": "Please call me tomorrow morning!"
+        }
+      ],
+      "notes": "Separable: 'Ich rufe dich an.' Takes a plain accusative object — 'jemanden anrufen', NOT 'jemandem'. Don't say 'zu jemandem rufen'.",
+      "mnemonic": "an = 'at/onto' → you ring AT someone.",
+      "germany_context": "German offices, doctors and Behörden often only answer the phone during narrow 'Telefonzeiten' (e.g. Mo–Fr 9–12). Check the website before you call, and always say your surname first: 'Yalcin, guten Tag.'",
+      "emoji": "📞",
+      "imageable": false,
+      "tags": [
+        "separable",
+        "phone",
+        "essential"
+      ],
+      "synonyms": [
+        "telefonieren"
+      ],
+      "antonyms": [],
+      "related": [
+        "zurueckrufen",
+        "absagen"
+      ]
+    },
+    {
+      "id": "zurueckrufen",
+      "word": "zurückrufen",
+      "lemma": "zurückrufen",
+      "translation": "to call back",
+      "translations": [
+        "to call back",
+        "to return a call"
+      ],
+      "level": "A2",
+      "category": "Modal & Separable Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 890,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "rufe zurück",
+        "du": "rufst zurück",
+        "er": "ruft zurück",
+        "wir": "rufen zurück",
+        "ihr": "ruft zurück",
+        "sie": "rufen zurück",
+        "praeteritum": "rief zurück",
+        "perfekt": "hat zurückgerufen",
+        "imperativ": "ruf zurück!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich rufe Sie in zehn Minuten zurück.",
+          "en": "I'll call you back in ten minutes."
+        },
+        {
+          "de": "Sie hat gestern leider nicht zurückgerufen.",
+          "en": "Unfortunately she didn't call back yesterday."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Können Sie mich bitte später ___?",
+          "answer": "zurückrufen",
+          "en": "Could you please call me back later?"
+        }
+      ],
+      "notes": "Separable: 'Ich rufe dich gleich zurück.' Standard phone phrase: 'Ich rufe später zurück.' On a Mailbox you say: 'Bitte rufen Sie mich zurück.'",
+      "mnemonic": "zurück = back → call BACK.",
+      "germany_context": null,
+      "emoji": "📲",
+      "imageable": false,
+      "tags": [
+        "separable",
+        "phone",
+        "work"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "anrufen"
+      ]
+    },
+    {
+      "id": "ankommen",
+      "word": "ankommen",
+      "lemma": "ankommen",
+      "translation": "to arrive",
+      "translations": [
+        "to arrive"
+      ],
+      "level": "A1",
+      "category": "Modal & Separable Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 240,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "sein",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "komme an",
+        "du": "kommst an",
+        "er": "kommt an",
+        "wir": "kommen an",
+        "ihr": "kommt an",
+        "sie": "kommen an",
+        "praeteritum": "kam an",
+        "perfekt": "ist angekommen",
+        "imperativ": "komm an!"
+      },
+      "example_sentences": [
+        {
+          "de": "Der Zug kommt um 14:20 Uhr in Köln an.",
+          "en": "The train arrives in Cologne at 2:20 p.m."
+        },
+        {
+          "de": "Wir sind gestern Abend in München angekommen.",
+          "en": "We arrived in Munich yesterday evening."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wann ___ dein Flug an?",
+          "answer": "kommt",
+          "en": "When does your flight arrive?"
+        }
+      ],
+      "notes": "Separable, takes 'sein': 'Ich bin angekommen.' Also very common as 'Es kommt darauf an' = 'It depends'.",
+      "mnemonic": "an = at → you come AT the place = arrive.",
+      "germany_context": null,
+      "emoji": "🛬",
+      "imageable": false,
+      "tags": [
+        "separable",
+        "travel",
+        "essential"
+      ],
+      "synonyms": [
+        "eintreffen"
+      ],
+      "antonyms": [
+        "abfahren"
+      ],
+      "related": [
+        "abfahren",
+        "einsteigen"
+      ]
+    },
+    {
+      "id": "abfahren",
+      "word": "abfahren",
+      "lemma": "abfahren",
+      "translation": "to depart",
+      "translations": [
+        "to depart",
+        "to leave (of vehicles)"
+      ],
+      "level": "A1",
+      "category": "Modal & Separable Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 340,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "sein",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "fahre ab",
+        "du": "fährst ab",
+        "er": "fährt ab",
+        "wir": "fahren ab",
+        "ihr": "fahrt ab",
+        "sie": "fahren ab",
+        "praeteritum": "fuhr ab",
+        "perfekt": "ist abgefahren",
+        "imperativ": "fahr ab!"
+      },
+      "example_sentences": [
+        {
+          "de": "Der Bus fährt in fünf Minuten ab.",
+          "en": "The bus leaves in five minutes."
+        },
+        {
+          "de": "Wir sind schon um sechs Uhr abgefahren.",
+          "en": "We already left at six o'clock."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Von welchem Gleis ___ der Zug nach Hamburg ab?",
+          "answer": "fährt",
+          "en": "Which platform does the train to Hamburg leave from?"
+        }
+      ],
+      "notes": "Separable with umlaut: du fährst ab, er fährt ab. Takes 'sein'. On station boards: 'Abfahrt' = departures, 'Ankunft' = arrivals.",
+      "mnemonic": "ab = away → drive AWAY.",
+      "germany_context": "Deutsche Bahn long-distance trains are frequently late; the DB Navigator app shows live Gleis changes, which are announced only in German. With the Deutschlandticket (49–58 € a month) you can use all regional trains, buses, U-Bahn and S-Bahn nationwide.",
+      "emoji": "🚆",
+      "imageable": false,
+      "tags": [
+        "separable",
+        "travel",
+        "transport"
+      ],
+      "synonyms": [
+        "losfahren"
+      ],
+      "antonyms": [
+        "ankommen"
+      ],
+      "related": [
+        "ankommen",
+        "losfahren",
+        "umsteigen"
+      ]
+    },
+    {
+      "id": "losfahren",
+      "word": "losfahren",
+      "lemma": "losfahren",
+      "translation": "to set off",
+      "translations": [
+        "to set off",
+        "to drive off"
+      ],
+      "level": "A2",
+      "category": "Modal & Separable Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 980,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "sein",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "fahre los",
+        "du": "fährst los",
+        "er": "fährt los",
+        "wir": "fahren los",
+        "ihr": "fahrt los",
+        "sie": "fahren los",
+        "praeteritum": "fuhr los",
+        "perfekt": "ist losgefahren",
+        "imperativ": "fahr los!"
+      },
+      "example_sentences": [
+        {
+          "de": "Wir fahren morgen um sechs Uhr los.",
+          "en": "We're setting off tomorrow at six."
+        },
+        {
+          "de": "Er ist ohne mich losgefahren.",
+          "en": "He drove off without me."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wann ___ ihr los?",
+          "answer": "fahrt",
+          "en": "When are you setting off?"
+        }
+      ],
+      "notes": "Separable, 'sein'. 'losfahren' is what people actually say about their own trip; 'abfahren' is more for trains and buses.",
+      "mnemonic": "los! = go! → los-fahren = get going.",
+      "germany_context": null,
+      "emoji": "🚗",
+      "imageable": false,
+      "tags": [
+        "separable",
+        "travel",
+        "spoken"
+      ],
+      "synonyms": [
+        "abfahren"
+      ],
+      "antonyms": [
+        "ankommen"
+      ],
+      "related": [
+        "abfahren",
+        "losgehen"
+      ]
+    },
+    {
+      "id": "losgehen",
+      "word": "losgehen",
+      "lemma": "losgehen",
+      "translation": "to set off (on foot)",
+      "translations": [
+        "to set off (on foot)",
+        "to start"
+      ],
+      "level": "A2",
+      "category": "Modal & Separable Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 1020,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "sein",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "gehe los",
+        "du": "gehst los",
+        "er": "geht los",
+        "wir": "gehen los",
+        "ihr": "geht los",
+        "sie": "gehen los",
+        "praeteritum": "ging los",
+        "perfekt": "ist losgegangen",
+        "imperativ": "geh los!"
+      },
+      "example_sentences": [
+        {
+          "de": "Sollen wir jetzt losgehen?",
+          "en": "Shall we set off now?"
+        },
+        {
+          "de": "Das Konzert ist schon um acht losgegangen.",
+          "en": "The concert already started at eight."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Gleich ___ das Spiel los.",
+          "answer": "geht",
+          "en": "The game is about to start."
+        }
+      ],
+      "notes": "Separable, 'sein'. Two meanings: leave on foot, and (colloquially) 'to kick off / start'. 'Es geht los!' = 'Here we go!'",
+      "mnemonic": "'Los geht's!' — the German 'Let's go!'",
+      "germany_context": null,
+      "emoji": "🚶",
+      "imageable": false,
+      "tags": [
+        "separable",
+        "spoken",
+        "movement"
+      ],
+      "synonyms": [
+        "anfangen"
+      ],
+      "antonyms": [],
+      "related": [
+        "losfahren",
+        "anfangen",
+        "weggehen"
+      ]
+    },
+    {
+      "id": "einsteigen",
+      "word": "einsteigen",
+      "lemma": "einsteigen",
+      "translation": "to get in",
+      "translations": [
+        "to get in",
+        "to board"
+      ],
+      "level": "A1",
+      "category": "Modal & Separable Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 380,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "sein",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "steige ein",
+        "du": "steigst ein",
+        "er": "steigt ein",
+        "wir": "steigen ein",
+        "ihr": "steigt ein",
+        "sie": "steigen ein",
+        "praeteritum": "stieg ein",
+        "perfekt": "ist eingestiegen",
+        "imperativ": "steig ein!"
+      },
+      "example_sentences": [
+        {
+          "de": "Wir steigen vorne in den Bus ein.",
+          "en": "We get on the bus at the front."
+        },
+        {
+          "de": "Sie ist in den falschen Zug eingestiegen.",
+          "en": "She got on the wrong train."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Bitte ___ Sie schnell ein, der Zug fährt gleich!",
+          "answer": "steigen",
+          "en": "Please board quickly, the train is leaving!"
+        }
+      ],
+      "notes": "Separable, 'sein': 'Ich steige in die U-Bahn ein' (in + Akkusativ). Used for buses, trains and cars — for planes and ships Germans say 'an Bord gehen'.",
+      "mnemonic": "ein = into → climb INTO.",
+      "germany_context": "On S-Bahn and U-Bahn platforms you'll hear 'Zurückbleiben, bitte!' — that means the doors are closing, do not squeeze in. Door buttons must often be pressed by hand; the doors do not open automatically.",
+      "emoji": "🚇",
+      "imageable": false,
+      "tags": [
+        "separable",
+        "transport",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "aussteigen"
+      ],
+      "related": [
+        "aussteigen",
+        "umsteigen"
+      ]
+    },
+    {
+      "id": "aussteigen",
+      "word": "aussteigen",
+      "lemma": "aussteigen",
+      "translation": "to get out",
+      "translations": [
+        "to get out",
+        "to get off"
+      ],
+      "level": "A1",
+      "category": "Modal & Separable Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 390,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "sein",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "steige aus",
+        "du": "steigst aus",
+        "er": "steigt aus",
+        "wir": "steigen aus",
+        "ihr": "steigt aus",
+        "sie": "steigen aus",
+        "praeteritum": "stieg aus",
+        "perfekt": "ist ausgestiegen",
+        "imperativ": "steig aus!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich steige an der nächsten Haltestelle aus.",
+          "en": "I'm getting off at the next stop."
+        },
+        {
+          "de": "Wir sind am Hauptbahnhof ausgestiegen.",
+          "en": "We got off at the main station."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wo ___ du aus?",
+          "answer": "steigst",
+          "en": "Where are you getting off?"
+        }
+      ],
+      "notes": "Separable, 'sein'. 'aus dem Bus aussteigen' (aus + Dativ). Say 'Ich steige hier aus' to get people to make room.",
+      "mnemonic": "aus = out → climb OUT.",
+      "germany_context": null,
+      "emoji": "🚏",
+      "imageable": false,
+      "tags": [
+        "separable",
+        "transport",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "einsteigen"
+      ],
+      "related": [
+        "einsteigen",
+        "umsteigen"
+      ]
+    },
+    {
+      "id": "umsteigen",
+      "word": "umsteigen",
+      "lemma": "umsteigen",
+      "translation": "to change (trains)",
+      "translations": [
+        "to change (trains)",
+        "to transfer"
+      ],
+      "level": "A2",
+      "category": "Modal & Separable Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 520,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "sein",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "steige um",
+        "du": "steigst um",
+        "er": "steigt um",
+        "wir": "steigen um",
+        "ihr": "steigt um",
+        "sie": "steigen um",
+        "praeteritum": "stieg um",
+        "perfekt": "ist umgestiegen",
+        "imperativ": "steig um!"
+      },
+      "example_sentences": [
+        {
+          "de": "In Frankfurt müssen wir umsteigen.",
+          "en": "We have to change trains in Frankfurt."
+        },
+        {
+          "de": "Ich bin in die U6 umgestiegen.",
+          "en": "I changed to the U6."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wo ___ ich in die S-Bahn um?",
+          "answer": "steige",
+          "en": "Where do I change to the S-Bahn?"
+        }
+      ],
+      "notes": "Separable, 'sein'. 'in die U-Bahn umsteigen' (in + Akkusativ). If a connection is direct, the app says 'ohne Umstieg' or 'direkt'.",
+      "mnemonic": "um = around/over → you switch OVER to another train.",
+      "germany_context": "German timetables plan very short transfer windows (sometimes 5 minutes). If your first train is late and you miss the connection, a regular DB ticket lets you take the next train — but this does NOT apply to Sparpreis tickets on the last leg without checking the app.",
+      "emoji": "🔁",
+      "imageable": false,
+      "tags": [
+        "separable",
+        "transport"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "einsteigen",
+        "aussteigen",
+        "abfahren"
+      ]
+    },
+    {
+      "id": "abbiegen",
+      "word": "abbiegen",
+      "lemma": "abbiegen",
+      "translation": "to turn (off)",
+      "translations": [
+        "to turn (off)",
+        "to make a turn"
+      ],
+      "level": "A2",
+      "category": "Modal & Separable Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 1150,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "sein",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "biege ab",
+        "du": "biegst ab",
+        "er": "biegt ab",
+        "wir": "biegen ab",
+        "ihr": "biegt ab",
+        "sie": "biegen ab",
+        "praeteritum": "bog ab",
+        "perfekt": "ist abgebogen",
+        "imperativ": "bieg ab!"
+      },
+      "example_sentences": [
+        {
+          "de": "An der Ampel biegen Sie rechts ab.",
+          "en": "Turn right at the traffic light."
+        },
+        {
+          "de": "Wir sind zu früh abgebogen.",
+          "en": "We turned off too early."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ Sie an der Kirche links ab.",
+          "answer": "Biegen",
+          "en": "Turn left at the church."
+        }
+      ],
+      "notes": "Separable, 'sein'. Core word for street directions: 'rechts abbiegen', 'links abbiegen', 'in die Hauptstraße abbiegen'.",
+      "mnemonic": "ab = away, biegen = bend → bend AWAY from the road.",
+      "germany_context": null,
+      "emoji": "↩️",
+      "imageable": false,
+      "tags": [
+        "separable",
+        "directions",
+        "transport"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "geradeaus fahren"
+      ],
+      "related": [
+        "losfahren",
+        "anhalten"
+      ]
+    },
+    {
+      "id": "anhalten",
+      "word": "anhalten",
+      "lemma": "anhalten",
+      "translation": "to stop (a vehicle)",
+      "translations": [
+        "to stop (a vehicle)",
+        "to come to a halt"
+      ],
+      "level": "A2",
+      "category": "Modal & Separable Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 1090,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "halte an",
+        "du": "hältst an",
+        "er": "hält an",
+        "wir": "halten an",
+        "ihr": "haltet an",
+        "sie": "halten an",
+        "praeteritum": "hielt an",
+        "perfekt": "hat angehalten",
+        "imperativ": "halt an!"
+      },
+      "example_sentences": [
+        {
+          "de": "Können Sie bitte hier anhalten?",
+          "en": "Could you stop here, please?"
+        },
+        {
+          "de": "Der Bus hat an der Ampel angehalten.",
+          "en": "The bus stopped at the traffic light."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Fahrer ___ vor dem Haus an.",
+          "answer": "hält",
+          "en": "The driver stops in front of the house."
+        }
+      ],
+      "notes": "Separable, umlaut in du/er: du hältst an, er hält an. Use 'anhalten' for vehicles, 'aufhören' for activities. In a taxi: 'Halten Sie bitte hier an.'",
+      "mnemonic": "halten = hold → hold the car AT this spot.",
+      "germany_context": null,
+      "emoji": "✋",
+      "imageable": false,
+      "tags": [
+        "separable",
+        "transport"
+      ],
+      "synonyms": [
+        "stoppen"
+      ],
+      "antonyms": [
+        "losfahren"
+      ],
+      "related": [
+        "aufhoeren",
+        "abbiegen"
+      ]
+    },
+    {
+      "id": "einkaufen",
+      "word": "einkaufen",
+      "lemma": "einkaufen",
+      "translation": "to shop",
+      "translations": [
+        "to shop",
+        "to go shopping"
+      ],
+      "level": "A1",
+      "category": "Modal & Separable Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 260,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "kaufe ein",
+        "du": "kaufst ein",
+        "er": "kauft ein",
+        "wir": "kaufen ein",
+        "ihr": "kauft ein",
+        "sie": "kaufen ein",
+        "praeteritum": "kaufte ein",
+        "perfekt": "hat eingekauft",
+        "imperativ": "kauf ein!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich kaufe samstags im Supermarkt ein.",
+          "en": "I do my shopping at the supermarket on Saturdays."
+        },
+        {
+          "de": "Wir haben schon für die ganze Woche eingekauft.",
+          "en": "We've already shopped for the whole week."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wo ___ ihr normalerweise ein?",
+          "answer": "kauft",
+          "en": "Where do you usually shop?"
+        }
+      ],
+      "notes": "Separable: 'Ich kaufe heute ein.' 'einkaufen' = do the shopping (no object). 'kaufen' = buy a specific thing: 'Ich kaufe ein Fahrrad.'",
+      "mnemonic": "ein-kaufen = buy your way INTO a full fridge.",
+      "germany_context": "Supermarkets are closed all day Sunday and on public holidays. Stock up on Saturday. Exceptions: shops in big train stations and airports, plus Berlin's Spätis. Bring your own bag and enough coins — many small shops still prefer Bargeld.",
+      "emoji": "🛒",
+      "imageable": false,
+      "tags": [
+        "separable",
+        "shopping",
+        "essential",
+        "daily-life"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "verkaufen"
+      ],
+      "related": [
+        "einpacken",
+        "abgeben"
+      ]
+    },
+    {
+      "id": "ausgehen",
+      "word": "ausgehen",
+      "lemma": "ausgehen",
+      "translation": "to go out",
+      "translations": [
+        "to go out"
+      ],
+      "level": "A2",
+      "category": "Modal & Separable Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 640,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "sein",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "gehe aus",
+        "du": "gehst aus",
+        "er": "geht aus",
+        "wir": "gehen aus",
+        "ihr": "geht aus",
+        "sie": "gehen aus",
+        "praeteritum": "ging aus",
+        "perfekt": "ist ausgegangen",
+        "imperativ": "geh aus!"
+      },
+      "example_sentences": [
+        {
+          "de": "Wir gehen heute Abend aus.",
+          "en": "We're going out tonight."
+        },
+        {
+          "de": "Am Freitag sind wir mit Kollegen ausgegangen.",
+          "en": "On Friday we went out with colleagues."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ du oft am Wochenende aus?",
+          "answer": "Gehst",
+          "en": "Do you often go out on weekends?"
+        }
+      ],
+      "notes": "Separable, 'sein'. Also means 'to run out': 'Die Milch ist ausgegangen' and 'to go out' (a light): 'Das Licht geht aus.'",
+      "mnemonic": "aus = out → go OUT.",
+      "germany_context": "Trinkgeld: round up roughly 5–10 %. You do not leave money on the table — you say the total out loud when paying, e.g. bill of 17,40 €: 'Machen Sie 19.' Say whether you pay 'zusammen oder getrennt' — splitting the bill person by person is completely normal.",
+      "emoji": "🌃",
+      "imageable": false,
+      "tags": [
+        "separable",
+        "social",
+        "free-time"
+      ],
+      "synonyms": [
+        "weggehen"
+      ],
+      "antonyms": [
+        "zu Hause bleiben"
+      ],
+      "related": [
+        "weggehen",
+        "einladen"
+      ]
+    },
+    {
+      "id": "mitkommen",
+      "word": "mitkommen",
+      "lemma": "mitkommen",
+      "translation": "to come along",
+      "translations": [
+        "to come along",
+        "to join"
+      ],
+      "level": "A1",
+      "category": "Modal & Separable Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 430,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "sein",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "komme mit",
+        "du": "kommst mit",
+        "er": "kommt mit",
+        "wir": "kommen mit",
+        "ihr": "kommt mit",
+        "sie": "kommen mit",
+        "praeteritum": "kam mit",
+        "perfekt": "ist mitgekommen",
+        "imperativ": "komm mit!"
+      },
+      "example_sentences": [
+        {
+          "de": "Kommst du heute Abend mit?",
+          "en": "Are you coming along tonight?"
+        },
+        {
+          "de": "Meine Schwester ist nach Berlin mitgekommen.",
+          "en": "My sister came along to Berlin."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wir gehen ins Kino — ___ ihr mit?",
+          "answer": "kommt",
+          "en": "We're going to the cinema — are you coming along?"
+        }
+      ],
+      "notes": "Separable, 'sein'. 'Komm mit!' is the everyday invitation. Also figurative: 'Ich komme im Kurs nicht mit' = I can't keep up in the class.",
+      "mnemonic": "mit = with → come WITH.",
+      "germany_context": null,
+      "emoji": "👥",
+      "imageable": false,
+      "tags": [
+        "separable",
+        "social",
+        "essential"
+      ],
+      "synonyms": [
+        "mitmachen"
+      ],
+      "antonyms": [],
+      "related": [
+        "mitbringen",
+        "mitnehmen",
+        "mitmachen"
+      ]
+    },
+    {
+      "id": "mitbringen",
+      "word": "mitbringen",
+      "lemma": "mitbringen",
+      "translation": "to bring along",
+      "translations": [
+        "to bring along",
+        "to bring with you"
+      ],
+      "level": "A1",
+      "category": "Modal & Separable Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 410,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [
+        "dat"
+      ],
+      "forms": {
+        "ich": "bringe mit",
+        "du": "bringst mit",
+        "er": "bringt mit",
+        "wir": "bringen mit",
+        "ihr": "bringt mit",
+        "sie": "bringen mit",
+        "praeteritum": "brachte mit",
+        "perfekt": "hat mitgebracht",
+        "imperativ": "bring mit!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich bringe einen Kuchen mit.",
+          "en": "I'll bring a cake along."
+        },
+        {
+          "de": "Was soll ich zur Party mitbringen?",
+          "en": "What should I bring to the party?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ bitte deinen Ausweis mit.",
+          "answer": "Bring",
+          "en": "Please bring your ID along."
+        }
+      ],
+      "notes": "Separable, 'haben'. Can take a dative person: 'Ich bringe dir etwas mit.' Note the Perfekt: mit-ge-bracht.",
+      "mnemonic": "mit + bringen = bring WITH you.",
+      "germany_context": "If you're invited to someone's home, bring a small Gastgeschenk — wine, flowers or something sweet. When invited to a Grillfest or a WG party, ask 'Soll ich was mitbringen?' — the answer is usually drinks or a salad.",
+      "emoji": "🎁",
+      "imageable": false,
+      "tags": [
+        "separable",
+        "social",
+        "essential"
+      ],
+      "synonyms": [
+        "mitnehmen"
+      ],
+      "antonyms": [],
+      "related": [
+        "mitnehmen",
+        "einladen",
+        "mitkommen"
+      ]
+    },
+    {
+      "id": "mitnehmen",
+      "word": "mitnehmen",
+      "lemma": "mitnehmen",
+      "translation": "to take along",
+      "translations": [
+        "to take along",
+        "to take with you"
+      ],
+      "level": "A2",
+      "category": "Modal & Separable Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 470,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "nehme mit",
+        "du": "nimmst mit",
+        "er": "nimmt mit",
+        "wir": "nehmen mit",
+        "ihr": "nehmt mit",
+        "sie": "nehmen mit",
+        "praeteritum": "nahm mit",
+        "perfekt": "hat mitgenommen",
+        "imperativ": "nimm mit!"
+      },
+      "example_sentences": [
+        {
+          "de": "Nimm bitte einen Regenschirm mit.",
+          "en": "Please take an umbrella with you."
+        },
+        {
+          "de": "Ich habe die Kinder mitgenommen.",
+          "en": "I took the children along."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ du mich im Auto mit?",
+          "answer": "Nimmst",
+          "en": "Will you give me a lift in the car?"
+        }
+      ],
+      "notes": "Separable with irregular stem: du nimmst mit, er nimmt mit. 'mitbringen' = bring here to me; 'mitnehmen' = take from here to somewhere else. At the Bäckerei: 'Zum Mitnehmen, bitte' = to take away.",
+      "mnemonic": "mit + nehmen = take WITH.",
+      "germany_context": null,
+      "emoji": "🎒",
+      "imageable": false,
+      "tags": [
+        "separable",
+        "daily-life"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "dalassen"
+      ],
+      "related": [
+        "mitbringen",
+        "einpacken"
+      ]
+    },
+    {
+      "id": "mitmachen",
+      "word": "mitmachen",
+      "lemma": "mitmachen",
+      "translation": "to join in",
+      "translations": [
+        "to join in",
+        "to take part"
+      ],
+      "level": "A2",
+      "category": "Modal & Separable Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 1080,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "mache mit",
+        "du": "machst mit",
+        "er": "macht mit",
+        "wir": "machen mit",
+        "ihr": "macht mit",
+        "sie": "machen mit",
+        "praeteritum": "machte mit",
+        "perfekt": "hat mitgemacht",
+        "imperativ": "mach mit!"
+      },
+      "example_sentences": [
+        {
+          "de": "Machst du beim Fußballturnier mit?",
+          "en": "Are you joining in the football tournament?"
+        },
+        {
+          "de": "Alle Kollegen haben mitgemacht.",
+          "en": "All the colleagues joined in."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich ___ dieses Jahr nicht mit.",
+          "answer": "mache",
+          "en": "I'm not joining in this year."
+        }
+      ],
+      "notes": "Separable, 'haben'. 'bei etwas mitmachen' (bei + Dativ). More casual than 'teilnehmen', which is the formal/written word.",
+      "mnemonic": "mit + machen = do it WITH the others.",
+      "germany_context": null,
+      "emoji": "🙋",
+      "imageable": false,
+      "tags": [
+        "separable",
+        "social"
+      ],
+      "synonyms": [
+        "teilnehmen"
+      ],
+      "antonyms": [],
+      "related": [
+        "teilnehmen",
+        "mitkommen"
+      ]
+    },
+    {
+      "id": "fernsehen",
+      "word": "fernsehen",
+      "lemma": "fernsehen",
+      "translation": "to watch TV",
+      "translations": [
+        "to watch TV"
+      ],
+      "level": "A1",
+      "category": "Modal & Separable Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 560,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "sehe fern",
+        "du": "siehst fern",
+        "er": "sieht fern",
+        "wir": "sehen fern",
+        "ihr": "seht fern",
+        "sie": "sehen fern",
+        "praeteritum": "sah fern",
+        "perfekt": "hat ferngesehen",
+        "imperativ": "sieh fern!"
+      },
+      "example_sentences": [
+        {
+          "de": "Abends sehe ich meistens fern.",
+          "en": "In the evening I usually watch TV."
+        },
+        {
+          "de": "Wir haben den ganzen Sonntag ferngesehen.",
+          "en": "We watched TV all Sunday."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wie lange ___ du am Tag fern?",
+          "answer": "siehst",
+          "en": "How long do you watch TV a day?"
+        }
+      ],
+      "notes": "Separable with irregular stem: du siehst fern, er sieht fern. Never takes an object — for a specific programme use 'Ich sehe/schaue einen Film an'.",
+      "mnemonic": "fern = far + sehen = see → see far away = television.",
+      "germany_context": "Every household in Germany pays the Rundfunkbeitrag (public broadcasting fee) of just over 18 € per month — per flat, not per person, and whether or not you own a TV. After your Anmeldung, a letter from the 'Beitragsservice' will arrive automatically. If you share a WG, only one person needs to pay.",
+      "emoji": "📺",
+      "imageable": false,
+      "tags": [
+        "separable",
+        "free-time",
+        "home"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "ansehen",
+        "anmachen"
+      ]
+    },
+    {
+      "id": "aufmachen",
+      "word": "aufmachen",
+      "lemma": "aufmachen",
+      "translation": "to open",
+      "translations": [
+        "to open"
+      ],
+      "level": "A1",
+      "category": "Modal & Separable Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 300,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "mache auf",
+        "du": "machst auf",
+        "er": "macht auf",
+        "wir": "machen auf",
+        "ihr": "macht auf",
+        "sie": "machen auf",
+        "praeteritum": "machte auf",
+        "perfekt": "hat aufgemacht",
+        "imperativ": "mach auf!"
+      },
+      "example_sentences": [
+        {
+          "de": "Mach bitte das Fenster auf.",
+          "en": "Please open the window."
+        },
+        {
+          "de": "Die Bäckerei macht um sechs Uhr auf.",
+          "en": "The bakery opens at six."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wann ___ die Apotheke auf?",
+          "answer": "macht",
+          "en": "When does the pharmacy open?"
+        }
+      ],
+      "notes": "Separable, everyday spoken alternative to 'öffnen' (which is more written/formal). 'Aufmachen!' at the door = 'Open up!'",
+      "mnemonic": "auf = open (as in a shop sign 'AUF') → make it open.",
+      "germany_context": "Shops usually machen um 8–10 Uhr auf and close at 20 Uhr, all shut on Sunday. Bäckereien are the big exception — many open Sunday morning for a few hours, which is why Germans queue there for Sunday Brötchen.",
+      "emoji": "🔓",
+      "imageable": false,
+      "tags": [
+        "separable",
+        "essential",
+        "daily-life"
+      ],
+      "synonyms": [
+        "öffnen"
+      ],
+      "antonyms": [
+        "zumachen"
+      ],
+      "related": [
+        "zumachen",
+        "anmachen"
+      ]
+    },
+    {
+      "id": "zumachen",
+      "word": "zumachen",
+      "lemma": "zumachen",
+      "translation": "to close",
+      "translations": [
+        "to close",
+        "to shut"
+      ],
+      "level": "A1",
+      "category": "Modal & Separable Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 330,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "mache zu",
+        "du": "machst zu",
+        "er": "macht zu",
+        "wir": "machen zu",
+        "ihr": "macht zu",
+        "sie": "machen zu",
+        "praeteritum": "machte zu",
+        "perfekt": "hat zugemacht",
+        "imperativ": "mach zu!"
+      },
+      "example_sentences": [
+        {
+          "de": "Machst du bitte die Tür zu?",
+          "en": "Would you close the door, please?"
+        },
+        {
+          "de": "Der Supermarkt hat schon zugemacht.",
+          "en": "The supermarket has already closed."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich ___ das Fenster zu, mir ist kalt.",
+          "answer": "mache",
+          "en": "I'm closing the window, I'm cold."
+        }
+      ],
+      "notes": "Separable. Spoken alternative to 'schließen'. On a shop door, 'geschlossen' means closed; 'zu' is the casual version: 'Der Laden ist zu.'",
+      "mnemonic": "zu = shut (the German 'ZU' sign on a door).",
+      "germany_context": null,
+      "emoji": "🔒",
+      "imageable": false,
+      "tags": [
+        "separable",
+        "essential",
+        "daily-life"
+      ],
+      "synonyms": [
+        "schließen"
+      ],
+      "antonyms": [
+        "aufmachen"
+      ],
+      "related": [
+        "aufmachen",
+        "ausmachen"
+      ]
+    },
+    {
+      "id": "anmachen",
+      "word": "anmachen",
+      "lemma": "anmachen",
+      "translation": "to turn on",
+      "translations": [
+        "to turn on",
+        "to switch on"
+      ],
+      "level": "A1",
+      "category": "Modal & Separable Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 480,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "mache an",
+        "du": "machst an",
+        "er": "macht an",
+        "wir": "machen an",
+        "ihr": "macht an",
+        "sie": "machen an",
+        "praeteritum": "machte an",
+        "perfekt": "hat angemacht",
+        "imperativ": "mach an!"
+      },
+      "example_sentences": [
+        {
+          "de": "Mach bitte das Licht an.",
+          "en": "Please turn on the light."
+        },
+        {
+          "de": "Er hat die Heizung angemacht.",
+          "en": "He turned the heating on."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ du bitte den Computer an?",
+          "answer": "Machst",
+          "en": "Could you turn on the computer, please?"
+        }
+      ],
+      "notes": "Separable, spoken. The formal equivalent is 'einschalten'. Careful: 'jemanden anmachen' also means to hit on / to snap at someone.",
+      "mnemonic": "an = on (like the 'AN' side of a German switch).",
+      "germany_context": "Ruhezeiten are taken seriously: 22:00–06:00 is Nachtruhe, and Sundays and public holidays are quiet all day. No loud music, drilling, vacuuming or washing machine — a neighbour will ring your bell, and repeat offences can genuinely threaten your Mietvertrag.",
+      "emoji": "💡",
+      "imageable": false,
+      "tags": [
+        "separable",
+        "home",
+        "daily-life"
+      ],
+      "synonyms": [
+        "einschalten"
+      ],
+      "antonyms": [
+        "ausmachen"
+      ],
+      "related": [
+        "ausmachen",
+        "fernsehen"
+      ]
+    },
+    {
+      "id": "ausmachen",
+      "word": "ausmachen",
+      "lemma": "ausmachen",
+      "translation": "to turn off",
+      "translations": [
+        "to turn off",
+        "to switch off"
+      ],
+      "level": "A1",
+      "category": "Modal & Separable Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 490,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "mache aus",
+        "du": "machst aus",
+        "er": "macht aus",
+        "wir": "machen aus",
+        "ihr": "macht aus",
+        "sie": "machen aus",
+        "praeteritum": "machte aus",
+        "perfekt": "hat ausgemacht",
+        "imperativ": "mach aus!"
+      },
+      "example_sentences": [
+        {
+          "de": "Mach bitte den Fernseher aus.",
+          "en": "Please turn the TV off."
+        },
+        {
+          "de": "Ich habe das Licht im Flur ausgemacht.",
+          "en": "I turned off the light in the hallway."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wer ___ abends die Lampen aus?",
+          "answer": "macht",
+          "en": "Who turns off the lamps in the evening?"
+        }
+      ],
+      "notes": "Separable. Also used for arrangements: 'Wir haben einen Termin ausgemacht' = we agreed on an appointment. And 'Macht es Ihnen etwas aus …?' = 'Do you mind …?'",
+      "mnemonic": "aus = off (the 'AUS' side of a German switch).",
+      "germany_context": null,
+      "emoji": "🔌",
+      "imageable": false,
+      "tags": [
+        "separable",
+        "home",
+        "daily-life"
+      ],
+      "synonyms": [
+        "ausschalten"
+      ],
+      "antonyms": [
+        "anmachen"
+      ],
+      "related": [
+        "anmachen",
+        "zumachen"
+      ]
+    },
+    {
+      "id": "anziehen",
+      "word": "anziehen",
+      "lemma": "anziehen",
+      "translation": "to put on",
+      "translations": [
+        "to put on",
+        "to get dressed"
+      ],
+      "level": "A1",
+      "category": "Modal & Separable Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 450,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "ziehe an",
+        "du": "ziehst an",
+        "er": "zieht an",
+        "wir": "ziehen an",
+        "ihr": "zieht an",
+        "sie": "ziehen an",
+        "praeteritum": "zog an",
+        "perfekt": "hat angezogen",
+        "imperativ": "zieh an!"
+      },
+      "example_sentences": [
+        {
+          "de": "Zieh eine warme Jacke an, es ist kalt.",
+          "en": "Put on a warm jacket, it's cold."
+        },
+        {
+          "de": "Ich habe heute meine neuen Schuhe angezogen.",
+          "en": "I put on my new shoes today."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Was ___ du morgen zum Vorstellungsgespräch an?",
+          "answer": "ziehst",
+          "en": "What are you wearing to the job interview tomorrow?"
+        }
+      ],
+      "notes": "Separable: 'Ich ziehe den Mantel an.' Reflexive for dressing yourself: 'Ich ziehe mich an.' Note: 'anziehen' = the act of putting on; 'tragen' = to be wearing.",
+      "mnemonic": "ziehen = pull → pull the clothes ON.",
+      "germany_context": null,
+      "emoji": "🧥",
+      "imageable": false,
+      "tags": [
+        "separable",
+        "clothes",
+        "daily-routine"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "ausziehen"
+      ],
+      "related": [
+        "ausziehen",
+        "anprobieren"
+      ]
+    },
+    {
+      "id": "ausziehen",
+      "word": "ausziehen",
+      "lemma": "ausziehen",
+      "translation": "to take off",
+      "translations": [
+        "to take off",
+        "to move out"
+      ],
+      "level": "A2",
+      "category": "Modal & Separable Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 540,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "ziehe aus",
+        "du": "ziehst aus",
+        "er": "zieht aus",
+        "wir": "ziehen aus",
+        "ihr": "zieht aus",
+        "sie": "ziehen aus",
+        "praeteritum": "zog aus",
+        "perfekt": "hat ausgezogen",
+        "imperativ": "zieh aus!"
+      },
+      "example_sentences": [
+        {
+          "de": "Bitte zieh die Schuhe in der Wohnung aus.",
+          "en": "Please take your shoes off in the flat."
+        },
+        {
+          "de": "Wir ziehen Ende April aus der Wohnung aus.",
+          "en": "We're moving out of the flat at the end of April."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Er ___ die nasse Jacke aus.",
+          "answer": "zieht",
+          "en": "He takes off the wet jacket."
+        }
+      ],
+      "notes": "Two meanings, two auxiliaries: clothes → 'Ich habe die Jacke ausgezogen' (haben); moving out of a flat → 'Ich bin ausgezogen' (sein). Note 'ausziehen' = take off, 'umziehen' = move house, 'einziehen' = move in.",
+      "mnemonic": "ziehen = pull → pull it OFF, or pull yourself OUT of the flat.",
+      "germany_context": "Shoes come off at the door in most German homes — even if the host politely says it's not necessary, taking them off is the safer default.",
+      "emoji": "👟",
+      "imageable": false,
+      "tags": [
+        "separable",
+        "clothes",
+        "housing"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "anziehen",
+        "einziehen"
+      ],
+      "related": [
+        "anziehen",
+        "einziehen",
+        "umziehen"
+      ]
+    },
+    {
+      "id": "anprobieren",
+      "word": "anprobieren",
+      "lemma": "anprobieren",
+      "translation": "to try on",
+      "translations": [
+        "to try on"
+      ],
+      "level": "A2",
+      "category": "Modal & Separable Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 1220,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "probiere an",
+        "du": "probierst an",
+        "er": "probiert an",
+        "wir": "probieren an",
+        "ihr": "probiert an",
+        "sie": "probieren an",
+        "praeteritum": "probierte an",
+        "perfekt": "hat anprobiert",
+        "imperativ": "probier an!"
+      },
+      "example_sentences": [
+        {
+          "de": "Kann ich die Hose anprobieren?",
+          "en": "Can I try on the trousers?"
+        },
+        {
+          "de": "Sie hat drei Jacken anprobiert.",
+          "en": "She tried on three jackets."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich ___ das Hemd kurz an.",
+          "answer": "probiere",
+          "en": "I'll quickly try the shirt on."
+        }
+      ],
+      "notes": "Separable, but the Partizip has NO -ge-: 'anprobiert', because verbs ending in -ieren never take ge-. In a shop: 'Wo sind die Umkleidekabinen?'",
+      "mnemonic": "probieren = try → try it ON.",
+      "germany_context": null,
+      "emoji": "👕",
+      "imageable": false,
+      "tags": [
+        "separable",
+        "shopping",
+        "clothes"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "anziehen",
+        "zurueckgeben"
+      ]
+    },
+    {
+      "id": "einziehen",
+      "word": "einziehen",
+      "lemma": "einziehen",
+      "translation": "to move in",
+      "translations": [
+        "to move in"
+      ],
+      "level": "A2",
+      "category": "Modal & Separable Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 830,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "sein",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "ziehe ein",
+        "du": "ziehst ein",
+        "er": "zieht ein",
+        "wir": "ziehen ein",
+        "ihr": "zieht ein",
+        "sie": "ziehen ein",
+        "praeteritum": "zog ein",
+        "perfekt": "ist eingezogen",
+        "imperativ": "zieh ein!"
+      },
+      "example_sentences": [
+        {
+          "de": "Wir ziehen am ersten Mai in die neue Wohnung ein.",
+          "en": "We're moving into the new flat on the first of May."
+        },
+        {
+          "de": "Die neuen Nachbarn sind letzte Woche eingezogen.",
+          "en": "The new neighbours moved in last week."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wann ___ ihr endlich ein?",
+          "answer": "zieht",
+          "en": "When are you finally moving in?"
+        }
+      ],
+      "notes": "Separable, 'sein': 'Ich bin eingezogen.' 'in die Wohnung einziehen' (in + Akkusativ).",
+      "mnemonic": "ein = into → pull yourself INTO the flat.",
+      "germany_context": "On the day you einziehen, do the Wohnungsübergabe with a written Übergabeprotokoll and photograph every existing scratch — otherwise it comes out of your Kaution (deposit, legally max. 3 Kaltmieten) when you leave. Ask for the Wohnungsgeberbestätigung too: you cannot do your Anmeldung without it.",
+      "emoji": "📦",
+      "imageable": false,
+      "tags": [
+        "separable",
+        "housing",
+        "moving"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "ausziehen"
+      ],
+      "related": [
+        "ausziehen",
+        "umziehen",
+        "anmelden"
+      ]
+    },
+    {
+      "id": "umziehen",
+      "word": "umziehen",
+      "lemma": "umziehen",
+      "translation": "to move house",
+      "translations": [
+        "to move house",
+        "to relocate"
+      ],
+      "level": "A2",
+      "category": "Modal & Separable Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 700,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "sein",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "ziehe um",
+        "du": "ziehst um",
+        "er": "zieht um",
+        "wir": "ziehen um",
+        "ihr": "zieht um",
+        "sie": "ziehen um",
+        "praeteritum": "zog um",
+        "perfekt": "ist umgezogen",
+        "imperativ": "zieh um!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich ziehe im September nach Hamburg um.",
+          "en": "I'm moving to Hamburg in September."
+        },
+        {
+          "de": "Sie sind letztes Jahr nach Deutschland umgezogen.",
+          "en": "They moved to Germany last year."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wohin ___ ihr um?",
+          "answer": "zieht",
+          "en": "Where are you moving to?"
+        }
+      ],
+      "notes": "Separable, 'sein' when it means moving house. Reflexive 'sich umziehen' means something completely different: to change clothes — 'Ich ziehe mich schnell um.'",
+      "mnemonic": "um = around → you move your whole life AROUND.",
+      "germany_context": "After every Umzug inside Germany you must ummelden at the Bürgeramt within 14 days. Also set up a Nachsendeauftrag with Deutsche Post (about 30 € for 6 months) and tell your Krankenkasse, bank, employer and the Beitragsservice — German admin does not update itself.",
+      "emoji": "🚚",
+      "imageable": false,
+      "tags": [
+        "separable",
+        "housing",
+        "moving",
+        "bureaucracy"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "einziehen",
+        "ausziehen",
+        "ummelden"
+      ]
+    },
+    {
+      "id": "aufraeumen",
+      "word": "aufräumen",
+      "lemma": "aufräumen",
+      "translation": "to tidy up",
+      "translations": [
+        "to tidy up",
+        "to clean up"
+      ],
+      "level": "A2",
+      "category": "Modal & Separable Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 660,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "räume auf",
+        "du": "räumst auf",
+        "er": "räumt auf",
+        "wir": "räumen auf",
+        "ihr": "räumt auf",
+        "sie": "räumen auf",
+        "praeteritum": "räumte auf",
+        "perfekt": "hat aufgeräumt",
+        "imperativ": "räum auf!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich räume am Samstag die Wohnung auf.",
+          "en": "I tidy up the flat on Saturday."
+        },
+        {
+          "de": "Hast du schon dein Zimmer aufgeräumt?",
+          "en": "Have you tidied your room yet?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ bitte die Küche auf!",
+          "answer": "Räum",
+          "en": "Please tidy up the kitchen!"
+        }
+      ],
+      "notes": "Separable: 'Ich räume die Küche auf.' 'aufräumen' = put things in order; 'putzen' = actually clean with water and cleaning products.",
+      "mnemonic": "Raum = room → auf-RÄUM-en = sort the room out.",
+      "germany_context": "In many buildings the Hausordnung assigns tenants shared duties: stairwell cleaning, taking bins to the street, clearing snow. In Baden-Württemberg and parts of Bavaria this is the famous 'Kehrwoche' — a rota, posted in the hallway, and neighbours will notice if you skip yours.",
+      "emoji": "🧹",
+      "imageable": false,
+      "tags": [
+        "separable",
+        "home",
+        "housing"
+      ],
+      "synonyms": [
+        "putzen"
+      ],
+      "antonyms": [],
+      "related": [
+        "wegwerfen",
+        "einpacken"
+      ]
+    },
+    {
+      "id": "abholen",
+      "word": "abholen",
+      "lemma": "abholen",
+      "translation": "to pick up",
+      "translations": [
+        "to pick up",
+        "to collect"
+      ],
+      "level": "A1",
+      "category": "Modal & Separable Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 350,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "hole ab",
+        "du": "holst ab",
+        "er": "holt ab",
+        "wir": "holen ab",
+        "ihr": "holt ab",
+        "sie": "holen ab",
+        "praeteritum": "holte ab",
+        "perfekt": "hat abgeholt",
+        "imperativ": "hol ab!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich hole dich um acht am Bahnhof ab.",
+          "en": "I'll pick you up at the station at eight."
+        },
+        {
+          "de": "Er hat das Paket in der Filiale abgeholt.",
+          "en": "He collected the parcel at the branch."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Kannst du das Paket für mich ___?",
+          "answer": "abholen",
+          "en": "Can you pick up the parcel for me?"
+        }
+      ],
+      "notes": "Separable: 'Ich hole dich ab.' Takes a plain accusative object. Used for people and for things you collect somewhere.",
+      "mnemonic": "holen = fetch → fetch it AWAY from there.",
+      "germany_context": "If you're not home, DHL leaves the parcel with a neighbour or at a Filiale/Packstation and drops a yellow Benachrichtigungskarte in your letterbox. Bring the card and your Ausweis. Also: your name MUST be on the Klingelschild and the Briefkasten, or deliveries and official post simply go back.",
+      "emoji": "📮",
+      "imageable": false,
+      "tags": [
+        "separable",
+        "daily-life",
+        "post"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "bringen"
+      ],
+      "related": [
+        "bekommen",
+        "abgeben"
+      ]
+    },
+    {
+      "id": "vorbereiten",
+      "word": "vorbereiten",
+      "lemma": "vorbereiten",
+      "translation": "to prepare",
+      "translations": [
+        "to prepare",
+        "to get ready"
+      ],
+      "level": "A2",
+      "category": "Modal & Separable Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 720,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "bereite vor",
+        "du": "bereitest vor",
+        "er": "bereitet vor",
+        "wir": "bereiten vor",
+        "ihr": "bereitet vor",
+        "sie": "bereiten vor",
+        "praeteritum": "bereitete vor",
+        "perfekt": "hat vorbereitet",
+        "imperativ": "bereite vor!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich bereite das Meeting für morgen vor.",
+          "en": "I'm preparing the meeting for tomorrow."
+        },
+        {
+          "de": "Sie hat sich gut auf die Prüfung vorbereitet.",
+          "en": "She prepared well for the exam."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wir ___ das Abendessen vor.",
+          "answer": "bereiten",
+          "en": "We're preparing dinner."
+        }
+      ],
+      "notes": "Separable: 'Ich bereite alles vor.' The Partizip has no -ge- because the stem 'bereiten' already carries the inseparable prefix be-. Reflexive: 'sich auf etwas (Akk.) vorbereiten'.",
+      "mnemonic": "vor = before → get it ready BEFORE.",
+      "germany_context": null,
+      "emoji": "📋",
+      "imageable": false,
+      "tags": [
+        "separable",
+        "work",
+        "study"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "teilnehmen",
+        "stattfinden"
+      ]
+    },
+    {
+      "id": "teilnehmen",
+      "word": "teilnehmen",
+      "lemma": "teilnehmen",
+      "translation": "to participate",
+      "translations": [
+        "to participate",
+        "to take part"
+      ],
+      "level": "A2",
+      "category": "Modal & Separable Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 940,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [
+        "dat"
+      ],
+      "forms": {
+        "ich": "nehme teil",
+        "du": "nimmst teil",
+        "er": "nimmt teil",
+        "wir": "nehmen teil",
+        "ihr": "nehmt teil",
+        "sie": "nehmen teil",
+        "praeteritum": "nahm teil",
+        "perfekt": "hat teilgenommen",
+        "imperativ": "nimm teil!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich nehme an einem Deutschkurs teil.",
+          "en": "I'm taking part in a German course."
+        },
+        {
+          "de": "Über 200 Leute haben an dem Workshop teilgenommen.",
+          "en": "Over 200 people took part in the workshop."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ du auch am Integrationskurs teil?",
+          "answer": "Nimmst",
+          "en": "Are you taking part in the integration course too?"
+        }
+      ],
+      "notes": "Separable with irregular stem: du nimmst teil, er nimmt teil. Always 'teilnehmen AN + Dativ' — 'an einem Kurs teilnehmen'. Formal register; in speech people say 'mitmachen'.",
+      "mnemonic": "Teil = part + nehmen = take → take PART.",
+      "germany_context": "Non-EU newcomers are often required by the Ausländerbehörde to take part in an Integrationskurs (600 hours German + 100 hours Orientierungskurs). The BAMF subsidises most of the cost, and completing it counts towards permanent residency.",
+      "emoji": "🎓",
+      "imageable": false,
+      "tags": [
+        "separable",
+        "formal",
+        "study"
+      ],
+      "synonyms": [
+        "mitmachen"
+      ],
+      "antonyms": [],
+      "related": [
+        "mitmachen",
+        "anmelden",
+        "absagen"
+      ]
+    },
+    {
+      "id": "stattfinden",
+      "word": "stattfinden",
+      "lemma": "stattfinden",
+      "translation": "to take place",
+      "translations": [
+        "to take place",
+        "to happen"
+      ],
+      "level": "A2",
+      "category": "Modal & Separable Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 870,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "finde statt",
+        "du": "findest statt",
+        "er": "findet statt",
+        "wir": "finden statt",
+        "ihr": "findet statt",
+        "sie": "finden statt",
+        "praeteritum": "fand statt",
+        "perfekt": "hat stattgefunden",
+        "imperativ": "—"
+      },
+      "example_sentences": [
+        {
+          "de": "Das Meeting findet um 10 Uhr statt.",
+          "en": "The meeting takes place at 10 o'clock."
+        },
+        {
+          "de": "Das Fest hat leider nicht stattgefunden.",
+          "en": "Unfortunately the party didn't take place."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wo ___ der Kurs statt?",
+          "answer": "findet",
+          "en": "Where does the course take place?"
+        }
+      ],
+      "notes": "Separable, but only used with things as subject (events), so there is no imperative and effectively only 3rd-person forms. 'Findet der Termin statt?' = 'Is the appointment still on?'",
+      "mnemonic": "statt (= instead/place) + finden → the event 'finds its place'.",
+      "germany_context": "Germany runs on Termine. Doctors, Bürgeramt, banks, even some Handwerker: almost nothing happens without an appointment booked in advance, and walking in without one usually gets you sent away. Book Bürgeramt Termine online weeks ahead — slots go fast.",
+      "emoji": "📅",
+      "imageable": false,
+      "tags": [
+        "separable",
+        "formal",
+        "events"
+      ],
+      "synonyms": [
+        "passieren"
+      ],
+      "antonyms": [
+        "ausfallen"
+      ],
+      "related": [
+        "absagen",
+        "vorbereiten"
+      ]
+    },
+    {
+      "id": "zurueckkommen",
+      "word": "zurückkommen",
+      "lemma": "zurückkommen",
+      "translation": "to come back",
+      "translations": [
+        "to come back",
+        "to return"
+      ],
+      "level": "A1",
+      "category": "Modal & Separable Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 460,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "sein",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "komme zurück",
+        "du": "kommst zurück",
+        "er": "kommt zurück",
+        "wir": "kommen zurück",
+        "ihr": "kommt zurück",
+        "sie": "kommen zurück",
+        "praeteritum": "kam zurück",
+        "perfekt": "ist zurückgekommen",
+        "imperativ": "komm zurück!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich komme in zehn Minuten zurück.",
+          "en": "I'll come back in ten minutes."
+        },
+        {
+          "de": "Sie ist gestern aus der Türkei zurückgekommen.",
+          "en": "She came back from Turkey yesterday."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wann ___ dein Chef aus dem Urlaub zurück?",
+          "answer": "kommt",
+          "en": "When does your boss come back from holiday?"
+        }
+      ],
+      "notes": "Separable, 'sein'. Note the Perfekt: zurück-ge-kommen. 'zurückkommen' = come back here; 'zurückgehen' = go back there.",
+      "mnemonic": "zurück = back → come BACK.",
+      "germany_context": null,
+      "emoji": "🔙",
+      "imageable": false,
+      "tags": [
+        "separable",
+        "movement",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "weggehen"
+      ],
+      "related": [
+        "weggehen",
+        "zurueckrufen",
+        "zurueckgeben"
+      ]
+    },
+    {
+      "id": "weggehen",
+      "word": "weggehen",
+      "lemma": "weggehen",
+      "translation": "to leave",
+      "translations": [
+        "to leave",
+        "to go away"
+      ],
+      "level": "A2",
+      "category": "Modal & Separable Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 690,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "sein",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "gehe weg",
+        "du": "gehst weg",
+        "er": "geht weg",
+        "wir": "gehen weg",
+        "ihr": "geht weg",
+        "sie": "gehen weg",
+        "praeteritum": "ging weg",
+        "perfekt": "ist weggegangen",
+        "imperativ": "geh weg!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich gehe gleich weg, bis später!",
+          "en": "I'm leaving in a moment, see you later!"
+        },
+        {
+          "de": "Sie ist ohne ein Wort weggegangen.",
+          "en": "She left without a word."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wann ___ ihr heute weg?",
+          "answer": "geht",
+          "en": "When are you leaving today?"
+        }
+      ],
+      "notes": "Separable, 'sein'. 'Geh weg!' is a fairly sharp 'Go away!'. In the sense of going out at night it overlaps with 'ausgehen'.",
+      "mnemonic": "weg = away → go AWAY.",
+      "germany_context": null,
+      "emoji": "🚪",
+      "imageable": false,
+      "tags": [
+        "separable",
+        "movement"
+      ],
+      "synonyms": [
+        "ausgehen",
+        "losgehen"
+      ],
+      "antonyms": [
+        "zurückkommen"
+      ],
+      "related": [
+        "zurueckkommen",
+        "ausgehen",
+        "wegwerfen"
+      ]
+    },
+    {
+      "id": "hinfahren",
+      "word": "hinfahren",
+      "lemma": "hinfahren",
+      "translation": "to go there",
+      "translations": [
+        "to go there",
+        "to drive there"
+      ],
+      "level": "A2",
+      "category": "Modal & Separable Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 1170,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "sein",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "fahre hin",
+        "du": "fährst hin",
+        "er": "fährt hin",
+        "wir": "fahren hin",
+        "ihr": "fahrt hin",
+        "sie": "fahren hin",
+        "praeteritum": "fuhr hin",
+        "perfekt": "ist hingefahren",
+        "imperativ": "fahr hin!"
+      },
+      "example_sentences": [
+        {
+          "de": "Wie fahren wir am besten hin?",
+          "en": "What's the best way to get there?"
+        },
+        {
+          "de": "Ich bin mit dem Fahrrad hingefahren.",
+          "en": "I went there by bike."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ du mit dem Auto hin?",
+          "answer": "Fährst",
+          "en": "Are you driving there?"
+        }
+      ],
+      "notes": "Separable, 'sein', umlaut in du/er. 'hin' = away from the speaker, towards the destination; 'her' = towards the speaker. Compare 'hinfahren' (go there) vs 'herkommen' (come here).",
+      "mnemonic": "hin = thither → drive THERE.",
+      "germany_context": null,
+      "emoji": "🧭",
+      "imageable": false,
+      "tags": [
+        "separable",
+        "movement",
+        "travel"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "losfahren",
+        "zurueckkommen",
+        "reinkommen"
+      ]
+    },
+    {
+      "id": "vorstellen",
+      "word": "vorstellen",
+      "lemma": "vorstellen",
+      "translation": "to introduce",
+      "translations": [
+        "to introduce",
+        "to imagine"
+      ],
+      "level": "A2",
+      "category": "Modal & Separable Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 610,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "haben",
+      "reflexive": true,
+      "cases": [],
+      "forms": {
+        "ich": "stelle vor",
+        "du": "stellst vor",
+        "er": "stellt vor",
+        "wir": "stellen vor",
+        "ihr": "stellt vor",
+        "sie": "stellen vor",
+        "praeteritum": "stellte vor",
+        "perfekt": "hat vorgestellt",
+        "imperativ": "stell vor!"
+      },
+      "example_sentences": [
+        {
+          "de": "Darf ich mich kurz vorstellen? Ich heiße Emre.",
+          "en": "May I introduce myself? My name is Emre."
+        },
+        {
+          "de": "Er hat mir seine Kollegin vorgestellt.",
+          "en": "He introduced his colleague to me."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich ___ mich der neuen Nachbarin vor.",
+          "answer": "stelle",
+          "en": "I'm introducing myself to the new neighbour."
+        }
+      ],
+      "notes": "Separable. 'sich vorstellen' + Akkusativ = introduce oneself. With a DATIVE reflexive it means 'to imagine': 'Ich kann mir das gut vorstellen.' A 'Vorstellungsgespräch' is a job interview.",
+      "mnemonic": "vor = in front → you place yourself IN FRONT of people.",
+      "germany_context": "Germans introduce themselves with the surname and a firm handshake — 'Yalcin, guten Tag' — and shake hands with everyone in a small meeting. Wait to be offered 'du'; at work with strangers and anyone older, 'Sie' is the safe default.",
+      "emoji": "🤝",
+      "imageable": false,
+      "tags": [
+        "separable",
+        "social",
+        "work",
+        "reflexive"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "anmelden",
+        "teilnehmen"
+      ]
+    },
+    {
+      "id": "anmelden",
+      "word": "anmelden",
+      "lemma": "anmelden",
+      "translation": "to register",
+      "translations": [
+        "to register",
+        "to sign up"
+      ],
+      "level": "A2",
+      "category": "Modal & Separable Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 500,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "haben",
+      "reflexive": true,
+      "cases": [],
+      "forms": {
+        "ich": "melde an",
+        "du": "meldest an",
+        "er": "meldet an",
+        "wir": "melden an",
+        "ihr": "meldet an",
+        "sie": "melden an",
+        "praeteritum": "meldete an",
+        "perfekt": "hat angemeldet",
+        "imperativ": "melde an!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich muss mich beim Bürgeramt anmelden.",
+          "en": "I have to register at the citizens' office."
+        },
+        {
+          "de": "Wir haben unser Kind im Kindergarten angemeldet.",
+          "en": "We registered our child at the kindergarten."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Hast du dich schon für den Kurs ___?",
+          "answer": "angemeldet",
+          "en": "Have you already signed up for the course?"
+        }
+      ],
+      "notes": "Separable: 'Ich melde mich an.' Reflexive for registering yourself, transitive for registering someone/something. 'sich anmelden bei + Dativ' (an office) or 'für + Akkusativ' (a course). The noun is 'die Anmeldung'.",
+      "mnemonic": "melden = report → report yourself AT the office.",
+      "germany_context": "The single most important errand after arriving: you must anmelden your address at the Bürgeramt/Einwohnermeldeamt within 14 days of moving in. Bring your passport, the Wohnungsgeberbestätigung from your landlord and the filled-in form. The Anmeldebestätigung is what unlocks everything else — bank account, tax ID, Krankenkasse, phone contract.",
+      "emoji": "🏛️",
+      "imageable": false,
+      "tags": [
+        "separable",
+        "bureaucracy",
+        "essential",
+        "moving"
+      ],
+      "synonyms": [
+        "registrieren"
+      ],
+      "antonyms": [
+        "abmelden"
+      ],
+      "related": [
+        "abmelden",
+        "ummelden",
+        "ausfuellen"
+      ]
+    },
+    {
+      "id": "abmelden",
+      "word": "abmelden",
+      "lemma": "abmelden",
+      "translation": "to deregister",
+      "translations": [
+        "to deregister",
+        "to cancel a registration"
+      ],
+      "level": "A2",
+      "category": "Modal & Separable Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 1130,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "haben",
+      "reflexive": true,
+      "cases": [],
+      "forms": {
+        "ich": "melde ab",
+        "du": "meldest ab",
+        "er": "meldet ab",
+        "wir": "melden ab",
+        "ihr": "meldet ab",
+        "sie": "melden ab",
+        "praeteritum": "meldete ab",
+        "perfekt": "hat abgemeldet",
+        "imperativ": "melde ab!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich melde mich vom Kurs ab.",
+          "en": "I'm deregistering from the course."
+        },
+        {
+          "de": "Er hat sein Auto abgemeldet.",
+          "en": "He deregistered his car."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Vor dem Umzug ins Ausland ___ man sich beim Bürgeramt ab.",
+          "answer": "meldet",
+          "en": "Before moving abroad, you deregister at the citizens' office."
+        }
+      ],
+      "notes": "Separable, mirror image of 'anmelden'. 'sich abmelden von + Dativ'. The noun is 'die Abmeldung'.",
+      "mnemonic": "ab = off → sign yourself OFF the register.",
+      "germany_context": "If you leave Germany for good you must abmelden at the Bürgeramt — the Abmeldebestätigung stops the Rundfunkbeitrag, ends your tax residency and is often needed to claim back pension contributions. You can usually do it by post in the last two weeks before departure.",
+      "emoji": "📤",
+      "imageable": false,
+      "tags": [
+        "separable",
+        "bureaucracy",
+        "moving"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "anmelden"
+      ],
+      "related": [
+        "anmelden",
+        "ummelden",
+        "absagen"
+      ]
+    },
+    {
+      "id": "ummelden",
+      "word": "ummelden",
+      "lemma": "ummelden",
+      "translation": "to re-register",
+      "translations": [
+        "to re-register",
+        "to change your registered address"
+      ],
+      "level": "A2",
+      "category": "Modal & Separable Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 1450,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "haben",
+      "reflexive": true,
+      "cases": [],
+      "forms": {
+        "ich": "melde um",
+        "du": "meldest um",
+        "er": "meldet um",
+        "wir": "melden um",
+        "ihr": "meldet um",
+        "sie": "melden um",
+        "praeteritum": "meldete um",
+        "perfekt": "hat umgemeldet",
+        "imperativ": "melde um!"
+      },
+      "example_sentences": [
+        {
+          "de": "Nach dem Umzug muss ich mich ummelden.",
+          "en": "After moving I have to re-register my address."
+        },
+        {
+          "de": "Wir haben das Auto letzte Woche umgemeldet.",
+          "en": "We re-registered the car last week."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wo ___ man sich in dieser Stadt um?",
+          "answer": "meldet",
+          "en": "Where do you re-register in this city?"
+        }
+      ],
+      "notes": "Separable, built like anmelden/abmelden. Used for your address and for vehicles. The noun is 'die Ummeldung'.",
+      "mnemonic": "um = change over → change your registration OVER.",
+      "germany_context": "Moving from one German address to another? You do NOT abmelden and then anmelden — you ummelden at the Bürgeramt of the new city within 14 days, again with a Wohnungsgeberbestätigung. Missing the deadline can mean a fine (Bußgeld) of up to 1000 €, though in practice a few weeks late is usually tolerated.",
+      "emoji": "🗂️",
+      "imageable": false,
+      "tags": [
+        "separable",
+        "bureaucracy",
+        "moving"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "anmelden",
+        "abmelden",
+        "umziehen"
+      ]
+    },
+    {
+      "id": "einzahlen",
+      "word": "einzahlen",
+      "lemma": "einzahlen",
+      "translation": "to deposit",
+      "translations": [
+        "to deposit",
+        "to pay in"
+      ],
+      "level": "A2",
+      "category": "Modal & Separable Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 1310,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "zahle ein",
+        "du": "zahlst ein",
+        "er": "zahlt ein",
+        "wir": "zahlen ein",
+        "ihr": "zahlt ein",
+        "sie": "zahlen ein",
+        "praeteritum": "zahlte ein",
+        "perfekt": "hat eingezahlt",
+        "imperativ": "zahl ein!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich zahle das Geld morgen auf mein Konto ein.",
+          "en": "I'll deposit the money into my account tomorrow."
+        },
+        {
+          "de": "Sie hat 500 Euro eingezahlt.",
+          "en": "She deposited 500 euros."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wo kann ich hier Bargeld ___?",
+          "answer": "einzahlen",
+          "en": "Where can I deposit cash here?"
+        }
+      ],
+      "notes": "Separable: 'Ich zahle Geld ein.' 'auf ein Konto einzahlen' (auf + Akkusativ). Opposite of 'abheben'.",
+      "mnemonic": "ein = into → pay money INTO the account.",
+      "germany_context": "Germany is still unusually cash-heavy: many Bäckereien, Kneipen, Ärzte and Spätis are 'nur Bargeld'. You typically einzahlen cash at your own bank's Automat — depositing at another bank often costs a fee or isn't possible at all.",
+      "emoji": "🏦",
+      "imageable": false,
+      "tags": [
+        "separable",
+        "money",
+        "bank"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "abheben"
+      ],
+      "related": [
+        "abheben",
+        "ueberweisen"
+      ]
+    },
+    {
+      "id": "abheben",
+      "word": "abheben",
+      "lemma": "abheben",
+      "translation": "to withdraw (money)",
+      "translations": [
+        "to withdraw (money)",
+        "to take out"
+      ],
+      "level": "A2",
+      "category": "Modal & Separable Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 1060,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "hebe ab",
+        "du": "hebst ab",
+        "er": "hebt ab",
+        "wir": "heben ab",
+        "ihr": "hebt ab",
+        "sie": "heben ab",
+        "praeteritum": "hob ab",
+        "perfekt": "hat abgehoben",
+        "imperativ": "heb ab!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich muss noch Geld abheben.",
+          "en": "I still need to withdraw some money."
+        },
+        {
+          "de": "Er hat am Automaten 200 Euro abgehoben.",
+          "en": "He withdrew 200 euros at the cash machine."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wie viel ___ du am Automaten ab?",
+          "answer": "hebst",
+          "en": "How much are you withdrawing at the ATM?"
+        }
+      ],
+      "notes": "Separable, irregular in the past: hob ab / abgehoben. Also used for a plane taking off and for answering the phone ('Er hebt nicht ab').",
+      "mnemonic": "heben = lift → lift the money OFF your account.",
+      "germany_context": "Withdrawing at a Geldautomat outside your own bank's network can cost 4–7 € per transaction. Your bank's app shows the free partner ATMs; many supermarkets also let you get cash back at the till when you pay by Girocard.",
+      "emoji": "💶",
+      "imageable": false,
+      "tags": [
+        "separable",
+        "money",
+        "bank"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "einzahlen"
+      ],
+      "related": [
+        "einzahlen",
+        "ueberweisen"
+      ]
+    },
+    {
+      "id": "ausfuellen",
+      "word": "ausfüllen",
+      "lemma": "ausfüllen",
+      "translation": "to fill out",
+      "translations": [
+        "to fill out",
+        "to complete (a form)"
+      ],
+      "level": "A2",
+      "category": "Modal & Separable Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 750,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "fülle aus",
+        "du": "füllst aus",
+        "er": "füllt aus",
+        "wir": "füllen aus",
+        "ihr": "füllt aus",
+        "sie": "füllen aus",
+        "praeteritum": "füllte aus",
+        "perfekt": "hat ausgefüllt",
+        "imperativ": "füll aus!"
+      },
+      "example_sentences": [
+        {
+          "de": "Bitte füllen Sie das Formular aus.",
+          "en": "Please fill out the form."
+        },
+        {
+          "de": "Ich habe den Antrag schon ausgefüllt.",
+          "en": "I've already filled out the application."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich ___ das Formular am Computer aus.",
+          "answer": "fülle",
+          "en": "I'm filling out the form on the computer."
+        }
+      ],
+      "notes": "Separable: 'Ich fülle das Formular aus.' Standard sentence at any German office. Related nouns: das Formular, der Antrag.",
+      "mnemonic": "füllen = fill → fill the blanks OUT.",
+      "germany_context": "Official forms are almost always German-only, even at offices used mainly by foreigners, and 'Bitte in Blockschrift ausfüllen' means block capitals. Print two copies of anything important, and never leave a field empty — write a dash if it doesn't apply.",
+      "emoji": "📝",
+      "imageable": false,
+      "tags": [
+        "separable",
+        "bureaucracy",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "unterschreiben",
+        "anmelden",
+        "abschicken"
+      ]
+    },
+    {
+      "id": "zurueckgeben",
+      "word": "zurückgeben",
+      "lemma": "zurückgeben",
+      "translation": "to give back",
+      "translations": [
+        "to give back",
+        "to return (an item)"
+      ],
+      "level": "A2",
+      "category": "Modal & Separable Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 800,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [
+        "dat"
+      ],
+      "forms": {
+        "ich": "gebe zurück",
+        "du": "gibst zurück",
+        "er": "gibt zurück",
+        "wir": "geben zurück",
+        "ihr": "gebt zurück",
+        "sie": "geben zurück",
+        "praeteritum": "gab zurück",
+        "perfekt": "hat zurückgegeben",
+        "imperativ": "gib zurück!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich gebe dir das Buch morgen zurück.",
+          "en": "I'll give the book back to you tomorrow."
+        },
+        {
+          "de": "Sie hat die Schuhe im Laden zurückgegeben.",
+          "en": "She returned the shoes to the shop."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Kann ich diese Hose ___?",
+          "answer": "zurückgeben",
+          "en": "Can I return these trousers?"
+        }
+      ],
+      "notes": "Separable with irregular stem: du gibst zurück, er gibt zurück. Dative person + accusative thing: 'Ich gebe ihm das Geld zurück.'",
+      "mnemonic": "zurück + geben = give BACK.",
+      "germany_context": "Online purchases have a 14-day Widerrufsrecht — you can return almost anything without a reason. In a physical shop there is NO legal right to return non-defective goods; most chains allow it as a goodwill 'Umtausch' within 14–30 days with the Kassenbon, but small shops may refuse.",
+      "emoji": "↩️",
+      "imageable": false,
+      "tags": [
+        "separable",
+        "shopping",
+        "money"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "abgeben",
+        "anprobieren",
+        "bekommen"
+      ]
+    },
+    {
+      "id": "abgeben",
+      "word": "abgeben",
+      "lemma": "abgeben",
+      "translation": "to hand in",
+      "translations": [
+        "to hand in",
+        "to drop off"
+      ],
+      "level": "A2",
+      "category": "Modal & Separable Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 850,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [
+        "dat"
+      ],
+      "forms": {
+        "ich": "gebe ab",
+        "du": "gibst ab",
+        "er": "gibt ab",
+        "wir": "geben ab",
+        "ihr": "gebt ab",
+        "sie": "geben ab",
+        "praeteritum": "gab ab",
+        "perfekt": "hat abgegeben",
+        "imperativ": "gib ab!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich gebe den Antrag morgen im Amt ab.",
+          "en": "I'm handing the application in at the office tomorrow."
+        },
+        {
+          "de": "Er hat die Flaschen im Supermarkt abgegeben.",
+          "en": "He dropped off the bottles at the supermarket."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Bis wann muss ich die Unterlagen ___?",
+          "answer": "abgeben",
+          "en": "By when do I have to hand in the documents?"
+        }
+      ],
+      "notes": "Separable, irregular: du gibst ab, er gibt ab. 'abgeben' = hand over to an authority/counter; 'zurückgeben' = give back something you had borrowed or bought.",
+      "mnemonic": "ab = off/away → give it AWAY over the counter.",
+      "germany_context": "Most plastic and glass drinks bottles carry Pfand (0,08–0,25 €). You take the empties back to any shop that sells them, feed them into the Leergutautomat and abgeben the Bon at the till — either as cash or off your shopping total. Never bin a Pfandflasche; leave it next to the bin if anything.",
+      "emoji": "🍾",
+      "imageable": false,
+      "tags": [
+        "separable",
+        "bureaucracy",
+        "daily-life",
+        "pfand"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "abholen"
+      ],
+      "related": [
+        "zurueckgeben",
+        "abholen",
+        "wegwerfen"
+      ]
+    },
+    {
+      "id": "wegwerfen",
+      "word": "wegwerfen",
+      "lemma": "wegwerfen",
+      "translation": "to throw away",
+      "translations": [
+        "to throw away",
+        "to throw out"
+      ],
+      "level": "A2",
+      "category": "Modal & Separable Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 910,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "werfe weg",
+        "du": "wirfst weg",
+        "er": "wirft weg",
+        "wir": "werfen weg",
+        "ihr": "werft weg",
+        "sie": "werfen weg",
+        "praeteritum": "warf weg",
+        "perfekt": "hat weggeworfen",
+        "imperativ": "wirf weg!"
+      },
+      "example_sentences": [
+        {
+          "de": "Wirf das bitte nicht weg, das ist Pfand.",
+          "en": "Please don't throw that away, it has a deposit on it."
+        },
+        {
+          "de": "Ich habe das alte Handy weggeworfen.",
+          "en": "I threw away the old phone."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Alte Batterien ___ man nicht einfach weg.",
+          "answer": "wirft",
+          "en": "You don't just throw old batteries away."
+        }
+      ],
+      "notes": "Separable with vowel change: du wirfst weg, er wirft weg. Past: warf weg / weggeworfen.",
+      "mnemonic": "weg = away + werfen = throw → throw AWAY.",
+      "germany_context": "Mülltrennung is not optional. Typical bins: blau = Papier, gelber Sack/Tonne = Verpackungen, braun/grün = Bio, schwarz = Restmüll, plus separate Altglas containers sorted by colour (and no glass after 20:00 or on Sundays — it's noise). Batteries and electronics go back to the shop, bulky items to the Wertstoffhof or a booked Sperrmüll pickup.",
+      "emoji": "🗑️",
+      "imageable": false,
+      "tags": [
+        "separable",
+        "home",
+        "recycling",
+        "daily-life"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "aufheben"
+      ],
+      "related": [
+        "aufraeumen",
+        "abgeben"
+      ]
+    },
+    {
+      "id": "aufpassen",
+      "word": "aufpassen",
+      "lemma": "aufpassen",
+      "translation": "to pay attention",
+      "translations": [
+        "to pay attention",
+        "to watch out",
+        "to look after"
+      ],
+      "level": "A2",
+      "category": "Modal & Separable Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 630,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [
+        "akk"
+      ],
+      "forms": {
+        "ich": "passe auf",
+        "du": "passt auf",
+        "er": "passt auf",
+        "wir": "passen auf",
+        "ihr": "passt auf",
+        "sie": "passen auf",
+        "praeteritum": "passte auf",
+        "perfekt": "hat aufgepasst",
+        "imperativ": "pass auf!"
+      },
+      "example_sentences": [
+        {
+          "de": "Pass auf, das Auto kommt!",
+          "en": "Watch out, the car is coming!"
+        },
+        {
+          "de": "Ich passe heute auf die Kinder auf.",
+          "en": "I'm looking after the children today."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Im Unterricht ___ er leider nicht auf.",
+          "answer": "passt",
+          "en": "Unfortunately he doesn't pay attention in class."
+        }
+      ],
+      "notes": "Separable. 'aufpassen auf + Akkusativ' = look after someone/something. 'Pass auf!' = 'Careful!' — one of the first spoken commands you'll hear.",
+      "mnemonic": "passen = fit/match → keep your attention ON it.",
+      "germany_context": null,
+      "emoji": "⚠️",
+      "imageable": false,
+      "tags": [
+        "separable",
+        "safety",
+        "spoken"
+      ],
+      "synonyms": [
+        "achtgeben"
+      ],
+      "antonyms": [],
+      "related": [
+        "zuhoeren",
+        "ansehen"
+      ]
+    },
+    {
+      "id": "zuhoeren",
+      "word": "zuhören",
+      "lemma": "zuhören",
+      "translation": "to listen",
+      "translations": [
+        "to listen"
+      ],
+      "level": "A2",
+      "category": "Modal & Separable Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 590,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [
+        "dat"
+      ],
+      "forms": {
+        "ich": "höre zu",
+        "du": "hörst zu",
+        "er": "hört zu",
+        "wir": "hören zu",
+        "ihr": "hört zu",
+        "sie": "hören zu",
+        "praeteritum": "hörte zu",
+        "perfekt": "hat zugehört",
+        "imperativ": "hör zu!"
+      },
+      "example_sentences": [
+        {
+          "de": "Hör mir bitte kurz zu.",
+          "en": "Please listen to me for a moment."
+        },
+        {
+          "de": "Sie hat aufmerksam zugehört.",
+          "en": "She listened attentively."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Die Kinder ___ dem Lehrer zu.",
+          "answer": "hören",
+          "en": "The children are listening to the teacher."
+        }
+      ],
+      "notes": "Separable and takes the DATIVE: 'Ich höre dir zu', never 'dich'. Compare: 'hören' = hear, 'zuhören' = listen actively, 'anhören' = listen to a recording.",
+      "mnemonic": "zu = towards → direct your ears TOWARDS someone.",
+      "germany_context": null,
+      "emoji": "👂",
+      "imageable": false,
+      "tags": [
+        "separable",
+        "communication",
+        "dative"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "aufpassen",
+        "nachfragen"
+      ]
+    },
+    {
+      "id": "ansehen",
+      "word": "ansehen",
+      "lemma": "ansehen",
+      "translation": "to look at",
+      "translations": [
+        "to look at",
+        "to watch"
+      ],
+      "level": "A2",
+      "category": "Modal & Separable Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 570,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "sehe an",
+        "du": "siehst an",
+        "er": "sieht an",
+        "wir": "sehen an",
+        "ihr": "seht an",
+        "sie": "sehen an",
+        "praeteritum": "sah an",
+        "perfekt": "hat angesehen",
+        "imperativ": "sieh an!"
+      },
+      "example_sentences": [
+        {
+          "de": "Wir sehen uns heute Abend einen Film an.",
+          "en": "We're watching a film tonight."
+        },
+        {
+          "de": "Hast du dir die Wohnung schon angesehen?",
+          "en": "Have you already viewed the flat?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ dir bitte das Foto an.",
+          "answer": "Sieh",
+          "en": "Please have a look at the photo."
+        }
+      ],
+      "notes": "Separable with irregular stem: du siehst an, er sieht an. Usually with a dative reflexive: 'Ich sehe mir etwas an.' In the south people say 'anschauen' instead — same meaning.",
+      "mnemonic": "an = at → look AT.",
+      "germany_context": null,
+      "emoji": "👀",
+      "imageable": false,
+      "tags": [
+        "separable",
+        "free-time"
+      ],
+      "synonyms": [
+        "anschauen"
+      ],
+      "antonyms": [],
+      "related": [
+        "fernsehen",
+        "aufpassen"
+      ]
+    },
+    {
+      "id": "einladen",
+      "word": "einladen",
+      "lemma": "einladen",
+      "translation": "to invite",
+      "translations": [
+        "to invite",
+        "to treat (pay for someone)"
+      ],
+      "level": "A1",
+      "category": "Modal & Separable Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 400,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "lade ein",
+        "du": "lädst ein",
+        "er": "lädt ein",
+        "wir": "laden ein",
+        "ihr": "ladet ein",
+        "sie": "laden ein",
+        "praeteritum": "lud ein",
+        "perfekt": "hat eingeladen",
+        "imperativ": "lad ein!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich lade dich zum Essen ein.",
+          "en": "I'm inviting you to dinner (my treat)."
+        },
+        {
+          "de": "Sie hat alle Kollegen zur Party eingeladen.",
+          "en": "She invited all the colleagues to the party."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Er ___ uns zu seinem Geburtstag ein.",
+          "answer": "lädt",
+          "en": "He's inviting us to his birthday party."
+        }
+      ],
+      "notes": "Separable with umlaut: du lädst ein, er lädt ein. Careful: 'Ich lade dich ein' normally means I'm PAYING. If you just mean 'come along', say 'Komm doch mit'.",
+      "mnemonic": "laden = load → you 'load' guests into your evening.",
+      "germany_context": "Whoever says 'Ich lade dich ein' pays. Otherwise Germans split the bill routinely — 'getrennt, bitte'. For a private invitation, arrive on time (5–10 minutes late is the maximum) and bring something small.",
+      "emoji": "🎉",
+      "imageable": false,
+      "tags": [
+        "separable",
+        "social",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "absagen"
+      ],
+      "related": [
+        "absagen",
+        "mitbringen",
+        "ausgehen"
+      ]
+    },
+    {
+      "id": "absagen",
+      "word": "absagen",
+      "lemma": "absagen",
+      "translation": "to cancel",
+      "translations": [
+        "to cancel",
+        "to call off"
+      ],
+      "level": "A2",
+      "category": "Modal & Separable Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 790,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [
+        "dat"
+      ],
+      "forms": {
+        "ich": "sage ab",
+        "du": "sagst ab",
+        "er": "sagt ab",
+        "wir": "sagen ab",
+        "ihr": "sagt ab",
+        "sie": "sagen ab",
+        "praeteritum": "sagte ab",
+        "perfekt": "hat abgesagt",
+        "imperativ": "sag ab!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich muss den Termin leider absagen.",
+          "en": "Unfortunately I have to cancel the appointment."
+        },
+        {
+          "de": "Das Konzert wurde kurzfristig abgesagt.",
+          "en": "The concert was cancelled at short notice."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wenn du krank bist, ___ einfach ab.",
+          "answer": "sag",
+          "en": "If you're ill, just cancel."
+        }
+      ],
+      "notes": "Separable: 'Ich sage den Termin ab.' You can also 'jemandem absagen' (dative person). Opposite: 'zusagen' = to accept an invitation.",
+      "mnemonic": "ab = off + sagen = say → say it OFF.",
+      "germany_context": "Cancel doctor's appointments at least 24 hours in advance — many Praxen charge an Ausfallhonorar for no-shows, and repeat offenders get dropped as patients. For Bürgeramt Termine, cancelling frees the slot for someone else; the confirmation email always has a Stornieren link.",
+      "emoji": "❌",
+      "imageable": false,
+      "tags": [
+        "separable",
+        "appointments",
+        "bureaucracy"
+      ],
+      "synonyms": [
+        "stornieren"
+      ],
+      "antonyms": [
+        "zusagen"
+      ],
+      "related": [
+        "stattfinden",
+        "einladen",
+        "anrufen"
+      ]
+    },
+    {
+      "id": "aufschreiben",
+      "word": "aufschreiben",
+      "lemma": "aufschreiben",
+      "translation": "to write down",
+      "translations": [
+        "to write down",
+        "to note down"
+      ],
+      "level": "A2",
+      "category": "Modal & Separable Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 880,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "schreibe auf",
+        "du": "schreibst auf",
+        "er": "schreibt auf",
+        "wir": "schreiben auf",
+        "ihr": "schreibt auf",
+        "sie": "schreiben auf",
+        "praeteritum": "schrieb auf",
+        "perfekt": "hat aufgeschrieben",
+        "imperativ": "schreib auf!"
+      },
+      "example_sentences": [
+        {
+          "de": "Können Sie mir die Adresse aufschreiben?",
+          "en": "Could you write the address down for me?"
+        },
+        {
+          "de": "Ich habe mir alle neuen Wörter aufgeschrieben.",
+          "en": "I wrote down all the new words."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich ___ die Telefonnummer schnell auf.",
+          "answer": "schreibe",
+          "en": "I'll quickly write the phone number down."
+        }
+      ],
+      "notes": "Separable. Very useful survival move when you don't catch something: 'Können Sie das bitte aufschreiben?'",
+      "mnemonic": "auf = onto → write it ONTO the paper.",
+      "germany_context": null,
+      "emoji": "✍️",
+      "imageable": false,
+      "tags": [
+        "separable",
+        "study",
+        "communication"
+      ],
+      "synonyms": [
+        "notieren"
+      ],
+      "antonyms": [],
+      "related": [
+        "ausfuellen",
+        "nachfragen"
+      ]
+    },
+    {
+      "id": "einpacken",
+      "word": "einpacken",
+      "lemma": "einpacken",
+      "translation": "to pack",
+      "translations": [
+        "to pack",
+        "to wrap up"
+      ],
+      "level": "A2",
+      "category": "Modal & Separable Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 1000,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "packe ein",
+        "du": "packst ein",
+        "er": "packt ein",
+        "wir": "packen ein",
+        "ihr": "packt ein",
+        "sie": "packen ein",
+        "praeteritum": "packte ein",
+        "perfekt": "hat eingepackt",
+        "imperativ": "pack ein!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich packe noch schnell meine Sachen ein.",
+          "en": "I'll quickly pack my things."
+        },
+        {
+          "de": "Soll ich es Ihnen einpacken?",
+          "en": "Shall I wrap it up for you?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ bitte auch die Ladekabel ein.",
+          "answer": "Pack",
+          "en": "Please pack the charging cables too."
+        }
+      ],
+      "notes": "Separable. Also 'to wrap (a gift)'. Opposite: 'auspacken' = unpack / unwrap.",
+      "mnemonic": "ein = into → pack it INTO the bag.",
+      "germany_context": "At the German supermarket checkout you pack your own shopping, fast, and bags cost money — bring a Jutebeutel or Rucksack. The Kassierer/in stays seated and the next customer's items arrive immediately, so move your things to the shelf behind the till and repack there.",
+      "emoji": "🎒",
+      "imageable": false,
+      "tags": [
+        "separable",
+        "shopping",
+        "travel"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "auspacken"
+      ],
+      "related": [
+        "mitnehmen",
+        "einkaufen"
+      ]
+    },
+    {
+      "id": "reinkommen",
+      "word": "reinkommen",
+      "lemma": "reinkommen",
+      "translation": "to come in",
+      "translations": [
+        "to come in",
+        "to get in"
+      ],
+      "level": "A2",
+      "category": "Modal & Separable Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 1190,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "sein",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "komme rein",
+        "du": "kommst rein",
+        "er": "kommt rein",
+        "wir": "kommen rein",
+        "ihr": "kommt rein",
+        "sie": "kommen rein",
+        "praeteritum": "kam rein",
+        "perfekt": "ist reingekommen",
+        "imperativ": "komm rein!"
+      },
+      "example_sentences": [
+        {
+          "de": "Komm rein, die Tür ist offen!",
+          "en": "Come in, the door is open!"
+        },
+        {
+          "de": "Ohne Ausweis bist du da nicht reingekommen.",
+          "en": "You didn't get in there without an ID."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Darf ich kurz ___?",
+          "answer": "reinkommen",
+          "en": "May I come in for a moment?"
+        }
+      ],
+      "notes": "Separable, 'sein'. 'reinkommen' is the everyday spoken form; the formal written version is 'hereinkommen' — 'Kommen Sie bitte herein.' Both are correct German.",
+      "mnemonic": "rein = short for 'herein' = inwards.",
+      "germany_context": null,
+      "emoji": "🚪",
+      "imageable": false,
+      "tags": [
+        "separable",
+        "spoken",
+        "social"
+      ],
+      "synonyms": [
+        "hereinkommen"
+      ],
+      "antonyms": [
+        "rausgehen"
+      ],
+      "related": [
+        "weggehen",
+        "hinfahren"
+      ]
+    },
+    {
+      "id": "abschicken",
+      "word": "abschicken",
+      "lemma": "abschicken",
+      "translation": "to send off",
+      "translations": [
+        "to send off",
+        "to submit"
+      ],
+      "level": "A2",
+      "category": "Modal & Separable Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 1140,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "schicke ab",
+        "du": "schickst ab",
+        "er": "schickt ab",
+        "wir": "schicken ab",
+        "ihr": "schickt ab",
+        "sie": "schicken ab",
+        "praeteritum": "schickte ab",
+        "perfekt": "hat abgeschickt",
+        "imperativ": "schick ab!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich schicke den Brief heute noch ab.",
+          "en": "I'll send the letter off today."
+        },
+        {
+          "de": "Hast du das Formular schon abgeschickt?",
+          "en": "Have you already submitted the form?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wann ___ ihr die Bewerbung ab?",
+          "answer": "schickt",
+          "en": "When are you sending off the application?"
+        }
+      ],
+      "notes": "Separable. Used for letters, parcels and online forms — the button on German websites usually says 'Abschicken' or 'Absenden'.",
+      "mnemonic": "ab = away + schicken = send → send it AWAY.",
+      "germany_context": "For anything with a legal deadline — a Kündigung of your flat, gym or phone contract — send it as an 'Einschreiben mit Rückschein' at the Post. The receipt proves the date, which is what counts in a dispute. Standard flat notice is three months to the end of a month.",
+      "emoji": "✉️",
+      "imageable": false,
+      "tags": [
+        "separable",
+        "post",
+        "bureaucracy"
+      ],
+      "synonyms": [
+        "absenden"
+      ],
+      "antonyms": [
+        "bekommen"
+      ],
+      "related": [
+        "ausfuellen",
+        "abholen",
+        "unterschreiben"
+      ]
+    },
+    {
+      "id": "nachfragen",
+      "word": "nachfragen",
+      "lemma": "nachfragen",
+      "translation": "to ask (again)",
+      "translations": [
+        "to ask (again)",
+        "to check",
+        "to enquire"
+      ],
+      "level": "A2",
+      "category": "Modal & Separable Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 1240,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "frage nach",
+        "du": "fragst nach",
+        "er": "fragt nach",
+        "wir": "fragen nach",
+        "ihr": "fragt nach",
+        "sie": "fragen nach",
+        "praeteritum": "fragte nach",
+        "perfekt": "hat nachgefragt",
+        "imperativ": "frag nach!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich frage im Büro noch mal nach.",
+          "en": "I'll check with the office again."
+        },
+        {
+          "de": "Sie hat bei der Krankenkasse nachgefragt.",
+          "en": "She enquired at the health insurance company."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ lieber noch mal nach, bevor du unterschreibst.",
+          "answer": "Frag",
+          "en": "Better ask again before you sign."
+        }
+      ],
+      "notes": "Separable. 'bei jemandem nachfragen' (bei + Dativ). Polite and very useful: 'Ich wollte nur kurz nachfragen …' opens almost any follow-up email or call.",
+      "mnemonic": "nach = after → ask AFTER the fact, follow up.",
+      "germany_context": null,
+      "emoji": "❓",
+      "imageable": false,
+      "tags": [
+        "separable",
+        "communication",
+        "work"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "zuhoeren",
+        "anrufen",
+        "aufschreiben"
+      ]
+    },
+    {
+      "id": "ueberweisen",
+      "word": "überweisen",
+      "lemma": "überweisen",
+      "translation": "to transfer (money)",
+      "translations": [
+        "to transfer (money)",
+        "to refer (to a specialist)"
+      ],
+      "level": "A2",
+      "category": "Modal & Separable Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 820,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [
+        "dat"
+      ],
+      "forms": {
+        "ich": "überweise",
+        "du": "überweist",
+        "er": "überweist",
+        "wir": "überweisen",
+        "ihr": "überweist",
+        "sie": "überweisen",
+        "praeteritum": "überwies",
+        "perfekt": "hat überwiesen",
+        "imperativ": "überweise!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich überweise die Miete immer am Ersten.",
+          "en": "I always transfer the rent on the first of the month."
+        },
+        {
+          "de": "Der Arzt hat mich zum Facharzt überwiesen.",
+          "en": "The doctor referred me to a specialist."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Bitte ___ Sie den Betrag bis Freitag.",
+          "answer": "überweisen",
+          "en": "Please transfer the amount by Friday."
+        }
+      ],
+      "notes": "IMPORTANT CONTRAST: 'über-' here is INSEPARABLE — the prefix never moves ('Ich überweise das Geld', not 'Ich weise das Geld über') and the Partizip has no -ge-: überwiesen. Compare separable 'einzahlen' → 'Ich zahle das Geld ein.'",
+      "mnemonic": "über = across → you move money ACROSS to another account.",
+      "germany_context": "Rent, insurance and most bills are paid by Überweisung or Dauerauftrag from a German Girokonto, not by card. You need IBAN plus a Verwendungszweck (reference) — for rent, write your name and the flat, e.g. 'Miete März, Yalcin, Whg. 4'. Direct debit (SEPA-Lastschrift) is the other standard, and you can reverse it within 8 weeks.",
+      "emoji": "💳",
+      "imageable": false,
+      "tags": [
+        "inseparable",
+        "money",
+        "bank",
+        "contrast"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "einzahlen",
+        "abheben",
+        "unterschreiben"
+      ]
+    },
+    {
+      "id": "unterschreiben",
+      "word": "unterschreiben",
+      "lemma": "unterschreiben",
+      "translation": "to sign",
+      "translations": [
+        "to sign"
+      ],
+      "level": "A2",
+      "category": "Modal & Separable Verbs",
+      "partOfSpeech": "verb",
+      "frequency": 780,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "unterschreibe",
+        "du": "unterschreibst",
+        "er": "unterschreibt",
+        "wir": "unterschreiben",
+        "ihr": "unterschreibt",
+        "sie": "unterschreiben",
+        "praeteritum": "unterschrieb",
+        "perfekt": "hat unterschrieben",
+        "imperativ": "unterschreib!"
+      },
+      "example_sentences": [
+        {
+          "de": "Bitte unterschreiben Sie hier unten.",
+          "en": "Please sign at the bottom here."
+        },
+        {
+          "de": "Wir haben den Mietvertrag gestern unterschrieben.",
+          "en": "We signed the rental contract yesterday."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich ___ nichts, was ich nicht verstehe.",
+          "answer": "unterschreibe",
+          "en": "I don't sign anything I don't understand."
+        }
+      ],
+      "notes": "CONTRAST ENTRY: 'unter-' is inseparable here, so the prefix stays put and there is no -ge- in the Partizip ('unterschrieben'). Compare the separable 'aufschreiben' → 'Ich schreibe es auf.' The noun is 'die Unterschrift'.",
+      "mnemonic": "unter = under + schreiben = write → write UNDER the text.",
+      "germany_context": "Never unterschreiben a German contract you haven't read. Handy, gym and internet contracts often run 12–24 months with automatic renewal; since 2022 you can cancel monthly after the first term, but the Kündigung must be in writing. Rental contracts commit you to a Kündigungsfrist of three months.",
+      "emoji": "🖊️",
+      "imageable": false,
+      "tags": [
+        "inseparable",
+        "bureaucracy",
+        "contrast",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "ausfuellen",
+        "abschicken",
+        "ueberweisen"
+      ]
+    }
+  ]
+}

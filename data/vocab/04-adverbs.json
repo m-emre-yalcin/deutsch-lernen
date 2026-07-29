@@ -1,0 +1,3965 @@
+{
+  "category": "Adverbs",
+  "words": [
+    {
+      "id": "jetzt",
+      "word": "jetzt",
+      "lemma": "jetzt",
+      "translation": "now",
+      "translations": [
+        "now",
+        "right now"
+      ],
+      "level": "A0",
+      "category": "Adverbs",
+      "partOfSpeech": "adverb",
+      "frequency": 32,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich muss jetzt gehen.",
+          "en": "I have to go now."
+        },
+        {
+          "de": "Wo bist du jetzt?",
+          "en": "Where are you now?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Kannst du ___ kurz kommen?",
+          "answer": "jetzt",
+          "en": "Can you come over for a moment now?"
+        }
+      ],
+      "notes": "'jetzt' = at this moment. 'nun' is the slightly more written/formal twin.",
+      "mnemonic": "JETZT sounds like 'jet' - a jet takes off right NOW.",
+      "germany_context": null,
+      "emoji": "⏰",
+      "imageable": false,
+      "tags": [
+        "time",
+        "essential"
+      ],
+      "synonyms": [
+        "nun",
+        "momentan"
+      ],
+      "antonyms": [
+        "später"
+      ],
+      "related": [
+        "gleich",
+        "sofort",
+        "heute"
+      ]
+    },
+    {
+      "id": "heute",
+      "word": "heute",
+      "lemma": "heute",
+      "translation": "today",
+      "translations": [
+        "today"
+      ],
+      "level": "A0",
+      "category": "Adverbs",
+      "partOfSpeech": "adverb",
+      "frequency": 42,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Heute ist Montag.",
+          "en": "Today is Monday."
+        },
+        {
+          "de": "Was machst du heute Abend?",
+          "en": "What are you doing this evening?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ habe ich leider keine Zeit.",
+          "answer": "Heute",
+          "en": "Unfortunately I don't have time today."
+        }
+      ],
+      "notes": "Combine it: 'heute Morgen' = this morning, 'heute Abend' = this evening, 'heute Nacht' = tonight.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "📅",
+      "imageable": false,
+      "tags": [
+        "time",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "gestern",
+        "morgen"
+      ],
+      "related": [
+        "gestern",
+        "morgen-adv"
+      ]
+    },
+    {
+      "id": "gestern",
+      "word": "gestern",
+      "lemma": "gestern",
+      "translation": "yesterday",
+      "translations": [
+        "yesterday"
+      ],
+      "level": "A1",
+      "category": "Adverbs",
+      "partOfSpeech": "adverb",
+      "frequency": 60,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Gestern war ich im Kino.",
+          "en": "Yesterday I was at the cinema."
+        },
+        {
+          "de": "Wir haben gestern Fußball gespielt.",
+          "en": "We played football yesterday."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Hast du ___ mit ihm gesprochen?",
+          "answer": "gestern",
+          "en": "Did you speak with him yesterday?"
+        }
+      ],
+      "notes": "'vorgestern' = the day before yesterday. 'gestern' almost always goes with the Perfekt in speech.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🗓️",
+      "imageable": false,
+      "tags": [
+        "time"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "morgen"
+      ],
+      "related": [
+        "heute",
+        "morgen-adv",
+        "damals"
+      ]
+    },
+    {
+      "id": "morgen-adv",
+      "word": "morgen",
+      "lemma": "morgen",
+      "translation": "tomorrow",
+      "translations": [
+        "tomorrow"
+      ],
+      "level": "A1",
+      "category": "Adverbs",
+      "partOfSpeech": "adverb",
+      "frequency": 55,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Morgen fahre ich nach Hamburg.",
+          "en": "Tomorrow I'm going to Hamburg."
+        },
+        {
+          "de": "Bis morgen!",
+          "en": "See you tomorrow!"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wir treffen uns ___ um zehn.",
+          "answer": "morgen",
+          "en": "We're meeting tomorrow at ten."
+        }
+      ],
+      "notes": "Lowercase 'morgen' = tomorrow; capitalised 'der Morgen' = the morning. 'morgen früh' = tomorrow morning.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "📆",
+      "imageable": false,
+      "tags": [
+        "time"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "gestern"
+      ],
+      "related": [
+        "heute",
+        "gestern",
+        "frueh-adv"
+      ]
+    },
+    {
+      "id": "frueh-adv",
+      "word": "früh",
+      "lemma": "früh",
+      "translation": "early",
+      "translations": [
+        "early"
+      ],
+      "level": "A1",
+      "category": "Adverbs",
+      "partOfSpeech": "adverb",
+      "frequency": 118,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich stehe jeden Tag früh auf.",
+          "en": "I get up early every day."
+        },
+        {
+          "de": "Es ist noch zu früh.",
+          "en": "It's still too early."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Morgen muss ich ___ aufstehen.",
+          "answer": "früh",
+          "en": "Tomorrow I have to get up early."
+        }
+      ],
+      "notes": "'früher' also means 'in the past / back in the day', not only 'earlier'.",
+      "mnemonic": null,
+      "germany_context": "German working days start early - many offices are full by 8:00 and Bäckereien open around 6:00.",
+      "emoji": "🌅",
+      "imageable": false,
+      "tags": [
+        "time"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "spät"
+      ],
+      "related": [
+        "spaet-adv",
+        "puenktlich-adv",
+        "morgen-adv"
+      ]
+    },
+    {
+      "id": "spaet-adv",
+      "word": "spät",
+      "lemma": "spät",
+      "translation": "late",
+      "translations": [
+        "late"
+      ],
+      "level": "A1",
+      "category": "Adverbs",
+      "partOfSpeech": "adverb",
+      "frequency": 115,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Es ist schon spät.",
+          "en": "It's already late."
+        },
+        {
+          "de": "Der Bus kommt heute spät.",
+          "en": "The bus is coming late today."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Entschuldigung, ich bin zu ___.",
+          "answer": "spät",
+          "en": "Sorry, I'm late."
+        }
+      ],
+      "notes": "'zu spät sein' = to be late. 'später' = later.",
+      "mnemonic": null,
+      "germany_context": "Lateness is taken seriously: for a Termin or an invitation, more than 5 minutes late needs a short message or an apology.",
+      "emoji": "🕚",
+      "imageable": false,
+      "tags": [
+        "time"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "früh"
+      ],
+      "related": [
+        "frueh-adv",
+        "puenktlich-adv"
+      ]
+    },
+    {
+      "id": "bald",
+      "word": "bald",
+      "lemma": "bald",
+      "translation": "soon",
+      "translations": [
+        "soon"
+      ],
+      "level": "A1",
+      "category": "Adverbs",
+      "partOfSpeech": "adverb",
+      "frequency": 120,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Bis bald!",
+          "en": "See you soon!"
+        },
+        {
+          "de": "Der Urlaub beginnt bald.",
+          "en": "The holiday starts soon."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wir sind ___ da.",
+          "answer": "bald",
+          "en": "We'll be there soon."
+        }
+      ],
+      "notes": "'Bis bald!' is a normal friendly goodbye when you have no fixed next date.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "⏳",
+      "imageable": false,
+      "tags": [
+        "time"
+      ],
+      "synonyms": [
+        "demnächst"
+      ],
+      "antonyms": [],
+      "related": [
+        "gleich",
+        "sofort"
+      ]
+    },
+    {
+      "id": "gerade",
+      "word": "gerade",
+      "lemma": "gerade",
+      "translation": "right now",
+      "translations": [
+        "right now",
+        "just (a moment ago)"
+      ],
+      "level": "A2",
+      "category": "Adverbs",
+      "partOfSpeech": "adverb",
+      "frequency": 138,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich habe gerade gegessen.",
+          "en": "I have just eaten."
+        },
+        {
+          "de": "Er telefoniert gerade.",
+          "en": "He is on the phone right now."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Was machst du ___?",
+          "answer": "gerade",
+          "en": "What are you doing right now?"
+        }
+      ],
+      "notes": "Spoken German often shortens it to 'grade'. As an adjective 'gerade' means 'straight' or 'even (number)'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "⏱️",
+      "imageable": false,
+      "tags": [
+        "time"
+      ],
+      "synonyms": [
+        "eben"
+      ],
+      "antonyms": [],
+      "related": [
+        "jetzt",
+        "eben-particle",
+        "sofort"
+      ]
+    },
+    {
+      "id": "schon",
+      "word": "schon",
+      "lemma": "schon",
+      "translation": "already",
+      "translations": [
+        "already",
+        "yet"
+      ],
+      "level": "A1",
+      "category": "Adverbs",
+      "partOfSpeech": "adverb",
+      "frequency": 58,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich bin schon da.",
+          "en": "I'm already here."
+        },
+        {
+          "de": "Hast du schon gegessen?",
+          "en": "Have you already eaten?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wie lange wohnst du ___ in Berlin?",
+          "answer": "schon",
+          "en": "How long have you been living in Berlin?"
+        }
+      ],
+      "notes": "'schon' also reassures: 'Das wird schon klappen' = 'It'll work out, don't worry'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "✅",
+      "imageable": false,
+      "tags": [
+        "time"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "noch nicht"
+      ],
+      "related": [
+        "noch",
+        "endlich"
+      ]
+    },
+    {
+      "id": "noch",
+      "word": "noch",
+      "lemma": "noch",
+      "translation": "still",
+      "translations": [
+        "still",
+        "yet",
+        "another"
+      ],
+      "level": "A1",
+      "category": "Adverbs",
+      "partOfSpeech": "adverb",
+      "frequency": 50,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich wohne noch bei meinen Eltern.",
+          "en": "I still live with my parents."
+        },
+        {
+          "de": "Möchtest du noch einen Kaffee?",
+          "en": "Would you like another coffee?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Bist du ___ im Büro?",
+          "answer": "noch",
+          "en": "Are you still at the office?"
+        }
+      ],
+      "notes": "'noch nicht' = not yet, 'noch ein' = one more, 'noch nie' = never so far.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "time",
+        "quantity"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "schon",
+        "nochmal",
+        "mehr"
+      ]
+    },
+    {
+      "id": "immer",
+      "word": "immer",
+      "lemma": "immer",
+      "translation": "always",
+      "translations": [
+        "always"
+      ],
+      "level": "A1",
+      "category": "Adverbs",
+      "partOfSpeech": "adverb",
+      "frequency": 65,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Er kommt immer zu spät.",
+          "en": "He is always late."
+        },
+        {
+          "de": "Ich trinke immer Kaffee am Morgen.",
+          "en": "I always drink coffee in the morning."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Sie hilft mir ___.",
+          "answer": "immer",
+          "en": "She always helps me."
+        }
+      ],
+      "notes": "'immer noch' = still (emphatic), 'immer wieder' = again and again.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "♾️",
+      "imageable": false,
+      "tags": [
+        "time",
+        "frequency"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "nie"
+      ],
+      "related": [
+        "oft",
+        "nie",
+        "meistens"
+      ]
+    },
+    {
+      "id": "oft",
+      "word": "oft",
+      "lemma": "oft",
+      "translation": "often",
+      "translations": [
+        "often"
+      ],
+      "level": "A1",
+      "category": "Adverbs",
+      "partOfSpeech": "adverb",
+      "frequency": 85,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Wie oft gehst du ins Fitnessstudio?",
+          "en": "How often do you go to the gym?"
+        },
+        {
+          "de": "Ich koche oft zu Hause.",
+          "en": "I often cook at home."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wir sehen uns nicht ___.",
+          "answer": "oft",
+          "en": "We don't see each other often."
+        }
+      ],
+      "notes": "Comparative: 'öfter' (more often). 'häufig' is the more formal synonym.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🔁",
+      "imageable": false,
+      "tags": [
+        "time",
+        "frequency"
+      ],
+      "synonyms": [
+        "häufig"
+      ],
+      "antonyms": [
+        "selten"
+      ],
+      "related": [
+        "immer",
+        "manchmal",
+        "selten"
+      ]
+    },
+    {
+      "id": "manchmal",
+      "word": "manchmal",
+      "lemma": "manchmal",
+      "translation": "sometimes",
+      "translations": [
+        "sometimes"
+      ],
+      "level": "A1",
+      "category": "Adverbs",
+      "partOfSpeech": "adverb",
+      "frequency": 130,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Manchmal fahre ich mit dem Rad zur Arbeit.",
+          "en": "Sometimes I ride my bike to work."
+        },
+        {
+          "de": "Ich arbeite manchmal am Samstag.",
+          "en": "I sometimes work on Saturday."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ verstehe ich meine Nachbarn nicht.",
+          "answer": "Manchmal",
+          "en": "Sometimes I don't understand my neighbours."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🤷",
+      "imageable": false,
+      "tags": [
+        "time",
+        "frequency"
+      ],
+      "synonyms": [
+        "ab und zu"
+      ],
+      "antonyms": [],
+      "related": [
+        "oft",
+        "selten",
+        "meistens"
+      ]
+    },
+    {
+      "id": "selten",
+      "word": "selten",
+      "lemma": "selten",
+      "translation": "rarely",
+      "translations": [
+        "rarely",
+        "seldom"
+      ],
+      "level": "A2",
+      "category": "Adverbs",
+      "partOfSpeech": "adverb",
+      "frequency": 225,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich gehe selten ins Kino.",
+          "en": "I rarely go to the cinema."
+        },
+        {
+          "de": "Er ist selten krank.",
+          "en": "He is rarely ill."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Sonntags fahren die Busse nur ___.",
+          "answer": "selten",
+          "en": "On Sundays the buses run only rarely."
+        }
+      ],
+      "notes": "Also an adjective: 'ein seltener Fall' = a rare case.",
+      "mnemonic": null,
+      "germany_context": "Sunday timetables for buses and trams are much thinner than weekdays - always check the 'Sonn- und Feiertag' column.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "time",
+        "frequency"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "oft"
+      ],
+      "related": [
+        "oft",
+        "manchmal",
+        "nie"
+      ]
+    },
+    {
+      "id": "nie",
+      "word": "nie",
+      "lemma": "nie",
+      "translation": "never",
+      "translations": [
+        "never"
+      ],
+      "level": "A1",
+      "category": "Adverbs",
+      "partOfSpeech": "adverb",
+      "frequency": 105,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich trinke nie Alkohol.",
+          "en": "I never drink alcohol."
+        },
+        {
+          "de": "Er hat nie Zeit.",
+          "en": "He never has time."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich war noch ___ in München.",
+          "answer": "nie",
+          "en": "I have never been to Munich."
+        }
+      ],
+      "notes": "'niemals' is the emphatic form. 'noch nie' = never up to now.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🚫",
+      "imageable": false,
+      "tags": [
+        "time",
+        "frequency"
+      ],
+      "synonyms": [
+        "niemals"
+      ],
+      "antonyms": [
+        "immer"
+      ],
+      "related": [
+        "immer",
+        "selten"
+      ]
+    },
+    {
+      "id": "wieder",
+      "word": "wieder",
+      "lemma": "wieder",
+      "translation": "again",
+      "translations": [
+        "again"
+      ],
+      "level": "A1",
+      "category": "Adverbs",
+      "partOfSpeech": "adverb",
+      "frequency": 80,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Schon wieder ein Problem!",
+          "en": "Another problem already!"
+        },
+        {
+          "de": "Ich komme morgen wieder.",
+          "en": "I'll come again tomorrow."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Aufzug ist ___ kaputt.",
+          "answer": "wieder",
+          "en": "The lift is broken again."
+        }
+      ],
+      "notes": "'wieder' (again) with ie; 'wider' (against) is a different word.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🔁",
+      "imageable": false,
+      "tags": [
+        "time",
+        "frequency"
+      ],
+      "synonyms": [
+        "nochmal"
+      ],
+      "antonyms": [],
+      "related": [
+        "nochmal",
+        "immer"
+      ]
+    },
+    {
+      "id": "endlich",
+      "word": "endlich",
+      "lemma": "endlich",
+      "translation": "finally",
+      "translations": [
+        "finally",
+        "at last"
+      ],
+      "level": "A2",
+      "category": "Adverbs",
+      "partOfSpeech": "adverb",
+      "frequency": 195,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Endlich ist Wochenende!",
+          "en": "Finally it's the weekend!"
+        },
+        {
+          "de": "Der Brief ist endlich angekommen.",
+          "en": "The letter has finally arrived."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Nach drei Monaten habe ich ___ einen Termin.",
+          "answer": "endlich",
+          "en": "After three months I finally have an appointment."
+        }
+      ],
+      "notes": "Expresses relief after a long wait - not the same as 'schließlich' (in the end).",
+      "mnemonic": null,
+      "germany_context": "Waiting weeks or months for a Termin at the Bürgeramt or a specialist doctor is normal, so 'endlich' gets a lot of use.",
+      "emoji": "🎉",
+      "imageable": false,
+      "tags": [
+        "time"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "schon",
+        "bald"
+      ]
+    },
+    {
+      "id": "vorher",
+      "word": "vorher",
+      "lemma": "vorher",
+      "translation": "beforehand",
+      "translations": [
+        "beforehand",
+        "before that"
+      ],
+      "level": "A2",
+      "category": "Adverbs",
+      "partOfSpeech": "adverb",
+      "frequency": 205,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ruf mich vorher an.",
+          "en": "Call me beforehand."
+        },
+        {
+          "de": "Vorher habe ich in Istanbul gewohnt.",
+          "en": "Before that I lived in Istanbul."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wir essen ___ noch eine Kleinigkeit.",
+          "answer": "vorher",
+          "en": "We'll have a little something beforehand."
+        }
+      ],
+      "notes": "'vorher' is the adverb. For 'before' + a noun use the preposition 'vor': 'vor dem Essen'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "⏮️",
+      "imageable": false,
+      "tags": [
+        "time"
+      ],
+      "synonyms": [
+        "davor"
+      ],
+      "antonyms": [
+        "nachher"
+      ],
+      "related": [
+        "nachher",
+        "zuerst",
+        "danach"
+      ]
+    },
+    {
+      "id": "nachher",
+      "word": "nachher",
+      "lemma": "nachher",
+      "translation": "later",
+      "translations": [
+        "later",
+        "afterwards"
+      ],
+      "level": "A2",
+      "category": "Adverbs",
+      "partOfSpeech": "adverb",
+      "frequency": 215,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Bis nachher!",
+          "en": "See you later!"
+        },
+        {
+          "de": "Wir können nachher telefonieren.",
+          "en": "We can talk on the phone later."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich mache das ___, jetzt habe ich keine Zeit.",
+          "answer": "nachher",
+          "en": "I'll do that later, right now I have no time."
+        }
+      ],
+      "notes": "'Bis nachher!' = see you later the same day. 'Bis später!' means the same.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "⏭️",
+      "imageable": false,
+      "tags": [
+        "time"
+      ],
+      "synonyms": [
+        "später",
+        "danach"
+      ],
+      "antonyms": [
+        "vorher"
+      ],
+      "related": [
+        "vorher",
+        "danach"
+      ]
+    },
+    {
+      "id": "damals",
+      "word": "damals",
+      "lemma": "damals",
+      "translation": "back then",
+      "translations": [
+        "back then",
+        "at that time"
+      ],
+      "level": "A2",
+      "category": "Adverbs",
+      "partOfSpeech": "adverb",
+      "frequency": 290,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Damals war ich noch Student.",
+          "en": "Back then I was still a student."
+        },
+        {
+          "de": "Damals gab es kein Internet.",
+          "en": "Back then there was no internet."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ haben wir in einer kleinen Wohnung gewohnt.",
+          "answer": "Damals",
+          "en": "Back then we lived in a small flat."
+        }
+      ],
+      "notes": "Used for a clearly finished period in the past. 'früher' is the softer everyday alternative.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🕰️",
+      "imageable": false,
+      "tags": [
+        "time"
+      ],
+      "synonyms": [
+        "früher"
+      ],
+      "antonyms": [
+        "jetzt"
+      ],
+      "related": [
+        "neulich",
+        "gestern"
+      ]
+    },
+    {
+      "id": "neulich",
+      "word": "neulich",
+      "lemma": "neulich",
+      "translation": "recently",
+      "translations": [
+        "recently",
+        "the other day"
+      ],
+      "level": "A2",
+      "category": "Adverbs",
+      "partOfSpeech": "adverb",
+      "frequency": 330,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Neulich habe ich deinen Bruder getroffen.",
+          "en": "The other day I met your brother."
+        },
+        {
+          "de": "Ich war neulich beim Arzt.",
+          "en": "I was at the doctor's recently."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ ist mir etwas Komisches passiert.",
+          "answer": "Neulich",
+          "en": "The other day something strange happened to me."
+        }
+      ],
+      "notes": "'neulich' = one specific recent occasion. 'in letzter Zeit' = lately, over a period.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "time"
+      ],
+      "synonyms": [
+        "kürzlich"
+      ],
+      "antonyms": [],
+      "related": [
+        "damals",
+        "gestern"
+      ]
+    },
+    {
+      "id": "gleich",
+      "word": "gleich",
+      "lemma": "gleich",
+      "translation": "in a moment",
+      "translations": [
+        "in a moment",
+        "right away"
+      ],
+      "level": "A1",
+      "category": "Adverbs",
+      "partOfSpeech": "adverb",
+      "frequency": 125,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich komme gleich.",
+          "en": "I'm coming in a moment."
+        },
+        {
+          "de": "Wir sind gleich da.",
+          "en": "We'll be there in a moment."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Zug fährt ___ ab.",
+          "answer": "gleich",
+          "en": "The train is leaving in a moment."
+        }
+      ],
+      "notes": "'Bis gleich!' = see you in a minute. As an adjective 'gleich' means 'same': 'die gleiche Wohnung'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "⏲️",
+      "imageable": false,
+      "tags": [
+        "time"
+      ],
+      "synonyms": [
+        "sofort",
+        "bald"
+      ],
+      "antonyms": [],
+      "related": [
+        "sofort",
+        "bald",
+        "jetzt"
+      ]
+    },
+    {
+      "id": "sofort",
+      "word": "sofort",
+      "lemma": "sofort",
+      "translation": "immediately",
+      "translations": [
+        "immediately",
+        "right away"
+      ],
+      "level": "A1",
+      "category": "Adverbs",
+      "partOfSpeech": "adverb",
+      "frequency": 135,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich mache das sofort.",
+          "en": "I'll do that right away."
+        },
+        {
+          "de": "Der Kellner kommt sofort.",
+          "en": "The waiter is coming right away."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Bei einem Notfall musst du ___ 112 anrufen.",
+          "answer": "sofort",
+          "en": "In an emergency you have to call 112 immediately."
+        }
+      ],
+      "notes": "Stronger and more urgent than 'gleich'.",
+      "mnemonic": null,
+      "germany_context": "112 is the free emergency number for fire and ambulance anywhere in Germany; 110 reaches the police.",
+      "emoji": "⚡",
+      "imageable": false,
+      "tags": [
+        "time"
+      ],
+      "synonyms": [
+        "gleich",
+        "umgehend"
+      ],
+      "antonyms": [],
+      "related": [
+        "gleich",
+        "jetzt"
+      ]
+    },
+    {
+      "id": "hier",
+      "word": "hier",
+      "lemma": "hier",
+      "translation": "here",
+      "translations": [
+        "here"
+      ],
+      "level": "A0",
+      "category": "Adverbs",
+      "partOfSpeech": "adverb",
+      "frequency": 28,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich bin hier.",
+          "en": "I am here."
+        },
+        {
+          "de": "Hier ist meine Adresse.",
+          "en": "Here is my address."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Entschuldigung, ist ___ noch frei?",
+          "answer": "hier",
+          "en": "Excuse me, is this seat still free?"
+        }
+      ],
+      "notes": "'hier' = at this place. For movement towards the speaker use 'hierher' or 'her'.",
+      "mnemonic": null,
+      "germany_context": "'Ist hier noch frei?' is the standard way to ask for a free seat in a full café, Biergarten or train.",
+      "emoji": "📍",
+      "imageable": false,
+      "tags": [
+        "place",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "dort"
+      ],
+      "related": [
+        "da",
+        "dort"
+      ]
+    },
+    {
+      "id": "da",
+      "word": "da",
+      "lemma": "da",
+      "translation": "there",
+      "translations": [
+        "there",
+        "here (present)"
+      ],
+      "level": "A1",
+      "category": "Adverbs",
+      "partOfSpeech": "adverb",
+      "frequency": 68,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich bin gleich da.",
+          "en": "I'll be there in a moment."
+        },
+        {
+          "de": "Ist Herr Meier da?",
+          "en": "Is Mr Meier in?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Paketbote war ___, aber ich war nicht zu Hause.",
+          "answer": "da",
+          "en": "The delivery driver was there, but I wasn't at home."
+        }
+      ],
+      "notes": "'da' means both 'there' and 'present/available'. 'da sein' = to be there / to have arrived.",
+      "mnemonic": null,
+      "germany_context": "If you are not 'da' when DHL rings, the parcel usually goes to a neighbour or a Packstation - check the yellow slip in your Briefkasten.",
+      "emoji": "📌",
+      "imageable": false,
+      "tags": [
+        "place"
+      ],
+      "synonyms": [
+        "dort"
+      ],
+      "antonyms": [],
+      "related": [
+        "hier",
+        "dort"
+      ]
+    },
+    {
+      "id": "dort",
+      "word": "dort",
+      "lemma": "dort",
+      "translation": "over there",
+      "translations": [
+        "over there",
+        "there"
+      ],
+      "level": "A1",
+      "category": "Adverbs",
+      "partOfSpeech": "adverb",
+      "frequency": 128,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Dort drüben ist die Apotheke.",
+          "en": "The pharmacy is over there."
+        },
+        {
+          "de": "Mein Bruder wohnt dort.",
+          "en": "My brother lives there."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Stell die Tasche bitte ___ hin.",
+          "answer": "dort",
+          "en": "Please put the bag over there."
+        }
+      ],
+      "notes": "'dort' is more distant and a bit more formal than 'da'; in speech Germans usually just say 'da'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "place"
+      ],
+      "synonyms": [
+        "da"
+      ],
+      "antonyms": [
+        "hier"
+      ],
+      "related": [
+        "da",
+        "hier"
+      ]
+    },
+    {
+      "id": "oben",
+      "word": "oben",
+      "lemma": "oben",
+      "translation": "upstairs",
+      "translations": [
+        "upstairs",
+        "up",
+        "at the top"
+      ],
+      "level": "A1",
+      "category": "Adverbs",
+      "partOfSpeech": "adverb",
+      "frequency": 160,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Das Bad ist oben.",
+          "en": "The bathroom is upstairs."
+        },
+        {
+          "de": "Oben im Regal steht der Zucker.",
+          "en": "The sugar is up on the shelf."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Die Nachbarn ___ sind sehr laut.",
+          "answer": "oben",
+          "en": "The neighbours upstairs are very loud."
+        }
+      ],
+      "notes": "'nach oben' = upwards. In lists 'oben' means 'above / at the top'.",
+      "mnemonic": null,
+      "germany_context": "Ruhezeiten (quiet hours) are typically 22:00-06:00 plus all day Sunday - noise from the flat above is a classic reason for a polite note in the Hausflur.",
+      "emoji": "⬆️",
+      "imageable": false,
+      "tags": [
+        "place",
+        "home"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "unten"
+      ],
+      "related": [
+        "unten",
+        "drinnen"
+      ]
+    },
+    {
+      "id": "unten",
+      "word": "unten",
+      "lemma": "unten",
+      "translation": "downstairs",
+      "translations": [
+        "downstairs",
+        "down",
+        "at the bottom"
+      ],
+      "level": "A1",
+      "category": "Adverbs",
+      "partOfSpeech": "adverb",
+      "frequency": 162,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich warte unten an der Tür.",
+          "en": "I'll wait downstairs at the door."
+        },
+        {
+          "de": "Die Briefkästen sind unten.",
+          "en": "The letterboxes are downstairs."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Keller ist ___ im Haus.",
+          "answer": "unten",
+          "en": "The cellar is downstairs in the building."
+        }
+      ],
+      "notes": "'nach unten' = downwards.",
+      "mnemonic": null,
+      "germany_context": "In most Mietshäuser the Briefkästen and the Keller are downstairs - your surname must be on the letterbox or post gets returned.",
+      "emoji": "⬇️",
+      "imageable": false,
+      "tags": [
+        "place",
+        "home"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "oben"
+      ],
+      "related": [
+        "oben"
+      ]
+    },
+    {
+      "id": "links",
+      "word": "links",
+      "lemma": "links",
+      "translation": "left",
+      "translations": [
+        "left",
+        "on the left"
+      ],
+      "level": "A0",
+      "category": "Adverbs",
+      "partOfSpeech": "adverb",
+      "frequency": 110,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Gehen Sie an der Ampel links.",
+          "en": "Turn left at the traffic light."
+        },
+        {
+          "de": "Der Supermarkt ist links.",
+          "en": "The supermarket is on the left."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Die zweite Tür ___ ist das Bad.",
+          "answer": "links",
+          "en": "The second door on the left is the bathroom."
+        }
+      ],
+      "notes": "'links' = on the left, 'nach links' = to the left.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "⬅️",
+      "imageable": false,
+      "tags": [
+        "place",
+        "directions",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "rechts"
+      ],
+      "related": [
+        "rechts",
+        "geradeaus"
+      ]
+    },
+    {
+      "id": "rechts",
+      "word": "rechts",
+      "lemma": "rechts",
+      "translation": "right",
+      "translations": [
+        "right",
+        "on the right"
+      ],
+      "level": "A0",
+      "category": "Adverbs",
+      "partOfSpeech": "adverb",
+      "frequency": 112,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Biegen Sie rechts ab.",
+          "en": "Turn right."
+        },
+        {
+          "de": "Rechts sehen Sie den Bahnhof.",
+          "en": "On the right you can see the station."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Ausgang ist ___.",
+          "answer": "rechts",
+          "en": "The exit is on the right."
+        }
+      ],
+      "notes": "'rechts' = on the right, 'nach rechts' = to the right.",
+      "mnemonic": null,
+      "germany_context": "On escalators in German stations you stand on the right and leave the left free for people walking - ignoring it earns you glares.",
+      "emoji": "➡️",
+      "imageable": false,
+      "tags": [
+        "place",
+        "directions",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "links"
+      ],
+      "related": [
+        "links",
+        "geradeaus"
+      ]
+    },
+    {
+      "id": "vorne",
+      "word": "vorne",
+      "lemma": "vorne",
+      "translation": "at the front",
+      "translations": [
+        "at the front",
+        "in front"
+      ],
+      "level": "A2",
+      "category": "Adverbs",
+      "partOfSpeech": "adverb",
+      "frequency": 175,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Vorne im Bus ist noch Platz.",
+          "en": "There is still room at the front of the bus."
+        },
+        {
+          "de": "Ich sitze gern vorne.",
+          "en": "I like sitting at the front."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Fahrer sitzt ___.",
+          "answer": "vorne",
+          "en": "The driver sits at the front."
+        }
+      ],
+      "notes": "'vorne' = position at the front, 'nach vorne' = towards the front. 'vorn' is the same word.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "place"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "hinten"
+      ],
+      "related": [
+        "hinten"
+      ]
+    },
+    {
+      "id": "hinten",
+      "word": "hinten",
+      "lemma": "hinten",
+      "translation": "at the back",
+      "translations": [
+        "at the back",
+        "behind"
+      ],
+      "level": "A2",
+      "category": "Adverbs",
+      "partOfSpeech": "adverb",
+      "frequency": 178,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Toiletten sind hinten rechts.",
+          "en": "The toilets are at the back on the right."
+        },
+        {
+          "de": "Hinten im Zug ist es ruhiger.",
+          "en": "It's quieter at the back of the train."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Stell dich bitte ___ an.",
+          "answer": "hinten",
+          "en": "Please queue at the back."
+        }
+      ],
+      "notes": "'sich hinten anstellen' = to join the back of the queue.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "place"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "vorne"
+      ],
+      "related": [
+        "vorne"
+      ]
+    },
+    {
+      "id": "drinnen",
+      "word": "drinnen",
+      "lemma": "drinnen",
+      "translation": "inside",
+      "translations": [
+        "inside",
+        "indoors"
+      ],
+      "level": "A2",
+      "category": "Adverbs",
+      "partOfSpeech": "adverb",
+      "frequency": 230,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Im Winter sitzen wir drinnen.",
+          "en": "In winter we sit inside."
+        },
+        {
+          "de": "Drinnen ist es schön warm.",
+          "en": "It's nice and warm inside."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Es regnet, wir bleiben lieber ___.",
+          "answer": "drinnen",
+          "en": "It's raining, we'd rather stay inside."
+        }
+      ],
+      "notes": "'drinnen/draußen' describe position. For movement say 'rein' (in) and 'raus' (out).",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🏠",
+      "imageable": false,
+      "tags": [
+        "place"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "draußen"
+      ],
+      "related": [
+        "draussen"
+      ]
+    },
+    {
+      "id": "draussen",
+      "word": "draußen",
+      "lemma": "draußen",
+      "translation": "outside",
+      "translations": [
+        "outside",
+        "outdoors"
+      ],
+      "level": "A1",
+      "category": "Adverbs",
+      "partOfSpeech": "adverb",
+      "frequency": 185,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Kinder spielen draußen.",
+          "en": "The children are playing outside."
+        },
+        {
+          "de": "Draußen ist es kalt.",
+          "en": "It's cold outside."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Im Sommer sitzen alle ___ im Biergarten.",
+          "answer": "draußen",
+          "en": "In summer everyone sits outside in the beer garden."
+        }
+      ],
+      "notes": "Written with ß: draußen. 'im Freien' is the more formal version.",
+      "mnemonic": null,
+      "germany_context": "The moment the sun appears, Germans move outdoors - Biergarten and café terraces fill up even at 12 degrees.",
+      "emoji": "🌳",
+      "imageable": false,
+      "tags": [
+        "place"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "drinnen"
+      ],
+      "related": [
+        "drinnen"
+      ]
+    },
+    {
+      "id": "ueberall",
+      "word": "überall",
+      "lemma": "überall",
+      "translation": "everywhere",
+      "translations": [
+        "everywhere"
+      ],
+      "level": "A2",
+      "category": "Adverbs",
+      "partOfSpeech": "adverb",
+      "frequency": 220,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Überall stehen Fahrräder.",
+          "en": "There are bicycles everywhere."
+        },
+        {
+          "de": "Ich habe überall gesucht.",
+          "en": "I have looked everywhere."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "In Berlin gibt es ___ Baustellen.",
+          "answer": "überall",
+          "en": "In Berlin there are building sites everywhere."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🌍",
+      "imageable": false,
+      "tags": [
+        "place"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "nirgendwo"
+      ],
+      "related": [
+        "nirgendwo"
+      ]
+    },
+    {
+      "id": "nirgendwo",
+      "word": "nirgendwo",
+      "lemma": "nirgendwo",
+      "translation": "nowhere",
+      "translations": [
+        "nowhere",
+        "not anywhere"
+      ],
+      "level": "A2",
+      "category": "Adverbs",
+      "partOfSpeech": "adverb",
+      "frequency": 320,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich finde meinen Schlüssel nirgendwo.",
+          "en": "I can't find my key anywhere."
+        },
+        {
+          "de": "Nirgendwo war ein freier Platz.",
+          "en": "There was no free seat anywhere."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Am Sonntag findest du ___ einen offenen Supermarkt.",
+          "answer": "nirgendwo",
+          "en": "On Sunday you won't find an open supermarket anywhere."
+        }
+      ],
+      "notes": "'nirgends' means exactly the same and is a little shorter.",
+      "mnemonic": null,
+      "germany_context": "Supermarkets close all day Sunday across Germany - only station shops, Tankstellen and Bäckereien sell food.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "place"
+      ],
+      "synonyms": [
+        "nirgends"
+      ],
+      "antonyms": [
+        "überall"
+      ],
+      "related": [
+        "ueberall"
+      ]
+    },
+    {
+      "id": "weg",
+      "word": "weg",
+      "lemma": "weg",
+      "translation": "away",
+      "translations": [
+        "away",
+        "gone"
+      ],
+      "level": "A2",
+      "category": "Adverbs",
+      "partOfSpeech": "adverb",
+      "frequency": 170,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Mein Fahrrad ist weg.",
+          "en": "My bike is gone."
+        },
+        {
+          "de": "Er ist schon weg.",
+          "en": "He has already left."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Meine Karte war plötzlich ___.",
+          "answer": "weg",
+          "en": "My card was suddenly gone."
+        }
+      ],
+      "notes": "Adverb 'weg' (gone) has a short e; the noun 'der Weg' (path) has a long e. Different words.",
+      "mnemonic": null,
+      "germany_context": "Bike theft is common in German cities - use a good lock and note your Rahmennummer, the police need it for a report.",
+      "emoji": "💨",
+      "imageable": false,
+      "tags": [
+        "place"
+      ],
+      "synonyms": [
+        "fort"
+      ],
+      "antonyms": [],
+      "related": [
+        "zurueck"
+      ]
+    },
+    {
+      "id": "zurueck",
+      "word": "zurück",
+      "lemma": "zurück",
+      "translation": "back",
+      "translations": [
+        "back"
+      ],
+      "level": "A1",
+      "category": "Adverbs",
+      "partOfSpeech": "adverb",
+      "frequency": 148,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich bin gleich zurück.",
+          "en": "I'll be right back."
+        },
+        {
+          "de": "Der Zug fährt um sechs zurück.",
+          "en": "The train goes back at six."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich komme in fünf Minuten ___.",
+          "answer": "zurück",
+          "en": "I'll be back in five minutes."
+        }
+      ],
+      "notes": "Also the separable prefix in zurückkommen, zurückgeben, zurückrufen.",
+      "mnemonic": null,
+      "germany_context": "Online orders can be sent back within 14 days by law (Widerrufsrecht); returning goods in a shop is goodwill, not a right.",
+      "emoji": "↩️",
+      "imageable": false,
+      "tags": [
+        "place",
+        "movement"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "weg",
+        "wieder"
+      ]
+    },
+    {
+      "id": "geradeaus",
+      "word": "geradeaus",
+      "lemma": "geradeaus",
+      "translation": "straight ahead",
+      "translations": [
+        "straight ahead",
+        "straight on"
+      ],
+      "level": "A0",
+      "category": "Adverbs",
+      "partOfSpeech": "adverb",
+      "frequency": 240,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Gehen Sie immer geradeaus.",
+          "en": "Keep going straight ahead."
+        },
+        {
+          "de": "Fahren Sie geradeaus bis zur Kreuzung.",
+          "en": "Drive straight ahead to the crossroads."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ und dann die erste Straße rechts.",
+          "answer": "Geradeaus",
+          "en": "Straight ahead and then the first street on the right."
+        }
+      ],
+      "notes": "The classic answer to 'Wie komme ich zum Bahnhof?' - learn it together with links and rechts.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "⬆️",
+      "imageable": false,
+      "tags": [
+        "place",
+        "directions",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "links",
+        "rechts"
+      ]
+    },
+    {
+      "id": "sehr",
+      "word": "sehr",
+      "lemma": "sehr",
+      "translation": "very",
+      "translations": [
+        "very",
+        "a lot"
+      ],
+      "level": "A0",
+      "category": "Adverbs",
+      "partOfSpeech": "adverb",
+      "frequency": 38,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Das ist sehr gut.",
+          "en": "That is very good."
+        },
+        {
+          "de": "Ich bin sehr müde.",
+          "en": "I am very tired."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Die Miete ist ___ hoch.",
+          "answer": "sehr",
+          "en": "The rent is very high."
+        }
+      ],
+      "notes": "'sehr' goes with adjectives and verbs. Before a noun use 'viel': 'viel Geld', not 'sehr Geld'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "degree",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "ganz",
+        "ziemlich",
+        "viel"
+      ]
+    },
+    {
+      "id": "ganz",
+      "word": "ganz",
+      "lemma": "ganz",
+      "translation": "quite",
+      "translations": [
+        "quite",
+        "completely",
+        "whole"
+      ],
+      "level": "A1",
+      "category": "Adverbs",
+      "partOfSpeech": "adverb",
+      "frequency": 88,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Das ist ganz einfach.",
+          "en": "That is completely easy."
+        },
+        {
+          "de": "Die Wohnung ist ganz klein.",
+          "en": "The flat is really small."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Kaffee ist ___ okay.",
+          "answer": "ganz",
+          "en": "The coffee is quite okay."
+        }
+      ],
+      "notes": "Before a strong adjective it means 'completely' (ganz kaputt); before a mild one it weakens to 'fairly' (ganz nett).",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "degree"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "sehr",
+        "ziemlich",
+        "echt"
+      ]
+    },
+    {
+      "id": "ziemlich",
+      "word": "ziemlich",
+      "lemma": "ziemlich",
+      "translation": "fairly",
+      "translations": [
+        "fairly",
+        "pretty",
+        "quite"
+      ],
+      "level": "A2",
+      "category": "Adverbs",
+      "partOfSpeech": "adverb",
+      "frequency": 165,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Es ist ziemlich kalt heute.",
+          "en": "It's fairly cold today."
+        },
+        {
+          "de": "Die Wohnung ist ziemlich teuer.",
+          "en": "The flat is pretty expensive."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Weg zur Arbeit ist ___ weit.",
+          "answer": "ziemlich",
+          "en": "The way to work is fairly far."
+        }
+      ],
+      "notes": "Stronger than 'ganz', weaker than 'sehr'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "degree"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "sehr",
+        "ganz",
+        "besonders"
+      ]
+    },
+    {
+      "id": "zu-degree",
+      "word": "zu",
+      "lemma": "zu",
+      "translation": "too",
+      "translations": [
+        "too",
+        "too much"
+      ],
+      "level": "A1",
+      "category": "Adverbs",
+      "partOfSpeech": "adverb",
+      "frequency": 78,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Hose ist zu klein.",
+          "en": "The trousers are too small."
+        },
+        {
+          "de": "Das ist mir zu teuer.",
+          "en": "That is too expensive for me."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Kaffee ist noch ___ heiß.",
+          "answer": "zu",
+          "en": "The coffee is still too hot."
+        }
+      ],
+      "notes": "This 'zu' means 'excessively'. Don't mix it up with the preposition 'zu' (to) or the 'zu' in 'etwas zu essen'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "degree"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "sehr",
+        "genug"
+      ]
+    },
+    {
+      "id": "genug",
+      "word": "genug",
+      "lemma": "genug",
+      "translation": "enough",
+      "translations": [
+        "enough"
+      ],
+      "level": "A2",
+      "category": "Adverbs",
+      "partOfSpeech": "adverb",
+      "frequency": 145,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich habe genug Geld.",
+          "en": "I have enough money."
+        },
+        {
+          "de": "Das ist genug, danke.",
+          "en": "That's enough, thank you."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Hast du ___ geschlafen?",
+          "answer": "genug",
+          "en": "Did you sleep enough?"
+        }
+      ],
+      "notes": "'genug' comes AFTER an adjective ('groß genug') but BEFORE a noun ('genug Zeit').",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "degree",
+        "quantity"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "zu wenig"
+      ],
+      "related": [
+        "zu-degree",
+        "viel",
+        "wenig"
+      ]
+    },
+    {
+      "id": "fast",
+      "word": "fast",
+      "lemma": "fast",
+      "translation": "almost",
+      "translations": [
+        "almost",
+        "nearly"
+      ],
+      "level": "A1",
+      "category": "Adverbs",
+      "partOfSpeech": "adverb",
+      "frequency": 140,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich bin fast fertig.",
+          "en": "I'm almost finished."
+        },
+        {
+          "de": "Es ist fast acht Uhr.",
+          "en": "It's almost eight o'clock."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Bus war ___ leer.",
+          "answer": "fast",
+          "en": "The bus was almost empty."
+        }
+      ],
+      "notes": "Classic false friend: German 'fast' means 'almost', never 'schnell'.",
+      "mnemonic": "German 'fast' is NOT fast - it means 'almost'.",
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "degree",
+        "false-friend"
+      ],
+      "synonyms": [
+        "beinahe"
+      ],
+      "antonyms": [],
+      "related": [
+        "kaum",
+        "ungefaehr"
+      ]
+    },
+    {
+      "id": "kaum",
+      "word": "kaum",
+      "lemma": "kaum",
+      "translation": "hardly",
+      "translations": [
+        "hardly",
+        "barely"
+      ],
+      "level": "A2",
+      "category": "Adverbs",
+      "partOfSpeech": "adverb",
+      "frequency": 210,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich habe kaum Zeit.",
+          "en": "I hardly have any time."
+        },
+        {
+          "de": "Man versteht dich kaum.",
+          "en": "One can barely understand you."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Es gibt ___ noch freie Wohnungen.",
+          "answer": "kaum",
+          "en": "There are hardly any free flats left."
+        }
+      ],
+      "notes": "'kaum' already contains the negation - never add 'nicht'.",
+      "mnemonic": null,
+      "germany_context": "In big cities the Wohnungsmarkt is very tight: expect dozens of applicants per Besichtigung and have your documents ready.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "degree"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "viel"
+      ],
+      "related": [
+        "fast",
+        "wenig"
+      ]
+    },
+    {
+      "id": "besonders",
+      "word": "besonders",
+      "lemma": "besonders",
+      "translation": "especially",
+      "translations": [
+        "especially",
+        "particularly"
+      ],
+      "level": "A2",
+      "category": "Adverbs",
+      "partOfSpeech": "adverb",
+      "frequency": 190,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Das Wetter war besonders schön.",
+          "en": "The weather was especially nice."
+        },
+        {
+          "de": "Ich mag besonders die Berge.",
+          "en": "I particularly like the mountains."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Die Mieten sind in München ___ hoch.",
+          "answer": "besonders",
+          "en": "Rents in Munich are especially high."
+        }
+      ],
+      "notes": "'nicht besonders' = 'not great' - a polite German way of saying something was bad.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "degree"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "sehr",
+        "ziemlich"
+      ]
+    },
+    {
+      "id": "wirklich",
+      "word": "wirklich",
+      "lemma": "wirklich",
+      "translation": "really",
+      "translations": [
+        "really",
+        "truly"
+      ],
+      "level": "A1",
+      "category": "Adverbs",
+      "partOfSpeech": "adverb",
+      "frequency": 108,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Das ist wirklich schön.",
+          "en": "That is really nice."
+        },
+        {
+          "de": "Wirklich? Das wusste ich nicht.",
+          "en": "Really? I didn't know that."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Tut mir ___ leid!",
+          "answer": "wirklich",
+          "en": "I'm really sorry!"
+        }
+      ],
+      "notes": "On its own, 'Wirklich?' = 'Really?'. The casual spoken version is 'echt?'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "degree"
+      ],
+      "synonyms": [
+        "echt",
+        "tatsächlich"
+      ],
+      "antonyms": [],
+      "related": [
+        "echt",
+        "genau"
+      ]
+    },
+    {
+      "id": "wenig",
+      "word": "wenig",
+      "lemma": "wenig",
+      "translation": "little",
+      "translations": [
+        "little",
+        "few",
+        "not much"
+      ],
+      "level": "A2",
+      "category": "Adverbs",
+      "partOfSpeech": "adverb",
+      "frequency": 155,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich habe wenig Zeit.",
+          "en": "I have little time."
+        },
+        {
+          "de": "Er spricht wenig.",
+          "en": "He doesn't talk much."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Im Kühlschrank ist nur noch ___ Milch.",
+          "answer": "wenig",
+          "en": "There is only a little milk left in the fridge."
+        }
+      ],
+      "notes": "'wenig' with uncountables, 'wenige' with plural nouns. 'ein wenig' = a little bit.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "degree",
+        "quantity"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "viel"
+      ],
+      "related": [
+        "viel",
+        "kaum",
+        "genug"
+      ]
+    },
+    {
+      "id": "viel",
+      "word": "viel",
+      "lemma": "viel",
+      "translation": "a lot",
+      "translations": [
+        "a lot",
+        "much"
+      ],
+      "level": "A1",
+      "category": "Adverbs",
+      "partOfSpeech": "adverb",
+      "frequency": 48,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich arbeite viel.",
+          "en": "I work a lot."
+        },
+        {
+          "de": "Viel Glück!",
+          "en": "Good luck!"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "In Berlin gibt es ___ zu sehen.",
+          "answer": "viel",
+          "en": "There is a lot to see in Berlin."
+        }
+      ],
+      "notes": "Comparative 'mehr', superlative 'am meisten'. Before plural nouns use 'viele': 'viele Leute'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "degree",
+        "quantity",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "wenig"
+      ],
+      "related": [
+        "mehr",
+        "wenig",
+        "sehr"
+      ]
+    },
+    {
+      "id": "mehr",
+      "word": "mehr",
+      "lemma": "mehr",
+      "translation": "more",
+      "translations": [
+        "more"
+      ],
+      "level": "A1",
+      "category": "Adverbs",
+      "partOfSpeech": "adverb",
+      "frequency": 72,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich brauche mehr Zeit.",
+          "en": "I need more time."
+        },
+        {
+          "de": "Möchtest du mehr Kaffee?",
+          "en": "Would you like more coffee?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich habe kein Geld ___.",
+          "answer": "mehr",
+          "en": "I have no money left."
+        }
+      ],
+      "notes": "Comparative of 'viel'. 'nicht mehr' / 'kein ... mehr' = not any more.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "degree",
+        "quantity"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "weniger"
+      ],
+      "related": [
+        "viel",
+        "noch"
+      ]
+    },
+    {
+      "id": "echt",
+      "word": "echt",
+      "lemma": "echt",
+      "translation": "really",
+      "translations": [
+        "really",
+        "genuinely"
+      ],
+      "level": "A2",
+      "category": "Adverbs",
+      "partOfSpeech": "adverb",
+      "frequency": 150,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Das ist echt gut!",
+          "en": "That's really good!"
+        },
+        {
+          "de": "Echt? Das glaube ich nicht.",
+          "en": "Really? I don't believe that."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Die Wohnung ist ___ teuer.",
+          "answer": "echt",
+          "en": "The flat is really expensive."
+        }
+      ],
+      "notes": "Very common in casual speech, the relaxed version of 'wirklich'. As an adjective it means 'genuine, real'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "degree",
+        "colloquial"
+      ],
+      "synonyms": [
+        "wirklich"
+      ],
+      "antonyms": [],
+      "related": [
+        "wirklich",
+        "ganz"
+      ]
+    },
+    {
+      "id": "doch-particle",
+      "word": "doch",
+      "lemma": "doch",
+      "translation": "but yes",
+      "translations": [
+        "but yes",
+        "do (emphasis)",
+        "after all"
+      ],
+      "level": "A2",
+      "category": "Adverbs",
+      "partOfSpeech": "adverb",
+      "frequency": 75,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Kommst du nicht mit? – Doch!",
+          "en": "Aren't you coming? – Yes, I am!"
+        },
+        {
+          "de": "Komm doch mit!",
+          "en": "Come along, why don't you!"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Setz dich ___ hin!",
+          "answer": "doch",
+          "en": "Do sit down!"
+        }
+      ],
+      "notes": "Three jobs: (1) 'Doch!' answers YES to a negative question - 'ja' would be wrong. (2) In requests it softens: 'Frag doch mal.' (3) It marks surprise or a reminder: 'Du bist doch schon da!'",
+      "mnemonic": null,
+      "germany_context": "'doch' is the single most useful particle to learn - Germans use it constantly and English has no direct equivalent.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "particle",
+        "high-value"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "mal-particle",
+        "ja-particle",
+        "eben-particle"
+      ]
+    },
+    {
+      "id": "mal-particle",
+      "word": "mal",
+      "lemma": "mal",
+      "translation": "just",
+      "translations": [
+        "just",
+        "once",
+        "for a moment"
+      ],
+      "level": "A2",
+      "category": "Adverbs",
+      "partOfSpeech": "adverb",
+      "frequency": 62,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Kannst du mal helfen?",
+          "en": "Could you help for a second?"
+        },
+        {
+          "de": "Ich war schon mal in Köln.",
+          "en": "I have been to Cologne once before."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Warte ___ kurz!",
+          "answer": "mal",
+          "en": "Just wait a moment!"
+        }
+      ],
+      "notes": "Short for 'einmal'. It makes requests and commands sound friendly instead of bossy: 'Gib mir das' vs 'Gib mir das mal'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "particle",
+        "high-value"
+      ],
+      "synonyms": [
+        "einmal"
+      ],
+      "antonyms": [],
+      "related": [
+        "doch-particle",
+        "eben-particle"
+      ]
+    },
+    {
+      "id": "halt-particle",
+      "word": "halt",
+      "lemma": "halt",
+      "translation": "just",
+      "translations": [
+        "just",
+        "simply"
+      ],
+      "level": "A2",
+      "category": "Adverbs",
+      "partOfSpeech": "adverb",
+      "frequency": 260,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Das ist halt so.",
+          "en": "That's just how it is."
+        },
+        {
+          "de": "Dann nehmen wir halt den Bus.",
+          "en": "Then we'll just take the bus."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich habe keine Zeit, ich muss ___ arbeiten.",
+          "answer": "halt",
+          "en": "I have no time, I just have to work."
+        }
+      ],
+      "notes": "Signals resignation: nothing can be done about it. More southern; northern Germans prefer 'eben'. Not the same as 'Halt!' = Stop!",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "particle",
+        "colloquial"
+      ],
+      "synonyms": [
+        "eben"
+      ],
+      "antonyms": [],
+      "related": [
+        "eben-particle",
+        "doch-particle"
+      ]
+    },
+    {
+      "id": "eben-particle",
+      "word": "eben",
+      "lemma": "eben",
+      "translation": "exactly",
+      "translations": [
+        "exactly",
+        "just now",
+        "simply"
+      ],
+      "level": "A2",
+      "category": "Adverbs",
+      "partOfSpeech": "adverb",
+      "frequency": 250,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Eben! Das sage ich doch.",
+          "en": "Exactly! That's what I'm saying."
+        },
+        {
+          "de": "Ich habe eben mit ihr gesprochen.",
+          "en": "I just spoke with her."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Dann müssen wir ___ früher losfahren.",
+          "answer": "eben",
+          "en": "Then we'll just have to leave earlier."
+        }
+      ],
+      "notes": "Three uses: 'Eben!' = exactly; 'eben' = a moment ago; and the northern equivalent of 'halt'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "particle",
+        "colloquial"
+      ],
+      "synonyms": [
+        "halt",
+        "genau"
+      ],
+      "antonyms": [],
+      "related": [
+        "halt-particle",
+        "genau",
+        "gerade"
+      ]
+    },
+    {
+      "id": "ja-particle",
+      "word": "ja",
+      "lemma": "ja",
+      "translation": "as you know",
+      "translations": [
+        "as you know",
+        "after all",
+        "well"
+      ],
+      "level": "A2",
+      "category": "Adverbs",
+      "partOfSpeech": "adverb",
+      "frequency": 122,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Das ist ja toll!",
+          "en": "Well, that's great!"
+        },
+        {
+          "de": "Du weißt ja, wo ich wohne.",
+          "en": "You know where I live, after all."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Das habe ich dir ___ gesagt.",
+          "answer": "ja",
+          "en": "I did tell you that, you know."
+        }
+      ],
+      "notes": "Unstressed 'ja' inside a sentence is NOT 'yes'. It means 'as we both know' or marks surprise, and it never takes a comma.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "particle",
+        "high-value"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "doch-particle",
+        "eben-particle",
+        "wohl-particle"
+      ]
+    },
+    {
+      "id": "denn-particle",
+      "word": "denn",
+      "lemma": "denn",
+      "translation": "then",
+      "translations": [
+        "then",
+        "so"
+      ],
+      "level": "A1",
+      "category": "Adverbs",
+      "partOfSpeech": "adverb",
+      "frequency": 132,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Was machst du denn hier?",
+          "en": "What are you doing here then?"
+        },
+        {
+          "de": "Wie heißt du denn?",
+          "en": "So what's your name?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wo ist ___ die Toilette?",
+          "answer": "denn",
+          "en": "Where is the toilet, then?"
+        }
+      ],
+      "notes": "In questions 'denn' makes you sound friendly and genuinely interested; without it questions can sound blunt. Don't confuse it with the conjunction 'denn' = because.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "particle",
+        "high-value"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "doch-particle",
+        "mal-particle"
+      ]
+    },
+    {
+      "id": "wohl-particle",
+      "word": "wohl",
+      "lemma": "wohl",
+      "translation": "probably",
+      "translations": [
+        "probably",
+        "I suppose"
+      ],
+      "level": "A2",
+      "category": "Adverbs",
+      "partOfSpeech": "adverb",
+      "frequency": 280,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Er ist wohl krank.",
+          "en": "He's probably ill."
+        },
+        {
+          "de": "Das war wohl ein Missverständnis.",
+          "en": "That was probably a misunderstanding."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Chef kommt heute ___ nicht mehr.",
+          "answer": "wohl",
+          "en": "The boss probably isn't coming in today."
+        }
+      ],
+      "notes": "As a particle 'wohl' = probably / I assume. In 'sich wohl fühlen' it means 'comfortable, well'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "particle"
+      ],
+      "synonyms": [
+        "wahrscheinlich"
+      ],
+      "antonyms": [],
+      "related": [
+        "vielleicht",
+        "ja-particle"
+      ]
+    },
+    {
+      "id": "eigentlich",
+      "word": "eigentlich",
+      "lemma": "eigentlich",
+      "translation": "actually",
+      "translations": [
+        "actually",
+        "in fact",
+        "by the way"
+      ],
+      "level": "A2",
+      "category": "Adverbs",
+      "partOfSpeech": "adverb",
+      "frequency": 168,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Eigentlich wollte ich zu Hause bleiben.",
+          "en": "Actually I wanted to stay at home."
+        },
+        {
+          "de": "Wie alt bist du eigentlich?",
+          "en": "How old are you, actually?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ ist der Laden am Sonntag zu.",
+          "answer": "Eigentlich",
+          "en": "Actually the shop is closed on Sunday."
+        }
+      ],
+      "notes": "Two jobs: 'in fact / originally' (usually with a 'but' coming), and in questions a casual 'by the way'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "particle",
+        "high-value"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "wirklich",
+        "ja-particle"
+      ]
+    },
+    {
+      "id": "danach",
+      "word": "danach",
+      "lemma": "danach",
+      "translation": "after that",
+      "translations": [
+        "after that",
+        "afterwards"
+      ],
+      "level": "A2",
+      "category": "Adverbs",
+      "partOfSpeech": "adverb",
+      "frequency": 200,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Wir essen und danach gehen wir spazieren.",
+          "en": "We eat and after that we go for a walk."
+        },
+        {
+          "de": "Danach war ich sehr müde.",
+          "en": "After that I was very tired."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Zuerst die Anmeldung, ___ das Bankkonto.",
+          "answer": "danach",
+          "en": "First the registration, after that the bank account."
+        }
+      ],
+      "notes": "'danach' points back to something already mentioned; 'nachher' just means 'later today'.",
+      "mnemonic": null,
+      "germany_context": "Standard order after moving in: Anmeldung at the Bürgeramt within 14 days, then Bankkonto and Steuer-ID, then everything else.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "time",
+        "sequence"
+      ],
+      "synonyms": [
+        "nachher"
+      ],
+      "antonyms": [
+        "vorher"
+      ],
+      "related": [
+        "zuerst",
+        "vorher",
+        "dann"
+      ]
+    },
+    {
+      "id": "meistens",
+      "word": "meistens",
+      "lemma": "meistens",
+      "translation": "usually",
+      "translations": [
+        "usually",
+        "mostly"
+      ],
+      "level": "A2",
+      "category": "Adverbs",
+      "partOfSpeech": "adverb",
+      "frequency": 235,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich fahre meistens mit der Bahn.",
+          "en": "I usually travel by train."
+        },
+        {
+          "de": "Meistens koche ich abends.",
+          "en": "I usually cook in the evening."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Am Wochenende schlafe ich ___ lange.",
+          "answer": "meistens",
+          "en": "At the weekend I usually sleep in."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "time",
+        "frequency"
+      ],
+      "synonyms": [
+        "normalerweise"
+      ],
+      "antonyms": [],
+      "related": [
+        "oft",
+        "immer",
+        "manchmal"
+      ]
+    },
+    {
+      "id": "gern",
+      "word": "gern",
+      "lemma": "gern",
+      "translation": "gladly",
+      "translations": [
+        "gladly",
+        "with pleasure",
+        "to like doing"
+      ],
+      "level": "A0",
+      "category": "Adverbs",
+      "partOfSpeech": "adverb",
+      "frequency": 70,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich trinke gern Tee.",
+          "en": "I like drinking tea."
+        },
+        {
+          "de": "Gern geschehen!",
+          "en": "You're welcome!"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich hätte ___ einen Kaffee, bitte.",
+          "answer": "gern",
+          "en": "I would like a coffee, please."
+        }
+      ],
+      "notes": "'gern' + verb = to like doing something. Comparative 'lieber', superlative 'am liebsten'. 'gerne' is the same word.",
+      "mnemonic": null,
+      "germany_context": "'Ich hätte gern ...' is the polite standard for ordering at a Bäckerei, Imbiss or café - much better than 'Ich will'.",
+      "emoji": "😊",
+      "imageable": false,
+      "tags": [
+        "manner",
+        "essential",
+        "politeness"
+      ],
+      "synonyms": [
+        "gerne"
+      ],
+      "antonyms": [],
+      "related": [
+        "leider",
+        "natuerlich"
+      ]
+    },
+    {
+      "id": "natuerlich",
+      "word": "natürlich",
+      "lemma": "natürlich",
+      "translation": "of course",
+      "translations": [
+        "of course",
+        "naturally"
+      ],
+      "level": "A1",
+      "category": "Adverbs",
+      "partOfSpeech": "adverb",
+      "frequency": 95,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Natürlich helfe ich dir.",
+          "en": "Of course I'll help you."
+        },
+        {
+          "de": "Darf ich? – Natürlich!",
+          "en": "May I? – Of course!"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ kannst du hier parken.",
+          "answer": "Natürlich",
+          "en": "Of course you can park here."
+        }
+      ],
+      "notes": "'Klar!' is the casual spoken version, 'selbstverständlich' the formal one.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "manner",
+        "politeness"
+      ],
+      "synonyms": [
+        "klar",
+        "selbstverständlich"
+      ],
+      "antonyms": [],
+      "related": [
+        "genau",
+        "gern"
+      ]
+    },
+    {
+      "id": "vielleicht",
+      "word": "vielleicht",
+      "lemma": "vielleicht",
+      "translation": "maybe",
+      "translations": [
+        "maybe",
+        "perhaps"
+      ],
+      "level": "A1",
+      "category": "Adverbs",
+      "partOfSpeech": "adverb",
+      "frequency": 90,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Vielleicht komme ich später.",
+          "en": "Maybe I'll come later."
+        },
+        {
+          "de": "Vielleicht hast du recht.",
+          "en": "Maybe you're right."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ regnet es morgen.",
+          "answer": "Vielleicht",
+          "en": "Maybe it will rain tomorrow."
+        }
+      ],
+      "notes": "Watch the word order: when 'vielleicht' starts the sentence, the verb still comes second.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "manner"
+      ],
+      "synonyms": [
+        "möglicherweise"
+      ],
+      "antonyms": [],
+      "related": [
+        "wohl-particle",
+        "hoffentlich"
+      ]
+    },
+    {
+      "id": "auch",
+      "word": "auch",
+      "lemma": "auch",
+      "translation": "also",
+      "translations": [
+        "also",
+        "too",
+        "as well"
+      ],
+      "level": "A0",
+      "category": "Adverbs",
+      "partOfSpeech": "adverb",
+      "frequency": 22,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich komme auch.",
+          "en": "I'm coming too."
+        },
+        {
+          "de": "Das ist auch gut.",
+          "en": "That's good too."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Mein Bruder wohnt ___ in Berlin.",
+          "answer": "auch",
+          "en": "My brother lives in Berlin too."
+        }
+      ],
+      "notes": "'auch' stands directly before the word it emphasises, not at the end of the sentence like English 'too'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "degree",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "nur",
+        "noch"
+      ]
+    },
+    {
+      "id": "nur",
+      "word": "nur",
+      "lemma": "nur",
+      "translation": "only",
+      "translations": [
+        "only",
+        "just"
+      ],
+      "level": "A1",
+      "category": "Adverbs",
+      "partOfSpeech": "adverb",
+      "frequency": 52,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich habe nur zehn Euro.",
+          "en": "I only have ten euros."
+        },
+        {
+          "de": "Das dauert nur fünf Minuten.",
+          "en": "That only takes five minutes."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Laden ist ___ bis 20 Uhr offen.",
+          "answer": "nur",
+          "en": "The shop is only open until 8 p.m."
+        }
+      ],
+      "notes": "'bloß' is the casual spoken alternative.",
+      "mnemonic": null,
+      "germany_context": "Most supermarkets shut at 20:00 or 22:00 and all day Sunday - the big shop happens on Saturday.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "degree",
+        "essential"
+      ],
+      "synonyms": [
+        "bloß"
+      ],
+      "antonyms": [],
+      "related": [
+        "auch",
+        "kaum"
+      ]
+    },
+    {
+      "id": "puenktlich-adv",
+      "word": "pünktlich",
+      "lemma": "pünktlich",
+      "translation": "on time",
+      "translations": [
+        "on time",
+        "punctually"
+      ],
+      "level": "A2",
+      "category": "Adverbs",
+      "partOfSpeech": "adverb",
+      "frequency": 245,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Zug ist heute pünktlich.",
+          "en": "The train is on time today."
+        },
+        {
+          "de": "Bitte komm pünktlich.",
+          "en": "Please come on time."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Sei bitte ___ zum Termin.",
+          "answer": "pünktlich",
+          "en": "Please be on time for the appointment."
+        }
+      ],
+      "notes": "Opposite: 'unpünktlich'. 'rechtzeitig' means 'in good time' rather than 'exactly on time'.",
+      "mnemonic": null,
+      "germany_context": "Punctuality is a genuine social rule: for a Termin, a job interview or a dinner invitation, arrive on the minute or five minutes early.",
+      "emoji": "⏰",
+      "imageable": false,
+      "tags": [
+        "time",
+        "culture"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "unpünktlich"
+      ],
+      "related": [
+        "spaet-adv",
+        "frueh-adv",
+        "genau"
+      ]
+    },
+    {
+      "id": "ungefaehr",
+      "word": "ungefähr",
+      "lemma": "ungefähr",
+      "translation": "approximately",
+      "translations": [
+        "approximately",
+        "about",
+        "roughly"
+      ],
+      "level": "A2",
+      "category": "Adverbs",
+      "partOfSpeech": "adverb",
+      "frequency": 265,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Es dauert ungefähr zehn Minuten.",
+          "en": "It takes about ten minutes."
+        },
+        {
+          "de": "Ich brauche ungefähr 500 Euro.",
+          "en": "I need approximately 500 euros."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Die Wohnung ist ___ 60 Quadratmeter groß.",
+          "answer": "ungefähr",
+          "en": "The flat is roughly 60 square metres."
+        }
+      ],
+      "notes": "'etwa' and 'circa' (ca.) are used the same way; 'ca.' is what you see in written adverts.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "degree",
+        "quantity"
+      ],
+      "synonyms": [
+        "etwa",
+        "circa"
+      ],
+      "antonyms": [],
+      "related": [
+        "fast",
+        "kaum"
+      ]
+    },
+    {
+      "id": "hoffentlich",
+      "word": "hoffentlich",
+      "lemma": "hoffentlich",
+      "translation": "hopefully",
+      "translations": [
+        "hopefully"
+      ],
+      "level": "A2",
+      "category": "Adverbs",
+      "partOfSpeech": "adverb",
+      "frequency": 255,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Hoffentlich klappt das.",
+          "en": "Hopefully that will work out."
+        },
+        {
+          "de": "Hoffentlich regnet es nicht.",
+          "en": "Hopefully it won't rain."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ bekomme ich die Wohnung.",
+          "answer": "Hoffentlich",
+          "en": "Hopefully I'll get the flat."
+        }
+      ],
+      "notes": "One word replaces the whole English 'I hope that ...' - no extra clause needed.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "manner"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "vielleicht",
+        "leider"
+      ]
+    },
+    {
+      "id": "nochmal",
+      "word": "nochmal",
+      "lemma": "nochmal",
+      "translation": "again",
+      "translations": [
+        "again",
+        "one more time"
+      ],
+      "level": "A1",
+      "category": "Adverbs",
+      "partOfSpeech": "adverb",
+      "frequency": 158,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Kannst du das nochmal sagen?",
+          "en": "Can you say that again?"
+        },
+        {
+          "de": "Ich versuche es nochmal.",
+          "en": "I'll try it one more time."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Bitte erklären Sie das ___.",
+          "answer": "nochmal",
+          "en": "Please explain that again."
+        }
+      ],
+      "notes": "Spoken short form of 'noch einmal'. If you didn't catch something, 'Nochmal, bitte?' or 'Wie bitte?' both work.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "time",
+        "essential"
+      ],
+      "synonyms": [
+        "noch einmal",
+        "wieder"
+      ],
+      "antonyms": [],
+      "related": [
+        "wieder",
+        "noch"
+      ]
+    }
+  ]
+}

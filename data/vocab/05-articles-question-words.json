@@ -1,0 +1,1544 @@
+{
+  "category": "Articles & Question Words",
+  "words": [
+    {
+      "id": "der",
+      "word": "der",
+      "lemma": "der",
+      "translation": "the (masculine, nominative)",
+      "translations": [
+        "the (masculine, nominative)",
+        "the"
+      ],
+      "level": "A0",
+      "category": "Articles & Question Words",
+      "partOfSpeech": "article",
+      "frequency": 1,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Zug kommt um acht Uhr.",
+          "en": "The train arrives at eight o'clock."
+        },
+        {
+          "de": "Der Kaffee hier ist wirklich gut.",
+          "en": "The coffee here is really good."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ Vermieter wohnt im Erdgeschoss.",
+          "answer": "Der",
+          "en": "The landlord lives on the ground floor."
+        }
+      ],
+      "notes": "Masculine nominative — marks the subject. The same form also appears as the feminine dative (mit der Frau), the feminine genitive (das Auto der Frau) and the genitive plural.",
+      "mnemonic": "der Mann — 'der' is the man's article; three genders, three words: der / die / das.",
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "grammar",
+        "article",
+        "essential",
+        "nominative"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "die",
+        "das",
+        "den",
+        "dem",
+        "des"
+      ]
+    },
+    {
+      "id": "die",
+      "word": "die",
+      "lemma": "die",
+      "translation": "the (feminine or plural)",
+      "translations": [
+        "the (feminine or plural)",
+        "the"
+      ],
+      "level": "A0",
+      "category": "Articles & Question Words",
+      "partOfSpeech": "article",
+      "frequency": 2,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Wohnung ist leider schon vermietet.",
+          "en": "Unfortunately the flat is already rented out."
+        },
+        {
+          "de": "Die Kinder gehen morgens zur Schule.",
+          "en": "The children go to school in the morning."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ Bahn hat heute wieder Verspätung.",
+          "answer": "Die",
+          "en": "The train is late again today."
+        }
+      ],
+      "notes": "die does double duty: feminine singular (nominative and accusative) AND the plural of every gender — der Mann → die Männer, das Kind → die Kinder.",
+      "mnemonic": "Everything in the plural turns into 'die' — one form to rule them all.",
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "grammar",
+        "article",
+        "essential",
+        "plural"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "der",
+        "das",
+        "den",
+        "dem"
+      ]
+    },
+    {
+      "id": "das",
+      "word": "das",
+      "lemma": "das",
+      "translation": "the (neuter)",
+      "translations": [
+        "the (neuter)",
+        "the"
+      ],
+      "level": "A0",
+      "category": "Articles & Question Words",
+      "partOfSpeech": "article",
+      "frequency": 3,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Das Formular liegt auf dem Tisch.",
+          "en": "The form is lying on the table."
+        },
+        {
+          "de": "Ich finde das Rathaus nicht.",
+          "en": "I can't find the town hall."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ Paket kommt morgen.",
+          "answer": "Das",
+          "en": "The parcel is coming tomorrow."
+        }
+      ],
+      "notes": "Neuter, identical in nominative and accusative. Don't mix up the article das with the conjunction dass ('Ich weiß, dass du kommst') — one s vs two.",
+      "mnemonic": "Every -chen and -lein word is das: das Mädchen, das Brötchen.",
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "grammar",
+        "article",
+        "essential",
+        "neuter"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "der",
+        "die",
+        "dem",
+        "des"
+      ]
+    },
+    {
+      "id": "den",
+      "word": "den",
+      "lemma": "den",
+      "translation": "the (masculine, accusative)",
+      "translations": [
+        "the (masculine, accusative)",
+        "the"
+      ],
+      "level": "A1",
+      "category": "Articles & Question Words",
+      "partOfSpeech": "article",
+      "frequency": 45,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich nehme den Bus zur Arbeit.",
+          "en": "I take the bus to work."
+        },
+        {
+          "de": "Hast du den Schlüssel dabei?",
+          "en": "Do you have the key with you?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich rufe morgen ___ Vermieter an.",
+          "answer": "den",
+          "en": "I'll call the landlord tomorrow."
+        }
+      ],
+      "notes": "In the accusative ONLY the masculine changes: der → den. die, das and the plural stay the same. den is also the dative plural, and there the noun adds an -n: mit den Kindern.",
+      "mnemonic": "Accusative = only the man moves: der → den.",
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "grammar",
+        "article",
+        "accusative"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "der",
+        "dem",
+        "einen"
+      ]
+    },
+    {
+      "id": "dem",
+      "word": "dem",
+      "lemma": "dem",
+      "translation": "the (masculine/neuter, dative)",
+      "translations": [
+        "the (masculine/neuter, dative)",
+        "the"
+      ],
+      "level": "A1",
+      "category": "Articles & Question Words",
+      "partOfSpeech": "article",
+      "frequency": 60,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich fahre mit dem Fahrrad ins Büro.",
+          "en": "I ride my bike to the office."
+        },
+        {
+          "de": "Das Amt ist neben dem Bahnhof.",
+          "en": "The public office is next to the station."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wir treffen uns nach ___ Termin.",
+          "answer": "dem",
+          "en": "We'll meet after the appointment."
+        }
+      ],
+      "notes": "Dative of masculine and neuter (dem Mann, dem Kind); the feminine dative is der. Always after mit, nach, von, zu, bei, aus, seit — and after in/an/auf when there is no movement.",
+      "mnemonic": "mit dem, von dem, zu dem — the dative prepositions drag 'dem' along.",
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "grammar",
+        "article",
+        "dative"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "der",
+        "den",
+        "einem",
+        "wem"
+      ]
+    },
+    {
+      "id": "des",
+      "word": "des",
+      "lemma": "des",
+      "translation": "the (masculine/neuter, genitive)",
+      "translations": [
+        "the (masculine/neuter, genitive)",
+        "of the"
+      ],
+      "level": "A2",
+      "category": "Articles & Question Words",
+      "partOfSpeech": "article",
+      "frequency": 320,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Am Ende des Monats zahle ich die Miete.",
+          "en": "At the end of the month I pay the rent."
+        },
+        {
+          "de": "Die Adresse des Vermieters steht im Vertrag.",
+          "en": "The landlord's address is in the contract."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Preis ___ Zimmers ist zu hoch.",
+          "answer": "des",
+          "en": "The price of the room is too high."
+        }
+      ],
+      "notes": "Genitive masculine/neuter; the noun itself adds -s or -es (des Monats, des Kindes). Feminine and plural genitive is der. In everyday speech Germans usually replace it with von dem / von der.",
+      "mnemonic": "des + noun with -s: des Monats — the s doubles up.",
+      "germany_context": "Contracts and official letters are full of genitives: 'Ende des Mietverhältnisses', 'Höhe der Kaution', 'innerhalb des Zeitraums'. You rarely say it, but you must read it.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "grammar",
+        "article",
+        "genitive",
+        "formal"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "der",
+        "dem",
+        "das"
+      ]
+    },
+    {
+      "id": "ein",
+      "word": "ein",
+      "lemma": "ein",
+      "translation": "a (masculine/neuter, nominative)",
+      "translations": [
+        "a (masculine/neuter, nominative)",
+        "a",
+        "an"
+      ],
+      "level": "A0",
+      "category": "Articles & Question Words",
+      "partOfSpeech": "article",
+      "frequency": 8,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Das ist ein guter Preis.",
+          "en": "That's a good price."
+        },
+        {
+          "de": "Ein Bier, bitte!",
+          "en": "One beer, please!"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Hier ist ___ Formular für die Anmeldung.",
+          "answer": "ein",
+          "en": "Here is a form for the registration."
+        }
+      ],
+      "notes": "Used for masculine and neuter in the nominative (ein Mann, ein Kind). There is no plural form — you simply drop it: 'Ich kaufe Äpfel.'",
+      "mnemonic": "ein also means 'one' — same word, so 'ein Bier' is both 'a beer' and 'one beer'.",
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "grammar",
+        "article",
+        "indefinite",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "kein"
+      ],
+      "related": [
+        "eine",
+        "einen",
+        "einem",
+        "kein"
+      ]
+    },
+    {
+      "id": "eine",
+      "word": "eine",
+      "lemma": "eine",
+      "translation": "a (feminine)",
+      "translations": [
+        "a (feminine)",
+        "a",
+        "an"
+      ],
+      "level": "A0",
+      "category": "Articles & Question Words",
+      "partOfSpeech": "article",
+      "frequency": 9,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich suche eine Wohnung in Berlin.",
+          "en": "I'm looking for a flat in Berlin."
+        },
+        {
+          "de": "Eine Fahrkarte nach Köln, bitte.",
+          "en": "One ticket to Cologne, please."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich hätte gern ___ Tasse Kaffee.",
+          "answer": "eine",
+          "en": "I'd like a cup of coffee."
+        }
+      ],
+      "notes": "Feminine, and identical in nominative and accusative: 'Eine Frau kommt' / 'Ich sehe eine Frau'. The feminine dative is einer.",
+      "mnemonic": "die → eine: the feminine article always ends in -e.",
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "grammar",
+        "article",
+        "indefinite",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "keine"
+      ],
+      "related": [
+        "ein",
+        "einen",
+        "keine"
+      ]
+    },
+    {
+      "id": "einen",
+      "word": "einen",
+      "lemma": "einen",
+      "translation": "a (masculine, accusative)",
+      "translations": [
+        "a (masculine, accusative)",
+        "a",
+        "an"
+      ],
+      "level": "A1",
+      "category": "Articles & Question Words",
+      "partOfSpeech": "article",
+      "frequency": 50,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich brauche einen Termin beim Arzt.",
+          "en": "I need an appointment at the doctor's."
+        },
+        {
+          "de": "Hast du einen Moment Zeit?",
+          "en": "Do you have a moment?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich habe ___ Brief vom Amt bekommen.",
+          "answer": "einen",
+          "en": "I got a letter from the public office."
+        }
+      ],
+      "notes": "Accusative masculine of ein — same -n ending as der → den. 'Ich habe einen Bruder' but 'Ich habe ein Kind' (neuter doesn't change).",
+      "mnemonic": "der → den, ein → einen: masculine accusative always adds -n.",
+      "germany_context": "'Ich brauche einen Termin' is the single most useful sentence in Germany — doctors, Bürgeramt, banks and even some phone shops only serve you with an appointment.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "grammar",
+        "article",
+        "accusative",
+        "termin"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "keinen"
+      ],
+      "related": [
+        "ein",
+        "den",
+        "keinen"
+      ]
+    },
+    {
+      "id": "einem",
+      "word": "einem",
+      "lemma": "einem",
+      "translation": "a (masculine/neuter, dative)",
+      "translations": [
+        "a (masculine/neuter, dative)",
+        "a",
+        "an"
+      ],
+      "level": "A1",
+      "category": "Articles & Question Words",
+      "partOfSpeech": "article",
+      "frequency": 75,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich wohne in einem Altbau.",
+          "en": "I live in an old building."
+        },
+        {
+          "de": "Wir sprechen gerade mit einem Kollegen.",
+          "en": "We're talking to a colleague right now."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Sie arbeitet bei ___ großen Unternehmen.",
+          "answer": "einem",
+          "en": "She works at a big company."
+        }
+      ],
+      "notes": "Dative masculine/neuter; the feminine dative is einer. Triggered by mit, bei, von, zu, aus, nach, seit and by in/an/auf when nothing is moving.",
+      "mnemonic": "dem → einem: the dative ending -m sticks to both articles.",
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "grammar",
+        "article",
+        "dative",
+        "indefinite"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "ein",
+        "dem",
+        "einen"
+      ]
+    },
+    {
+      "id": "keine",
+      "word": "keine",
+      "lemma": "keine",
+      "translation": "no / not any (feminine or plural)",
+      "translations": [
+        "no / not any (feminine or plural)",
+        "not a"
+      ],
+      "level": "A1",
+      "category": "Articles & Question Words",
+      "partOfSpeech": "article",
+      "frequency": 55,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich habe heute keine Zeit.",
+          "en": "I don't have time today."
+        },
+        {
+          "de": "Keine Ahnung, tut mir leid.",
+          "en": "No idea, sorry."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wir nehmen ___ Kreditkarte, nur Bargeld.",
+          "answer": "keine",
+          "en": "We don't take credit cards, only cash."
+        }
+      ],
+      "notes": "Covers feminine singular and ALL plurals: keine Zeit, keine Kinder. 'Keine Ahnung' (no idea) and 'keine Sorge' (no worries) are everyday spoken German.",
+      "mnemonic": "eine → keine: just glue a K on the front.",
+      "germany_context": "'Wir nehmen keine Karte' is still a real answer in bakeries, Kneipen, Spätis and at markets — always carry some Bargeld.",
+      "emoji": "🚫",
+      "imageable": false,
+      "tags": [
+        "grammar",
+        "article",
+        "negation",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "eine"
+      ],
+      "related": [
+        "kein",
+        "keinen",
+        "eine"
+      ]
+    },
+    {
+      "id": "keinen",
+      "word": "keinen",
+      "lemma": "keinen",
+      "translation": "no / not a (masculine, accusative)",
+      "translations": [
+        "no / not a (masculine, accusative)",
+        "not any"
+      ],
+      "level": "A1",
+      "category": "Articles & Question Words",
+      "partOfSpeech": "article",
+      "frequency": 110,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich habe keinen Hunger.",
+          "en": "I'm not hungry."
+        },
+        {
+          "de": "Wir haben leider keinen Termin bekommen.",
+          "en": "Unfortunately we didn't get an appointment."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich trinke ___ Alkohol mehr.",
+          "answer": "keinen",
+          "en": "I don't drink alcohol anymore."
+        }
+      ],
+      "notes": "Accusative masculine of kein. German negates the noun here, not the verb: 'Ich habe keinen Hunger / keinen Durst', never 'Ich habe nicht Hunger'.",
+      "mnemonic": "einen → keinen: same ending, extra K.",
+      "germany_context": null,
+      "emoji": "🚫",
+      "imageable": false,
+      "tags": [
+        "grammar",
+        "article",
+        "negation",
+        "accusative"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "einen"
+      ],
+      "related": [
+        "kein",
+        "keine",
+        "einen"
+      ]
+    },
+    {
+      "id": "wer",
+      "word": "wer",
+      "lemma": "wer",
+      "translation": "who",
+      "translations": [
+        "who"
+      ],
+      "level": "A0",
+      "category": "Articles & Question Words",
+      "partOfSpeech": "pronoun",
+      "frequency": 20,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Wer ist da?",
+          "en": "Who's there?"
+        },
+        {
+          "de": "Wer kommt heute Abend mit?",
+          "en": "Who's coming along tonight?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ hat den Termin gemacht?",
+          "answer": "Wer",
+          "en": "Who made the appointment?"
+        }
+      ],
+      "notes": "Nominative — asks for the subject. Classic false friend: German wer means 'who', not 'where'. 'Where' is wo.",
+      "mnemonic": "wer looks like 'where' but means WHO — and wo looks like 'who' but means WHERE. Swap them in your head.",
+      "germany_context": null,
+      "emoji": "🧑",
+      "imageable": false,
+      "tags": [
+        "question-word",
+        "essential",
+        "nominative"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "wen",
+        "wem",
+        "was",
+        "wo"
+      ]
+    },
+    {
+      "id": "wen",
+      "word": "wen",
+      "lemma": "wen",
+      "translation": "whom (accusative)",
+      "translations": [
+        "whom (accusative)",
+        "who"
+      ],
+      "level": "A2",
+      "category": "Articles & Question Words",
+      "partOfSpeech": "pronoun",
+      "frequency": 240,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Wen rufst du an?",
+          "en": "Who are you calling?"
+        },
+        {
+          "de": "Wen hast du gestern getroffen?",
+          "en": "Who did you meet yesterday?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ fragen wir, wenn der Aufzug kaputt ist?",
+          "answer": "Wen",
+          "en": "Who do we ask when the lift is broken?"
+        }
+      ],
+      "notes": "Accusative of wer — asks for the direct object. The set wer / wen / wem copies der / den / dem exactly, so if you know the articles you already know these.",
+      "mnemonic": "den → wen: same -n, same accusative job.",
+      "germany_context": null,
+      "emoji": "🧑",
+      "imageable": false,
+      "tags": [
+        "question-word",
+        "accusative"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "wer",
+        "wem",
+        "den"
+      ]
+    },
+    {
+      "id": "wo",
+      "word": "wo",
+      "lemma": "wo",
+      "translation": "where (position)",
+      "translations": [
+        "where (position)",
+        "where"
+      ],
+      "level": "A0",
+      "category": "Articles & Question Words",
+      "partOfSpeech": "adverb",
+      "frequency": 15,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Wo ist die Toilette?",
+          "en": "Where is the toilet?"
+        },
+        {
+          "de": "Wo wohnst du?",
+          "en": "Where do you live?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ finde ich hier einen Geldautomaten?",
+          "answer": "Wo",
+          "en": "Where can I find a cash machine around here?"
+        }
+      ],
+      "notes": "wo asks about a POSITION, no movement, and the answer takes the dative: 'Wo bist du?' — 'Im Büro.' For direction use wohin, for origin woher. Mixing these three up is the classic beginner mistake.",
+      "mnemonic": "wo = static. wo + hin = away from me. wo + her = towards me.",
+      "germany_context": null,
+      "emoji": "📍",
+      "imageable": false,
+      "tags": [
+        "question-word",
+        "essential",
+        "location"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "wohin",
+        "woher",
+        "wer"
+      ]
+    },
+    {
+      "id": "wohin",
+      "word": "wohin",
+      "lemma": "wohin",
+      "translation": "where to",
+      "translations": [
+        "where to",
+        "where"
+      ],
+      "level": "A1",
+      "category": "Articles & Question Words",
+      "partOfSpeech": "adverb",
+      "frequency": 130,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Wohin gehst du?",
+          "en": "Where are you going?"
+        },
+        {
+          "de": "Wohin fährt dieser Bus?",
+          "en": "Where does this bus go?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ muss ich das Formular schicken?",
+          "answer": "Wohin",
+          "en": "Where do I have to send the form to?"
+        }
+      ],
+      "notes": "Direction TO somewhere; the answer takes the accusative (in die Stadt, nach Hause, zum Arzt). Germans very often split it: 'Wo gehst du hin?' means exactly the same.",
+      "mnemonic": "hin = away from the speaker, so wohin = 'where to?'",
+      "germany_context": null,
+      "emoji": "➡️",
+      "imageable": false,
+      "tags": [
+        "question-word",
+        "direction"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "woher"
+      ],
+      "related": [
+        "wo",
+        "woher"
+      ]
+    },
+    {
+      "id": "woher",
+      "word": "woher",
+      "lemma": "woher",
+      "translation": "where from",
+      "translations": [
+        "where from",
+        "from where"
+      ],
+      "level": "A1",
+      "category": "Articles & Question Words",
+      "partOfSpeech": "adverb",
+      "frequency": 125,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Woher kommst du?",
+          "en": "Where are you from?"
+        },
+        {
+          "de": "Woher weißt du das?",
+          "en": "How do you know that?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ hast du diese Adresse?",
+          "answer": "Woher",
+          "en": "Where did you get this address from?"
+        }
+      ],
+      "notes": "Asks about origin. Answer with aus for countries and cities (aus der Türkei, aus Istanbul) or von for people and points (vom Arzt). The split form 'Wo kommst du her?' is just as common in speech.",
+      "mnemonic": "her = towards the speaker, so woher = 'where from?'",
+      "germany_context": null,
+      "emoji": "⬅️",
+      "imageable": false,
+      "tags": [
+        "question-word",
+        "origin",
+        "smalltalk"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "wohin"
+      ],
+      "related": [
+        "wo",
+        "wohin"
+      ]
+    },
+    {
+      "id": "wann",
+      "word": "wann",
+      "lemma": "wann",
+      "translation": "when",
+      "translations": [
+        "when",
+        "at what time"
+      ],
+      "level": "A0",
+      "category": "Articles & Question Words",
+      "partOfSpeech": "adverb",
+      "frequency": 30,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Wann fängt der Film an?",
+          "en": "When does the film start?"
+        },
+        {
+          "de": "Wann hast du Zeit?",
+          "en": "When do you have time?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ schließt der Supermarkt?",
+          "answer": "Wann",
+          "en": "When does the supermarket close?"
+        }
+      ],
+      "notes": "wann only asks questions. In a statement 'when' is wenn (for repeated or future events) or als (for one single event in the past) — never wann.",
+      "mnemonic": "wann = question mark; wenn = if/whenever; als = that one time back then.",
+      "germany_context": "Worth asking everywhere: shops are shut all day Sunday, most supermarkets close by 20:00-22:00, and Bürgeramt counters often close at lunchtime.",
+      "emoji": "🕐",
+      "imageable": false,
+      "tags": [
+        "question-word",
+        "essential",
+        "time"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "wie-lange",
+        "wie-oft",
+        "wo"
+      ]
+    },
+    {
+      "id": "wie",
+      "word": "wie",
+      "lemma": "wie",
+      "translation": "how",
+      "translations": [
+        "how",
+        "what … like"
+      ],
+      "level": "A0",
+      "category": "Articles & Question Words",
+      "partOfSpeech": "adverb",
+      "frequency": 10,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Wie geht es dir?",
+          "en": "How are you?"
+        },
+        {
+          "de": "Wie komme ich zum Hauptbahnhof?",
+          "en": "How do I get to the main station?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ heißt du?",
+          "answer": "Wie",
+          "en": "What's your name?"
+        }
+      ],
+      "notes": "Watch the German logic: 'Wie heißt du?' is literally 'how are you called' — say that, not 'Was ist dein Name?'. wie also builds wie viel, wie viele, wie lange, wie oft, and means 'like' in comparisons: so groß wie ich.",
+      "mnemonic": "Wie? = How? — the two most common German questions both start with W.",
+      "germany_context": null,
+      "emoji": "🤔",
+      "imageable": false,
+      "tags": [
+        "question-word",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "wie-viel",
+        "wie-viele",
+        "wie-lange",
+        "wie-oft"
+      ]
+    },
+    {
+      "id": "warum",
+      "word": "warum",
+      "lemma": "warum",
+      "translation": "why",
+      "translations": [
+        "why"
+      ],
+      "level": "A1",
+      "category": "Articles & Question Words",
+      "partOfSpeech": "adverb",
+      "frequency": 70,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Warum bist du so müde?",
+          "en": "Why are you so tired?"
+        },
+        {
+          "de": "Warum ist das Amt heute geschlossen?",
+          "en": "Why is the office closed today?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ hast du nicht angerufen?",
+          "answer": "Warum",
+          "en": "Why didn't you call?"
+        }
+      ],
+      "notes": "warum, wieso and weshalb all mean 'why'; warum is the neutral standard. The answer normally starts with weil and pushes the verb to the end: 'Weil ich krank bin.'",
+      "mnemonic": "warum → weil: the question and its answer both start with W.",
+      "germany_context": null,
+      "emoji": "❓",
+      "imageable": false,
+      "tags": [
+        "question-word",
+        "essential"
+      ],
+      "synonyms": [
+        "wieso",
+        "weshalb"
+      ],
+      "antonyms": [],
+      "related": [
+        "wieso",
+        "wie"
+      ]
+    },
+    {
+      "id": "wieso",
+      "word": "wieso",
+      "lemma": "wieso",
+      "translation": "why",
+      "translations": [
+        "why",
+        "how come"
+      ],
+      "level": "A2",
+      "category": "Articles & Question Words",
+      "partOfSpeech": "adverb",
+      "frequency": 350,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Wieso denn nicht?",
+          "en": "Why not?"
+        },
+        {
+          "de": "Wieso hast du das nicht gesagt?",
+          "en": "How come you didn't say that?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ dauert das so lange?",
+          "answer": "Wieso",
+          "en": "How come it's taking so long?"
+        }
+      ],
+      "notes": "Everyday spoken variant of warum, with a slightly more surprised or curious tone. 'Wieso denn?' is extremely common in conversation; in writing prefer warum.",
+      "mnemonic": "wie + so = 'how so?' — literally the English equivalent.",
+      "germany_context": null,
+      "emoji": "❓",
+      "imageable": false,
+      "tags": [
+        "question-word",
+        "spoken"
+      ],
+      "synonyms": [
+        "warum",
+        "weshalb"
+      ],
+      "antonyms": [],
+      "related": [
+        "warum",
+        "wie"
+      ]
+    },
+    {
+      "id": "welcher",
+      "word": "welcher",
+      "lemma": "welcher",
+      "translation": "which",
+      "translations": [
+        "which",
+        "which one"
+      ],
+      "level": "A1",
+      "category": "Articles & Question Words",
+      "partOfSpeech": "pronoun",
+      "frequency": 150,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Welcher Bus fährt zum Flughafen?",
+          "en": "Which bus goes to the airport?"
+        },
+        {
+          "de": "In welchem Stock wohnst du?",
+          "en": "Which floor do you live on?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ Tag passt dir am besten?",
+          "answer": "Welcher",
+          "en": "Which day suits you best?"
+        }
+      ],
+      "notes": "welcher takes der/die/das endings: welcher Bus, welche Linie, welches Formular, welchen Termin (akk.), welchem Stock (dat.). Use welcher to choose from a known set, and was für ein to ask what KIND of thing.",
+      "mnemonic": "welcheR / welchE / welcheS — copy the ending of der / die / das.",
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "question-word",
+        "determiner"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "was-fuer-ein",
+        "was",
+        "der"
+      ]
+    },
+    {
+      "id": "was-fuer-ein",
+      "word": "was für ein",
+      "lemma": "was für ein",
+      "translation": "what kind of",
+      "translations": [
+        "what kind of",
+        "what sort of"
+      ],
+      "level": "A2",
+      "category": "Articles & Question Words",
+      "partOfSpeech": "phrase",
+      "frequency": 400,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Was für ein Handy hast du?",
+          "en": "What kind of phone do you have?"
+        },
+        {
+          "de": "Was für eine Wohnung suchst du?",
+          "en": "What kind of flat are you looking for?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ Vertrag ist das — befristet oder unbefristet?",
+          "answer": "Was für ein",
+          "en": "What kind of contract is that — fixed-term or permanent?"
+        }
+      ],
+      "notes": "Asks about the type, not the choice: 'Was für ein Auto?' (what sort) vs 'Welches Auto?' (which one of these). The ein part declines with the noun — was für einen Job, was für eine Wohnung — and in the plural you just drop it: 'Was für Filme magst du?'",
+      "mnemonic": "Don't translate für as 'for' here — the whole chunk simply means 'what kind of'.",
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "question-word",
+        "phrase"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "welcher",
+        "was",
+        "ein"
+      ]
+    },
+    {
+      "id": "wie-viel",
+      "word": "wie viel",
+      "lemma": "wie viel",
+      "translation": "how much",
+      "translations": [
+        "how much"
+      ],
+      "level": "A0",
+      "category": "Articles & Question Words",
+      "partOfSpeech": "phrase",
+      "frequency": 35,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Wie viel kostet das?",
+          "en": "How much does that cost?"
+        },
+        {
+          "de": "Wie viel Miete zahlst du?",
+          "en": "How much rent do you pay?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ Zeit brauchst du noch?",
+          "answer": "Wie viel",
+          "en": "How much more time do you need?"
+        }
+      ],
+      "notes": "Written as two words in current spelling: wie viel, not 'wieviel'. Use it for uncountable things (Geld, Zeit, Miete); for countable things use wie viele.",
+      "mnemonic": "viel = much, viele = many — the -e makes it plural.",
+      "germany_context": "'Wie viel Pfand ist das?' — most bottles and cans carry 8-25 cents deposit that you get back at the Pfandautomat in any supermarket.",
+      "emoji": "💶",
+      "imageable": false,
+      "tags": [
+        "question-word",
+        "essential",
+        "shopping",
+        "money"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "wie-viele",
+        "wie",
+        "was"
+      ]
+    },
+    {
+      "id": "wie-viele",
+      "word": "wie viele",
+      "lemma": "wie viele",
+      "translation": "how many",
+      "translations": [
+        "how many"
+      ],
+      "level": "A1",
+      "category": "Articles & Question Words",
+      "partOfSpeech": "phrase",
+      "frequency": 140,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Wie viele Zimmer hat die Wohnung?",
+          "en": "How many rooms does the flat have?"
+        },
+        {
+          "de": "Wie viele Personen seid ihr?",
+          "en": "How many of you are there?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ Tage Urlaub hast du im Jahr?",
+          "answer": "Wie viele",
+          "en": "How many days of holiday do you get per year?"
+        }
+      ],
+      "notes": "The countable version of wie viel. The noun after it is plural and takes no article: wie viele Kinder, wie viele Tage, wie viele Zimmer.",
+      "mnemonic": "many → viele: both have more letters than 'much → viel'.",
+      "germany_context": "Flats are advertised by room count without kitchen and bathroom: a '2-Zimmer-Wohnung' means living room plus bedroom, and 'Zi.' in an ad is short for Zimmer.",
+      "emoji": "🔢",
+      "imageable": false,
+      "tags": [
+        "question-word",
+        "counting",
+        "wohnung"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "wie-viel",
+        "wie"
+      ]
+    },
+    {
+      "id": "wie-lange",
+      "word": "wie lange",
+      "lemma": "wie lange",
+      "translation": "how long",
+      "translations": [
+        "how long",
+        "for how long"
+      ],
+      "level": "A1",
+      "category": "Articles & Question Words",
+      "partOfSpeech": "phrase",
+      "frequency": 160,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Wie lange dauert die Fahrt?",
+          "en": "How long does the journey take?"
+        },
+        {
+          "de": "Wie lange wohnst du schon in Berlin?",
+          "en": "How long have you been living in Berlin?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ ist das Ticket gültig?",
+          "answer": "Wie lange",
+          "en": "How long is the ticket valid for?"
+        }
+      ],
+      "notes": "Asks about duration. With schon or seit German uses the PRESENT tense where English uses the perfect: 'Wie lange wohnst du schon hier?' — 'Seit zwei Jahren.'",
+      "mnemonic": "lange = long (time), lang = long (thing).",
+      "germany_context": "A deadline you'll actually need: after moving in you have 14 days to do the Anmeldung at the Bürgeramt, so 'Wie lange habe ich Zeit?' is a fair question at the counter.",
+      "emoji": "⏳",
+      "imageable": false,
+      "tags": [
+        "question-word",
+        "time",
+        "duration"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "wann",
+        "wie-oft",
+        "wie"
+      ]
+    },
+    {
+      "id": "wie-oft",
+      "word": "wie oft",
+      "lemma": "wie oft",
+      "translation": "how often",
+      "translations": [
+        "how often",
+        "how many times"
+      ],
+      "level": "A2",
+      "category": "Articles & Question Words",
+      "partOfSpeech": "phrase",
+      "frequency": 260,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Wie oft fährt die Bahn?",
+          "en": "How often does the train run?"
+        },
+        {
+          "de": "Wie oft gehst du ins Fitnessstudio?",
+          "en": "How often do you go to the gym?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ kommt der Bus am Wochenende?",
+          "answer": "Wie oft",
+          "en": "How often does the bus come at the weekend?"
+        }
+      ],
+      "notes": "Typical answers: einmal / zweimal die Woche, jeden Tag, selten, nie. The same phrase also means 'how many times': 'Wie oft warst du schon dort?'",
+      "mnemonic": "oft = often — almost the same word.",
+      "germany_context": "Rubbish collection runs on a fixed rota — Restmüll, Biomüll, Papier and Gelber Sack each have their own pickup day, so ask the Hausmeister 'Wie oft wird der Müll abgeholt?'",
+      "emoji": "🔁",
+      "imageable": false,
+      "tags": [
+        "question-word",
+        "frequency",
+        "time"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "wann",
+        "wie-lange",
+        "wie"
+      ]
+    }
+  ]
+}

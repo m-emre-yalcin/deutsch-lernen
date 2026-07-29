@@ -1,0 +1,3036 @@
+{
+  "category": "Prepositions",
+  "words": [
+    {
+      "id": "in",
+      "word": "in",
+      "lemma": "in",
+      "translation": "in",
+      "translations": [
+        "in",
+        "into",
+        "to"
+      ],
+      "level": "A0",
+      "category": "Prepositions",
+      "partOfSpeech": "preposition",
+      "frequency": 5,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich wohne in Berlin.",
+          "en": "I live in Berlin."
+        },
+        {
+          "de": "Ich gehe in die Küche.",
+          "en": "I am going into the kitchen."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wir sind ___ einem Restaurant.",
+          "answer": "in",
+          "en": "We are in a restaurant."
+        }
+      ],
+      "notes": "Wechselpräposition. Wohin? (movement) = Akkusativ: Ich gehe in die Stadt. Wo? (location) = Dativ: Ich bin in der Stadt. Contractions: in dem = im, in das = ins.",
+      "mnemonic": null,
+      "germany_context": "In Bus und Bahn there are no ticket barriers, but plain-clothes Kontrolleure check tickets. Riding without a valid ticket costs 60 Euro (erhöhtes Beförderungsentgelt).",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "preposition",
+        "wechselpraeposition",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "aus"
+      ],
+      "related": [
+        "im",
+        "ins",
+        "an",
+        "auf"
+      ]
+    },
+    {
+      "id": "im",
+      "word": "im",
+      "lemma": "im",
+      "translation": "in the",
+      "translations": [
+        "in the",
+        "at the"
+      ],
+      "level": "A0",
+      "category": "Prepositions",
+      "partOfSpeech": "preposition",
+      "frequency": 8,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Milch ist im Kühlschrank.",
+          "en": "The milk is in the fridge."
+        },
+        {
+          "de": "Im Sommer ist es hier sehr warm.",
+          "en": "In summer it is very warm here."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wir treffen uns ___ Park.",
+          "answer": "im",
+          "en": "We are meeting in the park."
+        }
+      ],
+      "notes": "im = in + dem, so it is always Dativ and answers wo? (location). Only for der/das nouns; for feminine nouns you say in der. Also used for months and seasons: im Mai, im Winter.",
+      "mnemonic": "in + dem squeezed together = im.",
+      "germany_context": "Im Supermarkt you bag your own groceries at the Kasse and are expected to be quick. Bring your own bag (plastic bags cost money) and a 1-Euro coin or chip for the Einkaufswagen.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "preposition",
+        "contraction",
+        "dativ"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "in",
+        "ins",
+        "am"
+      ]
+    },
+    {
+      "id": "am",
+      "word": "am",
+      "lemma": "am",
+      "translation": "at the",
+      "translations": [
+        "at the",
+        "on the"
+      ],
+      "level": "A0",
+      "category": "Prepositions",
+      "partOfSpeech": "preposition",
+      "frequency": 10,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Wir sitzen am Tisch und essen.",
+          "en": "We are sitting at the table eating."
+        },
+        {
+          "de": "Am Montag habe ich einen Termin.",
+          "en": "On Monday I have an appointment."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Das Hotel liegt direkt ___ Bahnhof.",
+          "answer": "am",
+          "en": "The hotel is right by the train station."
+        }
+      ],
+      "notes": "am = an + dem, always Dativ, answers wo? Used for days and dates (am Montag, am 3. Mai) and for am Wochenende. For feminine nouns: an der.",
+      "mnemonic": "an + dem = am.",
+      "germany_context": "Die Miete ist am Monatsanfang fällig, normally by the third Werktag. Almost everyone pays it by Dauerauftrag from their Girokonto.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "preposition",
+        "contraction",
+        "dativ",
+        "time"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "an",
+        "ans",
+        "im"
+      ]
+    },
+    {
+      "id": "mit",
+      "word": "mit",
+      "lemma": "mit",
+      "translation": "with",
+      "translations": [
+        "with",
+        "by"
+      ],
+      "level": "A0",
+      "category": "Prepositions",
+      "partOfSpeech": "preposition",
+      "frequency": 12,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich fahre mit dem Bus zur Arbeit.",
+          "en": "I go to work by bus."
+        },
+        {
+          "de": "Kommst du mit mir ins Kino?",
+          "en": "Are you coming to the cinema with me?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Kann ich ___ Karte bezahlen?",
+          "answer": "mit",
+          "en": "Can I pay by card?"
+        }
+      ],
+      "notes": "Always Dativ: mit mir, mit dem Auto, mit der Bahn. Also expresses means of transport, where English uses by.",
+      "mnemonic": "mit is English with (the w became m).",
+      "germany_context": "Cash is still king in Germany. Many Baeckereien, Kneipen and Imbisse are Bargeld only. The debit card (Girocard/EC-Karte) works nearly everywhere, credit cards often do not.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "preposition",
+        "dativ",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "ohne"
+      ],
+      "related": [
+        "ohne",
+        "bei",
+        "von"
+      ]
+    },
+    {
+      "id": "auf",
+      "word": "auf",
+      "lemma": "auf",
+      "translation": "on",
+      "translations": [
+        "on",
+        "onto",
+        "at"
+      ],
+      "level": "A0",
+      "category": "Prepositions",
+      "partOfSpeech": "preposition",
+      "frequency": 15,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Das Buch liegt auf dem Tisch.",
+          "en": "The book is lying on the table."
+        },
+        {
+          "de": "Leg den Schlüssel bitte auf den Tisch.",
+          "en": "Please put the key on the table."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wir warten ___ den Bus.",
+          "answer": "auf",
+          "en": "We are waiting for the bus."
+        }
+      ],
+      "notes": "Wechselpräposition. Wohin? = Akkusativ (leg es auf den Tisch), wo? = Dativ (es liegt auf dem Tisch). auf for horizontal surfaces, an for vertical ones. Fixed: warten auf + Akkusativ, sich freuen auf + Akkusativ, auf Deutsch.",
+      "mnemonic": "auf sounds like up: something sits up on top.",
+      "germany_context": "Auf fast alle Plastikflaschen und Dosen gibt es Pfand (0,25 Euro), auf viele Glasflaschen 0,08 bis 0,15 Euro. Return them at the Pfandautomat in the supermarket and you get a voucher for the till.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "preposition",
+        "wechselpraeposition",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "unter"
+      ],
+      "related": [
+        "aufs",
+        "an",
+        "in",
+        "unter"
+      ]
+    },
+    {
+      "id": "zum",
+      "word": "zum",
+      "lemma": "zum",
+      "translation": "to the",
+      "translations": [
+        "to the"
+      ],
+      "level": "A0",
+      "category": "Prepositions",
+      "partOfSpeech": "preposition",
+      "frequency": 16,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Wie komme ich zum Bahnhof?",
+          "en": "How do I get to the train station?"
+        },
+        {
+          "de": "Morgen gehe ich zum Arzt.",
+          "en": "Tomorrow I am going to the doctor."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Bringst du mich ___ Flughafen?",
+          "answer": "zum",
+          "en": "Will you take me to the airport?"
+        }
+      ],
+      "notes": "zum = zu + dem, always Dativ, used with der/das nouns. Feminine nouns take zur. Also in set phrases: zum Beispiel, zum Mitnehmen (takeaway), zum Glück.",
+      "mnemonic": "zu + dem = zum.",
+      "germany_context": "Zum Arzt always bring your Versichertenkarte. Most practices only see you with a Termin, and for a Facharzt the wait can be weeks, so call early in the morning.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "preposition",
+        "contraction",
+        "dativ",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "zu",
+        "zur",
+        "vom"
+      ]
+    },
+    {
+      "id": "fuer",
+      "word": "für",
+      "lemma": "für",
+      "translation": "for",
+      "translations": [
+        "for"
+      ],
+      "level": "A0",
+      "category": "Prepositions",
+      "partOfSpeech": "preposition",
+      "frequency": 18,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Das Geschenk ist für dich.",
+          "en": "The present is for you."
+        },
+        {
+          "de": "Ich arbeite für eine kleine Firma.",
+          "en": "I work for a small company."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Danke ___ deine Hilfe!",
+          "answer": "für",
+          "en": "Thanks for your help!"
+        }
+      ],
+      "notes": "Always Akkusativ: für mich, für dich, für den Chef, für die Wohnung. Contraction: für das = fürs.",
+      "mnemonic": "für is English for.",
+      "germany_context": "Für guten Service gibt man im Restaurant 5 bis 10 Prozent Trinkgeld. You do not leave it on the table: when paying you say the total you want to pay, e.g. Machen Sie 20 Euro.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "preposition",
+        "akkusativ",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "gegen"
+      ],
+      "related": [
+        "fuers",
+        "gegen",
+        "ohne"
+      ]
+    },
+    {
+      "id": "von",
+      "word": "von",
+      "lemma": "von",
+      "translation": "from",
+      "translations": [
+        "from",
+        "of",
+        "by"
+      ],
+      "level": "A0",
+      "category": "Prepositions",
+      "partOfSpeech": "preposition",
+      "frequency": 20,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Das ist ein Geschenk von meiner Mutter.",
+          "en": "This is a present from my mother."
+        },
+        {
+          "de": "Ich komme gerade von der Arbeit.",
+          "en": "I am just coming from work."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Das Auto ___ meinem Bruder ist neu.",
+          "answer": "von",
+          "en": "My brother's car is new."
+        }
+      ],
+      "notes": "Always Dativ. In everyday speech von replaces the genitive: das Auto von meinem Bruder instead of das Auto meines Bruders. von dem = vom (von der stays separate).",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "preposition",
+        "dativ",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "zu"
+      ],
+      "related": [
+        "vom",
+        "aus",
+        "zu"
+      ]
+    },
+    {
+      "id": "zu",
+      "word": "zu",
+      "lemma": "zu",
+      "translation": "to",
+      "translations": [
+        "to",
+        "at"
+      ],
+      "level": "A0",
+      "category": "Prepositions",
+      "partOfSpeech": "preposition",
+      "frequency": 22,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Heute Abend gehe ich zu einem Freund.",
+          "en": "This evening I am going to a friend's place."
+        },
+        {
+          "de": "Wie komme ich zu dieser Adresse?",
+          "en": "How do I get to this address?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Weg ___ meiner Wohnung ist kurz.",
+          "answer": "zu",
+          "en": "The way to my flat is short."
+        }
+      ],
+      "notes": "Always Dativ. Use zu for people and specific buildings (zu Anna, zu Aldi, zu meinem Chef), nach for cities and countries. zu dem = zum, zu der = zur. Careful: zu also means closed (Der Laden hat zu) and too (zu teuer).",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "preposition",
+        "dativ",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "von"
+      ],
+      "related": [
+        "zum",
+        "zur",
+        "nach",
+        "zu-hause"
+      ]
+    },
+    {
+      "id": "zur",
+      "word": "zur",
+      "lemma": "zur",
+      "translation": "to the",
+      "translations": [
+        "to the"
+      ],
+      "level": "A0",
+      "category": "Prepositions",
+      "partOfSpeech": "preposition",
+      "frequency": 24,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich fahre mit dem Rad zur Arbeit.",
+          "en": "I ride my bike to work."
+        },
+        {
+          "de": "Meine Tochter geht schon zur Schule.",
+          "en": "My daughter already goes to school."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wie komme ich ___ Post?",
+          "answer": "zur",
+          "en": "How do I get to the post office?"
+        }
+      ],
+      "notes": "zur = zu + der, always Dativ, used with feminine nouns (zur Arbeit, zur Bank, zur Apotheke). For der/das nouns use zum.",
+      "mnemonic": "zu + der = zur.",
+      "germany_context": "Zur Arbeit mit Bus und Bahn: the Deutschlandticket is a monthly subscription (around 60 Euro) valid on all regional public transport nationwide. Many employers subsidise it as a Jobticket.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "preposition",
+        "contraction",
+        "dativ",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "zu",
+        "zum"
+      ]
+    },
+    {
+      "id": "an",
+      "word": "an",
+      "lemma": "an",
+      "translation": "at",
+      "translations": [
+        "at",
+        "on",
+        "to"
+      ],
+      "level": "A1",
+      "category": "Prepositions",
+      "partOfSpeech": "preposition",
+      "frequency": 25,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Das Bild hängt an der Wand.",
+          "en": "The picture is hanging on the wall."
+        },
+        {
+          "de": "Ich schreibe eine E-Mail an meinen Chef.",
+          "en": "I am writing an email to my boss."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wir sitzen ___ einem großen Tisch.",
+          "answer": "an",
+          "en": "We are sitting at a big table."
+        }
+      ],
+      "notes": "Wechselpräposition. Wohin? = Akkusativ (ich hänge das Bild an die Wand), wo? = Dativ (das Bild hängt an der Wand). an = on a vertical surface or right next to something. an dem = am, an das = ans.",
+      "mnemonic": null,
+      "germany_context": "Dein Name muss an der Klingel und am Briefkasten stehen. Without it the postal worker returns letters as Empfaenger unbekannt, and official post (Behoerdenpost) counts as delivered even if you never saw it.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "preposition",
+        "wechselpraeposition"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "am",
+        "ans",
+        "auf",
+        "in"
+      ]
+    },
+    {
+      "id": "zu-hause",
+      "word": "zu Hause",
+      "lemma": "zu Hause",
+      "translation": "at home",
+      "translations": [
+        "at home",
+        "home"
+      ],
+      "level": "A1",
+      "category": "Prepositions",
+      "partOfSpeech": "phrase",
+      "frequency": 28,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich bin heute den ganzen Tag zu Hause.",
+          "en": "I am at home all day today."
+        },
+        {
+          "de": "Zu Hause sprechen wir Türkisch.",
+          "en": "At home we speak Turkish."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Am Sonntag bleiben wir ___.",
+          "answer": "zu Hause",
+          "en": "On Sunday we are staying at home."
+        }
+      ],
+      "notes": "Fixed phrase for the LOCATION (wo?): zu Hause = at home. zu always takes Dativ, and Hause is the old dative form of Haus. For the direction (wohin?) use nach Hause. Both spellings zu Hause and zuhause are correct today.",
+      "mnemonic": "zu Hause = the z is where you Zzz: you are already there.",
+      "germany_context": null,
+      "emoji": "🏠",
+      "imageable": false,
+      "tags": [
+        "preposition",
+        "phrase",
+        "home"
+      ],
+      "synonyms": [
+        "daheim"
+      ],
+      "antonyms": [
+        "nach-hause"
+      ],
+      "related": [
+        "nach-hause",
+        "zu"
+      ]
+    },
+    {
+      "id": "aus",
+      "word": "aus",
+      "lemma": "aus",
+      "translation": "from",
+      "translations": [
+        "from",
+        "out of",
+        "made of"
+      ],
+      "level": "A0",
+      "category": "Prepositions",
+      "partOfSpeech": "preposition",
+      "frequency": 30,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich komme aus der Türkei.",
+          "en": "I am from Turkey."
+        },
+        {
+          "de": "Er nimmt das Brot aus der Tasche.",
+          "en": "He takes the bread out of the bag."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Meine Kollegin kommt ___ Berlin.",
+          "answer": "aus",
+          "en": "My colleague is from Berlin."
+        }
+      ],
+      "notes": "Always Dativ. Use aus for your origin (aus der Türkei, aus Istanbul), for coming out of a closed space, and for materials: aus Holz, aus Glas.",
+      "mnemonic": "aus sounds like out.",
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "preposition",
+        "dativ",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "in"
+      ],
+      "related": [
+        "von",
+        "in",
+        "nach"
+      ]
+    },
+    {
+      "id": "nach-hause",
+      "word": "nach Hause",
+      "lemma": "nach Hause",
+      "translation": "home",
+      "translations": [
+        "home",
+        "homewards"
+      ],
+      "level": "A1",
+      "category": "Prepositions",
+      "partOfSpeech": "phrase",
+      "frequency": 33,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich gehe jetzt nach Hause.",
+          "en": "I am going home now."
+        },
+        {
+          "de": "Wann kommst du heute nach Hause?",
+          "en": "When are you coming home today?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Nach der Arbeit fahre ich sofort ___.",
+          "answer": "nach Hause",
+          "en": "After work I go straight home."
+        }
+      ],
+      "notes": "Fixed phrase for the DIRECTION (wohin?): nach Hause = (going) home. nach always takes Dativ, and Hause is the old dative form of Haus. For the location (wo?) use zu Hause.",
+      "mnemonic": "nach = towards, so nach Hause is the way home.",
+      "germany_context": null,
+      "emoji": "🏠",
+      "imageable": false,
+      "tags": [
+        "preposition",
+        "phrase",
+        "home"
+      ],
+      "synonyms": [
+        "heim"
+      ],
+      "antonyms": [
+        "zu-hause"
+      ],
+      "related": [
+        "zu-hause",
+        "nach"
+      ]
+    },
+    {
+      "id": "bei",
+      "word": "bei",
+      "lemma": "bei",
+      "translation": "at",
+      "translations": [
+        "at",
+        "with",
+        "near"
+      ],
+      "level": "A1",
+      "category": "Prepositions",
+      "partOfSpeech": "preposition",
+      "frequency": 35,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich wohne im Moment bei einem Freund.",
+          "en": "At the moment I am living at a friend's place."
+        },
+        {
+          "de": "Sie arbeitet bei einer großen Firma.",
+          "en": "She works for a big company."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wir treffen uns ___ meiner Kollegin.",
+          "answer": "bei",
+          "en": "We are meeting at my colleague's place."
+        }
+      ],
+      "notes": "Always Dativ. bei + person = at someone's home; bei + company = employed at; bei also means near (bei Köln) and during (bei Regen). bei dem = beim.",
+      "mnemonic": "bei sounds like English by.",
+      "germany_context": "If you sublet, your name must appear on the Briefkasten and Klingelschild, often written as bei Müller or c/o. Without it your post, including Behoerdenpost, is sent back.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "preposition",
+        "dativ"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "beim",
+        "mit",
+        "zu"
+      ]
+    },
+    {
+      "id": "nach",
+      "word": "nach",
+      "lemma": "nach",
+      "translation": "to",
+      "translations": [
+        "to",
+        "after"
+      ],
+      "level": "A1",
+      "category": "Prepositions",
+      "partOfSpeech": "preposition",
+      "frequency": 38,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Wir fliegen morgen nach Berlin.",
+          "en": "We are flying to Berlin tomorrow."
+        },
+        {
+          "de": "Nach der Arbeit gehe ich einkaufen.",
+          "en": "After work I go shopping."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Zug fährt um 8 Uhr ___ Hamburg.",
+          "answer": "nach",
+          "en": "The train leaves for Hamburg at 8 o'clock."
+        }
+      ],
+      "notes": "Always Dativ. Use nach with cities and countries WITHOUT an article (nach Berlin, nach Deutschland), but in die Türkei, in die Schweiz for countries with an article. Also means after in time: nach dem Essen.",
+      "mnemonic": null,
+      "germany_context": "Nach 22 Uhr gilt Nachtruhe: no washing machine, no drilling, no loud music until 6 Uhr. Neighbours really do complain, and the Hausordnung is part of your Mietvertrag.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "preposition",
+        "dativ",
+        "time"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "vor"
+      ],
+      "related": [
+        "zu",
+        "nach-hause",
+        "vor",
+        "seit"
+      ]
+    },
+    {
+      "id": "um",
+      "word": "um",
+      "lemma": "um",
+      "translation": "at",
+      "translations": [
+        "at",
+        "around",
+        "round"
+      ],
+      "level": "A1",
+      "category": "Prepositions",
+      "partOfSpeech": "preposition",
+      "frequency": 40,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Film beginnt um acht Uhr.",
+          "en": "The film starts at eight o'clock."
+        },
+        {
+          "de": "Wir laufen einmal um den See.",
+          "en": "We walk once around the lake."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Mein Zug fährt ___ 7:15 Uhr ab.",
+          "answer": "um",
+          "en": "My train leaves at 7:15."
+        }
+      ],
+      "notes": "Always Akkusativ: um den See, um die Ecke. With clock times um = at (um 8 Uhr). um das = ums. For approximate times use gegen or um ... herum.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🕐",
+      "imageable": false,
+      "tags": [
+        "preposition",
+        "akkusativ",
+        "time"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "ums",
+        "gegen",
+        "ab"
+      ]
+    },
+    {
+      "id": "ins",
+      "word": "ins",
+      "lemma": "ins",
+      "translation": "into the",
+      "translations": [
+        "into the",
+        "to the"
+      ],
+      "level": "A1",
+      "category": "Prepositions",
+      "partOfSpeech": "preposition",
+      "frequency": 42,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Am Freitag gehen wir ins Kino.",
+          "en": "On Friday we are going to the cinema."
+        },
+        {
+          "de": "Das Kind geht um acht ins Bett.",
+          "en": "The child goes to bed at eight."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Heute Abend gehen wir ___ Restaurant.",
+          "answer": "ins",
+          "en": "This evening we are going to a restaurant."
+        }
+      ],
+      "notes": "ins = in + das, always Akkusativ, so it answers wohin? (direction). Compare im (in + dem, Dativ, wo?): Ich gehe ins Büro, aber ich bin im Büro.",
+      "mnemonic": "in + das = ins: the s of das survives.",
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "preposition",
+        "contraction",
+        "akkusativ"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "in",
+        "im",
+        "ans"
+      ]
+    },
+    {
+      "id": "ueber",
+      "word": "über",
+      "lemma": "über",
+      "translation": "over",
+      "translations": [
+        "over",
+        "above",
+        "about"
+      ],
+      "level": "A1",
+      "category": "Prepositions",
+      "partOfSpeech": "preposition",
+      "frequency": 45,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Lampe hängt über dem Tisch.",
+          "en": "The lamp hangs above the table."
+        },
+        {
+          "de": "Wir sprechen über die Arbeit.",
+          "en": "We are talking about work."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Zug fährt ___ Frankfurt nach München.",
+          "answer": "über",
+          "en": "The train goes to Munich via Frankfurt."
+        }
+      ],
+      "notes": "Wechselpräposition. Wohin? = Akkusativ (die Lampe über den Tisch hängen), wo? = Dativ (sie hängt über dem Tisch). But sprechen/reden über is ALWAYS Akkusativ. über also means via and more than: über 100 Euro. über das = übers.",
+      "mnemonic": "über is English over (and the uber in Uber).",
+      "germany_context": null,
+      "emoji": "⬆️",
+      "imageable": false,
+      "tags": [
+        "preposition",
+        "wechselpraeposition"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "unter"
+      ],
+      "related": [
+        "uebers",
+        "unter",
+        "auf"
+      ]
+    },
+    {
+      "id": "vom",
+      "word": "vom",
+      "lemma": "vom",
+      "translation": "from the",
+      "translations": [
+        "from the",
+        "of the"
+      ],
+      "level": "A1",
+      "category": "Prepositions",
+      "partOfSpeech": "preposition",
+      "frequency": 46,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich komme gerade vom Einkaufen.",
+          "en": "I am just back from shopping."
+        },
+        {
+          "de": "Das ist ein Brief vom Vermieter.",
+          "en": "This is a letter from the landlord."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Bus fährt ___ Bahnhof ab.",
+          "answer": "vom",
+          "en": "The bus leaves from the station."
+        }
+      ],
+      "notes": "vom = von + dem, always Dativ, only for der/das nouns. With feminine nouns you write von der (no contraction).",
+      "mnemonic": "von + dem = vom.",
+      "germany_context": "Vom Vermieter brauchst du die Wohnungsgeberbestaetigung. Without that one sheet of paper the Buergeramt will not do your Anmeldung, and without the Anmeldung you get no tax ID, no bank account and no residence permit.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "preposition",
+        "contraction",
+        "dativ"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "von",
+        "zum",
+        "beim"
+      ]
+    },
+    {
+      "id": "vor",
+      "word": "vor",
+      "lemma": "vor",
+      "translation": "in front of",
+      "translations": [
+        "in front of",
+        "before",
+        "ago"
+      ],
+      "level": "A1",
+      "category": "Prepositions",
+      "partOfSpeech": "preposition",
+      "frequency": 48,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Das Auto steht vor dem Haus.",
+          "en": "The car is parked in front of the house."
+        },
+        {
+          "de": "Vor dem Essen wasche ich mir die Hände.",
+          "en": "Before eating I wash my hands."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich bin ___ zwei Jahren nach Deutschland gekommen.",
+          "answer": "vor",
+          "en": "I came to Germany two years ago."
+        }
+      ],
+      "notes": "Wechselpräposition. Wohin? = Akkusativ (stell dich vor die Tür), wo? = Dativ (er steht vor der Tür). With time expressions vor is always Dativ and means ago: vor drei Tagen. Spoken contraction: vor dem = vorm.",
+      "mnemonic": "vor is the fore in before and in front.",
+      "germany_context": "Vor dem Einzug zahlt man die Kaution, normally three Kaltmieten. The landlord must keep it in a separate account and pay it back after the Wohnungsuebergabe if there is no damage.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "preposition",
+        "wechselpraeposition",
+        "time"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "hinter",
+        "nach"
+      ],
+      "related": [
+        "vorm",
+        "hinter",
+        "nach"
+      ]
+    },
+    {
+      "id": "beim",
+      "word": "beim",
+      "lemma": "beim",
+      "translation": "at the",
+      "translations": [
+        "at the",
+        "while"
+      ],
+      "level": "A1",
+      "category": "Prepositions",
+      "partOfSpeech": "preposition",
+      "frequency": 52,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich bin gerade beim Arzt.",
+          "en": "I am at the doctor's right now."
+        },
+        {
+          "de": "Beim Einkaufen habe ich deine Nachbarin gesehen.",
+          "en": "While shopping I saw your neighbour."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wir kaufen unser Brot ___ Bäcker.",
+          "answer": "beim",
+          "en": "We buy our bread at the baker's."
+        }
+      ],
+      "notes": "beim = bei + dem, always Dativ. With a capitalised verb it means while doing something: beim Essen, beim Arbeiten, beim Warten. Feminine nouns keep bei der.",
+      "mnemonic": "bei + dem = beim.",
+      "germany_context": "Beim Hausmeister meldet man kaputte Heizungen, verstopfte Abfluesse oder verlorene Kellerschluessel. Anything that costs money must also go to the Vermieter in writing.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "preposition",
+        "contraction",
+        "dativ"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "bei",
+        "vom",
+        "zum"
+      ]
+    },
+    {
+      "id": "ohne",
+      "word": "ohne",
+      "lemma": "ohne",
+      "translation": "without",
+      "translations": [
+        "without"
+      ],
+      "level": "A1",
+      "category": "Prepositions",
+      "partOfSpeech": "preposition",
+      "frequency": 55,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich trinke den Kaffee ohne Zucker.",
+          "en": "I drink my coffee without sugar."
+        },
+        {
+          "de": "Ohne dich ist es langweilig.",
+          "en": "Without you it is boring."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Er geht ___ Jacke aus dem Haus.",
+          "answer": "ohne",
+          "en": "He leaves the house without a jacket."
+        }
+      ],
+      "notes": "Always Akkusativ: ohne mich, ohne den Chef. The noun usually comes with no article: ohne Auto, ohne Zucker, ohne Termin.",
+      "mnemonic": null,
+      "germany_context": "Ohne Termin geht bei vielen Aemtern und Aerzten nichts. Buergeramt slots are booked online, often weeks in advance, so check the city website daily for cancelled slots.",
+      "emoji": "🚫",
+      "imageable": false,
+      "tags": [
+        "preposition",
+        "akkusativ"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "mit"
+      ],
+      "related": [
+        "mit",
+        "ausser"
+      ]
+    },
+    {
+      "id": "unter",
+      "word": "unter",
+      "lemma": "unter",
+      "translation": "under",
+      "translations": [
+        "under",
+        "below",
+        "among"
+      ],
+      "level": "A1",
+      "category": "Prepositions",
+      "partOfSpeech": "preposition",
+      "frequency": 60,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Schuhe stehen unter dem Bett.",
+          "en": "The shoes are under the bed."
+        },
+        {
+          "de": "Stell die Tasche unter den Tisch.",
+          "en": "Put the bag under the table."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Kinder ___ sechs Jahren fahren kostenlos.",
+          "answer": "unter",
+          "en": "Children under six travel for free."
+        }
+      ],
+      "notes": "Wechselpräposition. Wohin? = Akkusativ (stell es unter den Tisch), wo? = Dativ (es steht unter dem Tisch). Also means less than (unter 20 Euro) and among (unter Freunden).",
+      "mnemonic": "unter is English under.",
+      "germany_context": null,
+      "emoji": "⬇️",
+      "imageable": false,
+      "tags": [
+        "preposition",
+        "wechselpraeposition"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "ueber",
+        "auf"
+      ],
+      "related": [
+        "ueber",
+        "auf",
+        "zwischen"
+      ]
+    },
+    {
+      "id": "durch",
+      "word": "durch",
+      "lemma": "durch",
+      "translation": "through",
+      "translations": [
+        "through",
+        "by"
+      ],
+      "level": "A1",
+      "category": "Prepositions",
+      "partOfSpeech": "preposition",
+      "frequency": 65,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Wir gehen durch den Park.",
+          "en": "We walk through the park."
+        },
+        {
+          "de": "Der Zug fährt durch einen langen Tunnel.",
+          "en": "The train goes through a long tunnel."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Bus fährt ___ die ganze Stadt.",
+          "answer": "durch",
+          "en": "The bus drives through the whole city."
+        }
+      ],
+      "notes": "Always Akkusativ: durch den Park, durch die Stadt, durch das Fenster. Contraction: durch das = durchs.",
+      "mnemonic": "durch is English through, with the same th/d sound swap.",
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "preposition",
+        "akkusativ"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "durchs",
+        "um",
+        "entlang"
+      ]
+    },
+    {
+      "id": "gegen",
+      "word": "gegen",
+      "lemma": "gegen",
+      "translation": "against",
+      "translations": [
+        "against",
+        "around",
+        "for (medicine)"
+      ],
+      "level": "A1",
+      "category": "Prepositions",
+      "partOfSpeech": "preposition",
+      "frequency": 70,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Heute spielen wir gegen die andere Mannschaft.",
+          "en": "Today we are playing against the other team."
+        },
+        {
+          "de": "Haben Sie etwas gegen Kopfschmerzen?",
+          "en": "Do you have something for a headache?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wir kommen ___ acht Uhr bei euch an.",
+          "answer": "gegen",
+          "en": "We will arrive at your place around eight."
+        }
+      ],
+      "notes": "Always Akkusativ: gegen mich, gegen den Wind. With clock times gegen means approximately: gegen 18 Uhr. In the pharmacy: eine Tablette gegen Halsschmerzen.",
+      "mnemonic": "gegen is English again(st).",
+      "germany_context": "Gegen 18 Uhr means roughly. But for a Termin or an invitation with an exact time, being on time is expected: five minutes early is normal, ten minutes late needs a message.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "preposition",
+        "akkusativ",
+        "time"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "fuer"
+      ],
+      "related": [
+        "fuer",
+        "um"
+      ]
+    },
+    {
+      "id": "neben",
+      "word": "neben",
+      "lemma": "neben",
+      "translation": "next to",
+      "translations": [
+        "next to",
+        "beside",
+        "besides"
+      ],
+      "level": "A1",
+      "category": "Prepositions",
+      "partOfSpeech": "preposition",
+      "frequency": 90,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Bäckerei ist neben der Apotheke.",
+          "en": "The bakery is next to the pharmacy."
+        },
+        {
+          "de": "Setz dich bitte neben mich.",
+          "en": "Please sit down next to me."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Mein Büro liegt ___ dem Bahnhof.",
+          "answer": "neben",
+          "en": "My office is next to the train station."
+        }
+      ],
+      "notes": "Wechselpräposition. Wohin? = Akkusativ (setz dich neben mich), wo? = Dativ (er sitzt neben mir). Also means besides: Neben der Arbeit lerne ich Deutsch.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "preposition",
+        "wechselpraeposition"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "zwischen",
+        "gegenueber",
+        "hinter"
+      ]
+    },
+    {
+      "id": "hinter",
+      "word": "hinter",
+      "lemma": "hinter",
+      "translation": "behind",
+      "translations": [
+        "behind",
+        "at the back of"
+      ],
+      "level": "A1",
+      "category": "Prepositions",
+      "partOfSpeech": "preposition",
+      "frequency": 95,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Garten ist hinter dem Haus.",
+          "en": "The garden is behind the house."
+        },
+        {
+          "de": "Stell das Fahrrad hinter die Tür.",
+          "en": "Put the bike behind the door."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Die Post ist gleich ___ der Kirche.",
+          "answer": "hinter",
+          "en": "The post office is right behind the church."
+        }
+      ],
+      "notes": "Wechselpräposition. Wohin? = Akkusativ (stell es hinter die Tür), wo? = Dativ (es steht hinter der Tür). Spoken contraction: hinter dem = hinterm.",
+      "mnemonic": "hinter is the hind in behind.",
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "preposition",
+        "wechselpraeposition"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "vor"
+      ],
+      "related": [
+        "vor",
+        "neben",
+        "vorm"
+      ]
+    },
+    {
+      "id": "zwischen",
+      "word": "zwischen",
+      "lemma": "zwischen",
+      "translation": "between",
+      "translations": [
+        "between",
+        "among"
+      ],
+      "level": "A1",
+      "category": "Prepositions",
+      "partOfSpeech": "preposition",
+      "frequency": 100,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Apotheke ist zwischen dem Café und der Bank.",
+          "en": "The pharmacy is between the cafe and the bank."
+        },
+        {
+          "de": "Der Termin ist zwischen neun und elf Uhr.",
+          "en": "The appointment is between nine and eleven."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Stell den Stuhl ___ das Fenster und den Tisch.",
+          "answer": "zwischen",
+          "en": "Put the chair between the window and the table."
+        }
+      ],
+      "notes": "Wechselpräposition. Wohin? = Akkusativ (stell es zwischen die Stühle), wo? = Dativ (es steht zwischen den Stühlen). With time spans it is Dativ: zwischen 9 und 11 Uhr.",
+      "mnemonic": "zwischen is related to betwixt/between.",
+      "germany_context": "Viele Hausordnungen haben eine Ruhezeit zwischen 13 und 15 Uhr und zwischen 22 und 6 Uhr: kein Bohren, kein Staubsaugen, keine laute Musik.",
+      "emoji": "↔️",
+      "imageable": false,
+      "tags": [
+        "preposition",
+        "wechselpraeposition"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "neben",
+        "unter",
+        "waehrend"
+      ]
+    },
+    {
+      "id": "ans",
+      "word": "ans",
+      "lemma": "ans",
+      "translation": "to the",
+      "translations": [
+        "to the",
+        "onto the"
+      ],
+      "level": "A1",
+      "category": "Prepositions",
+      "partOfSpeech": "preposition",
+      "frequency": 120,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Im Sommer fahren wir ans Meer.",
+          "en": "In summer we go to the seaside."
+        },
+        {
+          "de": "Geh bitte ans Telefon!",
+          "en": "Please answer the phone!"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Setz dich ___ Fenster, da ist es hell.",
+          "answer": "ans",
+          "en": "Sit down by the window, it is bright there."
+        }
+      ],
+      "notes": "ans = an + das, always Akkusativ, so it answers wohin? Compare am (an + dem, Dativ, wo?): Ich gehe ans Fenster, aber ich stehe am Fenster.",
+      "mnemonic": "an + das = ans.",
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "preposition",
+        "contraction",
+        "akkusativ"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "an",
+        "am",
+        "ins"
+      ]
+    },
+    {
+      "id": "ab",
+      "word": "ab",
+      "lemma": "ab",
+      "translation": "from",
+      "translations": [
+        "from",
+        "as of",
+        "starting"
+      ],
+      "level": "A1",
+      "category": "Prepositions",
+      "partOfSpeech": "preposition",
+      "frequency": 130,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ab morgen habe ich Urlaub.",
+          "en": "From tomorrow I am on holiday."
+        },
+        {
+          "de": "Der Zug fährt ab Gleis 3.",
+          "en": "The train departs from platform 3."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Kinder ___ zwölf Jahren zahlen den vollen Preis.",
+          "answer": "ab",
+          "en": "Children from twelve years old pay the full price."
+        }
+      ],
+      "notes": "Takes Dativ (ab nächstem Montag, ab dem 1. Mai), but with bare dates, times and numbers it usually stands alone: ab 18 Uhr, ab 2026. Marks the starting point, bis marks the end.",
+      "mnemonic": null,
+      "germany_context": "Wohnungsanzeigen say frei ab 01.09. That is your earliest move-in date. Your Mietvertrag, your Anmeldung and often your Internet contract all start ab that day.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "preposition",
+        "dativ",
+        "time"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "bis"
+      ],
+      "related": [
+        "bis",
+        "seit",
+        "von"
+      ]
+    },
+    {
+      "id": "pro",
+      "word": "pro",
+      "lemma": "pro",
+      "translation": "per",
+      "translations": [
+        "per",
+        "a",
+        "each"
+      ],
+      "level": "A1",
+      "category": "Prepositions",
+      "partOfSpeech": "preposition",
+      "frequency": 145,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Miete ist 800 Euro pro Monat.",
+          "en": "The rent is 800 euros per month."
+        },
+        {
+          "de": "Ich gehe dreimal pro Woche schwimmen.",
+          "en": "I go swimming three times a week."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Eintritt kostet 10 Euro ___ Person.",
+          "answer": "pro",
+          "en": "Admission costs 10 euros per person."
+        }
+      ],
+      "notes": "Formally Akkusativ, but it always stands with a bare noun and no article: pro Tag, pro Person, pro Kilo. Everyday alternatives: am Tag, in der Woche.",
+      "mnemonic": "pro is the same pro as in pro rata.",
+      "germany_context": "Rent is always quoted pro Monat: Kaltmiete plus Nebenkosten equals Warmmiete. Strom and Internet are almost always extra contracts you sign yourself.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "preposition",
+        "akkusativ",
+        "numbers"
+      ],
+      "synonyms": [
+        "je"
+      ],
+      "antonyms": [],
+      "related": [
+        "fuer",
+        "inklusive"
+      ]
+    },
+    {
+      "id": "wegen",
+      "word": "wegen",
+      "lemma": "wegen",
+      "translation": "because of",
+      "translations": [
+        "because of",
+        "due to"
+      ],
+      "level": "A2",
+      "category": "Prepositions",
+      "partOfSpeech": "preposition",
+      "frequency": 150,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Wegen des Regens bleiben wir zu Hause.",
+          "en": "Because of the rain we are staying at home."
+        },
+        {
+          "de": "Der Zug hat wegen einer Störung Verspätung.",
+          "en": "The train is delayed because of a fault."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich konnte ___ der Arbeit nicht kommen.",
+          "answer": "wegen",
+          "en": "I could not come because of work."
+        }
+      ],
+      "notes": "Genitiv: wegen des Wetters, wegen der Arbeit. In everyday speech you will also hear the Dativ (wegen dem Wetter). With pronouns use meinetwegen, deinetwegen.",
+      "mnemonic": "wegen comes from Weg (way): by way of.",
+      "germany_context": "Wegen Krankheit: tell your employer on the first morning. From the fourth day (many contracts say the first) you need an AU from the doctor; the practice sends it to your Krankenkasse electronically.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "preposition",
+        "genitiv"
+      ],
+      "synonyms": [
+        "aufgrund"
+      ],
+      "antonyms": [
+        "trotz"
+      ],
+      "related": [
+        "aufgrund",
+        "trotz",
+        "dank"
+      ]
+    },
+    {
+      "id": "waehrend",
+      "word": "während",
+      "lemma": "während",
+      "translation": "during",
+      "translations": [
+        "during",
+        "while"
+      ],
+      "level": "A2",
+      "category": "Prepositions",
+      "partOfSpeech": "preposition",
+      "frequency": 160,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Während der Woche arbeite ich viel.",
+          "en": "During the week I work a lot."
+        },
+        {
+          "de": "Während des Urlaubs war das Wetter schön.",
+          "en": "During the holiday the weather was nice."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Bitte nicht ___ der Fahrt mit dem Fahrer sprechen.",
+          "answer": "während",
+          "en": "Please do not talk to the driver while the bus is moving."
+        }
+      ],
+      "notes": "Genitiv: während des Tages, während der Arbeit. In speech people often use the Dativ (während dem Essen), but write the Genitiv. während is also a conjunction: Während ich koche, deckst du den Tisch.",
+      "mnemonic": "während sounds like while.",
+      "germany_context": "Während der Probezeit (usually the first six months of a job) either side can end the contract with only two weeks' notice, and banks are careful with loans in that time.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "preposition",
+        "genitiv",
+        "time"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "innerhalb",
+        "seit",
+        "zwischen"
+      ]
+    },
+    {
+      "id": "aufs",
+      "word": "aufs",
+      "lemma": "aufs",
+      "translation": "onto the",
+      "translations": [
+        "onto the",
+        "on the"
+      ],
+      "level": "A2",
+      "category": "Prepositions",
+      "partOfSpeech": "preposition",
+      "frequency": 175,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Sie legt die Zeitung aufs Sofa.",
+          "en": "She puts the newspaper on the sofa."
+        },
+        {
+          "de": "Morgen muss ich noch aufs Amt.",
+          "en": "Tomorrow I still have to go to the government office."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich freue mich schon ___ Wochenende.",
+          "answer": "aufs",
+          "en": "I am already looking forward to the weekend."
+        }
+      ],
+      "notes": "aufs = auf + das, always Akkusativ, so it answers wohin? auf der and auf dem are not contracted in writing.",
+      "mnemonic": "auf + das = aufs.",
+      "germany_context": "Aufs Amt gehen is the normal everyday phrase for a trip to a government office (Buergeramt, Auslaenderbehoerde) and it practically always means: with an online Termin.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "preposition",
+        "contraction",
+        "akkusativ"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "auf",
+        "ins",
+        "ans"
+      ]
+    },
+    {
+      "id": "ausser",
+      "word": "außer",
+      "lemma": "außer",
+      "translation": "except",
+      "translations": [
+        "except",
+        "apart from",
+        "besides"
+      ],
+      "level": "A2",
+      "category": "Prepositions",
+      "partOfSpeech": "preposition",
+      "frequency": 190,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Alle kommen mit, außer Thomas.",
+          "en": "Everyone is coming along except Thomas."
+        },
+        {
+          "de": "Ich esse alles außer Fisch.",
+          "en": "I eat everything except fish."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Laden ist täglich geöffnet, ___ sonntags.",
+          "answer": "außer",
+          "en": "The shop is open every day except Sundays."
+        }
+      ],
+      "notes": "Takes Dativ: außer mir, außer dem Chef, außer den Kindern. With names and adverbs the case is not visible. Set phrase: außer Betrieb (out of order).",
+      "mnemonic": null,
+      "germany_context": "Sonntags ist fast alles geschlossen, außer Tankstellen, Bahnhofs- und Flughafenlaeden und manchen Baeckereien am Vormittag. Do your shopping by Saturday evening.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "preposition",
+        "dativ"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "inklusive"
+      ],
+      "related": [
+        "ohne",
+        "statt",
+        "ausserhalb"
+      ]
+    },
+    {
+      "id": "per",
+      "word": "per",
+      "lemma": "per",
+      "translation": "by",
+      "translations": [
+        "by",
+        "via",
+        "per"
+      ],
+      "level": "A1",
+      "category": "Prepositions",
+      "partOfSpeech": "preposition",
+      "frequency": 200,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Schicken Sie mir das bitte per E-Mail.",
+          "en": "Please send me that by email."
+        },
+        {
+          "de": "Ich habe den Vertrag per Post bekommen.",
+          "en": "I received the contract by post."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Kann ich ___ Überweisung bezahlen?",
+          "answer": "per",
+          "en": "Can I pay by bank transfer?"
+        }
+      ],
+      "notes": "Formally Akkusativ, but always used with a bare noun and no article: per E-Mail, per Post, per Hand, per Du sein.",
+      "mnemonic": "per is the English per / by.",
+      "germany_context": "Kuendigungen (Handy, Fitnessstudio, Mietvertrag) schickt man am besten per Einschreiben. German landlords and offices still run on paper post, and the receipt is your proof of the date.",
+      "emoji": "📧",
+      "imageable": false,
+      "tags": [
+        "preposition",
+        "akkusativ",
+        "admin"
+      ],
+      "synonyms": [
+        "mit"
+      ],
+      "antonyms": [],
+      "related": [
+        "mit",
+        "durch"
+      ]
+    },
+    {
+      "id": "gegenueber",
+      "word": "gegenüber",
+      "lemma": "gegenüber",
+      "translation": "opposite",
+      "translations": [
+        "opposite",
+        "across from"
+      ],
+      "level": "A2",
+      "category": "Prepositions",
+      "partOfSpeech": "preposition",
+      "frequency": 210,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Apotheke ist gegenüber dem Bahnhof.",
+          "en": "The pharmacy is opposite the train station."
+        },
+        {
+          "de": "Er wohnt mir gegenüber.",
+          "en": "He lives across from me."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Das Café liegt ___ dem Kino.",
+          "answer": "gegenüber",
+          "en": "The cafe is opposite the cinema."
+        }
+      ],
+      "notes": "Always Dativ. With pronouns it comes AFTER the word: mir gegenüber, ihm gegenüber. In speech people often say gegenüber von dem Bahnhof.",
+      "mnemonic": "gegen + über: against-over, so facing you.",
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "preposition",
+        "dativ",
+        "directions"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "neben",
+        "vor",
+        "an"
+      ]
+    },
+    {
+      "id": "trotz",
+      "word": "trotz",
+      "lemma": "trotz",
+      "translation": "despite",
+      "translations": [
+        "despite",
+        "in spite of"
+      ],
+      "level": "A2",
+      "category": "Prepositions",
+      "partOfSpeech": "preposition",
+      "frequency": 230,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Trotz des Regens gehen wir spazieren.",
+          "en": "Despite the rain we are going for a walk."
+        },
+        {
+          "de": "Trotz der Verspätung war die Fahrt schön.",
+          "en": "Despite the delay the trip was nice."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Er ist ___ seiner Erkältung zur Arbeit gegangen.",
+          "answer": "trotz",
+          "en": "He went to work despite his cold."
+        }
+      ],
+      "notes": "Genitiv: trotz des Wetters, trotz der Kosten. The Dativ is common in speech (trotz dem Regen). Related adverb: trotzdem = nevertheless.",
+      "mnemonic": "trotz gives you trotzdem: nevertheless.",
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "preposition",
+        "genitiv"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "wegen"
+      ],
+      "related": [
+        "wegen",
+        "aufgrund"
+      ]
+    },
+    {
+      "id": "statt",
+      "word": "statt",
+      "lemma": "statt",
+      "translation": "instead of",
+      "translations": [
+        "instead of",
+        "in place of"
+      ],
+      "level": "A2",
+      "category": "Prepositions",
+      "partOfSpeech": "preposition",
+      "frequency": 260,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich nehme Tee statt Kaffee.",
+          "en": "I will have tea instead of coffee."
+        },
+        {
+          "de": "Statt des Autos nehme ich das Fahrrad.",
+          "en": "Instead of the car I take the bike."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Sie trinkt Wasser ___ Cola.",
+          "answer": "statt",
+          "en": "She drinks water instead of cola."
+        }
+      ],
+      "notes": "Genitiv: statt des Autos, statt der Bahn. With a bare noun the case is invisible: statt Kaffee. Same meaning as anstatt; statt is the more common short form.",
+      "mnemonic": "statt is related to Stätte (place): in place of.",
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "preposition",
+        "genitiv"
+      ],
+      "synonyms": [
+        "anstatt"
+      ],
+      "antonyms": [],
+      "related": [
+        "anstatt",
+        "ausser",
+        "ohne"
+      ]
+    },
+    {
+      "id": "dank",
+      "word": "dank",
+      "lemma": "dank",
+      "translation": "thanks to",
+      "translations": [
+        "thanks to",
+        "owing to"
+      ],
+      "level": "A2",
+      "category": "Prepositions",
+      "partOfSpeech": "preposition",
+      "frequency": 310,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Dank deiner Hilfe bin ich schon fertig.",
+          "en": "Thanks to your help I am already finished."
+        },
+        {
+          "de": "Dank dem guten Wetter konnten wir draußen sitzen.",
+          "en": "Thanks to the good weather we could sit outside."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich habe die Wohnung ___ einem Kollegen gefunden.",
+          "answer": "dank",
+          "en": "I found the flat thanks to a colleague."
+        }
+      ],
+      "notes": "Takes Dativ (dank dem Wetter, dank deiner Hilfe); the Genitiv is also correct in formal writing. Only for POSITIVE reasons; for negative ones use wegen.",
+      "mnemonic": "dank comes from danke: you thank the reason.",
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "preposition",
+        "dativ"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "wegen",
+        "aufgrund"
+      ]
+    },
+    {
+      "id": "entlang",
+      "word": "entlang",
+      "lemma": "entlang",
+      "translation": "along",
+      "translations": [
+        "along",
+        "down"
+      ],
+      "level": "A2",
+      "category": "Prepositions",
+      "partOfSpeech": "preposition",
+      "frequency": 320,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Wir gehen den Fluss entlang.",
+          "en": "We walk along the river."
+        },
+        {
+          "de": "Gehen Sie diese Straße entlang bis zur Ampel.",
+          "en": "Go along this street to the traffic lights."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Radweg führt den Kanal ___.",
+          "answer": "entlang",
+          "en": "The bike path runs along the canal."
+        }
+      ],
+      "notes": "Takes Akkusativ and normally stands AFTER the noun: die Straße entlang, den Fluss entlang. (Before the noun it takes Dativ, entlang dem Fluss, but that is rare.) Very common in street directions.",
+      "mnemonic": "entlang contains lang (long): along the long side.",
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "preposition",
+        "akkusativ",
+        "directions"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "durch",
+        "an",
+        "bis"
+      ]
+    },
+    {
+      "id": "inklusive",
+      "word": "inklusive",
+      "lemma": "inklusive",
+      "translation": "including",
+      "translations": [
+        "including",
+        "inclusive of"
+      ],
+      "level": "A2",
+      "category": "Prepositions",
+      "partOfSpeech": "preposition",
+      "frequency": 340,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Miete ist inklusive Nebenkosten.",
+          "en": "The rent includes the utilities."
+        },
+        {
+          "de": "Das Zimmer kostet 60 Euro inklusive Frühstück.",
+          "en": "The room costs 60 euros including breakfast."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Preis ist ___ Mehrwertsteuer.",
+          "answer": "inklusive",
+          "en": "The price includes VAT."
+        }
+      ],
+      "notes": "Genitiv (inklusive aller Kosten), but with a bare noun the case is invisible: inklusive Frühstück. Written short as inkl. The opposites are exklusive and zuzüglich (zzgl.).",
+      "mnemonic": "inklusive is English inclusive.",
+      "germany_context": "In Wohnungsanzeigen 800 Euro inkl. NK means Nebenkosten (heating, water, rubbish) are included; zzgl. NK means they come on top. Strom and Internet are almost never included.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "preposition",
+        "genitiv",
+        "housing"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "ohne",
+        "ausser"
+      ],
+      "related": [
+        "ohne",
+        "pro",
+        "ausser"
+      ]
+    },
+    {
+      "id": "fuers",
+      "word": "fürs",
+      "lemma": "fürs",
+      "translation": "for the",
+      "translations": [
+        "for the"
+      ],
+      "level": "A2",
+      "category": "Prepositions",
+      "partOfSpeech": "preposition",
+      "frequency": 360,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Das ist ein Geschenk fürs Baby.",
+          "en": "This is a present for the baby."
+        },
+        {
+          "de": "Ich brauche noch Geld fürs Ticket.",
+          "en": "I still need money for the ticket."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Danke ___ Essen, es war super!",
+          "answer": "fürs",
+          "en": "Thanks for the meal, it was great!"
+        }
+      ],
+      "notes": "fürs = für + das, always Akkusativ. Very common in speech: fürs Erste, fürs Auto, fürs Büro.",
+      "mnemonic": "für + das = fürs.",
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "preposition",
+        "contraction",
+        "akkusativ"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "fuer",
+        "aufs",
+        "ums"
+      ]
+    },
+    {
+      "id": "laut",
+      "word": "laut",
+      "lemma": "laut",
+      "translation": "according to",
+      "translations": [
+        "according to",
+        "as per"
+      ],
+      "level": "A2",
+      "category": "Prepositions",
+      "partOfSpeech": "preposition",
+      "frequency": 380,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Laut dem Mietvertrag darf man hier nicht grillen.",
+          "en": "According to the rental contract you may not barbecue here."
+        },
+        {
+          "de": "Laut Wetterbericht regnet es morgen.",
+          "en": "According to the weather forecast it will rain tomorrow."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Das ist ___ Hausordnung nicht erlaubt.",
+          "answer": "laut",
+          "en": "According to the house rules that is not allowed."
+        }
+      ],
+      "notes": "Takes Dativ (laut dem Vertrag), and is very often used with no article at all: laut Gesetz, laut Vertrag. Do not confuse it with the adjective laut = loud.",
+      "mnemonic": "laut Vertrag: the contract speaks (out loud).",
+      "germany_context": "You meet laut constantly in Behoerdenbriefe, Mietvertraege and the Hausordnung, usually as laut Paragraf or laut Vertrag. It signals the sentence is quoting a rule you are expected to follow.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "preposition",
+        "dativ",
+        "admin"
+      ],
+      "synonyms": [
+        "nach"
+      ],
+      "antonyms": [],
+      "related": [
+        "nach",
+        "wegen",
+        "aufgrund"
+      ]
+    },
+    {
+      "id": "innerhalb",
+      "word": "innerhalb",
+      "lemma": "innerhalb",
+      "translation": "within",
+      "translations": [
+        "within",
+        "inside"
+      ],
+      "level": "A2",
+      "category": "Prepositions",
+      "partOfSpeech": "preposition",
+      "frequency": 400,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Innerhalb einer Woche bekommen Sie eine Antwort.",
+          "en": "You will get an answer within a week."
+        },
+        {
+          "de": "Das Paket kommt innerhalb von drei Tagen.",
+          "en": "The parcel will arrive within three days."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Man muss sich ___ von 14 Tagen anmelden.",
+          "answer": "innerhalb",
+          "en": "You have to register within 14 days."
+        }
+      ],
+      "notes": "Genitiv: innerhalb eines Jahres, innerhalb der Stadt. With a bare number or plural use innerhalb von + Dativ: innerhalb von 14 Tagen.",
+      "mnemonic": "inner + halb: on the inner half, inside.",
+      "germany_context": "Anmeldung: after moving you must register at the Buergeramt innerhalb von 14 Tagen with your passport, the Wohnungsgeberbestaetigung and the form. Being late can mean a fine, and everything else (tax ID, bank, visa) depends on it.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "preposition",
+        "genitiv",
+        "admin"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "ausserhalb"
+      ],
+      "related": [
+        "ausserhalb",
+        "waehrend",
+        "in"
+      ]
+    },
+    {
+      "id": "ausserhalb",
+      "word": "außerhalb",
+      "lemma": "außerhalb",
+      "translation": "outside of",
+      "translations": [
+        "outside of",
+        "beyond"
+      ],
+      "level": "A2",
+      "category": "Prepositions",
+      "partOfSpeech": "preposition",
+      "frequency": 420,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Sie wohnt außerhalb der Stadt.",
+          "en": "She lives outside the city."
+        },
+        {
+          "de": "Außerhalb der Öffnungszeiten ist die Praxis geschlossen.",
+          "en": "Outside opening hours the practice is closed."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Die Wohnung liegt etwas ___ der Stadt.",
+          "answer": "außerhalb",
+          "en": "The flat is a bit outside the city."
+        }
+      ],
+      "notes": "Genitiv: außerhalb der Stadt, außerhalb des Hauses. With bare nouns use außerhalb von + Dativ: außerhalb von Berlin. Opposite of innerhalb.",
+      "mnemonic": "außer + halb: on the outer half.",
+      "germany_context": "Außerhalb der Sprechzeiten: for medical help that cannot wait call the aerztlicher Bereitschaftsdienst on 116 117. The Notdienst-Apotheke rota hangs on every pharmacy door. 112 is only for real emergencies.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "preposition",
+        "genitiv",
+        "admin"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "innerhalb"
+      ],
+      "related": [
+        "innerhalb",
+        "ausser"
+      ]
+    },
+    {
+      "id": "ums",
+      "word": "ums",
+      "lemma": "ums",
+      "translation": "around the",
+      "translations": [
+        "around the",
+        "about the"
+      ],
+      "level": "A2",
+      "category": "Prepositions",
+      "partOfSpeech": "preposition",
+      "frequency": 440,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Wir gehen einmal ums Haus.",
+          "en": "We walk once around the house."
+        },
+        {
+          "de": "Bei dem Streit geht es ums Geld.",
+          "en": "The argument is about money."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Beim Termin geht es ___ Visum.",
+          "answer": "ums",
+          "en": "The appointment is about the visa."
+        }
+      ],
+      "notes": "ums = um + das, always Akkusativ. Extremely common in the phrase es geht um ... = it is about ...: Worum geht es? Es geht ums Geld.",
+      "mnemonic": "um + das = ums.",
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "preposition",
+        "contraction",
+        "akkusativ"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "um",
+        "fuers",
+        "aufs"
+      ]
+    },
+    {
+      "id": "aufgrund",
+      "word": "aufgrund",
+      "lemma": "aufgrund",
+      "translation": "due to",
+      "translations": [
+        "due to",
+        "because of",
+        "on the basis of"
+      ],
+      "level": "A2",
+      "category": "Prepositions",
+      "partOfSpeech": "preposition",
+      "frequency": 470,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Aufgrund des Wetters fällt das Spiel aus.",
+          "en": "Due to the weather the match is cancelled."
+        },
+        {
+          "de": "Die Straße ist aufgrund einer Baustelle gesperrt.",
+          "en": "The road is closed due to construction work."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Das Büro bleibt ___ eines Feiertags geschlossen.",
+          "answer": "aufgrund",
+          "en": "The office stays closed due to a public holiday."
+        }
+      ],
+      "notes": "Genitiv: aufgrund des Wetters, aufgrund einer Störung. Formal register: in speech Germans say wegen. Also written auf Grund.",
+      "mnemonic": "auf + Grund: on the grounds of.",
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "preposition",
+        "genitiv",
+        "formal"
+      ],
+      "synonyms": [
+        "wegen"
+      ],
+      "antonyms": [
+        "trotz"
+      ],
+      "related": [
+        "wegen",
+        "dank",
+        "trotz"
+      ]
+    },
+    {
+      "id": "durchs",
+      "word": "durchs",
+      "lemma": "durchs",
+      "translation": "through the",
+      "translations": [
+        "through the"
+      ],
+      "level": "A2",
+      "category": "Prepositions",
+      "partOfSpeech": "preposition",
+      "frequency": 480,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Katze springt durchs Fenster.",
+          "en": "The cat jumps through the window."
+        },
+        {
+          "de": "Wir laufen durchs ganze Haus.",
+          "en": "We run through the whole house."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Weg führt ___ Dorf.",
+          "answer": "durchs",
+          "en": "The path leads through the village."
+        }
+      ],
+      "notes": "durchs = durch + das, always Akkusativ. Normal in speech; in formal writing you can also write durch das.",
+      "mnemonic": "durch + das = durchs.",
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "preposition",
+        "contraction",
+        "akkusativ"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "durch",
+        "ums",
+        "ins"
+      ]
+    },
+    {
+      "id": "anstatt",
+      "word": "anstatt",
+      "lemma": "anstatt",
+      "translation": "instead of",
+      "translations": [
+        "instead of",
+        "rather than"
+      ],
+      "level": "A2",
+      "category": "Prepositions",
+      "partOfSpeech": "preposition",
+      "frequency": 520,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Anstatt einer E-Mail hat sie angerufen.",
+          "en": "Instead of an email she called."
+        },
+        {
+          "de": "Anstatt zu kochen, bestellen wir eine Pizza.",
+          "en": "Instead of cooking we are ordering a pizza."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Er hat ___ eines Briefes eine Nachricht geschickt.",
+          "answer": "anstatt",
+          "en": "He sent a message instead of a letter."
+        }
+      ],
+      "notes": "Genitiv: anstatt des Autos. Same meaning as statt, just a bit more formal. Also used with an infinitive: anstatt zu warten.",
+      "mnemonic": "an + statt: in the place of.",
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "preposition",
+        "genitiv"
+      ],
+      "synonyms": [
+        "statt"
+      ],
+      "antonyms": [],
+      "related": [
+        "statt",
+        "ohne"
+      ]
+    },
+    {
+      "id": "uebers",
+      "word": "übers",
+      "lemma": "übers",
+      "translation": "over the",
+      "translations": [
+        "over the",
+        "about the"
+      ],
+      "level": "A2",
+      "category": "Prepositions",
+      "partOfSpeech": "preposition",
+      "frequency": 560,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Wir reden gern übers Wetter.",
+          "en": "We like talking about the weather."
+        },
+        {
+          "de": "Ich fahre übers Wochenende nach Hamburg.",
+          "en": "I am going to Hamburg for the weekend."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich habe die Wohnung ___ Internet gefunden.",
+          "answer": "übers",
+          "en": "I found the flat over the internet."
+        }
+      ],
+      "notes": "übers = über + das, always Akkusativ. Spoken form; in formal writing use über das.",
+      "mnemonic": "über + das = übers.",
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "preposition",
+        "contraction",
+        "akkusativ"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "ueber",
+        "aufs",
+        "ums"
+      ]
+    },
+    {
+      "id": "vorm",
+      "word": "vorm",
+      "lemma": "vorm",
+      "translation": "in front of the",
+      "translations": [
+        "in front of the",
+        "before the"
+      ],
+      "level": "A2",
+      "category": "Prepositions",
+      "partOfSpeech": "preposition",
+      "frequency": 600,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich warte vorm Kino auf dich.",
+          "en": "I will wait for you in front of the cinema."
+        },
+        {
+          "de": "Das Fahrrad steht vorm Haus.",
+          "en": "The bike is standing in front of the house."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wir treffen uns ___ Eingang.",
+          "answer": "vorm",
+          "en": "We are meeting in front of the entrance."
+        }
+      ],
+      "notes": "vorm = vor + dem, always Dativ, so it answers wo? It is spoken and informal only: in writing use vor dem. Same pattern: hinterm, unterm, überm.",
+      "mnemonic": "vor + dem = vorm.",
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "preposition",
+        "contraction",
+        "dativ",
+        "spoken"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "vor",
+        "hinter",
+        "beim"
+      ]
+    }
+  ]
+}

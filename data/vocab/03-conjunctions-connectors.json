@@ -1,0 +1,2418 @@
+{
+  "category": "Conjunctions & Connectors",
+  "words": [
+    {
+      "id": "und",
+      "word": "und",
+      "lemma": "und",
+      "translation": "and",
+      "translations": [
+        "and"
+      ],
+      "level": "A0",
+      "category": "Conjunctions & Connectors",
+      "partOfSpeech": "conjunction",
+      "frequency": 5,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich hätte gern einen Kaffee und ein Wasser.",
+          "en": "I'd like a coffee and a water."
+        },
+        {
+          "de": "Wir wohnen in Berlin und arbeiten in Potsdam.",
+          "en": "We live in Berlin and work in Potsdam."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Meine Frau ___ ich kommen aus der Türkei.",
+          "answer": "und",
+          "en": "My wife and I come from Turkey."
+        }
+      ],
+      "notes": "Coordinating conjunction: it does NOT change the word order — the verb stays in position 2 in both halves. Normally no comma before 'und'.",
+      "mnemonic": "und = 'and' with a u.",
+      "germany_context": null,
+      "emoji": "➕",
+      "imageable": false,
+      "tags": [
+        "connector",
+        "coordinating",
+        "essential"
+      ],
+      "synonyms": [
+        "sowie"
+      ],
+      "antonyms": [],
+      "related": [
+        "oder",
+        "aber"
+      ]
+    },
+    {
+      "id": "oder",
+      "word": "oder",
+      "lemma": "oder",
+      "translation": "or",
+      "translations": [
+        "or"
+      ],
+      "level": "A0",
+      "category": "Conjunctions & Connectors",
+      "partOfSpeech": "conjunction",
+      "frequency": 30,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Möchtest du Tee oder Kaffee?",
+          "en": "Would you like tea or coffee?"
+        },
+        {
+          "de": "Wir können heute oder morgen einkaufen.",
+          "en": "We can go shopping today or tomorrow."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Zahlen Sie bar ___ mit Karte?",
+          "answer": "oder",
+          "en": "Are you paying cash or by card?"
+        }
+      ],
+      "notes": "Coordinating — word order stays normal. Germans also tag 'oder?' onto the end of a statement to mean 'right?': 'Das ist teuer, oder?'",
+      "mnemonic": null,
+      "germany_context": "'Bar oder mit Karte?' is asked everywhere. Plenty of bakeries, Imbisse, kiosks and small restaurants are still cash-only or set a card minimum, so carry some Bargeld.",
+      "emoji": "🔀",
+      "imageable": false,
+      "tags": [
+        "connector",
+        "coordinating",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "und",
+        "entweder-oder"
+      ]
+    },
+    {
+      "id": "aber",
+      "word": "aber",
+      "lemma": "aber",
+      "translation": "but",
+      "translations": [
+        "but",
+        "however"
+      ],
+      "level": "A0",
+      "category": "Conjunctions & Connectors",
+      "partOfSpeech": "conjunction",
+      "frequency": 25,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Wohnung ist klein, aber sehr hell.",
+          "en": "The flat is small but very bright."
+        },
+        {
+          "de": "Ich möchte mitkommen, aber ich habe keine Zeit.",
+          "en": "I'd like to come along, but I don't have time."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Das Handy ist schön, ___ es kostet zu viel.",
+          "answer": "aber",
+          "en": "The phone is nice, but it costs too much."
+        }
+      ],
+      "notes": "Coordinating: comma before it, but no change to word order (subject, then verb). 'aber' is also a flavouring particle: 'Das ist aber lecker!' = 'Wow, that's tasty!'",
+      "mnemonic": "aber = a BARrier between two ideas.",
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "connector",
+        "coordinating",
+        "contrast",
+        "essential"
+      ],
+      "synonyms": [
+        "jedoch",
+        "allerdings"
+      ],
+      "antonyms": [],
+      "related": [
+        "sondern",
+        "trotzdem"
+      ]
+    },
+    {
+      "id": "denn",
+      "word": "denn",
+      "lemma": "denn",
+      "translation": "because",
+      "translations": [
+        "because",
+        "for"
+      ],
+      "level": "A1",
+      "category": "Conjunctions & Connectors",
+      "partOfSpeech": "conjunction",
+      "frequency": 130,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich bleibe heute zu Hause, denn ich bin krank.",
+          "en": "I'm staying at home today because I'm ill."
+        },
+        {
+          "de": "Wir nehmen die Bahn, denn das Auto ist kaputt.",
+          "en": "We're taking the train because the car is broken."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Er kommt später, ___ er hat noch einen Termin.",
+          "answer": "denn",
+          "en": "He's coming later because he still has an appointment."
+        }
+      ],
+      "notes": "Same meaning as 'weil', but 'denn' is COORDINATING: the verb stays in second position (denn ich bin krank), while 'weil' pushes it to the end (weil ich krank bin). 'denn' is also a question particle: 'Was machst du denn?'",
+      "mnemonic": "denn keeps the sentence 'as it is' — no reordering.",
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "connector",
+        "coordinating",
+        "cause"
+      ],
+      "synonyms": [
+        "weil"
+      ],
+      "antonyms": [],
+      "related": [
+        "weil",
+        "da"
+      ]
+    },
+    {
+      "id": "sondern",
+      "word": "sondern",
+      "lemma": "sondern",
+      "translation": "but rather",
+      "translations": [
+        "but rather",
+        "but instead"
+      ],
+      "level": "A1",
+      "category": "Conjunctions & Connectors",
+      "partOfSpeech": "conjunction",
+      "frequency": 190,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Das ist kein Tee, sondern Kaffee.",
+          "en": "That isn't tea, but coffee."
+        },
+        {
+          "de": "Ich wohne nicht in München, sondern in Nürnberg.",
+          "en": "I don't live in Munich, but in Nuremberg."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wir gehen nicht ins Kino, ___ ins Schwimmbad.",
+          "answer": "sondern",
+          "en": "We're not going to the cinema, but to the swimming pool."
+        }
+      ],
+      "notes": "Only after a negation (nicht / kein) — it corrects the first half. English has one word 'but' for both 'aber' and 'sondern', so learners wrongly say 'aber' here. Word order stays normal.",
+      "mnemonic": "No 'nicht' in front, no 'sondern'.",
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "connector",
+        "coordinating",
+        "contrast"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "aber",
+        "nicht-nur-sondern-auch"
+      ]
+    },
+    {
+      "id": "weil",
+      "word": "weil",
+      "lemma": "weil",
+      "translation": "because",
+      "translations": [
+        "because"
+      ],
+      "level": "A1",
+      "category": "Conjunctions & Connectors",
+      "partOfSpeech": "conjunction",
+      "frequency": 45,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich lerne Deutsch, weil ich in Deutschland arbeite.",
+          "en": "I'm learning German because I work in Germany."
+        },
+        {
+          "de": "Sie kommt nicht, weil sie krank ist.",
+          "en": "She isn't coming because she is ill."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wir nehmen den Bus, ___ die U-Bahn nicht fährt.",
+          "answer": "weil",
+          "en": "We're taking the bus because the underground isn't running."
+        }
+      ],
+      "notes": "Subordinating: the conjugated verb goes to the END of the clause (weil ich müde bin). In casual speech you will hear 'weil' with normal order (weil ich bin müde) — understood everywhere, but not correct in writing.",
+      "mnemonic": "weil throws the verb to the tail of the sentence.",
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "connector",
+        "subordinating",
+        "cause",
+        "essential"
+      ],
+      "synonyms": [
+        "da",
+        "denn"
+      ],
+      "antonyms": [],
+      "related": [
+        "denn",
+        "deshalb",
+        "da"
+      ]
+    },
+    {
+      "id": "dass",
+      "word": "dass",
+      "lemma": "dass",
+      "translation": "that",
+      "translations": [
+        "that"
+      ],
+      "level": "A1",
+      "category": "Conjunctions & Connectors",
+      "partOfSpeech": "conjunction",
+      "frequency": 60,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich glaube, dass er morgen kommt.",
+          "en": "I think that he's coming tomorrow."
+        },
+        {
+          "de": "Es tut mir leid, dass ich zu spät bin.",
+          "en": "I'm sorry that I'm late."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich hoffe, ___ die Wohnung noch frei ist.",
+          "answer": "dass",
+          "en": "I hope that the flat is still available."
+        }
+      ],
+      "notes": "Subordinating — verb to the end, and always a comma before it. Do not confuse it with 'das' (one s), the article and relative pronoun: 'das Haus, das ich kaufe' vs. 'Ich weiß, dass ich das Haus kaufe.'",
+      "mnemonic": "Two s = the 'dass' that opens a clause; one s = 'das' the thing.",
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "connector",
+        "subordinating",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "ob",
+        "weil"
+      ]
+    },
+    {
+      "id": "wenn",
+      "word": "wenn",
+      "lemma": "wenn",
+      "translation": "if",
+      "translations": [
+        "if",
+        "when",
+        "whenever"
+      ],
+      "level": "A1",
+      "category": "Conjunctions & Connectors",
+      "partOfSpeech": "conjunction",
+      "frequency": 55,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Wenn es regnet, bleiben wir zu Hause.",
+          "en": "If it rains, we'll stay at home."
+        },
+        {
+          "de": "Ruf mich an, wenn du angekommen bist.",
+          "en": "Call me when you've arrived."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ ich Zeit habe, koche ich gern.",
+          "answer": "Wenn",
+          "en": "When I have time, I like to cook."
+        }
+      ],
+      "notes": "Subordinating — verb to the end. Covers both 'if' and 'when' for the present, the future and repeated events. For ONE finished event in the past use 'als', never 'wenn'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "connector",
+        "subordinating",
+        "condition",
+        "time"
+      ],
+      "synonyms": [
+        "falls"
+      ],
+      "antonyms": [],
+      "related": [
+        "als",
+        "falls",
+        "dann"
+      ]
+    },
+    {
+      "id": "als",
+      "word": "als",
+      "lemma": "als",
+      "translation": "when",
+      "translations": [
+        "when",
+        "than",
+        "as"
+      ],
+      "level": "A1",
+      "category": "Conjunctions & Connectors",
+      "partOfSpeech": "conjunction",
+      "frequency": 120,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Als ich klein war, habe ich in Izmir gewohnt.",
+          "en": "When I was little, I lived in Izmir."
+        },
+        {
+          "de": "Berlin ist größer als Hamburg.",
+          "en": "Berlin is bigger than Hamburg."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ ich gestern nach Hause kam, war niemand da.",
+          "answer": "Als",
+          "en": "When I came home yesterday, nobody was there."
+        }
+      ],
+      "notes": "Three jobs: (1) subordinating 'when' for ONE finished event in the past — verb to the end; (2) 'than' in comparisons (größer als); (3) 'as' for a role (Ich arbeite als Entwickler). Repeated past events take 'wenn' or 'immer wenn'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "connector",
+        "subordinating",
+        "time",
+        "comparison"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "wenn",
+        "nachdem"
+      ]
+    },
+    {
+      "id": "ob",
+      "word": "ob",
+      "lemma": "ob",
+      "translation": "whether",
+      "translations": [
+        "whether",
+        "if"
+      ],
+      "level": "A1",
+      "category": "Conjunctions & Connectors",
+      "partOfSpeech": "conjunction",
+      "frequency": 210,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich weiß nicht, ob er kommt.",
+          "en": "I don't know whether he's coming."
+        },
+        {
+          "de": "Kannst du fragen, ob das Zimmer noch frei ist?",
+          "en": "Can you ask whether the room is still free?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich wollte fragen, ___ Sie noch einen Termin haben.",
+          "answer": "ob",
+          "en": "I wanted to ask whether you still have an appointment available."
+        }
+      ],
+      "notes": "Subordinating — verb to the end. Use 'ob' for a yes/no question packed inside a sentence ('whether'). 'wenn' is only for conditions, so 'Ich weiß nicht, wenn er kommt' is wrong.",
+      "mnemonic": "ob = 'or not' — a yes/no question hiding in the sentence.",
+      "germany_context": "Almost everything official in Germany runs on Termine. On the phone at a Bürgeramt, a doctor's practice or a Handwerker, the standard polite opener is 'Guten Tag, ich wollte fragen, ob …'.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "connector",
+        "subordinating",
+        "indirect-question"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "wenn",
+        "dass"
+      ]
+    },
+    {
+      "id": "obwohl",
+      "word": "obwohl",
+      "lemma": "obwohl",
+      "translation": "although",
+      "translations": [
+        "although",
+        "even though"
+      ],
+      "level": "A2",
+      "category": "Conjunctions & Connectors",
+      "partOfSpeech": "conjunction",
+      "frequency": 330,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Obwohl es kalt ist, fahre ich mit dem Fahrrad.",
+          "en": "Although it's cold, I ride my bike."
+        },
+        {
+          "de": "Er ist zur Arbeit gegangen, obwohl er krank war.",
+          "en": "He went to work although he was ill."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wir sind spazieren gegangen, ___ es geregnet hat.",
+          "answer": "obwohl",
+          "en": "We went for a walk although it was raining."
+        }
+      ],
+      "notes": "Subordinating — verb to the end. Same idea as 'trotzdem', but 'trotzdem' is an adverb and triggers inversion instead: 'Es ist kalt. Trotzdem fahre ich Rad.'",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "connector",
+        "subordinating",
+        "contrast"
+      ],
+      "synonyms": [
+        "auch wenn"
+      ],
+      "antonyms": [],
+      "related": [
+        "trotzdem",
+        "aber"
+      ]
+    },
+    {
+      "id": "damit",
+      "word": "damit",
+      "lemma": "damit",
+      "translation": "so that",
+      "translations": [
+        "so that",
+        "in order that"
+      ],
+      "level": "A2",
+      "category": "Conjunctions & Connectors",
+      "partOfSpeech": "conjunction",
+      "frequency": 360,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich stehe früh auf, damit ich pünktlich bin.",
+          "en": "I get up early so that I'm on time."
+        },
+        {
+          "de": "Sprich bitte langsam, damit ich dich verstehe.",
+          "en": "Please speak slowly so that I understand you."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich lerne jeden Tag Deutsch, ___ ich bald einen Job finde.",
+          "answer": "damit",
+          "en": "I study German every day so that I find a job soon."
+        }
+      ],
+      "notes": "Subordinating — verb to the end. If both halves have the SAME subject, Germans usually prefer 'um … zu' + infinitive: 'Ich stehe früh auf, um pünktlich zu sein.' Careful: 'damit' is also a pronominal adverb meaning 'with it'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "connector",
+        "subordinating",
+        "purpose"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "um-zu",
+        "deshalb"
+      ]
+    },
+    {
+      "id": "bevor",
+      "word": "bevor",
+      "lemma": "bevor",
+      "translation": "before",
+      "translations": [
+        "before"
+      ],
+      "level": "A1",
+      "category": "Conjunctions & Connectors",
+      "partOfSpeech": "conjunction",
+      "frequency": 300,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Bevor ich schlafen gehe, lese ich noch etwas.",
+          "en": "Before I go to sleep, I read a bit."
+        },
+        {
+          "de": "Wasch dir die Hände, bevor du isst.",
+          "en": "Wash your hands before you eat."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ du unterschreibst, lies bitte den Vertrag.",
+          "answer": "Bevor",
+          "en": "Before you sign, please read the contract."
+        }
+      ],
+      "notes": "Subordinating — verb to the end. It links two CLAUSES; in front of a noun you need the preposition 'vor' + dative: 'vor dem Essen', 'vor der Arbeit'.",
+      "mnemonic": "bevor = 'before' with a v.",
+      "germany_context": null,
+      "emoji": "⏮️",
+      "imageable": false,
+      "tags": [
+        "connector",
+        "subordinating",
+        "time"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "nachdem"
+      ],
+      "related": [
+        "nachdem",
+        "danach",
+        "zuerst"
+      ]
+    },
+    {
+      "id": "nachdem",
+      "word": "nachdem",
+      "lemma": "nachdem",
+      "translation": "after",
+      "translations": [
+        "after"
+      ],
+      "level": "A2",
+      "category": "Conjunctions & Connectors",
+      "partOfSpeech": "conjunction",
+      "frequency": 420,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Nachdem ich gegessen habe, gehe ich spazieren.",
+          "en": "After I've eaten, I go for a walk."
+        },
+        {
+          "de": "Nachdem wir umgezogen waren, haben wir uns angemeldet.",
+          "en": "After we had moved, we registered."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ er die Prüfung bestanden hatte, hat er gefeiert.",
+          "answer": "Nachdem",
+          "en": "After he passed the exam, he celebrated."
+        }
+      ],
+      "notes": "Subordinating — verb to the end. The 'nachdem' clause sits one tense earlier than the main clause: Perfekt with a present main clause, Plusquamperfekt with a past one. In front of a noun use 'nach' + dative: 'nach der Arbeit'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "connector",
+        "subordinating",
+        "time"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "bevor"
+      ],
+      "related": [
+        "bevor",
+        "danach"
+      ]
+    },
+    {
+      "id": "seit",
+      "word": "seit",
+      "lemma": "seit",
+      "translation": "since",
+      "translations": [
+        "since",
+        "ever since"
+      ],
+      "level": "A1",
+      "category": "Conjunctions & Connectors",
+      "partOfSpeech": "conjunction",
+      "frequency": 340,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Seit ich in Deutschland wohne, lerne ich jeden Tag Deutsch.",
+          "en": "Since I've been living in Germany, I study German every day."
+        },
+        {
+          "de": "Wir kennen uns seit drei Jahren.",
+          "en": "We've known each other for three years."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ wann wohnen Sie in Deutschland?",
+          "answer": "Seit",
+          "en": "Since when have you been living in Germany?"
+        }
+      ],
+      "notes": "As a conjunction ('seit' or 'seitdem') the verb goes to the end; as a preposition it takes the dative ('seit einem Jahr'). German uses the PRESENT tense where English uses 'have been': 'Ich wohne seit 2024 hier.'",
+      "mnemonic": null,
+      "germany_context": "'Seit wann wohnen Sie hier?' shows up on Anmeldung forms and at the Ausländerbehörde. Your Einzugsdatum matters: you must register at the Bürgeramt within about 14 days of moving in.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "connector",
+        "subordinating",
+        "time",
+        "bureaucracy"
+      ],
+      "synonyms": [
+        "seitdem"
+      ],
+      "antonyms": [],
+      "related": [
+        "bis",
+        "solange"
+      ]
+    },
+    {
+      "id": "bis",
+      "word": "bis",
+      "lemma": "bis",
+      "translation": "until",
+      "translations": [
+        "until",
+        "till",
+        "by"
+      ],
+      "level": "A1",
+      "category": "Conjunctions & Connectors",
+      "partOfSpeech": "conjunction",
+      "frequency": 150,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich warte, bis du fertig bist.",
+          "en": "I'll wait until you're finished."
+        },
+        {
+          "de": "Der Supermarkt ist bis 20 Uhr geöffnet.",
+          "en": "The supermarket is open until 8 p.m."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Bleib bitte hier, ___ der Bus kommt.",
+          "answer": "bis",
+          "en": "Please stay here until the bus comes."
+        }
+      ],
+      "notes": "Subordinating conjunction (verb to the end) and also a preposition ('bis Montag', 'bis 20 Uhr'). Extremely common in goodbyes: 'Bis später!', 'Bis morgen!', 'Bis dann!'",
+      "mnemonic": null,
+      "germany_context": "Shop opening hours are strictly regulated: most supermarkets run bis 20 or 22 Uhr and everything is closed on Sundays and public holidays. The exceptions are shops in big Bahnhöfe and airports, plus Tankstellen and Spätis.",
+      "emoji": "⏳",
+      "imageable": false,
+      "tags": [
+        "connector",
+        "subordinating",
+        "time",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "seit"
+      ],
+      "related": [
+        "seit",
+        "solange",
+        "sobald"
+      ]
+    },
+    {
+      "id": "solange",
+      "word": "solange",
+      "lemma": "solange",
+      "translation": "as long as",
+      "translations": [
+        "as long as",
+        "while"
+      ],
+      "level": "A2",
+      "category": "Conjunctions & Connectors",
+      "partOfSpeech": "conjunction",
+      "frequency": 780,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Solange es regnet, bleiben wir drinnen.",
+          "en": "As long as it's raining, we'll stay inside."
+        },
+        {
+          "de": "Du kannst hier wohnen, solange du willst.",
+          "en": "You can live here as long as you like."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ ich keinen Job habe, spare ich jeden Euro.",
+          "answer": "Solange",
+          "en": "As long as I don't have a job, I save every euro."
+        }
+      ],
+      "notes": "Subordinating — verb to the end. Written as ONE word when it is a conjunction; 'so lange' in two words means 'for such a long time'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "connector",
+        "subordinating",
+        "time",
+        "condition"
+      ],
+      "synonyms": [
+        "während"
+      ],
+      "antonyms": [],
+      "related": [
+        "waehrend",
+        "bis",
+        "wenn"
+      ]
+    },
+    {
+      "id": "sobald",
+      "word": "sobald",
+      "lemma": "sobald",
+      "translation": "as soon as",
+      "translations": [
+        "as soon as"
+      ],
+      "level": "A2",
+      "category": "Conjunctions & Connectors",
+      "partOfSpeech": "conjunction",
+      "frequency": 700,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Sobald ich zu Hause bin, rufe ich dich an.",
+          "en": "As soon as I'm home, I'll call you."
+        },
+        {
+          "de": "Wir fangen an, sobald alle da sind.",
+          "en": "We'll start as soon as everyone is here."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ der Vertrag da ist, unterschreibe ich.",
+          "answer": "Sobald",
+          "en": "As soon as the contract is here, I'll sign it."
+        }
+      ],
+      "notes": "Subordinating — verb to the end. German uses the present tense here even for the future: 'Sobald ich ankomme, schreibe ich dir.'",
+      "mnemonic": "so + bald ('soon') = as soon as.",
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "connector",
+        "subordinating",
+        "time"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "wenn",
+        "bis",
+        "nachdem"
+      ]
+    },
+    {
+      "id": "falls",
+      "word": "falls",
+      "lemma": "falls",
+      "translation": "in case",
+      "translations": [
+        "in case",
+        "if"
+      ],
+      "level": "A2",
+      "category": "Conjunctions & Connectors",
+      "partOfSpeech": "conjunction",
+      "frequency": 560,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Falls es regnet, nimm bitte einen Schirm mit.",
+          "en": "In case it rains, please take an umbrella."
+        },
+        {
+          "de": "Ruf mich an, falls du Hilfe brauchst.",
+          "en": "Call me if you need help."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ Sie Fragen haben, schreiben Sie uns bitte eine E-Mail.",
+          "answer": "Falls",
+          "en": "If you have any questions, please write us an e-mail."
+        }
+      ],
+      "notes": "Subordinating — verb to the end. Like 'wenn', but it stresses that the case is only possible, not expected. Same word family as 'im Falle' and 'auf jeden Fall'.",
+      "mnemonic": null,
+      "germany_context": "'Falls Sie Fragen haben, …' is the standard closing line in letters and e-mails from Vermieter, Versicherungen and Behörden — spotting it makes German post far less intimidating.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "connector",
+        "subordinating",
+        "condition"
+      ],
+      "synonyms": [
+        "wenn"
+      ],
+      "antonyms": [],
+      "related": [
+        "wenn",
+        "sonst"
+      ]
+    },
+    {
+      "id": "um-zu",
+      "word": "um … zu",
+      "lemma": "um … zu",
+      "translation": "in order to",
+      "translations": [
+        "in order to",
+        "to"
+      ],
+      "level": "A1",
+      "category": "Conjunctions & Connectors",
+      "partOfSpeech": "conjunction",
+      "frequency": 200,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich gehe zur Sprachschule, um Deutsch zu lernen.",
+          "en": "I go to the language school in order to learn German."
+        },
+        {
+          "de": "Er fährt in die Stadt, um einzukaufen.",
+          "en": "He's driving into town to do the shopping."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich brauche einen Termin, ___ mein Auto anzumelden.",
+          "answer": "um",
+          "en": "I need an appointment in order to register my car."
+        }
+      ],
+      "notes": "Infinitive clause: 'um' opens it, 'zu' + infinitive closes it, and there is no second subject. Only works when both halves share the same subject — otherwise use 'damit'. With separable verbs the 'zu' slips inside: einzukaufen, anzurufen, aufzustehen.",
+      "mnemonic": null,
+      "germany_context": "Um fast alles zu erledigen brauchst du in Deutschland einen Termin — Bürgeramt, Ausländerbehörde, Kfz-Zulassung, even many doctors. Slots are booked online, often weeks ahead; walking in usually does not work.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "connector",
+        "purpose",
+        "infinitive"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "damit",
+        "deshalb"
+      ]
+    },
+    {
+      "id": "entweder-oder",
+      "word": "entweder … oder",
+      "lemma": "entweder … oder",
+      "translation": "either … or",
+      "translations": [
+        "either … or"
+      ],
+      "level": "A2",
+      "category": "Conjunctions & Connectors",
+      "partOfSpeech": "conjunction",
+      "frequency": 640,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Entweder wir nehmen den Bus oder wir gehen zu Fuß.",
+          "en": "Either we take the bus or we walk."
+        },
+        {
+          "de": "Ich trinke abends entweder Tee oder Wasser.",
+          "en": "In the evening I drink either tea or water."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ du kommst mit oder du bleibst zu Hause.",
+          "answer": "Entweder",
+          "en": "Either you come along or you stay at home."
+        }
+      ],
+      "notes": "Two-part conjunction. At the start of a sentence both orders are correct: 'Entweder wir nehmen …' and 'Entweder nehmen wir …'. Neither part sends the verb to the end.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "connector",
+        "two-part",
+        "alternative"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "oder",
+        "weder-noch"
+      ]
+    },
+    {
+      "id": "weder-noch",
+      "word": "weder … noch",
+      "lemma": "weder … noch",
+      "translation": "neither … nor",
+      "translations": [
+        "neither … nor"
+      ],
+      "level": "A2",
+      "category": "Conjunctions & Connectors",
+      "partOfSpeech": "conjunction",
+      "frequency": 1100,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich trinke weder Kaffee noch Tee.",
+          "en": "I drink neither coffee nor tea."
+        },
+        {
+          "de": "Er hat weder Zeit noch Lust.",
+          "en": "He has neither the time nor the desire."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Die Wohnung hat ___ Balkon noch Aufzug.",
+          "answer": "weder",
+          "en": "The flat has neither a balcony nor a lift."
+        }
+      ],
+      "notes": "This pair is ALREADY negative — never add 'nicht' or 'kein' as well. If a clause starts with 'noch', the verb comes first: 'Er raucht nicht, noch trinkt er.' Sounds formal; in speech many people just say 'Ich trinke keinen Kaffee und auch keinen Tee.'",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🚫",
+      "imageable": false,
+      "tags": [
+        "connector",
+        "two-part",
+        "negation"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "sowohl … als auch"
+      ],
+      "related": [
+        "entweder-oder",
+        "sondern"
+      ]
+    },
+    {
+      "id": "sowohl-als-auch",
+      "word": "sowohl … als auch",
+      "lemma": "sowohl … als auch",
+      "translation": "both … and",
+      "translations": [
+        "both … and",
+        "as well as"
+      ],
+      "level": "A2",
+      "category": "Conjunctions & Connectors",
+      "partOfSpeech": "conjunction",
+      "frequency": 1400,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich spreche sowohl Türkisch als auch Deutsch.",
+          "en": "I speak both Turkish and German."
+        },
+        {
+          "de": "Sowohl meine Frau als auch ich arbeiten in Berlin.",
+          "en": "Both my wife and I work in Berlin."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Laden hat ___ am Freitag als auch am Samstag geöffnet.",
+          "answer": "sowohl",
+          "en": "The shop is open both on Friday and on Saturday."
+        }
+      ],
+      "notes": "Two-part and noticeably more formal than a plain 'und' — common in job ads and CVs. When it joins two subjects, the verb is plural: 'Sowohl er als auch sie kommen.' Word order stays normal.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "connector",
+        "two-part",
+        "addition",
+        "formal"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "weder … noch"
+      ],
+      "related": [
+        "und",
+        "nicht-nur-sondern-auch"
+      ]
+    },
+    {
+      "id": "nicht-nur-sondern-auch",
+      "word": "nicht nur … sondern auch",
+      "lemma": "nicht nur … sondern auch",
+      "translation": "not only … but also",
+      "translations": [
+        "not only … but also"
+      ],
+      "level": "A2",
+      "category": "Conjunctions & Connectors",
+      "partOfSpeech": "conjunction",
+      "frequency": 1250,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Wohnung ist nicht nur groß, sondern auch günstig.",
+          "en": "The flat is not only big but also cheap."
+        },
+        {
+          "de": "Er spricht nicht nur Deutsch, sondern auch Englisch.",
+          "en": "He speaks not only German but also English."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Das Zimmer ist nicht nur klein, ___ auch dunkel.",
+          "answer": "sondern",
+          "en": "The room is not only small but also dark."
+        }
+      ],
+      "notes": "Two-part. The second half must be 'sondern auch' — never 'aber auch' — because 'nicht' comes first. Word order stays normal in both halves; comma before 'sondern'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "connector",
+        "two-part",
+        "addition"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "sondern",
+        "sowohl-als-auch"
+      ]
+    },
+    {
+      "id": "zwar-aber",
+      "word": "zwar … aber",
+      "lemma": "zwar … aber",
+      "translation": "admittedly … but",
+      "translations": [
+        "admittedly … but",
+        "it is true … but"
+      ],
+      "level": "A2",
+      "category": "Conjunctions & Connectors",
+      "partOfSpeech": "conjunction",
+      "frequency": 1050,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Wohnung ist zwar klein, aber sie ist billig.",
+          "en": "The flat is small, admittedly, but it's cheap."
+        },
+        {
+          "de": "Ich spreche zwar Deutsch, aber noch nicht perfekt.",
+          "en": "I do speak German, but not perfectly yet."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Job ist ___ anstrengend, aber gut bezahlt.",
+          "answer": "zwar",
+          "en": "The job is admittedly tiring, but well paid."
+        }
+      ],
+      "notes": "'zwar' concedes a point, 'aber' delivers the real message — the second half is what the speaker means. Neither part changes the word order. Do not mix it up with 'und zwar', which means 'namely, to be precise'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "connector",
+        "two-part",
+        "contrast"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "aber",
+        "trotzdem"
+      ]
+    },
+    {
+      "id": "deshalb",
+      "word": "deshalb",
+      "lemma": "deshalb",
+      "translation": "therefore",
+      "translations": [
+        "therefore",
+        "that's why",
+        "so"
+      ],
+      "level": "A2",
+      "category": "Conjunctions & Connectors",
+      "partOfSpeech": "adverb",
+      "frequency": 310,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Es regnet, deshalb bleiben wir zu Hause.",
+          "en": "It's raining, that's why we're staying at home."
+        },
+        {
+          "de": "Ich habe keinen Termin, deshalb muss ich warten.",
+          "en": "I don't have an appointment, so I have to wait."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Zug fällt aus, ___ nehme ich den Bus.",
+          "answer": "deshalb",
+          "en": "The train is cancelled, so I'm taking the bus."
+        }
+      ],
+      "notes": "An adverb, not a conjunction: it fills position 1, so the VERB comes next and the subject after it — 'deshalb bleiben wir'. Interchangeable with 'deswegen' and 'darum'. It gives the RESULT; 'weil' gives the reason.",
+      "mnemonic": "deshalb = 'for this reason' → reason first, result after.",
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "connector",
+        "adverbial",
+        "consequence"
+      ],
+      "synonyms": [
+        "deswegen",
+        "darum"
+      ],
+      "antonyms": [],
+      "related": [
+        "deswegen",
+        "weil",
+        "also"
+      ]
+    },
+    {
+      "id": "deswegen",
+      "word": "deswegen",
+      "lemma": "deswegen",
+      "translation": "for that reason",
+      "translations": [
+        "for that reason",
+        "that's why"
+      ],
+      "level": "A2",
+      "category": "Conjunctions & Connectors",
+      "partOfSpeech": "adverb",
+      "frequency": 520,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich bin krank, deswegen komme ich nicht.",
+          "en": "I'm ill, that's why I'm not coming."
+        },
+        {
+          "de": "Sie hat kein Auto, deswegen fährt sie Bahn.",
+          "en": "She doesn't have a car, that's why she takes the train."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Die Miete ist zu hoch, ___ suchen wir eine neue Wohnung.",
+          "answer": "deswegen",
+          "en": "The rent is too high, that's why we're looking for a new flat."
+        }
+      ],
+      "notes": "Same meaning and same behaviour as 'deshalb': the verb follows immediately (deswegen suchen wir). 'deswegen' sounds a touch more spoken, 'deshalb' a touch more written — nobody will correct you either way.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "connector",
+        "adverbial",
+        "consequence"
+      ],
+      "synonyms": [
+        "deshalb",
+        "darum"
+      ],
+      "antonyms": [],
+      "related": [
+        "deshalb",
+        "weil"
+      ]
+    },
+    {
+      "id": "trotzdem",
+      "word": "trotzdem",
+      "lemma": "trotzdem",
+      "translation": "nevertheless",
+      "translations": [
+        "nevertheless",
+        "anyway",
+        "still"
+      ],
+      "level": "A2",
+      "category": "Conjunctions & Connectors",
+      "partOfSpeech": "adverb",
+      "frequency": 380,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Es war teuer. Trotzdem haben wir es gekauft.",
+          "en": "It was expensive. We bought it anyway."
+        },
+        {
+          "de": "Ich bin müde, trotzdem gehe ich noch einkaufen.",
+          "en": "I'm tired, but I'm still going shopping."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Das Wetter war schlecht, ___ hatten wir viel Spaß.",
+          "answer": "trotzdem",
+          "en": "The weather was bad, nevertheless we had a lot of fun."
+        }
+      ],
+      "notes": "Adverb → inversion: 'trotzdem gehe ich'. The subordinating twin is 'obwohl', which sends the verb to the end instead. 'Trotzdem, danke!' also works as a polite 'thanks anyway'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "connector",
+        "adverbial",
+        "contrast"
+      ],
+      "synonyms": [
+        "dennoch"
+      ],
+      "antonyms": [],
+      "related": [
+        "obwohl",
+        "aber"
+      ]
+    },
+    {
+      "id": "also",
+      "word": "also",
+      "lemma": "also",
+      "translation": "so",
+      "translations": [
+        "so",
+        "therefore",
+        "well then"
+      ],
+      "level": "A1",
+      "category": "Conjunctions & Connectors",
+      "partOfSpeech": "adverb",
+      "frequency": 90,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Laden ist zu, also gehen wir morgen.",
+          "en": "The shop is closed, so we'll go tomorrow."
+        },
+        {
+          "de": "Also, fangen wir an!",
+          "en": "Right then, let's start!"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Du hast keinen Hunger? ___ essen wir später.",
+          "answer": "Also",
+          "en": "You're not hungry? Then we'll eat later."
+        }
+      ],
+      "notes": "FALSE FRIEND: German 'also' means 'so / therefore', NOT English 'also' — that is 'auch'. As a connector it triggers inversion ('also gehen wir'), and Germans use it constantly as a filler at the start of a sentence, like English 'well …'.",
+      "mnemonic": "German 'also' = 'and so'; English 'also' = 'auch'.",
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "connector",
+        "adverbial",
+        "consequence",
+        "false-friend"
+      ],
+      "synonyms": [
+        "deshalb"
+      ],
+      "antonyms": [],
+      "related": [
+        "deshalb",
+        "dann"
+      ]
+    },
+    {
+      "id": "dann",
+      "word": "dann",
+      "lemma": "dann",
+      "translation": "then",
+      "translations": [
+        "then",
+        "after that"
+      ],
+      "level": "A1",
+      "category": "Conjunctions & Connectors",
+      "partOfSpeech": "adverb",
+      "frequency": 40,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Zuerst esse ich, dann gehe ich schlafen.",
+          "en": "First I eat, then I go to sleep."
+        },
+        {
+          "de": "Wenn du fertig bist, dann sag bitte Bescheid.",
+          "en": "When you're finished, then please let me know."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich mache erst die Wäsche und ___ koche ich.",
+          "answer": "dann",
+          "en": "First I'll do the laundry and then I'll cook."
+        }
+      ],
+      "notes": "Adverb of time and consequence — in position 1 it forces inversion ('dann gehe ich'). After a 'wenn' clause it often picks the sentence back up: 'Wenn ich Zeit habe, dann komme ich.' Very common as a goodbye: 'Bis dann!'",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "connector",
+        "adverbial",
+        "sequence",
+        "essential"
+      ],
+      "synonyms": [
+        "danach"
+      ],
+      "antonyms": [
+        "zuerst"
+      ],
+      "related": [
+        "danach",
+        "zuerst",
+        "wenn"
+      ]
+    },
+    {
+      "id": "ausserdem",
+      "word": "außerdem",
+      "lemma": "außerdem",
+      "translation": "besides",
+      "translations": [
+        "besides",
+        "in addition",
+        "what's more"
+      ],
+      "level": "A2",
+      "category": "Conjunctions & Connectors",
+      "partOfSpeech": "adverb",
+      "frequency": 470,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Wohnung ist teuer. Außerdem ist sie zu klein.",
+          "en": "The flat is expensive. Besides, it's too small."
+        },
+        {
+          "de": "Ich muss arbeiten, außerdem habe ich einen Termin.",
+          "en": "I have to work, and besides I have an appointment."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Das Handy ist gut und ___ nicht teuer.",
+          "answer": "außerdem",
+          "en": "The phone is good and besides not expensive."
+        }
+      ],
+      "notes": "Adverb → inversion when it opens the sentence ('Außerdem ist sie …'). Perfect for stacking arguments when you complain or negotiate. Near-synonym: 'zusätzlich'; more spoken: 'und dann noch'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "connector",
+        "adverbial",
+        "addition"
+      ],
+      "synonyms": [
+        "zusätzlich",
+        "zudem"
+      ],
+      "antonyms": [],
+      "related": [
+        "und",
+        "vor-allem"
+      ]
+    },
+    {
+      "id": "jedoch",
+      "word": "jedoch",
+      "lemma": "jedoch",
+      "translation": "however",
+      "translations": [
+        "however",
+        "but"
+      ],
+      "level": "A2",
+      "category": "Conjunctions & Connectors",
+      "partOfSpeech": "adverb",
+      "frequency": 900,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Das Zimmer ist schön, jedoch sehr teuer.",
+          "en": "The room is nice, however very expensive."
+        },
+        {
+          "de": "Wir haben angerufen. Jedoch hat niemand geantwortet.",
+          "en": "We called. However, nobody answered."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Preis ist gut, die Lage ___ ist schlecht.",
+          "answer": "jedoch",
+          "en": "The price is good, the location however is bad."
+        }
+      ],
+      "notes": "The formal, written cousin of 'aber'. In position 1 it inverts ('Jedoch hat niemand …'), but it is just as often tucked inside the sentence. You will meet it in official letters and contracts, almost never in the Kneipe.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "connector",
+        "adverbial",
+        "contrast",
+        "formal"
+      ],
+      "synonyms": [
+        "aber",
+        "allerdings"
+      ],
+      "antonyms": [],
+      "related": [
+        "aber",
+        "allerdings"
+      ]
+    },
+    {
+      "id": "sonst",
+      "word": "sonst",
+      "lemma": "sonst",
+      "translation": "otherwise",
+      "translations": [
+        "otherwise",
+        "or else",
+        "else"
+      ],
+      "level": "A1",
+      "category": "Conjunctions & Connectors",
+      "partOfSpeech": "adverb",
+      "frequency": 350,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Beeil dich, sonst kommen wir zu spät.",
+          "en": "Hurry up, otherwise we'll be late."
+        },
+        {
+          "de": "Möchten Sie sonst noch etwas?",
+          "en": "Would you like anything else?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Nimm einen Schirm mit, ___ wirst du nass.",
+          "answer": "sonst",
+          "en": "Take an umbrella, otherwise you'll get wet."
+        }
+      ],
+      "notes": "Two everyday jobs: 'otherwise' warning of a consequence — inversion follows ('sonst kommen wir zu spät') — and 'else' in questions ('sonst noch etwas?').",
+      "mnemonic": null,
+      "germany_context": "At the Bäckerei, Metzgerei or Kiosk the standard follow-up question is 'Sonst noch etwas?' or just 'Sonst noch was?'. The expected replies are 'Nein danke, das war's.' or 'Ja, noch …'.",
+      "emoji": "⚠️",
+      "imageable": false,
+      "tags": [
+        "connector",
+        "adverbial",
+        "condition",
+        "shopping"
+      ],
+      "synonyms": [
+        "andernfalls"
+      ],
+      "antonyms": [],
+      "related": [
+        "falls",
+        "wenn"
+      ]
+    },
+    {
+      "id": "zuerst",
+      "word": "zuerst",
+      "lemma": "zuerst",
+      "translation": "first",
+      "translations": [
+        "first",
+        "at first",
+        "firstly"
+      ],
+      "level": "A1",
+      "category": "Conjunctions & Connectors",
+      "partOfSpeech": "adverb",
+      "frequency": 290,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Zuerst gehe ich zum Amt, dann zur Bank.",
+          "en": "First I go to the office, then to the bank."
+        },
+        {
+          "de": "Was machen wir zuerst?",
+          "en": "What shall we do first?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ musst du dich anmelden, danach bekommst du die Steuer-ID.",
+          "answer": "Zuerst",
+          "en": "First you have to register, afterwards you get your tax ID."
+        }
+      ],
+      "notes": "Adverb → inversion in position 1 ('zuerst gehe ich'). 'erst' is the shorter everyday version, 'als Erstes' the slightly more formal one.",
+      "mnemonic": null,
+      "germany_context": "The usual order after arriving: first a flat plus the landlord's Wohnungsgeberbestätigung, then the Anmeldung at the Bürgeramt (within about 14 days), and only then Steuer-ID, Bankkonto and Krankenkasse. Each step needs the paper from the step before.",
+      "emoji": "1️⃣",
+      "imageable": false,
+      "tags": [
+        "connector",
+        "adverbial",
+        "sequence",
+        "bureaucracy"
+      ],
+      "synonyms": [
+        "erst",
+        "als Erstes"
+      ],
+      "antonyms": [
+        "zuletzt"
+      ],
+      "related": [
+        "dann",
+        "danach",
+        "schliesslich"
+      ]
+    },
+    {
+      "id": "schliesslich",
+      "word": "schließlich",
+      "lemma": "schließlich",
+      "translation": "finally",
+      "translations": [
+        "finally",
+        "in the end",
+        "after all"
+      ],
+      "level": "A2",
+      "category": "Conjunctions & Connectors",
+      "partOfSpeech": "adverb",
+      "frequency": 830,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Wir haben lange gesucht und schließlich eine Wohnung gefunden.",
+          "en": "We searched for a long time and finally found a flat."
+        },
+        {
+          "de": "Schließlich ist er doch noch gekommen.",
+          "en": "In the end he did come after all."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Er hat viel gelernt und ___ die Prüfung bestanden.",
+          "answer": "schließlich",
+          "en": "He studied a lot and finally passed the exam."
+        }
+      ],
+      "notes": "'in the end', after a long process — and also 'after all' when you justify something: 'Ich helfe ihm, er ist schließlich mein Bruder.' In position 1 it inverts. For the impatient 'at last!' use 'endlich'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🏁",
+      "imageable": false,
+      "tags": [
+        "connector",
+        "adverbial",
+        "sequence"
+      ],
+      "synonyms": [
+        "am Ende",
+        "zum Schluss"
+      ],
+      "antonyms": [
+        "zuerst"
+      ],
+      "related": [
+        "zuerst",
+        "danach"
+      ]
+    },
+    {
+      "id": "allerdings",
+      "word": "allerdings",
+      "lemma": "allerdings",
+      "translation": "however",
+      "translations": [
+        "however",
+        "though",
+        "admittedly"
+      ],
+      "level": "A2",
+      "category": "Conjunctions & Connectors",
+      "partOfSpeech": "adverb",
+      "frequency": 870,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Wohnung ist schön, allerdings ist die Miete hoch.",
+          "en": "The flat is nice, though the rent is high."
+        },
+        {
+          "de": "Das Essen war gut, allerdings ein bisschen wenig.",
+          "en": "The food was good, though a bit on the small side."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich komme gern mit, ___ erst nach der Arbeit.",
+          "answer": "allerdings",
+          "en": "I'd be happy to come along, though only after work."
+        }
+      ],
+      "notes": "A softer, very common spoken 'but / though'. In position 1 it inverts ('allerdings ist die Miete …'). On its own, 'Allerdings!' is an emphatic 'Absolutely!' or 'You bet!'",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "connector",
+        "adverbial",
+        "contrast",
+        "spoken"
+      ],
+      "synonyms": [
+        "jedoch",
+        "aber"
+      ],
+      "antonyms": [],
+      "related": [
+        "aber",
+        "jedoch"
+      ]
+    },
+    {
+      "id": "uebrigens",
+      "word": "übrigens",
+      "lemma": "übrigens",
+      "translation": "by the way",
+      "translations": [
+        "by the way",
+        "incidentally"
+      ],
+      "level": "A2",
+      "category": "Conjunctions & Connectors",
+      "partOfSpeech": "adverb",
+      "frequency": 720,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Übrigens, morgen kommt der Hausmeister.",
+          "en": "By the way, the caretaker is coming tomorrow."
+        },
+        {
+          "de": "Ich habe übrigens endlich einen Termin bekommen.",
+          "en": "By the way, I finally got an appointment."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ ist der Supermarkt am Sonntag zu.",
+          "answer": "Übrigens",
+          "en": "By the way, the supermarket is closed on Sunday."
+        }
+      ],
+      "notes": "Adds an afterthought. In position 1 it inverts ('Übrigens ist der …'), or it sits inside the sentence right after the verb. Very frequent in spoken German and in e-mails.",
+      "mnemonic": null,
+      "germany_context": "In most German apartment buildings a Hausmeister looks after repairs, the bins and the Treppenhaus. Report a dripping tap or a broken light to him or to the Hausverwaltung — not to the neighbours — and always in writing if it might affect your Miete.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "connector",
+        "adverbial",
+        "addition",
+        "spoken"
+      ],
+      "synonyms": [
+        "nebenbei gesagt"
+      ],
+      "antonyms": [],
+      "related": [
+        "ausserdem"
+      ]
+    },
+    {
+      "id": "zum-beispiel",
+      "word": "zum Beispiel",
+      "lemma": "zum Beispiel",
+      "translation": "for example",
+      "translations": [
+        "for example",
+        "for instance"
+      ],
+      "level": "A1",
+      "category": "Conjunctions & Connectors",
+      "partOfSpeech": "phrase",
+      "frequency": 240,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich mag Obst, zum Beispiel Äpfel und Bananen.",
+          "en": "I like fruit, for example apples and bananas."
+        },
+        {
+          "de": "Wir können etwas unternehmen, zum Beispiel ins Kino gehen.",
+          "en": "We can do something, for example go to the cinema."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Viele Läden haben sonntags zu, ___ die Supermärkte.",
+          "answer": "zum Beispiel",
+          "en": "Many shops are closed on Sundays, for example the supermarkets."
+        }
+      ],
+      "notes": "Written 'z. B.' (with a space) in almost every German text. If it opens the sentence it inverts: 'Zum Beispiel kannst du …'. Synonyms: 'etwa', 'beispielsweise'.",
+      "mnemonic": null,
+      "germany_context": "German forms and Behörden letters are packed with abbreviations: z. B. (zum Beispiel), bzw. (beziehungsweise), ggf. (gegebenenfalls), inkl. (inklusive), ca. (circa). Learning these five makes official post much less scary.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "connector",
+        "phrase",
+        "example"
+      ],
+      "synonyms": [
+        "etwa",
+        "beispielsweise"
+      ],
+      "antonyms": [],
+      "related": [
+        "ausserdem",
+        "vor-allem"
+      ]
+    },
+    {
+      "id": "vor-allem",
+      "word": "vor allem",
+      "lemma": "vor allem",
+      "translation": "above all",
+      "translations": [
+        "above all",
+        "especially",
+        "mainly"
+      ],
+      "level": "A2",
+      "category": "Conjunctions & Connectors",
+      "partOfSpeech": "phrase",
+      "frequency": 610,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich mag Berlin, vor allem im Sommer.",
+          "en": "I like Berlin, especially in summer."
+        },
+        {
+          "de": "Vor allem brauche ich einen Termin beim Bürgeramt.",
+          "en": "Above all I need an appointment at the citizens' office."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Die Miete ist teuer, ___ in der Innenstadt.",
+          "answer": "vor allem",
+          "en": "The rent is expensive, especially in the city centre."
+        }
+      ],
+      "notes": "Marks the most important item on your list. In position 1 it inverts ('Vor allem brauche ich …'). Near-synonyms: 'besonders', 'hauptsächlich'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "connector",
+        "phrase",
+        "emphasis"
+      ],
+      "synonyms": [
+        "besonders",
+        "hauptsächlich"
+      ],
+      "antonyms": [],
+      "related": [
+        "ausserdem",
+        "zum-beispiel"
+      ]
+    },
+    {
+      "id": "stattdessen",
+      "word": "stattdessen",
+      "lemma": "stattdessen",
+      "translation": "instead",
+      "translations": [
+        "instead",
+        "instead of that"
+      ],
+      "level": "A2",
+      "category": "Conjunctions & Connectors",
+      "partOfSpeech": "adverb",
+      "frequency": 1180,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Bus kam nicht. Stattdessen sind wir gelaufen.",
+          "en": "The bus didn't come. Instead we walked."
+        },
+        {
+          "de": "Ich trinke keinen Kaffee, stattdessen nehme ich einen Tee.",
+          "en": "I don't drink coffee, instead I'll have a tea."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Das Kino war voll, ___ sind wir essen gegangen.",
+          "answer": "stattdessen",
+          "en": "The cinema was full, so instead we went out to eat."
+        }
+      ],
+      "notes": "Adverb → inversion ('stattdessen sind wir …'). In front of a noun use the preposition 'statt' / 'anstatt' + genitive: 'statt eines Autos'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "connector",
+        "adverbial",
+        "alternative"
+      ],
+      "synonyms": [
+        "dafür"
+      ],
+      "antonyms": [],
+      "related": [
+        "sondern",
+        "sonst"
+      ]
+    },
+    {
+      "id": "naemlich",
+      "word": "nämlich",
+      "lemma": "nämlich",
+      "translation": "namely",
+      "translations": [
+        "namely",
+        "you see",
+        "that is"
+      ],
+      "level": "A2",
+      "category": "Conjunctions & Connectors",
+      "partOfSpeech": "adverb",
+      "frequency": 590,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich kann nicht kommen, ich habe nämlich einen Termin.",
+          "en": "I can't come — I've got an appointment, you see."
+        },
+        {
+          "de": "Die Wohnung nehmen wir nicht, sie ist nämlich zu teuer.",
+          "en": "We're not taking the flat — it's too expensive, you see."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Er kommt später, er muss ___ noch arbeiten.",
+          "answer": "nämlich",
+          "en": "He's coming later — he still has to work, you see."
+        }
+      ],
+      "notes": "Gives a reason, but it NEVER starts a sentence: it sits inside the clause, after the verb, and the word order stays completely normal. Think of it as a relaxed spoken 'because' that costs you no grammar.",
+      "mnemonic": "nämlich never takes the front seat.",
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "connector",
+        "adverbial",
+        "cause",
+        "spoken"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "weil",
+        "denn"
+      ]
+    },
+    {
+      "id": "je-desto",
+      "word": "je … desto",
+      "lemma": "je … desto",
+      "translation": "the … the",
+      "translations": [
+        "the … the",
+        "the more … the more"
+      ],
+      "level": "A2",
+      "category": "Conjunctions & Connectors",
+      "partOfSpeech": "conjunction",
+      "frequency": 1350,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Je länger ich hier wohne, desto besser wird mein Deutsch.",
+          "en": "The longer I live here, the better my German gets."
+        },
+        {
+          "de": "Je früher, desto besser.",
+          "en": "The earlier, the better."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ mehr ich lerne, desto leichter wird es.",
+          "answer": "Je",
+          "en": "The more I learn, the easier it gets."
+        }
+      ],
+      "notes": "Both halves need a comparative. The 'je' half is a subordinate clause, so its verb goes to the END; the 'desto' half inverts: 'Je mehr ich arbeite, desto müder bin ich.' 'umso' can replace 'desto'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "📈",
+      "imageable": false,
+      "tags": [
+        "connector",
+        "two-part",
+        "comparison"
+      ],
+      "synonyms": [
+        "je … umso"
+      ],
+      "antonyms": [],
+      "related": [
+        "als"
+      ]
+    }
+  ]
+}

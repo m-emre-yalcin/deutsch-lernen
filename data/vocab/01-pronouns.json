@@ -1,0 +1,2979 @@
+{
+  "category": "Pronouns & Determiners",
+  "words": [
+    {
+      "id": "ich",
+      "word": "ich",
+      "lemma": "ich",
+      "translation": "I",
+      "translations": [
+        "I"
+      ],
+      "level": "A0",
+      "category": "Pronouns & Determiners",
+      "partOfSpeech": "pronoun",
+      "frequency": 1,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich heiße Emre.",
+          "en": "My name is Emre."
+        },
+        {
+          "de": "Ich komme aus der Türkei.",
+          "en": "I come from Turkey."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ wohne jetzt in Berlin.",
+          "answer": "Ich",
+          "en": "I live in Berlin now."
+        }
+      ],
+      "notes": "Nominative (subject) form of the 1st person singular. Unlike English 'I', it is only capitalised at the start of a sentence.",
+      "mnemonic": "ich → I; the accusative 'mich' and dative 'mir' both start with m- like 'me'.",
+      "germany_context": null,
+      "emoji": "🙋",
+      "imageable": false,
+      "tags": [
+        "pronoun",
+        "personal",
+        "nominativ",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "mich",
+        "mir",
+        "mein"
+      ]
+    },
+    {
+      "id": "du",
+      "word": "du",
+      "lemma": "du",
+      "translation": "you (informal singular)",
+      "translations": [
+        "you (informal singular)",
+        "you"
+      ],
+      "level": "A0",
+      "category": "Pronouns & Determiners",
+      "partOfSpeech": "pronoun",
+      "frequency": 2,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Woher kommst du?",
+          "en": "Where do you come from?"
+        },
+        {
+          "de": "Du sprichst schon sehr gut Deutsch.",
+          "en": "You already speak German very well."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Was machst ___ am Wochenende?",
+          "answer": "du",
+          "en": "What are you doing at the weekend?"
+        }
+      ],
+      "notes": "Nominative of the 2nd person singular, informal. Accusative 'dich', dative 'dir'. With strangers and officials use 'Sie'.",
+      "mnemonic": null,
+      "germany_context": "Germans use 'du' with friends, family, children and in most tech companies and startups, but stay with 'Sie' in shops, at the doctor and at the Bürgeramt. Let the older or more senior person offer the 'du' first.",
+      "emoji": "👉",
+      "imageable": false,
+      "tags": [
+        "pronoun",
+        "personal",
+        "nominativ",
+        "informal",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "dich",
+        "dir",
+        "dein",
+        "sie-formal"
+      ]
+    },
+    {
+      "id": "er",
+      "word": "er",
+      "lemma": "er",
+      "translation": "he",
+      "translations": [
+        "he",
+        "it"
+      ],
+      "level": "A0",
+      "category": "Pronouns & Determiners",
+      "partOfSpeech": "pronoun",
+      "frequency": 4,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Er heißt Thomas und ist mein Kollege.",
+          "en": "His name is Thomas and he is my colleague."
+        },
+        {
+          "de": "Er arbeitet bei einer Firma in München.",
+          "en": "He works at a company in Munich."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wo ist Jan? ___ ist noch im Büro.",
+          "answer": "Er",
+          "en": "Where is Jan? He is still at the office."
+        }
+      ],
+      "notes": "Nominative 3rd person masculine. It also replaces any masculine noun, not only people: 'Der Tisch? Er ist neu.'",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "pronoun",
+        "personal",
+        "nominativ",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "ihn",
+        "ihm",
+        "sein-possessiv"
+      ]
+    },
+    {
+      "id": "sie-singular",
+      "word": "sie (Singular)",
+      "lemma": "sie",
+      "translation": "she",
+      "translations": [
+        "she",
+        "it"
+      ],
+      "level": "A0",
+      "category": "Pronouns & Determiners",
+      "partOfSpeech": "pronoun",
+      "frequency": 5,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Sie ist meine Kollegin.",
+          "en": "She is my colleague."
+        },
+        {
+          "de": "Sie wohnt in Hamburg.",
+          "en": "She lives in Hamburg."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Meine Frau? ___ arbeitet heute zu Hause.",
+          "answer": "Sie",
+          "en": "My wife? She is working from home today."
+        }
+      ],
+      "notes": "Nominative 3rd person feminine, written with a small s. Capital 'Sie' is the formal 'you'. It also replaces feminine nouns: 'Die Wohnung? Sie ist klein.'",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "pronoun",
+        "personal",
+        "nominativ",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "ihr-dativ",
+        "ihr-possessiv",
+        "sie-plural",
+        "sie-formal"
+      ]
+    },
+    {
+      "id": "es",
+      "word": "es",
+      "lemma": "es",
+      "translation": "it",
+      "translations": [
+        "it"
+      ],
+      "level": "A0",
+      "category": "Pronouns & Determiners",
+      "partOfSpeech": "pronoun",
+      "frequency": 6,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Es ist heute sehr kalt.",
+          "en": "It is very cold today."
+        },
+        {
+          "de": "Das WLAN? Es funktioniert nicht.",
+          "en": "The wifi? It isn't working."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wie geht ___ dir?",
+          "answer": "es",
+          "en": "How are you?"
+        }
+      ],
+      "notes": "Nominative and accusative of the 3rd person neuter — both forms are 'es'. It is also the dummy subject in weather and time phrases: 'Es regnet', 'Es ist acht Uhr'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "pronoun",
+        "personal",
+        "nominativ",
+        "akkusativ",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "ihm",
+        "er"
+      ]
+    },
+    {
+      "id": "wir",
+      "word": "wir",
+      "lemma": "wir",
+      "translation": "we",
+      "translations": [
+        "we"
+      ],
+      "level": "A0",
+      "category": "Pronouns & Determiners",
+      "partOfSpeech": "pronoun",
+      "frequency": 8,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Wir wohnen seit einem Jahr in Köln.",
+          "en": "We have been living in Cologne for a year."
+        },
+        {
+          "de": "Wir gehen heute Abend essen.",
+          "en": "We are going out to eat tonight."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ haben morgen einen Termin beim Amt.",
+          "answer": "Wir",
+          "en": "We have an appointment at the public office tomorrow."
+        }
+      ],
+      "notes": "Nominative 1st person plural. Its accusative and dative are both 'uns'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "👥",
+      "imageable": false,
+      "tags": [
+        "pronoun",
+        "personal",
+        "nominativ",
+        "plural",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "uns",
+        "unser"
+      ]
+    },
+    {
+      "id": "ihr-nominativ",
+      "word": "ihr (Nominativ)",
+      "lemma": "ihr",
+      "translation": "you (plural, informal)",
+      "translations": [
+        "you (plural, informal)",
+        "you all"
+      ],
+      "level": "A1",
+      "category": "Pronouns & Determiners",
+      "partOfSpeech": "pronoun",
+      "frequency": 40,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Wo wohnt ihr jetzt?",
+          "en": "Where do you (all) live now?"
+        },
+        {
+          "de": "Habt ihr schon gegessen?",
+          "en": "Have you (all) eaten already?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Kommt ___ mit ins Kino?",
+          "answer": "ihr",
+          "en": "Are you (all) coming along to the cinema?"
+        }
+      ],
+      "notes": "Nominative 2nd person plural, informal — 'you all'. Don't confuse it with possessive 'ihr' (her/their) or dative 'ihr' (to her); the verb ending -t marks this one: ihr kommt, ihr habt.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "pronoun",
+        "personal",
+        "nominativ",
+        "plural",
+        "informal"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "euch",
+        "euer",
+        "du"
+      ]
+    },
+    {
+      "id": "sie-plural",
+      "word": "sie (Plural)",
+      "lemma": "sie",
+      "translation": "they",
+      "translations": [
+        "they",
+        "them"
+      ],
+      "level": "A1",
+      "category": "Pronouns & Determiners",
+      "partOfSpeech": "pronoun",
+      "frequency": 12,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Meine Eltern? Sie besuchen mich im Sommer.",
+          "en": "My parents? They are visiting me in the summer."
+        },
+        {
+          "de": "Ich kenne sie aus dem Deutschkurs.",
+          "en": "I know them from the German course."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wo sind die Kinder? ___ spielen im Hof.",
+          "answer": "Sie",
+          "en": "Where are the children? They are playing in the courtyard."
+        }
+      ],
+      "notes": "Nominative and accusative 3rd person plural — both are 'sie'. Identical in shape to 'sie' (she) and formal 'Sie'; the verb form and the context tell them apart. Dative is 'ihnen'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "pronoun",
+        "personal",
+        "nominativ",
+        "akkusativ",
+        "plural"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "ihnen",
+        "sie-singular",
+        "sie-formal"
+      ]
+    },
+    {
+      "id": "sie-formal",
+      "word": "Sie (formell)",
+      "lemma": "Sie",
+      "translation": "you (formal)",
+      "translations": [
+        "you (formal)",
+        "you"
+      ],
+      "level": "A0",
+      "category": "Pronouns & Determiners",
+      "partOfSpeech": "pronoun",
+      "frequency": 3,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Wie heißen Sie?",
+          "en": "What is your name?"
+        },
+        {
+          "de": "Können Sie mir bitte helfen?",
+          "en": "Could you help me, please?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Sprechen ___ Englisch?",
+          "answer": "Sie",
+          "en": "Do you speak English?"
+        }
+      ],
+      "notes": "The polite 'you', always capitalised, used for one person or many. It takes the same verb form as 'sie' (they): Sie kommen, Sie haben.",
+      "mnemonic": "Capital S = capital-R Respect.",
+      "germany_context": "Default to 'Sie' with anyone you don't know: at the Bürgeramt, the doctor, the bank, your Vermieter and older neighbours. Using 'du' too early sounds rude; using 'Sie' too long only sounds polite.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "pronoun",
+        "personal",
+        "nominativ",
+        "formal",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "du"
+      ],
+      "related": [
+        "ihnen-formal",
+        "ihr-formal",
+        "du"
+      ]
+    },
+    {
+      "id": "mich",
+      "word": "mich",
+      "lemma": "mich",
+      "translation": "me",
+      "translations": [
+        "me",
+        "myself"
+      ],
+      "level": "A1",
+      "category": "Pronouns & Determiners",
+      "partOfSpeech": "pronoun",
+      "frequency": 25,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Kannst du mich morgen anrufen?",
+          "en": "Can you call me tomorrow?"
+        },
+        {
+          "de": "Er kennt mich schon lange.",
+          "en": "He has known me for a long time."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Chef hat ___ gestern gefragt.",
+          "answer": "mich",
+          "en": "The boss asked me yesterday."
+        }
+      ],
+      "notes": "Accusative of 'ich' — the direct object. It is also the reflexive form: 'Ich wasche mich', 'Ich freue mich'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "pronoun",
+        "personal",
+        "akkusativ",
+        "reflexiv"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "ich",
+        "mir",
+        "sich"
+      ]
+    },
+    {
+      "id": "mir",
+      "word": "mir",
+      "lemma": "mir",
+      "translation": "(to) me",
+      "translations": [
+        "(to) me",
+        "me",
+        "to me"
+      ],
+      "level": "A1",
+      "category": "Pronouns & Determiners",
+      "partOfSpeech": "pronoun",
+      "frequency": 22,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Kannst du mir bitte helfen?",
+          "en": "Can you help me, please?"
+        },
+        {
+          "de": "Mir ist kalt.",
+          "en": "I am cold."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Gib ___ bitte den Schlüssel.",
+          "answer": "mir",
+          "en": "Give me the key, please."
+        }
+      ],
+      "notes": "Dative of 'ich' — the indirect object. Obligatory after helfen, danken, gehören, gefallen and after dative prepositions (mit, bei, von, zu, nach, aus, seit).",
+      "mnemonic": "mir has an R like 'to me' — the R-form is the dative, the CH-form (mich) is the accusative.",
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "pronoun",
+        "personal",
+        "dativ"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "ich",
+        "mich"
+      ]
+    },
+    {
+      "id": "dich",
+      "word": "dich",
+      "lemma": "dich",
+      "translation": "you (informal, accusative)",
+      "translations": [
+        "you (informal, accusative)",
+        "you",
+        "yourself"
+      ],
+      "level": "A1",
+      "category": "Pronouns & Determiners",
+      "partOfSpeech": "pronoun",
+      "frequency": 45,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich rufe dich später an.",
+          "en": "I'll call you later."
+        },
+        {
+          "de": "Ich sehe dich morgen im Büro.",
+          "en": "I'll see you tomorrow at the office."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wer hat ___ zum Bahnhof gebracht?",
+          "answer": "dich",
+          "en": "Who took you to the station?"
+        }
+      ],
+      "notes": "Accusative of 'du'. Also the reflexive form: 'Setz dich!', 'Beeil dich!'",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "pronoun",
+        "personal",
+        "akkusativ",
+        "reflexiv",
+        "informal"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "du",
+        "dir"
+      ]
+    },
+    {
+      "id": "dir",
+      "word": "dir",
+      "lemma": "dir",
+      "translation": "(to) you (informal)",
+      "translations": [
+        "(to) you (informal)",
+        "you",
+        "to you"
+      ],
+      "level": "A1",
+      "category": "Pronouns & Determiners",
+      "partOfSpeech": "pronoun",
+      "frequency": 42,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich schicke dir die Adresse per WhatsApp.",
+          "en": "I'll send you the address on WhatsApp."
+        },
+        {
+          "de": "Wie geht es dir?",
+          "en": "How are you?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich kaufe ___ einen Kaffee.",
+          "answer": "dir",
+          "en": "I'll buy you a coffee."
+        }
+      ],
+      "notes": "Dative of 'du'. 'Wie geht es dir?' is the informal version of 'Wie geht es Ihnen?'",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "pronoun",
+        "personal",
+        "dativ",
+        "informal"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "du",
+        "dich",
+        "ihnen-formal"
+      ]
+    },
+    {
+      "id": "ihn",
+      "word": "ihn",
+      "lemma": "ihn",
+      "translation": "him",
+      "translations": [
+        "him",
+        "it"
+      ],
+      "level": "A1",
+      "category": "Pronouns & Determiners",
+      "partOfSpeech": "pronoun",
+      "frequency": 55,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich kenne ihn von der Arbeit.",
+          "en": "I know him from work."
+        },
+        {
+          "de": "Ruf ihn bitte an!",
+          "en": "Please call him!"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Den Vertrag? Ich habe ___ schon unterschrieben.",
+          "answer": "ihn",
+          "en": "The contract? I have already signed it."
+        }
+      ],
+      "notes": "Accusative of 'er'. It replaces masculine things as well as people: 'Der Kaffee? Ich trinke ihn schwarz.'",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "pronoun",
+        "personal",
+        "akkusativ"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "er",
+        "ihm"
+      ]
+    },
+    {
+      "id": "ihm",
+      "word": "ihm",
+      "lemma": "ihm",
+      "translation": "(to) him",
+      "translations": [
+        "(to) him",
+        "him",
+        "to him"
+      ],
+      "level": "A1",
+      "category": "Pronouns & Determiners",
+      "partOfSpeech": "pronoun",
+      "frequency": 60,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich habe ihm eine E-Mail geschrieben.",
+          "en": "I wrote him an email."
+        },
+        {
+          "de": "Hilf ihm bitte mit dem Formular!",
+          "en": "Please help him with the form!"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wir geben ___ morgen den Schlüssel.",
+          "answer": "ihm",
+          "en": "We'll give him the key tomorrow."
+        }
+      ],
+      "notes": "Dative of 'er' and of 'es'. Learn the pair together: ihn = accusative, ihm = dative (m for 'mit dem' — dative).",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "pronoun",
+        "personal",
+        "dativ"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "er",
+        "ihn",
+        "es"
+      ]
+    },
+    {
+      "id": "ihr-dativ",
+      "word": "ihr (Dativ)",
+      "lemma": "ihr",
+      "translation": "(to) her",
+      "translations": [
+        "(to) her",
+        "her",
+        "to her"
+      ],
+      "level": "A2",
+      "category": "Pronouns & Determiners",
+      "partOfSpeech": "pronoun",
+      "frequency": 95,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich habe ihr beim Umzug geholfen.",
+          "en": "I helped her with the move."
+        },
+        {
+          "de": "Gib ihr bitte das Buch zurück.",
+          "en": "Please give the book back to her."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wir schenken ___ Blumen zum Geburtstag.",
+          "answer": "ihr",
+          "en": "We are giving her flowers for her birthday."
+        }
+      ],
+      "notes": "Dative of 'sie' (she). The accusative of 'sie' stays 'sie', so only the dative changes shape — that is why 'Ich sehe sie' but 'Ich helfe ihr'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "pronoun",
+        "personal",
+        "dativ"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "sie-singular",
+        "ihr-possessiv",
+        "ihr-nominativ"
+      ]
+    },
+    {
+      "id": "uns",
+      "word": "uns",
+      "lemma": "uns",
+      "translation": "us",
+      "translations": [
+        "us",
+        "to us",
+        "ourselves"
+      ],
+      "level": "A1",
+      "category": "Pronouns & Determiners",
+      "partOfSpeech": "pronoun",
+      "frequency": 50,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Kannst du uns vom Bahnhof abholen?",
+          "en": "Can you pick us up from the station?"
+        },
+        {
+          "de": "Der Nachbar hat uns geholfen.",
+          "en": "The neighbour helped us."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ruf ___ bitte an, wenn du da bist.",
+          "answer": "uns",
+          "en": "Please call us when you are here."
+        }
+      ],
+      "notes": "Accusative and dative of 'wir' — one form covers both cases. Also reflexive: 'Wir treffen uns um acht.'",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "pronoun",
+        "personal",
+        "akkusativ",
+        "dativ",
+        "plural"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "wir",
+        "unser"
+      ]
+    },
+    {
+      "id": "euch",
+      "word": "euch",
+      "lemma": "euch",
+      "translation": "you (plural, object)",
+      "translations": [
+        "you (plural, object)",
+        "you",
+        "yourselves"
+      ],
+      "level": "A2",
+      "category": "Pronouns & Determiners",
+      "partOfSpeech": "pronoun",
+      "frequency": 120,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich besuche euch am Wochenende.",
+          "en": "I'll visit you (all) at the weekend."
+        },
+        {
+          "de": "Wie geht es euch?",
+          "en": "How are you (all)?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich schicke ___ die Fotos heute Abend.",
+          "answer": "euch",
+          "en": "I'll send you (all) the photos tonight."
+        }
+      ],
+      "notes": "Accusative and dative of 'ihr' (you plural) — one form for both. Also reflexive: 'Setzt euch!'",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "pronoun",
+        "personal",
+        "akkusativ",
+        "dativ",
+        "plural",
+        "informal"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "ihr-nominativ",
+        "euer"
+      ]
+    },
+    {
+      "id": "ihnen",
+      "word": "ihnen",
+      "lemma": "ihnen",
+      "translation": "(to) them",
+      "translations": [
+        "(to) them",
+        "them",
+        "to them"
+      ],
+      "level": "A2",
+      "category": "Pronouns & Determiners",
+      "partOfSpeech": "pronoun",
+      "frequency": 110,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich habe ihnen die Wohnung gezeigt.",
+          "en": "I showed them the apartment."
+        },
+        {
+          "de": "Gehört das Auto ihnen?",
+          "en": "Does the car belong to them?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wir haben ___ gestern geschrieben.",
+          "answer": "ihnen",
+          "en": "We wrote to them yesterday."
+        }
+      ],
+      "notes": "Dative of 'sie' (they), written with a small i. The accusative of 'they' is simply 'sie'. Capitalised 'Ihnen' is the formal 'to you'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "pronoun",
+        "personal",
+        "dativ",
+        "plural"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "sie-plural",
+        "ihnen-formal"
+      ]
+    },
+    {
+      "id": "ihnen-formal",
+      "word": "Ihnen (formell)",
+      "lemma": "Ihnen",
+      "translation": "(to) you (formal)",
+      "translations": [
+        "(to) you (formal)",
+        "you",
+        "to you"
+      ],
+      "level": "A1",
+      "category": "Pronouns & Determiners",
+      "partOfSpeech": "pronoun",
+      "frequency": 30,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Wie geht es Ihnen?",
+          "en": "How are you?"
+        },
+        {
+          "de": "Kann ich Ihnen helfen?",
+          "en": "Can I help you?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich schicke ___ die Unterlagen per E-Mail.",
+          "answer": "Ihnen",
+          "en": "I'll send you the documents by email."
+        }
+      ],
+      "notes": "Dative of the formal 'Sie', always capitalised. 'Kann ich Ihnen helfen?' is the standard opener from shop and office staff.",
+      "mnemonic": null,
+      "germany_context": "'Kann ich Ihnen helfen?' is how counter and shop staff open, and 'Haben Sie einen Termin?' is usually the next question. Answer 'Ich habe einen Termin um 10 Uhr' or 'Nein, leider nicht'.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "pronoun",
+        "personal",
+        "dativ",
+        "formal"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "sie-formal",
+        "ihr-formal",
+        "dir"
+      ]
+    },
+    {
+      "id": "mein",
+      "word": "mein",
+      "lemma": "mein",
+      "translation": "my",
+      "translations": [
+        "my"
+      ],
+      "level": "A0",
+      "category": "Pronouns & Determiners",
+      "partOfSpeech": "article",
+      "frequency": 10,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Das ist mein Mann.",
+          "en": "This is my husband."
+        },
+        {
+          "de": "Mein Name ist Emre Yalcin.",
+          "en": "My name is Emre Yalcin."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ Wohnung ist im dritten Stock.",
+          "answer": "Meine",
+          "en": "My apartment is on the third floor."
+        }
+      ],
+      "notes": "Possessive article. It takes exactly the endings of 'ein': mein Mann, meine Frau, mein Kind, meine Eltern, meinen Bruder (accusative).",
+      "mnemonic": "mein ≈ 'mine'.",
+      "germany_context": "Your surname must be on the Klingelschild (doorbell sign) and the Briefkasten. German post and parcel services do not deliver to an unnamed letterbox, and Amt letters simply go back to the sender.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "possessiv",
+        "determiner",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "ich",
+        "dein",
+        "unser"
+      ]
+    },
+    {
+      "id": "dein",
+      "word": "dein",
+      "lemma": "dein",
+      "translation": "your (informal singular)",
+      "translations": [
+        "your (informal singular)",
+        "your"
+      ],
+      "level": "A1",
+      "category": "Pronouns & Determiners",
+      "partOfSpeech": "article",
+      "frequency": 35,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ist das dein Fahrrad?",
+          "en": "Is that your bike?"
+        },
+        {
+          "de": "Wie ist deine Handynummer?",
+          "en": "What is your mobile number?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wo sind ___ Schlüssel?",
+          "answer": "deine",
+          "en": "Where are your keys?"
+        }
+      ],
+      "notes": "Possessive article belonging to 'du'. Same endings as 'ein': dein Vater, deine Mutter, dein Kind, deinen Ausweis (accusative).",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "possessiv",
+        "determiner",
+        "informal"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "du",
+        "mein",
+        "ihr-formal"
+      ]
+    },
+    {
+      "id": "sein-possessiv",
+      "word": "sein (Possessiv)",
+      "lemma": "sein",
+      "translation": "his",
+      "translations": [
+        "his",
+        "its"
+      ],
+      "level": "A1",
+      "category": "Pronouns & Determiners",
+      "partOfSpeech": "article",
+      "frequency": 38,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Das ist sein Auto.",
+          "en": "That is his car."
+        },
+        {
+          "de": "Seine Wohnung ist sehr klein.",
+          "en": "His apartment is very small."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Er sucht ___ Handy.",
+          "answer": "sein",
+          "en": "He is looking for his phone."
+        }
+      ],
+      "notes": "Possessive article for 'er' and 'es'. It looks identical to the verb 'sein' (to be) — if it stands directly in front of a noun, it means 'his/its'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "possessiv",
+        "determiner"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "er",
+        "ihr-possessiv"
+      ]
+    },
+    {
+      "id": "ihr-possessiv",
+      "word": "ihr (Possessiv)",
+      "lemma": "ihr",
+      "translation": "her",
+      "translations": [
+        "her",
+        "their"
+      ],
+      "level": "A1",
+      "category": "Pronouns & Determiners",
+      "partOfSpeech": "article",
+      "frequency": 44,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Das ist ihr Mantel.",
+          "en": "That is her coat."
+        },
+        {
+          "de": "Ihre Eltern wohnen in Izmir.",
+          "en": "Her parents live in Izmir."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Anna hat ___ Handy vergessen.",
+          "answer": "ihr",
+          "en": "Anna forgot her phone."
+        }
+      ],
+      "notes": "Possessive article meaning 'her' (for singular 'sie') and 'their' (for plural 'sie'). Written with a capital I it becomes the formal 'your'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "possessiv",
+        "determiner"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "sie-singular",
+        "sie-plural",
+        "ihr-formal"
+      ]
+    },
+    {
+      "id": "unser",
+      "word": "unser",
+      "lemma": "unser",
+      "translation": "our",
+      "translations": [
+        "our"
+      ],
+      "level": "A1",
+      "category": "Pronouns & Determiners",
+      "partOfSpeech": "article",
+      "frequency": 70,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Das ist unsere Wohnung.",
+          "en": "This is our apartment."
+        },
+        {
+          "de": "Unser Sohn geht in die Kita.",
+          "en": "Our son goes to daycare."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ Nachbarn sind sehr nett.",
+          "answer": "Unsere",
+          "en": "Our neighbours are very nice."
+        }
+      ],
+      "notes": "Possessive article for 'wir'. The endings are added to the full stem: unser Haus, unsere Wohnung, unseren Vermieter, unseren Kindern.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "possessiv",
+        "determiner",
+        "plural"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "wir",
+        "uns",
+        "euer"
+      ]
+    },
+    {
+      "id": "euer",
+      "word": "euer",
+      "lemma": "euer",
+      "translation": "your (plural, informal)",
+      "translations": [
+        "your (plural, informal)",
+        "your"
+      ],
+      "level": "A2",
+      "category": "Pronouns & Determiners",
+      "partOfSpeech": "article",
+      "frequency": 200,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ist das euer Auto?",
+          "en": "Is that your car?"
+        },
+        {
+          "de": "Eure Wohnung ist wirklich schön.",
+          "en": "Your apartment is really nice."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wie ist ___ neue Adresse?",
+          "answer": "eure",
+          "en": "What is your new address?"
+        }
+      ],
+      "notes": "Possessive article for 'ihr' (you plural). The -e- of the stem drops as soon as an ending is added: euer Auto, but eure Wohnung, euren Freunden.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "possessiv",
+        "determiner",
+        "plural",
+        "informal"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "ihr-nominativ",
+        "euch",
+        "unser"
+      ]
+    },
+    {
+      "id": "ihr-formal",
+      "word": "Ihr (formell)",
+      "lemma": "Ihr",
+      "translation": "your (formal)",
+      "translations": [
+        "your (formal)",
+        "your"
+      ],
+      "level": "A1",
+      "category": "Pronouns & Determiners",
+      "partOfSpeech": "article",
+      "frequency": 65,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ist das Ihr Koffer?",
+          "en": "Is that your suitcase?"
+        },
+        {
+          "de": "Wie ist Ihre Telefonnummer?",
+          "en": "What is your phone number?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Bitte unterschreiben Sie ___ Antrag hier.",
+          "answer": "Ihren",
+          "en": "Please sign your application here."
+        }
+      ],
+      "notes": "Possessive article for the formal 'Sie', always with a capital I. Standard in official letters: 'Ihr Antrag', 'Ihre Anmeldung', 'Ihr Schreiben vom 3. August'.",
+      "mnemonic": null,
+      "germany_context": "German authorities still decide most things on paper. Letters open with 'Sehr geehrte Damen und Herren' and refer to 'Ihr Antrag' or 'Ihr Schreiben' — check your Briefkasten regularly, deadlines in those letters are binding.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "possessiv",
+        "determiner",
+        "formal"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "sie-formal",
+        "ihnen-formal",
+        "dein"
+      ]
+    },
+    {
+      "id": "dieser",
+      "word": "dieser",
+      "lemma": "dieser",
+      "translation": "this (masculine)",
+      "translations": [
+        "this (masculine)",
+        "this",
+        "this one"
+      ],
+      "level": "A1",
+      "category": "Pronouns & Determiners",
+      "partOfSpeech": "article",
+      "frequency": 48,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Dieser Termin passt mir gut.",
+          "en": "This appointment suits me well."
+        },
+        {
+          "de": "Dieser Zug fährt nach Frankfurt.",
+          "en": "This train goes to Frankfurt."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ Bus fährt zum Hauptbahnhof.",
+          "answer": "Dieser",
+          "en": "This bus goes to the main station."
+        }
+      ],
+      "notes": "Masculine nominative of the demonstrative 'this'. It takes der-endings: dieser Mann (nom), diesen Mann (akk), diesem Mann (dat).",
+      "mnemonic": "dies- + der-endings: dieser / diese / dieses, like der / die / das.",
+      "germany_context": "Termine run daily life here — Bürgeramt, doctors, even phone shops. Slots open online weeks ahead, so book the Termin first and worry about 'Dieser Termin passt mir' second.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "demonstrativ",
+        "determiner"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "jener"
+      ],
+      "related": [
+        "diese",
+        "dieses",
+        "jener"
+      ]
+    },
+    {
+      "id": "diese",
+      "word": "diese",
+      "lemma": "diese",
+      "translation": "this (feminine) / these",
+      "translations": [
+        "this (feminine) / these",
+        "this",
+        "these"
+      ],
+      "level": "A1",
+      "category": "Pronouns & Determiners",
+      "partOfSpeech": "article",
+      "frequency": 49,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Diese Wohnung ist zu teuer.",
+          "en": "This apartment is too expensive."
+        },
+        {
+          "de": "Diese Schuhe gefallen mir.",
+          "en": "I like these shoes."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ Woche habe ich viel zu tun.",
+          "answer": "Diese",
+          "en": "This week I have a lot to do."
+        }
+      ],
+      "notes": "Covers two slots: feminine singular (diese Frau) and all plurals (diese Leute), in nominative and accusative. 'diese Woche' = this week, 'diesen Monat' = this month.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "demonstrativ",
+        "determiner",
+        "plural"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "dieser",
+        "dieses"
+      ]
+    },
+    {
+      "id": "dieses",
+      "word": "dieses",
+      "lemma": "dieses",
+      "translation": "this (neuter)",
+      "translations": [
+        "this (neuter)",
+        "this"
+      ],
+      "level": "A1",
+      "category": "Pronouns & Determiners",
+      "partOfSpeech": "article",
+      "frequency": 52,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Dieses Formular müssen Sie ausfüllen.",
+          "en": "You have to fill in this form."
+        },
+        {
+          "de": "Dieses Jahr bleiben wir in Deutschland.",
+          "en": "This year we are staying in Germany."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ Haus gehört meinem Vermieter.",
+          "answer": "Dieses",
+          "en": "This house belongs to my landlord."
+        }
+      ],
+      "notes": "Neuter nominative and accusative. In relaxed speech people often point instead and say 'das da' — but 'dieses Jahr' and 'dieses Wochenende' are used constantly.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "demonstrativ",
+        "determiner"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "dieser",
+        "diese"
+      ]
+    },
+    {
+      "id": "jener",
+      "word": "jener",
+      "lemma": "jener",
+      "translation": "that (one)",
+      "translations": [
+        "that (one)",
+        "that",
+        "that one"
+      ],
+      "level": "A2",
+      "category": "Pronouns & Determiners",
+      "partOfSpeech": "article",
+      "frequency": 900,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Dieses Buch ist neu, jenes ist alt.",
+          "en": "This book is new, that one is old."
+        },
+        {
+          "de": "In jener Zeit gab es noch keine Handys.",
+          "en": "In those days there were no mobile phones yet."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Nicht dieser Zug fährt nach Hamburg, sondern ___ dort.",
+          "answer": "jener",
+          "en": "It's not this train that goes to Hamburg, but that one over there."
+        }
+      ],
+      "notes": "The formal, rather literary 'that'. Almost nobody says it in spoken German — people say 'der da' / 'das da' instead. Worth recognising in written texts, not worth producing.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "demonstrativ",
+        "determiner",
+        "formal",
+        "passive-vocabulary"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "dieser"
+      ],
+      "related": [
+        "dieser",
+        "das-demonstrativ"
+      ]
+    },
+    {
+      "id": "das-demonstrativ",
+      "word": "das (Demonstrativpronomen)",
+      "lemma": "das",
+      "translation": "that / this (pointing)",
+      "translations": [
+        "that / this (pointing)",
+        "that",
+        "this"
+      ],
+      "level": "A0",
+      "category": "Pronouns & Determiners",
+      "partOfSpeech": "pronoun",
+      "frequency": 7,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Das ist mein Kollege.",
+          "en": "This is my colleague."
+        },
+        {
+          "de": "Was kostet das?",
+          "en": "How much does that cost?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ war ein sehr guter Film.",
+          "answer": "Das",
+          "en": "That was a very good film."
+        }
+      ],
+      "notes": "Demonstrative pronoun 'this/that'. It stays 'das' whatever follows: 'Das ist mein Mann', 'Das ist meine Frau', 'Das sind meine Kinder'. Don't confuse it with the article 'das' or the conjunction 'dass'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "👆",
+      "imageable": false,
+      "tags": [
+        "demonstrativ",
+        "pronoun",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "dieses",
+        "der-relativ"
+      ]
+    },
+    {
+      "id": "man",
+      "word": "man",
+      "lemma": "man",
+      "translation": "one / you (people in general)",
+      "translations": [
+        "one / you (people in general)",
+        "one",
+        "you"
+      ],
+      "level": "A1",
+      "category": "Pronouns & Determiners",
+      "partOfSpeech": "pronoun",
+      "frequency": 75,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Hier darf man nicht parken.",
+          "en": "You may not park here."
+        },
+        {
+          "de": "Wie sagt man das auf Deutsch?",
+          "en": "How do you say that in German?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Am Sonntag kann ___ hier nicht einkaufen.",
+          "answer": "man",
+          "en": "On Sunday you can't go shopping here."
+        }
+      ],
+      "notes": "Impersonal subject pronoun — nominative only, always with the er/sie/es verb form. It is not 'der Mann' (the man): one n, no capital.",
+      "mnemonic": "one n = 'one'; two n's = ein Mann.",
+      "germany_context": "'man' is the voice of every rule sign in Germany. Ruhezeit is real: between 22:00 and 06:00, plus all day Sunday, man darf keinen Lärm machen — no drilling, no loud music, in many buildings no washing machine.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "indefinit",
+        "pronoun",
+        "nominativ"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "jemand",
+        "jeder"
+      ]
+    },
+    {
+      "id": "jemand",
+      "word": "jemand",
+      "lemma": "jemand",
+      "translation": "somebody",
+      "translations": [
+        "somebody",
+        "someone",
+        "anyone"
+      ],
+      "level": "A2",
+      "category": "Pronouns & Determiners",
+      "partOfSpeech": "pronoun",
+      "frequency": 260,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Jemand hat für dich angerufen.",
+          "en": "Somebody called for you."
+        },
+        {
+          "de": "Ist da jemand?",
+          "en": "Is anybody there?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Kennst du hier ___, der Türkisch spricht?",
+          "answer": "jemanden",
+          "en": "Do you know anyone here who speaks Turkish?"
+        }
+      ],
+      "notes": "Indefinite pronoun, singular only. Accusative 'jemanden', dative 'jemandem' — in casual speech the endings are often dropped.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "indefinit",
+        "pronoun"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "niemand"
+      ],
+      "related": [
+        "niemand",
+        "man",
+        "etwas"
+      ]
+    },
+    {
+      "id": "niemand",
+      "word": "niemand",
+      "lemma": "niemand",
+      "translation": "nobody",
+      "translations": [
+        "nobody",
+        "no one"
+      ],
+      "level": "A2",
+      "category": "Pronouns & Determiners",
+      "partOfSpeech": "pronoun",
+      "frequency": 300,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Niemand ist zu Hause.",
+          "en": "Nobody is at home."
+        },
+        {
+          "de": "Ich kenne hier noch niemanden.",
+          "en": "I don't know anyone here yet."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ hat die Tür aufgemacht.",
+          "answer": "Niemand",
+          "en": "Nobody opened the door."
+        }
+      ],
+      "notes": "The negative counterpart of 'jemand'. Accusative 'niemanden', dative 'niemandem'. Never combine it with a second negation.",
+      "mnemonic": "nie ('never') + mand → 'never a man' = nobody.",
+      "germany_context": "If niemand is home, DHL or Hermes usually leaves your parcel with a neighbour or at a Paketshop and drops a Benachrichtigungskarte in the Briefkasten. Take that card plus your Ausweis to collect it.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "indefinit",
+        "pronoun",
+        "negation"
+      ],
+      "synonyms": [
+        "keiner"
+      ],
+      "antonyms": [
+        "jemand"
+      ],
+      "related": [
+        "jemand",
+        "nichts",
+        "kein"
+      ]
+    },
+    {
+      "id": "etwas",
+      "word": "etwas",
+      "lemma": "etwas",
+      "translation": "something",
+      "translations": [
+        "something",
+        "a little",
+        "somewhat"
+      ],
+      "level": "A1",
+      "category": "Pronouns & Determiners",
+      "partOfSpeech": "pronoun",
+      "frequency": 90,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich möchte etwas trinken.",
+          "en": "I would like something to drink."
+        },
+        {
+          "de": "Kann ich Sie etwas fragen?",
+          "en": "Can I ask you something?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich habe ___ Wichtiges vergessen.",
+          "answer": "etwas",
+          "en": "I have forgotten something important."
+        }
+      ],
+      "notes": "Means 'something' as a pronoun and 'a bit' in front of adjectives ('etwas teuer' = a bit expensive). In speech it is usually shortened to 'was': 'Willst du was essen?'",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "indefinit",
+        "pronoun"
+      ],
+      "synonyms": [
+        "was"
+      ],
+      "antonyms": [
+        "nichts"
+      ],
+      "related": [
+        "nichts",
+        "jemand",
+        "was"
+      ]
+    },
+    {
+      "id": "nichts",
+      "word": "nichts",
+      "lemma": "nichts",
+      "translation": "nothing",
+      "translations": [
+        "nothing",
+        "not anything"
+      ],
+      "level": "A1",
+      "category": "Pronouns & Determiners",
+      "partOfSpeech": "pronoun",
+      "frequency": 85,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich habe nichts gesagt.",
+          "en": "I didn't say anything."
+        },
+        {
+          "de": "Im Kühlschrank ist nichts mehr.",
+          "en": "There is nothing left in the fridge."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Er hat ___ verstanden.",
+          "answer": "nichts",
+          "en": "He didn't understand anything."
+        }
+      ],
+      "notes": "'nothing' — one negation is enough: 'Ich habe nichts gesagt', never 'nichts nicht'. Don't mix it up with 'nicht' (= not), which negates verbs and adjectives.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🚫",
+      "imageable": false,
+      "tags": [
+        "indefinit",
+        "pronoun",
+        "negation"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "etwas",
+        "alles"
+      ],
+      "related": [
+        "etwas",
+        "kein",
+        "niemand"
+      ]
+    },
+    {
+      "id": "alle",
+      "word": "alle",
+      "lemma": "alle",
+      "translation": "all / everybody",
+      "translations": [
+        "all / everybody",
+        "all",
+        "everybody"
+      ],
+      "level": "A1",
+      "category": "Pronouns & Determiners",
+      "partOfSpeech": "pronoun",
+      "frequency": 100,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Alle Kollegen sind heute im Büro.",
+          "en": "All the colleagues are in the office today."
+        },
+        {
+          "de": "Alle sind schon da.",
+          "en": "Everybody is here already."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ Flaschen mit Pfand kann man zurückbringen.",
+          "answer": "Alle",
+          "en": "You can return all bottles that have a deposit."
+        }
+      ],
+      "notes": "The plural form: 'all the ...' with things, 'everybody' with people. For an uncountable whole use 'alles' (everything).",
+      "mnemonic": null,
+      "germany_context": "Pfand: cans and plastic bottles carry 0,25 €, most glass bottles 0,08-0,15 €. Feed them into the Automat at the supermarket entrance and hand the printed Bon in at the till — it comes off your shopping bill.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "indefinit",
+        "pronoun",
+        "plural"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "niemand",
+        "kein"
+      ],
+      "related": [
+        "alles",
+        "jeder",
+        "beide"
+      ]
+    },
+    {
+      "id": "alles",
+      "word": "alles",
+      "lemma": "alles",
+      "translation": "everything",
+      "translations": [
+        "everything",
+        "all"
+      ],
+      "level": "A1",
+      "category": "Pronouns & Determiners",
+      "partOfSpeech": "pronoun",
+      "frequency": 92,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Alles ist teurer geworden.",
+          "en": "Everything has become more expensive."
+        },
+        {
+          "de": "Alles klar, bis morgen!",
+          "en": "All right, see you tomorrow!"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Hast du ___ verstanden?",
+          "answer": "alles",
+          "en": "Did you understand everything?"
+        }
+      ],
+      "notes": "Neuter singular 'everything'. 'Alles klar!' and 'Alles gut!' are the everyday way of saying 'got it' / 'no problem'.",
+      "mnemonic": null,
+      "germany_context": "When a flat ad says a price, ask what is included: Kaltmiete is the bare rent, Nebenkosten (water, rubbish, heating, Hausmeister) come on top and together they make the Warmmiete. Strom and internet are almost always separate contracts you sign yourself.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "indefinit",
+        "pronoun"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "nichts"
+      ],
+      "related": [
+        "alle",
+        "nichts"
+      ]
+    },
+    {
+      "id": "jeder",
+      "word": "jeder",
+      "lemma": "jeder",
+      "translation": "every / each",
+      "translations": [
+        "every / each",
+        "every",
+        "each"
+      ],
+      "level": "A1",
+      "category": "Pronouns & Determiners",
+      "partOfSpeech": "article",
+      "frequency": 130,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Jeder Mieter bekommt einen Schlüssel.",
+          "en": "Every tenant gets a key."
+        },
+        {
+          "de": "Ich fahre jeden Tag mit dem Rad zur Arbeit.",
+          "en": "I cycle to work every day."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ Sonntag sind die Geschäfte geschlossen.",
+          "answer": "Jeden",
+          "en": "The shops are closed every Sunday."
+        }
+      ],
+      "notes": "Singular only, with der-endings: jeder Mann, jede Frau, jedes Kind. Time expressions take the accusative: jeden Tag, jede Woche, jedes Jahr.",
+      "mnemonic": null,
+      "germany_context": "Nearly every shop and supermarket is shut on Sundays and public holidays. The exceptions: bakeries for a few morning hours, petrol stations, and shops inside big train stations and airports. Do the week's shopping by Saturday evening.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "indefinit",
+        "determiner"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "kein"
+      ],
+      "related": [
+        "alle",
+        "man"
+      ]
+    },
+    {
+      "id": "einige",
+      "word": "einige",
+      "lemma": "einige",
+      "translation": "some",
+      "translations": [
+        "some",
+        "a few",
+        "several"
+      ],
+      "level": "A2",
+      "category": "Pronouns & Determiners",
+      "partOfSpeech": "pronoun",
+      "frequency": 340,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Einige Kollegen kommen aus Indien.",
+          "en": "Some colleagues come from India."
+        },
+        {
+          "de": "Ich habe noch einige Fragen zum Vertrag.",
+          "en": "I still have a few questions about the contract."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wir warten schon seit ___ Minuten.",
+          "answer": "einigen",
+          "en": "We have been waiting for several minutes already."
+        }
+      ],
+      "notes": "Plural 'some / several' — more than 'ein paar', fewer than 'viele'. Dative plural takes -n: 'seit einigen Tagen', 'mit einigen Freunden'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "indefinit",
+        "pronoun",
+        "plural"
+      ],
+      "synonyms": [
+        "manche"
+      ],
+      "antonyms": [],
+      "related": [
+        "manche",
+        "viele",
+        "wenige"
+      ]
+    },
+    {
+      "id": "viele",
+      "word": "viele",
+      "lemma": "viele",
+      "translation": "many",
+      "translations": [
+        "many",
+        "a lot of"
+      ],
+      "level": "A1",
+      "category": "Pronouns & Determiners",
+      "partOfSpeech": "pronoun",
+      "frequency": 105,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Viele Leute fahren hier mit dem Fahrrad.",
+          "en": "Many people cycle here."
+        },
+        {
+          "de": "Ich habe viele Fragen zum Mietvertrag.",
+          "en": "I have a lot of questions about the rental contract."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "In Berlin gibt es ___ Cafés.",
+          "answer": "viele",
+          "en": "There are many cafes in Berlin."
+        }
+      ],
+      "notes": "Plural of 'viel'. Countable plural → viele (viele Freunde); uncountable singular stays viel (viel Zeit, viel Geld).",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "indefinit",
+        "pronoun",
+        "plural",
+        "quantity"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "wenige"
+      ],
+      "related": [
+        "wenige",
+        "einige",
+        "alle"
+      ]
+    },
+    {
+      "id": "wenige",
+      "word": "wenige",
+      "lemma": "wenige",
+      "translation": "few",
+      "translations": [
+        "few",
+        "not many"
+      ],
+      "level": "A2",
+      "category": "Pronouns & Determiners",
+      "partOfSpeech": "pronoun",
+      "frequency": 420,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Nur wenige Geschäfte haben sonntags offen.",
+          "en": "Only a few shops are open on Sundays."
+        },
+        {
+          "de": "Wenige Leute waren um sechs Uhr im Bus.",
+          "en": "Few people were on the bus at six o'clock."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich kenne hier erst ___ Nachbarn.",
+          "answer": "wenige",
+          "en": "So far I only know a few neighbours here."
+        }
+      ],
+      "notes": "Plural 'few' (= not many). The uncountable singular is 'wenig' (wenig Zeit), and 'ein wenig' means 'a little bit'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "indefinit",
+        "pronoun",
+        "plural",
+        "quantity"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "viele"
+      ],
+      "related": [
+        "viele",
+        "einige"
+      ]
+    },
+    {
+      "id": "beide",
+      "word": "beide",
+      "lemma": "beide",
+      "translation": "both",
+      "translations": [
+        "both",
+        "the two"
+      ],
+      "level": "A2",
+      "category": "Pronouns & Determiners",
+      "partOfSpeech": "pronoun",
+      "frequency": 310,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Beide Wohnungen sind zu teuer.",
+          "en": "Both apartments are too expensive."
+        },
+        {
+          "de": "Wir haben beide Deutsch gelernt.",
+          "en": "We both learned German."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ Kinder gehen in dieselbe Schule.",
+          "answer": "Beide",
+          "en": "Both children go to the same school."
+        }
+      ],
+      "notes": "Plural only, and only for exactly two. After a definite article it takes -n: 'die beiden Brüder', 'meine beiden Koffer'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "indefinit",
+        "pronoun",
+        "plural"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "alle",
+        "andere"
+      ]
+    },
+    {
+      "id": "andere",
+      "word": "andere",
+      "lemma": "andere",
+      "translation": "other",
+      "translations": [
+        "other",
+        "others",
+        "different"
+      ],
+      "level": "A2",
+      "category": "Pronouns & Determiners",
+      "partOfSpeech": "pronoun",
+      "frequency": 230,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Haben Sie noch andere Größen?",
+          "en": "Do you have other sizes?"
+        },
+        {
+          "de": "Die anderen kommen später.",
+          "en": "The others are coming later."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich nehme lieber ein ___ Zimmer.",
+          "answer": "anderes",
+          "en": "I'd rather take a different room."
+        }
+      ],
+      "notes": "Behaves like an adjective and takes adjective endings: ein anderer Termin, eine andere Wohnung, ein anderes Zimmer, die anderen Leute.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "indefinit",
+        "pronoun"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "beide",
+        "manche"
+      ]
+    },
+    {
+      "id": "kein",
+      "word": "kein",
+      "lemma": "kein",
+      "translation": "no / not any",
+      "translations": [
+        "no / not any",
+        "no",
+        "not any"
+      ],
+      "level": "A0",
+      "category": "Pronouns & Determiners",
+      "partOfSpeech": "article",
+      "frequency": 20,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich habe keine Zeit.",
+          "en": "I don't have any time."
+        },
+        {
+          "de": "Hier gibt es kein WLAN.",
+          "en": "There is no wifi here."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Tut mir leid, wir nehmen ___ Karten.",
+          "answer": "keine",
+          "en": "Sorry, we don't take cards."
+        }
+      ],
+      "notes": "The negative article. Use it, not 'nicht', in front of a noun that would otherwise have 'ein' or no article: 'Ich habe kein Auto' (never 'nicht ein Auto'). Endings like 'ein', plus a plural: keine Kinder.",
+      "mnemonic": "k + ein = 'not an'.",
+      "germany_context": "'Nur Bargeld' and 'Wir nehmen keine Karten' are still normal in Bäckereien, Kiosks, Imbisse, small Cafés and even some doctors' practices. Carry 20-50 € cash at all times.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "negation",
+        "determiner",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "jeder",
+        "alle"
+      ],
+      "related": [
+        "nichts",
+        "niemand"
+      ]
+    },
+    {
+      "id": "manche",
+      "word": "manche",
+      "lemma": "manche",
+      "translation": "some (but not all)",
+      "translations": [
+        "some (but not all)",
+        "some",
+        "certain"
+      ],
+      "level": "A2",
+      "category": "Pronouns & Determiners",
+      "partOfSpeech": "pronoun",
+      "frequency": 520,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Manche Leute duzen sich sofort.",
+          "en": "Some people use 'du' with each other right away."
+        },
+        {
+          "de": "Manche Geschäfte haben samstags nur bis 16 Uhr offen.",
+          "en": "Some shops are only open until 4 p.m. on Saturdays."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ Kollegen arbeiten nur im Homeoffice.",
+          "answer": "Manche",
+          "en": "Some colleagues work only from home."
+        }
+      ],
+      "notes": "Plural 'some, but not all'. More selective than 'einige': it sets one group against another. Takes der-endings: manche Leute, manchen Kollegen (dative).",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "indefinit",
+        "pronoun",
+        "plural"
+      ],
+      "synonyms": [
+        "einige"
+      ],
+      "antonyms": [
+        "alle"
+      ],
+      "related": [
+        "einige",
+        "andere"
+      ]
+    },
+    {
+      "id": "der-relativ",
+      "word": "der (Relativpronomen)",
+      "lemma": "der",
+      "translation": "who / that (relative)",
+      "translations": [
+        "who / that (relative)",
+        "who",
+        "that"
+      ],
+      "level": "A2",
+      "category": "Pronouns & Determiners",
+      "partOfSpeech": "pronoun",
+      "frequency": 150,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Das ist der Kollege, der mir geholfen hat.",
+          "en": "That is the colleague who helped me."
+        },
+        {
+          "de": "Der Mann, der unten wohnt, ist der Hausmeister.",
+          "en": "The man who lives downstairs is the caretaker."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich habe einen Freund, ___ in München wohnt.",
+          "answer": "der",
+          "en": "I have a friend who lives in Munich."
+        }
+      ],
+      "notes": "Relative pronoun for a masculine subject — the same shape as the article 'der'. A comma always comes before it and the verb moves to the end of the clause. Feminine: die, neuter: das, plural: die.",
+      "mnemonic": null,
+      "germany_context": "Every apartment building has a Hausmeister: he handles the heating, the Treppenhaus cleaning rota, the bins and small repairs. For a broken lock or a dripping tap you call him first, the Vermieter second.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "relativpronomen",
+        "pronoun"
+      ],
+      "synonyms": [
+        "welcher"
+      ],
+      "antonyms": [],
+      "related": [
+        "welcher",
+        "das-demonstrativ"
+      ]
+    },
+    {
+      "id": "sich",
+      "word": "sich",
+      "lemma": "sich",
+      "translation": "himself / herself / themselves",
+      "translations": [
+        "himself / herself / themselves",
+        "himself",
+        "themselves"
+      ],
+      "level": "A1",
+      "category": "Pronouns & Determiners",
+      "partOfSpeech": "pronoun",
+      "frequency": 80,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Kinder freuen sich auf den Sommer.",
+          "en": "The children are looking forward to the summer."
+        },
+        {
+          "de": "Setzen Sie sich bitte!",
+          "en": "Please take a seat!"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Man muss ___ innerhalb von 14 Tagen anmelden.",
+          "answer": "sich",
+          "en": "You have to register within 14 days."
+        }
+      ],
+      "notes": "Reflexive pronoun for er/sie/es, plural sie and formal Sie — accusative and dative are both 'sich'. For ich/du/wir/ihr you use mich/dich/uns/euch instead. It is the form you see in dictionaries: 'sich freuen', 'sich anmelden'.",
+      "mnemonic": null,
+      "germany_context": "Anmeldung: after moving in you must register your address at the Bürgeramt, in most cities within 14 days. Bring the Wohnungsgeberbestätigung from your landlord — without the Anmeldebestätigung there is no bank account, no Steuer-ID and no phone contract.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "reflexiv",
+        "pronoun"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "mich",
+        "dich",
+        "uns",
+        "euch"
+      ]
+    },
+    {
+      "id": "selbst",
+      "word": "selbst",
+      "lemma": "selbst",
+      "translation": "myself / yourself (emphatic)",
+      "translations": [
+        "myself / yourself (emphatic)",
+        "myself",
+        "oneself"
+      ],
+      "level": "A2",
+      "category": "Pronouns & Determiners",
+      "partOfSpeech": "adverb",
+      "frequency": 350,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Das habe ich selbst gemacht.",
+          "en": "I did that myself."
+        },
+        {
+          "de": "Kannst du das selbst reparieren?",
+          "en": "Can you repair that yourself?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich habe die Möbel ___ aufgebaut.",
+          "answer": "selbst",
+          "en": "I assembled the furniture myself."
+        }
+      ],
+      "notes": "Emphatic 'myself/yourself/himself' — it never changes form. In front of a noun it can also mean 'even': 'Selbst am Sonntag arbeitet er.' The colloquial variant is 'selber'.",
+      "mnemonic": null,
+      "germany_context": "'Selbstauskunft' is the SCHUFA credit report landlords ask for with practically every rental application, together with your last three Gehaltsabrechnungen and a copy of your Ausweis. Order it early — the free version can take weeks by post.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "emphatisch",
+        "reflexiv"
+      ],
+      "synonyms": [
+        "selber"
+      ],
+      "antonyms": [],
+      "related": [
+        "sich"
+      ]
+    },
+    {
+      "id": "was",
+      "word": "was",
+      "lemma": "was",
+      "translation": "what",
+      "translations": [
+        "what",
+        "something"
+      ],
+      "level": "A0",
+      "category": "Pronouns & Determiners",
+      "partOfSpeech": "pronoun",
+      "frequency": 15,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Was kostet das?",
+          "en": "What does that cost?"
+        },
+        {
+          "de": "Was machst du beruflich?",
+          "en": "What do you do for a living?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ möchten Sie trinken?",
+          "answer": "Was",
+          "en": "What would you like to drink?"
+        }
+      ],
+      "notes": "Question word 'what' — nominative and accusative are both 'was'. In casual speech it also stands in for 'etwas': 'Ich hab was vergessen.'",
+      "mnemonic": null,
+      "germany_context": "'Was macht das?' is how you ask for the total. Trinkgeld is 5-10%, rounded up, and you say the full amount out loud as you hand the money over ('Machen Sie 25') — you don't leave coins on the table.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "frageworte",
+        "pronoun",
+        "essential"
+      ],
+      "synonyms": [
+        "etwas"
+      ],
+      "antonyms": [],
+      "related": [
+        "wer",
+        "welcher",
+        "etwas"
+      ]
+    },
+    {
+      "id": "wem",
+      "word": "wem",
+      "lemma": "wem",
+      "translation": "to whom (dative)",
+      "translations": [
+        "to whom (dative)",
+        "to whom",
+        "whom"
+      ],
+      "level": "A2",
+      "category": "Pronouns & Determiners",
+      "partOfSpeech": "pronoun",
+      "frequency": 430,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Wem gehört dieses Fahrrad?",
+          "en": "Whose bike is this?"
+        },
+        {
+          "de": "Wem hast du das gesagt?",
+          "en": "Who did you say that to?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Mit ___ hast du gesprochen?",
+          "answer": "wem",
+          "en": "Who did you speak to?"
+        }
+      ],
+      "notes": "Dative of 'wer'. Required after gehören, helfen, danken and after every dative preposition: 'Mit wem?', 'Von wem?', 'Bei wem?'.",
+      "mnemonic": null,
+      "germany_context": "Kaution: the rental deposit is up to three months' Kaltmiete. The landlord must hold it in a separate account and pay it back with interest — but usually only three to six months after you move out, once the Nebenkostenabrechnung is settled.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "frageworte",
+        "pronoun",
+        "dativ"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "wer",
+        "wen"
+      ]
+    }
+  ]
+}

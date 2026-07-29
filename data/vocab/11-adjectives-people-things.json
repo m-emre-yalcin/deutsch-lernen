@@ -1,0 +1,5461 @@
+{
+  "category": "Descriptive Adjectives",
+  "words": [
+    {
+      "id": "freundlich",
+      "word": "freundlich",
+      "lemma": "freundlich",
+      "translation": "friendly",
+      "translations": [
+        "friendly",
+        "kind"
+      ],
+      "level": "A1",
+      "category": "Descriptive Adjectives",
+      "partOfSpeech": "adjective",
+      "frequency": 260,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "komparativ": "freundlicher",
+        "superlativ": "am freundlichsten"
+      },
+      "example_sentences": [
+        {
+          "de": "Die Verkäuferin war sehr freundlich.",
+          "en": "The saleswoman was very friendly."
+        },
+        {
+          "de": "Unsere Nachbarn sind freundlich und hilfsbereit.",
+          "en": "Our neighbours are friendly and helpful."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Busfahrer hat mich ___ gegrüßt.",
+          "answer": "freundlich",
+          "en": "The bus driver greeted me in a friendly way."
+        }
+      ],
+      "notes": "'freundlich' = warm and polite towards others; 'nett' is the more casual everyday word.",
+      "mnemonic": "FREUND (friend) + -lich → friend-ly.",
+      "germany_context": "In restaurants a Trinkgeld of about 5-10% is normal when the service was friendly. You say the rounded total as you pay ('Macht 20, bitte'), you don't leave coins on the table.",
+      "emoji": "😊",
+      "imageable": false,
+      "tags": [
+        "character",
+        "people",
+        "essential"
+      ],
+      "synonyms": [
+        "nett",
+        "sympathisch"
+      ],
+      "antonyms": [
+        "unfreundlich"
+      ],
+      "related": [
+        "nett",
+        "hoeflich",
+        "hilfsbereit"
+      ]
+    },
+    {
+      "id": "nett",
+      "word": "nett",
+      "lemma": "nett",
+      "translation": "nice",
+      "translations": [
+        "nice",
+        "kind"
+      ],
+      "level": "A0",
+      "category": "Descriptive Adjectives",
+      "partOfSpeech": "adjective",
+      "frequency": 240,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "komparativ": "netter",
+        "superlativ": "am nettesten"
+      },
+      "example_sentences": [
+        {
+          "de": "Das ist sehr nett von dir!",
+          "en": "That's very nice of you!"
+        },
+        {
+          "de": "Wir haben nette Nachbarn.",
+          "en": "We have nice neighbours."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Er ist ein ___ Kollege.",
+          "answer": "netter",
+          "en": "He is a nice colleague."
+        }
+      ],
+      "notes": "'Das ist nett von dir' is the standard way to say 'that's kind of you'.",
+      "mnemonic": "NETT sounds like 'neat' — a neat, nice person.",
+      "germany_context": null,
+      "emoji": "🙂",
+      "imageable": false,
+      "tags": [
+        "character",
+        "people",
+        "essential"
+      ],
+      "synonyms": [
+        "freundlich",
+        "sympathisch"
+      ],
+      "antonyms": [
+        "gemein",
+        "unfreundlich"
+      ],
+      "related": [
+        "freundlich",
+        "hoeflich"
+      ]
+    },
+    {
+      "id": "hoeflich",
+      "word": "höflich",
+      "lemma": "höflich",
+      "translation": "polite",
+      "translations": [
+        "polite",
+        "courteous"
+      ],
+      "level": "A1",
+      "category": "Descriptive Adjectives",
+      "partOfSpeech": "adjective",
+      "frequency": 620,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "komparativ": "höflicher",
+        "superlativ": "am höflichsten"
+      },
+      "example_sentences": [
+        {
+          "de": "Sei bitte höflich zu den Nachbarn.",
+          "en": "Please be polite to the neighbours."
+        },
+        {
+          "de": "Er hat sehr höflich gefragt.",
+          "en": "He asked very politely."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Im Amt sollte man immer ___ bleiben.",
+          "answer": "höflich",
+          "en": "At the public office you should always stay polite."
+        }
+      ],
+      "notes": "The polite form of address is 'Sie'; using 'du' with a stranger can sound rude.",
+      "mnemonic": "HÖFlich comes from 'Hof' (court) — behaving like at the royal court.",
+      "germany_context": "Use 'Sie' with strangers, officials, neighbours you don't know and older people until they offer you the 'du'. Colleagues at tech companies often switch to 'du' on day one — wait for the offer.",
+      "emoji": "🙇",
+      "imageable": false,
+      "tags": [
+        "character",
+        "people",
+        "manners"
+      ],
+      "synonyms": [
+        "freundlich"
+      ],
+      "antonyms": [
+        "unhöflich"
+      ],
+      "related": [
+        "unhoeflich",
+        "freundlich",
+        "nett"
+      ]
+    },
+    {
+      "id": "unhoeflich",
+      "word": "unhöflich",
+      "lemma": "unhöflich",
+      "translation": "rude",
+      "translations": [
+        "rude",
+        "impolite"
+      ],
+      "level": "A2",
+      "category": "Descriptive Adjectives",
+      "partOfSpeech": "adjective",
+      "frequency": 1350,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "komparativ": "unhöflicher",
+        "superlativ": "am unhöflichsten"
+      },
+      "example_sentences": [
+        {
+          "de": "Es ist unhöflich, zu spät zu kommen.",
+          "en": "It is rude to arrive late."
+        },
+        {
+          "de": "Sein Ton am Telefon war ziemlich unhöflich.",
+          "en": "His tone on the phone was quite rude."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Bitte antworte nicht so ___!",
+          "answer": "unhöflich",
+          "en": "Please don't answer so rudely!"
+        }
+      ],
+      "notes": "Prefix 'un-' turns the adjective into its opposite: höflich → unhöflich, freundlich → unfreundlich.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "😒",
+      "imageable": false,
+      "tags": [
+        "character",
+        "people",
+        "manners"
+      ],
+      "synonyms": [
+        "frech"
+      ],
+      "antonyms": [
+        "höflich"
+      ],
+      "related": [
+        "hoeflich",
+        "streng"
+      ]
+    },
+    {
+      "id": "ehrlich",
+      "word": "ehrlich",
+      "lemma": "ehrlich",
+      "translation": "honest",
+      "translations": [
+        "honest",
+        "sincere"
+      ],
+      "level": "A2",
+      "category": "Descriptive Adjectives",
+      "partOfSpeech": "adjective",
+      "frequency": 780,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "komparativ": "ehrlicher",
+        "superlativ": "am ehrlichsten"
+      },
+      "example_sentences": [
+        {
+          "de": "Sei ehrlich: Schmeckt dir das Essen?",
+          "en": "Be honest: do you like the food?"
+        },
+        {
+          "de": "Sie ist immer ehrlich zu mir.",
+          "en": "She is always honest with me."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich sage dir ganz ___ meine Meinung.",
+          "answer": "ehrlich",
+          "en": "I'll tell you my opinion quite honestly."
+        }
+      ],
+      "notes": "'Ehrlich gesagt …' = 'to be honest …' — an extremely common opener.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🤝",
+      "imageable": false,
+      "tags": [
+        "character",
+        "people"
+      ],
+      "synonyms": [
+        "offen"
+      ],
+      "antonyms": [
+        "unehrlich"
+      ],
+      "related": [
+        "offen",
+        "zuverlaessig"
+      ]
+    },
+    {
+      "id": "fleissig",
+      "word": "fleißig",
+      "lemma": "fleißig",
+      "translation": "hardworking",
+      "translations": [
+        "hardworking",
+        "diligent"
+      ],
+      "level": "A1",
+      "category": "Descriptive Adjectives",
+      "partOfSpeech": "adjective",
+      "frequency": 900,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "komparativ": "fleißiger",
+        "superlativ": "am fleißigsten"
+      },
+      "example_sentences": [
+        {
+          "de": "Mein Sohn ist sehr fleißig in der Schule.",
+          "en": "My son is very hardworking at school."
+        },
+        {
+          "de": "Du hast diese Woche fleißig gelernt.",
+          "en": "You studied diligently this week."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Sie ist eine ___ Studentin.",
+          "answer": "fleißige",
+          "en": "She is a hardworking student."
+        }
+      ],
+      "notes": "A standard compliment in school reports and job references.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🐝",
+      "imageable": false,
+      "tags": [
+        "character",
+        "work",
+        "school"
+      ],
+      "synonyms": [
+        "zuverlässig"
+      ],
+      "antonyms": [
+        "faul"
+      ],
+      "related": [
+        "faul",
+        "zuverlaessig"
+      ]
+    },
+    {
+      "id": "faul",
+      "word": "faul",
+      "lemma": "faul",
+      "translation": "lazy",
+      "translations": [
+        "lazy",
+        "rotten"
+      ],
+      "level": "A1",
+      "category": "Descriptive Adjectives",
+      "partOfSpeech": "adjective",
+      "frequency": 950,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "komparativ": "fauler",
+        "superlativ": "am faulsten"
+      },
+      "example_sentences": [
+        {
+          "de": "Am Sonntag bin ich immer faul.",
+          "en": "On Sundays I'm always lazy."
+        },
+        {
+          "de": "Sei nicht so faul, steh bitte auf!",
+          "en": "Don't be so lazy, please get up!"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Mein Bruder ist zu ___ zum Aufräumen.",
+          "answer": "faul",
+          "en": "My brother is too lazy to tidy up."
+        }
+      ],
+      "notes": "'faul' also means 'rotten' for food: ein fauler Apfel = a rotten apple.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🦥",
+      "imageable": false,
+      "tags": [
+        "character",
+        "people"
+      ],
+      "synonyms": [
+        "bequem"
+      ],
+      "antonyms": [
+        "fleißig"
+      ],
+      "related": [
+        "fleissig",
+        "muede"
+      ]
+    },
+    {
+      "id": "klug",
+      "word": "klug",
+      "lemma": "klug",
+      "translation": "clever",
+      "translations": [
+        "clever",
+        "smart",
+        "wise"
+      ],
+      "level": "A2",
+      "category": "Descriptive Adjectives",
+      "partOfSpeech": "adjective",
+      "frequency": 1100,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "komparativ": "klüger",
+        "superlativ": "am klügsten"
+      },
+      "example_sentences": [
+        {
+          "de": "Das war eine kluge Entscheidung.",
+          "en": "That was a clever decision."
+        },
+        {
+          "de": "Meine Tochter ist sehr klug.",
+          "en": "My daughter is very clever."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Es wäre ___, etwas früher loszufahren.",
+          "answer": "klug",
+          "en": "It would be clever to set off a bit earlier."
+        }
+      ],
+      "notes": "'klug' = wise and sensible, 'intelligent' is about brainpower, 'schlau' is the colloquial twin.",
+      "mnemonic": "Umlaut in the comparison: klug → klüger → am klügsten.",
+      "germany_context": null,
+      "emoji": "🧠",
+      "imageable": false,
+      "tags": [
+        "character",
+        "people"
+      ],
+      "synonyms": [
+        "intelligent",
+        "schlau"
+      ],
+      "antonyms": [
+        "dumm"
+      ],
+      "related": [
+        "intelligent",
+        "dumm"
+      ]
+    },
+    {
+      "id": "intelligent",
+      "word": "intelligent",
+      "lemma": "intelligent",
+      "translation": "intelligent",
+      "translations": [
+        "intelligent",
+        "bright"
+      ],
+      "level": "A1",
+      "category": "Descriptive Adjectives",
+      "partOfSpeech": "adjective",
+      "frequency": 1050,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "komparativ": "intelligenter",
+        "superlativ": "am intelligentesten"
+      },
+      "example_sentences": [
+        {
+          "de": "Mein Chef ist sehr intelligent.",
+          "en": "My boss is very intelligent."
+        },
+        {
+          "de": "Hunde sind intelligente Tiere.",
+          "en": "Dogs are intelligent animals."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Sie hat eine ___ Frage gestellt.",
+          "answer": "intelligente",
+          "en": "She asked an intelligent question."
+        }
+      ],
+      "notes": "Pronounced with a hard g: in-te-li-GENT, stress on the last syllable.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🧠",
+      "imageable": false,
+      "tags": [
+        "character",
+        "people",
+        "international"
+      ],
+      "synonyms": [
+        "klug",
+        "schlau"
+      ],
+      "antonyms": [
+        "dumm"
+      ],
+      "related": [
+        "klug",
+        "dumm"
+      ]
+    },
+    {
+      "id": "dumm",
+      "word": "dumm",
+      "lemma": "dumm",
+      "translation": "stupid",
+      "translations": [
+        "stupid",
+        "silly"
+      ],
+      "level": "A1",
+      "category": "Descriptive Adjectives",
+      "partOfSpeech": "adjective",
+      "frequency": 1000,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "komparativ": "dümmer",
+        "superlativ": "am dümmsten"
+      },
+      "example_sentences": [
+        {
+          "de": "Das war eine dumme Idee.",
+          "en": "That was a stupid idea."
+        },
+        {
+          "de": "Entschuldigung, das war dumm von mir.",
+          "en": "Sorry, that was stupid of me."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Frag ruhig, das ist keine ___ Frage.",
+          "answer": "dumme",
+          "en": "Go ahead and ask, that's not a stupid question."
+        }
+      ],
+      "notes": "Calling a person 'dumm' is an insult. For situations say 'Das ist dumm gelaufen' = that went badly.",
+      "mnemonic": "Umlaut in the comparison: dumm → dümmer → am dümmsten.",
+      "germany_context": null,
+      "emoji": "🤦",
+      "imageable": false,
+      "tags": [
+        "character",
+        "people"
+      ],
+      "synonyms": [
+        "blöd"
+      ],
+      "antonyms": [
+        "klug",
+        "intelligent"
+      ],
+      "related": [
+        "klug",
+        "intelligent"
+      ]
+    },
+    {
+      "id": "lustig",
+      "word": "lustig",
+      "lemma": "lustig",
+      "translation": "funny",
+      "translations": [
+        "funny",
+        "amusing",
+        "cheerful"
+      ],
+      "level": "A1",
+      "category": "Descriptive Adjectives",
+      "partOfSpeech": "adjective",
+      "frequency": 720,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "komparativ": "lustiger",
+        "superlativ": "am lustigsten"
+      },
+      "example_sentences": [
+        {
+          "de": "Der Film war richtig lustig.",
+          "en": "The film was really funny."
+        },
+        {
+          "de": "Er erzählt immer lustige Geschichten.",
+          "en": "He always tells funny stories."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Gestern war ein ___ Abend.",
+          "answer": "lustiger",
+          "en": "Yesterday was a funny evening."
+        }
+      ],
+      "notes": "'lustig' = amusing. Careful with 'komisch': it means funny AND strange, often negative.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "😄",
+      "imageable": false,
+      "tags": [
+        "character",
+        "people",
+        "feelings"
+      ],
+      "synonyms": [
+        "witzig"
+      ],
+      "antonyms": [
+        "ernst",
+        "langweilig"
+      ],
+      "related": [
+        "ernst",
+        "verrueckt"
+      ]
+    },
+    {
+      "id": "ernst",
+      "word": "ernst",
+      "lemma": "ernst",
+      "translation": "serious",
+      "translations": [
+        "serious",
+        "grave"
+      ],
+      "level": "A2",
+      "category": "Descriptive Adjectives",
+      "partOfSpeech": "adjective",
+      "frequency": 1250,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "komparativ": "ernster",
+        "superlativ": "am ernstesten"
+      },
+      "example_sentences": [
+        {
+          "de": "Warum bist du heute so ernst?",
+          "en": "Why are you so serious today?"
+        },
+        {
+          "de": "Das ist ein ernstes Problem.",
+          "en": "That is a serious problem."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Meinst du das ___?",
+          "answer": "ernst",
+          "en": "Are you serious about that?"
+        }
+      ],
+      "notes": "'Im Ernst?' = 'Seriously?' and 'Das meine ich ernst' = 'I mean it'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "😐",
+      "imageable": false,
+      "tags": [
+        "character",
+        "people",
+        "feelings"
+      ],
+      "synonyms": [
+        "seriös"
+      ],
+      "antonyms": [
+        "lustig"
+      ],
+      "related": [
+        "lustig",
+        "ruhig"
+      ]
+    },
+    {
+      "id": "ruhig",
+      "word": "ruhig",
+      "lemma": "ruhig",
+      "translation": "quiet",
+      "translations": [
+        "quiet",
+        "calm",
+        "peaceful"
+      ],
+      "level": "A1",
+      "category": "Descriptive Adjectives",
+      "partOfSpeech": "adjective",
+      "frequency": 540,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "komparativ": "ruhiger",
+        "superlativ": "am ruhigsten"
+      },
+      "example_sentences": [
+        {
+          "de": "Bleib ruhig, alles ist gut.",
+          "en": "Stay calm, everything is fine."
+        },
+        {
+          "de": "Unsere Straße ist abends sehr ruhig.",
+          "en": "Our street is very quiet in the evening."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich suche eine ___ Wohnung.",
+          "answer": "ruhige",
+          "en": "I'm looking for a quiet flat."
+        }
+      ],
+      "notes": "As a particle it softens a request: 'Frag ruhig!' = 'Feel free to ask.'",
+      "mnemonic": null,
+      "germany_context": "Ruhezeiten: quiet hours are normally 22:00-06:00, all day Sunday and in many buildings 13:00-15:00. No drilling, loud music, vacuuming or washing machine then — neighbours do complain.",
+      "emoji": "🤫",
+      "imageable": false,
+      "tags": [
+        "character",
+        "home",
+        "people"
+      ],
+      "synonyms": [
+        "still",
+        "leise"
+      ],
+      "antonyms": [
+        "laut",
+        "nervös"
+      ],
+      "related": [
+        "gemuetlich",
+        "nervoes"
+      ]
+    },
+    {
+      "id": "nervoes",
+      "word": "nervös",
+      "lemma": "nervös",
+      "translation": "nervous",
+      "translations": [
+        "nervous",
+        "on edge"
+      ],
+      "level": "A2",
+      "category": "Descriptive Adjectives",
+      "partOfSpeech": "adjective",
+      "frequency": 1200,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "komparativ": "nervöser",
+        "superlativ": "am nervösesten"
+      },
+      "example_sentences": [
+        {
+          "de": "Vor dem Termin bin ich immer nervös.",
+          "en": "Before the appointment I'm always nervous."
+        },
+        {
+          "de": "Sei nicht nervös, du schaffst das.",
+          "en": "Don't be nervous, you'll manage."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Er wartet ___ auf das Ergebnis.",
+          "answer": "nervös",
+          "en": "He is waiting nervously for the result."
+        }
+      ],
+      "notes": "Stress on the last syllable: ner-VÖS.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "😰",
+      "imageable": false,
+      "tags": [
+        "feelings",
+        "people"
+      ],
+      "synonyms": [
+        "aufgeregt",
+        "unruhig"
+      ],
+      "antonyms": [
+        "ruhig",
+        "entspannt"
+      ],
+      "related": [
+        "ruhig",
+        "aufgeregt"
+      ]
+    },
+    {
+      "id": "schuechtern",
+      "word": "schüchtern",
+      "lemma": "schüchtern",
+      "translation": "shy",
+      "translations": [
+        "shy",
+        "timid"
+      ],
+      "level": "A2",
+      "category": "Descriptive Adjectives",
+      "partOfSpeech": "adjective",
+      "frequency": 1450,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "komparativ": "schüchterner",
+        "superlativ": "am schüchternsten"
+      },
+      "example_sentences": [
+        {
+          "de": "Als Kind war ich sehr schüchtern.",
+          "en": "As a child I was very shy."
+        },
+        {
+          "de": "Sie ist schüchtern, aber sehr nett.",
+          "en": "She is shy but very nice."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der neue Kollege wirkt etwas ___.",
+          "answer": "schüchtern",
+          "en": "The new colleague seems a bit shy."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "😳",
+      "imageable": false,
+      "tags": [
+        "character",
+        "people"
+      ],
+      "synonyms": [
+        "zurückhaltend"
+      ],
+      "antonyms": [
+        "offen",
+        "selbstbewusst"
+      ],
+      "related": [
+        "offen",
+        "nervoes"
+      ]
+    },
+    {
+      "id": "offen",
+      "word": "offen",
+      "lemma": "offen",
+      "translation": "open",
+      "translations": [
+        "open",
+        "open-minded",
+        "frank"
+      ],
+      "level": "A1",
+      "category": "Descriptive Adjectives",
+      "partOfSpeech": "adjective",
+      "frequency": 600,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "komparativ": "offener",
+        "superlativ": "am offensten"
+      },
+      "example_sentences": [
+        {
+          "de": "Der Supermarkt ist bis 22 Uhr offen.",
+          "en": "The supermarket is open until 10 pm."
+        },
+        {
+          "de": "Er ist ein offener Mensch und redet mit jedem.",
+          "en": "He is an open person and talks to everyone."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Das Fenster ist noch ___.",
+          "answer": "offen",
+          "en": "The window is still open."
+        }
+      ],
+      "notes": "Two uses: shops/doors being open, and a person being open and frank.",
+      "mnemonic": null,
+      "germany_context": "Almost all shops and supermarkets are closed on Sundays (Ladenschlussgesetz). Only bakeries, petrol stations, pharmacies on duty and shops inside big train stations stay open — plan your Saturday shopping.",
+      "emoji": "🚪",
+      "imageable": false,
+      "tags": [
+        "character",
+        "shopping",
+        "people"
+      ],
+      "synonyms": [
+        "geöffnet",
+        "ehrlich"
+      ],
+      "antonyms": [
+        "geschlossen",
+        "zu"
+      ],
+      "related": [
+        "ehrlich",
+        "schuechtern"
+      ]
+    },
+    {
+      "id": "streng",
+      "word": "streng",
+      "lemma": "streng",
+      "translation": "strict",
+      "translations": [
+        "strict",
+        "severe"
+      ],
+      "level": "A2",
+      "category": "Descriptive Adjectives",
+      "partOfSpeech": "adjective",
+      "frequency": 1300,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "komparativ": "strenger",
+        "superlativ": "am strengsten"
+      },
+      "example_sentences": [
+        {
+          "de": "Mein Lehrer war sehr streng.",
+          "en": "My teacher was very strict."
+        },
+        {
+          "de": "Hier gelten strenge Regeln.",
+          "en": "Strict rules apply here."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Meine Eltern waren ziemlich ___.",
+          "answer": "streng",
+          "en": "My parents were quite strict."
+        }
+      ],
+      "notes": "'streng verboten' = strictly forbidden — you see it on many German signs.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "😠",
+      "imageable": false,
+      "tags": [
+        "character",
+        "people",
+        "rules"
+      ],
+      "synonyms": [
+        "hart"
+      ],
+      "antonyms": [
+        "locker"
+      ],
+      "related": [
+        "ernst",
+        "geduldig"
+      ]
+    },
+    {
+      "id": "geduldig",
+      "word": "geduldig",
+      "lemma": "geduldig",
+      "translation": "patient",
+      "translations": [
+        "patient"
+      ],
+      "level": "A2",
+      "category": "Descriptive Adjectives",
+      "partOfSpeech": "adjective",
+      "frequency": 1500,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "komparativ": "geduldiger",
+        "superlativ": "am geduldigsten"
+      },
+      "example_sentences": [
+        {
+          "de": "Der Arzt war sehr geduldig mit mir.",
+          "en": "The doctor was very patient with me."
+        },
+        {
+          "de": "Sei geduldig, der Bus kommt gleich.",
+          "en": "Be patient, the bus is coming soon."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Beim Amt muss man ___ warten.",
+          "answer": "geduldig",
+          "en": "At the public office you have to wait patiently."
+        }
+      ],
+      "notes": "From 'die Geduld' (patience). 'Ich habe keine Geduld' = I have no patience.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "⏳",
+      "imageable": false,
+      "tags": [
+        "character",
+        "people"
+      ],
+      "synonyms": [
+        "ruhig"
+      ],
+      "antonyms": [
+        "ungeduldig"
+      ],
+      "related": [
+        "ruhig",
+        "puenktlich"
+      ]
+    },
+    {
+      "id": "grosszuegig",
+      "word": "großzügig",
+      "lemma": "großzügig",
+      "translation": "generous",
+      "translations": [
+        "generous",
+        "spacious"
+      ],
+      "level": "A2",
+      "category": "Descriptive Adjectives",
+      "partOfSpeech": "adjective",
+      "frequency": 1700,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "komparativ": "großzügiger",
+        "superlativ": "am großzügigsten"
+      },
+      "example_sentences": [
+        {
+          "de": "Danke, das ist sehr großzügig von dir.",
+          "en": "Thank you, that's very generous of you."
+        },
+        {
+          "de": "Er gibt im Restaurant großzügig Trinkgeld.",
+          "en": "He tips generously in the restaurant."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Die Wohnung hat einen ___ Balkon.",
+          "answer": "großzügigen",
+          "en": "The flat has a spacious balcony."
+        }
+      ],
+      "notes": "For rooms and flats it means 'spacious': 'ein großzügiges Wohnzimmer'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🎁",
+      "imageable": false,
+      "tags": [
+        "character",
+        "money",
+        "people"
+      ],
+      "synonyms": [
+        "freigebig"
+      ],
+      "antonyms": [
+        "geizig"
+      ],
+      "related": [
+        "geizig",
+        "freundlich"
+      ]
+    },
+    {
+      "id": "geizig",
+      "word": "geizig",
+      "lemma": "geizig",
+      "translation": "stingy",
+      "translations": [
+        "stingy",
+        "mean with money"
+      ],
+      "level": "A2",
+      "category": "Descriptive Adjectives",
+      "partOfSpeech": "adjective",
+      "frequency": 2100,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "komparativ": "geiziger",
+        "superlativ": "am geizigsten"
+      },
+      "example_sentences": [
+        {
+          "de": "Mein Nachbar ist ziemlich geizig.",
+          "en": "My neighbour is quite stingy."
+        },
+        {
+          "de": "Sei nicht so geizig, gib ihm Trinkgeld.",
+          "en": "Don't be so stingy, give him a tip."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Er ist zu ___, um ein Taxi zu nehmen.",
+          "answer": "geizig",
+          "en": "He is too stingy to take a taxi."
+        }
+      ],
+      "notes": "'Geiz ist geil' was a famous German ad slogan — 'being stingy is cool'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🪙",
+      "imageable": false,
+      "tags": [
+        "character",
+        "money",
+        "people"
+      ],
+      "synonyms": [
+        "sparsam"
+      ],
+      "antonyms": [
+        "großzügig"
+      ],
+      "related": [
+        "grosszuegig"
+      ]
+    },
+    {
+      "id": "zuverlaessig",
+      "word": "zuverlässig",
+      "lemma": "zuverlässig",
+      "translation": "reliable",
+      "translations": [
+        "reliable",
+        "dependable"
+      ],
+      "level": "A2",
+      "category": "Descriptive Adjectives",
+      "partOfSpeech": "adjective",
+      "frequency": 1400,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "komparativ": "zuverlässiger",
+        "superlativ": "am zuverlässigsten"
+      },
+      "example_sentences": [
+        {
+          "de": "Sie ist eine sehr zuverlässige Kollegin.",
+          "en": "She is a very reliable colleague."
+        },
+        {
+          "de": "Mein altes Auto ist immer noch zuverlässig.",
+          "en": "My old car is still reliable."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wir suchen einen ___ Babysitter.",
+          "answer": "zuverlässigen",
+          "en": "We are looking for a reliable babysitter."
+        }
+      ],
+      "notes": "Top praise in a German Arbeitszeugnis (job reference).",
+      "mnemonic": null,
+      "germany_context": "'Zuverlässig' is the highest everyday compliment at a German workplace: doing exactly what you promised, by the agreed date, counts for more than being fast or loud.",
+      "emoji": "✅",
+      "imageable": false,
+      "tags": [
+        "character",
+        "work",
+        "people"
+      ],
+      "synonyms": [
+        "pünktlich",
+        "verlässlich"
+      ],
+      "antonyms": [
+        "unzuverlässig"
+      ],
+      "related": [
+        "puenktlich",
+        "fleissig",
+        "ehrlich"
+      ]
+    },
+    {
+      "id": "puenktlich",
+      "word": "pünktlich",
+      "lemma": "pünktlich",
+      "translation": "punctual",
+      "translations": [
+        "punctual",
+        "on time"
+      ],
+      "level": "A1",
+      "category": "Descriptive Adjectives",
+      "partOfSpeech": "adjective",
+      "frequency": 480,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "komparativ": "pünktlicher",
+        "superlativ": "am pünktlichsten"
+      },
+      "example_sentences": [
+        {
+          "de": "Der Zug war heute pünktlich.",
+          "en": "The train was on time today."
+        },
+        {
+          "de": "Bitte komm pünktlich um acht.",
+          "en": "Please come punctually at eight."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Sei bitte ___ zum Termin.",
+          "answer": "pünktlich",
+          "en": "Please be on time for the appointment."
+        }
+      ],
+      "notes": "'pünktlich um 8' = at 8 sharp.",
+      "mnemonic": null,
+      "germany_context": "Termin culture: for an appointment at an Amt, doctor or viewing, arrive 5-10 minutes early. Turn up late and the slot can simply be given away — and a new Termin may be weeks later.",
+      "emoji": "⏰",
+      "imageable": false,
+      "tags": [
+        "time",
+        "character",
+        "essential"
+      ],
+      "synonyms": [
+        "rechtzeitig"
+      ],
+      "antonyms": [
+        "unpünktlich",
+        "verspätet"
+      ],
+      "related": [
+        "zuverlaessig",
+        "geduldig"
+      ]
+    },
+    {
+      "id": "ordentlich",
+      "word": "ordentlich",
+      "lemma": "ordentlich",
+      "translation": "tidy",
+      "translations": [
+        "tidy",
+        "neat",
+        "proper"
+      ],
+      "level": "A2",
+      "category": "Descriptive Adjectives",
+      "partOfSpeech": "adjective",
+      "frequency": 1257,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "komparativ": "ordentlicher",
+        "superlativ": "am ordentlichsten"
+      },
+      "example_sentences": [
+        {
+          "de": "Dein Zimmer ist heute sehr ordentlich.",
+          "en": "Your room is very tidy today."
+        },
+        {
+          "de": "Er arbeitet immer ordentlich.",
+          "en": "He always works properly."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Bitte halte die Küche ___.",
+          "answer": "ordentlich",
+          "en": "Please keep the kitchen tidy."
+        }
+      ],
+      "notes": "From 'die Ordnung' (order). 'Alles in Ordnung?' = 'Everything okay?'",
+      "mnemonic": null,
+      "germany_context": "The Hausordnung of your building expects tidy stairwells and correct Mülltrennung: Papier, Gelber Sack (plastic/metal), Bio, Glas and Restmüll go in separate bins — neighbours notice mistakes.",
+      "emoji": "🧹",
+      "imageable": false,
+      "tags": [
+        "character",
+        "home"
+      ],
+      "synonyms": [
+        "sauber",
+        "aufgeräumt"
+      ],
+      "antonyms": [
+        "chaotisch",
+        "unordentlich"
+      ],
+      "related": [
+        "chaotisch",
+        "puenktlich"
+      ]
+    },
+    {
+      "id": "chaotisch",
+      "word": "chaotisch",
+      "lemma": "chaotisch",
+      "translation": "chaotic",
+      "translations": [
+        "chaotic",
+        "messy"
+      ],
+      "level": "A2",
+      "category": "Descriptive Adjectives",
+      "partOfSpeech": "adjective",
+      "frequency": 1900,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "komparativ": "chaotischer",
+        "superlativ": "am chaotischsten"
+      },
+      "example_sentences": [
+        {
+          "de": "Heute war es im Büro sehr chaotisch.",
+          "en": "Today it was very chaotic in the office."
+        },
+        {
+          "de": "Mein Schreibtisch sieht chaotisch aus.",
+          "en": "My desk looks chaotic."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der erste Arbeitstag war ziemlich ___.",
+          "answer": "chaotisch",
+          "en": "The first day at work was pretty chaotic."
+        }
+      ],
+      "notes": "A messy person is 'ein Chaot' — said half jokingly.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🌪️",
+      "imageable": false,
+      "tags": [
+        "character",
+        "home",
+        "work"
+      ],
+      "synonyms": [
+        "unordentlich"
+      ],
+      "antonyms": [
+        "ordentlich"
+      ],
+      "related": [
+        "ordentlich",
+        "kompliziert"
+      ]
+    },
+    {
+      "id": "hilfsbereit",
+      "word": "hilfsbereit",
+      "lemma": "hilfsbereit",
+      "translation": "helpful",
+      "translations": [
+        "helpful",
+        "willing to help"
+      ],
+      "level": "A2",
+      "category": "Descriptive Adjectives",
+      "partOfSpeech": "adjective",
+      "frequency": 1850,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "komparativ": "hilfsbereiter",
+        "superlativ": "am hilfsbereitesten"
+      },
+      "example_sentences": [
+        {
+          "de": "Unsere Nachbarn sind sehr hilfsbereit.",
+          "en": "Our neighbours are very helpful."
+        },
+        {
+          "de": "Der Hausmeister ist immer hilfsbereit.",
+          "en": "The caretaker is always helpful."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Die Kollegen im Büro sind alle sehr ___.",
+          "answer": "hilfsbereit",
+          "en": "The colleagues in the office are all very helpful."
+        }
+      ],
+      "notes": "Literally 'ready to help' (Hilfe + bereit). Used for people, not things — for things use 'nützlich'.",
+      "mnemonic": null,
+      "germany_context": "The Hausmeister (building caretaker) is your first contact for heating, bins, keys and small repairs — ask him before writing to the landlord.",
+      "emoji": "🤲",
+      "imageable": false,
+      "tags": [
+        "character",
+        "people",
+        "neighbours"
+      ],
+      "synonyms": [
+        "freundlich",
+        "nett"
+      ],
+      "antonyms": [
+        "egoistisch"
+      ],
+      "related": [
+        "freundlich",
+        "nuetzlich"
+      ]
+    },
+    {
+      "id": "sympathisch",
+      "word": "sympathisch",
+      "lemma": "sympathisch",
+      "translation": "likeable",
+      "translations": [
+        "likeable",
+        "nice",
+        "congenial"
+      ],
+      "level": "A2",
+      "category": "Descriptive Adjectives",
+      "partOfSpeech": "adjective",
+      "frequency": 1750,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "komparativ": "sympathischer",
+        "superlativ": "am sympathischsten"
+      },
+      "example_sentences": [
+        {
+          "de": "Dein neuer Kollege ist sehr sympathisch.",
+          "en": "Your new colleague is very likeable."
+        },
+        {
+          "de": "Sie war mir vom ersten Moment an sympathisch.",
+          "en": "I liked her from the very first moment."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Vermieter wirkt ___.",
+          "answer": "sympathisch",
+          "en": "The landlord seems likeable."
+        }
+      ],
+      "notes": "False friend: NOT 'sympathetic'. It means likeable. 'Sympathetic' = mitfühlend.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "😌",
+      "imageable": false,
+      "tags": [
+        "character",
+        "people",
+        "false-friend"
+      ],
+      "synonyms": [
+        "nett",
+        "freundlich"
+      ],
+      "antonyms": [
+        "unsympathisch"
+      ],
+      "related": [
+        "nett",
+        "freundlich"
+      ]
+    },
+    {
+      "id": "neugierig",
+      "word": "neugierig",
+      "lemma": "neugierig",
+      "translation": "curious",
+      "translations": [
+        "curious",
+        "nosy"
+      ],
+      "level": "A2",
+      "category": "Descriptive Adjectives",
+      "partOfSpeech": "adjective",
+      "frequency": 2000,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "komparativ": "neugieriger",
+        "superlativ": "am neugierigsten"
+      },
+      "example_sentences": [
+        {
+          "de": "Kinder sind sehr neugierig.",
+          "en": "Children are very curious."
+        },
+        {
+          "de": "Ich bin neugierig auf das Ergebnis.",
+          "en": "I'm curious about the result."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Sei nicht so ___!",
+          "answer": "neugierig",
+          "en": "Don't be so nosy!"
+        }
+      ],
+      "notes": "'neugierig auf' + accusative. Literally 'greedy for the new'.",
+      "mnemonic": "NEU (new) + GIERIG (greedy) = greedy for news → curious.",
+      "germany_context": null,
+      "emoji": "👀",
+      "imageable": false,
+      "tags": [
+        "character",
+        "people"
+      ],
+      "synonyms": [
+        "interessiert"
+      ],
+      "antonyms": [
+        "gleichgültig"
+      ],
+      "related": [
+        "offen",
+        "ueberrascht"
+      ]
+    },
+    {
+      "id": "muede",
+      "word": "müde",
+      "lemma": "müde",
+      "translation": "tired",
+      "translations": [
+        "tired",
+        "sleepy"
+      ],
+      "level": "A0",
+      "category": "Descriptive Adjectives",
+      "partOfSpeech": "adjective",
+      "frequency": 300,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "komparativ": "müder",
+        "superlativ": "am müdesten"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich bin heute sehr müde.",
+          "en": "I'm very tired today."
+        },
+        {
+          "de": "Die Kinder sind müde und gehen ins Bett.",
+          "en": "The children are tired and are going to bed."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Nach der Arbeit bin ich immer ___.",
+          "answer": "müde",
+          "en": "After work I'm always tired."
+        }
+      ],
+      "notes": null,
+      "mnemonic": "MÜDE ~ 'mood' gone — no energy left.",
+      "germany_context": null,
+      "emoji": "😴",
+      "imageable": false,
+      "tags": [
+        "body",
+        "feelings",
+        "essential"
+      ],
+      "synonyms": [
+        "erschöpft",
+        "kaputt"
+      ],
+      "antonyms": [
+        "wach",
+        "fit"
+      ],
+      "related": [
+        "wach",
+        "anstrengend",
+        "kaputt"
+      ]
+    },
+    {
+      "id": "wach",
+      "word": "wach",
+      "lemma": "wach",
+      "translation": "awake",
+      "translations": [
+        "awake",
+        "alert"
+      ],
+      "level": "A2",
+      "category": "Descriptive Adjectives",
+      "partOfSpeech": "adjective",
+      "frequency": 1150,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "komparativ": "wacher",
+        "superlativ": "am wachsten"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich bin schon seit sechs Uhr wach.",
+          "en": "I've been awake since six o'clock."
+        },
+        {
+          "de": "Bist du noch wach?",
+          "en": "Are you still awake?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Kaffee macht mich ___.",
+          "answer": "wach",
+          "en": "The coffee makes me awake."
+        }
+      ],
+      "notes": "Related verb: 'aufwachen' = to wake up.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "👁️",
+      "imageable": false,
+      "tags": [
+        "body",
+        "daily-life"
+      ],
+      "synonyms": [
+        "munter"
+      ],
+      "antonyms": [
+        "müde"
+      ],
+      "related": [
+        "muede"
+      ]
+    },
+    {
+      "id": "hungrig",
+      "word": "hungrig",
+      "lemma": "hungrig",
+      "translation": "hungry",
+      "translations": [
+        "hungry"
+      ],
+      "level": "A0",
+      "category": "Descriptive Adjectives",
+      "partOfSpeech": "adjective",
+      "frequency": 320,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "komparativ": "hungriger",
+        "superlativ": "am hungrigsten"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich bin hungrig, gehen wir essen?",
+          "en": "I'm hungry, shall we go and eat?"
+        },
+        {
+          "de": "Die Kinder kommen hungrig aus der Schule.",
+          "en": "The children come home from school hungry."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Bist du auch schon so ___?",
+          "answer": "hungrig",
+          "en": "Are you this hungry already too?"
+        }
+      ],
+      "notes": "Germans say 'Ich habe Hunger' at least as often as 'Ich bin hungrig'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🍽️",
+      "imageable": false,
+      "tags": [
+        "body",
+        "food",
+        "essential"
+      ],
+      "synonyms": [
+        "ausgehungert"
+      ],
+      "antonyms": [
+        "satt"
+      ],
+      "related": [
+        "satt",
+        "durstig",
+        "lecker"
+      ]
+    },
+    {
+      "id": "durstig",
+      "word": "durstig",
+      "lemma": "durstig",
+      "translation": "thirsty",
+      "translations": [
+        "thirsty"
+      ],
+      "level": "A1",
+      "category": "Descriptive Adjectives",
+      "partOfSpeech": "adjective",
+      "frequency": 700,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "komparativ": "durstiger",
+        "superlativ": "am durstigsten"
+      },
+      "example_sentences": [
+        {
+          "de": "Nach dem Sport bin ich immer durstig.",
+          "en": "After sports I'm always thirsty."
+        },
+        {
+          "de": "Das Kind ist durstig und möchte Wasser.",
+          "en": "The child is thirsty and wants water."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich bin ___ — hast du etwas zu trinken?",
+          "answer": "durstig",
+          "en": "I'm thirsty - do you have something to drink?"
+        }
+      ],
+      "notes": "More common in speech: 'Ich habe Durst'.",
+      "mnemonic": null,
+      "germany_context": "German restaurants almost never bring free tap water. You order and pay for 'ein Wasser' — 'mit Kohlensäure' (sparkling) or 'ohne Kohlensäure' / 'still'.",
+      "emoji": "🥤",
+      "imageable": false,
+      "tags": [
+        "body",
+        "food",
+        "drinks"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "hungrig",
+        "satt"
+      ]
+    },
+    {
+      "id": "satt",
+      "word": "satt",
+      "lemma": "satt",
+      "translation": "full",
+      "translations": [
+        "full",
+        "sated"
+      ],
+      "level": "A1",
+      "category": "Descriptive Adjectives",
+      "partOfSpeech": "adjective",
+      "frequency": 800,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "komparativ": "satter",
+        "superlativ": "am sattesten"
+      },
+      "example_sentences": [
+        {
+          "de": "Danke, ich bin satt.",
+          "en": "Thank you, I'm full."
+        },
+        {
+          "de": "Die Suppe macht richtig satt.",
+          "en": "The soup is really filling."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Nein danke, ich bin schon ___.",
+          "answer": "satt",
+          "en": "No thanks, I'm already full."
+        }
+      ],
+      "notes": "The polite way to decline a second helping: 'Danke, ich bin satt.'",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "😊",
+      "imageable": false,
+      "tags": [
+        "body",
+        "food",
+        "manners"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "hungrig"
+      ],
+      "related": [
+        "hungrig",
+        "lecker"
+      ]
+    },
+    {
+      "id": "lecker",
+      "word": "lecker",
+      "lemma": "lecker",
+      "translation": "delicious",
+      "translations": [
+        "delicious",
+        "tasty",
+        "yummy"
+      ],
+      "level": "A0",
+      "category": "Descriptive Adjectives",
+      "partOfSpeech": "adjective",
+      "frequency": 350,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "komparativ": "leckerer",
+        "superlativ": "am leckersten"
+      },
+      "example_sentences": [
+        {
+          "de": "Das Essen war sehr lecker!",
+          "en": "The food was very delicious!"
+        },
+        {
+          "de": "Hier gibt es leckeren Kuchen.",
+          "en": "There is delicious cake here."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Kaffee schmeckt richtig ___.",
+          "answer": "lecker",
+          "en": "The coffee tastes really good."
+        }
+      ],
+      "notes": "Say 'Lecker!' while eating as a compliment. Waiters ask 'Hat es geschmeckt?' at the end.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "😋",
+      "imageable": false,
+      "tags": [
+        "food",
+        "essential"
+      ],
+      "synonyms": [
+        "köstlich"
+      ],
+      "antonyms": [
+        "eklig"
+      ],
+      "related": [
+        "suess",
+        "scharf",
+        "frisch"
+      ]
+    },
+    {
+      "id": "suess",
+      "word": "süß",
+      "lemma": "süß",
+      "translation": "sweet",
+      "translations": [
+        "sweet",
+        "cute"
+      ],
+      "level": "A1",
+      "category": "Descriptive Adjectives",
+      "partOfSpeech": "adjective",
+      "frequency": 627,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "komparativ": "süßer",
+        "superlativ": "am süßesten"
+      },
+      "example_sentences": [
+        {
+          "de": "Der Tee ist mir zu süß.",
+          "en": "The tea is too sweet for me."
+        },
+        {
+          "de": "Dein Hund ist so süß!",
+          "en": "Your dog is so cute!"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich mag keine ___ Getränke.",
+          "answer": "süßen",
+          "en": "I don't like sweet drinks."
+        }
+      ],
+      "notes": "'süß' also means 'cute' for babies, animals and people.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🍬",
+      "imageable": false,
+      "tags": [
+        "food",
+        "taste"
+      ],
+      "synonyms": [
+        "zuckrig"
+      ],
+      "antonyms": [
+        "sauer",
+        "salzig",
+        "bitter"
+      ],
+      "related": [
+        "sauer",
+        "salzig",
+        "bitter"
+      ]
+    },
+    {
+      "id": "salzig",
+      "word": "salzig",
+      "lemma": "salzig",
+      "translation": "salty",
+      "translations": [
+        "salty"
+      ],
+      "level": "A2",
+      "category": "Descriptive Adjectives",
+      "partOfSpeech": "adjective",
+      "frequency": 1600,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "komparativ": "salziger",
+        "superlativ": "am salzigsten"
+      },
+      "example_sentences": [
+        {
+          "de": "Die Suppe ist zu salzig.",
+          "en": "The soup is too salty."
+        },
+        {
+          "de": "Ich esse gern salzige Snacks.",
+          "en": "I like eating salty snacks."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Das Meerwasser ist ___.",
+          "answer": "salzig",
+          "en": "Sea water is salty."
+        }
+      ],
+      "notes": null,
+      "mnemonic": "SALZ = salt → salzig = salty.",
+      "germany_context": null,
+      "emoji": "🧂",
+      "imageable": false,
+      "tags": [
+        "food",
+        "taste"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "süß"
+      ],
+      "related": [
+        "suess",
+        "scharf",
+        "bitter"
+      ]
+    },
+    {
+      "id": "sauer",
+      "word": "sauer",
+      "lemma": "sauer",
+      "translation": "sour",
+      "translations": [
+        "sour",
+        "annoyed"
+      ],
+      "level": "A2",
+      "category": "Descriptive Adjectives",
+      "partOfSpeech": "adjective",
+      "frequency": 1157,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "komparativ": "saurer",
+        "superlativ": "am sauersten"
+      },
+      "example_sentences": [
+        {
+          "de": "Die Zitrone ist sehr sauer.",
+          "en": "The lemon is very sour."
+        },
+        {
+          "de": "Mein Chef ist sauer auf mich.",
+          "en": "My boss is annoyed with me."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Apfel schmeckt ___.",
+          "answer": "sauer",
+          "en": "The apple tastes sour."
+        }
+      ],
+      "notes": "'sauer sein auf jemanden' = to be annoyed with somebody — used constantly in spoken German.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🍋",
+      "imageable": false,
+      "tags": [
+        "food",
+        "taste",
+        "feelings"
+      ],
+      "synonyms": [
+        "verärgert"
+      ],
+      "antonyms": [
+        "süß"
+      ],
+      "related": [
+        "suess",
+        "bitter",
+        "genervt"
+      ]
+    },
+    {
+      "id": "bitter",
+      "word": "bitter",
+      "lemma": "bitter",
+      "translation": "bitter",
+      "translations": [
+        "bitter"
+      ],
+      "level": "A2",
+      "category": "Descriptive Adjectives",
+      "partOfSpeech": "adjective",
+      "frequency": 1757,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "komparativ": "bitterer",
+        "superlativ": "am bittersten"
+      },
+      "example_sentences": [
+        {
+          "de": "Der Kaffee ist mir zu bitter.",
+          "en": "The coffee is too bitter for me."
+        },
+        {
+          "de": "Dunkle Schokolade schmeckt bitter.",
+          "en": "Dark chocolate tastes bitter."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Diese Medizin ist sehr ___.",
+          "answer": "bitter",
+          "en": "This medicine is very bitter."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "☕",
+      "imageable": false,
+      "tags": [
+        "food",
+        "taste"
+      ],
+      "synonyms": [
+        "herb"
+      ],
+      "antonyms": [
+        "süß"
+      ],
+      "related": [
+        "suess",
+        "sauer"
+      ]
+    },
+    {
+      "id": "scharf",
+      "word": "scharf",
+      "lemma": "scharf",
+      "translation": "spicy",
+      "translations": [
+        "spicy",
+        "hot",
+        "sharp"
+      ],
+      "level": "A1",
+      "category": "Descriptive Adjectives",
+      "partOfSpeech": "adjective",
+      "frequency": 850,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "komparativ": "schärfer",
+        "superlativ": "am schärfsten"
+      },
+      "example_sentences": [
+        {
+          "de": "Das Curry ist mir zu scharf.",
+          "en": "The curry is too spicy for me."
+        },
+        {
+          "de": "Vorsicht, das Messer ist scharf.",
+          "en": "Careful, the knife is sharp."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich mag ___ Essen.",
+          "answer": "scharfes",
+          "en": "I like spicy food."
+        }
+      ],
+      "notes": "Same word for spicy food and sharp knives. Umlaut in the comparison: schärfer.",
+      "mnemonic": null,
+      "germany_context": "At a Döner or Imbiss you will be asked 'Mit scharf?' — that means chilli sauce. Answer 'ja, bitte' or 'nein, ohne scharf'. Traditional German food is almost never spicy.",
+      "emoji": "🌶️",
+      "imageable": false,
+      "tags": [
+        "food",
+        "taste"
+      ],
+      "synonyms": [
+        "würzig"
+      ],
+      "antonyms": [
+        "mild"
+      ],
+      "related": [
+        "lecker",
+        "salzig"
+      ]
+    },
+    {
+      "id": "frisch",
+      "word": "frisch",
+      "lemma": "frisch",
+      "translation": "fresh",
+      "translations": [
+        "fresh",
+        "chilly"
+      ],
+      "level": "A1",
+      "category": "Descriptive Adjectives",
+      "partOfSpeech": "adjective",
+      "frequency": 560,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "komparativ": "frischer",
+        "superlativ": "am frischesten"
+      },
+      "example_sentences": [
+        {
+          "de": "Die Brötchen sind ganz frisch.",
+          "en": "The bread rolls are completely fresh."
+        },
+        {
+          "de": "Ich kaufe frisches Gemüse auf dem Markt.",
+          "en": "I buy fresh vegetables at the market."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Auf dem Wochenmarkt gibt es ___ Fisch.",
+          "answer": "frischen",
+          "en": "At the weekly market there is fresh fish."
+        }
+      ],
+      "notes": "Also used for weather: 'Heute ist es frisch' = it's chilly today.",
+      "mnemonic": null,
+      "germany_context": "Bakeries are the one kind of shop allowed to open on Sunday mornings — that is where Germans get fresh Brötchen for Sunday breakfast.",
+      "emoji": "🥖",
+      "imageable": false,
+      "tags": [
+        "food",
+        "shopping"
+      ],
+      "synonyms": [
+        "neu"
+      ],
+      "antonyms": [
+        "alt",
+        "abgelaufen"
+      ],
+      "related": [
+        "reif",
+        "lecker"
+      ]
+    },
+    {
+      "id": "reif",
+      "word": "reif",
+      "lemma": "reif",
+      "translation": "ripe",
+      "translations": [
+        "ripe",
+        "mature"
+      ],
+      "level": "A2",
+      "category": "Descriptive Adjectives",
+      "partOfSpeech": "adjective",
+      "frequency": 1857,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "komparativ": "reifer",
+        "superlativ": "am reifsten"
+      },
+      "example_sentences": [
+        {
+          "de": "Die Bananen sind noch nicht reif.",
+          "en": "The bananas aren't ripe yet."
+        },
+        {
+          "de": "Diese Tomaten sind schön reif.",
+          "en": "These tomatoes are nicely ripe."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ist die Avocado schon ___?",
+          "answer": "reif",
+          "en": "Is the avocado ripe yet?"
+        }
+      ],
+      "notes": "For people it means 'mature': 'Er ist sehr reif für sein Alter.'",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🍌",
+      "imageable": false,
+      "tags": [
+        "food",
+        "shopping"
+      ],
+      "synonyms": [
+        "essbar"
+      ],
+      "antonyms": [
+        "unreif",
+        "grün"
+      ],
+      "related": [
+        "frisch",
+        "roh"
+      ]
+    },
+    {
+      "id": "roh",
+      "word": "roh",
+      "lemma": "roh",
+      "translation": "raw",
+      "translations": [
+        "raw",
+        "uncooked"
+      ],
+      "level": "A2",
+      "category": "Descriptive Adjectives",
+      "partOfSpeech": "adjective",
+      "frequency": 1950,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "komparativ": "roher",
+        "superlativ": "am rohesten"
+      },
+      "example_sentences": [
+        {
+          "de": "Iss das Fleisch bitte nicht roh!",
+          "en": "Please don't eat the meat raw!"
+        },
+        {
+          "de": "Ich esse gern rohes Gemüse.",
+          "en": "I like eating raw vegetables."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Das Ei ist noch ___.",
+          "answer": "roh",
+          "en": "The egg is still raw."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Germans really do eat raw pork: 'Mett' — seasoned raw minced pork on a Brötchen with onions — is a classic party and butcher-counter snack.",
+      "emoji": "🥩",
+      "imageable": false,
+      "tags": [
+        "food",
+        "cooking"
+      ],
+      "synonyms": [
+        "ungekocht"
+      ],
+      "antonyms": [
+        "gekocht",
+        "gebraten"
+      ],
+      "related": [
+        "gekocht",
+        "gebraten"
+      ]
+    },
+    {
+      "id": "gekocht",
+      "word": "gekocht",
+      "lemma": "gekocht",
+      "translation": "boiled",
+      "translations": [
+        "boiled",
+        "cooked"
+      ],
+      "level": "A2",
+      "category": "Descriptive Adjectives",
+      "partOfSpeech": "adjective",
+      "frequency": 2050,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich möchte ein gekochtes Ei zum Frühstück.",
+          "en": "I'd like a boiled egg for breakfast."
+        },
+        {
+          "de": "Die Kartoffeln sind schon gekocht.",
+          "en": "The potatoes are already cooked."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Möchtest du die Eier ___ oder gebraten?",
+          "answer": "gekocht",
+          "en": "Would you like the eggs boiled or fried?"
+        }
+      ],
+      "notes": "Past participle of 'kochen' used as an adjective — it is not compared.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🥚",
+      "imageable": false,
+      "tags": [
+        "food",
+        "cooking"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "roh"
+      ],
+      "related": [
+        "roh",
+        "gebraten"
+      ]
+    },
+    {
+      "id": "gebraten",
+      "word": "gebraten",
+      "lemma": "gebraten",
+      "translation": "fried",
+      "translations": [
+        "fried",
+        "roasted",
+        "pan-fried"
+      ],
+      "level": "A2",
+      "category": "Descriptive Adjectives",
+      "partOfSpeech": "adjective",
+      "frequency": 2150,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich nehme gebratenen Fisch mit Kartoffeln.",
+          "en": "I'll have fried fish with potatoes."
+        },
+        {
+          "de": "Das Hähnchen ist gebraten, nicht gekocht.",
+          "en": "The chicken is roasted, not boiled."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Auf dem Teller liegt ___ Gemüse.",
+          "answer": "gebratenes",
+          "en": "There are fried vegetables on the plate."
+        }
+      ],
+      "notes": "Past participle of the irregular verb 'braten' (er brät).",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🍳",
+      "imageable": false,
+      "tags": [
+        "food",
+        "cooking"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "roh"
+      ],
+      "related": [
+        "gekocht",
+        "roh"
+      ]
+    },
+    {
+      "id": "vegetarisch",
+      "word": "vegetarisch",
+      "lemma": "vegetarisch",
+      "translation": "vegetarian",
+      "translations": [
+        "vegetarian"
+      ],
+      "level": "A1",
+      "category": "Descriptive Adjectives",
+      "partOfSpeech": "adjective",
+      "frequency": 1307,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich esse vegetarisch.",
+          "en": "I eat vegetarian food."
+        },
+        {
+          "de": "Haben Sie ein vegetarisches Gericht?",
+          "en": "Do you have a vegetarian dish?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Diese Pizza ist ___.",
+          "answer": "vegetarisch",
+          "en": "This pizza is vegetarian."
+        }
+      ],
+      "notes": "'vegan' = no animal products at all; menus often mark dishes with (v) or (vg).",
+      "mnemonic": null,
+      "germany_context": "Germany is very easy for vegetarians: every supermarket has a big veggie section, and menus mark dishes 'vegetarisch' or 'vegan'. In a restaurant just ask 'Was haben Sie Vegetarisches?'",
+      "emoji": "🥗",
+      "imageable": false,
+      "tags": [
+        "food",
+        "restaurant"
+      ],
+      "synonyms": [
+        "fleischlos"
+      ],
+      "antonyms": [],
+      "related": [
+        "lecker",
+        "gekocht"
+      ]
+    },
+    {
+      "id": "sonnig",
+      "word": "sonnig",
+      "lemma": "sonnig",
+      "translation": "sunny",
+      "translations": [
+        "sunny"
+      ],
+      "level": "A1",
+      "category": "Descriptive Adjectives",
+      "partOfSpeech": "adjective",
+      "frequency": 787,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "komparativ": "sonniger",
+        "superlativ": "am sonnigsten"
+      },
+      "example_sentences": [
+        {
+          "de": "Heute ist es sonnig und warm.",
+          "en": "Today it's sunny and warm."
+        },
+        {
+          "de": "Wir suchen eine sonnige Wohnung.",
+          "en": "We're looking for a sunny flat."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Am Wochenende wird es ___.",
+          "answer": "sonnig",
+          "en": "At the weekend it will be sunny."
+        }
+      ],
+      "notes": null,
+      "mnemonic": "SONNE (sun) + -ig → sunny.",
+      "germany_context": null,
+      "emoji": "☀️",
+      "imageable": false,
+      "tags": [
+        "weather"
+      ],
+      "synonyms": [
+        "heiter"
+      ],
+      "antonyms": [
+        "bewölkt",
+        "regnerisch"
+      ],
+      "related": [
+        "bewoelkt",
+        "regnerisch",
+        "windig"
+      ]
+    },
+    {
+      "id": "regnerisch",
+      "word": "regnerisch",
+      "lemma": "regnerisch",
+      "translation": "rainy",
+      "translations": [
+        "rainy",
+        "wet"
+      ],
+      "level": "A2",
+      "category": "Descriptive Adjectives",
+      "partOfSpeech": "adjective",
+      "frequency": 1650,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "komparativ": "regnerischer",
+        "superlativ": "am regnerischsten"
+      },
+      "example_sentences": [
+        {
+          "de": "Das Wetter ist heute regnerisch.",
+          "en": "The weather is rainy today."
+        },
+        {
+          "de": "Im November ist es oft regnerisch.",
+          "en": "In November it's often rainy."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Es wird ein ___ Wochenende.",
+          "answer": "regnerisches",
+          "en": "It's going to be a rainy weekend."
+        }
+      ],
+      "notes": null,
+      "mnemonic": "REGEN (rain) → regnerisch.",
+      "germany_context": null,
+      "emoji": "🌧️",
+      "imageable": false,
+      "tags": [
+        "weather"
+      ],
+      "synonyms": [
+        "nass"
+      ],
+      "antonyms": [
+        "sonnig",
+        "trocken"
+      ],
+      "related": [
+        "nass",
+        "sonnig",
+        "bewoelkt"
+      ]
+    },
+    {
+      "id": "windig",
+      "word": "windig",
+      "lemma": "windig",
+      "translation": "windy",
+      "translations": [
+        "windy"
+      ],
+      "level": "A2",
+      "category": "Descriptive Adjectives",
+      "partOfSpeech": "adjective",
+      "frequency": 1457,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "komparativ": "windiger",
+        "superlativ": "am windigsten"
+      },
+      "example_sentences": [
+        {
+          "de": "Heute ist es sehr windig.",
+          "en": "Today it's very windy."
+        },
+        {
+          "de": "An der Nordsee ist es fast immer windig.",
+          "en": "At the North Sea it's almost always windy."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Nimm eine Jacke mit, es ist ___.",
+          "answer": "windig",
+          "en": "Take a jacket, it's windy."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "💨",
+      "imageable": false,
+      "tags": [
+        "weather"
+      ],
+      "synonyms": [
+        "stürmisch"
+      ],
+      "antonyms": [
+        "windstill"
+      ],
+      "related": [
+        "sonnig",
+        "regnerisch"
+      ]
+    },
+    {
+      "id": "neblig",
+      "word": "neblig",
+      "lemma": "neblig",
+      "translation": "foggy",
+      "translations": [
+        "foggy",
+        "misty"
+      ],
+      "level": "A2",
+      "category": "Descriptive Adjectives",
+      "partOfSpeech": "adjective",
+      "frequency": 2007,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "komparativ": "nebliger",
+        "superlativ": "am nebligsten"
+      },
+      "example_sentences": [
+        {
+          "de": "Am Morgen war es neblig.",
+          "en": "In the morning it was foggy."
+        },
+        {
+          "de": "Im Herbst ist es hier oft neblig.",
+          "en": "In autumn it's often foggy here."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Draußen ist es kalt und ___.",
+          "answer": "neblig",
+          "en": "Outside it's cold and foggy."
+        }
+      ],
+      "notes": "Also written 'nebelig'. From 'der Nebel' (fog).",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🌫️",
+      "imageable": false,
+      "tags": [
+        "weather"
+      ],
+      "synonyms": [
+        "diesig"
+      ],
+      "antonyms": [
+        "klar"
+      ],
+      "related": [
+        "bewoelkt",
+        "feucht"
+      ]
+    },
+    {
+      "id": "schwuel",
+      "word": "schwül",
+      "lemma": "schwül",
+      "translation": "muggy",
+      "translations": [
+        "muggy",
+        "humid",
+        "sultry"
+      ],
+      "level": "A2",
+      "category": "Descriptive Adjectives",
+      "partOfSpeech": "adjective",
+      "frequency": 2500,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "komparativ": "schwüler",
+        "superlativ": "am schwülsten"
+      },
+      "example_sentences": [
+        {
+          "de": "Im Sommer ist es hier oft schwül.",
+          "en": "In summer it's often muggy here."
+        },
+        {
+          "de": "Heute ist es schwül, es gibt bestimmt ein Gewitter.",
+          "en": "Today it's muggy, there's sure to be a thunderstorm."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Die Luft ist ___ und schwer.",
+          "answer": "schwül",
+          "en": "The air is muggy and heavy."
+        }
+      ],
+      "notes": "Careful: 'schwül' = muggy, 'schwul' = gay. One umlaut changes everything.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🥵",
+      "imageable": false,
+      "tags": [
+        "weather"
+      ],
+      "synonyms": [
+        "drückend"
+      ],
+      "antonyms": [
+        "trocken",
+        "frisch"
+      ],
+      "related": [
+        "feucht",
+        "trocken"
+      ]
+    },
+    {
+      "id": "feucht",
+      "word": "feucht",
+      "lemma": "feucht",
+      "translation": "damp",
+      "translations": [
+        "damp",
+        "moist",
+        "humid"
+      ],
+      "level": "A2",
+      "category": "Descriptive Adjectives",
+      "partOfSpeech": "adjective",
+      "frequency": 1800,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "komparativ": "feuchter",
+        "superlativ": "am feuchtesten"
+      },
+      "example_sentences": [
+        {
+          "de": "Das Handtuch ist noch feucht.",
+          "en": "The towel is still damp."
+        },
+        {
+          "de": "Im Bad ist die Luft sehr feucht.",
+          "en": "The air in the bathroom is very humid."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Die Wand im Schlafzimmer ist ___.",
+          "answer": "feucht",
+          "en": "The wall in the bedroom is damp."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Damp walls mean Schimmel (mould), and in a rented flat that quickly becomes a dispute with the landlord. Germans 'stoßlüften': open the windows wide for 5-10 minutes several times a day instead of tilting them.",
+      "emoji": "💧",
+      "imageable": false,
+      "tags": [
+        "weather",
+        "home"
+      ],
+      "synonyms": [
+        "nass"
+      ],
+      "antonyms": [
+        "trocken"
+      ],
+      "related": [
+        "nass",
+        "trocken",
+        "schwuel"
+      ]
+    },
+    {
+      "id": "trocken",
+      "word": "trocken",
+      "lemma": "trocken",
+      "translation": "dry",
+      "translations": [
+        "dry"
+      ],
+      "level": "A1",
+      "category": "Descriptive Adjectives",
+      "partOfSpeech": "adjective",
+      "frequency": 907,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "komparativ": "trockener",
+        "superlativ": "am trockensten"
+      },
+      "example_sentences": [
+        {
+          "de": "Die Wäsche ist endlich trocken.",
+          "en": "The laundry is finally dry."
+        },
+        {
+          "de": "Ich trinke gern trockenen Wein.",
+          "en": "I like drinking dry wine."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Zieh bitte die ___ Socken an.",
+          "answer": "trockenen",
+          "en": "Please put on the dry socks."
+        }
+      ],
+      "notes": "On wine labels: trocken (dry), halbtrocken, lieblich (sweet).",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🏜️",
+      "imageable": false,
+      "tags": [
+        "weather",
+        "home",
+        "drinks"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "nass",
+        "feucht"
+      ],
+      "related": [
+        "nass",
+        "feucht"
+      ]
+    },
+    {
+      "id": "nass",
+      "word": "nass",
+      "lemma": "nass",
+      "translation": "wet",
+      "translations": [
+        "wet",
+        "soaked"
+      ],
+      "level": "A1",
+      "category": "Descriptive Adjectives",
+      "partOfSpeech": "adjective",
+      "frequency": 880,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "komparativ": "nasser",
+        "superlativ": "am nassesten"
+      },
+      "example_sentences": [
+        {
+          "de": "Meine Schuhe sind ganz nass.",
+          "en": "My shoes are completely wet."
+        },
+        {
+          "de": "Es regnet, ich werde gleich nass.",
+          "en": "It's raining, I'll get wet in a moment."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Vorsicht, der Boden ist ___.",
+          "answer": "nass",
+          "en": "Careful, the floor is wet."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🌊",
+      "imageable": false,
+      "tags": [
+        "weather",
+        "home"
+      ],
+      "synonyms": [
+        "feucht"
+      ],
+      "antonyms": [
+        "trocken"
+      ],
+      "related": [
+        "trocken",
+        "feucht",
+        "regnerisch"
+      ]
+    },
+    {
+      "id": "glatt",
+      "word": "glatt",
+      "lemma": "glatt",
+      "translation": "slippery",
+      "translations": [
+        "slippery",
+        "smooth"
+      ],
+      "level": "A2",
+      "category": "Descriptive Adjectives",
+      "partOfSpeech": "adjective",
+      "frequency": 2107,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "komparativ": "glatter",
+        "superlativ": "am glattesten"
+      },
+      "example_sentences": [
+        {
+          "de": "Vorsicht, die Straße ist glatt!",
+          "en": "Careful, the road is slippery!"
+        },
+        {
+          "de": "Der Boden ist frisch geputzt und glatt.",
+          "en": "The floor is freshly cleaned and slippery."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Im Winter sind die Wege oft ___.",
+          "answer": "glatt",
+          "en": "In winter the paths are often slippery."
+        }
+      ],
+      "notes": "Weather warning word: 'Glatteis' = black ice.",
+      "mnemonic": null,
+      "germany_context": "Räum- und Streupflicht: in winter tenants or owners must clear snow and grit the pavement in front of the house, usually from 07:00 (Sundays 09:00) until 20:00. If someone slips, you can be liable.",
+      "emoji": "🧊",
+      "imageable": false,
+      "tags": [
+        "weather",
+        "safety",
+        "winter"
+      ],
+      "synonyms": [
+        "rutschig"
+      ],
+      "antonyms": [
+        "rau"
+      ],
+      "related": [
+        "nass",
+        "gefaehrlich"
+      ]
+    },
+    {
+      "id": "bequem",
+      "word": "bequem",
+      "lemma": "bequem",
+      "translation": "comfortable",
+      "translations": [
+        "comfortable",
+        "comfy"
+      ],
+      "level": "A1",
+      "category": "Descriptive Adjectives",
+      "partOfSpeech": "adjective",
+      "frequency": 957,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "komparativ": "bequemer",
+        "superlativ": "am bequemsten"
+      },
+      "example_sentences": [
+        {
+          "de": "Der Sessel ist sehr bequem.",
+          "en": "The armchair is very comfortable."
+        },
+        {
+          "de": "Zieh bequeme Schuhe an, wir laufen viel.",
+          "en": "Put on comfortable shoes, we'll walk a lot."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Das Sofa ist alt, aber ___.",
+          "answer": "bequem",
+          "en": "The sofa is old but comfortable."
+        }
+      ],
+      "notes": "For a person 'bequem' means comfort-loving, almost lazy.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🛋️",
+      "imageable": false,
+      "tags": [
+        "home",
+        "quality"
+      ],
+      "synonyms": [
+        "gemütlich"
+      ],
+      "antonyms": [
+        "unbequem"
+      ],
+      "related": [
+        "gemuetlich",
+        "praktisch"
+      ]
+    },
+    {
+      "id": "gemuetlich",
+      "word": "gemütlich",
+      "lemma": "gemütlich",
+      "translation": "cosy",
+      "translations": [
+        "cosy",
+        "snug",
+        "relaxed"
+      ],
+      "level": "A1",
+      "category": "Descriptive Adjectives",
+      "partOfSpeech": "adjective",
+      "frequency": 860,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "komparativ": "gemütlicher",
+        "superlativ": "am gemütlichsten"
+      },
+      "example_sentences": [
+        {
+          "de": "Eure Wohnung ist sehr gemütlich.",
+          "en": "Your flat is very cosy."
+        },
+        {
+          "de": "Wir hatten einen gemütlichen Abend.",
+          "en": "We had a cosy evening."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Das Café hier ist richtig ___.",
+          "answer": "gemütlich",
+          "en": "This café here is really cosy."
+        }
+      ],
+      "notes": "Hard to translate: cosy plus relaxed and unhurried. 'Machen wir es uns gemütlich' = let's get comfy.",
+      "mnemonic": null,
+      "germany_context": "'Gemütlichkeit' is a core German idea — warm light, candles, no rush. Telling someone their home or their Kneipe is 'gemütlich' is a real compliment.",
+      "emoji": "🕯️",
+      "imageable": false,
+      "tags": [
+        "home",
+        "culture",
+        "feelings"
+      ],
+      "synonyms": [
+        "bequem",
+        "behaglich"
+      ],
+      "antonyms": [
+        "ungemütlich"
+      ],
+      "related": [
+        "bequem",
+        "ruhig"
+      ]
+    },
+    {
+      "id": "modern",
+      "word": "modern",
+      "lemma": "modern",
+      "translation": "modern",
+      "translations": [
+        "modern",
+        "contemporary"
+      ],
+      "level": "A1",
+      "category": "Descriptive Adjectives",
+      "partOfSpeech": "adjective",
+      "frequency": 1007,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "komparativ": "moderner",
+        "superlativ": "am modernsten"
+      },
+      "example_sentences": [
+        {
+          "de": "Die Küche ist ganz modern.",
+          "en": "The kitchen is quite modern."
+        },
+        {
+          "de": "Er trägt moderne Kleidung.",
+          "en": "He wears modern clothes."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wir wohnen in einem ___ Haus.",
+          "answer": "modernen",
+          "en": "We live in a modern house."
+        }
+      ],
+      "notes": "Stress on the second syllable: mo-DERN.",
+      "mnemonic": null,
+      "germany_context": "In flat ads 'Neubau' means a modern building (good insulation, often a lift), 'Altbau' means an old one with high ceilings, more charm and usually higher heating costs.",
+      "emoji": "🏢",
+      "imageable": false,
+      "tags": [
+        "quality",
+        "home"
+      ],
+      "synonyms": [
+        "neu",
+        "zeitgemäß"
+      ],
+      "antonyms": [
+        "altmodisch"
+      ],
+      "related": [
+        "altmodisch",
+        "praktisch"
+      ]
+    },
+    {
+      "id": "altmodisch",
+      "word": "altmodisch",
+      "lemma": "altmodisch",
+      "translation": "old-fashioned",
+      "translations": [
+        "old-fashioned",
+        "dated"
+      ],
+      "level": "A2",
+      "category": "Descriptive Adjectives",
+      "partOfSpeech": "adjective",
+      "frequency": 2200,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "komparativ": "altmodischer",
+        "superlativ": "am altmodischsten"
+      },
+      "example_sentences": [
+        {
+          "de": "Sein Anzug sieht altmodisch aus.",
+          "en": "His suit looks old-fashioned."
+        },
+        {
+          "de": "Meine Oma hat altmodische Möbel.",
+          "en": "My grandma has old-fashioned furniture."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Das Wort klingt ein bisschen ___.",
+          "answer": "altmodisch",
+          "en": "The word sounds a bit old-fashioned."
+        }
+      ],
+      "notes": null,
+      "mnemonic": "ALT (old) + MODE (fashion) → old-fashioned.",
+      "germany_context": null,
+      "emoji": "🕰️",
+      "imageable": false,
+      "tags": [
+        "quality",
+        "clothes"
+      ],
+      "synonyms": [
+        "veraltet"
+      ],
+      "antonyms": [
+        "modern"
+      ],
+      "related": [
+        "modern"
+      ]
+    },
+    {
+      "id": "praktisch",
+      "word": "praktisch",
+      "lemma": "praktisch",
+      "translation": "practical",
+      "translations": [
+        "practical",
+        "handy"
+      ],
+      "level": "A1",
+      "category": "Descriptive Adjectives",
+      "partOfSpeech": "adjective",
+      "frequency": 820,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "komparativ": "praktischer",
+        "superlativ": "am praktischsten"
+      },
+      "example_sentences": [
+        {
+          "de": "Diese Tasche ist sehr praktisch.",
+          "en": "This bag is very practical."
+        },
+        {
+          "de": "Ein Fahrrad ist in der Stadt praktisch.",
+          "en": "A bike is practical in the city."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Deine neue App ist wirklich ___.",
+          "answer": "praktisch",
+          "en": "Your new app is really practical."
+        }
+      ],
+      "notes": "As an adverb it also means 'practically/almost': 'Es ist praktisch fertig.'",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🧰",
+      "imageable": false,
+      "tags": [
+        "quality",
+        "daily-life"
+      ],
+      "synonyms": [
+        "nützlich"
+      ],
+      "antonyms": [
+        "unpraktisch"
+      ],
+      "related": [
+        "nuetzlich",
+        "bequem"
+      ]
+    },
+    {
+      "id": "nuetzlich",
+      "word": "nützlich",
+      "lemma": "nützlich",
+      "translation": "useful",
+      "translations": [
+        "useful",
+        "helpful"
+      ],
+      "level": "A2",
+      "category": "Descriptive Adjectives",
+      "partOfSpeech": "adjective",
+      "frequency": 1314,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "komparativ": "nützlicher",
+        "superlativ": "am nützlichsten"
+      },
+      "example_sentences": [
+        {
+          "de": "Danke, dein Tipp war sehr nützlich.",
+          "en": "Thanks, your tip was very useful."
+        },
+        {
+          "de": "Das ist eine nützliche App für den Alltag.",
+          "en": "That's a useful app for everyday life."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Deutsch zu lernen ist sehr ___.",
+          "answer": "nützlich",
+          "en": "Learning German is very useful."
+        }
+      ],
+      "notes": "From 'der Nutzen' (benefit). For people who like helping use 'hilfsbereit'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🔧",
+      "imageable": false,
+      "tags": [
+        "quality",
+        "daily-life"
+      ],
+      "synonyms": [
+        "praktisch"
+      ],
+      "antonyms": [
+        "nutzlos"
+      ],
+      "related": [
+        "praktisch",
+        "hilfsbereit"
+      ]
+    },
+    {
+      "id": "gefaehrlich",
+      "word": "gefährlich",
+      "lemma": "gefährlich",
+      "translation": "dangerous",
+      "translations": [
+        "dangerous",
+        "risky"
+      ],
+      "level": "A1",
+      "category": "Descriptive Adjectives",
+      "partOfSpeech": "adjective",
+      "frequency": 980,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "komparativ": "gefährlicher",
+        "superlativ": "am gefährlichsten"
+      },
+      "example_sentences": [
+        {
+          "de": "Hier ist Radfahren gefährlich.",
+          "en": "Cycling is dangerous here."
+        },
+        {
+          "de": "Das ist eine gefährliche Kreuzung.",
+          "en": "That's a dangerous junction."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Vorsicht, der Hund ist ___!",
+          "answer": "gefährlich",
+          "en": "Careful, the dog is dangerous!"
+        }
+      ],
+      "notes": null,
+      "mnemonic": "GEFAHR (danger) + -lich → dangerous.",
+      "germany_context": null,
+      "emoji": "⚠️",
+      "imageable": false,
+      "tags": [
+        "safety",
+        "quality"
+      ],
+      "synonyms": [
+        "riskant"
+      ],
+      "antonyms": [
+        "sicher",
+        "ungefährlich"
+      ],
+      "related": [
+        "sicher",
+        "glatt"
+      ]
+    },
+    {
+      "id": "sicher",
+      "word": "sicher",
+      "lemma": "sicher",
+      "translation": "safe",
+      "translations": [
+        "safe",
+        "sure",
+        "certain"
+      ],
+      "level": "A1",
+      "category": "Descriptive Adjectives",
+      "partOfSpeech": "adjective",
+      "frequency": 460,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "komparativ": "sicherer",
+        "superlativ": "am sichersten"
+      },
+      "example_sentences": [
+        {
+          "de": "Bist du sicher?",
+          "en": "Are you sure?"
+        },
+        {
+          "de": "Die Gegend ist auch nachts sicher.",
+          "en": "The area is safe at night too."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich bin mir nicht ___, ob er kommt.",
+          "answer": "sicher",
+          "en": "I'm not sure whether he's coming."
+        }
+      ],
+      "notes": "Two meanings: 'safe' and 'sure'. As an adverb it means 'surely/certainly': 'Er kommt sicher.'",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🔒",
+      "imageable": false,
+      "tags": [
+        "safety",
+        "quality",
+        "essential"
+      ],
+      "synonyms": [
+        "ungefährlich",
+        "bestimmt"
+      ],
+      "antonyms": [
+        "gefährlich",
+        "unsicher"
+      ],
+      "related": [
+        "gefaehrlich"
+      ]
+    },
+    {
+      "id": "verrueckt",
+      "word": "verrückt",
+      "lemma": "verrückt",
+      "translation": "crazy",
+      "translations": [
+        "crazy",
+        "mad",
+        "nuts"
+      ],
+      "level": "A2",
+      "category": "Descriptive Adjectives",
+      "partOfSpeech": "adjective",
+      "frequency": 1407,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "komparativ": "verrückter",
+        "superlativ": "am verrücktesten"
+      },
+      "example_sentences": [
+        {
+          "de": "Das ist ja verrückt!",
+          "en": "That's crazy!"
+        },
+        {
+          "de": "Er hat eine verrückte Idee.",
+          "en": "He has a crazy idea."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Verkehr war heute total ___.",
+          "answer": "verrückt",
+          "en": "The traffic was totally crazy today."
+        }
+      ],
+      "notes": "'verrückt nach etwas sein' = to be crazy about something.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🤪",
+      "imageable": false,
+      "tags": [
+        "character",
+        "feelings",
+        "quality"
+      ],
+      "synonyms": [
+        "wahnsinnig"
+      ],
+      "antonyms": [
+        "normal",
+        "vernünftig"
+      ],
+      "related": [
+        "seltsam",
+        "normal"
+      ]
+    },
+    {
+      "id": "seltsam",
+      "word": "seltsam",
+      "lemma": "seltsam",
+      "translation": "strange",
+      "translations": [
+        "strange",
+        "odd",
+        "weird"
+      ],
+      "level": "A2",
+      "category": "Descriptive Adjectives",
+      "partOfSpeech": "adjective",
+      "frequency": 1707,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "komparativ": "seltsamer",
+        "superlativ": "am seltsamsten"
+      },
+      "example_sentences": [
+        {
+          "de": "Das ist ein seltsames Gefühl.",
+          "en": "That's a strange feeling."
+        },
+        {
+          "de": "Er hat sich gestern seltsam verhalten.",
+          "en": "He behaved strangely yesterday."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Geruch im Flur ist ___.",
+          "answer": "seltsam",
+          "en": "The smell in the hallway is strange."
+        }
+      ],
+      "notes": "Synonyms: 'komisch' (more spoken) and 'merkwürdig' (a bit more formal).",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🤨",
+      "imageable": false,
+      "tags": [
+        "quality",
+        "feelings"
+      ],
+      "synonyms": [
+        "komisch",
+        "merkwürdig"
+      ],
+      "antonyms": [
+        "normal"
+      ],
+      "related": [
+        "normal",
+        "verrueckt"
+      ]
+    },
+    {
+      "id": "normal",
+      "word": "normal",
+      "lemma": "normal",
+      "translation": "normal",
+      "translations": [
+        "normal",
+        "ordinary"
+      ],
+      "level": "A1",
+      "category": "Descriptive Adjectives",
+      "partOfSpeech": "adjective",
+      "frequency": 707,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "komparativ": "normaler",
+        "superlativ": "am normalsten"
+      },
+      "example_sentences": [
+        {
+          "de": "Das ist ganz normal.",
+          "en": "That's completely normal."
+        },
+        {
+          "de": "Heute war ein normaler Arbeitstag.",
+          "en": "Today was a normal working day."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ist dieser Preis hier ___?",
+          "answer": "normal",
+          "en": "Is this price normal here?"
+        }
+      ],
+      "notes": "'ganz normal' is used constantly to reassure someone.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "👌",
+      "imageable": false,
+      "tags": [
+        "quality",
+        "daily-life"
+      ],
+      "synonyms": [
+        "gewöhnlich",
+        "üblich"
+      ],
+      "antonyms": [
+        "seltsam",
+        "besonders"
+      ],
+      "related": [
+        "seltsam",
+        "typisch"
+      ]
+    },
+    {
+      "id": "typisch",
+      "word": "typisch",
+      "lemma": "typisch",
+      "translation": "typical",
+      "translations": [
+        "typical",
+        "characteristic"
+      ],
+      "level": "A2",
+      "category": "Descriptive Adjectives",
+      "partOfSpeech": "adjective",
+      "frequency": 1507,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "komparativ": "typischer",
+        "superlativ": "am typischsten"
+      },
+      "example_sentences": [
+        {
+          "de": "Das ist typisch deutsch.",
+          "en": "That's typically German."
+        },
+        {
+          "de": "Regen im April ist typisch.",
+          "en": "Rain in April is typical."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Bratwurst ist hier ein ___ Gericht.",
+          "answer": "typisches",
+          "en": "Bratwurst is a typical dish here."
+        }
+      ],
+      "notes": "'Typisch!' on its own means 'Typical!' — mildly annoyed.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🇩🇪",
+      "imageable": false,
+      "tags": [
+        "quality",
+        "culture"
+      ],
+      "synonyms": [
+        "charakteristisch"
+      ],
+      "antonyms": [
+        "untypisch"
+      ],
+      "related": [
+        "normal",
+        "beliebt"
+      ]
+    },
+    {
+      "id": "beliebt",
+      "word": "beliebt",
+      "lemma": "beliebt",
+      "translation": "popular",
+      "translations": [
+        "popular",
+        "well-liked"
+      ],
+      "level": "A2",
+      "category": "Descriptive Adjectives",
+      "partOfSpeech": "adjective",
+      "frequency": 1607,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "komparativ": "beliebter",
+        "superlativ": "am beliebtesten"
+      },
+      "example_sentences": [
+        {
+          "de": "Dieses Café ist sehr beliebt.",
+          "en": "This café is very popular."
+        },
+        {
+          "de": "Fußball ist in Deutschland sehr beliebt.",
+          "en": "Football is very popular in Germany."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Park ist bei Familien ___.",
+          "answer": "beliebt",
+          "en": "The park is popular with families."
+        }
+      ],
+      "notes": "'beliebt bei' + dative = popular with somebody.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "⭐",
+      "imageable": false,
+      "tags": [
+        "quality",
+        "people"
+      ],
+      "synonyms": [
+        "populär"
+      ],
+      "antonyms": [
+        "unbeliebt"
+      ],
+      "related": [
+        "bekannt",
+        "beruehmt"
+      ]
+    },
+    {
+      "id": "bekannt",
+      "word": "bekannt",
+      "lemma": "bekannt",
+      "translation": "well-known",
+      "translations": [
+        "well-known",
+        "familiar"
+      ],
+      "level": "A1",
+      "category": "Descriptive Adjectives",
+      "partOfSpeech": "adjective",
+      "frequency": 1057,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "komparativ": "bekannter",
+        "superlativ": "am bekanntesten"
+      },
+      "example_sentences": [
+        {
+          "de": "Diese Straße ist für ihre Cafés bekannt.",
+          "en": "This street is known for its cafés."
+        },
+        {
+          "de": "Kommt dir das bekannt vor?",
+          "en": "Does that seem familiar to you?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Sein Name ist mir nicht ___.",
+          "answer": "bekannt",
+          "en": "His name is not familiar to me."
+        }
+      ],
+      "notes": "'ein Bekannter / eine Bekannte' as a noun = an acquaintance, less close than a Freund.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "📣",
+      "imageable": false,
+      "tags": [
+        "quality",
+        "people"
+      ],
+      "synonyms": [
+        "berühmt"
+      ],
+      "antonyms": [
+        "unbekannt"
+      ],
+      "related": [
+        "beruehmt",
+        "beliebt"
+      ]
+    },
+    {
+      "id": "beruehmt",
+      "word": "berühmt",
+      "lemma": "berühmt",
+      "translation": "famous",
+      "translations": [
+        "famous",
+        "renowned"
+      ],
+      "level": "A2",
+      "category": "Descriptive Adjectives",
+      "partOfSpeech": "adjective",
+      "frequency": 1557,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "komparativ": "berühmter",
+        "superlativ": "am berühmtesten"
+      },
+      "example_sentences": [
+        {
+          "de": "Köln ist für seinen Dom berühmt.",
+          "en": "Cologne is famous for its cathedral."
+        },
+        {
+          "de": "Sie ist eine berühmte Sängerin.",
+          "en": "She is a famous singer."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Dieses Museum ist weltweit ___.",
+          "answer": "berühmt",
+          "en": "This museum is famous worldwide."
+        }
+      ],
+      "notes": "'berühmt für' + accusative = famous for something.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🌟",
+      "imageable": false,
+      "tags": [
+        "quality",
+        "people"
+      ],
+      "synonyms": [
+        "bekannt"
+      ],
+      "antonyms": [
+        "unbekannt"
+      ],
+      "related": [
+        "bekannt",
+        "beliebt"
+      ]
+    },
+    {
+      "id": "kaputt",
+      "word": "kaputt",
+      "lemma": "kaputt",
+      "translation": "broken",
+      "translations": [
+        "broken",
+        "out of order",
+        "exhausted"
+      ],
+      "level": "A0",
+      "category": "Descriptive Adjectives",
+      "partOfSpeech": "adjective",
+      "frequency": 400,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "komparativ": "kaputter",
+        "superlativ": "am kaputtesten"
+      },
+      "example_sentences": [
+        {
+          "de": "Meine Waschmaschine ist kaputt.",
+          "en": "My washing machine is broken."
+        },
+        {
+          "de": "Der Aufzug ist schon wieder kaputt.",
+          "en": "The lift is broken again."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Das Fahrrad ist ___, ich muss laufen.",
+          "answer": "kaputt",
+          "en": "The bike is broken, I have to walk."
+        }
+      ],
+      "notes": "Also colloquial for 'exhausted': 'Ich bin total kaputt.'",
+      "mnemonic": null,
+      "germany_context": "If something breaks in a rented flat, report it to the Vermieter or Hausverwaltung in writing straight away — repairs are usually their job, and damage you never reported can be taken from your Kaution.",
+      "emoji": "🔨",
+      "imageable": false,
+      "tags": [
+        "home",
+        "daily-life",
+        "essential"
+      ],
+      "synonyms": [
+        "defekt"
+      ],
+      "antonyms": [
+        "heil"
+      ],
+      "related": [
+        "muede",
+        "gefaehrlich"
+      ]
+    },
+    {
+      "id": "kompliziert",
+      "word": "kompliziert",
+      "lemma": "kompliziert",
+      "translation": "complicated",
+      "translations": [
+        "complicated",
+        "complex"
+      ],
+      "level": "A2",
+      "category": "Descriptive Adjectives",
+      "partOfSpeech": "adjective",
+      "frequency": 1414,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "komparativ": "komplizierter",
+        "superlativ": "am kompliziertesten"
+      },
+      "example_sentences": [
+        {
+          "de": "Das Formular ist zu kompliziert.",
+          "en": "The form is too complicated."
+        },
+        {
+          "de": "Die Regeln sind ziemlich kompliziert.",
+          "en": "The rules are quite complicated."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Deutsche Grammatik ist ___, aber logisch.",
+          "answer": "kompliziert",
+          "en": "German grammar is complicated but logical."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "German admin is paper-heavy: book a Termin online, then bring your passport, Meldebescheinigung and every document on the list. One missing paper usually means a completely new appointment.",
+      "emoji": "🧩",
+      "imageable": false,
+      "tags": [
+        "quality",
+        "bureaucracy"
+      ],
+      "synonyms": [
+        "schwierig"
+      ],
+      "antonyms": [
+        "einfach"
+      ],
+      "related": [
+        "chaotisch",
+        "anstrengend"
+      ]
+    },
+    {
+      "id": "anstrengend",
+      "word": "anstrengend",
+      "lemma": "anstrengend",
+      "translation": "exhausting",
+      "translations": [
+        "exhausting",
+        "tiring",
+        "demanding"
+      ],
+      "level": "A2",
+      "category": "Descriptive Adjectives",
+      "partOfSpeech": "adjective",
+      "frequency": 1564,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "komparativ": "anstrengender",
+        "superlativ": "am anstrengendsten"
+      },
+      "example_sentences": [
+        {
+          "de": "Der Tag war sehr anstrengend.",
+          "en": "The day was very exhausting."
+        },
+        {
+          "de": "Die Arbeit ist körperlich anstrengend.",
+          "en": "The work is physically demanding."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Die lange Fahrt war ziemlich ___.",
+          "answer": "anstrengend",
+          "en": "The long journey was quite exhausting."
+        }
+      ],
+      "notes": "From 'sich anstrengen' = to make an effort.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "😮‍💨",
+      "imageable": false,
+      "tags": [
+        "work",
+        "feelings",
+        "daily-life"
+      ],
+      "synonyms": [
+        "schwer"
+      ],
+      "antonyms": [
+        "entspannend"
+      ],
+      "related": [
+        "muede",
+        "kompliziert"
+      ]
+    },
+    {
+      "id": "zufrieden",
+      "word": "zufrieden",
+      "lemma": "zufrieden",
+      "translation": "satisfied",
+      "translations": [
+        "satisfied",
+        "content",
+        "happy with"
+      ],
+      "level": "A2",
+      "category": "Descriptive Adjectives",
+      "partOfSpeech": "adjective",
+      "frequency": 1107,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "komparativ": "zufriedener",
+        "superlativ": "am zufriedensten"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich bin mit meiner Arbeit zufrieden.",
+          "en": "I'm satisfied with my job."
+        },
+        {
+          "de": "Der Chef war zufrieden mit dem Ergebnis.",
+          "en": "The boss was satisfied with the result."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Bist du mit der Wohnung ___?",
+          "answer": "zufrieden",
+          "en": "Are you satisfied with the flat?"
+        }
+      ],
+      "notes": "Always with 'mit' + dative: zufrieden mit dem Preis.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🙂",
+      "imageable": false,
+      "tags": [
+        "feelings",
+        "work"
+      ],
+      "synonyms": [
+        "glücklich"
+      ],
+      "antonyms": [
+        "unzufrieden",
+        "enttäuscht"
+      ],
+      "related": [
+        "enttaeuscht",
+        "stolz"
+      ]
+    },
+    {
+      "id": "stolz",
+      "word": "stolz",
+      "lemma": "stolz",
+      "translation": "proud",
+      "translations": [
+        "proud"
+      ],
+      "level": "A2",
+      "category": "Descriptive Adjectives",
+      "partOfSpeech": "adjective",
+      "frequency": 1464,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "komparativ": "stolzer",
+        "superlativ": "am stolzesten"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich bin stolz auf dich.",
+          "en": "I'm proud of you."
+        },
+        {
+          "de": "Sie ist stolz auf ihre Kinder.",
+          "en": "She is proud of her children."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Er ist ___ auf sein neues Auto.",
+          "answer": "stolz",
+          "en": "He is proud of his new car."
+        }
+      ],
+      "notes": "'stolz auf' + accusative.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🦚",
+      "imageable": false,
+      "tags": [
+        "feelings",
+        "people"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "beschämt"
+      ],
+      "related": [
+        "zufrieden",
+        "aufgeregt"
+      ]
+    },
+    {
+      "id": "aufgeregt",
+      "word": "aufgeregt",
+      "lemma": "aufgeregt",
+      "translation": "excited",
+      "translations": [
+        "excited",
+        "worked up",
+        "nervous"
+      ],
+      "level": "A2",
+      "category": "Descriptive Adjectives",
+      "partOfSpeech": "adjective",
+      "frequency": 1764,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "komparativ": "aufgeregter",
+        "superlativ": "am aufgeregtesten"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich bin schon ganz aufgeregt.",
+          "en": "I'm already quite excited."
+        },
+        {
+          "de": "Vor dem Flug war sie sehr aufgeregt.",
+          "en": "Before the flight she was very excited."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Die Kinder sind vor Weihnachten total ___.",
+          "answer": "aufgeregt",
+          "en": "The children are totally excited before Christmas."
+        }
+      ],
+      "notes": "Covers both happy excitement and jittery nerves.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🤩",
+      "imageable": false,
+      "tags": [
+        "feelings"
+      ],
+      "synonyms": [
+        "nervös"
+      ],
+      "antonyms": [
+        "ruhig",
+        "gelassen"
+      ],
+      "related": [
+        "nervoes",
+        "ueberrascht"
+      ]
+    },
+    {
+      "id": "enttaeuscht",
+      "word": "enttäuscht",
+      "lemma": "enttäuscht",
+      "translation": "disappointed",
+      "translations": [
+        "disappointed"
+      ],
+      "level": "A2",
+      "category": "Descriptive Adjectives",
+      "partOfSpeech": "adjective",
+      "frequency": 1807,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "komparativ": "enttäuschter",
+        "superlativ": "am enttäuschtesten"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich bin von dem Film enttäuscht.",
+          "en": "I'm disappointed by the film."
+        },
+        {
+          "de": "Er war enttäuscht über die Absage.",
+          "en": "He was disappointed about the rejection."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Sie sah gestern sehr ___ aus.",
+          "answer": "enttäuscht",
+          "en": "She looked very disappointed yesterday."
+        }
+      ],
+      "notes": "'enttäuscht von' + dative (a person or thing), 'enttäuscht über' + accusative (an event).",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "😞",
+      "imageable": false,
+      "tags": [
+        "feelings"
+      ],
+      "synonyms": [
+        "frustriert"
+      ],
+      "antonyms": [
+        "zufrieden",
+        "begeistert"
+      ],
+      "related": [
+        "zufrieden",
+        "genervt"
+      ]
+    },
+    {
+      "id": "ueberrascht",
+      "word": "überrascht",
+      "lemma": "überrascht",
+      "translation": "surprised",
+      "translations": [
+        "surprised",
+        "taken aback"
+      ],
+      "level": "A2",
+      "category": "Descriptive Adjectives",
+      "partOfSpeech": "adjective",
+      "frequency": 1714,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "komparativ": "überraschter",
+        "superlativ": "am überraschtesten"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich war total überrascht.",
+          "en": "I was totally surprised."
+        },
+        {
+          "de": "Sie war überrascht, mich hier zu sehen.",
+          "en": "She was surprised to see me here."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Warum bist du so ___?",
+          "answer": "überrascht",
+          "en": "Why are you so surprised?"
+        }
+      ],
+      "notes": "Verb: 'überraschen'. Noun: 'die Überraschung'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "😲",
+      "imageable": false,
+      "tags": [
+        "feelings"
+      ],
+      "synonyms": [
+        "erstaunt"
+      ],
+      "antonyms": [],
+      "related": [
+        "aufgeregt",
+        "neugierig"
+      ]
+    },
+    {
+      "id": "eifersuechtig",
+      "word": "eifersüchtig",
+      "lemma": "eifersüchtig",
+      "translation": "jealous",
+      "translations": [
+        "jealous"
+      ],
+      "level": "A2",
+      "category": "Descriptive Adjectives",
+      "partOfSpeech": "adjective",
+      "frequency": 2400,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "komparativ": "eifersüchtiger",
+        "superlativ": "am eifersüchtigsten"
+      },
+      "example_sentences": [
+        {
+          "de": "Er ist manchmal eifersüchtig.",
+          "en": "He is sometimes jealous."
+        },
+        {
+          "de": "Sei nicht eifersüchtig auf deinen Bruder.",
+          "en": "Don't be jealous of your brother."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Hund ist ___ auf das Baby.",
+          "answer": "eifersüchtig",
+          "en": "The dog is jealous of the baby."
+        }
+      ],
+      "notes": "'eifersüchtig auf' + accusative. For envying someone's things use 'neidisch'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "💚",
+      "imageable": false,
+      "tags": [
+        "feelings",
+        "relationships"
+      ],
+      "synonyms": [
+        "neidisch"
+      ],
+      "antonyms": [],
+      "related": [
+        "verliebt",
+        "genervt"
+      ]
+    },
+    {
+      "id": "verliebt",
+      "word": "verliebt",
+      "lemma": "verliebt",
+      "translation": "in love",
+      "translations": [
+        "in love",
+        "smitten"
+      ],
+      "level": "A2",
+      "category": "Descriptive Adjectives",
+      "partOfSpeech": "adjective",
+      "frequency": 2014,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "komparativ": "verliebter",
+        "superlativ": "am verliebtesten"
+      },
+      "example_sentences": [
+        {
+          "de": "Sie ist in ihren Kollegen verliebt.",
+          "en": "She is in love with her colleague."
+        },
+        {
+          "de": "Die beiden sind frisch verliebt.",
+          "en": "The two of them are newly in love."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich glaube, er ist ___.",
+          "answer": "verliebt",
+          "en": "I think he is in love."
+        }
+      ],
+      "notes": "'verliebt in' + accusative: verliebt in ihn.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "😍",
+      "imageable": false,
+      "tags": [
+        "feelings",
+        "relationships"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "eifersuechtig",
+        "ledig",
+        "verheiratet"
+      ]
+    },
+    {
+      "id": "genervt",
+      "word": "genervt",
+      "lemma": "genervt",
+      "translation": "annoyed",
+      "translations": [
+        "annoyed",
+        "irritated",
+        "fed up"
+      ],
+      "level": "A2",
+      "category": "Descriptive Adjectives",
+      "partOfSpeech": "adjective",
+      "frequency": 2207,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "komparativ": "genervter",
+        "superlativ": "am genervtesten"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich bin von dem Lärm total genervt.",
+          "en": "I'm totally annoyed by the noise."
+        },
+        {
+          "de": "Sie klang am Telefon genervt.",
+          "en": "She sounded annoyed on the phone."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Nach zwei Stunden Warten war er ___.",
+          "answer": "genervt",
+          "en": "After two hours of waiting he was annoyed."
+        }
+      ],
+      "notes": "Everyday spoken German: 'Das nervt!' = 'That's annoying!'",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "😤",
+      "imageable": false,
+      "tags": [
+        "feelings",
+        "daily-life"
+      ],
+      "synonyms": [
+        "sauer",
+        "verärgert"
+      ],
+      "antonyms": [
+        "entspannt"
+      ],
+      "related": [
+        "sauer",
+        "enttaeuscht"
+      ]
+    },
+    {
+      "id": "ledig",
+      "word": "ledig",
+      "lemma": "ledig",
+      "translation": "single",
+      "translations": [
+        "single",
+        "unmarried"
+      ],
+      "level": "A1",
+      "category": "Descriptive Adjectives",
+      "partOfSpeech": "adjective",
+      "frequency": 1657,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich bin ledig.",
+          "en": "I'm single."
+        },
+        {
+          "de": "Im Formular steht 'ledig'.",
+          "en": "The form says 'single'."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Sind Sie verheiratet oder ___?",
+          "answer": "ledig",
+          "en": "Are you married or single?"
+        }
+      ],
+      "notes": "Official form word. In conversation people usually say 'Ich bin Single'.",
+      "mnemonic": null,
+      "germany_context": "'Familienstand' (marital status) is asked on nearly every German form — Anmeldung, tax, insurance. The four options are ledig, verheiratet, geschieden, verwitwet.",
+      "emoji": "📝",
+      "imageable": false,
+      "tags": [
+        "personal-data",
+        "bureaucracy",
+        "people"
+      ],
+      "synonyms": [
+        "unverheiratet"
+      ],
+      "antonyms": [
+        "verheiratet"
+      ],
+      "related": [
+        "verheiratet",
+        "geschieden"
+      ]
+    },
+    {
+      "id": "verheiratet",
+      "word": "verheiratet",
+      "lemma": "verheiratet",
+      "translation": "married",
+      "translations": [
+        "married"
+      ],
+      "level": "A1",
+      "category": "Descriptive Adjectives",
+      "partOfSpeech": "adjective",
+      "frequency": 1207,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Wir sind seit fünf Jahren verheiratet.",
+          "en": "We've been married for five years."
+        },
+        {
+          "de": "Ist deine Schwester verheiratet?",
+          "en": "Is your sister married?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Er ist mit einer Ärztin ___.",
+          "answer": "verheiratet",
+          "en": "He is married to a doctor."
+        }
+      ],
+      "notes": "'verheiratet mit' + dative.",
+      "mnemonic": null,
+      "germany_context": "Marriage changes your Steuerklasse: couples can pick III/V or IV/IV, which often means noticeably more net pay. Marriages are registered at the Standesamt, and only the civil ceremony is legally binding.",
+      "emoji": "💍",
+      "imageable": false,
+      "tags": [
+        "personal-data",
+        "bureaucracy",
+        "family"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "ledig",
+        "geschieden"
+      ],
+      "related": [
+        "ledig",
+        "geschieden",
+        "verliebt"
+      ]
+    },
+    {
+      "id": "geschieden",
+      "word": "geschieden",
+      "lemma": "geschieden",
+      "translation": "divorced",
+      "translations": [
+        "divorced"
+      ],
+      "level": "A2",
+      "category": "Descriptive Adjectives",
+      "partOfSpeech": "adjective",
+      "frequency": 2114,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Meine Eltern sind geschieden.",
+          "en": "My parents are divorced."
+        },
+        {
+          "de": "Sie ist seit zwei Jahren geschieden.",
+          "en": "She has been divorced for two years."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Er ist ___ und hat zwei Kinder.",
+          "answer": "geschieden",
+          "en": "He is divorced and has two children."
+        }
+      ],
+      "notes": "Past participle of 'scheiden'. The noun is 'die Scheidung' (divorce).",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "📄",
+      "imageable": false,
+      "tags": [
+        "personal-data",
+        "bureaucracy",
+        "family"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "verheiratet"
+      ],
+      "related": [
+        "verheiratet",
+        "ledig"
+      ]
+    },
+    {
+      "id": "schwanger",
+      "word": "schwanger",
+      "lemma": "schwanger",
+      "translation": "pregnant",
+      "translations": [
+        "pregnant"
+      ],
+      "level": "A2",
+      "category": "Descriptive Adjectives",
+      "partOfSpeech": "adjective",
+      "frequency": 1907,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Meine Frau ist schwanger.",
+          "en": "My wife is pregnant."
+        },
+        {
+          "de": "Sie ist im vierten Monat schwanger.",
+          "en": "She is four months pregnant."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Herzlichen Glückwunsch, du bist ___!",
+          "answer": "schwanger",
+          "en": "Congratulations, you're pregnant!"
+        }
+      ],
+      "notes": "Only used for the woman: 'Wir bekommen ein Kind' is how a couple says it.",
+      "mnemonic": null,
+      "germany_context": "Pregnant employees are protected by Mutterschutz (6 weeks before and 8 weeks after the birth) and parents can claim Elterngeld and Elternzeit. Tell your employer early — the protection only starts once they know.",
+      "emoji": "🤰",
+      "imageable": false,
+      "tags": [
+        "family",
+        "health",
+        "bureaucracy"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "verheiratet"
+      ]
+    },
+    {
+      "id": "behindert",
+      "word": "behindert",
+      "lemma": "behindert",
+      "translation": "disabled",
+      "translations": [
+        "disabled",
+        "with a disability"
+      ],
+      "level": "A2",
+      "category": "Descriptive Adjectives",
+      "partOfSpeech": "adjective",
+      "frequency": 2300,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Parkplatz ist für behinderte Menschen.",
+          "en": "The parking space is for disabled people."
+        },
+        {
+          "de": "Ist das Gebäude für behinderte Personen zugänglich?",
+          "en": "Is the building accessible for disabled people?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Dieser Sitzplatz ist für ___ Fahrgäste.",
+          "answer": "behinderte",
+          "en": "This seat is for disabled passengers."
+        }
+      ],
+      "notes": "Careful: as an insult 'behindert' is offensive slang. The respectful terms are 'Menschen mit Behinderung' or 'beeinträchtigt'.",
+      "mnemonic": null,
+      "germany_context": "With a Schwerbehindertenausweis (official disability card) you get reduced or free public transport, tax relief, extra holiday days and stronger protection against dismissal.",
+      "emoji": "♿",
+      "imageable": false,
+      "tags": [
+        "people",
+        "health",
+        "bureaucracy"
+      ],
+      "synonyms": [
+        "beeinträchtigt"
+      ],
+      "antonyms": [],
+      "related": [
+        "gefaehrlich"
+      ]
+    },
+    {
+      "id": "blond",
+      "word": "blond",
+      "lemma": "blond",
+      "translation": "blond",
+      "translations": [
+        "blond",
+        "fair-haired"
+      ],
+      "level": "A2",
+      "category": "Descriptive Adjectives",
+      "partOfSpeech": "adjective",
+      "frequency": 2214,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "komparativ": "blonder",
+        "superlativ": "am blondesten"
+      },
+      "example_sentences": [
+        {
+          "de": "Meine Tochter ist blond.",
+          "en": "My daughter is blond."
+        },
+        {
+          "de": "Die Frau mit den blonden Haaren ist meine Chefin.",
+          "en": "The woman with the blond hair is my boss."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Er hat kurze ___ Haare.",
+          "answer": "blonde",
+          "en": "He has short blond hair."
+        }
+      ],
+      "notes": "Hair colours: blond, braun, schwarz, rot, grau.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "👱",
+      "imageable": false,
+      "tags": [
+        "appearance",
+        "people"
+      ],
+      "synonyms": [
+        "hellhaarig"
+      ],
+      "antonyms": [
+        "dunkelhaarig"
+      ],
+      "related": [
+        "dunkelhaarig",
+        "schlank"
+      ]
+    },
+    {
+      "id": "dunkelhaarig",
+      "word": "dunkelhaarig",
+      "lemma": "dunkelhaarig",
+      "translation": "dark-haired",
+      "translations": [
+        "dark-haired"
+      ],
+      "level": "A2",
+      "category": "Descriptive Adjectives",
+      "partOfSpeech": "adjective",
+      "frequency": 2600,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Mein Bruder ist dunkelhaarig.",
+          "en": "My brother is dark-haired."
+        },
+        {
+          "de": "Der dunkelhaarige Junge ist mein Sohn.",
+          "en": "The dark-haired boy is my son."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Beide Kinder sind ___.",
+          "answer": "dunkelhaarig",
+          "en": "Both children are dark-haired."
+        }
+      ],
+      "notes": "Built like a compound: dunkel + Haar + -ig. Same pattern: rothaarig, langhaarig.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🧑",
+      "imageable": false,
+      "tags": [
+        "appearance",
+        "people"
+      ],
+      "synonyms": [
+        "brünett"
+      ],
+      "antonyms": [
+        "blond"
+      ],
+      "related": [
+        "blond",
+        "schlank"
+      ]
+    },
+    {
+      "id": "schlank",
+      "word": "schlank",
+      "lemma": "schlank",
+      "translation": "slim",
+      "translations": [
+        "slim",
+        "slender"
+      ],
+      "level": "A2",
+      "category": "Descriptive Adjectives",
+      "partOfSpeech": "adjective",
+      "frequency": 2057,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "komparativ": "schlanker",
+        "superlativ": "am schlanksten"
+      },
+      "example_sentences": [
+        {
+          "de": "Er ist groß und schlank.",
+          "en": "He is tall and slim."
+        },
+        {
+          "de": "Sie ist in letzter Zeit sehr schlank geworden.",
+          "en": "She has become very slim recently."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Meine Schwester ist ___ und sportlich.",
+          "answer": "schlank",
+          "en": "My sister is slim and athletic."
+        }
+      ],
+      "notes": "'schlank' is the polite word; 'dünn' can sound like a criticism.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🧍",
+      "imageable": false,
+      "tags": [
+        "appearance",
+        "people",
+        "body"
+      ],
+      "synonyms": [
+        "dünn"
+      ],
+      "antonyms": [
+        "dick"
+      ],
+      "related": [
+        "sportlich",
+        "blond"
+      ]
+    },
+    {
+      "id": "sportlich",
+      "word": "sportlich",
+      "lemma": "sportlich",
+      "translation": "athletic",
+      "translations": [
+        "athletic",
+        "sporty"
+      ],
+      "level": "A2",
+      "category": "Descriptive Adjectives",
+      "partOfSpeech": "adjective",
+      "frequency": 1614,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "komparativ": "sportlicher",
+        "superlativ": "am sportlichsten"
+      },
+      "example_sentences": [
+        {
+          "de": "Mein Nachbar ist sehr sportlich.",
+          "en": "My neighbour is very athletic."
+        },
+        {
+          "de": "Sie trägt gern sportliche Kleidung.",
+          "en": "She likes wearing sporty clothes."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Für diesen Job muss man ___ sein.",
+          "answer": "sportlich",
+          "en": "For this job you have to be athletic."
+        }
+      ],
+      "notes": "From 'der Sport'. Also used for clothes and cars.",
+      "mnemonic": null,
+      "germany_context": "Sport in Germany mostly happens in a 'Verein' (club). A yearly membership is often cheaper than a gym and is one of the easiest ways to meet Germans.",
+      "emoji": "🏃",
+      "imageable": false,
+      "tags": [
+        "appearance",
+        "people",
+        "sport"
+      ],
+      "synonyms": [
+        "fit"
+      ],
+      "antonyms": [
+        "unsportlich"
+      ],
+      "related": [
+        "schlank",
+        "anstrengend"
+      ]
+    },
+    {
+      "id": "huebsch",
+      "word": "hübsch",
+      "lemma": "hübsch",
+      "translation": "pretty",
+      "translations": [
+        "pretty",
+        "good-looking",
+        "nice"
+      ],
+      "level": "A2",
+      "category": "Descriptive Adjectives",
+      "partOfSpeech": "adjective",
+      "frequency": 1514,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "komparativ": "hübscher",
+        "superlativ": "am hübschesten"
+      },
+      "example_sentences": [
+        {
+          "de": "Du siehst heute hübsch aus.",
+          "en": "You look pretty today."
+        },
+        {
+          "de": "Das ist ein hübsches Kleid.",
+          "en": "That's a pretty dress."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Sie wohnt in einem ___ kleinen Dorf.",
+          "answer": "hübschen",
+          "en": "She lives in a pretty little village."
+        }
+      ],
+      "notes": "'hübsch' is lighter than 'schön' and works for people, clothes and places.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🌸",
+      "imageable": false,
+      "tags": [
+        "appearance",
+        "people",
+        "quality"
+      ],
+      "synonyms": [
+        "schön",
+        "nett"
+      ],
+      "antonyms": [
+        "hässlich"
+      ],
+      "related": [
+        "schlank",
+        "nett"
+      ]
+    }
+  ]
+}
