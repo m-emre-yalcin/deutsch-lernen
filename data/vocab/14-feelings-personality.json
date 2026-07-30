@@ -1,0 +1,4685 @@
+{
+  "category": "Feelings & Personality",
+  "words": [
+    {
+      "id": "gefuehl",
+      "word": "das Gefühl",
+      "lemma": "Gefühl",
+      "translation": "feeling",
+      "translations": [
+        "feeling",
+        "emotion",
+        "sense"
+      ],
+      "level": "A1",
+      "category": "Feelings & Personality",
+      "partOfSpeech": "noun",
+      "frequency": 620,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Gefühle",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "des Gefühls"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich habe ein gutes Gefühl bei der neuen Arbeit.",
+          "en": "I have a good feeling about the new job."
+        },
+        {
+          "de": "Er zeigt seine Gefühle nicht gern.",
+          "en": "He doesn't like showing his feelings."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Kannst du dieses ___ beschreiben?",
+          "answer": "Gefühl",
+          "en": "Can you describe this feeling?"
+        }
+      ],
+      "notes": "Ein gutes/schlechtes Gefühl haben = to have a good/bad feeling about something.",
+      "mnemonic": "fühlen → das Gefühl; Ge- nouns are usually neuter (das Gespräch, das Geschenk).",
+      "germany_context": null,
+      "emoji": "💭",
+      "imageable": false,
+      "tags": [
+        "emotion",
+        "abstract",
+        "core"
+      ],
+      "synonyms": [
+        "die Empfindung"
+      ],
+      "antonyms": [],
+      "related": [
+        "stimmung"
+      ]
+    },
+    {
+      "id": "freude",
+      "word": "die Freude",
+      "lemma": "Freude",
+      "translation": "joy",
+      "translations": [
+        "joy",
+        "pleasure",
+        "delight"
+      ],
+      "level": "A1",
+      "category": "Feelings & Personality",
+      "partOfSpeech": "noun",
+      "frequency": 780,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Freuden",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "der Freude"
+      },
+      "example_sentences": [
+        {
+          "de": "Das Geschenk hat ihr große Freude gemacht.",
+          "en": "The present gave her great joy."
+        },
+        {
+          "de": "Zu meiner Freude war der Zug pünktlich.",
+          "en": "To my delight the train was on time."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich sehe die ___ in deinen Augen.",
+          "answer": "Freude",
+          "en": "I see the joy in your eyes."
+        }
+      ],
+      "notes": "jemandem Freude machen = to make someone happy. Usually singular.",
+      "mnemonic": "Freude ~ 'Freude, schöner Götterfunken' – the Ode to Joy.",
+      "germany_context": null,
+      "emoji": "😊",
+      "imageable": false,
+      "tags": [
+        "emotion",
+        "positive"
+      ],
+      "synonyms": [
+        "das Glück"
+      ],
+      "antonyms": [
+        "die Trauer"
+      ],
+      "related": [
+        "freuen",
+        "glueck"
+      ]
+    },
+    {
+      "id": "glueck",
+      "word": "das Glück",
+      "lemma": "Glück",
+      "translation": "luck",
+      "translations": [
+        "luck",
+        "happiness",
+        "fortune"
+      ],
+      "level": "A1",
+      "category": "Feelings & Personality",
+      "partOfSpeech": "noun",
+      "frequency": 540,
+      "gender": "n",
+      "article": "das",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "des Glücks"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich hatte Glück und habe die Wohnung bekommen.",
+          "en": "I was lucky and got the apartment."
+        },
+        {
+          "de": "Viel Glück bei der Prüfung!",
+          "en": "Good luck with the exam!"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Zum ___ hat der Laden noch offen.",
+          "answer": "Glück",
+          "en": "Luckily the shop is still open."
+        }
+      ],
+      "notes": "Means both 'luck' and 'happiness'. 'Zum Glück' = luckily; 'Viel Glück!' = good luck!",
+      "mnemonic": "Glück = luck AND happiness – one word for both.",
+      "germany_context": null,
+      "emoji": "🍀",
+      "imageable": false,
+      "tags": [
+        "emotion",
+        "positive",
+        "essential"
+      ],
+      "synonyms": [
+        "die Freude"
+      ],
+      "antonyms": [
+        "das Pech"
+      ],
+      "related": [
+        "freude"
+      ]
+    },
+    {
+      "id": "liebe",
+      "word": "die Liebe",
+      "lemma": "Liebe",
+      "translation": "love",
+      "translations": [
+        "love"
+      ],
+      "level": "A1",
+      "category": "Feelings & Personality",
+      "partOfSpeech": "noun",
+      "frequency": 590,
+      "gender": "f",
+      "article": "die",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "der Liebe"
+      },
+      "example_sentences": [
+        {
+          "de": "Die Liebe zu seiner Familie ist groß.",
+          "en": "His love for his family is great."
+        },
+        {
+          "de": "Das war Liebe auf den ersten Blick.",
+          "en": "That was love at first sight."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Sie kocht mit viel ___.",
+          "answer": "Liebe",
+          "en": "She cooks with a lot of love."
+        }
+      ],
+      "notes": "No plural in everyday use. 'Liebe Grüße' (LG) is the standard warm sign-off in messages.",
+      "mnemonic": "lieben → die Liebe.",
+      "germany_context": null,
+      "emoji": "❤️",
+      "imageable": false,
+      "tags": [
+        "emotion",
+        "positive"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "der Hass"
+      ],
+      "related": [
+        "lieben",
+        "verlieben"
+      ]
+    },
+    {
+      "id": "angst",
+      "word": "die Angst",
+      "lemma": "Angst",
+      "translation": "fear",
+      "translations": [
+        "fear",
+        "anxiety"
+      ],
+      "level": "A1",
+      "category": "Feelings & Personality",
+      "partOfSpeech": "noun",
+      "frequency": 470,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Ängste",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "der Angst"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich habe Angst vor Spinnen.",
+          "en": "I'm afraid of spiders."
+        },
+        {
+          "de": "Hab keine Angst, das ist ganz einfach.",
+          "en": "Don't be afraid, it's very easy."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Meine kleine Schwester hat ___ vor dem Zahnarzt.",
+          "answer": "Angst",
+          "en": "My little sister is afraid of the dentist."
+        }
+      ],
+      "notes": "You HAVE fear in German: 'Ich habe Angst', never 'Ich bin Angst'. Angst vor + dative.",
+      "mnemonic": "Angst ~ English 'angst' – same word, same feeling.",
+      "germany_context": null,
+      "emoji": "😨",
+      "imageable": false,
+      "tags": [
+        "emotion",
+        "negative",
+        "essential"
+      ],
+      "synonyms": [
+        "die Furcht"
+      ],
+      "antonyms": [
+        "der Mut"
+      ],
+      "related": [
+        "mut",
+        "sorge"
+      ]
+    },
+    {
+      "id": "sorge",
+      "word": "die Sorge",
+      "lemma": "Sorge",
+      "translation": "worry",
+      "translations": [
+        "worry",
+        "concern"
+      ],
+      "level": "A2",
+      "category": "Feelings & Personality",
+      "partOfSpeech": "noun",
+      "frequency": 900,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Sorgen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "der Sorge"
+      },
+      "example_sentences": [
+        {
+          "de": "Mach dir keine Sorgen, alles wird gut.",
+          "en": "Don't worry, everything will be fine."
+        },
+        {
+          "de": "Seine größte Sorge ist das Geld.",
+          "en": "His biggest worry is money."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Die ___ um meinen Job hält mich nachts wach.",
+          "answer": "Sorge",
+          "en": "The worry about my job keeps me awake at night."
+        }
+      ],
+      "notes": "'Sich Sorgen machen um + Akkusativ' is the everyday phrase – almost always plural there.",
+      "mnemonic": "Sorge ~ 'sorrow' – close cousins.",
+      "germany_context": null,
+      "emoji": "😟",
+      "imageable": false,
+      "tags": [
+        "emotion",
+        "negative"
+      ],
+      "synonyms": [
+        "die Angst"
+      ],
+      "antonyms": [
+        "die Ruhe"
+      ],
+      "related": [
+        "sorgen",
+        "besorgt"
+      ]
+    },
+    {
+      "id": "stress",
+      "word": "der Stress",
+      "lemma": "Stress",
+      "translation": "stress",
+      "translations": [
+        "stress",
+        "hassle"
+      ],
+      "level": "A1",
+      "category": "Feelings & Personality",
+      "partOfSpeech": "noun",
+      "frequency": 660,
+      "gender": "m",
+      "article": "der",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "des Stresses"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich habe im Moment viel Stress im Büro.",
+          "en": "I have a lot of stress at the office at the moment."
+        },
+        {
+          "de": "Kein Stress, wir haben genug Zeit.",
+          "en": "No stress, we have enough time."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der ___ vor dem Umzug war groß.",
+          "answer": "Stress",
+          "en": "The stress before the move was big."
+        }
+      ],
+      "notes": "'Stress mit jemandem haben' also means to have trouble/conflict with someone.",
+      "mnemonic": "English loanword, but German gave it a gender: der Stress.",
+      "germany_context": "If stress genuinely makes you ill, German employers need a doctor's Krankschreibung (AU). By law it is required from the 4th sick day, but many contracts demand it from day 1 – check yours.",
+      "emoji": "😖",
+      "imageable": false,
+      "tags": [
+        "emotion",
+        "work",
+        "negative"
+      ],
+      "synonyms": [
+        "die Hektik"
+      ],
+      "antonyms": [
+        "die Ruhe"
+      ],
+      "related": [
+        "gestresst",
+        "entspannen"
+      ]
+    },
+    {
+      "id": "wut",
+      "word": "die Wut",
+      "lemma": "Wut",
+      "translation": "rage",
+      "translations": [
+        "rage",
+        "fury",
+        "anger"
+      ],
+      "level": "A2",
+      "category": "Feelings & Personality",
+      "partOfSpeech": "noun",
+      "frequency": 1250,
+      "gender": "f",
+      "article": "die",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "der Wut"
+      },
+      "example_sentences": [
+        {
+          "de": "Seine Wut war nach zehn Minuten wieder weg.",
+          "en": "His rage was gone again after ten minutes."
+        },
+        {
+          "de": "Sie hat vor Wut geschrien.",
+          "en": "She screamed with rage."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich verstehe deine ___, aber bleib bitte ruhig.",
+          "answer": "Wut",
+          "en": "I understand your anger, but please stay calm."
+        }
+      ],
+      "notes": "Wut is stronger than Ärger. 'Wut haben auf jemanden' = to be furious at someone.",
+      "mnemonic": "Wut is short and hard – like a shout.",
+      "germany_context": null,
+      "emoji": "😡",
+      "imageable": false,
+      "tags": [
+        "emotion",
+        "negative"
+      ],
+      "synonyms": [
+        "der Zorn"
+      ],
+      "antonyms": [
+        "die Ruhe"
+      ],
+      "related": [
+        "wuetend",
+        "aerger"
+      ]
+    },
+    {
+      "id": "aerger",
+      "word": "der Ärger",
+      "lemma": "Ärger",
+      "translation": "annoyance",
+      "translations": [
+        "annoyance",
+        "trouble",
+        "hassle"
+      ],
+      "level": "A2",
+      "category": "Feelings & Personality",
+      "partOfSpeech": "noun",
+      "frequency": 1150,
+      "gender": "m",
+      "article": "der",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "des Ärgers"
+      },
+      "example_sentences": [
+        {
+          "de": "Mit dem Vermieter gab es viel Ärger.",
+          "en": "There was a lot of trouble with the landlord."
+        },
+        {
+          "de": "Ich will keinen Ärger mit den Nachbarn.",
+          "en": "I don't want any trouble with the neighbours."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Sein ___ über die Verspätung war groß.",
+          "answer": "Ärger",
+          "en": "His annoyance about the delay was great."
+        }
+      ],
+      "notes": "Two meanings: the feeling (annoyance) and the situation (trouble). Very common as 'Ärger haben mit'.",
+      "mnemonic": "Ärger ~ 'arghhh!'",
+      "germany_context": null,
+      "emoji": "😤",
+      "imageable": false,
+      "tags": [
+        "emotion",
+        "negative"
+      ],
+      "synonyms": [
+        "der Streit"
+      ],
+      "antonyms": [],
+      "related": [
+        "aergern"
+      ]
+    },
+    {
+      "id": "trauer",
+      "word": "die Trauer",
+      "lemma": "Trauer",
+      "translation": "grief",
+      "translations": [
+        "grief",
+        "mourning",
+        "sorrow"
+      ],
+      "level": "A2",
+      "category": "Feelings & Personality",
+      "partOfSpeech": "noun",
+      "frequency": 1700,
+      "gender": "f",
+      "article": "die",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "der Trauer"
+      },
+      "example_sentences": [
+        {
+          "de": "Nach dem Tod ihres Hundes war ihre Trauer groß.",
+          "en": "After her dog died, her grief was great."
+        },
+        {
+          "de": "Er spricht nicht über seine Trauer.",
+          "en": "He doesn't talk about his grief."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "In der ___ helfen gute Freunde sehr.",
+          "answer": "Trauer",
+          "en": "In grief, good friends help a lot."
+        }
+      ],
+      "notes": "Deeper and more formal than 'traurig sein'. Used for loss and mourning.",
+      "mnemonic": "Trauer contains 'trauri(g)' – sad.",
+      "germany_context": null,
+      "emoji": "🖤",
+      "imageable": false,
+      "tags": [
+        "emotion",
+        "negative"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "die Freude"
+      ],
+      "related": []
+    },
+    {
+      "id": "langeweile",
+      "word": "die Langeweile",
+      "lemma": "Langeweile",
+      "translation": "boredom",
+      "translations": [
+        "boredom"
+      ],
+      "level": "A2",
+      "category": "Feelings & Personality",
+      "partOfSpeech": "noun",
+      "frequency": 1600,
+      "gender": "f",
+      "article": "die",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "der Langeweile"
+      },
+      "example_sentences": [
+        {
+          "de": "Aus Langeweile habe ich die Küche geputzt.",
+          "en": "Out of boredom I cleaned the kitchen."
+        },
+        {
+          "de": "Bei diesem Film kommt Langeweile auf.",
+          "en": "This film gets boring."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Am Sonntag ist die ___ manchmal groß.",
+          "answer": "Langeweile",
+          "en": "On Sunday the boredom is sometimes big."
+        }
+      ],
+      "notes": "Literally 'long while'. The everyday way to say it is 'Mir ist langweilig'.",
+      "mnemonic": "lange + Weile = a long while → boredom.",
+      "germany_context": null,
+      "emoji": "🥱",
+      "imageable": false,
+      "tags": [
+        "emotion",
+        "negative"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "der Spass"
+      ],
+      "related": [
+        "langweilen",
+        "mir-ist-langweilig"
+      ]
+    },
+    {
+      "id": "ueberraschung",
+      "word": "die Überraschung",
+      "lemma": "Überraschung",
+      "translation": "surprise",
+      "translations": [
+        "surprise"
+      ],
+      "level": "A2",
+      "category": "Feelings & Personality",
+      "partOfSpeech": "noun",
+      "frequency": 1400,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Überraschungen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "der Überraschung"
+      },
+      "example_sentences": [
+        {
+          "de": "Dein Besuch war eine schöne Überraschung.",
+          "en": "Your visit was a nice surprise."
+        },
+        {
+          "de": "Wir planen eine Überraschung für ihren Geburtstag.",
+          "en": "We are planning a surprise for her birthday."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Was für eine ___, dich hier zu sehen!",
+          "answer": "Überraschung",
+          "en": "What a surprise to see you here!"
+        }
+      ],
+      "notes": "All nouns ending in -ung are feminine.",
+      "mnemonic": "-ung → always die.",
+      "germany_context": null,
+      "emoji": "🎁",
+      "imageable": false,
+      "tags": [
+        "emotion",
+        "positive"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "schockiert",
+        "gespannt"
+      ]
+    },
+    {
+      "id": "hoffnung",
+      "word": "die Hoffnung",
+      "lemma": "Hoffnung",
+      "translation": "hope",
+      "translations": [
+        "hope"
+      ],
+      "level": "A2",
+      "category": "Feelings & Personality",
+      "partOfSpeech": "noun",
+      "frequency": 1100,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Hoffnungen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "der Hoffnung"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich habe die Hoffnung noch nicht verloren.",
+          "en": "I haven't lost hope yet."
+        },
+        {
+          "de": "Es gibt Hoffnung auf einen Termin nächste Woche.",
+          "en": "There is hope for an appointment next week."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Seine ___ auf eine bezahlbare Wohnung ist groß.",
+          "answer": "Hoffnung",
+          "en": "His hope for an affordable apartment is great."
+        }
+      ],
+      "notes": "Hoffnung auf + Akkusativ.",
+      "mnemonic": "hoffen → die Hoffnung (-ung = die).",
+      "germany_context": null,
+      "emoji": "🌅",
+      "imageable": false,
+      "tags": [
+        "emotion",
+        "positive"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "hoffen"
+      ]
+    },
+    {
+      "id": "vertrauen",
+      "word": "das Vertrauen",
+      "lemma": "Vertrauen",
+      "translation": "trust",
+      "translations": [
+        "trust",
+        "confidence"
+      ],
+      "level": "A2",
+      "category": "Feelings & Personality",
+      "partOfSpeech": "noun",
+      "frequency": 1350,
+      "gender": "n",
+      "article": "das",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "des Vertrauens"
+      },
+      "example_sentences": [
+        {
+          "de": "Vertrauen ist wichtig in einer Freundschaft.",
+          "en": "Trust is important in a friendship."
+        },
+        {
+          "de": "Ich habe volles Vertrauen in dich.",
+          "en": "I have full confidence in you."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ohne ___ funktioniert kein Team.",
+          "answer": "Vertrauen",
+          "en": "No team works without trust."
+        }
+      ],
+      "notes": "Nominalised verb (vertrauen) – all such nouns are neuter: das Essen, das Leben, das Vertrauen.",
+      "mnemonic": "Verb turned noun → always das.",
+      "germany_context": null,
+      "emoji": "🤝",
+      "imageable": false,
+      "tags": [
+        "character",
+        "abstract"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "die Angst"
+      ],
+      "related": [
+        "ehrlichkeit",
+        "charakter"
+      ]
+    },
+    {
+      "id": "mut",
+      "word": "der Mut",
+      "lemma": "Mut",
+      "translation": "courage",
+      "translations": [
+        "courage",
+        "bravery"
+      ],
+      "level": "A2",
+      "category": "Feelings & Personality",
+      "partOfSpeech": "noun",
+      "frequency": 1500,
+      "gender": "m",
+      "article": "der",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "des Mutes"
+      },
+      "example_sentences": [
+        {
+          "de": "Du brauchst Mut für den ersten Tag im neuen Job.",
+          "en": "You need courage for the first day at a new job."
+        },
+        {
+          "de": "Sie hatte den Mut, auf Deutsch zu sprechen.",
+          "en": "She had the courage to speak German."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Mir fehlt der ___, ihn anzurufen.",
+          "answer": "Mut",
+          "en": "I don't have the courage to call him."
+        }
+      ],
+      "notes": "'Gute Laune' relatives: Mut appears in Übermut, Wehmut, Demut.",
+      "mnemonic": "Mut ~ 'mood' historically, but today it means courage.",
+      "germany_context": null,
+      "emoji": "🦁",
+      "imageable": false,
+      "tags": [
+        "character",
+        "positive"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "die Angst"
+      ],
+      "related": [
+        "angst",
+        "charakter"
+      ]
+    },
+    {
+      "id": "scham",
+      "word": "die Scham",
+      "lemma": "Scham",
+      "translation": "shame",
+      "translations": [
+        "shame",
+        "embarrassment"
+      ],
+      "level": "A2",
+      "category": "Feelings & Personality",
+      "partOfSpeech": "noun",
+      "frequency": 2300,
+      "gender": "f",
+      "article": "die",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "der Scham"
+      },
+      "example_sentences": [
+        {
+          "de": "Aus Scham hat er nichts gesagt.",
+          "en": "Out of shame he said nothing."
+        },
+        {
+          "de": "Ihre Scham war ihr im Gesicht zu sehen.",
+          "en": "Her shame was visible on her face."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Er wurde vor ___ ganz rot.",
+          "answer": "Scham",
+          "en": "He turned completely red with shame."
+        }
+      ],
+      "notes": "The verb sich schämen is much more common in speech than the noun.",
+      "mnemonic": "Scham ~ 'shame' – almost the same word.",
+      "germany_context": null,
+      "emoji": "😳",
+      "imageable": false,
+      "tags": [
+        "emotion",
+        "negative"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "der Stolz"
+      ],
+      "related": [
+        "schaemen",
+        "verlegen"
+      ]
+    },
+    {
+      "id": "eifersucht",
+      "word": "die Eifersucht",
+      "lemma": "Eifersucht",
+      "translation": "jealousy",
+      "translations": [
+        "jealousy"
+      ],
+      "level": "A2",
+      "category": "Feelings & Personality",
+      "partOfSpeech": "noun",
+      "frequency": 2400,
+      "gender": "f",
+      "article": "die",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "der Eifersucht"
+      },
+      "example_sentences": [
+        {
+          "de": "Eifersucht ist kein gutes Gefühl.",
+          "en": "Jealousy is not a good feeling."
+        },
+        {
+          "de": "Seine Eifersucht macht die Beziehung schwer.",
+          "en": "His jealousy makes the relationship difficult."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Aus ___ hat sie nichts gesagt.",
+          "answer": "Eifersucht",
+          "en": "Out of jealousy she said nothing."
+        }
+      ],
+      "notes": "Use for jealousy in relationships. For envy about things, Germans say 'der Neid'.",
+      "mnemonic": "die Sucht (addiction) is feminine → die Eifersucht.",
+      "germany_context": null,
+      "emoji": "😒",
+      "imageable": false,
+      "tags": [
+        "emotion",
+        "negative"
+      ],
+      "synonyms": [
+        "der Neid"
+      ],
+      "antonyms": [
+        "das Vertrauen"
+      ],
+      "related": [
+        "liebe"
+      ]
+    },
+    {
+      "id": "heimweh",
+      "word": "das Heimweh",
+      "lemma": "Heimweh",
+      "translation": "homesickness",
+      "translations": [
+        "homesickness"
+      ],
+      "level": "A2",
+      "category": "Feelings & Personality",
+      "partOfSpeech": "noun",
+      "frequency": 1900,
+      "gender": "n",
+      "article": "das",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "des Heimwehs"
+      },
+      "example_sentences": [
+        {
+          "de": "Am Anfang hatte ich starkes Heimweh nach der Türkei.",
+          "en": "At the beginning I was very homesick for Turkey."
+        },
+        {
+          "de": "Gegen Heimweh hilft ein Videoanruf nach Hause.",
+          "en": "A video call home helps against homesickness."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Im Winter habe ich oft ___.",
+          "answer": "Heimweh",
+          "en": "In winter I'm often homesick."
+        }
+      ],
+      "notes": "Heimweh nach + Dativ. You HAVE Heimweh: 'Ich habe Heimweh'.",
+      "mnemonic": "Heim (home) + Weh (ache) = home-ache.",
+      "germany_context": "Homesickness in the first months abroad is completely normal. Cheap Volkshochschule (VHS) language courses and the international 'Stammtisch' meetups that most German cities have are the standard way newcomers build a social circle.",
+      "emoji": "🏡",
+      "imageable": false,
+      "tags": [
+        "emotion",
+        "expat",
+        "negative"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "das Fernweh"
+      ],
+      "related": [
+        "fernweh",
+        "vermissen",
+        "einsamkeit"
+      ]
+    },
+    {
+      "id": "fernweh",
+      "word": "das Fernweh",
+      "lemma": "Fernweh",
+      "translation": "wanderlust",
+      "translations": [
+        "wanderlust",
+        "itchy feet"
+      ],
+      "level": "A2",
+      "category": "Feelings & Personality",
+      "partOfSpeech": "noun",
+      "frequency": 2600,
+      "gender": "n",
+      "article": "das",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "des Fernwehs"
+      },
+      "example_sentences": [
+        {
+          "de": "Im Februar bekomme ich immer Fernweh.",
+          "en": "In February I always get wanderlust."
+        },
+        {
+          "de": "Deine Fotos machen mir Fernweh.",
+          "en": "Your photos give me wanderlust."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Nach dem langen Winter hat er ___.",
+          "answer": "Fernweh",
+          "en": "After the long winter he has wanderlust."
+        }
+      ],
+      "notes": "The opposite of Heimweh: longing for far-away places. Germans use it constantly.",
+      "mnemonic": "fern (far) + Weh (ache) = aching for far away.",
+      "germany_context": null,
+      "emoji": "✈️",
+      "imageable": false,
+      "tags": [
+        "emotion",
+        "travel"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "das Heimweh"
+      ],
+      "related": [
+        "heimweh"
+      ]
+    },
+    {
+      "id": "einsamkeit",
+      "word": "die Einsamkeit",
+      "lemma": "Einsamkeit",
+      "translation": "loneliness",
+      "translations": [
+        "loneliness",
+        "solitude"
+      ],
+      "level": "A2",
+      "category": "Feelings & Personality",
+      "partOfSpeech": "noun",
+      "frequency": 2100,
+      "gender": "f",
+      "article": "die",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "der Einsamkeit"
+      },
+      "example_sentences": [
+        {
+          "de": "In einer neuen Stadt kennt jeder die Einsamkeit.",
+          "en": "In a new city everybody knows loneliness."
+        },
+        {
+          "de": "Gegen Einsamkeit hilft ein Verein oder ein Kurs.",
+          "en": "A club or a course helps against loneliness."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Die ___ war in den ersten Monaten schwer.",
+          "answer": "Einsamkeit",
+          "en": "The loneliness was hard in the first months."
+        }
+      ],
+      "notes": "Nouns ending in -keit and -heit are always feminine.",
+      "mnemonic": "ein (one/alone) + -samkeit → being alone.",
+      "germany_context": "Making friends as an adult in Germany usually runs through a 'Verein' (club) – sports, choir, garden, board games. Joining one costs a few euros a month and is the accepted way in.",
+      "emoji": "🪑",
+      "imageable": false,
+      "tags": [
+        "emotion",
+        "expat",
+        "negative"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "einsam",
+        "heimweh"
+      ]
+    },
+    {
+      "id": "laune",
+      "word": "die Laune",
+      "lemma": "Laune",
+      "translation": "mood",
+      "translations": [
+        "mood",
+        "temper"
+      ],
+      "level": "A2",
+      "category": "Feelings & Personality",
+      "partOfSpeech": "noun",
+      "frequency": 1050,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Launen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "der Laune"
+      },
+      "example_sentences": [
+        {
+          "de": "Heute hat der Chef gute Laune.",
+          "en": "The boss is in a good mood today."
+        },
+        {
+          "de": "Sie ist schlechter Laune, weil der Zug ausgefallen ist.",
+          "en": "She's in a bad mood because the train was cancelled."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der erste Kaffee macht mir immer gute ___.",
+          "answer": "Laune",
+          "en": "The first coffee always puts me in a good mood."
+        }
+      ],
+      "notes": "'Gute/schlechte Laune haben' = to be in a good/bad mood. This is a person's mood; Stimmung is more the atmosphere.",
+      "mnemonic": "Laune ~ 'lunar' – moods change like the moon.",
+      "germany_context": null,
+      "emoji": "🙂",
+      "imageable": false,
+      "tags": [
+        "emotion",
+        "everyday"
+      ],
+      "synonyms": [
+        "die Stimmung"
+      ],
+      "antonyms": [],
+      "related": [
+        "stimmung",
+        "gefuehl"
+      ]
+    },
+    {
+      "id": "stimmung",
+      "word": "die Stimmung",
+      "lemma": "Stimmung",
+      "translation": "mood",
+      "translations": [
+        "mood",
+        "atmosphere",
+        "vibe"
+      ],
+      "level": "A2",
+      "category": "Feelings & Personality",
+      "partOfSpeech": "noun",
+      "frequency": 1250,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Stimmungen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "der Stimmung"
+      },
+      "example_sentences": [
+        {
+          "de": "Auf der Party war die Stimmung super.",
+          "en": "The atmosphere at the party was great."
+        },
+        {
+          "de": "Im Büro ist die Stimmung heute schlecht.",
+          "en": "The mood in the office is bad today."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Die ___ beim Fußballspiel war fantastisch.",
+          "answer": "Stimmung",
+          "en": "The atmosphere at the football match was fantastic."
+        }
+      ],
+      "notes": "Stimmung is the mood of a group or place; Laune is the mood of one person.",
+      "mnemonic": "die Stimme (voice) → Stimmung, the 'tone' of a room.",
+      "germany_context": null,
+      "emoji": "🎉",
+      "imageable": false,
+      "tags": [
+        "emotion",
+        "social"
+      ],
+      "synonyms": [
+        "die Laune",
+        "die Atmosphäre"
+      ],
+      "antonyms": [],
+      "related": [
+        "laune",
+        "gefuehl"
+      ]
+    },
+    {
+      "id": "lust",
+      "word": "die Lust",
+      "lemma": "Lust",
+      "translation": "desire",
+      "translations": [
+        "desire",
+        "inclination",
+        "mood for"
+      ],
+      "level": "A1",
+      "category": "Feelings & Personality",
+      "partOfSpeech": "noun",
+      "frequency": 700,
+      "gender": "f",
+      "article": "die",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "der Lust"
+      },
+      "example_sentences": [
+        {
+          "de": "Hast du Lust auf einen Kaffee?",
+          "en": "Do you fancy a coffee?"
+        },
+        {
+          "de": "Ich habe keine Lust, heute zu kochen.",
+          "en": "I don't feel like cooking today."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wir haben ___ auf Kino heute Abend.",
+          "answer": "Lust",
+          "en": "We fancy going to the cinema tonight."
+        }
+      ],
+      "notes": "False friend: 'Lust haben auf' just means 'to feel like / to fancy'. It is completely neutral and used constantly.",
+      "mnemonic": "Lust ≠ English 'lust'. 'Hast du Lust?' = 'Fancy it?'",
+      "germany_context": null,
+      "emoji": "😋",
+      "imageable": false,
+      "tags": [
+        "emotion",
+        "everyday",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "spass",
+        "langeweile"
+      ]
+    },
+    {
+      "id": "spass",
+      "word": "der Spaß",
+      "lemma": "Spaß",
+      "translation": "fun",
+      "translations": [
+        "fun",
+        "joke"
+      ],
+      "level": "A0",
+      "category": "Feelings & Personality",
+      "partOfSpeech": "noun",
+      "frequency": 480,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Späße",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "des Spaßes"
+      },
+      "example_sentences": [
+        {
+          "de": "Viel Spaß am Wochenende!",
+          "en": "Have fun at the weekend!"
+        },
+        {
+          "de": "Das Fest hat richtig Spaß gemacht.",
+          "en": "The party was really fun."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Deutsch lernen macht mir ___.",
+          "answer": "Spaß",
+          "en": "Learning German is fun for me."
+        }
+      ],
+      "notes": "'Spaß machen' = to be fun. 'Viel Spaß!' is said constantly – to guests, colleagues, anyone leaving for something nice.",
+      "mnemonic": "Spaß ~ 'spass' – say it and you're already smiling.",
+      "germany_context": null,
+      "emoji": "🥳",
+      "imageable": false,
+      "tags": [
+        "emotion",
+        "positive",
+        "essential"
+      ],
+      "synonyms": [
+        "die Freude"
+      ],
+      "antonyms": [
+        "die Langeweile"
+      ],
+      "related": [
+        "langeweile"
+      ]
+    },
+    {
+      "id": "ruhe",
+      "word": "die Ruhe",
+      "lemma": "Ruhe",
+      "translation": "quiet",
+      "translations": [
+        "quiet",
+        "calm",
+        "rest"
+      ],
+      "level": "A1",
+      "category": "Feelings & Personality",
+      "partOfSpeech": "noun",
+      "frequency": 750,
+      "gender": "f",
+      "article": "die",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "der Ruhe"
+      },
+      "example_sentences": [
+        {
+          "de": "Nach 22 Uhr brauchen die Nachbarn Ruhe.",
+          "en": "After 10 p.m. the neighbours need quiet."
+        },
+        {
+          "de": "Immer mit der Ruhe!",
+          "en": "Take it easy!"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich brauche jetzt ein bisschen ___.",
+          "answer": "Ruhe",
+          "en": "I need a bit of quiet now."
+        }
+      ],
+      "notes": "'Lass mich in Ruhe' = leave me alone. 'Immer mit der Ruhe' = take it easy.",
+      "mnemonic": "Ruhe ~ 'rue' / repose – silence.",
+      "germany_context": "Ruhezeiten are real: night quiet 22:00–06:00, plus all day Sunday and on public holidays. No drilling, vacuuming or loud music then – neighbours do complain, and the Hausmeister or Hausverwaltung will follow up.",
+      "emoji": "🤫",
+      "imageable": false,
+      "tags": [
+        "emotion",
+        "home",
+        "essential"
+      ],
+      "synonyms": [
+        "die Stille"
+      ],
+      "antonyms": [
+        "der Stress"
+      ],
+      "related": [
+        "stoeren",
+        "entspannen"
+      ]
+    },
+    {
+      "id": "charakter",
+      "word": "der Charakter",
+      "lemma": "Charakter",
+      "translation": "character",
+      "translations": [
+        "character",
+        "nature"
+      ],
+      "level": "A2",
+      "category": "Feelings & Personality",
+      "partOfSpeech": "noun",
+      "frequency": 1450,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Charaktere",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "des Charakters"
+      },
+      "example_sentences": [
+        {
+          "de": "Sie hat einen starken Charakter.",
+          "en": "She has a strong character."
+        },
+        {
+          "de": "Sein Charakter gefällt mir sehr.",
+          "en": "I like his character a lot."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Job passt gut zu seinem ___.",
+          "answer": "Charakter",
+          "en": "The job suits his character well."
+        }
+      ],
+      "notes": "Pronounced with a hard k: 'ka-RAK-ter'. Stress moves in the plural: Cha-rak-TE-re.",
+      "mnemonic": "Same word as English 'character', German stress on the second syllable.",
+      "germany_context": null,
+      "emoji": "🧩",
+      "imageable": false,
+      "tags": [
+        "character",
+        "abstract"
+      ],
+      "synonyms": [
+        "die Persönlichkeit"
+      ],
+      "antonyms": [],
+      "related": [
+        "persoenlichkeit",
+        "humor"
+      ]
+    },
+    {
+      "id": "persoenlichkeit",
+      "word": "die Persönlichkeit",
+      "lemma": "Persönlichkeit",
+      "translation": "personality",
+      "translations": [
+        "personality"
+      ],
+      "level": "A2",
+      "category": "Feelings & Personality",
+      "partOfSpeech": "noun",
+      "frequency": 1750,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Persönlichkeiten",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "der Persönlichkeit"
+      },
+      "example_sentences": [
+        {
+          "de": "Er ist eine interessante Persönlichkeit.",
+          "en": "He is an interesting personality."
+        },
+        {
+          "de": "Im Vorstellungsgespräch zählt auch die Persönlichkeit.",
+          "en": "In a job interview the personality counts too."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Jedes Kind hat seine eigene ___.",
+          "answer": "Persönlichkeit",
+          "en": "Every child has its own personality."
+        }
+      ],
+      "notes": "-keit → feminine, always.",
+      "mnemonic": "Person + -lichkeit → die Persönlichkeit.",
+      "germany_context": null,
+      "emoji": "🧠",
+      "imageable": false,
+      "tags": [
+        "character",
+        "abstract"
+      ],
+      "synonyms": [
+        "der Charakter"
+      ],
+      "antonyms": [],
+      "related": [
+        "charakter"
+      ]
+    },
+    {
+      "id": "humor",
+      "word": "der Humor",
+      "lemma": "Humor",
+      "translation": "humour",
+      "translations": [
+        "humour",
+        "sense of humor"
+      ],
+      "level": "A2",
+      "category": "Feelings & Personality",
+      "partOfSpeech": "noun",
+      "frequency": 1550,
+      "gender": "m",
+      "article": "der",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "des Humors"
+      },
+      "example_sentences": [
+        {
+          "de": "Mein Kollege hat einen trockenen Humor.",
+          "en": "My colleague has a dry sense of humour."
+        },
+        {
+          "de": "Ohne Humor ist der Alltag schwer.",
+          "en": "Everyday life is hard without humour."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Deutscher ___ ist anders, aber es gibt ihn.",
+          "answer": "Humor",
+          "en": "German humour is different, but it exists."
+        }
+      ],
+      "notes": "Stress on the second syllable: hu-MOR. 'Humor haben' = to have a sense of humour.",
+      "mnemonic": "der Humor – masculine, like most -or words (der Motor, der Doktor).",
+      "germany_context": null,
+      "emoji": "😄",
+      "imageable": false,
+      "tags": [
+        "character",
+        "positive"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "charakter"
+      ]
+    },
+    {
+      "id": "geduld",
+      "word": "die Geduld",
+      "lemma": "Geduld",
+      "translation": "patience",
+      "translations": [
+        "patience"
+      ],
+      "level": "A2",
+      "category": "Feelings & Personality",
+      "partOfSpeech": "noun",
+      "frequency": 1300,
+      "gender": "f",
+      "article": "die",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "der Geduld"
+      },
+      "example_sentences": [
+        {
+          "de": "Beim Amt braucht man viel Geduld.",
+          "en": "You need a lot of patience at the public office."
+        },
+        {
+          "de": "Meine Geduld ist zu Ende.",
+          "en": "My patience is at an end."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Hab bitte noch ein bisschen ___.",
+          "answer": "Geduld",
+          "en": "Please be patient a little longer."
+        }
+      ],
+      "notes": "One of the few Ge- nouns that is feminine, not neuter.",
+      "mnemonic": "Ge-DULD: you must endure (dulden) – die Geduld is the exception to the neuter Ge- rule.",
+      "germany_context": "You will need it: appointments (Termine) at the Bürgeramt or Ausländerbehörde are often booked out for weeks, and walk-ins are usually not possible. Book online the moment slots appear.",
+      "emoji": "⏳",
+      "imageable": false,
+      "tags": [
+        "character",
+        "positive",
+        "bureaucracy"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "ruhe"
+      ]
+    },
+    {
+      "id": "ehrlichkeit",
+      "word": "die Ehrlichkeit",
+      "lemma": "Ehrlichkeit",
+      "translation": "honesty",
+      "translations": [
+        "honesty"
+      ],
+      "level": "A2",
+      "category": "Feelings & Personality",
+      "partOfSpeech": "noun",
+      "frequency": 2000,
+      "gender": "f",
+      "article": "die",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "der Ehrlichkeit"
+      },
+      "example_sentences": [
+        {
+          "de": "Ehrlichkeit ist mir bei Freunden wichtig.",
+          "en": "Honesty is important to me in friends."
+        },
+        {
+          "de": "Seine Ehrlichkeit hat mich überrascht.",
+          "en": "His honesty surprised me."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Danke für deine ___.",
+          "answer": "Ehrlichkeit",
+          "en": "Thank you for your honesty."
+        }
+      ],
+      "notes": "'In aller Ehrlichkeit' = in all honesty.",
+      "mnemonic": "ehrlich + -keit → die Ehrlichkeit.",
+      "germany_context": "German colleagues often give very direct feedback – 'Das funktioniert so nicht' without softening. It is meant as Ehrlichkeit and efficiency, not as an attack, and directness back is welcome.",
+      "emoji": "🙌",
+      "imageable": false,
+      "tags": [
+        "character",
+        "positive",
+        "work"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "charakter",
+        "hoeflichkeit"
+      ]
+    },
+    {
+      "id": "hoeflichkeit",
+      "word": "die Höflichkeit",
+      "lemma": "Höflichkeit",
+      "translation": "politeness",
+      "translations": [
+        "politeness",
+        "courtesy"
+      ],
+      "level": "A2",
+      "category": "Feelings & Personality",
+      "partOfSpeech": "noun",
+      "frequency": 2200,
+      "gender": "f",
+      "article": "die",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "der Höflichkeit"
+      },
+      "example_sentences": [
+        {
+          "de": "Höflichkeit kostet nichts.",
+          "en": "Politeness costs nothing."
+        },
+        {
+          "de": "Aus Höflichkeit habe ich Ja gesagt.",
+          "en": "Out of politeness I said yes."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ein bisschen ___ hilft immer.",
+          "answer": "Höflichkeit",
+          "en": "A bit of politeness always helps."
+        }
+      ],
+      "notes": "From 'der Hof' (court) – courtly behaviour, like English 'courtesy'.",
+      "mnemonic": "Hof (court) → höflich → die Höflichkeit.",
+      "germany_context": "The clearest form of Höflichkeit is 'Sie': use it with strangers, neighbours, officials, doctors and anyone older until they offer 'du'. Most tech companies use 'du' internally from day one – follow what your team does.",
+      "emoji": "🎩",
+      "imageable": false,
+      "tags": [
+        "character",
+        "positive",
+        "social"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "ehrlichkeit"
+      ]
+    },
+    {
+      "id": "puenktlichkeit",
+      "word": "die Pünktlichkeit",
+      "lemma": "Pünktlichkeit",
+      "translation": "punctuality",
+      "translations": [
+        "punctuality"
+      ],
+      "level": "A2",
+      "category": "Feelings & Personality",
+      "partOfSpeech": "noun",
+      "frequency": 1850,
+      "gender": "f",
+      "article": "die",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "der Pünktlichkeit"
+      },
+      "example_sentences": [
+        {
+          "de": "Pünktlichkeit ist in Deutschland sehr wichtig.",
+          "en": "Punctuality is very important in Germany."
+        },
+        {
+          "de": "Seine Pünktlichkeit ist beeindruckend.",
+          "en": "His punctuality is impressive."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Bei einem Termin zählt ___.",
+          "answer": "Pünktlichkeit",
+          "en": "At an appointment, punctuality counts."
+        }
+      ],
+      "notes": "der Punkt (point in time) → pünktlich → die Pünktlichkeit.",
+      "mnemonic": "auf den Punkt = on the dot.",
+      "germany_context": "Arrive 5 minutes early for a Termin, a doctor's appointment or a viewing (Besichtigung). More than 10 minutes late at an Amt usually means your slot is gone and you rebook. If you're delayed, call or write immediately.",
+      "emoji": "⏰",
+      "imageable": false,
+      "tags": [
+        "character",
+        "germany",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "geduld",
+        "stress"
+      ]
+    },
+    {
+      "id": "aergern",
+      "word": "sich ärgern",
+      "lemma": "ärgern",
+      "translation": "to be annoyed",
+      "translations": [
+        "to be annoyed",
+        "to get angry"
+      ],
+      "level": "A2",
+      "category": "Feelings & Personality",
+      "partOfSpeech": "verb",
+      "frequency": 1000,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": true,
+      "cases": [],
+      "forms": {
+        "ich": "ärgere mich",
+        "du": "ärgerst dich",
+        "er": "ärgert sich",
+        "wir": "ärgern uns",
+        "ihr": "ärgert euch",
+        "sie": "ärgern sich",
+        "praeteritum": "ärgerte sich",
+        "perfekt": "hat sich geärgert",
+        "imperativ": "ärgere dich nicht!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich ärgere mich über die Verspätung.",
+          "en": "I'm annoyed about the delay."
+        },
+        {
+          "de": "Ärgere dich nicht, das passiert jedem.",
+          "en": "Don't be annoyed, it happens to everyone."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Er ___ sich jeden Tag über den Verkehr.",
+          "answer": "ärgert",
+          "en": "He gets annoyed about the traffic every day."
+        }
+      ],
+      "notes": "sich ärgern über + Akkusativ. Without 'sich' it means to annoy someone else: 'Der Hund ärgert die Katze.'",
+      "mnemonic": "Ärger → sich ärgern.",
+      "germany_context": null,
+      "emoji": "😤",
+      "imageable": false,
+      "tags": [
+        "verb",
+        "emotion",
+        "negative"
+      ],
+      "synonyms": [
+        "sich aufregen"
+      ],
+      "antonyms": [
+        "sich freuen"
+      ],
+      "related": [
+        "aerger",
+        "aufregen"
+      ]
+    },
+    {
+      "id": "hoffen",
+      "word": "hoffen",
+      "lemma": "hoffen",
+      "translation": "to hope",
+      "translations": [
+        "to hope"
+      ],
+      "level": "A1",
+      "category": "Feelings & Personality",
+      "partOfSpeech": "verb",
+      "frequency": 610,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "hoffe",
+        "du": "hoffst",
+        "er": "hofft",
+        "wir": "hoffen",
+        "ihr": "hofft",
+        "sie": "hoffen",
+        "praeteritum": "hoffte",
+        "perfekt": "hat gehofft",
+        "imperativ": "hoff(e)!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich hoffe, du hast bald Zeit.",
+          "en": "I hope you'll have time soon."
+        },
+        {
+          "de": "Wir hoffen auf gutes Wetter.",
+          "en": "We're hoping for good weather."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Sie ___, dass der Bus bald kommt.",
+          "answer": "hofft",
+          "en": "She hopes the bus will come soon."
+        }
+      ],
+      "notes": "hoffen auf + Akkusativ. 'Ich hoffe, ...' usually takes a normal main clause after the comma.",
+      "mnemonic": "hoffen → hoffentlich (hopefully).",
+      "germany_context": null,
+      "emoji": "🤞",
+      "imageable": false,
+      "tags": [
+        "verb",
+        "emotion",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "hoffnung"
+      ]
+    },
+    {
+      "id": "lieben",
+      "word": "lieben",
+      "lemma": "lieben",
+      "translation": "to love",
+      "translations": [
+        "to love"
+      ],
+      "level": "A1",
+      "category": "Feelings & Personality",
+      "partOfSpeech": "verb",
+      "frequency": 450,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "liebe",
+        "du": "liebst",
+        "er": "liebt",
+        "wir": "lieben",
+        "ihr": "liebt",
+        "sie": "lieben",
+        "praeteritum": "liebte",
+        "perfekt": "hat geliebt",
+        "imperativ": "lieb(e)!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich liebe dich.",
+          "en": "I love you."
+        },
+        {
+          "de": "Er liebt seine Arbeit.",
+          "en": "He loves his work."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wir ___ diese Stadt.",
+          "answer": "lieben",
+          "en": "We love this city."
+        }
+      ],
+      "notes": "Stronger than English 'love' for people – Germans say 'Ich mag dich sehr' for friends.",
+      "mnemonic": "lieben ~ 'love' – lieb/love.",
+      "germany_context": null,
+      "emoji": "❤️",
+      "imageable": false,
+      "tags": [
+        "verb",
+        "emotion",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "hassen"
+      ],
+      "related": [
+        "liebe",
+        "verlieben",
+        "hassen"
+      ]
+    },
+    {
+      "id": "hassen",
+      "word": "hassen",
+      "lemma": "hassen",
+      "translation": "to hate",
+      "translations": [
+        "to hate"
+      ],
+      "level": "A2",
+      "category": "Feelings & Personality",
+      "partOfSpeech": "verb",
+      "frequency": 1150,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "hasse",
+        "du": "hasst",
+        "er": "hasst",
+        "wir": "hassen",
+        "ihr": "hasst",
+        "sie": "hassen",
+        "praeteritum": "hasste",
+        "perfekt": "hat gehasst",
+        "imperativ": "hass(e)!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich hasse es, früh aufzustehen.",
+          "en": "I hate getting up early."
+        },
+        {
+          "de": "Sie hasst Papierkram.",
+          "en": "She hates paperwork."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Er ___ lange Meetings.",
+          "answer": "hasst",
+          "en": "He hates long meetings."
+        }
+      ],
+      "notes": "du and er are both 'hasst' – the stem already ends in -ss.",
+      "mnemonic": "hassen ~ 'hate' + der Hass.",
+      "germany_context": null,
+      "emoji": "😠",
+      "imageable": false,
+      "tags": [
+        "verb",
+        "emotion",
+        "negative"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "lieben"
+      ],
+      "related": [
+        "lieben",
+        "wut"
+      ]
+    },
+    {
+      "id": "vermissen",
+      "word": "vermissen",
+      "lemma": "vermissen",
+      "translation": "to miss",
+      "translations": [
+        "to miss"
+      ],
+      "level": "A2",
+      "category": "Feelings & Personality",
+      "partOfSpeech": "verb",
+      "frequency": 1200,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "vermisse",
+        "du": "vermisst",
+        "er": "vermisst",
+        "wir": "vermissen",
+        "ihr": "vermisst",
+        "sie": "vermissen",
+        "praeteritum": "vermisste",
+        "perfekt": "hat vermisst",
+        "imperativ": "vermiss!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich vermisse meine Familie.",
+          "en": "I miss my family."
+        },
+        {
+          "de": "Vermisst du das Essen zu Hause?",
+          "en": "Do you miss the food back home?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wir ___ dich sehr.",
+          "answer": "vermissen",
+          "en": "We miss you a lot."
+        }
+      ],
+      "notes": "Takes a plain accusative object – no preposition: 'Ich vermisse dich', not 'Ich vermisse an dich'.",
+      "mnemonic": "ver-missen ~ 'to miss'.",
+      "germany_context": null,
+      "emoji": "🥺",
+      "imageable": false,
+      "tags": [
+        "verb",
+        "emotion",
+        "expat"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "heimweh",
+        "einsamkeit"
+      ]
+    },
+    {
+      "id": "sorgen",
+      "word": "sich sorgen",
+      "lemma": "sorgen",
+      "translation": "to worry",
+      "translations": [
+        "to worry",
+        "to be concerned"
+      ],
+      "level": "A2",
+      "category": "Feelings & Personality",
+      "partOfSpeech": "verb",
+      "frequency": 1500,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": true,
+      "cases": [],
+      "forms": {
+        "ich": "sorge mich",
+        "du": "sorgst dich",
+        "er": "sorgt sich",
+        "wir": "sorgen uns",
+        "ihr": "sorgt euch",
+        "sie": "sorgen sich",
+        "praeteritum": "sorgte sich",
+        "perfekt": "hat sich gesorgt",
+        "imperativ": "sorg dich nicht!"
+      },
+      "example_sentences": [
+        {
+          "de": "Meine Mutter sorgt sich um mich.",
+          "en": "My mother worries about me."
+        },
+        {
+          "de": "Sorg dich nicht, ich rufe später an.",
+          "en": "Don't worry, I'll call later."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Sie ___ sich um ihren Sohn.",
+          "answer": "sorgt",
+          "en": "She worries about her son."
+        }
+      ],
+      "notes": "In everyday speech 'sich Sorgen machen um' is far more common: 'Mach dir keine Sorgen!' Note: 'sorgen für' (no sich) = to take care of / provide for.",
+      "mnemonic": "die Sorge → sich sorgen.",
+      "germany_context": null,
+      "emoji": "😟",
+      "imageable": false,
+      "tags": [
+        "verb",
+        "emotion",
+        "negative"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "sorge",
+        "besorgt"
+      ]
+    },
+    {
+      "id": "schaemen",
+      "word": "sich schämen",
+      "lemma": "schämen",
+      "translation": "to be ashamed",
+      "translations": [
+        "to be ashamed",
+        "to feel embarrassed"
+      ],
+      "level": "A2",
+      "category": "Feelings & Personality",
+      "partOfSpeech": "verb",
+      "frequency": 2050,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": true,
+      "cases": [],
+      "forms": {
+        "ich": "schäme mich",
+        "du": "schämst dich",
+        "er": "schämt sich",
+        "wir": "schämen uns",
+        "ihr": "schämt euch",
+        "sie": "schämen sich",
+        "praeteritum": "schämte sich",
+        "perfekt": "hat sich geschämt",
+        "imperativ": "schäm dich!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich schäme mich für meinen Fehler.",
+          "en": "I'm ashamed of my mistake."
+        },
+        {
+          "de": "Er schämt sich, weil er zu spät gekommen ist.",
+          "en": "He's embarrassed because he arrived late."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Du musst dich nicht ___.",
+          "answer": "schämen",
+          "en": "You don't have to be ashamed."
+        }
+      ],
+      "notes": "sich schämen für + Akkusativ. 'Schäm dich!' is a real (harsh) rebuke – use carefully.",
+      "mnemonic": "die Scham → sich schämen.",
+      "germany_context": null,
+      "emoji": "😳",
+      "imageable": false,
+      "tags": [
+        "verb",
+        "emotion",
+        "negative"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "scham",
+        "verlegen"
+      ]
+    },
+    {
+      "id": "bereuen",
+      "word": "bereuen",
+      "lemma": "bereuen",
+      "translation": "to regret",
+      "translations": [
+        "to regret"
+      ],
+      "level": "A2",
+      "category": "Feelings & Personality",
+      "partOfSpeech": "verb",
+      "frequency": 2350,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "bereue",
+        "du": "bereust",
+        "er": "bereut",
+        "wir": "bereuen",
+        "ihr": "bereut",
+        "sie": "bereuen",
+        "praeteritum": "bereute",
+        "perfekt": "hat bereut",
+        "imperativ": "bereu(e)!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich bereue nichts.",
+          "en": "I regret nothing."
+        },
+        {
+          "de": "Sie bereut den Streit mit ihrer Freundin.",
+          "en": "She regrets the argument with her friend."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Er ___ den Kauf des Autos.",
+          "answer": "bereut",
+          "en": "He regrets buying the car."
+        }
+      ],
+      "notes": "Verbs starting with be- take no ge- in the Perfekt: hat bereut.",
+      "mnemonic": "be-REUEN – 'rue' the day.",
+      "germany_context": null,
+      "emoji": "😞",
+      "imageable": false,
+      "tags": [
+        "verb",
+        "emotion",
+        "negative"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "scham"
+      ]
+    },
+    {
+      "id": "geniessen",
+      "word": "genießen",
+      "lemma": "genießen",
+      "translation": "to enjoy",
+      "translations": [
+        "to enjoy",
+        "to savour"
+      ],
+      "level": "A2",
+      "category": "Feelings & Personality",
+      "partOfSpeech": "verb",
+      "frequency": 950,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "genieße",
+        "du": "genießt",
+        "er": "genießt",
+        "wir": "genießen",
+        "ihr": "genießt",
+        "sie": "genießen",
+        "praeteritum": "genoss",
+        "perfekt": "hat genossen",
+        "imperativ": "genieß!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich genieße den Kaffee auf dem Balkon.",
+          "en": "I'm enjoying the coffee on the balcony."
+        },
+        {
+          "de": "Genieß den Tag!",
+          "en": "Enjoy the day!"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wir ___ die Sonne im Park.",
+          "answer": "genießen",
+          "en": "We're enjoying the sun in the park."
+        }
+      ],
+      "notes": "Irregular: genießen – genoss – genossen. Needs a direct object; for 'enjoy doing', use 'gern' instead.",
+      "mnemonic": "ge-NIESSEN: the ß becomes ss in genoss/genossen.",
+      "germany_context": null,
+      "emoji": "☕",
+      "imageable": false,
+      "tags": [
+        "verb",
+        "emotion",
+        "positive"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "leiden"
+      ],
+      "related": [
+        "spass",
+        "entspannen"
+      ]
+    },
+    {
+      "id": "leiden",
+      "word": "leiden",
+      "lemma": "leiden",
+      "translation": "to suffer",
+      "translations": [
+        "to suffer"
+      ],
+      "level": "A2",
+      "category": "Feelings & Personality",
+      "partOfSpeech": "verb",
+      "frequency": 1650,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "leide",
+        "du": "leidest",
+        "er": "leidet",
+        "wir": "leiden",
+        "ihr": "leidet",
+        "sie": "leiden",
+        "praeteritum": "litt",
+        "perfekt": "hat gelitten",
+        "imperativ": "leide!"
+      },
+      "example_sentences": [
+        {
+          "de": "Sie leidet unter Stress.",
+          "en": "She suffers from stress."
+        },
+        {
+          "de": "Er hat lange unter Heimweh gelitten.",
+          "en": "He suffered from homesickness for a long time."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Viele Menschen ___ im Winter unter Müdigkeit.",
+          "answer": "leiden",
+          "en": "Many people suffer from tiredness in winter."
+        }
+      ],
+      "notes": "leiden unter + Dativ. Also: 'Ich kann ihn gut leiden' = I quite like him.",
+      "mnemonic": "leiden – litt – gelitten. Don't confuse with 'leider' (unfortunately).",
+      "germany_context": null,
+      "emoji": "😣",
+      "imageable": false,
+      "tags": [
+        "verb",
+        "emotion",
+        "negative"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "geniessen"
+      ],
+      "related": [
+        "trauer",
+        "stress"
+      ]
+    },
+    {
+      "id": "langweilen",
+      "word": "sich langweilen",
+      "lemma": "langweilen",
+      "translation": "to be bored",
+      "translations": [
+        "to be bored"
+      ],
+      "level": "A2",
+      "category": "Feelings & Personality",
+      "partOfSpeech": "verb",
+      "frequency": 1550,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": true,
+      "cases": [],
+      "forms": {
+        "ich": "langweile mich",
+        "du": "langweilst dich",
+        "er": "langweilt sich",
+        "wir": "langweilen uns",
+        "ihr": "langweilt euch",
+        "sie": "langweilen sich",
+        "praeteritum": "langweilte sich",
+        "perfekt": "hat sich gelangweilt",
+        "imperativ": "langweil dich nicht!"
+      },
+      "example_sentences": [
+        {
+          "de": "Die Kinder langweilen sich am Sonntag.",
+          "en": "The children are bored on Sunday."
+        },
+        {
+          "de": "Im Kurs habe ich mich nicht gelangweilt.",
+          "en": "I wasn't bored in the course."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Er ___ sich bei langen Meetings.",
+          "answer": "langweilt",
+          "en": "He gets bored in long meetings."
+        }
+      ],
+      "notes": "'Ich langweile mich' and 'Mir ist langweilig' both work. 'Ich bin langweilig' means YOU are boring.",
+      "mnemonic": "lange Weile → sich langweilen.",
+      "germany_context": null,
+      "emoji": "🥱",
+      "imageable": false,
+      "tags": [
+        "verb",
+        "emotion",
+        "negative"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "langeweile",
+        "mir-ist-langweilig"
+      ]
+    },
+    {
+      "id": "entspannen",
+      "word": "sich entspannen",
+      "lemma": "entspannen",
+      "translation": "to relax",
+      "translations": [
+        "to relax",
+        "to unwind"
+      ],
+      "level": "A2",
+      "category": "Feelings & Personality",
+      "partOfSpeech": "verb",
+      "frequency": 1300,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": true,
+      "cases": [],
+      "forms": {
+        "ich": "entspanne mich",
+        "du": "entspannst dich",
+        "er": "entspannt sich",
+        "wir": "entspannen uns",
+        "ihr": "entspannt euch",
+        "sie": "entspannen sich",
+        "praeteritum": "entspannte sich",
+        "perfekt": "hat sich entspannt",
+        "imperativ": "entspann dich!"
+      },
+      "example_sentences": [
+        {
+          "de": "Am Abend entspanne ich mich mit Musik.",
+          "en": "In the evening I relax with music."
+        },
+        {
+          "de": "Entspann dich, wir haben genug Zeit.",
+          "en": "Relax, we have enough time."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Im Urlaub ___ wir uns endlich.",
+          "answer": "entspannen",
+          "en": "On holiday we finally relax."
+        }
+      ],
+      "notes": "ent- verbs take no ge- in the Perfekt: hat sich entspannt.",
+      "mnemonic": "ent-spannen = un-tense (die Spannung = tension).",
+      "germany_context": null,
+      "emoji": "🧘",
+      "imageable": false,
+      "tags": [
+        "verb",
+        "emotion",
+        "positive"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "sich aufregen"
+      ],
+      "related": [
+        "entspannt",
+        "ruhe",
+        "stress"
+      ]
+    },
+    {
+      "id": "aufregen",
+      "word": "sich aufregen",
+      "lemma": "aufregen",
+      "translation": "to get worked up",
+      "translations": [
+        "to get worked up",
+        "to get upset"
+      ],
+      "level": "A2",
+      "category": "Feelings & Personality",
+      "partOfSpeech": "verb",
+      "frequency": 1700,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "haben",
+      "reflexive": true,
+      "cases": [],
+      "forms": {
+        "ich": "rege mich auf",
+        "du": "regst dich auf",
+        "er": "regt sich auf",
+        "wir": "regen uns auf",
+        "ihr": "regt euch auf",
+        "sie": "regen sich auf",
+        "praeteritum": "regte sich auf",
+        "perfekt": "hat sich aufgeregt",
+        "imperativ": "reg dich nicht auf!"
+      },
+      "example_sentences": [
+        {
+          "de": "Reg dich nicht auf, das ist nicht so wichtig.",
+          "en": "Don't get worked up, it's not that important."
+        },
+        {
+          "de": "Er regt sich über jede Kleinigkeit auf.",
+          "en": "He gets upset about every little thing."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich ___ mich über den Lärm auf.",
+          "answer": "rege",
+          "en": "I get worked up about the noise."
+        }
+      ],
+      "notes": "Separable: the 'auf' goes to the end. sich aufregen über + Akkusativ.",
+      "mnemonic": "auf|regen – the prefix flies to the end of the sentence.",
+      "germany_context": null,
+      "emoji": "😡",
+      "imageable": false,
+      "tags": [
+        "verb",
+        "emotion",
+        "negative",
+        "separable"
+      ],
+      "synonyms": [
+        "sich ärgern"
+      ],
+      "antonyms": [
+        "sich entspannen"
+      ],
+      "related": [
+        "aergern",
+        "wut",
+        "entspannen"
+      ]
+    },
+    {
+      "id": "verlieben",
+      "word": "sich verlieben",
+      "lemma": "verlieben",
+      "translation": "to fall in love",
+      "translations": [
+        "to fall in love"
+      ],
+      "level": "A2",
+      "category": "Feelings & Personality",
+      "partOfSpeech": "verb",
+      "frequency": 1800,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": true,
+      "cases": [],
+      "forms": {
+        "ich": "verliebe mich",
+        "du": "verliebst dich",
+        "er": "verliebt sich",
+        "wir": "verlieben uns",
+        "ihr": "verliebt euch",
+        "sie": "verlieben sich",
+        "praeteritum": "verliebte sich",
+        "perfekt": "hat sich verliebt",
+        "imperativ": "verlieb dich!"
+      },
+      "example_sentences": [
+        {
+          "de": "Sie hat sich in ihren Nachbarn verliebt.",
+          "en": "She fell in love with her neighbour."
+        },
+        {
+          "de": "Er verliebt sich sehr schnell.",
+          "en": "He falls in love very quickly."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wir haben uns sofort in diese Stadt ___.",
+          "answer": "verliebt",
+          "en": "We fell in love with this city immediately."
+        }
+      ],
+      "notes": "sich verlieben IN + Akkusativ. 'Verliebt sein in' = to be in love with.",
+      "mnemonic": "lieben + ver- = the moment it starts.",
+      "germany_context": null,
+      "emoji": "😍",
+      "imageable": false,
+      "tags": [
+        "verb",
+        "emotion",
+        "positive"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "liebe",
+        "lieben"
+      ]
+    },
+    {
+      "id": "stoeren",
+      "word": "stören",
+      "lemma": "stören",
+      "translation": "to disturb",
+      "translations": [
+        "to disturb",
+        "to bother"
+      ],
+      "level": "A1",
+      "category": "Feelings & Personality",
+      "partOfSpeech": "verb",
+      "frequency": 880,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "störe",
+        "du": "störst",
+        "er": "stört",
+        "wir": "stören",
+        "ihr": "stört",
+        "sie": "stören",
+        "praeteritum": "störte",
+        "perfekt": "hat gestört",
+        "imperativ": "stör(e)!"
+      },
+      "example_sentences": [
+        {
+          "de": "Störe ich gerade?",
+          "en": "Am I disturbing you right now?"
+        },
+        {
+          "de": "Der Lärm stört die Nachbarn.",
+          "en": "The noise disturbs the neighbours."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Laute Musik ___ nach 22 Uhr.",
+          "answer": "stört",
+          "en": "Loud music disturbs people after 10 p.m."
+        }
+      ],
+      "notes": "'Stört es dich, wenn ...?' = Do you mind if ...? A very useful polite question.",
+      "mnemonic": "stören ~ 'to stir up' someone's peace.",
+      "germany_context": "Noise complaints are taken seriously. During Ruhezeiten (22:00–06:00, plus Sundays and holidays) neighbours can and do report Ruhestörung – repeated cases can end up with the Hausverwaltung or the police.",
+      "emoji": "🔊",
+      "imageable": false,
+      "tags": [
+        "verb",
+        "social",
+        "home"
+      ],
+      "synonyms": [
+        "nerven"
+      ],
+      "antonyms": [],
+      "related": [
+        "ruhe"
+      ]
+    },
+    {
+      "id": "beruhigen",
+      "word": "sich beruhigen",
+      "lemma": "beruhigen",
+      "translation": "to calm down",
+      "translations": [
+        "to calm down"
+      ],
+      "level": "A2",
+      "category": "Feelings & Personality",
+      "partOfSpeech": "verb",
+      "frequency": 1950,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": true,
+      "cases": [],
+      "forms": {
+        "ich": "beruhige mich",
+        "du": "beruhigst dich",
+        "er": "beruhigt sich",
+        "wir": "beruhigen uns",
+        "ihr": "beruhigt euch",
+        "sie": "beruhigen sich",
+        "praeteritum": "beruhigte sich",
+        "perfekt": "hat sich beruhigt",
+        "imperativ": "beruhig dich!"
+      },
+      "example_sentences": [
+        {
+          "de": "Beruhig dich, wir finden eine Lösung.",
+          "en": "Calm down, we'll find a solution."
+        },
+        {
+          "de": "Nach einer Stunde hat sich das Baby beruhigt.",
+          "en": "After an hour the baby calmed down."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Er ___ sich nur langsam.",
+          "answer": "beruhigt",
+          "en": "He only calms down slowly."
+        }
+      ],
+      "notes": "From 'die Ruhe'. Without 'sich' it means to calm someone else down.",
+      "mnemonic": "be + Ruhe + -igen = to bring someone to rest.",
+      "germany_context": null,
+      "emoji": "😌",
+      "imageable": false,
+      "tags": [
+        "verb",
+        "emotion",
+        "positive"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "sich aufregen"
+      ],
+      "related": [
+        "ruhe",
+        "aufregen",
+        "entspannen"
+      ]
+    },
+    {
+      "id": "wuetend",
+      "word": "wütend",
+      "lemma": "wütend",
+      "translation": "furious",
+      "translations": [
+        "furious",
+        "angry"
+      ],
+      "level": "A2",
+      "category": "Feelings & Personality",
+      "partOfSpeech": "adjective",
+      "frequency": 1200,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "komparativ": "wütender",
+        "superlativ": "am wütendsten"
+      },
+      "example_sentences": [
+        {
+          "de": "Er war wütend über die hohe Rechnung.",
+          "en": "He was furious about the high bill."
+        },
+        {
+          "de": "Sie wurde richtig wütend.",
+          "en": "She got really angry."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Fahrer war sehr ___.",
+          "answer": "wütend",
+          "en": "The driver was very angry."
+        }
+      ],
+      "notes": "Stronger than 'sauer'. wütend auf + Akk (a person), wütend über + Akk (a thing).",
+      "mnemonic": "die Wut → wütend.",
+      "germany_context": null,
+      "emoji": "😡",
+      "imageable": false,
+      "tags": [
+        "adjective",
+        "emotion",
+        "negative"
+      ],
+      "synonyms": [
+        "sauer"
+      ],
+      "antonyms": [
+        "ruhig"
+      ],
+      "related": [
+        "wut",
+        "aufregen"
+      ]
+    },
+    {
+      "id": "gestresst",
+      "word": "gestresst",
+      "lemma": "gestresst",
+      "translation": "stressed",
+      "translations": [
+        "stressed",
+        "stressed out"
+      ],
+      "level": "A2",
+      "category": "Feelings & Personality",
+      "partOfSpeech": "adjective",
+      "frequency": 1080,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "komparativ": "gestresster",
+        "superlativ": "am gestresstesten"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich bin diese Woche total gestresst.",
+          "en": "I'm totally stressed this week."
+        },
+        {
+          "de": "Gestresste Menschen schlafen schlecht.",
+          "en": "Stressed people sleep badly."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Vor dem Umzug waren wir sehr ___.",
+          "answer": "gestresst",
+          "en": "Before the move we were very stressed."
+        }
+      ],
+      "notes": "'Ich bin im Stress' means the same thing.",
+      "mnemonic": "der Stress → gestresst.",
+      "germany_context": null,
+      "emoji": "😵",
+      "imageable": false,
+      "tags": [
+        "adjective",
+        "emotion",
+        "work",
+        "negative"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "entspannt"
+      ],
+      "related": [
+        "stress",
+        "entspannt"
+      ]
+    },
+    {
+      "id": "erleichtert",
+      "word": "erleichtert",
+      "lemma": "erleichtert",
+      "translation": "relieved",
+      "translations": [
+        "relieved"
+      ],
+      "level": "A2",
+      "category": "Feelings & Personality",
+      "partOfSpeech": "adjective",
+      "frequency": 1900,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich bin erleichtert, dass alles geklappt hat.",
+          "en": "I'm relieved that everything worked out."
+        },
+        {
+          "de": "Nach dem Termin war sie erleichtert.",
+          "en": "After the appointment she was relieved."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wir sind ___, dass der Vertrag endlich da ist.",
+          "answer": "erleichtert",
+          "en": "We're relieved that the contract is finally here."
+        }
+      ],
+      "notes": "From 'leicht' (light) – the weight is off your shoulders.",
+      "mnemonic": "er-LEICHT-ert: made light again.",
+      "germany_context": null,
+      "emoji": "😮‍💨",
+      "imageable": false,
+      "tags": [
+        "adjective",
+        "emotion",
+        "positive"
+      ],
+      "synonyms": [
+        "froh"
+      ],
+      "antonyms": [
+        "besorgt"
+      ],
+      "related": [
+        "besorgt"
+      ]
+    },
+    {
+      "id": "beleidigt",
+      "word": "beleidigt",
+      "lemma": "beleidigt",
+      "translation": "offended",
+      "translations": [
+        "offended",
+        "insulted",
+        "in a huff"
+      ],
+      "level": "A2",
+      "category": "Feelings & Personality",
+      "partOfSpeech": "adjective",
+      "frequency": 2150,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Er ist schnell beleidigt.",
+          "en": "He's easily offended."
+        },
+        {
+          "de": "Sie war beleidigt und ist nach Hause gegangen.",
+          "en": "She was offended and went home."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Sei nicht gleich ___, das war ein Witz.",
+          "answer": "beleidigt",
+          "en": "Don't be offended straight away, it was a joke."
+        }
+      ],
+      "notes": "'Beleidigt sein' can also just mean sulking. The verb is 'beleidigen' (to insult).",
+      "mnemonic": "Leid (hurt) sits inside be-LEID-igt.",
+      "germany_context": null,
+      "emoji": "😑",
+      "imageable": false,
+      "tags": [
+        "adjective",
+        "emotion",
+        "negative"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "scham",
+        "aerger"
+      ]
+    },
+    {
+      "id": "geruehrt",
+      "word": "gerührt",
+      "lemma": "gerührt",
+      "translation": "moved",
+      "translations": [
+        "moved",
+        "touched"
+      ],
+      "level": "A2",
+      "category": "Feelings & Personality",
+      "partOfSpeech": "adjective",
+      "frequency": 2500,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich war von der Rede sehr gerührt.",
+          "en": "I was very moved by the speech."
+        },
+        {
+          "de": "Sie war gerührt und hat ein bisschen geweint.",
+          "en": "She was touched and cried a little."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Oma war ___ über das Geschenk.",
+          "answer": "gerührt",
+          "en": "Grandma was touched by the present."
+        }
+      ],
+      "notes": "From 'rühren' (to stir) – something stirs you emotionally. Not the same as 'bewegt'.",
+      "mnemonic": "Something stirred (rührte) your heart.",
+      "germany_context": null,
+      "emoji": "🥹",
+      "imageable": false,
+      "tags": [
+        "adjective",
+        "emotion",
+        "positive"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "freude",
+        "liebe"
+      ]
+    },
+    {
+      "id": "besorgt",
+      "word": "besorgt",
+      "lemma": "besorgt",
+      "translation": "worried",
+      "translations": [
+        "worried",
+        "concerned"
+      ],
+      "level": "A2",
+      "category": "Feelings & Personality",
+      "partOfSpeech": "adjective",
+      "frequency": 1600,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "komparativ": "besorgter",
+        "superlativ": "am besorgtesten"
+      },
+      "example_sentences": [
+        {
+          "de": "Meine Eltern sind besorgt.",
+          "en": "My parents are worried."
+        },
+        {
+          "de": "Der Arzt sah besorgt aus.",
+          "en": "The doctor looked concerned."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Sie ist ___ wegen der Prüfung.",
+          "answer": "besorgt",
+          "en": "She's worried about the exam."
+        }
+      ],
+      "notes": "besorgt um + Akkusativ (a person), besorgt wegen + Genitiv/Dativ (a thing).",
+      "mnemonic": "die Sorge → besorgt.",
+      "germany_context": null,
+      "emoji": "😟",
+      "imageable": false,
+      "tags": [
+        "adjective",
+        "emotion",
+        "negative"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "entspannt",
+        "erleichtert"
+      ],
+      "related": [
+        "sorge",
+        "sorgen"
+      ]
+    },
+    {
+      "id": "entspannt",
+      "word": "entspannt",
+      "lemma": "entspannt",
+      "translation": "relaxed",
+      "translations": [
+        "relaxed",
+        "laid-back"
+      ],
+      "level": "A2",
+      "category": "Feelings & Personality",
+      "partOfSpeech": "adjective",
+      "frequency": 920,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "komparativ": "entspannter",
+        "superlativ": "am entspanntesten"
+      },
+      "example_sentences": [
+        {
+          "de": "Nach dem Urlaub bin ich ganz entspannt.",
+          "en": "After the holiday I'm completely relaxed."
+        },
+        {
+          "de": "Mein Chef ist sehr entspannt.",
+          "en": "My boss is very laid-back."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Am Sonntag sind wir immer ___.",
+          "answer": "entspannt",
+          "en": "On Sunday we're always relaxed."
+        }
+      ],
+      "notes": "Also used for situations: 'Das war ein entspanntes Wochenende.'",
+      "mnemonic": "ent-spannt = un-tensed.",
+      "germany_context": null,
+      "emoji": "😌",
+      "imageable": false,
+      "tags": [
+        "adjective",
+        "emotion",
+        "positive"
+      ],
+      "synonyms": [
+        "ruhig"
+      ],
+      "antonyms": [
+        "gestresst",
+        "nervös"
+      ],
+      "related": [
+        "entspannen",
+        "ruhe",
+        "gestresst"
+      ]
+    },
+    {
+      "id": "dankbar",
+      "word": "dankbar",
+      "lemma": "dankbar",
+      "translation": "grateful",
+      "translations": [
+        "grateful",
+        "thankful"
+      ],
+      "level": "A2",
+      "category": "Feelings & Personality",
+      "partOfSpeech": "adjective",
+      "frequency": 1150,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "komparativ": "dankbarer",
+        "superlativ": "am dankbarsten"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich bin dir sehr dankbar.",
+          "en": "I'm very grateful to you."
+        },
+        {
+          "de": "Wir sind dankbar für eure Hilfe.",
+          "en": "We're grateful for your help."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Er ist ___ für den guten Tipp.",
+          "answer": "dankbar",
+          "en": "He's grateful for the good tip."
+        }
+      ],
+      "notes": "dankbar für + Akkusativ; the person is in the dative: 'Ich bin dir dankbar.'",
+      "mnemonic": "danken + -bar = able to thank.",
+      "germany_context": null,
+      "emoji": "🙏",
+      "imageable": false,
+      "tags": [
+        "adjective",
+        "emotion",
+        "positive"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "hoeflichkeit"
+      ]
+    },
+    {
+      "id": "gespannt",
+      "word": "gespannt",
+      "lemma": "gespannt",
+      "translation": "eager",
+      "translations": [
+        "eager",
+        "curious",
+        "excited to find out"
+      ],
+      "level": "A2",
+      "category": "Feelings & Personality",
+      "partOfSpeech": "adjective",
+      "frequency": 1750,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "komparativ": "gespannter",
+        "superlativ": "am gespanntesten"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich bin gespannt auf den neuen Job.",
+          "en": "I'm eager to see what the new job is like."
+        },
+        {
+          "de": "Wir sind gespannt, wie es weitergeht.",
+          "en": "We're curious to see how it continues."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Sie ist ___ auf das Ergebnis.",
+          "answer": "gespannt",
+          "en": "She's eagerly awaiting the result."
+        }
+      ],
+      "notes": "Very common: 'Ich bin gespannt!' = 'I can't wait to find out'. gespannt auf + Akkusativ.",
+      "mnemonic": "spannen (to stretch) → tense with anticipation, like die Spannung (suspense).",
+      "germany_context": null,
+      "emoji": "👀",
+      "imageable": false,
+      "tags": [
+        "adjective",
+        "emotion",
+        "positive"
+      ],
+      "synonyms": [
+        "neugierig"
+      ],
+      "antonyms": [],
+      "related": []
+    },
+    {
+      "id": "verwirrt",
+      "word": "verwirrt",
+      "lemma": "verwirrt",
+      "translation": "confused",
+      "translations": [
+        "confused",
+        "puzzled"
+      ],
+      "level": "A2",
+      "category": "Feelings & Personality",
+      "partOfSpeech": "adjective",
+      "frequency": 1950,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "komparativ": "verwirrter",
+        "superlativ": "am verwirrtesten"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich bin verwirrt von den vielen Formularen.",
+          "en": "I'm confused by all the forms."
+        },
+        {
+          "de": "Er sah ziemlich verwirrt aus.",
+          "en": "He looked rather confused."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Die vielen Regeln machen mich ___.",
+          "answer": "verwirrt",
+          "en": "The many rules make me confused."
+        }
+      ],
+      "notes": "For 'confusing' (the thing), use 'verwirrend'.",
+      "mnemonic": "ver-WIRRT: everything is tangled (wirr).",
+      "germany_context": null,
+      "emoji": "😕",
+      "imageable": false,
+      "tags": [
+        "adjective",
+        "emotion"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "schockiert"
+      ]
+    },
+    {
+      "id": "verlegen",
+      "word": "verlegen",
+      "lemma": "verlegen",
+      "translation": "embarrassed",
+      "translations": [
+        "embarrassed",
+        "self-conscious"
+      ],
+      "level": "A2",
+      "category": "Feelings & Personality",
+      "partOfSpeech": "adjective",
+      "frequency": 2450,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "komparativ": "verlegener",
+        "superlativ": "am verlegensten"
+      },
+      "example_sentences": [
+        {
+          "de": "Er wurde verlegen und sagte nichts.",
+          "en": "He got embarrassed and said nothing."
+        },
+        {
+          "de": "Sie hat verlegen gelächelt.",
+          "en": "She smiled self-consciously."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Nach dem Kompliment war er ganz ___.",
+          "answer": "verlegen",
+          "en": "After the compliment he was quite embarrassed."
+        }
+      ],
+      "notes": "There is also a verb 'verlegen' = to mislay something. Same spelling, different word.",
+      "mnemonic": "You'd like to be laid (gelegt) somewhere else right now.",
+      "germany_context": null,
+      "emoji": "😳",
+      "imageable": false,
+      "tags": [
+        "adjective",
+        "emotion"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "scham",
+        "schaemen"
+      ]
+    },
+    {
+      "id": "schockiert",
+      "word": "schockiert",
+      "lemma": "schockiert",
+      "translation": "shocked",
+      "translations": [
+        "shocked"
+      ],
+      "level": "A2",
+      "category": "Feelings & Personality",
+      "partOfSpeech": "adjective",
+      "frequency": 2000,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich war schockiert über die Nachricht.",
+          "en": "I was shocked by the news."
+        },
+        {
+          "de": "Alle im Büro waren schockiert.",
+          "en": "Everyone in the office was shocked."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Sie war ___ von den hohen Mieten.",
+          "answer": "schockiert",
+          "en": "She was shocked by the high rents."
+        }
+      ],
+      "notes": "schockiert über + Akkusativ. The noun is 'der Schock'.",
+      "mnemonic": "Same as English 'shocked' with a German ending.",
+      "germany_context": null,
+      "emoji": "😲",
+      "imageable": false,
+      "tags": [
+        "adjective",
+        "emotion",
+        "negative"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "ueberraschung",
+        "verwirrt"
+      ]
+    },
+    {
+      "id": "begeistert",
+      "word": "begeistert",
+      "lemma": "begeistert",
+      "translation": "enthusiastic",
+      "translations": [
+        "enthusiastic",
+        "thrilled",
+        "excited"
+      ],
+      "level": "A2",
+      "category": "Feelings & Personality",
+      "partOfSpeech": "adjective",
+      "frequency": 1550,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "komparativ": "begeisterter",
+        "superlativ": "am begeistertsten"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich bin begeistert von dieser Stadt.",
+          "en": "I'm thrilled with this city."
+        },
+        {
+          "de": "Die Kinder waren begeistert.",
+          "en": "The children were thrilled."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Er ist ___ von seinem neuen Fahrrad.",
+          "answer": "begeistert",
+          "en": "He's thrilled with his new bike."
+        }
+      ],
+      "notes": "begeistert von + Dativ. From 'der Geist' (spirit) – filled with spirit.",
+      "mnemonic": "be-GEIST-ert: the spirit is in you.",
+      "germany_context": null,
+      "emoji": "🤩",
+      "imageable": false,
+      "tags": [
+        "adjective",
+        "emotion",
+        "positive"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "enttäuscht"
+      ],
+      "related": [
+        "freude",
+        "gespannt"
+      ]
+    },
+    {
+      "id": "einsam",
+      "word": "einsam",
+      "lemma": "einsam",
+      "translation": "lonely",
+      "translations": [
+        "lonely",
+        "solitary"
+      ],
+      "level": "A2",
+      "category": "Feelings & Personality",
+      "partOfSpeech": "adjective",
+      "frequency": 1850,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "komparativ": "einsamer",
+        "superlativ": "am einsamsten"
+      },
+      "example_sentences": [
+        {
+          "de": "In der neuen Stadt fühlte er sich einsam.",
+          "en": "In the new city he felt lonely."
+        },
+        {
+          "de": "Am Wochenende ist es manchmal einsam.",
+          "en": "At the weekend it's sometimes lonely."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ohne Freunde wird man schnell ___.",
+          "answer": "einsam",
+          "en": "Without friends you quickly get lonely."
+        }
+      ],
+      "notes": "Not the same as 'allein' (alone). Allein is neutral; einsam hurts.",
+      "mnemonic": "ein (one) + -sam = being one, on your own.",
+      "germany_context": null,
+      "emoji": "🌧️",
+      "imageable": false,
+      "tags": [
+        "adjective",
+        "emotion",
+        "expat",
+        "negative"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "einsamkeit",
+        "heimweh"
+      ]
+    },
+    {
+      "id": "mir-ist-langweilig",
+      "word": "Mir ist langweilig.",
+      "lemma": "Mir ist langweilig",
+      "translation": "i'm bored",
+      "translations": [
+        "i'm bored"
+      ],
+      "level": "A1",
+      "category": "Feelings & Personality",
+      "partOfSpeech": "phrase",
+      "frequency": 1150,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Mir ist langweilig. Gehen wir raus?",
+          "en": "I'm bored. Shall we go out?"
+        },
+        {
+          "de": "Ihm ist langweilig, weil es den ganzen Tag regnet.",
+          "en": "He's bored because it's raining all day."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ ist langweilig, wollen wir spazieren gehen?",
+          "answer": "Mir",
+          "en": "I'm bored, shall we go for a walk?"
+        }
+      ],
+      "notes": "Dative construction, like 'Mir ist kalt' and 'Mir ist schlecht'. Never say 'Ich bin langweilig' – that means 'I am a boring person'.",
+      "mnemonic": "Feelings that happen TO you take the dative: mir ist kalt / warm / schlecht / langweilig.",
+      "germany_context": null,
+      "emoji": "🥱",
+      "imageable": false,
+      "tags": [
+        "phrase",
+        "emotion",
+        "dative",
+        "essential"
+      ],
+      "synonyms": [
+        "Ich langweile mich."
+      ],
+      "antonyms": [],
+      "related": [
+        "langeweile",
+        "langweilen"
+      ]
+    },
+    {
+      "id": "wie-fuehlst-du-dich",
+      "word": "Wie fühlst du dich?",
+      "lemma": "Wie fühlst du dich",
+      "translation": "how are you feeling?",
+      "translations": [
+        "how are you feeling?",
+        "how do you feel?"
+      ],
+      "level": "A1",
+      "category": "Feelings & Personality",
+      "partOfSpeech": "phrase",
+      "frequency": 600,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Wie fühlst du dich heute Morgen?",
+          "en": "How are you feeling this morning?"
+        },
+        {
+          "de": "Wie fühlst du dich nach dem Arzttermin?",
+          "en": "How do you feel after the doctor's appointment?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ fühlst du dich nach der langen Reise?",
+          "answer": "Wie",
+          "en": "How do you feel after the long journey?"
+        }
+      ],
+      "notes": "Formal version: 'Wie fühlen Sie sich?' – what a doctor will ask you. Different from 'Wie geht's?', which is just a greeting.",
+      "mnemonic": "Wie geht's? = small talk. Wie fühlst du dich? = a real question.",
+      "germany_context": null,
+      "emoji": "💬",
+      "imageable": false,
+      "tags": [
+        "phrase",
+        "question",
+        "health",
+        "essential"
+      ],
+      "synonyms": [
+        "Wie geht es dir?"
+      ],
+      "antonyms": [],
+      "related": [
+        "gefuehl"
+      ]
+    },
+    {
+      "id": "sehnsucht",
+      "word": "die Sehnsucht",
+      "lemma": "Sehnsucht",
+      "translation": "longing",
+      "translations": [
+        "longing",
+        "yearning"
+      ],
+      "level": "A2",
+      "category": "Feelings & Personality",
+      "partOfSpeech": "noun",
+      "frequency": 2250,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Sehnsüchte",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "der Sehnsucht"
+      },
+      "example_sentences": [
+        {
+          "de": "Er hat Sehnsucht nach seiner Familie.",
+          "en": "He longs for his family."
+        },
+        {
+          "de": "Ihre Sehnsucht nach der Sonne ist im Winter groß.",
+          "en": "Her longing for the sun is great in winter."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Nach zwei Jahren im Ausland spürt man die ___.",
+          "answer": "Sehnsucht",
+          "en": "After two years abroad you feel the longing."
+        }
+      ],
+      "notes": "Sehnsucht nach + Dativ. Deeper and more romantic than Heimweh, but often used for the same feeling.",
+      "mnemonic": "sich sehnen (to long) + die Sucht → die Sehnsucht.",
+      "germany_context": null,
+      "emoji": "🌙",
+      "imageable": false,
+      "tags": [
+        "emotion",
+        "expat",
+        "abstract"
+      ],
+      "synonyms": [
+        "das Heimweh"
+      ],
+      "antonyms": [],
+      "related": [
+        "heimweh",
+        "vermissen",
+        "fernweh"
+      ]
+    },
+    {
+      "id": "neid",
+      "word": "der Neid",
+      "lemma": "Neid",
+      "translation": "envy",
+      "translations": [
+        "envy"
+      ],
+      "level": "A2",
+      "category": "Feelings & Personality",
+      "partOfSpeech": "noun",
+      "frequency": 2400,
+      "gender": "m",
+      "article": "der",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "des Neides"
+      },
+      "example_sentences": [
+        {
+          "de": "Aus Neid sagt er nichts Nettes über sie.",
+          "en": "Out of envy he says nothing nice about her."
+        },
+        {
+          "de": "Sein Neid auf den neuen Kollegen ist deutlich.",
+          "en": "His envy of the new colleague is obvious."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Kein ___, ich freue mich wirklich für dich!",
+          "answer": "Neid",
+          "en": "No envy, I'm genuinely happy for you!"
+        }
+      ],
+      "notes": "Neid = envy about things; Eifersucht = jealousy in relationships. Neid auf + Akkusativ.",
+      "mnemonic": "Neid rhymes with 'Leid' – both feel bad.",
+      "germany_context": null,
+      "emoji": "😒",
+      "imageable": false,
+      "tags": [
+        "emotion",
+        "negative"
+      ],
+      "synonyms": [
+        "die Eifersucht"
+      ],
+      "antonyms": [],
+      "related": [
+        "eifersucht"
+      ]
+    },
+    {
+      "id": "mitleid",
+      "word": "das Mitleid",
+      "lemma": "Mitleid",
+      "translation": "pity",
+      "translations": [
+        "pity",
+        "compassion",
+        "sympathy"
+      ],
+      "level": "A2",
+      "category": "Feelings & Personality",
+      "partOfSpeech": "noun",
+      "frequency": 2300,
+      "gender": "n",
+      "article": "das",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "des Mitleids"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich habe Mitleid mit dem alten Hund.",
+          "en": "I feel sorry for the old dog."
+        },
+        {
+          "de": "Sie will kein Mitleid, sondern Hilfe.",
+          "en": "She doesn't want pity, but help."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Hab kein ___ mit mir, mir geht es gut.",
+          "answer": "Mitleid",
+          "en": "Don't pity me, I'm doing fine."
+        }
+      ],
+      "notes": "mit + Leid = suffering with someone. 'Mitleid haben mit + Dativ'.",
+      "mnemonic": "mit-Leid: you suffer along.",
+      "germany_context": null,
+      "emoji": "💗",
+      "imageable": false,
+      "tags": [
+        "emotion",
+        "social"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "trauer",
+        "troesten"
+      ]
+    },
+    {
+      "id": "enttaeuschung",
+      "word": "die Enttäuschung",
+      "lemma": "Enttäuschung",
+      "translation": "disappointment",
+      "translations": [
+        "disappointment"
+      ],
+      "level": "A2",
+      "category": "Feelings & Personality",
+      "partOfSpeech": "noun",
+      "frequency": 1900,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Enttäuschungen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "der Enttäuschung"
+      },
+      "example_sentences": [
+        {
+          "de": "Die Absage war eine große Enttäuschung.",
+          "en": "The rejection was a big disappointment."
+        },
+        {
+          "de": "Nach der Enttäuschung hat er weitergesucht.",
+          "en": "After the disappointment he kept searching."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Das Konzert war leider eine ___.",
+          "answer": "Enttäuschung",
+          "en": "Unfortunately the concert was a disappointment."
+        }
+      ],
+      "notes": "All -ung nouns are feminine.",
+      "mnemonic": "ent-täuschen (to undeceive) → die Enttäuschung.",
+      "germany_context": null,
+      "emoji": "😞",
+      "imageable": false,
+      "tags": [
+        "emotion",
+        "negative"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "die Freude"
+      ],
+      "related": [
+        "bereuen",
+        "trauer"
+      ]
+    },
+    {
+      "id": "selbstvertrauen",
+      "word": "das Selbstvertrauen",
+      "lemma": "Selbstvertrauen",
+      "translation": "self-confidence",
+      "translations": [
+        "self-confidence"
+      ],
+      "level": "A2",
+      "category": "Feelings & Personality",
+      "partOfSpeech": "noun",
+      "frequency": 2350,
+      "gender": "n",
+      "article": "das",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "des Selbstvertrauens"
+      },
+      "example_sentences": [
+        {
+          "de": "Nach dem Sprachkurs hatte er mehr Selbstvertrauen.",
+          "en": "After the language course he had more self-confidence."
+        },
+        {
+          "de": "Selbstvertrauen hilft im Vorstellungsgespräch.",
+          "en": "Self-confidence helps in a job interview."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ihr ___ ist in den letzten Monaten gewachsen.",
+          "answer": "Selbstvertrauen",
+          "en": "Her self-confidence has grown in the last few months."
+        }
+      ],
+      "notes": "Compound of selbst + Vertrauen; the gender always comes from the last part (das Vertrauen).",
+      "mnemonic": "Selbst + Vertrauen = trust in yourself → das, like das Vertrauen.",
+      "germany_context": null,
+      "emoji": "💪",
+      "imageable": false,
+      "tags": [
+        "character",
+        "positive",
+        "work"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "vertrauen",
+        "mut",
+        "mutig"
+      ]
+    },
+    {
+      "id": "frust",
+      "word": "der Frust",
+      "lemma": "Frust",
+      "translation": "frustration",
+      "translations": [
+        "frustration"
+      ],
+      "level": "A2",
+      "category": "Feelings & Personality",
+      "partOfSpeech": "noun",
+      "frequency": 2150,
+      "gender": "m",
+      "article": "der",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "des Frusts"
+      },
+      "example_sentences": [
+        {
+          "de": "Nach dem dritten Termin beim Amt war der Frust groß.",
+          "en": "After the third appointment at the office the frustration was great."
+        },
+        {
+          "de": "Aus Frust hat er das Projekt abgegeben.",
+          "en": "Out of frustration he handed the project over."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der ___ bei der Wohnungssuche ist normal.",
+          "answer": "Frust",
+          "en": "Frustration during a flat search is normal."
+        }
+      ],
+      "notes": "Colloquial short form of 'die Frustration'. Very common in spoken German; the adjective is 'frustriert'.",
+      "mnemonic": "der Frust – short, blunt, masculine.",
+      "germany_context": null,
+      "emoji": "😤",
+      "imageable": false,
+      "tags": [
+        "emotion",
+        "negative",
+        "colloquial"
+      ],
+      "synonyms": [
+        "der Ärger"
+      ],
+      "antonyms": [],
+      "related": [
+        "aerger",
+        "ungeduld",
+        "stress"
+      ]
+    },
+    {
+      "id": "schock",
+      "word": "der Schock",
+      "lemma": "Schock",
+      "translation": "shock",
+      "translations": [
+        "shock"
+      ],
+      "level": "A2",
+      "category": "Feelings & Personality",
+      "partOfSpeech": "noun",
+      "frequency": 2050,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Schocks",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "des Schocks"
+      },
+      "example_sentences": [
+        {
+          "de": "Die Nebenkostenabrechnung war ein Schock.",
+          "en": "The utilities bill was a shock."
+        },
+        {
+          "de": "Er stand unter Schock.",
+          "en": "He was in shock."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Preis war ein richtiger ___.",
+          "answer": "Schock",
+          "en": "The price was a real shock."
+        }
+      ],
+      "notes": "'Unter Schock stehen' = to be in shock (medical or emotional).",
+      "mnemonic": "Same as English 'shock', masculine in German.",
+      "germany_context": "Once a year your landlord sends the Nebenkostenabrechnung, the settlement of heating and utility costs. A Nachzahlung of several hundred euros is common – set money aside for it.",
+      "emoji": "😲",
+      "imageable": false,
+      "tags": [
+        "emotion",
+        "negative"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "schockiert",
+        "ueberraschung"
+      ]
+    },
+    {
+      "id": "ungeduld",
+      "word": "die Ungeduld",
+      "lemma": "Ungeduld",
+      "translation": "impatience",
+      "translations": [
+        "impatience"
+      ],
+      "level": "A2",
+      "category": "Feelings & Personality",
+      "partOfSpeech": "noun",
+      "frequency": 2500,
+      "gender": "f",
+      "article": "die",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "der Ungeduld"
+      },
+      "example_sentences": [
+        {
+          "de": "Seine Ungeduld war im Wartezimmer deutlich zu sehen.",
+          "en": "His impatience was clearly visible in the waiting room."
+        },
+        {
+          "de": "Mit Ungeduld geht es nicht schneller.",
+          "en": "Things don't go faster with impatience."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Sie wartet voller ___ auf die Antwort.",
+          "answer": "Ungeduld",
+          "en": "She is waiting for the answer full of impatience."
+        }
+      ],
+      "notes": "un- turns a noun into its opposite: Geduld / Ungeduld, Glück / Unglück.",
+      "mnemonic": "un- = not: Ungeduld is Geduld's opposite, same gender.",
+      "germany_context": null,
+      "emoji": "⌛",
+      "imageable": false,
+      "tags": [
+        "character",
+        "negative"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "die Geduld"
+      ],
+      "related": [
+        "geduld",
+        "frust"
+      ]
+    },
+    {
+      "id": "nerven",
+      "word": "nerven",
+      "lemma": "nerven",
+      "translation": "to annoy",
+      "translations": [
+        "to annoy",
+        "to get on someone's nerves"
+      ],
+      "level": "A2",
+      "category": "Feelings & Personality",
+      "partOfSpeech": "verb",
+      "frequency": 1250,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "nerve",
+        "du": "nervst",
+        "er": "nervt",
+        "wir": "nerven",
+        "ihr": "nervt",
+        "sie": "nerven",
+        "praeteritum": "nervte",
+        "perfekt": "hat genervt",
+        "imperativ": "nerv(e) nicht!"
+      },
+      "example_sentences": [
+        {
+          "de": "Der Lärm von der Baustelle nervt mich.",
+          "en": "The noise from the building site annoys me."
+        },
+        {
+          "de": "Nerv mich bitte nicht, ich arbeite gerade.",
+          "en": "Please don't bug me, I'm working."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Diese Werbung ___ echt.",
+          "answer": "nervt",
+          "en": "This advert is really annoying."
+        }
+      ],
+      "notes": "Extremely common in spoken German. 'Das nervt!' = 'That's annoying!' Takes an accusative object.",
+      "mnemonic": "der Nerv → nerven: it goes on your nerves.",
+      "germany_context": null,
+      "emoji": "🙄",
+      "imageable": false,
+      "tags": [
+        "verb",
+        "emotion",
+        "colloquial",
+        "negative"
+      ],
+      "synonyms": [
+        "stören"
+      ],
+      "antonyms": [],
+      "related": [
+        "stoeren",
+        "aerger",
+        "aergern"
+      ]
+    },
+    {
+      "id": "troesten",
+      "word": "trösten",
+      "lemma": "trösten",
+      "translation": "to comfort",
+      "translations": [
+        "to comfort",
+        "to console"
+      ],
+      "level": "A2",
+      "category": "Feelings & Personality",
+      "partOfSpeech": "verb",
+      "frequency": 2200,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "tröste",
+        "du": "tröstest",
+        "er": "tröstet",
+        "wir": "trösten",
+        "ihr": "tröstet",
+        "sie": "trösten",
+        "praeteritum": "tröstete",
+        "perfekt": "hat getröstet",
+        "imperativ": "tröste!"
+      },
+      "example_sentences": [
+        {
+          "de": "Sie tröstet ihre kleine Tochter.",
+          "en": "She is comforting her little daughter."
+        },
+        {
+          "de": "Ein Anruf von zu Hause hat mich getröstet.",
+          "en": "A call from home comforted me."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Er ___ seinen Freund nach der schlechten Nachricht.",
+          "answer": "tröstet",
+          "en": "He comforts his friend after the bad news."
+        }
+      ],
+      "notes": "Stem ends in -st, so du and er get an extra e: du tröstest, er tröstet.",
+      "mnemonic": "der Trost (comfort) → trösten.",
+      "germany_context": null,
+      "emoji": "🫂",
+      "imageable": false,
+      "tags": [
+        "verb",
+        "emotion",
+        "social"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "mitleid",
+        "trauer",
+        "einsamkeit"
+      ]
+    },
+    {
+      "id": "mutig",
+      "word": "mutig",
+      "lemma": "mutig",
+      "translation": "brave",
+      "translations": [
+        "brave",
+        "courageous"
+      ],
+      "level": "A2",
+      "category": "Feelings & Personality",
+      "partOfSpeech": "adjective",
+      "frequency": 1500,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "komparativ": "mutiger",
+        "superlativ": "am mutigsten"
+      },
+      "example_sentences": [
+        {
+          "de": "Das war sehr mutig von dir.",
+          "en": "That was very brave of you."
+        },
+        {
+          "de": "Sei mutig und sprich einfach Deutsch!",
+          "en": "Be brave and just speak German!"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ein ___ Mensch fragt einfach nach.",
+          "answer": "mutiger",
+          "en": "A brave person simply asks."
+        }
+      ],
+      "notes": "In the cloze the adjective stands before a masculine noun with no article, so it takes the ending -er.",
+      "mnemonic": "der Mut → mutig.",
+      "germany_context": null,
+      "emoji": "🦁",
+      "imageable": false,
+      "tags": [
+        "adjective",
+        "character",
+        "positive"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "ängstlich"
+      ],
+      "related": [
+        "mut",
+        "selbstvertrauen",
+        "angst"
+      ]
+    },
+    {
+      "id": "gelassen",
+      "word": "gelassen",
+      "lemma": "gelassen",
+      "translation": "calm",
+      "translations": [
+        "calm",
+        "composed",
+        "unfazed"
+      ],
+      "level": "A2",
+      "category": "Feelings & Personality",
+      "partOfSpeech": "adjective",
+      "frequency": 2400,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "komparativ": "gelassener",
+        "superlativ": "am gelassensten"
+      },
+      "example_sentences": [
+        {
+          "de": "Er bleibt auch im Stress gelassen.",
+          "en": "He stays calm even under stress."
+        },
+        {
+          "de": "Meine Kollegin reagiert immer gelassen.",
+          "en": "My colleague always reacts calmly."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Bleib bitte ___, wir schaffen das.",
+          "answer": "gelassen",
+          "en": "Please stay calm, we'll manage it."
+        }
+      ],
+      "notes": "Describes a calm attitude, not a quiet room – for that use 'ruhig'.",
+      "mnemonic": "You 'let it go' (lassen) → gelassen.",
+      "germany_context": null,
+      "emoji": "😌",
+      "imageable": false,
+      "tags": [
+        "adjective",
+        "character",
+        "positive"
+      ],
+      "synonyms": [
+        "ruhig",
+        "entspannt"
+      ],
+      "antonyms": [
+        "gestresst"
+      ],
+      "related": [
+        "ruhe",
+        "beruhigen",
+        "geduld"
+      ]
+    },
+    {
+      "id": "ehrgeizig",
+      "word": "ehrgeizig",
+      "lemma": "ehrgeizig",
+      "translation": "ambitious",
+      "translations": [
+        "ambitious"
+      ],
+      "level": "A2",
+      "category": "Feelings & Personality",
+      "partOfSpeech": "adjective",
+      "frequency": 2300,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "komparativ": "ehrgeiziger",
+        "superlativ": "am ehrgeizigsten"
+      },
+      "example_sentences": [
+        {
+          "de": "Meine neue Kollegin ist sehr ehrgeizig.",
+          "en": "My new colleague is very ambitious."
+        },
+        {
+          "de": "Er hat ehrgeizige Pläne für dieses Jahr.",
+          "en": "He has ambitious plans for this year."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Für diesen Job muss man ___ sein.",
+          "answer": "ehrgeizig",
+          "en": "For this job you have to be ambitious."
+        }
+      ],
+      "notes": "From 'der Ehrgeiz' (ambition). Neutral to slightly positive in a work context.",
+      "mnemonic": "Ehre (honour) + Geiz (greed) = greedy for honour.",
+      "germany_context": null,
+      "emoji": "🎯",
+      "imageable": false,
+      "tags": [
+        "adjective",
+        "character",
+        "work"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "charakter",
+        "persoenlichkeit"
+      ]
+    },
+    {
+      "id": "verzweifelt",
+      "word": "verzweifelt",
+      "lemma": "verzweifelt",
+      "translation": "desperate",
+      "translations": [
+        "desperate",
+        "in despair"
+      ],
+      "level": "A2",
+      "category": "Feelings & Personality",
+      "partOfSpeech": "adjective",
+      "frequency": 2450,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "komparativ": "verzweifelter",
+        "superlativ": "am verzweifeltsten"
+      },
+      "example_sentences": [
+        {
+          "de": "Nach dreißig Absagen war er ganz verzweifelt.",
+          "en": "After thirty rejections he was completely desperate."
+        },
+        {
+          "de": "Sie klang am Telefon verzweifelt.",
+          "en": "She sounded desperate on the phone."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Sei nicht ___, wir finden eine Lösung.",
+          "answer": "verzweifelt",
+          "en": "Don't despair, we'll find a solution."
+        }
+      ],
+      "notes": "From 'der Zweifel' (doubt) via 'verzweifeln' (to despair). Stronger than 'traurig'.",
+      "mnemonic": "Zweifel (doubt) taken to the extreme.",
+      "germany_context": null,
+      "emoji": "😩",
+      "imageable": false,
+      "tags": [
+        "adjective",
+        "emotion",
+        "negative"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "gelassen"
+      ],
+      "related": [
+        "frust",
+        "trauer",
+        "hoffnung"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4255 @@
+{
+  "category": "Restaurant & Café",
+  "words": [
+    {
+      "id": "restaurant",
+      "word": "das Restaurant",
+      "lemma": "Restaurant",
+      "translation": "restaurant",
+      "translations": [
+        "restaurant"
+      ],
+      "level": "A1",
+      "category": "Restaurant & Café",
+      "partOfSpeech": "noun",
+      "frequency": 180,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Restaurants",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Das Restaurant ist heute geschlossen.",
+          "en": "The restaurant is closed today."
+        },
+        {
+          "de": "Kennst du ein gutes Restaurant hier in der Nähe?",
+          "en": "Do you know a good restaurant near here?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wir gehen heute Abend in ein italienisches ___.",
+          "answer": "Restaurant",
+          "en": "We're going to an Italian restaurant tonight."
+        }
+      ],
+      "notes": "Pronounced in the French way: 'Restorãː'. The final -t is soft.",
+      "mnemonic": "Same word as English, so it takes the 'foreign' neuter: das Restaurant.",
+      "germany_context": "In many German restaurants you seat yourself — just look for a free table and sit down. Only in fancier places or when a sign says 'Sie werden platziert' do you wait to be seated.",
+      "emoji": "🍽️",
+      "imageable": true,
+      "tags": [
+        "restaurant",
+        "places",
+        "essential"
+      ],
+      "synonyms": [
+        "das Lokal"
+      ],
+      "antonyms": [],
+      "related": [
+        "cafe",
+        "kneipe",
+        "speisekarte"
+      ]
+    },
+    {
+      "id": "cafe",
+      "word": "das Café",
+      "lemma": "Café",
+      "translation": "café",
+      "translations": [
+        "café",
+        "coffee shop"
+      ],
+      "level": "A1",
+      "category": "Restaurant & Café",
+      "partOfSpeech": "noun",
+      "frequency": 240,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Cafés",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Das Café an der Ecke hat sehr guten Kuchen.",
+          "en": "The café on the corner has very good cake."
+        },
+        {
+          "de": "Treffen wir uns um drei im Café?",
+          "en": "Shall we meet at the café at three?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich arbeite oft in einem ___ mit WLAN.",
+          "answer": "Café",
+          "en": "I often work in a café with Wi-Fi."
+        }
+      ],
+      "notes": "Note the accent: Café (the place) vs. Kaffee (the drink).",
+      "mnemonic": "Café with an é is the place; Kaffee with two e's is the drink.",
+      "germany_context": "Sunday afternoon 'Kaffee und Kuchen' around 15:00 is a real institution — cafés are packed, so reserve for larger groups.",
+      "emoji": "☕",
+      "imageable": true,
+      "tags": [
+        "restaurant",
+        "places",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "restaurant"
+      ]
+    },
+    {
+      "id": "kneipe",
+      "word": "die Kneipe",
+      "lemma": "Kneipe",
+      "translation": "pub",
+      "translations": [
+        "pub",
+        "bar"
+      ],
+      "level": "A2",
+      "category": "Restaurant & Café",
+      "partOfSpeech": "noun",
+      "frequency": 900,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Kneipen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "In der Kneipe war es gestern sehr laut.",
+          "en": "It was very loud in the pub yesterday."
+        },
+        {
+          "de": "Wir trinken noch ein Bier in der Kneipe.",
+          "en": "We're having another beer at the pub."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Nach der Arbeit gehen die Kollegen in die ___.",
+          "answer": "Kneipe",
+          "en": "After work the colleagues go to the pub."
+        }
+      ],
+      "notes": "A Kneipe is a simple, cosy neighbourhood pub — food is basic, beer is the point.",
+      "mnemonic": "Kneipe sounds like 'knee-pa' — where you rest your knees after work.",
+      "germany_context": "Kneipen are usually cash-friendly and often cash-only; you pay at your table when you leave, not at the bar.",
+      "emoji": "🍺",
+      "imageable": true,
+      "tags": [
+        "restaurant",
+        "places",
+        "nightlife"
+      ],
+      "synonyms": [
+        "die Bar"
+      ],
+      "antonyms": [],
+      "related": [
+        "bar",
+        "biergarten"
+      ]
+    },
+    {
+      "id": "bar",
+      "word": "die Bar",
+      "lemma": "Bar",
+      "translation": "bar",
+      "translations": [
+        "bar"
+      ],
+      "level": "A2",
+      "category": "Restaurant & Café",
+      "partOfSpeech": "noun",
+      "frequency": 950,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Bars",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Bar macht erst um acht Uhr auf.",
+          "en": "The bar doesn't open until eight o'clock."
+        },
+        {
+          "de": "An der Bar gibt es gute Cocktails.",
+          "en": "There are good cocktails at the bar."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wir haben uns in einer kleinen ___ in Kreuzberg getroffen.",
+          "answer": "Bar",
+          "en": "We met in a small bar in Kreuzberg."
+        }
+      ],
+      "notes": "'An der Bar' can mean both 'at the bar counter' and 'at the bar venue'.",
+      "mnemonic": "Die Bar — foreign but feminine, like die Party.",
+      "germany_context": null,
+      "emoji": "🍸",
+      "imageable": true,
+      "tags": [
+        "restaurant",
+        "places",
+        "nightlife"
+      ],
+      "synonyms": [
+        "die Kneipe"
+      ],
+      "antonyms": [],
+      "related": [
+        "kneipe"
+      ]
+    },
+    {
+      "id": "imbiss",
+      "word": "der Imbiss",
+      "lemma": "Imbiss",
+      "translation": "snack bar",
+      "translations": [
+        "snack bar",
+        "food stand"
+      ],
+      "level": "A2",
+      "category": "Restaurant & Café",
+      "partOfSpeech": "noun",
+      "frequency": 1050,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Imbisse",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Am Bahnhof gibt es einen türkischen Imbiss.",
+          "en": "There is a Turkish snack bar at the station."
+        },
+        {
+          "de": "Der Imbiss hat bis Mitternacht offen.",
+          "en": "The snack bar is open until midnight."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Mittags esse ich schnell etwas am ___.",
+          "answer": "Imbiss",
+          "en": "At lunchtime I quickly eat something at the snack bar."
+        }
+      ],
+      "notes": "Imbiss = the small stand or shop; 'Dönerbude' and 'Pommesbude' are informal versions.",
+      "mnemonic": "Imbiss ~ 'in-bite' — a quick bite standing up.",
+      "germany_context": "Imbisse are almost always cash-only and are one of the few places open late and on Sundays, when supermarkets are shut.",
+      "emoji": "🌭",
+      "imageable": true,
+      "tags": [
+        "restaurant",
+        "places",
+        "fastfood"
+      ],
+      "synonyms": [
+        "die Bude"
+      ],
+      "antonyms": [],
+      "related": [
+        "currywurst",
+        "pommes",
+        "bargeld"
+      ]
+    },
+    {
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "category": "Restaurant & Café",
+      "partOfSpeech": "noun",
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "ruhetag",
+        "lokal",
+        "cafe"
+      ],
+      "id": "oeffnungszeit",
+      "word": "die Öffnungszeit",
+      "lemma": "Öffnungszeit",
+      "translation": "opening hours",
+      "translations": [
+        "opening hours",
+        "opening time"
+      ],
+      "level": "A2",
+      "frequency": 750,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Öffnungszeiten",
+      "example_sentences": [
+        {
+          "de": "Die Öffnungszeiten stehen an der Tür.",
+          "en": "The opening hours are on the door."
+        },
+        {
+          "de": "Hat das Café am Sonntag andere Öffnungszeiten?",
+          "en": "Does the café have different opening hours on Sunday?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Bitte beachten Sie unsere neue ___ ab Montag.",
+          "answer": "Öffnungszeit",
+          "en": "Please note our new opening time from Monday."
+        }
+      ],
+      "notes": "Almost always used in the plural: die Öffnungszeiten.",
+      "mnemonic": "öffnen + Zeit: the time when it opens.",
+      "germany_context": "Shops are closed on Sundays and public holidays by law; restaurants and cafés may open, but many have a Ruhetag and a break between lunch and dinner.",
+      "emoji": "🕐",
+      "imageable": false,
+      "tags": [
+        "restaurant",
+        "time",
+        "essential"
+      ]
+    },
+    {
+      "id": "metzgerei",
+      "word": "die Metzgerei",
+      "lemma": "Metzgerei",
+      "translation": "butcher's shop",
+      "translations": [
+        "butcher's shop",
+        "butcher"
+      ],
+      "level": "A2",
+      "category": "Restaurant & Café",
+      "partOfSpeech": "noun",
+      "frequency": 1300,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Metzgereien",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "In der Metzgerei kaufe ich frische Wurst.",
+          "en": "I buy fresh sausage at the butcher's shop."
+        },
+        {
+          "de": "Die Metzgerei um die Ecke ist sehr gut.",
+          "en": "The butcher's shop around the corner is very good."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Mittags gibt es in der ___ auch warme Gerichte.",
+          "answer": "Metzgerei",
+          "en": "At lunchtime the butcher's shop also serves warm dishes."
+        }
+      ],
+      "notes": "In northern Germany people often say 'Fleischerei' or 'Schlachterei' instead.",
+      "mnemonic": "-ei → die, like die Bäckerei.",
+      "germany_context": "Many Metzgereien have a small lunch counter with cheap hot meals — a local secret for a quick, good-value Mittagessen.",
+      "emoji": "🥩",
+      "imageable": true,
+      "tags": [
+        "restaurant",
+        "places",
+        "shopping"
+      ],
+      "synonyms": [
+        "die Fleischerei"
+      ],
+      "antonyms": [],
+      "related": [
+        "currywurst"
+      ]
+    },
+    {
+      "id": "biergarten",
+      "word": "der Biergarten",
+      "lemma": "Biergarten",
+      "translation": "beer garden",
+      "translations": [
+        "beer garden"
+      ],
+      "level": "A2",
+      "category": "Restaurant & Café",
+      "partOfSpeech": "noun",
+      "frequency": 1150,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Biergärten",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Im Sommer sitzen wir gern im Biergarten.",
+          "en": "In summer we like sitting in the beer garden."
+        },
+        {
+          "de": "Der Biergarten ist bei gutem Wetter voll.",
+          "en": "The beer garden is full when the weather is good."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Am Sonntag treffen wir uns im ___ am See.",
+          "answer": "Biergarten",
+          "en": "On Sunday we're meeting at the beer garden by the lake."
+        }
+      ],
+      "notes": "Der Garten → der Biergarten. The last part of a compound decides the gender.",
+      "mnemonic": "der Garten stays der in every compound.",
+      "germany_context": "In a traditional Biergarten you may bring your own food but must buy the drinks there; you order and pay at the counter, so no tip is expected.",
+      "emoji": "🌳",
+      "imageable": true,
+      "tags": [
+        "restaurant",
+        "places",
+        "culture"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "kneipe"
+      ]
+    },
+    {
+      "id": "kellner",
+      "word": "der Kellner",
+      "lemma": "Kellner",
+      "translation": "waiter",
+      "translations": [
+        "waiter",
+        "server"
+      ],
+      "level": "A1",
+      "category": "Restaurant & Café",
+      "partOfSpeech": "noun",
+      "frequency": 620,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Kellner",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Kellner bringt gleich die Getränke.",
+          "en": "The waiter is bringing the drinks right away."
+        },
+        {
+          "de": "Wir haben den Kellner nach der Rechnung gefragt.",
+          "en": "We asked the waiter for the bill."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Entschuldigung, wo ist der ___?",
+          "answer": "Kellner",
+          "en": "Excuse me, where is the waiter?"
+        }
+      ],
+      "notes": "Never call a waiter with 'Herr Ober!' — that is very old-fashioned. Just say 'Entschuldigung'.",
+      "mnemonic": "Kellner ~ 'cellar-man' bringing up the wine.",
+      "germany_context": "Waiters do not check on you constantly; making eye contact or raising a hand is the normal, polite way to get attention.",
+      "emoji": "🧑‍🍳",
+      "imageable": true,
+      "tags": [
+        "restaurant",
+        "people"
+      ],
+      "synonyms": [
+        "die Bedienung"
+      ],
+      "antonyms": [],
+      "related": [
+        "kellnerin",
+        "bedienung",
+        "bedienen"
+      ]
+    },
+    {
+      "id": "kellnerin",
+      "word": "die Kellnerin",
+      "lemma": "Kellnerin",
+      "translation": "waitress",
+      "translations": [
+        "waitress",
+        "female server"
+      ],
+      "level": "A1",
+      "category": "Restaurant & Café",
+      "partOfSpeech": "noun",
+      "frequency": 680,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Kellnerinnen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Kellnerin war heute sehr freundlich.",
+          "en": "The waitress was very friendly today."
+        },
+        {
+          "de": "Frag bitte die Kellnerin nach der Speisekarte.",
+          "en": "Please ask the waitress for the menu."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Die ___ hat unsere Bestellung aufgeschrieben.",
+          "answer": "Kellnerin",
+          "en": "The waitress wrote down our order."
+        }
+      ],
+      "notes": "-in makes the female form and is always feminine: der Kellner → die Kellnerin.",
+      "mnemonic": "-in → die, always.",
+      "germany_context": null,
+      "emoji": "👩‍🍳",
+      "imageable": true,
+      "tags": [
+        "restaurant",
+        "people"
+      ],
+      "synonyms": [
+        "die Bedienung"
+      ],
+      "antonyms": [],
+      "related": [
+        "kellner",
+        "bedienung"
+      ]
+    },
+    {
+      "id": "bedienung",
+      "word": "die Bedienung",
+      "lemma": "Bedienung",
+      "translation": "service",
+      "translations": [
+        "service",
+        "waiter/waitress"
+      ],
+      "level": "A2",
+      "category": "Restaurant & Café",
+      "partOfSpeech": "noun",
+      "frequency": 830,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Bedienungen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Bedienung war leider sehr langsam.",
+          "en": "The service was unfortunately very slow."
+        },
+        {
+          "de": "Ich rufe kurz die Bedienung.",
+          "en": "I'll call the server for a moment."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Das Essen war gut und die ___ auch.",
+          "answer": "Bedienung",
+          "en": "The food was good and so was the service."
+        }
+      ],
+      "notes": "Bedienung means both the service and the person serving you — a neutral word for waiter or waitress.",
+      "mnemonic": "-ung → die, always.",
+      "germany_context": "'Selbstbedienung' (self-service) on a sign means you order and collect at the counter — and no tip is expected there.",
+      "emoji": "🔔",
+      "imageable": false,
+      "tags": [
+        "restaurant",
+        "people",
+        "service"
+      ],
+      "synonyms": [
+        "der Kellner",
+        "die Kellnerin"
+      ],
+      "antonyms": [],
+      "related": [
+        "kellner",
+        "bedienen",
+        "trinkgeld"
+      ]
+    },
+    {
+      "id": "speisekarte",
+      "word": "die Speisekarte",
+      "lemma": "Speisekarte",
+      "translation": "menu",
+      "translations": [
+        "menu",
+        "food menu"
+      ],
+      "level": "A1",
+      "category": "Restaurant & Café",
+      "partOfSpeech": "noun",
+      "frequency": 350,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Speisekarten",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Können wir bitte die Speisekarte haben?",
+          "en": "Could we have the menu, please?"
+        },
+        {
+          "de": "Auf der Speisekarte steht alles auf Deutsch.",
+          "en": "Everything on the menu is in German."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Kellner bringt uns gleich die ___.",
+          "answer": "Speisekarte",
+          "en": "The waiter will bring us the menu shortly."
+        }
+      ],
+      "notes": "Often shortened to just 'die Karte': 'Die Karte, bitte.'",
+      "mnemonic": "die Karte → die Speisekarte; all -karte compounds are feminine.",
+      "germany_context": "Many places only have a German menu; an English one usually exists only in tourist areas — ask 'Haben Sie eine Karte auf Englisch?'",
+      "emoji": "📋",
+      "imageable": true,
+      "tags": [
+        "restaurant",
+        "ordering",
+        "essential"
+      ],
+      "synonyms": [
+        "die Karte"
+      ],
+      "antonyms": [],
+      "related": [
+        "getraenkekarte",
+        "tageskarte",
+        "die-speisekarte-bitte"
+      ]
+    },
+    {
+      "id": "tageskarte",
+      "word": "die Tageskarte",
+      "lemma": "Tageskarte",
+      "translation": "menu of the day",
+      "translations": [
+        "menu of the day",
+        "daily specials"
+      ],
+      "level": "A2",
+      "category": "Restaurant & Café",
+      "partOfSpeech": "noun",
+      "frequency": 1400,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Tageskarten",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Tageskarte hängt an der Tür.",
+          "en": "The daily menu is hanging on the door."
+        },
+        {
+          "de": "Auf der Tageskarte steht heute Fisch.",
+          "en": "Today there is fish on the daily menu."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Haben Sie auch eine ___?",
+          "answer": "Tageskarte",
+          "en": "Do you also have a menu of the day?"
+        }
+      ],
+      "notes": "Careful: 'Tageskarte' also means a day ticket for public transport.",
+      "mnemonic": "Karte of the Tag — the dishes only for today.",
+      "germany_context": "The 'Mittagstisch' or Tageskarte at lunchtime is usually much cheaper than the evening menu — a common way to eat well for under 12 euros.",
+      "emoji": "📝",
+      "imageable": true,
+      "tags": [
+        "restaurant",
+        "ordering"
+      ],
+      "synonyms": [
+        "der Mittagstisch"
+      ],
+      "antonyms": [],
+      "related": [
+        "speisekarte",
+        "gericht"
+      ]
+    },
+    {
+      "id": "getraenkekarte",
+      "word": "die Getränkekarte",
+      "lemma": "Getränkekarte",
+      "translation": "drinks menu",
+      "translations": [
+        "drinks menu",
+        "wine list"
+      ],
+      "level": "A2",
+      "category": "Restaurant & Café",
+      "partOfSpeech": "noun",
+      "frequency": 1250,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Getränkekarten",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Könnte ich bitte die Getränkekarte sehen?",
+          "en": "Could I see the drinks menu, please?"
+        },
+        {
+          "de": "Die Getränkekarte liegt auf dem Tisch.",
+          "en": "The drinks menu is on the table."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Auf der ___ stehen viele Weine aus der Region.",
+          "answer": "Getränkekarte",
+          "en": "There are many regional wines on the drinks menu."
+        }
+      ],
+      "notes": "Often the drinks are printed on the back of the Speisekarte.",
+      "mnemonic": "Getränke + Karte → the card of drinks.",
+      "germany_context": null,
+      "emoji": "🍷",
+      "imageable": true,
+      "tags": [
+        "restaurant",
+        "ordering",
+        "drinks"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "speisekarte"
+      ]
+    },
+    {
+      "id": "gericht",
+      "word": "das Gericht",
+      "lemma": "Gericht",
+      "translation": "dish",
+      "translations": [
+        "dish",
+        "course"
+      ],
+      "level": "A2",
+      "category": "Restaurant & Café",
+      "partOfSpeech": "noun",
+      "frequency": 780,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Gerichte",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Dieses Gericht ist sehr beliebt.",
+          "en": "This dish is very popular."
+        },
+        {
+          "de": "Gibt es auch Gerichte ohne Fleisch?",
+          "en": "Are there also dishes without meat?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Welches ___ können Sie mir empfehlen?",
+          "answer": "Gericht",
+          "en": "Which dish can you recommend to me?"
+        }
+      ],
+      "notes": "False friend alert: 'das Gericht' also means 'court of law'. Context makes it clear.",
+      "mnemonic": "Ge- words are usually neuter: das Gericht, das Getränk, das Geschäft.",
+      "germany_context": null,
+      "emoji": "🍲",
+      "imageable": true,
+      "tags": [
+        "restaurant",
+        "food",
+        "ordering"
+      ],
+      "synonyms": [
+        "die Speise"
+      ],
+      "antonyms": [],
+      "related": [
+        "tageskarte",
+        "spezialitaet"
+      ]
+    },
+    {
+      "id": "menue",
+      "word": "das Menü",
+      "lemma": "Menü",
+      "translation": "set meal",
+      "translations": [
+        "set meal",
+        "fixed menu"
+      ],
+      "level": "A2",
+      "category": "Restaurant & Café",
+      "partOfSpeech": "noun",
+      "frequency": 1100,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Menüs",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Das Menü kostet 15 Euro.",
+          "en": "The set meal costs 15 euros."
+        },
+        {
+          "de": "Wir nehmen zweimal das Menü.",
+          "en": "We'll take the set meal twice."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Im ___ sind Suppe und Nachtisch inklusive.",
+          "answer": "Menü",
+          "en": "Soup and dessert are included in the set meal."
+        }
+      ],
+      "notes": "False friend: 'Menü' is a fixed multi-course meal, not the list of dishes. The list is 'die Speisekarte'.",
+      "mnemonic": "Menü = several courses; Karte = the list.",
+      "germany_context": null,
+      "emoji": "🍱",
+      "imageable": false,
+      "tags": [
+        "restaurant",
+        "ordering"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "speisekarte"
+      ]
+    },
+    {
+      "id": "bestellung",
+      "word": "die Bestellung",
+      "lemma": "Bestellung",
+      "translation": "order",
+      "translations": [
+        "order"
+      ],
+      "level": "A2",
+      "category": "Restaurant & Café",
+      "partOfSpeech": "noun",
+      "frequency": 700,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Bestellungen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich möchte meine Bestellung ändern.",
+          "en": "I would like to change my order."
+        },
+        {
+          "de": "Die Bestellung dauert heute leider länger.",
+          "en": "The order is unfortunately taking longer today."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Darf ich Ihre ___ aufnehmen?",
+          "answer": "Bestellung",
+          "en": "May I take your order?"
+        }
+      ],
+      "notes": "'Die Bestellung aufnehmen' is the fixed phrase waiters use for taking an order.",
+      "mnemonic": "-ung → die, always.",
+      "germany_context": null,
+      "emoji": "🧾",
+      "imageable": false,
+      "tags": [
+        "restaurant",
+        "ordering"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "ich-haette-gern",
+        "ich-nehme",
+        "kellner"
+      ]
+    },
+    {
+      "id": "beilage",
+      "word": "die Beilage",
+      "lemma": "Beilage",
+      "translation": "side dish",
+      "translations": [
+        "side dish",
+        "side"
+      ],
+      "level": "A2",
+      "category": "Restaurant & Café",
+      "partOfSpeech": "noun",
+      "frequency": 1350,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Beilagen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Als Beilage nehme ich Salat.",
+          "en": "I'll have salad as a side dish."
+        },
+        {
+          "de": "Welche Beilagen gibt es?",
+          "en": "What side dishes are there?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Zum Schnitzel bekommen Sie eine ___ Ihrer Wahl.",
+          "answer": "Beilage",
+          "en": "With the schnitzel you get a side dish of your choice."
+        }
+      ],
+      "notes": "Typical Beilagen: Pommes, Kartoffeln, Reis, Salat, Gemüse.",
+      "mnemonic": "bei + legen = laid beside the main dish.",
+      "germany_context": null,
+      "emoji": "🥔",
+      "imageable": true,
+      "tags": [
+        "restaurant",
+        "food",
+        "ordering"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "pommes"
+      ]
+    },
+    {
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "category": "Restaurant & Café",
+      "partOfSpeech": "noun",
+      "synonyms": [
+        "die Mensa"
+      ],
+      "antonyms": [],
+      "related": [
+        "mensa",
+        "mittagstisch",
+        "gericht"
+      ],
+      "id": "kantine",
+      "word": "die Kantine",
+      "lemma": "Kantine",
+      "translation": "canteen",
+      "translations": [
+        "canteen",
+        "staff restaurant"
+      ],
+      "level": "A2",
+      "frequency": 1100,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Kantinen",
+      "example_sentences": [
+        {
+          "de": "In der Kantine essen wir jeden Mittag.",
+          "en": "We eat in the canteen every lunchtime."
+        },
+        {
+          "de": "Die Kantine hat nur bis zwei Uhr offen.",
+          "en": "The canteen is only open until two o'clock."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Unsere Firma hat eine eigene ___.",
+          "answer": "Kantine",
+          "en": "Our company has its own canteen."
+        }
+      ],
+      "notes": "Company canteen = die Kantine; university canteen = die Mensa.",
+      "mnemonic": "-ine → die, like die Maschine.",
+      "germany_context": "Most larger German companies have a subsidised Kantine where lunch costs a few euros and colleagues eat together at fixed times, usually before 13:00.",
+      "emoji": "🍽️",
+      "imageable": true,
+      "tags": [
+        "restaurant",
+        "places",
+        "work"
+      ]
+    },
+    {
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "category": "Restaurant & Café",
+      "partOfSpeech": "noun",
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "zum-mitnehmen",
+        "imbiss",
+        "trinkgeld"
+      ],
+      "id": "lieferdienst",
+      "word": "der Lieferdienst",
+      "lemma": "Lieferdienst",
+      "translation": "delivery service",
+      "translations": [
+        "delivery service",
+        "food delivery"
+      ],
+      "level": "A2",
+      "frequency": 1150,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Lieferdienste",
+      "example_sentences": [
+        {
+          "de": "Wir bestellen heute beim Lieferdienst.",
+          "en": "We're ordering from the delivery service today."
+        },
+        {
+          "de": "Der Lieferdienst braucht ungefähr 40 Minuten.",
+          "en": "The delivery service takes about 40 minutes."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Kennst du einen guten ___ für Pizza?",
+          "answer": "Lieferdienst",
+          "en": "Do you know a good delivery service for pizza?"
+        }
+      ],
+      "notes": "der Dienst → der Lieferdienst. The verb is 'liefern' (to deliver).",
+      "mnemonic": "liefern + Dienst: the delivery service.",
+      "germany_context": "Delivery drivers expect a small tip in cash, one or two euros, even when you pay for the food by app.",
+      "emoji": "🛵",
+      "imageable": true,
+      "tags": [
+        "restaurant",
+        "food",
+        "service"
+      ]
+    },
+    {
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "category": "Restaurant & Café",
+      "partOfSpeech": "noun",
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "brunch",
+        "theke"
+      ],
+      "id": "buffet",
+      "word": "das Buffet",
+      "lemma": "Buffet",
+      "translation": "buffet",
+      "translations": [
+        "buffet"
+      ],
+      "level": "A2",
+      "frequency": 1450,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Buffets",
+      "example_sentences": [
+        {
+          "de": "Das Buffet ist von sieben bis zehn Uhr geöffnet.",
+          "en": "The buffet is open from seven to ten o'clock."
+        },
+        {
+          "de": "Am Buffet kann man so viel nehmen, wie man möchte.",
+          "en": "At the buffet you can take as much as you like."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Im Hotel gibt es ein großes ___ zum Frühstück.",
+          "answer": "Buffet",
+          "en": "At the hotel there's a big buffet for breakfast."
+        }
+      ],
+      "notes": "Pronounced 'bü-FEE'. Often written 'Büfett' in older texts.",
+      "mnemonic": "French word, so neuter like das Restaurant.",
+      "germany_context": "Sunday brunch buffets in cafés are popular and usually cost a fixed price per person; drinks are almost always extra.",
+      "emoji": "🍽️",
+      "imageable": true,
+      "tags": [
+        "restaurant",
+        "food"
+      ]
+    },
+    {
+      "id": "spezialitaet",
+      "word": "die Spezialität",
+      "lemma": "Spezialität",
+      "translation": "speciality",
+      "translations": [
+        "speciality",
+        "specialty"
+      ],
+      "level": "A2",
+      "category": "Restaurant & Café",
+      "partOfSpeech": "noun",
+      "frequency": 1450,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Spezialitäten",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Was ist die Spezialität des Hauses?",
+          "en": "What is the speciality of the house?"
+        },
+        {
+          "de": "Weißwurst ist eine bayerische Spezialität.",
+          "en": "Weisswurst is a Bavarian speciality."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Diese ___ gibt es nur hier in der Region.",
+          "answer": "Spezialität",
+          "en": "You can only get this speciality here in the region."
+        }
+      ],
+      "notes": "Nouns ending in -tät are always feminine: die Spezialität, die Universität, die Qualität.",
+      "mnemonic": "-tät → die, always.",
+      "germany_context": "German food is strongly regional: Weißwurst in Bavaria, Currywurst in Berlin, Labskaus in Hamburg — asking for the local Spezialität always works.",
+      "emoji": "⭐",
+      "imageable": false,
+      "tags": [
+        "restaurant",
+        "food",
+        "culture"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "gericht",
+        "currywurst"
+      ]
+    },
+    {
+      "id": "reservierung",
+      "word": "die Reservierung",
+      "lemma": "Reservierung",
+      "translation": "reservation",
+      "translations": [
+        "reservation",
+        "booking"
+      ],
+      "level": "A2",
+      "category": "Restaurant & Café",
+      "partOfSpeech": "noun",
+      "frequency": 750,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Reservierungen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich habe eine Reservierung auf den Namen Yalcin.",
+          "en": "I have a reservation under the name Yalcin."
+        },
+        {
+          "de": "Brauchen wir am Samstag eine Reservierung?",
+          "en": "Do we need a reservation on Saturday?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ohne ___ bekommen wir am Wochenende keinen Tisch.",
+          "answer": "Reservierung",
+          "en": "Without a reservation we won't get a table at the weekend."
+        }
+      ],
+      "notes": "The verb is 'reservieren': 'Ich möchte einen Tisch reservieren.'",
+      "mnemonic": "-ung → die, always.",
+      "germany_context": "Reserved tables carry a small 'Reserviert' sign — never sit at one, even if the restaurant looks empty.",
+      "emoji": "📅",
+      "imageable": false,
+      "tags": [
+        "restaurant",
+        "ordering",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "einen-tisch-fuer-zwei-bitte"
+      ]
+    },
+    {
+      "id": "rechnung",
+      "word": "die Rechnung",
+      "lemma": "Rechnung",
+      "translation": "bill",
+      "translations": [
+        "bill",
+        "check",
+        "invoice"
+      ],
+      "level": "A1",
+      "category": "Restaurant & Café",
+      "partOfSpeech": "noun",
+      "frequency": 300,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Rechnungen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Rechnung stimmt nicht.",
+          "en": "The bill isn't correct."
+        },
+        {
+          "de": "Können wir bitte die Rechnung haben?",
+          "en": "Could we have the bill, please?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Auf der ___ stehen drei Bier und zwei Schnitzel.",
+          "answer": "Rechnung",
+          "en": "There are three beers and two schnitzels on the bill."
+        }
+      ],
+      "notes": "'Die Rechnung, bitte' is the standard way to ask for the bill.",
+      "mnemonic": "-ung → die. From rechnen (to calculate).",
+      "germany_context": "You pay at the table, not at a till: the server comes over with a card reader or a wallet, and everyone pays right there.",
+      "emoji": "🧾",
+      "imageable": true,
+      "tags": [
+        "restaurant",
+        "paying",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "die-rechnung-bitte",
+        "zahlen",
+        "trinkgeld"
+      ]
+    },
+    {
+      "id": "trinkgeld",
+      "word": "das Trinkgeld",
+      "lemma": "Trinkgeld",
+      "translation": "tip",
+      "translations": [
+        "tip",
+        "gratuity"
+      ],
+      "level": "A2",
+      "category": "Restaurant & Café",
+      "partOfSpeech": "noun",
+      "frequency": 640,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Trinkgelder",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Wir geben immer ein bisschen Trinkgeld.",
+          "en": "We always leave a little tip."
+        },
+        {
+          "de": "Ist das Trinkgeld schon in der Rechnung?",
+          "en": "Is the tip already included in the bill?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Zehn Prozent ___ sind hier völlig normal.",
+          "answer": "Trinkgeld",
+          "en": "A ten percent tip is completely normal here."
+        }
+      ],
+      "notes": "das Geld → das Trinkgeld. Literally 'drink money'.",
+      "mnemonic": "Money for the waiter's drink.",
+      "germany_context": "Tip about 5-10% by rounding up. Don't leave coins on the table: say the total you want to pay out loud when handing over the money, e.g. 'Machen Sie 25' for a 23,40 bill.",
+      "emoji": "💶",
+      "imageable": false,
+      "tags": [
+        "restaurant",
+        "paying",
+        "culture",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "stimmt-so",
+        "rechnung",
+        "bargeld"
+      ]
+    },
+    {
+      "id": "quittung",
+      "word": "die Quittung",
+      "lemma": "Quittung",
+      "translation": "receipt",
+      "translations": [
+        "receipt"
+      ],
+      "level": "A2",
+      "category": "Restaurant & Café",
+      "partOfSpeech": "noun",
+      "frequency": 1050,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Quittungen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Kann ich bitte eine Quittung bekommen?",
+          "en": "Could I get a receipt, please?"
+        },
+        {
+          "de": "Ich brauche die Quittung für die Firma.",
+          "en": "I need the receipt for the company."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ohne ___ bekomme ich das Geld nicht zurück.",
+          "answer": "Quittung",
+          "en": "Without a receipt I won't get the money back."
+        }
+      ],
+      "notes": "'Der Kassenbon' or 'der Beleg' are used in shops; 'die Quittung' works everywhere.",
+      "mnemonic": "-ung → die, always.",
+      "germany_context": "If you want to claim a meal as a business expense, ask for a 'Bewirtungsbeleg' — a receipt with the restaurant's tax details.",
+      "emoji": "🧾",
+      "imageable": true,
+      "tags": [
+        "restaurant",
+        "paying"
+      ],
+      "synonyms": [
+        "der Beleg",
+        "der Kassenbon"
+      ],
+      "antonyms": [],
+      "related": [
+        "rechnung",
+        "zahlen"
+      ]
+    },
+    {
+      "id": "bargeld",
+      "word": "das Bargeld",
+      "lemma": "Bargeld",
+      "translation": "cash",
+      "translations": [
+        "cash"
+      ],
+      "level": "A2",
+      "category": "Restaurant & Café",
+      "partOfSpeech": "noun",
+      "frequency": 560,
+      "gender": "n",
+      "article": "das",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich habe leider kein Bargeld dabei.",
+          "en": "Unfortunately I don't have any cash on me."
+        },
+        {
+          "de": "Hier kann man nur mit Bargeld zahlen.",
+          "en": "Here you can only pay with cash."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Nimm lieber etwas ___ mit, das Café hat keine Kartenzahlung.",
+          "answer": "Bargeld",
+          "en": "Better take some cash with you, the café doesn't take cards."
+        }
+      ],
+      "notes": "'Bar zahlen' = to pay cash. 'Nur Barzahlung' on a sign means cash only.",
+      "mnemonic": "das Geld → das Bargeld.",
+      "germany_context": "Germany still loves cash: plenty of restaurants, Imbisse and Kneipen are cash-only, and many take only Girocard, not Visa or Mastercard. Always carry 20-30 euros.",
+      "emoji": "💵",
+      "imageable": true,
+      "tags": [
+        "restaurant",
+        "paying",
+        "culture",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "die EC-Karte"
+      ],
+      "related": [
+        "ec-karte",
+        "zahlen",
+        "kasse"
+      ]
+    },
+    {
+      "id": "kasse",
+      "word": "die Kasse",
+      "lemma": "Kasse",
+      "translation": "till",
+      "translations": [
+        "till",
+        "cash register",
+        "checkout"
+      ],
+      "level": "A2",
+      "category": "Restaurant & Café",
+      "partOfSpeech": "noun",
+      "frequency": 600,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Kassen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Bitte zahlen Sie vorne an der Kasse.",
+          "en": "Please pay at the till at the front."
+        },
+        {
+          "de": "An der Kasse steht eine lange Schlange.",
+          "en": "There is a long queue at the till."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Im Café bestellt man direkt an der ___.",
+          "answer": "Kasse",
+          "en": "In the café you order directly at the till."
+        }
+      ],
+      "notes": "In a sit-down restaurant you do NOT go to the Kasse — the server settles up at your table.",
+      "mnemonic": "Kasse ~ 'cash' desk.",
+      "germany_context": "Self-service cafés and bakeries take payment at the Kasse; in a proper restaurant, waiting at the till looks odd — stay seated and say 'Zahlen, bitte'.",
+      "emoji": "🏧",
+      "imageable": true,
+      "tags": [
+        "restaurant",
+        "paying"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "zahlen",
+        "bargeld",
+        "zahlen-bitte"
+      ]
+    },
+    {
+      "id": "ec-karte",
+      "word": "die EC-Karte",
+      "lemma": "EC-Karte",
+      "translation": "debit card",
+      "translations": [
+        "debit card",
+        "bank card"
+      ],
+      "level": "A2",
+      "category": "Restaurant & Café",
+      "partOfSpeech": "noun",
+      "frequency": 720,
+      "gender": "f",
+      "article": "die",
+      "plural": "die EC-Karten",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Kann ich mit EC-Karte zahlen?",
+          "en": "Can I pay by debit card?"
+        },
+        {
+          "de": "Meine EC-Karte funktioniert heute nicht.",
+          "en": "My debit card isn't working today."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wir nehmen nur ___, keine Kreditkarte.",
+          "answer": "EC-Karte",
+          "en": "We only take debit cards, no credit cards."
+        }
+      ],
+      "notes": "die Karte → die EC-Karte. Officially called 'Girocard' now, but everyone says EC-Karte.",
+      "mnemonic": "die Karte stays die in every compound.",
+      "germany_context": "'Wir nehmen nur EC' is extremely common — German debit cards work almost everywhere, foreign credit cards often don't.",
+      "emoji": "💳",
+      "imageable": true,
+      "tags": [
+        "restaurant",
+        "paying",
+        "essential"
+      ],
+      "synonyms": [
+        "die Girocard"
+      ],
+      "antonyms": [
+        "das Bargeld"
+      ],
+      "related": [
+        "bargeld",
+        "zahlen",
+        "rechnung"
+      ]
+    },
+    {
+      "id": "ruhetag",
+      "word": "der Ruhetag",
+      "lemma": "Ruhetag",
+      "translation": "closing day",
+      "translations": [
+        "closing day",
+        "day off"
+      ],
+      "level": "A2",
+      "category": "Restaurant & Café",
+      "partOfSpeech": "noun",
+      "frequency": 1600,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Ruhetage",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Montag ist Ruhetag.",
+          "en": "Monday is our closing day."
+        },
+        {
+          "de": "Das Lokal hat zwei Ruhetage pro Woche.",
+          "en": "The restaurant has two closing days per week."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wir waren umsonst da, dienstags ist ___.",
+          "answer": "Ruhetag",
+          "en": "We went there for nothing, Tuesday is the closing day."
+        }
+      ],
+      "notes": "der Tag → der Ruhetag. You'll see it on the door: 'Ruhetag: Montag'.",
+      "mnemonic": "Ruhe = rest, Tag = day: the day the kitchen rests.",
+      "germany_context": "Most family-run restaurants close one fixed day a week, and many kitchens also stop serving hot food between about 14:00 and 17:30 — always check before turning up.",
+      "emoji": "🚪",
+      "imageable": false,
+      "tags": [
+        "restaurant",
+        "time",
+        "culture"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "lokal"
+      ]
+    },
+    {
+      "id": "platz",
+      "word": "der Platz",
+      "lemma": "Platz",
+      "translation": "seat",
+      "translations": [
+        "seat",
+        "space",
+        "square"
+      ],
+      "level": "A1",
+      "category": "Restaurant & Café",
+      "partOfSpeech": "noun",
+      "frequency": 330,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Plätze",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ist dieser Platz noch frei?",
+          "en": "Is this seat still free?"
+        },
+        {
+          "de": "Draußen gibt es keine Plätze mehr.",
+          "en": "There are no seats left outside."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Nehmen Sie bitte ___!",
+          "answer": "Platz",
+          "en": "Please have a seat!"
+        }
+      ],
+      "notes": "'Platz nehmen' = to take a seat. 'Der Platz' also means a public square.",
+      "mnemonic": "Platz ~ 'place'.",
+      "germany_context": "When a café is full, Germans often share a table: ask 'Ist hier noch frei?' and sitting down with strangers is completely normal.",
+      "emoji": "💺",
+      "imageable": false,
+      "tags": [
+        "restaurant",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "ist-hier-noch-frei"
+      ]
+    },
+    {
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "category": "Restaurant & Café",
+      "partOfSpeech": "noun",
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "stammtisch",
+        "kneipe",
+        "bedienung"
+      ],
+      "id": "stammgast",
+      "word": "der Stammgast",
+      "lemma": "Stammgast",
+      "translation": "regular customer",
+      "translations": [
+        "regular customer",
+        "regular"
+      ],
+      "level": "A2",
+      "frequency": 1800,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Stammgäste",
+      "example_sentences": [
+        {
+          "de": "Er ist hier Stammgast und kennt alle Kellner.",
+          "en": "He's a regular here and knows all the waiters."
+        },
+        {
+          "de": "Stammgäste bekommen manchmal einen Schnaps aufs Haus.",
+          "en": "Regulars sometimes get a schnapps on the house."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Nach zwei Jahren bin ich in diesem Café ___.",
+          "answer": "Stammgast",
+          "en": "After two years I'm a regular at this café."
+        }
+      ],
+      "notes": "der Gast → der Stammgast. Plural with umlaut: die Stammgäste.",
+      "mnemonic": "Stamm = core, Gast = guest: one of the core guests.",
+      "germany_context": "Becoming a Stammgast in your local Kneipe is one of the easiest ways to get to know neighbours — staff will start greeting you by name.",
+      "emoji": "🧔",
+      "imageable": true,
+      "tags": [
+        "restaurant",
+        "people",
+        "culture"
+      ]
+    },
+    {
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "category": "Restaurant & Café",
+      "partOfSpeech": "noun",
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "prost",
+        "kneipe",
+        "noch-ein-bier-bitte"
+      ],
+      "id": "runde",
+      "word": "die Runde",
+      "lemma": "Runde",
+      "translation": "round of drinks",
+      "translations": [
+        "round of drinks",
+        "round"
+      ],
+      "level": "A2",
+      "frequency": 1250,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Runden",
+      "example_sentences": [
+        {
+          "de": "Diese Runde geht auf mich.",
+          "en": "This round is on me."
+        },
+        {
+          "de": "Er hat eine Runde für alle bestellt.",
+          "en": "He ordered a round for everyone."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wer zahlt die nächste ___?",
+          "answer": "Runde",
+          "en": "Who is paying for the next round?"
+        }
+      ],
+      "notes": "'Eine Runde ausgeben' = to buy a round for everybody.",
+      "mnemonic": "A round goes round the table.",
+      "germany_context": "Buying a Runde is common among friends and colleagues, and people keep loose track of whose turn it is next time.",
+      "emoji": "🍻",
+      "imageable": false,
+      "tags": [
+        "restaurant",
+        "drinks",
+        "social"
+      ]
+    },
+    {
+      "id": "pommes",
+      "word": "die Pommes",
+      "lemma": "Pommes",
+      "translation": "fries",
+      "translations": [
+        "fries",
+        "chips"
+      ],
+      "level": "A1",
+      "category": "Restaurant & Café",
+      "partOfSpeech": "noun",
+      "frequency": 800,
+      "gender": null,
+      "article": "die",
+      "plural": "die Pommes",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Einmal Pommes mit Mayo, bitte.",
+          "en": "One portion of fries with mayo, please."
+        },
+        {
+          "de": "Die Pommes sind leider kalt.",
+          "en": "Unfortunately the fries are cold."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Möchten Sie ___ oder Salat dazu?",
+          "answer": "Pommes",
+          "en": "Would you like fries or salad with that?"
+        }
+      ],
+      "notes": "Plural only, always 'die Pommes'. Pronounced 'POM-mes' in Germany.",
+      "mnemonic": "Plural-only, like die Eltern and die Leute.",
+      "germany_context": "At an Imbiss you'll be asked 'Rot oder weiß?' — ketchup or mayo. 'Pommes Schranke' means both.",
+      "emoji": "🍟",
+      "imageable": true,
+      "tags": [
+        "restaurant",
+        "food",
+        "fastfood"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "imbiss",
+        "currywurst",
+        "beilage"
+      ]
+    },
+    {
+      "id": "currywurst",
+      "word": "die Currywurst",
+      "lemma": "Currywurst",
+      "translation": "curry sausage",
+      "translations": [
+        "curry sausage",
+        "currywurst"
+      ],
+      "level": "A2",
+      "category": "Restaurant & Café",
+      "partOfSpeech": "noun",
+      "frequency": 1600,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Currywürste",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Eine Currywurst mit Pommes, bitte.",
+          "en": "One currywurst with fries, please."
+        },
+        {
+          "de": "Die Currywurst kostet nur vier Euro.",
+          "en": "The currywurst costs only four euros."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "In Berlin muss man einmal ___ probieren.",
+          "answer": "Currywurst",
+          "en": "In Berlin you have to try currywurst once."
+        }
+      ],
+      "notes": "die Wurst → die Currywurst.",
+      "mnemonic": "die Wurst stays die in every compound.",
+      "germany_context": "The classic cheap German street food, especially in Berlin and the Ruhr area; Imbiss stands sell it into the night and usually take cash only.",
+      "emoji": "🌭",
+      "imageable": true,
+      "tags": [
+        "restaurant",
+        "food",
+        "culture"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "imbiss",
+        "pommes",
+        "spezialitaet"
+      ]
+    },
+    {
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "category": "Restaurant & Café",
+      "partOfSpeech": "noun",
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "buffet",
+        "cafe",
+        "reservierung"
+      ],
+      "id": "brunch",
+      "word": "der Brunch",
+      "lemma": "Brunch",
+      "translation": "brunch",
+      "translations": [
+        "brunch"
+      ],
+      "level": "A2",
+      "frequency": 1650,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Brunches",
+      "example_sentences": [
+        {
+          "de": "Am Sonntag gehen wir zum Brunch.",
+          "en": "On Sunday we're going for brunch."
+        },
+        {
+          "de": "Der Brunch kostet 22 Euro pro Person.",
+          "en": "The brunch costs 22 euros per person."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Für den ___ am Sonntag brauchen wir eine Reservierung.",
+          "answer": "Brunch",
+          "en": "For brunch on Sunday we need a reservation."
+        }
+      ],
+      "notes": "Pronounced like in English. Masculine, like der Lunch.",
+      "mnemonic": "breakfast + lunch = der Brunch.",
+      "germany_context": "Sunday brunch is a small institution in German cities and one of the few things open on a Sunday — popular cafés are booked out days in advance.",
+      "emoji": "🥞",
+      "imageable": false,
+      "tags": [
+        "restaurant",
+        "food",
+        "culture"
+      ]
+    },
+    {
+      "id": "zahlen",
+      "word": "zahlen",
+      "lemma": "zahlen",
+      "translation": "to pay",
+      "translations": [
+        "to pay"
+      ],
+      "level": "A1",
+      "category": "Restaurant & Café",
+      "partOfSpeech": "verb",
+      "frequency": 260,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "zahle",
+        "du": "zahlst",
+        "er": "zahlt",
+        "wir": "zahlen",
+        "ihr": "zahlt",
+        "sie": "zahlen",
+        "praeteritum": "zahlte",
+        "perfekt": "hat gezahlt",
+        "imperativ": "zahl(e)!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich möchte bitte zahlen.",
+          "en": "I'd like to pay, please."
+        },
+        {
+          "de": "Zahlst du mit Karte oder bar?",
+          "en": "Are you paying by card or cash?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wir ___ heute getrennt.",
+          "answer": "zahlen",
+          "en": "We're paying separately today."
+        }
+      ],
+      "notes": "'Zahlen' is short and standard in restaurants; 'bezahlen' is used more with an object: 'die Rechnung bezahlen'.",
+      "mnemonic": "zahlen ~ 'to pay' the Zahl (number).",
+      "germany_context": "Catch the server's eye and say 'Zahlen, bitte' — you settle up at your table, and each person tells the server their own total if you're splitting.",
+      "emoji": "💰",
+      "imageable": false,
+      "tags": [
+        "restaurant",
+        "paying",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "rechnung",
+        "zahlen-bitte",
+        "zusammen-oder-getrennt"
+      ]
+    },
+    {
+      "id": "empfehlen",
+      "word": "empfehlen",
+      "lemma": "empfehlen",
+      "translation": "to recommend",
+      "translations": [
+        "to recommend"
+      ],
+      "level": "A2",
+      "category": "Restaurant & Café",
+      "partOfSpeech": "verb",
+      "frequency": 590,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [
+        "akk",
+        "dat"
+      ],
+      "forms": {
+        "ich": "empfehle",
+        "du": "empfiehlst",
+        "er": "empfiehlt",
+        "wir": "empfehlen",
+        "ihr": "empfehlt",
+        "sie": "empfehlen",
+        "praeteritum": "empfahl",
+        "perfekt": "hat empfohlen",
+        "imperativ": "empfiehl!"
+      },
+      "example_sentences": [
+        {
+          "de": "Was empfehlen Sie uns?",
+          "en": "What do you recommend to us?"
+        },
+        {
+          "de": "Er empfiehlt immer den Fisch.",
+          "en": "He always recommends the fish."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Können Sie mir eine Spezialität ___?",
+          "answer": "empfehlen",
+          "en": "Can you recommend a speciality to me?"
+        }
+      ],
+      "notes": "Strong verb with e→ie in du/er: du empfiehlst, er empfiehlt. Person in dative, thing in accusative.",
+      "mnemonic": "Like nehmen and geben, the stem vowel shifts in du/er forms.",
+      "germany_context": "Asking 'Was können Sie empfehlen?' is normal and welcome — servers will happily point you to the Tageskarte.",
+      "emoji": "👍",
+      "imageable": false,
+      "tags": [
+        "restaurant",
+        "ordering"
+      ],
+      "synonyms": [
+        "raten"
+      ],
+      "antonyms": [],
+      "related": [
+        "spezialitaet",
+        "tageskarte",
+        "gericht"
+      ]
+    },
+    {
+      "id": "bedienen",
+      "word": "bedienen",
+      "lemma": "bedienen",
+      "translation": "to serve",
+      "translations": [
+        "to serve",
+        "to wait on"
+      ],
+      "level": "A2",
+      "category": "Restaurant & Café",
+      "partOfSpeech": "verb",
+      "frequency": 1250,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "bediene",
+        "du": "bedienst",
+        "er": "bedient",
+        "wir": "bedienen",
+        "ihr": "bedient",
+        "sie": "bedienen",
+        "praeteritum": "bediente",
+        "perfekt": "hat bedient",
+        "imperativ": "bedien(e)!"
+      },
+      "example_sentences": [
+        {
+          "de": "Werden Sie schon bedient?",
+          "en": "Are you being served yet?"
+        },
+        {
+          "de": "Heute bedient nur eine Kellnerin.",
+          "en": "Only one waitress is serving today."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Draußen ___ wir leider nicht.",
+          "answer": "bedienen",
+          "en": "Unfortunately we don't serve outside."
+        }
+      ],
+      "notes": "'Werden Sie schon bedient?' is what a server asks to check if someone already took your order.",
+      "mnemonic": "die Bedienung comes from bedienen.",
+      "germany_context": "In a Biergarten or self-service café nobody comes to your table at all — the sign says 'Selbstbedienung' and you order at the counter.",
+      "emoji": "🙋",
+      "imageable": false,
+      "tags": [
+        "restaurant",
+        "service"
+      ],
+      "synonyms": [
+        "servieren"
+      ],
+      "antonyms": [],
+      "related": [
+        "bedienung",
+        "kellner"
+      ]
+    },
+    {
+      "id": "abraeumen",
+      "word": "abräumen",
+      "lemma": "abräumen",
+      "translation": "to clear away",
+      "translations": [
+        "to clear away",
+        "to clear the table"
+      ],
+      "level": "A2",
+      "category": "Restaurant & Café",
+      "partOfSpeech": "verb",
+      "frequency": 1750,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "räume ab",
+        "du": "räumst ab",
+        "er": "räumt ab",
+        "wir": "räumen ab",
+        "ihr": "räumt ab",
+        "sie": "räumen ab",
+        "praeteritum": "räumte ab",
+        "perfekt": "hat abgeräumt",
+        "imperativ": "räum ab!"
+      },
+      "example_sentences": [
+        {
+          "de": "Der Kellner räumt die Teller ab.",
+          "en": "The waiter clears away the plates."
+        },
+        {
+          "de": "Darf ich schon abräumen?",
+          "en": "May I clear the table already?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Bitte ___ Sie die Gläser noch nicht ab.",
+          "answer": "räumen",
+          "en": "Please don't clear the glasses away yet."
+        }
+      ],
+      "notes": "Separable: the 'ab' goes to the end of the sentence.",
+      "mnemonic": "ab = away, räumen = to clear: clear away.",
+      "germany_context": "'Darf ich schon abräumen?' often comes right after you put your cutlery together on the plate — that's the signal that you've finished.",
+      "emoji": "🧹",
+      "imageable": false,
+      "tags": [
+        "restaurant",
+        "service"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "kellner"
+      ]
+    },
+    {
+      "id": "vegan",
+      "word": "vegan",
+      "lemma": "vegan",
+      "translation": "vegan",
+      "translations": [
+        "vegan"
+      ],
+      "level": "A2",
+      "category": "Restaurant & Café",
+      "partOfSpeech": "adjective",
+      "frequency": 900,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Haben Sie auch vegane Gerichte?",
+          "en": "Do you also have vegan dishes?"
+        },
+        {
+          "de": "Meine Freundin lebt seit zwei Jahren vegan.",
+          "en": "My girlfriend has been living vegan for two years."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ist dieser Kuchen ___?",
+          "answer": "vegan",
+          "en": "Is this cake vegan?"
+        }
+      ],
+      "notes": "Pronounced 've-GAAN' with a long a.",
+      "mnemonic": "Same word as in English, just a German stress on the second syllable.",
+      "germany_context": "Germany is very vegan-friendly: menus mark dishes with a small 'v' or 'vegan', and every supermarket has a vegan section.",
+      "emoji": "🌱",
+      "imageable": false,
+      "tags": [
+        "restaurant",
+        "food",
+        "diet"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "glutenfrei",
+        "laktosefrei"
+      ]
+    },
+    {
+      "id": "glutenfrei",
+      "word": "glutenfrei",
+      "lemma": "glutenfrei",
+      "translation": "gluten-free",
+      "translations": [
+        "gluten-free"
+      ],
+      "level": "A2",
+      "category": "Restaurant & Café",
+      "partOfSpeech": "adjective",
+      "frequency": 1800,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ist die Suppe glutenfrei?",
+          "en": "Is the soup gluten-free?"
+        },
+        {
+          "de": "Wir haben auch glutenfreies Brot.",
+          "en": "We also have gluten-free bread."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Können Sie mir sagen, ob die Soße ___ ist?",
+          "answer": "glutenfrei",
+          "en": "Can you tell me whether the sauce is gluten-free?"
+        }
+      ],
+      "notes": "The suffix -frei means 'free of': alkoholfrei, koffeinfrei, laktosefrei.",
+      "mnemonic": "-frei = free of, exactly like the English '-free'.",
+      "germany_context": "Allergens are listed by number in the small print of German menus — a footnote key at the bottom of the page explains what each number means.",
+      "emoji": "🌾",
+      "imageable": false,
+      "tags": [
+        "restaurant",
+        "food",
+        "diet",
+        "allergy"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "laktosefrei",
+        "vegan"
+      ]
+    },
+    {
+      "id": "laktosefrei",
+      "word": "laktosefrei",
+      "lemma": "laktosefrei",
+      "translation": "lactose-free",
+      "translations": [
+        "lactose-free"
+      ],
+      "level": "A2",
+      "category": "Restaurant & Café",
+      "partOfSpeech": "adjective",
+      "frequency": 1900,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Haben Sie laktosefreie Milch für den Kaffee?",
+          "en": "Do you have lactose-free milk for the coffee?"
+        },
+        {
+          "de": "Dieser Käse ist laktosefrei.",
+          "en": "This cheese is lactose-free."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Diese Sahne ist ___, du kannst sie essen.",
+          "answer": "laktosefrei",
+          "en": "This cream is lactose-free, you can eat it."
+        }
+      ],
+      "notes": "Note the German spelling with k: Laktose, not 'lactose'.",
+      "mnemonic": "Laktose + frei = free of lactose.",
+      "germany_context": "Supermarkets and larger cafés almost always stock laktosefreie Milch and Hafermilch (oat milk) — just ask for a 'Hafermilch-Latte'.",
+      "emoji": "🥛",
+      "imageable": false,
+      "tags": [
+        "restaurant",
+        "food",
+        "diet",
+        "allergy"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "glutenfrei",
+        "vegan"
+      ]
+    },
+    {
+      "id": "hausgemacht",
+      "word": "hausgemacht",
+      "lemma": "hausgemacht",
+      "translation": "home-made",
+      "translations": [
+        "home-made",
+        "house-made"
+      ],
+      "level": "A2",
+      "category": "Restaurant & Café",
+      "partOfSpeech": "adjective",
+      "frequency": 1650,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Alle Kuchen sind hausgemacht.",
+          "en": "All the cakes are home-made."
+        },
+        {
+          "de": "Die hausgemachte Limonade schmeckt super.",
+          "en": "The home-made lemonade tastes great."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ist die Soße ___ oder aus der Tüte?",
+          "answer": "hausgemacht",
+          "en": "Is the sauce home-made or out of a packet?"
+        }
+      ],
+      "notes": "'Hausgemacht' and 'selbst gemacht' mean the same on a menu.",
+      "mnemonic": "Haus + gemacht = made in the house.",
+      "germany_context": null,
+      "emoji": "🏠",
+      "imageable": false,
+      "tags": [
+        "restaurant",
+        "food",
+        "quality"
+      ],
+      "synonyms": [
+        "selbst gemacht"
+      ],
+      "antonyms": [],
+      "related": [
+        "spezialitaet"
+      ]
+    },
+    {
+      "id": "einen-tisch-fuer-zwei-bitte",
+      "word": "Einen Tisch für zwei, bitte.",
+      "lemma": "Einen Tisch für zwei, bitte.",
+      "translation": "a table for two, please",
+      "translations": [
+        "a table for two, please"
+      ],
+      "level": "A1",
+      "category": "Restaurant & Café",
+      "partOfSpeech": "phrase",
+      "frequency": 210,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Guten Abend, einen Tisch für zwei, bitte.",
+          "en": "Good evening, a table for two, please."
+        },
+        {
+          "de": "Einen Tisch für zwei, bitte — am liebsten draußen.",
+          "en": "A table for two, please — outside if possible."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Hallo, ___ Tisch für zwei, bitte.",
+          "answer": "einen",
+          "en": "Hello, a table for two, please."
+        }
+      ],
+      "notes": "Accusative after the implied 'Ich hätte gern': einen Tisch, not 'ein Tisch'. Swap the number: für drei, für vier.",
+      "mnemonic": "einen = accusative masculine, because you are asking FOR a table.",
+      "germany_context": "In many places you don't need this at all — you simply walk in and take any free table. Use it in busier or nicer restaurants.",
+      "emoji": "🍽️",
+      "imageable": false,
+      "tags": [
+        "restaurant",
+        "phrase",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "reservierung",
+        "ist-hier-noch-frei"
+      ]
+    },
+    {
+      "id": "die-speisekarte-bitte",
+      "word": "Die Speisekarte, bitte.",
+      "lemma": "Die Speisekarte, bitte.",
+      "translation": "the menu, please",
+      "translations": [
+        "the menu, please"
+      ],
+      "level": "A1",
+      "category": "Restaurant & Café",
+      "partOfSpeech": "phrase",
+      "frequency": 230,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Entschuldigung, die Speisekarte, bitte.",
+          "en": "Excuse me, the menu, please."
+        },
+        {
+          "de": "Die Speisekarte, bitte, und schon mal zwei Wasser.",
+          "en": "The menu, please, and two waters already."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Könnten wir bitte die ___ haben?",
+          "answer": "Speisekarte",
+          "en": "Could we have the menu, please?"
+        }
+      ],
+      "notes": "Short and perfectly polite thanks to 'bitte'. 'Die Karte, bitte' is even more common.",
+      "mnemonic": "Any noun + bitte is a complete polite request in German.",
+      "germany_context": null,
+      "emoji": "📋",
+      "imageable": false,
+      "tags": [
+        "restaurant",
+        "phrase",
+        "ordering",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "speisekarte",
+        "getraenkekarte"
+      ]
+    },
+    {
+      "id": "ich-haette-gern",
+      "word": "Ich hätte gern …",
+      "lemma": "Ich hätte gern",
+      "translation": "I would like …",
+      "translations": [
+        "I would like …",
+        "I'd like …"
+      ],
+      "level": "A1",
+      "category": "Restaurant & Café",
+      "partOfSpeech": "phrase",
+      "frequency": 120,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich hätte gern einen Kaffee und ein Wasser.",
+          "en": "I'd like a coffee and a water."
+        },
+        {
+          "de": "Ich hätte gern die Suppe als Vorspeise.",
+          "en": "I'd like the soup as a starter."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich ___ gern ein Stück Kuchen, bitte.",
+          "answer": "hätte",
+          "en": "I'd like a piece of cake, please."
+        }
+      ],
+      "notes": "The politest way to order. What follows is accusative: einen Kaffee, ein Bier, eine Suppe.",
+      "mnemonic": "hätte = the polite 'would have' form of haben.",
+      "germany_context": "This is the standard, polite ordering formula everywhere — more natural than 'Ich will' and softer than 'Ich nehme'.",
+      "emoji": "🙋",
+      "imageable": false,
+      "tags": [
+        "restaurant",
+        "phrase",
+        "ordering",
+        "essential"
+      ],
+      "synonyms": [
+        "Ich möchte gern"
+      ],
+      "antonyms": [],
+      "related": [
+        "ich-nehme",
+        "bestellung"
+      ]
+    },
+    {
+      "id": "ich-nehme",
+      "word": "Ich nehme …",
+      "lemma": "Ich nehme",
+      "translation": "I'll have …",
+      "translations": [
+        "I'll have …",
+        "I'll take …"
+      ],
+      "level": "A1",
+      "category": "Restaurant & Café",
+      "partOfSpeech": "phrase",
+      "frequency": 140,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich nehme das Schnitzel mit Pommes.",
+          "en": "I'll have the schnitzel with fries."
+        },
+        {
+          "de": "Und was nehmen Sie?",
+          "en": "And what will you have?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich ___ den Salat, bitte.",
+          "answer": "nehme",
+          "en": "I'll have the salad, please."
+        }
+      ],
+      "notes": "Direct but completely normal when ordering. 'Ich hätte gern' sounds a touch more polite.",
+      "mnemonic": "nehmen = to take, so 'I take the schnitzel'.",
+      "germany_context": null,
+      "emoji": "👉",
+      "imageable": false,
+      "tags": [
+        "restaurant",
+        "phrase",
+        "ordering",
+        "essential"
+      ],
+      "synonyms": [
+        "Ich hätte gern"
+      ],
+      "antonyms": [],
+      "related": [
+        "ich-haette-gern",
+        "bestellung",
+        "gericht"
+      ]
+    },
+    {
+      "id": "zusammen-oder-getrennt",
+      "word": "Zusammen oder getrennt?",
+      "lemma": "Zusammen oder getrennt?",
+      "translation": "together or separately?",
+      "translations": [
+        "together or separately?",
+        "one bill or separate bills?"
+      ],
+      "level": "A1",
+      "category": "Restaurant & Café",
+      "partOfSpeech": "phrase",
+      "frequency": 200,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Zusammen oder getrennt? — Getrennt, bitte.",
+          "en": "Together or separately? — Separately, please."
+        },
+        {
+          "de": "Die Kellnerin fragt immer: Zusammen oder getrennt?",
+          "en": "The waitress always asks: together or separately?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Zahlen Sie zusammen oder ___?",
+          "answer": "getrennt",
+          "en": "Are you paying together or separately?"
+        }
+      ],
+      "notes": "The waiter's standard question. Answer with one word: 'Zusammen' or 'Getrennt'.",
+      "mnemonic": "getrennt = separated, like getrennte Wege.",
+      "germany_context": "Splitting the bill is completely normal in Germany, even in large groups — servers will happily go round the table and take payment from each person one by one.",
+      "emoji": "➗",
+      "imageable": false,
+      "tags": [
+        "restaurant",
+        "phrase",
+        "paying",
+        "culture",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "rechnung",
+        "zahlen",
+        "trinkgeld"
+      ]
+    },
+    {
+      "id": "die-rechnung-bitte",
+      "word": "Die Rechnung, bitte.",
+      "lemma": "Die Rechnung, bitte.",
+      "translation": "the bill, please",
+      "translations": [
+        "the bill, please",
+        "the check, please"
+      ],
+      "level": "A0",
+      "category": "Restaurant & Café",
+      "partOfSpeech": "phrase",
+      "frequency": 90,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Entschuldigung, die Rechnung, bitte.",
+          "en": "Excuse me, the bill, please."
+        },
+        {
+          "de": "Die Rechnung, bitte, wir müssen los.",
+          "en": "The bill, please, we have to go."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Könnten wir bitte die ___ haben?",
+          "answer": "Rechnung",
+          "en": "Could we have the bill, please?"
+        }
+      ],
+      "notes": "'Zahlen, bitte' means exactly the same and is even shorter.",
+      "mnemonic": "Noun + bitte = polite request.",
+      "germany_context": "Never take the bill to a counter: ask for it at your table, and the server brings the card reader or takes cash right there.",
+      "emoji": "🧾",
+      "imageable": false,
+      "tags": [
+        "restaurant",
+        "phrase",
+        "paying",
+        "essential"
+      ],
+      "synonyms": [
+        "Zahlen, bitte."
+      ],
+      "antonyms": [],
+      "related": [
+        "rechnung",
+        "zahlen-bitte",
+        "stimmt-so"
+      ]
+    },
+    {
+      "id": "zahlen-bitte",
+      "word": "Zahlen, bitte!",
+      "lemma": "Zahlen, bitte!",
+      "translation": "the bill, please",
+      "translations": [
+        "the bill, please",
+        "I'd like to pay"
+      ],
+      "level": "A0",
+      "category": "Restaurant & Café",
+      "partOfSpeech": "phrase",
+      "frequency": 95,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Zahlen, bitte!",
+          "en": "The bill, please!"
+        },
+        {
+          "de": "Er hebt die Hand und sagt: Zahlen, bitte!",
+          "en": "He raises his hand and says: the bill, please!"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___, bitte! Wir möchten gehen.",
+          "answer": "Zahlen",
+          "en": "The bill, please! We'd like to go."
+        }
+      ],
+      "notes": "The shortest, most idiomatic way to ask to pay. Politer version: 'Ich würde gern zahlen.'",
+      "mnemonic": "Literally 'to pay, please'.",
+      "germany_context": "Say it while making eye contact with your server; you pay at the table, and the server will ask 'Zusammen oder getrennt?'",
+      "emoji": "💶",
+      "imageable": false,
+      "tags": [
+        "restaurant",
+        "phrase",
+        "paying",
+        "essential"
+      ],
+      "synonyms": [
+        "Die Rechnung, bitte."
+      ],
+      "antonyms": [],
+      "related": [
+        "zahlen",
+        "die-rechnung-bitte",
+        "zusammen-oder-getrennt"
+      ]
+    },
+    {
+      "id": "stimmt-so",
+      "word": "Stimmt so.",
+      "lemma": "Stimmt so.",
+      "translation": "keep the change",
+      "translations": [
+        "keep the change",
+        "that's fine"
+      ],
+      "level": "A1",
+      "category": "Restaurant & Café",
+      "partOfSpeech": "phrase",
+      "frequency": 250,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Hier sind 20 Euro — stimmt so.",
+          "en": "Here's 20 euros — keep the change."
+        },
+        {
+          "de": "Stimmt so, vielen Dank!",
+          "en": "Keep the change, thank you very much!"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Das macht 18,40. — Nehmen Sie 20, ___ so.",
+          "answer": "stimmt",
+          "en": "That comes to 18.40. — Take 20, keep the change."
+        }
+      ],
+      "notes": "Literally 'it's correct like that'. Only say it if you really mean the server should keep the rest.",
+      "mnemonic": "stimmen = to be correct; so = like that.",
+      "germany_context": "The normal tipping move: hand over a note and either say the total you want to pay ('Machen Sie 20') or simply 'Stimmt so' — roughly 5-10% rounded up.",
+      "emoji": "🪙",
+      "imageable": false,
+      "tags": [
+        "restaurant",
+        "phrase",
+        "paying",
+        "culture",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "trinkgeld",
+        "zahlen",
+        "bargeld"
+      ]
+    },
+    {
+      "id": "hat-es-geschmeckt",
+      "word": "Hat es geschmeckt?",
+      "lemma": "Hat es geschmeckt?",
+      "translation": "did you enjoy it?",
+      "translations": [
+        "did you enjoy it?",
+        "did it taste good?"
+      ],
+      "level": "A1",
+      "category": "Restaurant & Café",
+      "partOfSpeech": "phrase",
+      "frequency": 420,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Hat es geschmeckt? — Ja, sehr gut, danke!",
+          "en": "Did you enjoy it? — Yes, very good, thank you!"
+        },
+        {
+          "de": "Der Kellner fragt: Hat es Ihnen geschmeckt?",
+          "en": "The waiter asks: did you enjoy it?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Hat es Ihnen ___?",
+          "answer": "geschmeckt",
+          "en": "Did you enjoy it?"
+        }
+      ],
+      "notes": "Answer simply: 'Ja, sehr gut, danke.' or 'Es war lecker.'",
+      "mnemonic": "schmecken = to taste; the Perfekt is 'hat geschmeckt'.",
+      "germany_context": "Servers ask this when clearing plates; a short positive answer is expected, and complaints are rare unless something was really wrong.",
+      "emoji": "😋",
+      "imageable": false,
+      "tags": [
+        "restaurant",
+        "phrase",
+        "smalltalk"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "abraeumen",
+        "guten-appetit",
+        "bedienung"
+      ]
+    },
+    {
+      "id": "guten-appetit",
+      "word": "Guten Appetit!",
+      "lemma": "Guten Appetit!",
+      "translation": "enjoy your meal",
+      "translations": [
+        "enjoy your meal",
+        "bon appétit"
+      ],
+      "level": "A0",
+      "category": "Restaurant & Café",
+      "partOfSpeech": "phrase",
+      "frequency": 110,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Guten Appetit! — Danke, gleichfalls!",
+          "en": "Enjoy your meal! — Thanks, you too!"
+        },
+        {
+          "de": "Der Kellner stellt den Teller hin und sagt: Guten Appetit!",
+          "en": "The waiter puts down the plate and says: enjoy your meal!"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Guten ___! Lass es dir schmecken.",
+          "answer": "Appetit",
+          "en": "Enjoy your meal! Hope you like it."
+        }
+      ],
+      "notes": "Reply with 'Danke, gleichfalls!' if the other person is also eating.",
+      "mnemonic": "Appetit ~ 'appetite'.",
+      "germany_context": "Germans say it before every meal, including to colleagues in the office kitchen — not saying it feels slightly cold.",
+      "emoji": "🍴",
+      "imageable": false,
+      "tags": [
+        "restaurant",
+        "phrase",
+        "politeness",
+        "essential"
+      ],
+      "synonyms": [
+        "Mahlzeit!"
+      ],
+      "antonyms": [],
+      "related": [
+        "hat-es-geschmeckt",
+        "prost"
+      ]
+    },
+    {
+      "id": "prost",
+      "word": "Prost!",
+      "lemma": "Prost!",
+      "translation": "cheers",
+      "translations": [
+        "cheers"
+      ],
+      "level": "A0",
+      "category": "Restaurant & Café",
+      "partOfSpeech": "interjection",
+      "frequency": 130,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Prost! Auf deinen neuen Job!",
+          "en": "Cheers! To your new job!"
+        },
+        {
+          "de": "Alle heben die Gläser und rufen: Prost!",
+          "en": "Everyone raises their glasses and shouts: cheers!"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___! Schön, dass ihr da seid.",
+          "answer": "Prost",
+          "en": "Cheers! Great that you're here."
+        }
+      ],
+      "notes": "'Zum Wohl!' is the slightly more formal version, used more with wine.",
+      "mnemonic": "From Latin 'prosit' — may it be good for you.",
+      "germany_context": "Clink glasses with everyone individually and make eye contact each time — skipping the eye contact is a well-known superstition and looks rude.",
+      "emoji": "🍻",
+      "imageable": false,
+      "tags": [
+        "restaurant",
+        "phrase",
+        "drinks",
+        "culture",
+        "essential"
+      ],
+      "synonyms": [
+        "Zum Wohl!"
+      ],
+      "antonyms": [],
+      "related": [
+        "guten-appetit"
+      ]
+    },
+    {
+      "id": "noch-ein-bier-bitte",
+      "word": "Noch ein Bier, bitte.",
+      "lemma": "Noch ein Bier, bitte.",
+      "translation": "another beer, please",
+      "translations": [
+        "another beer, please"
+      ],
+      "level": "A1",
+      "category": "Restaurant & Café",
+      "partOfSpeech": "phrase",
+      "frequency": 280,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Noch ein Bier, bitte!",
+          "en": "Another beer, please!"
+        },
+        {
+          "de": "Noch ein Bier, bitte, und für sie einen Wein.",
+          "en": "Another beer, please, and a wine for her."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ ein Bier, bitte — das gleiche wie vorhin.",
+          "answer": "Noch",
+          "en": "Another beer, please — the same as before."
+        }
+      ],
+      "notes": "'Noch ein …' = one more of the same. Swap the noun: noch einen Kaffee, noch eine Cola.",
+      "mnemonic": "noch = still/more, so 'still one beer'.",
+      "germany_context": "In a Kneipe the server often just nods at your empty glass and brings the next one — say 'Nein danke, wir zahlen' when you're done.",
+      "emoji": "🍺",
+      "imageable": false,
+      "tags": [
+        "restaurant",
+        "phrase",
+        "drinks",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "kneipe"
+      ]
+    },
+    {
+      "id": "ist-hier-noch-frei",
+      "word": "Ist hier noch frei?",
+      "lemma": "Ist hier noch frei?",
+      "translation": "is this seat free?",
+      "translations": [
+        "is this seat free?",
+        "is this taken?"
+      ],
+      "level": "A1",
+      "category": "Restaurant & Café",
+      "partOfSpeech": "phrase",
+      "frequency": 310,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Entschuldigung, ist hier noch frei?",
+          "en": "Excuse me, is this seat free?"
+        },
+        {
+          "de": "Ist hier noch frei? — Ja, bitte, setzen Sie sich.",
+          "en": "Is this seat free? — Yes, please, take a seat."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ist dieser Platz noch ___?",
+          "answer": "frei",
+          "en": "Is this seat still free?"
+        }
+      ],
+      "notes": "'Frei' here means unoccupied. The answer 'Besetzt' means it's taken.",
+      "mnemonic": "frei = free, besetzt = occupied — the same words as on toilet doors.",
+      "germany_context": "In a full Biergarten or café, asking this and sharing a table with strangers is completely normal and expected.",
+      "emoji": "💺",
+      "imageable": false,
+      "tags": [
+        "restaurant",
+        "phrase",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "platz",
+        "biergarten"
+      ]
+    },
+    {
+      "id": "zum-mitnehmen",
+      "word": "zum Mitnehmen",
+      "lemma": "zum Mitnehmen",
+      "translation": "to take away",
+      "translations": [
+        "to take away",
+        "to go"
+      ],
+      "level": "A1",
+      "category": "Restaurant & Café",
+      "partOfSpeech": "phrase",
+      "frequency": 390,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Einen Kaffee zum Mitnehmen, bitte.",
+          "en": "A coffee to take away, please."
+        },
+        {
+          "de": "Zum Mitnehmen oder zum Hieressen?",
+          "en": "To take away or to eat in?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich hätte gern eine Pizza ___ Mitnehmen.",
+          "answer": "zum",
+          "en": "I'd like a pizza to take away."
+        }
+      ],
+      "notes": "The opposite is 'zum Hieressen' (to eat in). 'Coffee to go' is also widely understood.",
+      "mnemonic": "mitnehmen = to take with you.",
+      "germany_context": "Takeaway food is taxed lower than eating in, so the same dish is often a bit cheaper 'zum Mitnehmen'.",
+      "emoji": "🥡",
+      "imageable": false,
+      "tags": [
+        "restaurant",
+        "phrase",
+        "ordering",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "imbiss",
+        "cafe"
+      ]
+    },
+    {
+      "id": "lokal",
+      "word": "das Lokal",
+      "lemma": "Lokal",
+      "translation": "restaurant",
+      "translations": [
+        "restaurant",
+        "pub",
+        "venue"
+      ],
+      "level": "A2",
+      "category": "Restaurant & Café",
+      "partOfSpeech": "noun",
+      "frequency": 1050,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Lokale",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Das Lokal ist klein, aber sehr gemütlich.",
+          "en": "The restaurant is small but very cosy."
+        },
+        {
+          "de": "Kennst du ein gutes Lokal in der Nähe?",
+          "en": "Do you know a good restaurant nearby?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wir haben gestern in einem griechischen ___ gegessen.",
+          "answer": "Lokal",
+          "en": "Yesterday we ate at a Greek restaurant."
+        }
+      ],
+      "notes": "'Lokal' is the everyday word for any eating and drinking place — restaurant, pub or bar.",
+      "mnemonic": "Your local place to eat: das Lokal.",
+      "germany_context": null,
+      "emoji": "🏪",
+      "imageable": true,
+      "tags": [
+        "restaurant",
+        "places"
+      ],
+      "synonyms": [
+        "das Restaurant",
+        "die Gaststätte"
+      ],
+      "antonyms": [],
+      "related": [
+        "restaurant",
+        "kneipe",
+        "imbiss"
+      ]
+    },
+    {
+      "id": "theke",
+      "word": "die Theke",
+      "lemma": "Theke",
+      "translation": "counter",
+      "translations": [
+        "counter",
+        "bar counter"
+      ],
+      "level": "A2",
+      "category": "Restaurant & Café",
+      "partOfSpeech": "noun",
+      "frequency": 1500,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Theken",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Bitte bestellen Sie an der Theke.",
+          "en": "Please order at the counter."
+        },
+        {
+          "de": "An der Theke ist noch ein Platz frei.",
+          "en": "There's still a seat free at the counter."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Kuchen liegt vorne in der ___.",
+          "answer": "Theke",
+          "en": "The cake is in the counter display at the front."
+        }
+      ],
+      "notes": "Theke = the counter in a bakery, café or pub. In a shop it's often 'die Frischetheke'.",
+      "mnemonic": "Theke sounds a bit like 'take' — where you take your order.",
+      "germany_context": "In bakeries and self-service cafés you order and pay at the Theke and carry the tray yourself; no tip is expected, though a coin in the Trinkgeld jar is nice.",
+      "emoji": "🛎️",
+      "imageable": true,
+      "tags": [
+        "restaurant",
+        "places",
+        "service"
+      ],
+      "synonyms": [
+        "der Tresen"
+      ],
+      "antonyms": [],
+      "related": [
+        "kasse",
+        "bedienung"
+      ]
+    },
+    {
+      "id": "stammtisch",
+      "word": "der Stammtisch",
+      "lemma": "Stammtisch",
+      "translation": "regulars' table",
+      "translations": [
+        "regulars' table",
+        "regulars' meeting"
+      ],
+      "level": "A2",
+      "category": "Restaurant & Café",
+      "partOfSpeech": "noun",
+      "frequency": 1900,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Stammtische",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Stammtisch ist immer reserviert.",
+          "en": "The regulars' table is always reserved."
+        },
+        {
+          "de": "Jeden Donnerstag gibt es hier einen Stammtisch.",
+          "en": "There's a regulars' get-together here every Thursday."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Setz dich nicht an den ___, der ist für die Stammgäste.",
+          "answer": "Stammtisch",
+          "en": "Don't sit at the regulars' table, it's for the regular customers."
+        }
+      ],
+      "notes": "der Tisch → der Stammtisch. It means both the table and the group that meets there.",
+      "mnemonic": "Stamm = trunk/core, so the table of the core crowd.",
+      "germany_context": "A table marked 'Stammtisch' belongs to the regulars — never sit there, even in an empty pub. Joining an expat or hobby Stammtisch is a classic way to meet people.",
+      "emoji": "🍻",
+      "imageable": true,
+      "tags": [
+        "restaurant",
+        "culture",
+        "social"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "kneipe",
+        "reservierung"
+      ]
+    },
+    {
+      "id": "koch",
+      "word": "der Koch",
+      "lemma": "Koch",
+      "translation": "cook",
+      "translations": [
+        "cook",
+        "chef"
+      ],
+      "level": "A2",
+      "category": "Restaurant & Café",
+      "partOfSpeech": "noun",
+      "frequency": 800,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Köche",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Koch macht heute die Spezialität des Hauses.",
+          "en": "The chef is making the speciality of the house today."
+        },
+        {
+          "de": "Mein Bruder arbeitet als Koch in einem Hotel.",
+          "en": "My brother works as a cook in a hotel."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Bitte sagen Sie dem ___, dass es super geschmeckt hat.",
+          "answer": "Koch",
+          "en": "Please tell the chef that it tasted great."
+        }
+      ],
+      "notes": "Female form: die Köchin. Plural has an umlaut: die Köche.",
+      "mnemonic": "kochen → der Koch.",
+      "germany_context": null,
+      "emoji": "👨‍🍳",
+      "imageable": true,
+      "tags": [
+        "restaurant",
+        "people",
+        "jobs"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "kellner",
+        "gericht",
+        "hausgemacht"
+      ]
+    },
+    {
+      "id": "tagesgericht",
+      "word": "das Tagesgericht",
+      "lemma": "Tagesgericht",
+      "translation": "dish of the day",
+      "translations": [
+        "dish of the day",
+        "daily special"
+      ],
+      "level": "A2",
+      "category": "Restaurant & Café",
+      "partOfSpeech": "noun",
+      "frequency": 1300,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Tagesgerichte",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Was ist heute das Tagesgericht?",
+          "en": "What is the dish of the day today?"
+        },
+        {
+          "de": "Das Tagesgericht kostet zehn Euro mit Suppe.",
+          "en": "The dish of the day costs ten euros with soup."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich nehme das ___, das geht am schnellsten.",
+          "answer": "Tagesgericht",
+          "en": "I'll take the dish of the day, that's the quickest."
+        }
+      ],
+      "notes": "das Gericht → das Tagesgericht. Usually written on a board outside.",
+      "mnemonic": "Tag + Gericht: the dish for today.",
+      "germany_context": "The Tagesgericht is the cheapest and fastest lunch option and is often only advertised on a chalkboard by the door, not in the printed menu.",
+      "emoji": "🍲",
+      "imageable": true,
+      "tags": [
+        "restaurant",
+        "food",
+        "ordering"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "tageskarte",
+        "mittagstisch",
+        "gericht"
+      ]
+    },
+    {
+      "id": "mittagstisch",
+      "word": "der Mittagstisch",
+      "lemma": "Mittagstisch",
+      "translation": "lunch special",
+      "translations": [
+        "lunch special",
+        "lunch menu"
+      ],
+      "level": "A2",
+      "category": "Restaurant & Café",
+      "partOfSpeech": "noun",
+      "frequency": 1550,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Mittagstische",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Mittagstisch kostet nur neun Euro.",
+          "en": "The lunch special costs only nine euros."
+        },
+        {
+          "de": "Wir haben von Montag bis Freitag einen Mittagstisch.",
+          "en": "We have a lunch special from Monday to Friday."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Gibt es heute einen ___?",
+          "answer": "Mittagstisch",
+          "en": "Is there a lunch special today?"
+        }
+      ],
+      "notes": "der Tisch → der Mittagstisch. Usually a small daily menu at a fixed low price.",
+      "mnemonic": "Mittag + Tisch: the midday table.",
+      "germany_context": "Between roughly 11:30 and 14:00 many restaurants offer a Mittagstisch far cheaper than their evening menu — the standard weekday lunch for German office workers.",
+      "emoji": "🕛",
+      "imageable": false,
+      "tags": [
+        "restaurant",
+        "food",
+        "money"
+      ],
+      "synonyms": [
+        "das Mittagsangebot"
+      ],
+      "antonyms": [],
+      "related": [
+        "tageskarte",
+        "gericht",
+        "mensa"
+      ]
+    },
+    {
+      "id": "mensa",
+      "word": "die Mensa",
+      "lemma": "Mensa",
+      "translation": "canteen",
+      "translations": [
+        "canteen",
+        "cafeteria"
+      ],
+      "level": "A2",
+      "category": "Restaurant & Café",
+      "partOfSpeech": "noun",
+      "frequency": 1700,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Mensen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "In der Mensa ist das Essen sehr günstig.",
+          "en": "The food in the canteen is very cheap."
+        },
+        {
+          "de": "Wir treffen uns um zwölf in der Mensa.",
+          "en": "We're meeting at twelve in the canteen."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Studenten essen mittags meistens in der ___.",
+          "answer": "Mensa",
+          "en": "Students usually eat in the canteen at lunchtime."
+        }
+      ],
+      "notes": "'Mensa' is the university canteen; a company one is 'die Kantine'.",
+      "mnemonic": "Latin mensa = table.",
+      "germany_context": "University Mensen and company Kantinen are card-only and subsidised — a hot meal often costs 4-7 euros, and guests usually pay a slightly higher price.",
+      "emoji": "🍛",
+      "imageable": true,
+      "tags": [
+        "restaurant",
+        "places",
+        "food"
+      ],
+      "synonyms": [
+        "die Kantine"
+      ],
+      "antonyms": [],
+      "related": [
+        "mittagstisch",
+        "gericht"
+      ]
+    },
+    {
+      "id": "aufpreis",
+      "word": "der Aufpreis",
+      "lemma": "Aufpreis",
+      "translation": "surcharge",
+      "translations": [
+        "surcharge",
+        "extra charge"
+      ],
+      "level": "A2",
+      "category": "Restaurant & Café",
+      "partOfSpeech": "noun",
+      "frequency": 1850,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Aufpreise",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Hafermilch gibt es nur gegen Aufpreis.",
+          "en": "Oat milk is only available for an extra charge."
+        },
+        {
+          "de": "Der Aufpreis für die Beilage beträgt zwei Euro.",
+          "en": "The surcharge for the side dish is two euros."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Kostet die große Portion einen ___?",
+          "answer": "Aufpreis",
+          "en": "Does the large portion cost an extra charge?"
+        }
+      ],
+      "notes": "'Gegen Aufpreis' = for an extra charge. You'll see it in the small print of menus.",
+      "mnemonic": "auf + Preis: a price on top.",
+      "germany_context": "Extras that are free elsewhere often cost here: sauces, a second slice of bread and plant milk usually carry an Aufpreis of 30 cents to a euro.",
+      "emoji": "➕",
+      "imageable": false,
+      "tags": [
+        "restaurant",
+        "money"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "rechnung",
+        "beilage",
+        "laktosefrei"
+      ]
+    },
+    {
+      "id": "wechselgeld",
+      "word": "das Wechselgeld",
+      "lemma": "Wechselgeld",
+      "translation": "change",
+      "translations": [
+        "change"
+      ],
+      "level": "A2",
+      "category": "Restaurant & Café",
+      "partOfSpeech": "noun",
+      "frequency": 1400,
+      "gender": "n",
+      "article": "das",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Sie haben mir zu wenig Wechselgeld gegeben.",
+          "en": "You gave me too little change."
+        },
+        {
+          "de": "Der Kellner bringt gleich das Wechselgeld.",
+          "en": "The waiter is bringing the change right away."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Behalten Sie das ___ als Trinkgeld.",
+          "answer": "Wechselgeld",
+          "en": "Keep the change as a tip."
+        }
+      ],
+      "notes": "das Geld → das Wechselgeld. 'Das Kleingeld' means coins in general.",
+      "mnemonic": "wechseln = to change, so Wechselgeld = the money you get back.",
+      "germany_context": "In cash-only places, don't hand over a 50 for a 6-euro meal — small shops and Imbisse often have very little Wechselgeld.",
+      "emoji": "🪙",
+      "imageable": true,
+      "tags": [
+        "restaurant",
+        "paying",
+        "money"
+      ],
+      "synonyms": [
+        "das Kleingeld"
+      ],
+      "antonyms": [],
+      "related": [
+        "bargeld",
+        "stimmt-so",
+        "zahlen"
+      ]
+    },
+    {
+      "id": "einmal-bitte",
+      "word": "Einmal …, bitte.",
+      "lemma": "Einmal, bitte",
+      "translation": "one … please",
+      "translations": [
+        "one … please",
+        "one order of …, please"
+      ],
+      "level": "A1",
+      "category": "Restaurant & Café",
+      "partOfSpeech": "phrase",
+      "frequency": 270,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Einmal Currywurst mit Pommes, bitte.",
+          "en": "One currywurst with fries, please."
+        },
+        {
+          "de": "Zweimal Schnitzel und einmal Salat, bitte.",
+          "en": "Two schnitzels and one salad, please."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ das Tagesgericht, bitte.",
+          "answer": "Einmal",
+          "en": "One of the dish of the day, please."
+        }
+      ],
+      "notes": "Very idiomatic for ordering food: einmal, zweimal, dreimal + the dish. No article needed.",
+      "mnemonic": "ein + mal = one time, i.e. one portion.",
+      "germany_context": "This is how people order at an Imbiss or a busy counter — short, fast and completely normal.",
+      "emoji": "1️⃣",
+      "imageable": false,
+      "tags": [
+        "restaurant",
+        "phrase",
+        "ordering",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "ich-haette-gern",
+        "ich-nehme",
+        "imbiss"
+      ]
+    },
+    {
+      "id": "wir-moechten-bestellen",
+      "word": "Wir möchten bestellen.",
+      "lemma": "Wir möchten bestellen.",
+      "translation": "we'd like to order",
+      "translations": [
+        "we'd like to order"
+      ],
+      "level": "A1",
+      "category": "Restaurant & Café",
+      "partOfSpeech": "phrase",
+      "frequency": 290,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Entschuldigung, wir möchten bestellen.",
+          "en": "Excuse me, we'd like to order."
+        },
+        {
+          "de": "Wir möchten bestellen, wir haben nicht viel Zeit.",
+          "en": "We'd like to order, we don't have much time."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wir ___ bestellen, bitte.",
+          "answer": "möchten",
+          "en": "We'd like to order, please."
+        }
+      ],
+      "notes": "Use it to call the server over. Singular: 'Ich möchte bestellen.'",
+      "mnemonic": "möchten = would like, the polite form of wollen.",
+      "germany_context": "Servers won't hover; if nobody comes, catch their eye or say this as they pass — it isn't considered rude.",
+      "emoji": "🗣️",
+      "imageable": false,
+      "tags": [
+        "restaurant",
+        "phrase",
+        "ordering",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "bestellung",
+        "ich-haette-gern",
+        "kellner"
+      ]
+    },
+    {
+      "id": "was-koennen-sie-empfehlen",
+      "word": "Was können Sie empfehlen?",
+      "lemma": "Was können Sie empfehlen?",
+      "translation": "what do you recommend?",
+      "translations": [
+        "what do you recommend?"
+      ],
+      "level": "A2",
+      "category": "Restaurant & Café",
+      "partOfSpeech": "phrase",
+      "frequency": 620,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Was können Sie empfehlen? — Nehmen Sie den Braten.",
+          "en": "What do you recommend? — Take the roast."
+        },
+        {
+          "de": "Wir kennen die Karte nicht. Was können Sie empfehlen?",
+          "en": "We don't know the menu. What do you recommend?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Was ___ Sie empfehlen?",
+          "answer": "können",
+          "en": "What do you recommend?"
+        }
+      ],
+      "notes": "With friends use 'du': 'Was kannst du empfehlen?'",
+      "mnemonic": "empfehlen = to recommend.",
+      "germany_context": "A safe move when the menu is only in German — servers will usually point at the Tageskarte or the house speciality.",
+      "emoji": "❓",
+      "imageable": false,
+      "tags": [
+        "restaurant",
+        "phrase",
+        "ordering"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "empfehlen",
+        "spezialitaet",
+        "tageskarte"
+      ]
+    },
+    {
+      "id": "das-wars-danke",
+      "word": "Das war's, danke.",
+      "lemma": "Das war's, danke.",
+      "translation": "that's all, thanks",
+      "translations": [
+        "that's all, thanks",
+        "that's it, thank you"
+      ],
+      "level": "A1",
+      "category": "Restaurant & Café",
+      "partOfSpeech": "phrase",
+      "frequency": 330,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Sonst noch etwas? — Nein, das war's, danke.",
+          "en": "Anything else? — No, that's all, thanks."
+        },
+        {
+          "de": "Zwei Brötchen und einen Kaffee. Das war's, danke.",
+          "en": "Two rolls and a coffee. That's all, thanks."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Nein danke, das ___, wir zahlen bitte.",
+          "answer": "war's",
+          "en": "No thanks, that's all, we'd like to pay please."
+        }
+      ],
+      "notes": "'War's' is short for 'war es'. The staff question is 'Sonst noch etwas?'",
+      "mnemonic": "Literally 'that was it'.",
+      "germany_context": "You'll hear 'Sonst noch etwas?' at every bakery counter — this is the standard one-line answer.",
+      "emoji": "✅",
+      "imageable": false,
+      "tags": [
+        "restaurant",
+        "phrase",
+        "ordering",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "einmal-bitte",
+        "zahlen-bitte"
+      ]
+    },
+    {
+      "id": "mit-karte-oder-bar",
+      "word": "Mit Karte oder bar?",
+      "lemma": "Mit Karte oder bar?",
+      "translation": "by card or cash?",
+      "translations": [
+        "by card or cash?"
+      ],
+      "level": "A1",
+      "category": "Restaurant & Café",
+      "partOfSpeech": "phrase",
+      "frequency": 240,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Mit Karte oder bar? — Mit Karte, bitte.",
+          "en": "By card or cash? — By card, please."
+        },
+        {
+          "de": "Zahlen Sie mit Karte oder bar?",
+          "en": "Are you paying by card or cash?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich zahle ___, ich habe genug Geld dabei.",
+          "answer": "bar",
+          "en": "I'll pay cash, I have enough money on me."
+        }
+      ],
+      "notes": "'Bar' as an adverb means 'in cash': bar zahlen.",
+      "mnemonic": "bar zahlen = pay with Bargeld.",
+      "germany_context": "Ask 'Kann man mit Karte zahlen?' before you order — plenty of Kneipen, Imbisse and small cafés are still cash-only, and many take only German Girocard.",
+      "emoji": "💳",
+      "imageable": false,
+      "tags": [
+        "restaurant",
+        "phrase",
+        "paying",
+        "culture",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "bargeld",
+        "ec-karte",
+        "zahlen"
+      ]
+    },
+    {
+      "id": "ohne-zwiebeln-bitte",
+      "word": "Ohne Zwiebeln, bitte.",
+      "lemma": "Ohne Zwiebeln, bitte.",
+      "translation": "without onions, please",
+      "translations": [
+        "without onions, please"
+      ],
+      "level": "A1",
+      "category": "Restaurant & Café",
+      "partOfSpeech": "phrase",
+      "frequency": 520,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich nehme den Döner. Ohne Zwiebeln, bitte.",
+          "en": "I'll have the doner kebab. Without onions, please."
+        },
+        {
+          "de": "Ohne Zwiebeln, bitte, und mit extra Soße.",
+          "en": "Without onions, please, and with extra sauce."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ Zwiebeln, bitte, die mag ich nicht.",
+          "answer": "Ohne",
+          "en": "Without onions, please, I don't like them."
+        }
+      ],
+      "notes": "'Ohne' takes the accusative. Swap the word: ohne Zwiebeln, ohne Käse, ohne Fleisch.",
+      "mnemonic": "ohne = without; the opposite is 'mit'.",
+      "germany_context": "Kitchens are usually happy to leave something out, but ask when ordering — changes after the food arrives are not welcome.",
+      "emoji": "🧅",
+      "imageable": false,
+      "tags": [
+        "restaurant",
+        "phrase",
+        "ordering",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "ich-vertrage-kein",
+        "bestellung",
+        "beilage"
+      ]
+    },
+    {
+      "id": "wo-ist-die-toilette",
+      "word": "Wo ist die Toilette?",
+      "lemma": "Wo ist die Toilette?",
+      "translation": "where is the toilet?",
+      "translations": [
+        "where is the toilet?",
+        "where's the restroom?"
+      ],
+      "level": "A0",
+      "category": "Restaurant & Café",
+      "partOfSpeech": "phrase",
+      "frequency": 100,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Entschuldigung, wo ist die Toilette?",
+          "en": "Excuse me, where is the toilet?"
+        },
+        {
+          "de": "Wo ist die Toilette? — Hinten links.",
+          "en": "Where is the toilet? — At the back on the left."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wo ___ die Toilette, bitte?",
+          "answer": "ist",
+          "en": "Where is the toilet, please?"
+        }
+      ],
+      "notes": "Doors are marked 'Damen' (women) and 'Herren' (men). 'WC' works everywhere too.",
+      "mnemonic": "Toilette ~ 'toilet', feminine like most -ette words.",
+      "germany_context": "Public toilets usually cost 50-70 cents, and even in restaurants an attendant may have a plate for coins — another reason to carry small change.",
+      "emoji": "🚻",
+      "imageable": false,
+      "tags": [
+        "restaurant",
+        "phrase",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "wechselgeld",
+        "bargeld",
+        "restaurant"
+      ]
+    },
+    {
+      "id": "ich-vertrage-kein",
+      "word": "Ich vertrage kein …",
+      "lemma": "Ich vertrage kein",
+      "translation": "I can't tolerate …",
+      "translations": [
+        "I can't tolerate …",
+        "… doesn't agree with me"
+      ],
+      "level": "A2",
+      "category": "Restaurant & Café",
+      "partOfSpeech": "phrase",
+      "frequency": 950,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich vertrage kein Gluten.",
+          "en": "I can't tolerate gluten."
+        },
+        {
+          "de": "Sie verträgt keine Milch, aber Käse geht.",
+          "en": "She can't tolerate milk, but cheese is fine."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich ___ keine Laktose, haben Sie etwas anderes?",
+          "answer": "vertrage",
+          "en": "I can't tolerate lactose, do you have something else?"
+        }
+      ],
+      "notes": "Strong verb: du verträgst, er verträgt. Stronger version: 'Ich bin allergisch gegen …'",
+      "mnemonic": "vertragen = to tolerate/bear something.",
+      "germany_context": "Say it when you order; German menus mark allergens with small numbers, and staff can check the Allergenliste in the kitchen for you.",
+      "emoji": "⚠️",
+      "imageable": false,
+      "tags": [
+        "restaurant",
+        "phrase",
+        "diet",
+        "allergy",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "glutenfrei",
+        "laktosefrei"
+      ]
+    }
+  ]
+}

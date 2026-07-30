@@ -1,0 +1,4311 @@
+{
+  "category": "Food & Groceries",
+  "words": [
+    {
+      "id": "apfel",
+      "word": "der Apfel",
+      "lemma": "Apfel",
+      "translation": "apple",
+      "translations": [
+        "apple"
+      ],
+      "level": "A1",
+      "category": "Food & Groceries",
+      "partOfSpeech": "noun",
+      "frequency": 260,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Äpfel",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich esse jeden Morgen einen Apfel.",
+          "en": "I eat an apple every morning."
+        },
+        {
+          "de": "Die Äpfel im Angebot sind sehr süß.",
+          "en": "The apples on sale are very sweet."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ein ___ am Tag ist gesund.",
+          "answer": "Apfel",
+          "en": "An apple a day is healthy."
+        }
+      ],
+      "notes": "Plural takes an umlaut: der Apfel → die Äpfel.",
+      "mnemonic": "APfel ~ APple.",
+      "germany_context": null,
+      "emoji": "🍎",
+      "imageable": true,
+      "tags": [
+        "fruit",
+        "food",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "obst",
+        "birne"
+      ]
+    },
+    {
+      "id": "banane",
+      "word": "die Banane",
+      "lemma": "Banane",
+      "translation": "banana",
+      "translations": [
+        "banana"
+      ],
+      "level": "A1",
+      "category": "Food & Groceries",
+      "partOfSpeech": "noun",
+      "frequency": 520,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Bananen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Bananen sind im Supermarkt sehr billig.",
+          "en": "Bananas are very cheap at the supermarket."
+        },
+        {
+          "de": "Ich nehme eine Banane mit zur Arbeit.",
+          "en": "I take a banana to work with me."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Das Kind isst eine ___ zum Frühstück.",
+          "answer": "Banane",
+          "en": "The child eats a banana for breakfast."
+        }
+      ],
+      "notes": "Nouns ending in -e are usually feminine.",
+      "mnemonic": "BananE ends in -e → die.",
+      "germany_context": null,
+      "emoji": "🍌",
+      "imageable": true,
+      "tags": [
+        "fruit",
+        "food"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "obst",
+        "apfel"
+      ]
+    },
+    {
+      "id": "orange",
+      "word": "die Orange",
+      "lemma": "Orange",
+      "translation": "orange",
+      "translations": [
+        "orange"
+      ],
+      "level": "A1",
+      "category": "Food & Groceries",
+      "partOfSpeech": "noun",
+      "frequency": 610,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Orangen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Orangen aus Spanien sind sehr süß.",
+          "en": "The oranges from Spain are very sweet."
+        },
+        {
+          "de": "Ich presse mir morgens eine Orange.",
+          "en": "I squeeze an orange for myself in the morning."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Möchtest du eine ___ oder einen Apfel?",
+          "answer": "Orange",
+          "en": "Would you like an orange or an apple?"
+        }
+      ],
+      "notes": "In northern Germany many people say 'die Apfelsine'. The colour 'orange' is a separate adjective.",
+      "mnemonic": "OrangE ends in -e → die.",
+      "germany_context": null,
+      "emoji": "🍊",
+      "imageable": true,
+      "tags": [
+        "fruit",
+        "food"
+      ],
+      "synonyms": [
+        "Apfelsine"
+      ],
+      "antonyms": [],
+      "related": [
+        "obst",
+        "zitrone"
+      ]
+    },
+    {
+      "id": "zitrone",
+      "word": "die Zitrone",
+      "lemma": "Zitrone",
+      "translation": "lemon",
+      "translations": [
+        "lemon"
+      ],
+      "level": "A1",
+      "category": "Food & Groceries",
+      "partOfSpeech": "noun",
+      "frequency": 700,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Zitronen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich trinke Tee mit Zitrone.",
+          "en": "I drink tea with lemon."
+        },
+        {
+          "de": "Zitronen sind sehr sauer.",
+          "en": "Lemons are very sour."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Gib bitte etwas ___ auf den Fisch.",
+          "answer": "Zitrone",
+          "en": "Please put a bit of lemon on the fish."
+        }
+      ],
+      "notes": "'Zitrone' is the fruit; the flavour on labels is often 'Zitronengeschmack'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🍋",
+      "imageable": true,
+      "tags": [
+        "fruit",
+        "food",
+        "sour"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "orange",
+        "fisch"
+      ]
+    },
+    {
+      "id": "erdbeere",
+      "word": "die Erdbeere",
+      "lemma": "Erdbeere",
+      "translation": "strawberry",
+      "translations": [
+        "strawberry"
+      ],
+      "level": "A2",
+      "category": "Food & Groceries",
+      "partOfSpeech": "noun",
+      "frequency": 830,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Erdbeeren",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Im Juni gibt es frische Erdbeeren.",
+          "en": "In June there are fresh strawberries."
+        },
+        {
+          "de": "Ich mag Erdbeeren mit Sahne.",
+          "en": "I like strawberries with cream."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Kuchen mit ___ schmeckt super.",
+          "answer": "Erdbeeren",
+          "en": "The cake with strawberries tastes great."
+        }
+      ],
+      "notes": "Literally 'earth berry' (Erde + Beere).",
+      "mnemonic": "Erd-Beere = berry that grows on the earth.",
+      "germany_context": "Strawberries are strictly seasonal here (May–July). In summer little strawberry-shaped huts (Erdbeerstände) pop up in supermarket car parks selling them fresh.",
+      "emoji": "🍓",
+      "imageable": true,
+      "tags": [
+        "fruit",
+        "food",
+        "seasonal"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "beere",
+        "sahne"
+      ]
+    },
+    {
+      "id": "traube",
+      "word": "die Traube",
+      "lemma": "Traube",
+      "translation": "grape",
+      "translations": [
+        "grape",
+        "bunch of grapes"
+      ],
+      "level": "A2",
+      "category": "Food & Groceries",
+      "partOfSpeech": "noun",
+      "frequency": 950,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Trauben",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich kaufe ein Kilo Trauben.",
+          "en": "I am buying a kilo of grapes."
+        },
+        {
+          "de": "Die Trauben sind kernlos.",
+          "en": "The grapes are seedless."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Möchtest du grüne oder rote ___?",
+          "answer": "Trauben",
+          "en": "Would you like green or red grapes?"
+        }
+      ],
+      "notes": "Almost always used in the plural; the full word is 'die Weintraube'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🍇",
+      "imageable": true,
+      "tags": [
+        "fruit",
+        "food"
+      ],
+      "synonyms": [
+        "Weintraube"
+      ],
+      "antonyms": [],
+      "related": [
+        "obst"
+      ]
+    },
+    {
+      "id": "birne",
+      "word": "die Birne",
+      "lemma": "Birne",
+      "translation": "pear",
+      "translations": [
+        "pear",
+        "light bulb"
+      ],
+      "level": "A2",
+      "category": "Food & Groceries",
+      "partOfSpeech": "noun",
+      "frequency": 900,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Birnen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Birne ist noch nicht reif.",
+          "en": "The pear is not ripe yet."
+        },
+        {
+          "de": "Ich esse lieber Birnen als Äpfel.",
+          "en": "I prefer eating pears to apples."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Im Herbst kaufe ich oft ___ auf dem Markt.",
+          "answer": "Birnen",
+          "en": "In autumn I often buy pears at the market."
+        }
+      ],
+      "notes": "'Birne' is also the everyday word for a light bulb (die Glühbirne).",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🍐",
+      "imageable": true,
+      "tags": [
+        "fruit",
+        "food"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "apfel",
+        "obst"
+      ]
+    },
+    {
+      "id": "pfirsich",
+      "word": "der Pfirsich",
+      "lemma": "Pfirsich",
+      "translation": "peach",
+      "translations": [
+        "peach"
+      ],
+      "level": "A2",
+      "category": "Food & Groceries",
+      "partOfSpeech": "noun",
+      "frequency": 1150,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Pfirsiche",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Pfirsich ist sehr saftig.",
+          "en": "The peach is very juicy."
+        },
+        {
+          "de": "Im Sommer kaufe ich gern Pfirsiche.",
+          "en": "In summer I like buying peaches."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Möchtest du einen ___ zum Nachtisch?",
+          "answer": "Pfirsich",
+          "en": "Would you like a peach for dessert?"
+        }
+      ],
+      "notes": "One of the few masculine fruits, like 'der Apfel'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🍑",
+      "imageable": true,
+      "tags": [
+        "fruit",
+        "food"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "obst",
+        "nachtisch"
+      ]
+    },
+    {
+      "id": "kirsche",
+      "word": "die Kirsche",
+      "lemma": "Kirsche",
+      "translation": "cherry",
+      "translations": [
+        "cherry"
+      ],
+      "level": "A2",
+      "category": "Food & Groceries",
+      "partOfSpeech": "noun",
+      "frequency": 980,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Kirschen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Kirschen sind schon reif.",
+          "en": "The cherries are already ripe."
+        },
+        {
+          "de": "Ich mag Kuchen mit Kirschen.",
+          "en": "I like cake with cherries."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Im Garten hängen viele rote ___.",
+          "answer": "Kirschen",
+          "en": "There are a lot of red cherries hanging in the garden."
+        }
+      ],
+      "notes": null,
+      "mnemonic": "Kirsche ~ cherry.",
+      "germany_context": null,
+      "emoji": "🍒",
+      "imageable": true,
+      "tags": [
+        "fruit",
+        "food"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "kuchen",
+        "obst"
+      ]
+    },
+    {
+      "id": "melone",
+      "word": "die Melone",
+      "lemma": "Melone",
+      "translation": "melon",
+      "translations": [
+        "melon",
+        "watermelon"
+      ],
+      "level": "A2",
+      "category": "Food & Groceries",
+      "partOfSpeech": "noun",
+      "frequency": 1050,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Melonen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Melone ist schön kalt.",
+          "en": "The melon is nice and cold."
+        },
+        {
+          "de": "Im Sommer esse ich viel Melone.",
+          "en": "In summer I eat a lot of melon."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Kannst du bitte die ___ schneiden?",
+          "answer": "Melone",
+          "en": "Can you cut the melon, please?"
+        }
+      ],
+      "notes": "Watermelon is 'die Wassermelone', honeydew 'die Honigmelone'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🍉",
+      "imageable": true,
+      "tags": [
+        "fruit",
+        "food",
+        "summer"
+      ],
+      "synonyms": [
+        "Wassermelone"
+      ],
+      "antonyms": [],
+      "related": [
+        "obst"
+      ]
+    },
+    {
+      "id": "ananas",
+      "word": "die Ananas",
+      "lemma": "Ananas",
+      "translation": "pineapple",
+      "translations": [
+        "pineapple"
+      ],
+      "level": "A2",
+      "category": "Food & Groceries",
+      "partOfSpeech": "noun",
+      "frequency": 1300,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Ananas",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Ananas ist süß und saftig.",
+          "en": "The pineapple is sweet and juicy."
+        },
+        {
+          "de": "Ich kaufe eine Dose Ananas.",
+          "en": "I am buying a can of pineapple."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Auf meine Pizza kommt keine ___.",
+          "answer": "Ananas",
+          "en": "No pineapple goes on my pizza."
+        }
+      ],
+      "notes": "The plural usually stays the same: die Ananas.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🍍",
+      "imageable": true,
+      "tags": [
+        "fruit",
+        "food"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "obst"
+      ]
+    },
+    {
+      "id": "beere",
+      "word": "die Beere",
+      "lemma": "Beere",
+      "translation": "berry",
+      "translations": [
+        "berry"
+      ],
+      "level": "A2",
+      "category": "Food & Groceries",
+      "partOfSpeech": "noun",
+      "frequency": 1200,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Beeren",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Im Wald wachsen viele Beeren.",
+          "en": "Many berries grow in the forest."
+        },
+        {
+          "de": "Ich kaufe gefrorene Beeren für den Smoothie.",
+          "en": "I buy frozen berries for the smoothie."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Diese ___ darfst du nicht essen, sie ist giftig.",
+          "answer": "Beere",
+          "en": "You must not eat this berry, it is poisonous."
+        }
+      ],
+      "notes": "Base word for Erdbeere, Himbeere (raspberry), Blaubeere (blueberry).",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🫐",
+      "imageable": true,
+      "tags": [
+        "fruit",
+        "food"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "erdbeere",
+        "obst"
+      ]
+    },
+    {
+      "id": "kartoffel",
+      "word": "die Kartoffel",
+      "lemma": "Kartoffel",
+      "translation": "potato",
+      "translations": [
+        "potato"
+      ],
+      "level": "A1",
+      "category": "Food & Groceries",
+      "partOfSpeech": "noun",
+      "frequency": 330,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Kartoffeln",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Kartoffeln sind hier sehr billig.",
+          "en": "Potatoes are very cheap here."
+        },
+        {
+          "de": "Ich koche heute Kartoffeln mit Fisch.",
+          "en": "Today I am cooking potatoes with fish."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Kauf bitte ein Kilo ___ im Supermarkt.",
+          "answer": "Kartoffeln",
+          "en": "Please buy a kilo of potatoes at the supermarket."
+        }
+      ],
+      "notes": "Usually plural when cooking. Fries are 'Pommes', mashed potato 'Kartoffelpüree'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🥔",
+      "imageable": true,
+      "tags": [
+        "vegetable",
+        "food",
+        "staple"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "gemuese",
+        "fleisch"
+      ]
+    },
+    {
+      "id": "tomate",
+      "word": "die Tomate",
+      "lemma": "Tomate",
+      "translation": "tomato",
+      "translations": [
+        "tomato"
+      ],
+      "level": "A1",
+      "category": "Food & Groceries",
+      "partOfSpeech": "noun",
+      "frequency": 430,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Tomaten",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Tomaten sind rot und reif.",
+          "en": "The tomatoes are red and ripe."
+        },
+        {
+          "de": "Ich mache einen Salat mit Tomaten.",
+          "en": "I am making a salad with tomatoes."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Auf mein Brot kommt eine ___.",
+          "answer": "Tomate",
+          "en": "A tomato goes on my bread."
+        }
+      ],
+      "notes": null,
+      "mnemonic": "TomatE ends in -e → die.",
+      "germany_context": null,
+      "emoji": "🍅",
+      "imageable": true,
+      "tags": [
+        "vegetable",
+        "food"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "gemuese",
+        "salat"
+      ]
+    },
+    {
+      "id": "gurke",
+      "word": "die Gurke",
+      "lemma": "Gurke",
+      "translation": "cucumber",
+      "translations": [
+        "cucumber",
+        "pickle"
+      ],
+      "level": "A1",
+      "category": "Food & Groceries",
+      "partOfSpeech": "noun",
+      "frequency": 690,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Gurken",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Gurke ist ganz frisch.",
+          "en": "The cucumber is completely fresh."
+        },
+        {
+          "de": "Ich schneide die Gurke in den Salat.",
+          "en": "I am cutting the cucumber into the salad."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Im Kühlschrank liegt noch eine halbe ___.",
+          "answer": "Gurke",
+          "en": "There is still half a cucumber in the fridge."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "In shops 'Salatgurke' is the long fresh cucumber, while 'Gewürzgurke' in a jar is the pickled one — Spreewälder Gurken are the famous regional brand.",
+      "emoji": "🥒",
+      "imageable": true,
+      "tags": [
+        "vegetable",
+        "food"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "salat",
+        "tomate"
+      ]
+    },
+    {
+      "id": "zwiebel",
+      "word": "die Zwiebel",
+      "lemma": "Zwiebel",
+      "translation": "onion",
+      "translations": [
+        "onion"
+      ],
+      "level": "A1",
+      "category": "Food & Groceries",
+      "partOfSpeech": "noun",
+      "frequency": 620,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Zwiebeln",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Beim Schneiden von Zwiebeln weine ich immer.",
+          "en": "I always cry when cutting onions."
+        },
+        {
+          "de": "Ich brauche noch zwei Zwiebeln.",
+          "en": "I still need two onions."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Brate die ___ kurz in Öl an.",
+          "answer": "Zwiebeln",
+          "en": "Fry the onions briefly in oil."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🧅",
+      "imageable": true,
+      "tags": [
+        "vegetable",
+        "food",
+        "cooking"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "knoblauch",
+        "oel"
+      ]
+    },
+    {
+      "id": "knoblauch",
+      "word": "der Knoblauch",
+      "lemma": "Knoblauch",
+      "translation": "garlic",
+      "translations": [
+        "garlic"
+      ],
+      "level": "A2",
+      "category": "Food & Groceries",
+      "partOfSpeech": "noun",
+      "frequency": 830,
+      "gender": "m",
+      "article": "der",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich koche sehr gern mit Knoblauch.",
+          "en": "I really like cooking with garlic."
+        },
+        {
+          "de": "Der Knoblauch ist ganz frisch.",
+          "en": "The garlic is completely fresh."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Tu bitte etwas ___ in die Soße.",
+          "answer": "Knoblauch",
+          "en": "Please put some garlic in the sauce."
+        }
+      ],
+      "notes": "Uncountable — you buy 'eine Knoblauchzehe' (a clove) or 'eine Knolle' (a bulb).",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🧄",
+      "imageable": true,
+      "tags": [
+        "vegetable",
+        "food",
+        "cooking"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "zwiebel"
+      ]
+    },
+    {
+      "id": "karotte",
+      "word": "die Karotte",
+      "lemma": "Karotte",
+      "translation": "carrot",
+      "translations": [
+        "carrot"
+      ],
+      "level": "A1",
+      "category": "Food & Groceries",
+      "partOfSpeech": "noun",
+      "frequency": 700,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Karotten",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Karotten sind für die Suppe.",
+          "en": "The carrots are for the soup."
+        },
+        {
+          "de": "Mein Sohn isst gern rohe Karotten.",
+          "en": "My son likes eating raw carrots."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Schäl bitte drei ___ für das Essen.",
+          "answer": "Karotten",
+          "en": "Please peel three carrots for the meal."
+        }
+      ],
+      "notes": "In the north people say 'die Möhre', in the south-west 'das Rübli'; 'Karotte' is understood everywhere.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🥕",
+      "imageable": true,
+      "tags": [
+        "vegetable",
+        "food"
+      ],
+      "synonyms": [
+        "Möhre"
+      ],
+      "antonyms": [],
+      "related": [
+        "gemuese",
+        "suppe"
+      ]
+    },
+    {
+      "id": "salat",
+      "word": "der Salat",
+      "lemma": "Salat",
+      "translation": "salad",
+      "translations": [
+        "salad",
+        "lettuce"
+      ],
+      "level": "A1",
+      "category": "Food & Groceries",
+      "partOfSpeech": "noun",
+      "frequency": 440,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Salate",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich esse jeden Tag Salat.",
+          "en": "I eat salad every day."
+        },
+        {
+          "de": "Der Salat ist mit Tomaten und Gurke.",
+          "en": "The salad has tomatoes and cucumber in it."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Zum Mittagessen nehme ich einen kleinen ___.",
+          "answer": "Salat",
+          "en": "For lunch I will have a small salad."
+        }
+      ],
+      "notes": "'Salat' means both the lettuce and the finished dish.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🥗",
+      "imageable": true,
+      "tags": [
+        "vegetable",
+        "food",
+        "dish"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "tomate",
+        "gurke"
+      ]
+    },
+    {
+      "id": "paprika",
+      "word": "die Paprika",
+      "lemma": "Paprika",
+      "translation": "bell pepper",
+      "translations": [
+        "bell pepper",
+        "pepper"
+      ],
+      "level": "A2",
+      "category": "Food & Groceries",
+      "partOfSpeech": "noun",
+      "frequency": 780,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Paprikas",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die rote Paprika schmeckt süß.",
+          "en": "The red bell pepper tastes sweet."
+        },
+        {
+          "de": "Ich kaufe drei Paprikas für den Salat.",
+          "en": "I am buying three bell peppers for the salad."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Schneide die ___ in kleine Stücke.",
+          "answer": "Paprika",
+          "en": "Cut the bell pepper into small pieces."
+        }
+      ],
+      "notes": "The vegetable is 'die Paprika'; the red powder spice is 'das Paprikapulver'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🫑",
+      "imageable": true,
+      "tags": [
+        "vegetable",
+        "food"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "gemuese",
+        "salat"
+      ]
+    },
+    {
+      "id": "pilz",
+      "word": "der Pilz",
+      "lemma": "Pilz",
+      "translation": "mushroom",
+      "translations": [
+        "mushroom"
+      ],
+      "level": "A2",
+      "category": "Food & Groceries",
+      "partOfSpeech": "noun",
+      "frequency": 880,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Pilze",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Pilze sind frisch vom Markt.",
+          "en": "The mushrooms are fresh from the market."
+        },
+        {
+          "de": "Ich mache Nudeln mit Pilzen.",
+          "en": "I am making pasta with mushrooms."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Im Herbst sammeln viele Leute ___ im Wald.",
+          "answer": "Pilze",
+          "en": "In autumn a lot of people collect mushrooms in the forest."
+        }
+      ],
+      "notes": "The common supermarket kind is 'der Champignon'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🍄",
+      "imageable": true,
+      "tags": [
+        "vegetable",
+        "food"
+      ],
+      "synonyms": [
+        "Champignon"
+      ],
+      "antonyms": [],
+      "related": [
+        "nudel",
+        "gemuese"
+      ]
+    },
+    {
+      "id": "kohl",
+      "word": "der Kohl",
+      "lemma": "Kohl",
+      "translation": "cabbage",
+      "translations": [
+        "cabbage"
+      ],
+      "level": "A2",
+      "category": "Food & Groceries",
+      "partOfSpeech": "noun",
+      "frequency": 1400,
+      "gender": "m",
+      "article": "der",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Kohl ist im Winter sehr günstig.",
+          "en": "Cabbage is very cheap in winter."
+        },
+        {
+          "de": "Meine Nachbarin kocht oft Kohl.",
+          "en": "My neighbour often cooks cabbage."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Zu Weihnachten gibt es bei uns Ente mit ___.",
+          "answer": "Kohl",
+          "en": "At Christmas we have duck with cabbage."
+        }
+      ],
+      "notes": "Mass noun in everyday use. Types: Rotkohl (red), Weißkohl (white), Grünkohl (kale).",
+      "mnemonic": null,
+      "germany_context": "Sauerkraut (fermented white cabbage) and Rotkohl are classic winter side dishes and are sold ready-made in jars in every supermarket.",
+      "emoji": "🥬",
+      "imageable": true,
+      "tags": [
+        "vegetable",
+        "food",
+        "winter"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "gemuese"
+      ]
+    },
+    {
+      "id": "spinat",
+      "word": "der Spinat",
+      "lemma": "Spinat",
+      "translation": "spinach",
+      "translations": [
+        "spinach"
+      ],
+      "level": "A2",
+      "category": "Food & Groceries",
+      "partOfSpeech": "noun",
+      "frequency": 1150,
+      "gender": "m",
+      "article": "der",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich esse gern Spinat mit Ei.",
+          "en": "I like eating spinach with egg."
+        },
+        {
+          "de": "Der Spinat liegt im Tiefkühlregal.",
+          "en": "The spinach is in the frozen food aisle."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Kannst du bitte ___ mitbringen?",
+          "answer": "Spinat",
+          "en": "Can you bring some spinach, please?"
+        }
+      ],
+      "notes": "Uncountable, like most vegetables sold by weight.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🌿",
+      "imageable": true,
+      "tags": [
+        "vegetable",
+        "food"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "gemuese",
+        "ei"
+      ]
+    },
+    {
+      "id": "brokkoli",
+      "word": "der Brokkoli",
+      "lemma": "Brokkoli",
+      "translation": "broccoli",
+      "translations": [
+        "broccoli"
+      ],
+      "level": "A2",
+      "category": "Food & Groceries",
+      "partOfSpeech": "noun",
+      "frequency": 1250,
+      "gender": "m",
+      "article": "der",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Brokkoli ist noch schön grün.",
+          "en": "The broccoli is still nice and green."
+        },
+        {
+          "de": "Ich esse Brokkoli mit Reis.",
+          "en": "I eat broccoli with rice."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Kochst du bitte den ___ nicht zu lange?",
+          "answer": "Brokkoli",
+          "en": "Could you please not cook the broccoli too long?"
+        }
+      ],
+      "notes": "Usually uncountable; the plural 'die Brokkolis' is rare.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🥦",
+      "imageable": true,
+      "tags": [
+        "vegetable",
+        "food"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "gemuese",
+        "reis"
+      ]
+    },
+    {
+      "id": "bohne",
+      "word": "die Bohne",
+      "lemma": "Bohne",
+      "translation": "bean",
+      "translations": [
+        "bean"
+      ],
+      "level": "A2",
+      "category": "Food & Groceries",
+      "partOfSpeech": "noun",
+      "frequency": 950,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Bohnen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Grüne Bohnen schmecken mir gut.",
+          "en": "I like green beans."
+        },
+        {
+          "de": "Die Bohnen sind aus der Dose.",
+          "en": "The beans are from a can."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Zum Fleisch gibt es Kartoffeln und ___.",
+          "answer": "Bohnen",
+          "en": "With the meat there are potatoes and beans."
+        }
+      ],
+      "notes": "Coffee beans are 'Kaffeebohnen'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🫘",
+      "imageable": true,
+      "tags": [
+        "vegetable",
+        "food"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "erbse",
+        "gemuese"
+      ]
+    },
+    {
+      "id": "erbse",
+      "word": "die Erbse",
+      "lemma": "Erbse",
+      "translation": "pea",
+      "translations": [
+        "pea"
+      ],
+      "level": "A2",
+      "category": "Food & Groceries",
+      "partOfSpeech": "noun",
+      "frequency": 1100,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Erbsen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Erbsen gibt es auch tiefgefroren.",
+          "en": "Peas are also available frozen."
+        },
+        {
+          "de": "Die Suppe ist mit Erbsen und Karotten.",
+          "en": "The soup has peas and carrots in it."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Mein Kind mag keine ___.",
+          "answer": "Erbsen",
+          "en": "My child does not like peas."
+        }
+      ],
+      "notes": "Almost always plural.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🫛",
+      "imageable": true,
+      "tags": [
+        "vegetable",
+        "food"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "bohne",
+        "suppe"
+      ]
+    },
+    {
+      "id": "mais",
+      "word": "der Mais",
+      "lemma": "Mais",
+      "translation": "corn",
+      "translations": [
+        "corn",
+        "sweetcorn",
+        "maize"
+      ],
+      "level": "A2",
+      "category": "Food & Groceries",
+      "partOfSpeech": "noun",
+      "frequency": 1050,
+      "gender": "m",
+      "article": "der",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich mache Salat mit Mais.",
+          "en": "I am making salad with corn."
+        },
+        {
+          "de": "Der Mais kommt aus der Dose.",
+          "en": "The corn comes from a can."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Auf den Salat kommt noch etwas ___.",
+          "answer": "Mais",
+          "en": "A bit of corn goes on the salad as well."
+        }
+      ],
+      "notes": "Uncountable; a corn cob is 'der Maiskolben'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🌽",
+      "imageable": true,
+      "tags": [
+        "vegetable",
+        "food"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "salat",
+        "gemuese"
+      ]
+    },
+    {
+      "id": "fleisch",
+      "word": "das Fleisch",
+      "lemma": "Fleisch",
+      "translation": "meat",
+      "translations": [
+        "meat",
+        "flesh"
+      ],
+      "level": "A1",
+      "category": "Food & Groceries",
+      "partOfSpeech": "noun",
+      "frequency": 300,
+      "gender": "n",
+      "article": "das",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich esse nur wenig Fleisch.",
+          "en": "I only eat a little meat."
+        },
+        {
+          "de": "Das Fleisch ist noch nicht durch.",
+          "en": "The meat is not cooked through yet."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Kaufst du bitte ___ für heute Abend?",
+          "answer": "Fleisch",
+          "en": "Could you buy meat for tonight, please?"
+        }
+      ],
+      "notes": "Mass noun — no plural in everyday use.",
+      "mnemonic": null,
+      "germany_context": "Fresh meat comes from the Fleischtheke (counter) in the supermarket or from a Metzgerei (butcher). The label 'Haltungsform 1–4' tells you the animal welfare level, 4 being the best.",
+      "emoji": "🥩",
+      "imageable": true,
+      "tags": [
+        "meat",
+        "food",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "wurst",
+        "haehnchen"
+      ]
+    },
+    {
+      "id": "rindfleisch",
+      "word": "das Rindfleisch",
+      "lemma": "Rindfleisch",
+      "translation": "beef",
+      "translations": [
+        "beef"
+      ],
+      "level": "A2",
+      "category": "Food & Groceries",
+      "partOfSpeech": "noun",
+      "frequency": 900,
+      "gender": "n",
+      "article": "das",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Rindfleisch ist teurer als Hähnchen.",
+          "en": "Beef is more expensive than chicken."
+        },
+        {
+          "de": "Ich brauche ein halbes Kilo Rindfleisch.",
+          "en": "I need half a kilo of beef."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Die Suppe ist mit ___ gekocht.",
+          "answer": "Rindfleisch",
+          "en": "The soup is cooked with beef."
+        }
+      ],
+      "notes": "'das Rind' = the cow/cattle; minced beef is 'Rinderhack'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🐄",
+      "imageable": true,
+      "tags": [
+        "meat",
+        "food"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "fleisch",
+        "hackfleisch"
+      ]
+    },
+    {
+      "id": "schweinefleisch",
+      "word": "das Schweinefleisch",
+      "lemma": "Schweinefleisch",
+      "translation": "pork",
+      "translations": [
+        "pork"
+      ],
+      "level": "A2",
+      "category": "Food & Groceries",
+      "partOfSpeech": "noun",
+      "frequency": 950,
+      "gender": "n",
+      "article": "das",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich esse kein Schweinefleisch.",
+          "en": "I do not eat pork."
+        },
+        {
+          "de": "Viele Wurstsorten sind aus Schweinefleisch.",
+          "en": "Many kinds of sausage are made from pork."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Enthält diese Wurst ___?",
+          "answer": "Schweinefleisch",
+          "en": "Does this sausage contain pork?"
+        }
+      ],
+      "notes": "'das Schwein' = pig. Useful sentence: 'Ich esse kein Schweinefleisch.'",
+      "mnemonic": null,
+      "germany_context": "Pork is in a lot of German sausage and cold cuts, so check the Zutatenliste for 'Schwein'. Most cities have Turkish or Arabic supermarkets with halal meat, and poultry products are clearly labelled 'Geflügel'.",
+      "emoji": "🐖",
+      "imageable": true,
+      "tags": [
+        "meat",
+        "food"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "fleisch",
+        "wurst"
+      ]
+    },
+    {
+      "id": "haehnchen",
+      "word": "das Hähnchen",
+      "lemma": "Hähnchen",
+      "translation": "chicken",
+      "translations": [
+        "chicken"
+      ],
+      "level": "A1",
+      "category": "Food & Groceries",
+      "partOfSpeech": "noun",
+      "frequency": 680,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Hähnchen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Wir essen heute Hähnchen mit Reis.",
+          "en": "Today we are eating chicken with rice."
+        },
+        {
+          "de": "Das Hähnchen ist im Angebot.",
+          "en": "The chicken is on offer."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich kaufe ein halbes ___ beim Metzger.",
+          "answer": "Hähnchen",
+          "en": "I am buying half a chicken at the butcher's."
+        }
+      ],
+      "notes": "Neuter because of the -chen ending. Chicken breast is 'die Hähnchenbrust'; poultry in general is 'das Geflügel'.",
+      "mnemonic": "Every -chen word is neuter → das Hähnchen.",
+      "germany_context": null,
+      "emoji": "🍗",
+      "imageable": true,
+      "tags": [
+        "meat",
+        "food"
+      ],
+      "synonyms": [
+        "Huhn"
+      ],
+      "antonyms": [],
+      "related": [
+        "fleisch",
+        "reis"
+      ]
+    },
+    {
+      "id": "hackfleisch",
+      "word": "das Hackfleisch",
+      "lemma": "Hackfleisch",
+      "translation": "minced meat",
+      "translations": [
+        "minced meat",
+        "ground beef"
+      ],
+      "level": "A2",
+      "category": "Food & Groceries",
+      "partOfSpeech": "noun",
+      "frequency": 820,
+      "gender": "n",
+      "article": "das",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Für die Soße brauche ich Hackfleisch.",
+          "en": "I need minced meat for the sauce."
+        },
+        {
+          "de": "Das Hackfleisch ist ganz frisch.",
+          "en": "The minced meat is completely fresh."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ein halbes Kilo ___, bitte.",
+          "answer": "Hackfleisch",
+          "en": "Half a kilo of minced meat, please."
+        }
+      ],
+      "notes": "Short form: 'Hack'. 'Rinderhack' is pure beef.",
+      "mnemonic": null,
+      "germany_context": "'Gemischtes Hack' is half beef, half pork — ask for 'Rinderhack' if you do not eat pork. Loose minced meat from the counter must be sold on the day it is made, so it is always fresh.",
+      "emoji": "🍖",
+      "imageable": true,
+      "tags": [
+        "meat",
+        "food",
+        "cooking"
+      ],
+      "synonyms": [
+        "Hack"
+      ],
+      "antonyms": [],
+      "related": [
+        "fleisch",
+        "rindfleisch"
+      ]
+    },
+    {
+      "id": "wurst",
+      "word": "die Wurst",
+      "lemma": "Wurst",
+      "translation": "sausage",
+      "translations": [
+        "sausage",
+        "cold cuts"
+      ],
+      "level": "A1",
+      "category": "Food & Groceries",
+      "partOfSpeech": "noun",
+      "frequency": 380,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Würste",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Auf mein Brot kommt Wurst und Käse.",
+          "en": "Sausage and cheese go on my bread."
+        },
+        {
+          "de": "Hier gibt es sehr viele Wurstsorten.",
+          "en": "There are a great many kinds of sausage here."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Zum Frühstück esse ich Brot mit ___.",
+          "answer": "Wurst",
+          "en": "For breakfast I eat bread with sausage."
+        }
+      ],
+      "notes": "Plural with umlaut: die Würste. 'Das ist mir Wurst' means 'I don't care'.",
+      "mnemonic": null,
+      "germany_context": "Germany has over 1,500 types of Wurst. At the counter ask for 'Aufschnitt' (sliced cold cuts) by weight: '100 Gramm, bitte.' Bratwurst and Currywurst are the classic street food.",
+      "emoji": "🌭",
+      "imageable": true,
+      "tags": [
+        "meat",
+        "food",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "schinken",
+        "brot"
+      ]
+    },
+    {
+      "id": "schinken",
+      "word": "der Schinken",
+      "lemma": "Schinken",
+      "translation": "ham",
+      "translations": [
+        "ham"
+      ],
+      "level": "A2",
+      "category": "Food & Groceries",
+      "partOfSpeech": "noun",
+      "frequency": 720,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Schinken",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich nehme ein Brötchen mit Schinken.",
+          "en": "I will have a roll with ham."
+        },
+        {
+          "de": "Der Schinken ist aus Italien.",
+          "en": "The ham is from Italy."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Auf die Pizza kommen ___ und Pilze.",
+          "answer": "Schinken",
+          "en": "Ham and mushrooms go on the pizza."
+        }
+      ],
+      "notes": "'Gekochter Schinken' is cooked ham, 'roher Schinken' is cured ham.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🥓",
+      "imageable": true,
+      "tags": [
+        "meat",
+        "food"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "wurst",
+        "broetchen"
+      ]
+    },
+    {
+      "id": "speck",
+      "word": "der Speck",
+      "lemma": "Speck",
+      "translation": "bacon",
+      "translations": [
+        "bacon"
+      ],
+      "level": "A2",
+      "category": "Food & Groceries",
+      "partOfSpeech": "noun",
+      "frequency": 1100,
+      "gender": "m",
+      "article": "der",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich brate Speck in der Pfanne.",
+          "en": "I am frying bacon in the pan."
+        },
+        {
+          "de": "Nudeln mit Speck und Sahne sind schnell gemacht.",
+          "en": "Pasta with bacon and cream is quick to make."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "In die Suppe kommt noch etwas ___.",
+          "answer": "Speck",
+          "en": "A bit of bacon goes into the soup as well."
+        }
+      ],
+      "notes": "Sold as 'Speckwürfel' (cubes) or 'Frühstücksspeck' (strips).",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🥓",
+      "imageable": true,
+      "tags": [
+        "meat",
+        "food"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "nudel",
+        "schinken"
+      ]
+    },
+    {
+      "id": "fisch",
+      "word": "der Fisch",
+      "lemma": "Fisch",
+      "translation": "fish",
+      "translations": [
+        "fish"
+      ],
+      "level": "A1",
+      "category": "Food & Groceries",
+      "partOfSpeech": "noun",
+      "frequency": 340,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Fische",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Freitags essen wir oft Fisch.",
+          "en": "On Fridays we often eat fish."
+        },
+        {
+          "de": "Der Fisch ist ganz frisch.",
+          "en": "The fish is completely fresh."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "An der Theke gibt es frischen ___.",
+          "answer": "Fisch",
+          "en": "There is fresh fish at the counter."
+        }
+      ],
+      "notes": null,
+      "mnemonic": "FISCH ~ fish.",
+      "germany_context": "Bigger supermarkets have a Fischtheke where you can have fish filleted for free. 'Nordsee' is the common fish fast-food chain in stations and city centres.",
+      "emoji": "🐟",
+      "imageable": true,
+      "tags": [
+        "fish",
+        "food",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "lachs",
+        "zitrone"
+      ]
+    },
+    {
+      "id": "lachs",
+      "word": "der Lachs",
+      "lemma": "Lachs",
+      "translation": "salmon",
+      "translations": [
+        "salmon"
+      ],
+      "level": "A2",
+      "category": "Food & Groceries",
+      "partOfSpeech": "noun",
+      "frequency": 1000,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Lachse",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich esse gern Lachs mit Zitrone.",
+          "en": "I like eating salmon with lemon."
+        },
+        {
+          "de": "Der Lachs ist geräuchert.",
+          "en": "The salmon is smoked."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Zum Frühstück gibt es Brötchen mit ___.",
+          "answer": "Lachs",
+          "en": "For breakfast there are rolls with salmon."
+        }
+      ],
+      "notes": "'Räucherlachs' = smoked salmon, sold in flat packs in the fridge.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🍣",
+      "imageable": true,
+      "tags": [
+        "fish",
+        "food"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "fisch",
+        "broetchen"
+      ]
+    },
+    {
+      "id": "thunfisch",
+      "word": "der Thunfisch",
+      "lemma": "Thunfisch",
+      "translation": "tuna",
+      "translations": [
+        "tuna"
+      ],
+      "level": "A2",
+      "category": "Food & Groceries",
+      "partOfSpeech": "noun",
+      "frequency": 1200,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Thunfische",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich kaufe eine Dose Thunfisch.",
+          "en": "I am buying a can of tuna."
+        },
+        {
+          "de": "Der Salat ist mit Thunfisch.",
+          "en": "The salad has tuna in it."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Auf die Pizza kommt ___ und Zwiebel.",
+          "answer": "Thunfisch",
+          "en": "Tuna and onion go on the pizza."
+        }
+      ],
+      "notes": "Usually bought canned: 'Thunfisch in Öl' or 'im eigenen Saft'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🥫",
+      "imageable": true,
+      "tags": [
+        "fish",
+        "food"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "fisch",
+        "salat"
+      ]
+    },
+    {
+      "id": "garnele",
+      "word": "die Garnele",
+      "lemma": "Garnele",
+      "translation": "shrimp",
+      "translations": [
+        "shrimp",
+        "prawn"
+      ],
+      "level": "A2",
+      "category": "Food & Groceries",
+      "partOfSpeech": "noun",
+      "frequency": 1550,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Garnelen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Garnelen sind aus dem Tiefkühlfach.",
+          "en": "The prawns are from the freezer."
+        },
+        {
+          "de": "Ich mache Nudeln mit Garnelen.",
+          "en": "I am making pasta with prawns."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich esse keine ___, ich habe eine Allergie.",
+          "answer": "Garnelen",
+          "en": "I do not eat prawns, I have an allergy."
+        }
+      ],
+      "notes": "Northern Germany also says 'Krabben' for small shrimp.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🦐",
+      "imageable": true,
+      "tags": [
+        "fish",
+        "seafood",
+        "food"
+      ],
+      "synonyms": [
+        "Krabbe"
+      ],
+      "antonyms": [],
+      "related": [
+        "fisch",
+        "nudel"
+      ]
+    },
+    {
+      "id": "milch",
+      "word": "die Milch",
+      "lemma": "Milch",
+      "translation": "milk",
+      "translations": [
+        "milk"
+      ],
+      "level": "A0",
+      "category": "Food & Groceries",
+      "partOfSpeech": "noun",
+      "frequency": 190,
+      "gender": "f",
+      "article": "die",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich trinke Kaffee mit Milch.",
+          "en": "I drink coffee with milk."
+        },
+        {
+          "de": "Die Milch ist leer.",
+          "en": "The milk is finished."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Kaufst du bitte einen Liter ___?",
+          "answer": "Milch",
+          "en": "Could you buy a litre of milk, please?"
+        }
+      ],
+      "notes": "No plural. 'Die Milch ist alle' is the everyday way to say you have run out.",
+      "mnemonic": null,
+      "germany_context": "Most German milk is H-Milch (UHT) and stands unrefrigerated on the shelf; 'frische Milch' is in the fridge. The fat content is printed large: 1,5 % or 3,5 %.",
+      "emoji": "🥛",
+      "imageable": true,
+      "tags": [
+        "dairy",
+        "food",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "kaese",
+        "butter"
+      ]
+    },
+    {
+      "id": "kaese",
+      "word": "der Käse",
+      "lemma": "Käse",
+      "translation": "cheese",
+      "translations": [
+        "cheese"
+      ],
+      "level": "A1",
+      "category": "Food & Groceries",
+      "partOfSpeech": "noun",
+      "frequency": 250,
+      "gender": "m",
+      "article": "der",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich esse Brot mit Käse.",
+          "en": "I eat bread with cheese."
+        },
+        {
+          "de": "Der Käse riecht sehr stark.",
+          "en": "The cheese smells very strong."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Auf die Nudeln kommt geriebener ___.",
+          "answer": "Käse",
+          "en": "Grated cheese goes on the pasta."
+        }
+      ],
+      "notes": "The plural 'die Käse' is rare; people say 'die Käsesorten' (kinds of cheese).",
+      "mnemonic": null,
+      "germany_context": "Pre-packed cheese is cheapest, but at the Käsetheke you can ask for a piece: 'Ein Stück Gouda, bitte' or '200 Gramm, bitte.'",
+      "emoji": "🧀",
+      "imageable": true,
+      "tags": [
+        "dairy",
+        "food",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "milch",
+        "brot"
+      ]
+    },
+    {
+      "id": "butter",
+      "word": "die Butter",
+      "lemma": "Butter",
+      "translation": "butter",
+      "translations": [
+        "butter"
+      ],
+      "level": "A1",
+      "category": "Food & Groceries",
+      "partOfSpeech": "noun",
+      "frequency": 330,
+      "gender": "f",
+      "article": "die",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Butter ist im Kühlschrank.",
+          "en": "The butter is in the fridge."
+        },
+        {
+          "de": "Ich mache Butter auf das Brot.",
+          "en": "I put butter on the bread."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Zum Backen brauche ich 200 Gramm ___.",
+          "answer": "Butter",
+          "en": "For baking I need 200 grams of butter."
+        }
+      ],
+      "notes": "Feminine in German although it looks like an -er word; no plural.",
+      "mnemonic": "Die Butter — feminine, unlike most -er nouns.",
+      "germany_context": null,
+      "emoji": "🧈",
+      "imageable": true,
+      "tags": [
+        "dairy",
+        "food",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "brot",
+        "milch"
+      ]
+    },
+    {
+      "id": "joghurt",
+      "word": "der Joghurt",
+      "lemma": "Joghurt",
+      "translation": "yoghurt",
+      "translations": [
+        "yoghurt",
+        "yogurt"
+      ],
+      "level": "A1",
+      "category": "Food & Groceries",
+      "partOfSpeech": "noun",
+      "frequency": 600,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Joghurts",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich esse morgens einen Joghurt.",
+          "en": "I eat a yoghurt in the morning."
+        },
+        {
+          "de": "Der Joghurt ist mit Erdbeeren.",
+          "en": "The yoghurt has strawberries in it."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Im Kühlschrank steht noch ein ___.",
+          "answer": "Joghurt",
+          "en": "There is still a yoghurt in the fridge."
+        }
+      ],
+      "notes": "Both 'der Joghurt' and 'das Joghurt' are correct; 'der' is standard in Germany.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🥣",
+      "imageable": true,
+      "tags": [
+        "dairy",
+        "food",
+        "breakfast"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "quark",
+        "muesli"
+      ]
+    },
+    {
+      "id": "quark",
+      "word": "der Quark",
+      "lemma": "Quark",
+      "translation": "quark",
+      "translations": [
+        "quark",
+        "curd cheese"
+      ],
+      "level": "A2",
+      "category": "Food & Groceries",
+      "partOfSpeech": "noun",
+      "frequency": 900,
+      "gender": "m",
+      "article": "der",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich esse Quark mit Früchten.",
+          "en": "I eat quark with fruit."
+        },
+        {
+          "de": "Der Quark ist fettarm.",
+          "en": "The quark is low in fat."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Für den Käsekuchen brauche ich 500 Gramm ___.",
+          "answer": "Quark",
+          "en": "For the cheesecake I need 500 grams of quark."
+        }
+      ],
+      "notes": "'Quark' is also slang for nonsense: 'Red keinen Quark!'",
+      "mnemonic": null,
+      "germany_context": "A German fridge staple sitting next to the yoghurt: a fresh soft cheese used for cheesecake (Käsekuchen), herb dips (Kräuterquark) and with fruit. Many countries do not have it at all.",
+      "emoji": "🍮",
+      "imageable": true,
+      "tags": [
+        "dairy",
+        "food"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "joghurt",
+        "kuchen"
+      ]
+    },
+    {
+      "id": "sahne",
+      "word": "die Sahne",
+      "lemma": "Sahne",
+      "translation": "cream",
+      "translations": [
+        "cream",
+        "whipped cream"
+      ],
+      "level": "A2",
+      "category": "Food & Groceries",
+      "partOfSpeech": "noun",
+      "frequency": 750,
+      "gender": "f",
+      "article": "die",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "In die Soße kommt noch Sahne.",
+          "en": "Cream goes into the sauce as well."
+        },
+        {
+          "de": "Möchtest du Kuchen mit Sahne?",
+          "en": "Would you like cake with cream?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich schlage die ___ für den Nachtisch.",
+          "answer": "Sahne",
+          "en": "I am whipping the cream for the dessert."
+        }
+      ],
+      "notes": "'Schlagsahne' is whipping cream, 'saure Sahne' is sour cream.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🥛",
+      "imageable": true,
+      "tags": [
+        "dairy",
+        "food"
+      ],
+      "synonyms": [
+        "Schlagsahne"
+      ],
+      "antonyms": [],
+      "related": [
+        "kuchen",
+        "milch"
+      ]
+    },
+    {
+      "id": "ei",
+      "word": "das Ei",
+      "lemma": "Ei",
+      "translation": "egg",
+      "translations": [
+        "egg"
+      ],
+      "level": "A1",
+      "category": "Food & Groceries",
+      "partOfSpeech": "noun",
+      "frequency": 220,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Eier",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich esse jeden Morgen ein Ei.",
+          "en": "I eat an egg every morning."
+        },
+        {
+          "de": "Die Eier sind aus Bio-Haltung.",
+          "en": "The eggs are organic."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wir brauchen noch sechs ___ für den Kuchen.",
+          "answer": "Eier",
+          "en": "We still need six eggs for the cake."
+        }
+      ],
+      "notes": "Irregular plural: das Ei → die Eier.",
+      "mnemonic": null,
+      "germany_context": "Eggs are sold unrefrigerated here. The stamp on each egg starts with the farming code: 0 = organic, 1 = free range, 2 = barn, 3 = cage.",
+      "emoji": "🥚",
+      "imageable": true,
+      "tags": [
+        "food",
+        "breakfast",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "fruehstueck",
+        "mehl"
+      ]
+    },
+    {
+      "id": "brot",
+      "word": "das Brot",
+      "lemma": "Brot",
+      "translation": "bread",
+      "translations": [
+        "bread",
+        "loaf"
+      ],
+      "level": "A0",
+      "category": "Food & Groceries",
+      "partOfSpeech": "noun",
+      "frequency": 170,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Brote",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich kaufe jeden Tag frisches Brot.",
+          "en": "I buy fresh bread every day."
+        },
+        {
+          "de": "Das Brot ist noch warm.",
+          "en": "The bread is still warm."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Zum Abendessen essen wir ___ mit Käse.",
+          "answer": "Brot",
+          "en": "For dinner we eat bread with cheese."
+        }
+      ],
+      "notes": "'ein Brot' is a whole loaf; a slice is 'eine Scheibe Brot'.",
+      "mnemonic": null,
+      "germany_context": "Bread is a serious matter here: hundreds of types, mostly dark and sourdough. Buy it at a Bäckerei; supermarkets have a self-service Brotschneidemaschine to slice your loaf.",
+      "emoji": "🍞",
+      "imageable": true,
+      "tags": [
+        "food",
+        "staple",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "broetchen",
+        "baeckerei"
+      ]
+    },
+    {
+      "id": "broetchen",
+      "word": "das Brötchen",
+      "lemma": "Brötchen",
+      "translation": "bread roll",
+      "translations": [
+        "bread roll",
+        "roll"
+      ],
+      "level": "A1",
+      "category": "Food & Groceries",
+      "partOfSpeech": "noun",
+      "frequency": 390,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Brötchen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich hole sechs Brötchen beim Bäcker.",
+          "en": "I am getting six rolls from the baker."
+        },
+        {
+          "de": "Das Brötchen ist mit Käse belegt.",
+          "en": "The roll has cheese on it."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Sonntagmorgen kaufe ich frische ___.",
+          "answer": "Brötchen",
+          "en": "On Sunday morning I buy fresh rolls."
+        }
+      ],
+      "notes": "Neuter because of -chen; plural is identical to the singular.",
+      "mnemonic": "-chen → das, always.",
+      "germany_context": "The Sunday morning Brötchen run is a ritual — many bakeries open for a few hours on Sunday even though other shops must stay closed. Regional names: Semmel (Bavaria), Schrippe (Berlin), Weck (south-west).",
+      "emoji": "🥖",
+      "imageable": true,
+      "tags": [
+        "food",
+        "breakfast",
+        "essential"
+      ],
+      "synonyms": [
+        "Semmel",
+        "Schrippe"
+      ],
+      "antonyms": [],
+      "related": [
+        "brot",
+        "baeckerei"
+      ]
+    },
+    {
+      "id": "toast",
+      "word": "der Toast",
+      "lemma": "Toast",
+      "translation": "toast",
+      "translations": [
+        "toast",
+        "sliced white bread"
+      ],
+      "level": "A2",
+      "category": "Food & Groceries",
+      "partOfSpeech": "noun",
+      "frequency": 900,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Toasts",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich mache mir einen Toast mit Käse.",
+          "en": "I am making myself a piece of toast with cheese."
+        },
+        {
+          "de": "Der Toast ist zu dunkel geworden.",
+          "en": "The toast has come out too dark."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Möchtest du ___ oder lieber Brötchen?",
+          "answer": "Toast",
+          "en": "Would you like toast or rather rolls?"
+        }
+      ],
+      "notes": "The uncut packaged loaf is 'das Toastbrot'; the toasted slice is 'der Toast'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🍞",
+      "imageable": true,
+      "tags": [
+        "food",
+        "breakfast"
+      ],
+      "synonyms": [
+        "Toastbrot"
+      ],
+      "antonyms": [],
+      "related": [
+        "brot",
+        "kaese"
+      ]
+    },
+    {
+      "id": "mehl",
+      "word": "das Mehl",
+      "lemma": "Mehl",
+      "translation": "flour",
+      "translations": [
+        "flour"
+      ],
+      "level": "A2",
+      "category": "Food & Groceries",
+      "partOfSpeech": "noun",
+      "frequency": 780,
+      "gender": "n",
+      "article": "das",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Für den Kuchen brauche ich Mehl.",
+          "en": "I need flour for the cake."
+        },
+        {
+          "de": "Das Mehl ist alle.",
+          "en": "The flour has run out."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Kauf bitte ein Kilo ___ mit.",
+          "answer": "Mehl",
+          "en": "Please buy a kilo of flour as well."
+        }
+      ],
+      "notes": "Mass noun, no plural in everyday use.",
+      "mnemonic": null,
+      "germany_context": "German flour is sold by Type number, not by 'plain' or 'self-raising': Type 405 is the standard white flour, 550 for rolls and pizza dough, 1050 is darker.",
+      "emoji": "🌾",
+      "imageable": true,
+      "tags": [
+        "food",
+        "staple",
+        "baking"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "kuchen",
+        "zucker"
+      ]
+    },
+    {
+      "id": "reis",
+      "word": "der Reis",
+      "lemma": "Reis",
+      "translation": "rice",
+      "translations": [
+        "rice"
+      ],
+      "level": "A1",
+      "category": "Food & Groceries",
+      "partOfSpeech": "noun",
+      "frequency": 420,
+      "gender": "m",
+      "article": "der",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich koche Reis zum Hähnchen.",
+          "en": "I am cooking rice to go with the chicken."
+        },
+        {
+          "de": "Der Reis ist noch nicht fertig.",
+          "en": "The rice is not ready yet."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Zum Fisch gibt es ___ und Gemüse.",
+          "answer": "Reis",
+          "en": "With the fish there is rice and vegetables."
+        }
+      ],
+      "notes": "Mass noun — no plural.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🍚",
+      "imageable": true,
+      "tags": [
+        "food",
+        "staple"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "nudel",
+        "haehnchen"
+      ]
+    },
+    {
+      "id": "nudel",
+      "word": "die Nudel",
+      "lemma": "Nudel",
+      "translation": "noodle",
+      "translations": [
+        "noodle",
+        "pasta"
+      ],
+      "level": "A1",
+      "category": "Food & Groceries",
+      "partOfSpeech": "noun",
+      "frequency": 400,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Nudeln",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Wir essen heute Nudeln mit Soße.",
+          "en": "Today we are eating pasta with sauce."
+        },
+        {
+          "de": "Die Nudeln sind in zehn Minuten fertig.",
+          "en": "The pasta will be ready in ten minutes."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Kochst du bitte die ___?",
+          "answer": "Nudeln",
+          "en": "Could you cook the pasta, please?"
+        }
+      ],
+      "notes": "Almost always used in the plural: 'Nudeln'. 'Pasta' is understood too.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🍝",
+      "imageable": true,
+      "tags": [
+        "food",
+        "staple"
+      ],
+      "synonyms": [
+        "Pasta"
+      ],
+      "antonyms": [],
+      "related": [
+        "reis",
+        "pilz"
+      ]
+    },
+    {
+      "id": "zucker",
+      "word": "der Zucker",
+      "lemma": "Zucker",
+      "translation": "sugar",
+      "translations": [
+        "sugar"
+      ],
+      "level": "A1",
+      "category": "Food & Groceries",
+      "partOfSpeech": "noun",
+      "frequency": 480,
+      "gender": "m",
+      "article": "der",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Nimmst du Zucker in den Kaffee?",
+          "en": "Do you take sugar in your coffee?"
+        },
+        {
+          "de": "Der Zucker steht im Schrank.",
+          "en": "The sugar is in the cupboard."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "In den Tee kommt ein Löffel ___.",
+          "answer": "Zucker",
+          "en": "A spoonful of sugar goes into the tea."
+        }
+      ],
+      "notes": "Mass noun. 'Zuckerfrei' on a label means sugar-free.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🍬",
+      "imageable": true,
+      "tags": [
+        "food",
+        "staple",
+        "baking"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "Salz"
+      ],
+      "related": [
+        "salz",
+        "mehl"
+      ]
+    },
+    {
+      "id": "salz",
+      "word": "das Salz",
+      "lemma": "Salz",
+      "translation": "salt",
+      "translations": [
+        "salt"
+      ],
+      "level": "A1",
+      "category": "Food & Groceries",
+      "partOfSpeech": "noun",
+      "frequency": 350,
+      "gender": "n",
+      "article": "das",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Kannst du mir bitte das Salz geben?",
+          "en": "Could you pass me the salt, please?"
+        },
+        {
+          "de": "In der Suppe fehlt Salz.",
+          "en": "The soup is missing salt."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Gib bitte noch etwas ___ dazu.",
+          "answer": "Salz",
+          "en": "Please add a bit more salt."
+        }
+      ],
+      "notes": "Mass noun. Pair phrase: 'Salz und Pfeffer'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🧂",
+      "imageable": true,
+      "tags": [
+        "food",
+        "staple",
+        "cooking"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "Zucker"
+      ],
+      "related": [
+        "pfeffer",
+        "zucker"
+      ]
+    },
+    {
+      "id": "pfeffer",
+      "word": "der Pfeffer",
+      "lemma": "Pfeffer",
+      "translation": "pepper",
+      "translations": [
+        "pepper",
+        "black pepper"
+      ],
+      "level": "A2",
+      "category": "Food & Groceries",
+      "partOfSpeech": "noun",
+      "frequency": 640,
+      "gender": "m",
+      "article": "der",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Salz und Pfeffer stehen auf dem Tisch.",
+          "en": "Salt and pepper are on the table."
+        },
+        {
+          "de": "Ich mag viel Pfeffer im Essen.",
+          "en": "I like a lot of pepper in my food."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Das Fleisch braucht noch etwas ___.",
+          "answer": "Pfeffer",
+          "en": "The meat still needs a bit of pepper."
+        }
+      ],
+      "notes": "The spice is 'der Pfeffer'; the vegetable pepper is 'die Paprika'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🧂",
+      "imageable": true,
+      "tags": [
+        "food",
+        "spice",
+        "cooking"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "salz",
+        "paprika"
+      ]
+    },
+    {
+      "id": "oel",
+      "word": "das Öl",
+      "lemma": "Öl",
+      "translation": "oil",
+      "translations": [
+        "oil"
+      ],
+      "level": "A1",
+      "category": "Food & Groceries",
+      "partOfSpeech": "noun",
+      "frequency": 660,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Öle",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich brate das Gemüse in Öl.",
+          "en": "I fry the vegetables in oil."
+        },
+        {
+          "de": "Das Öl ist fast leer.",
+          "en": "The oil is almost empty."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Gib etwas ___ in die Pfanne.",
+          "answer": "Öl",
+          "en": "Put some oil in the pan."
+        }
+      ],
+      "notes": "'Olivenöl' for salads; cheap everyday frying oils are 'Sonnenblumenöl' and 'Rapsöl'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🫒",
+      "imageable": true,
+      "tags": [
+        "food",
+        "staple",
+        "cooking"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "essig",
+        "salat"
+      ]
+    },
+    {
+      "id": "essig",
+      "word": "der Essig",
+      "lemma": "Essig",
+      "translation": "vinegar",
+      "translations": [
+        "vinegar"
+      ],
+      "level": "A2",
+      "category": "Food & Groceries",
+      "partOfSpeech": "noun",
+      "frequency": 950,
+      "gender": "m",
+      "article": "der",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "In den Salat kommen Öl und Essig.",
+          "en": "Oil and vinegar go into the salad."
+        },
+        {
+          "de": "Der Essig ist sehr sauer.",
+          "en": "The vinegar is very sour."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Für das Dressing brauche ich ___ und Öl.",
+          "answer": "Essig",
+          "en": "For the dressing I need vinegar and oil."
+        }
+      ],
+      "notes": "'Balsamico' and 'Apfelessig' are the common supermarket kinds.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🫙",
+      "imageable": true,
+      "tags": [
+        "food",
+        "cooking"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "oel",
+        "salat"
+      ]
+    },
+    {
+      "id": "honig",
+      "word": "der Honig",
+      "lemma": "Honig",
+      "translation": "honey",
+      "translations": [
+        "honey"
+      ],
+      "level": "A2",
+      "category": "Food & Groceries",
+      "partOfSpeech": "noun",
+      "frequency": 720,
+      "gender": "m",
+      "article": "der",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich esse Brot mit Honig.",
+          "en": "I eat bread with honey."
+        },
+        {
+          "de": "Der Honig kommt direkt vom Imker.",
+          "en": "The honey comes straight from the beekeeper."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Nimm bitte ___ in den Tee.",
+          "answer": "Honig",
+          "en": "Please put honey in the tea."
+        }
+      ],
+      "notes": "Mass noun, no plural in everyday use.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🍯",
+      "imageable": true,
+      "tags": [
+        "food",
+        "breakfast",
+        "sweet"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "marmelade",
+        "brot"
+      ]
+    },
+    {
+      "id": "marmelade",
+      "word": "die Marmelade",
+      "lemma": "Marmelade",
+      "translation": "jam",
+      "translations": [
+        "jam",
+        "marmalade"
+      ],
+      "level": "A2",
+      "category": "Food & Groceries",
+      "partOfSpeech": "noun",
+      "frequency": 760,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Marmeladen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Zum Frühstück esse ich Brot mit Marmelade.",
+          "en": "For breakfast I eat bread with jam."
+        },
+        {
+          "de": "Die Marmelade ist selbst gemacht.",
+          "en": "The jam is homemade."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Auf mein Brötchen kommt ___.",
+          "answer": "Marmelade",
+          "en": "Jam goes on my roll."
+        }
+      ],
+      "notes": "False friend: German 'Marmelade' is any jam, not only orange marmalade.",
+      "mnemonic": null,
+      "germany_context": "Because of EU labelling rules only citrus spread may legally be called 'Marmelade' — strawberry or cherry jars say 'Konfitüre'. In everyday speech everyone still says Marmelade.",
+      "emoji": "🍓",
+      "imageable": true,
+      "tags": [
+        "food",
+        "breakfast",
+        "sweet"
+      ],
+      "synonyms": [
+        "Konfitüre"
+      ],
+      "antonyms": [],
+      "related": [
+        "honig",
+        "broetchen"
+      ]
+    },
+    {
+      "id": "muesli",
+      "word": "das Müsli",
+      "lemma": "Müsli",
+      "translation": "muesli",
+      "translations": [
+        "muesli",
+        "cereal"
+      ],
+      "level": "A2",
+      "category": "Food & Groceries",
+      "partOfSpeech": "noun",
+      "frequency": 820,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Müslis",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich esse morgens Müsli mit Milch.",
+          "en": "In the morning I eat muesli with milk."
+        },
+        {
+          "de": "Das Müsli ist mit Nüssen.",
+          "en": "The muesli has nuts in it."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Zum Frühstück gibt es ___ und Obst.",
+          "answer": "Müsli",
+          "en": "For breakfast there is muesli and fruit."
+        }
+      ],
+      "notes": "Originally Swiss German (diminutive of 'Mus'), which is why it is neuter.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🥣",
+      "imageable": true,
+      "tags": [
+        "food",
+        "breakfast"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "joghurt",
+        "fruehstueck"
+      ]
+    },
+    {
+      "id": "nuss",
+      "word": "die Nuss",
+      "lemma": "Nuss",
+      "translation": "nut",
+      "translations": [
+        "nut"
+      ],
+      "level": "A2",
+      "category": "Food & Groceries",
+      "partOfSpeech": "noun",
+      "frequency": 800,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Nüsse",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich habe eine Allergie gegen Nüsse.",
+          "en": "I have an allergy to nuts."
+        },
+        {
+          "de": "Die Nüsse sind schon im Müsli.",
+          "en": "The nuts are already in the muesli."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Auf den Salat kommen noch ein paar ___.",
+          "answer": "Nüsse",
+          "en": "A few nuts go on the salad as well."
+        }
+      ],
+      "notes": "Plural with umlaut: die Nuss → die Nüsse. Useful when asking about allergies.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🥜",
+      "imageable": true,
+      "tags": [
+        "food",
+        "snack"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "muesli",
+        "snack"
+      ]
+    },
+    {
+      "id": "fruehstueck",
+      "word": "das Frühstück",
+      "lemma": "Frühstück",
+      "translation": "breakfast",
+      "translations": [
+        "breakfast"
+      ],
+      "level": "A1",
+      "category": "Food & Groceries",
+      "partOfSpeech": "noun",
+      "frequency": 260,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Frühstücke",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Zum Frühstück trinke ich Kaffee.",
+          "en": "For breakfast I drink coffee."
+        },
+        {
+          "de": "Das Frühstück im Hotel ist inklusive.",
+          "en": "Breakfast at the hotel is included."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Was isst du normalerweise zum ___?",
+          "answer": "Frühstück",
+          "en": "What do you usually eat for breakfast?"
+        }
+      ],
+      "notes": "The verb is 'frühstücken': 'Ich frühstücke um sieben.'",
+      "mnemonic": null,
+      "germany_context": "A German breakfast means Brötchen, cold cuts, cheese, jam and coffee. Sunday brunch at a café is a social institution — reserve a table.",
+      "emoji": "🍳",
+      "imageable": true,
+      "tags": [
+        "meal",
+        "food",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "Abendessen"
+      ],
+      "related": [
+        "broetchen",
+        "mittagessen"
+      ]
+    },
+    {
+      "id": "mittagessen",
+      "word": "das Mittagessen",
+      "lemma": "Mittagessen",
+      "translation": "lunch",
+      "translations": [
+        "lunch"
+      ],
+      "level": "A1",
+      "category": "Food & Groceries",
+      "partOfSpeech": "noun",
+      "frequency": 280,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Mittagessen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Das Mittagessen gibt es um zwölf.",
+          "en": "Lunch is at twelve."
+        },
+        {
+          "de": "Was gibt es zum Mittagessen?",
+          "en": "What is there for lunch?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich gehe in der Pause zum ___ in die Kantine.",
+          "answer": "Mittagessen",
+          "en": "During the break I go to the canteen for lunch."
+        }
+      ],
+      "notes": "'zu Mittag essen' is the verb phrase: 'Wir essen um 12 Uhr zu Mittag.'",
+      "mnemonic": null,
+      "germany_context": "Lunch is the warm main meal for many Germans and offices break early, around 12:00. Company canteens (Kantine) and restaurant 'Mittagstisch' menus are noticeably cheaper than dinner.",
+      "emoji": "🍲",
+      "imageable": true,
+      "tags": [
+        "meal",
+        "food",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "abendessen",
+        "mahlzeit"
+      ]
+    },
+    {
+      "id": "abendessen",
+      "word": "das Abendessen",
+      "lemma": "Abendessen",
+      "translation": "dinner",
+      "translations": [
+        "dinner",
+        "evening meal",
+        "supper"
+      ],
+      "level": "A1",
+      "category": "Food & Groceries",
+      "partOfSpeech": "noun",
+      "frequency": 290,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Abendessen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Wir essen um sieben Abendessen.",
+          "en": "We have dinner at seven."
+        },
+        {
+          "de": "Was kochst du zum Abendessen?",
+          "en": "What are you cooking for dinner?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Kommst du morgen zum ___ zu uns?",
+          "answer": "Abendessen",
+          "en": "Are you coming to our place for dinner tomorrow?"
+        }
+      ],
+      "notes": "Also 'das Abendbrot' when it is a cold meal.",
+      "mnemonic": null,
+      "germany_context": "The traditional evening meal is 'Abendbrot': bread, cheese and cold cuts, eaten cold and early, around 18:00–19:00.",
+      "emoji": "🍽️",
+      "imageable": true,
+      "tags": [
+        "meal",
+        "food",
+        "essential"
+      ],
+      "synonyms": [
+        "Abendbrot"
+      ],
+      "antonyms": [
+        "Frühstück"
+      ],
+      "related": [
+        "mittagessen",
+        "brot"
+      ]
+    },
+    {
+      "id": "snack",
+      "word": "der Snack",
+      "lemma": "Snack",
+      "translation": "snack",
+      "translations": [
+        "snack"
+      ],
+      "level": "A2",
+      "category": "Food & Groceries",
+      "partOfSpeech": "noun",
+      "frequency": 1100,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Snacks",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich brauche einen kleinen Snack.",
+          "en": "I need a small snack."
+        },
+        {
+          "de": "Am Bahnhof gibt es Snacks und Getränke.",
+          "en": "At the station there are snacks and drinks."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Hast du einen ___ für die Fahrt dabei?",
+          "answer": "Snack",
+          "en": "Have you got a snack with you for the journey?"
+        }
+      ],
+      "notes": "A German alternative is 'die Kleinigkeit' (something small to eat).",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🥨",
+      "imageable": true,
+      "tags": [
+        "food",
+        "meal"
+      ],
+      "synonyms": [
+        "Kleinigkeit"
+      ],
+      "antonyms": [],
+      "related": [
+        "nuss",
+        "doener"
+      ]
+    },
+    {
+      "id": "nachtisch",
+      "word": "der Nachtisch",
+      "lemma": "Nachtisch",
+      "translation": "dessert",
+      "translations": [
+        "dessert",
+        "pudding"
+      ],
+      "level": "A2",
+      "category": "Food & Groceries",
+      "partOfSpeech": "noun",
+      "frequency": 900,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Nachtische",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Zum Nachtisch gibt es Eis.",
+          "en": "For dessert there is ice cream."
+        },
+        {
+          "de": "Möchtest du noch einen Nachtisch?",
+          "en": "Would you like a dessert as well?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Als ___ nehme ich nur einen Kaffee.",
+          "answer": "Nachtisch",
+          "en": "For dessert I will just have a coffee."
+        }
+      ],
+      "notes": "Also 'die Nachspeise' or 'das Dessert'. Fixed phrase: 'zum Nachtisch'.",
+      "mnemonic": "nach dem Tisch = after the meal → dessert.",
+      "germany_context": null,
+      "emoji": "🍨",
+      "imageable": true,
+      "tags": [
+        "meal",
+        "food",
+        "sweet"
+      ],
+      "synonyms": [
+        "Nachspeise",
+        "Dessert"
+      ],
+      "antonyms": [
+        "Vorspeise"
+      ],
+      "related": [
+        "vorspeise",
+        "hauptgericht"
+      ]
+    },
+    {
+      "id": "vorspeise",
+      "word": "die Vorspeise",
+      "lemma": "Vorspeise",
+      "translation": "starter",
+      "translations": [
+        "starter",
+        "appetizer"
+      ],
+      "level": "A2",
+      "category": "Food & Groceries",
+      "partOfSpeech": "noun",
+      "frequency": 1250,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Vorspeisen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Als Vorspeise nehme ich eine Suppe.",
+          "en": "As a starter I will have a soup."
+        },
+        {
+          "de": "Die Vorspeisen stehen oben auf der Karte.",
+          "en": "The starters are at the top of the menu."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Möchten Sie eine ___ bestellen?",
+          "answer": "Vorspeise",
+          "en": "Would you like to order a starter?"
+        }
+      ],
+      "notes": "vor = before + Speise = dish.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🥗",
+      "imageable": true,
+      "tags": [
+        "meal",
+        "food",
+        "restaurant"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "Nachtisch"
+      ],
+      "related": [
+        "hauptgericht",
+        "nachtisch"
+      ]
+    },
+    {
+      "id": "hauptgericht",
+      "word": "das Hauptgericht",
+      "lemma": "Hauptgericht",
+      "translation": "main course",
+      "translations": [
+        "main course",
+        "main dish"
+      ],
+      "level": "A2",
+      "category": "Food & Groceries",
+      "partOfSpeech": "noun",
+      "frequency": 1200,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Hauptgerichte",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Als Hauptgericht nehme ich Fisch.",
+          "en": "For the main course I will have fish."
+        },
+        {
+          "de": "Das Hauptgericht kommt gleich.",
+          "en": "The main course is coming right away."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Welches ___ können Sie empfehlen?",
+          "answer": "Hauptgericht",
+          "en": "Which main course can you recommend?"
+        }
+      ],
+      "notes": "haupt- = main; 'das Gericht' on its own means a dish (and also a court of law).",
+      "mnemonic": null,
+      "germany_context": "A German Speisekarte is split into Vorspeisen, Hauptgerichte and Nachspeisen. At lunchtime many restaurants offer a cheaper 'Tagesgericht' or 'Mittagsmenü'.",
+      "emoji": "🍛",
+      "imageable": true,
+      "tags": [
+        "meal",
+        "food",
+        "restaurant"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "vorspeise",
+        "nachtisch"
+      ]
+    },
+    {
+      "id": "lebensmittel",
+      "word": "das Lebensmittel",
+      "lemma": "Lebensmittel",
+      "translation": "groceries",
+      "translations": [
+        "groceries",
+        "food item",
+        "foodstuff"
+      ],
+      "level": "A2",
+      "category": "Food & Groceries",
+      "partOfSpeech": "noun",
+      "frequency": 500,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Lebensmittel",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich kaufe Lebensmittel für die ganze Woche.",
+          "en": "I buy groceries for the whole week."
+        },
+        {
+          "de": "Die Lebensmittel sind teurer geworden.",
+          "en": "Groceries have become more expensive."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Am Samstag kaufe ich alle ___ für die Woche.",
+          "answer": "Lebensmittel",
+          "en": "On Saturday I buy all the groceries for the week."
+        }
+      ],
+      "notes": "Nearly always plural: 'Lebensmittel einkaufen' = to do the grocery shopping.",
+      "mnemonic": "Leben + Mittel = 'means of living' → food.",
+      "germany_context": "Supermarkets are closed on Sundays and public holidays, so do the Lebensmittel shopping by Saturday evening. Exceptions: shops at big train stations and airports, petrol stations, and Spätis in Berlin.",
+      "emoji": "🛒",
+      "imageable": true,
+      "tags": [
+        "food",
+        "shopping",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "supermarkt",
+        "einkaufen"
+      ]
+    },
+    {
+      "id": "obst",
+      "word": "das Obst",
+      "lemma": "Obst",
+      "translation": "fruit",
+      "translations": [
+        "fruit"
+      ],
+      "level": "A1",
+      "category": "Food & Groceries",
+      "partOfSpeech": "noun",
+      "frequency": 360,
+      "gender": "n",
+      "article": "das",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich esse jeden Tag Obst.",
+          "en": "I eat fruit every day."
+        },
+        {
+          "de": "Das Obst ist frisch vom Markt.",
+          "en": "The fruit is fresh from the market."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Im Supermarkt liegt das ___ gleich am Eingang.",
+          "answer": "Obst",
+          "en": "In the supermarket the fruit is right by the entrance."
+        }
+      ],
+      "notes": "Collective mass noun — never 'die Obste'. One piece is 'ein Stück Obst'.",
+      "mnemonic": null,
+      "germany_context": "Regional and seasonal fruit is cheapest at the Wochenmarkt, which most towns hold once or twice a week in the morning.",
+      "emoji": "🍇",
+      "imageable": true,
+      "tags": [
+        "fruit",
+        "food",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "gemuese",
+        "apfel"
+      ]
+    },
+    {
+      "id": "gemuese",
+      "word": "das Gemüse",
+      "lemma": "Gemüse",
+      "translation": "vegetables",
+      "translations": [
+        "vegetables",
+        "vegetable"
+      ],
+      "level": "A1",
+      "category": "Food & Groceries",
+      "partOfSpeech": "noun",
+      "frequency": 370,
+      "gender": "n",
+      "article": "das",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich esse sehr viel Gemüse.",
+          "en": "I eat a lot of vegetables."
+        },
+        {
+          "de": "Das Gemüse ist aus der Region.",
+          "en": "The vegetables are from the region."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Zum Fleisch gibt es Reis und ___.",
+          "answer": "Gemüse",
+          "en": "With the meat there is rice and vegetables."
+        }
+      ],
+      "notes": "Mass noun: say 'viel Gemüse', never 'viele Gemüse'.",
+      "mnemonic": null,
+      "germany_context": "Organic produce carries the green hexagonal EU organic logo or the German Bio-Siegel. Discounters like Aldi and Lidl have their own cheap Bio ranges.",
+      "emoji": "🥦",
+      "imageable": true,
+      "tags": [
+        "vegetable",
+        "food",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "obst",
+        "kartoffel"
+      ]
+    },
+    {
+      "id": "supermarkt",
+      "word": "der Supermarkt",
+      "lemma": "Supermarkt",
+      "translation": "supermarket",
+      "translations": [
+        "supermarket"
+      ],
+      "level": "A0",
+      "category": "Food & Groceries",
+      "partOfSpeech": "noun",
+      "frequency": 240,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Supermärkte",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Supermarkt ist gleich um die Ecke.",
+          "en": "The supermarket is just around the corner."
+        },
+        {
+          "de": "Ich gehe schnell in den Supermarkt.",
+          "en": "I am popping into the supermarket."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der ___ hat sonntags geschlossen.",
+          "answer": "Supermarkt",
+          "en": "The supermarket is closed on Sundays."
+        }
+      ],
+      "notes": "Plural with umlaut: die Supermärkte.",
+      "mnemonic": null,
+      "germany_context": "Opening hours are roughly 7:00–20:00 or 22:00, closed Sundays. Bring your own bag (plastic bags cost extra) and pack fast — cashiers scan very quickly and you bag after paying.",
+      "emoji": "🏪",
+      "imageable": true,
+      "tags": [
+        "shopping",
+        "food",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "lebensmittel",
+        "pfand"
+      ]
+    },
+    {
+      "id": "baeckerei",
+      "word": "die Bäckerei",
+      "lemma": "Bäckerei",
+      "translation": "bakery",
+      "translations": [
+        "bakery"
+      ],
+      "level": "A1",
+      "category": "Food & Groceries",
+      "partOfSpeech": "noun",
+      "frequency": 450,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Bäckereien",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich hole Brötchen in der Bäckerei.",
+          "en": "I get rolls at the bakery."
+        },
+        {
+          "de": "Die Bäckerei öffnet schon um sechs Uhr.",
+          "en": "The bakery opens as early as six o'clock."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Neben dem Bahnhof gibt es eine gute ___.",
+          "answer": "Bäckerei",
+          "en": "There is a good bakery next to the station."
+        }
+      ],
+      "notes": "Words ending in -ei are feminine. 'beim Bäcker' = at the baker's, the everyday short form.",
+      "mnemonic": "-ei → die: die Bäckerei, die Metzgerei.",
+      "germany_context": "Bakeries open around 6:00 and many sell on Sunday mornings, often the only shop open. Smaller ones can still be cash only, so keep coins on you.",
+      "emoji": "🥐",
+      "imageable": true,
+      "tags": [
+        "shopping",
+        "food",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "broetchen",
+        "brot"
+      ]
+    },
+    {
+      "id": "schokolade",
+      "word": "die Schokolade",
+      "lemma": "Schokolade",
+      "translation": "chocolate",
+      "translations": [
+        "chocolate"
+      ],
+      "level": "A1",
+      "category": "Food & Groceries",
+      "partOfSpeech": "noun",
+      "frequency": 640,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Schokoladen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich esse gern dunkle Schokolade.",
+          "en": "I like eating dark chocolate."
+        },
+        {
+          "de": "Die Schokolade ist im Angebot.",
+          "en": "The chocolate is on offer."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Bringst du mir eine Tafel ___ mit?",
+          "answer": "Schokolade",
+          "en": "Will you bring me a bar of chocolate?"
+        }
+      ],
+      "notes": "A bar is 'eine Tafel Schokolade'; hot chocolate is 'heiße Schokolade' or 'Kakao'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🍫",
+      "imageable": true,
+      "tags": [
+        "food",
+        "sweet",
+        "snack"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "kuchen",
+        "zucker"
+      ]
+    },
+    {
+      "id": "kuchen",
+      "word": "der Kuchen",
+      "lemma": "Kuchen",
+      "translation": "cake",
+      "translations": [
+        "cake"
+      ],
+      "level": "A1",
+      "category": "Food & Groceries",
+      "partOfSpeech": "noun",
+      "frequency": 520,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Kuchen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Meine Kollegin hat Kuchen mitgebracht.",
+          "en": "My colleague brought cake."
+        },
+        {
+          "de": "Der Kuchen ist selbst gebacken.",
+          "en": "The cake is homemade."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Möchtest du ein Stück ___?",
+          "answer": "Kuchen",
+          "en": "Would you like a piece of cake?"
+        }
+      ],
+      "notes": "Plural is identical to the singular. A gateau with cream layers is 'die Torte'.",
+      "mnemonic": null,
+      "germany_context": "'Kaffee und Kuchen' around 15:00 is a real weekend ritual, especially on Sundays. In bakeries and cafés cake is ordered by the piece: 'ein Stück Kuchen'.",
+      "emoji": "🍰",
+      "imageable": true,
+      "tags": [
+        "food",
+        "sweet",
+        "baking"
+      ],
+      "synonyms": [
+        "Torte"
+      ],
+      "antonyms": [],
+      "related": [
+        "mehl",
+        "baeckerei"
+      ]
+    },
+    {
+      "id": "suppe",
+      "word": "die Suppe",
+      "lemma": "Suppe",
+      "translation": "soup",
+      "translations": [
+        "soup"
+      ],
+      "level": "A1",
+      "category": "Food & Groceries",
+      "partOfSpeech": "noun",
+      "frequency": 580,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Suppen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich koche eine Suppe mit Gemüse.",
+          "en": "I am cooking a soup with vegetables."
+        },
+        {
+          "de": "Die Suppe ist noch zu heiß.",
+          "en": "The soup is still too hot."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Bei einer Erkältung esse ich gern ___.",
+          "answer": "Suppe",
+          "en": "When I have a cold I like eating soup."
+        }
+      ],
+      "notes": "You eat soup: 'Suppe essen', not 'trinken'.",
+      "mnemonic": "Suppe ~ soup.",
+      "germany_context": null,
+      "emoji": "🍜",
+      "imageable": true,
+      "tags": [
+        "food",
+        "dish"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "karotte",
+        "vorspeise"
+      ]
+    },
+    {
+      "id": "doener",
+      "word": "der Döner",
+      "lemma": "Döner",
+      "translation": "doner kebab",
+      "translations": [
+        "doner kebab",
+        "kebab"
+      ],
+      "level": "A2",
+      "category": "Food & Groceries",
+      "partOfSpeech": "noun",
+      "frequency": 700,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Döner",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich hole mir schnell einen Döner.",
+          "en": "I am quickly getting myself a doner kebab."
+        },
+        {
+          "de": "Der Döner kostet sieben Euro.",
+          "en": "The doner kebab costs seven euros."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Am Bahnhof gibt es einen sehr guten ___.",
+          "answer": "Döner",
+          "en": "There is a very good doner kebab place at the station."
+        }
+      ],
+      "notes": "Full name 'Döner Kebab'; the plural is unchanged.",
+      "mnemonic": null,
+      "germany_context": "Döner is Germany's most popular fast food (the sandwich version was invented in Berlin), usually 6–8 €. At the Imbiss you will be asked 'Mit alles?' (everything on it) and 'Scharf?' (chilli sauce).",
+      "emoji": "🥙",
+      "imageable": true,
+      "tags": [
+        "food",
+        "fastfood",
+        "germany"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "snack",
+        "fleisch"
+      ]
+    },
+    {
+      "id": "mahlzeit",
+      "word": "die Mahlzeit",
+      "lemma": "Mahlzeit",
+      "translation": "meal",
+      "translations": [
+        "meal"
+      ],
+      "level": "A2",
+      "category": "Food & Groceries",
+      "partOfSpeech": "noun",
+      "frequency": 1150,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Mahlzeiten",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich esse drei Mahlzeiten am Tag.",
+          "en": "I eat three meals a day."
+        },
+        {
+          "de": "Das Frühstück ist für mich die wichtigste Mahlzeit.",
+          "en": "Breakfast is the most important meal for me."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Nach einer großen ___ bin ich immer müde.",
+          "answer": "Mahlzeit",
+          "en": "After a big meal I am always tired."
+        }
+      ],
+      "notes": "Words ending in -zeit are feminine (die Zeit).",
+      "mnemonic": "die Zeit → die Mahlzeit.",
+      "germany_context": "In offices and canteens people say 'Mahlzeit!' to each other around lunchtime — it works as both 'hi' and 'enjoy your meal'.",
+      "emoji": "🍴",
+      "imageable": false,
+      "tags": [
+        "meal",
+        "food"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "mittagessen",
+        "fruehstueck"
+      ]
+    },
+    {
+      "id": "hunger",
+      "word": "der Hunger",
+      "lemma": "Hunger",
+      "translation": "hunger",
+      "translations": [
+        "hunger"
+      ],
+      "level": "A0",
+      "category": "Food & Groceries",
+      "partOfSpeech": "noun",
+      "frequency": 300,
+      "gender": "m",
+      "article": "der",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich habe großen Hunger.",
+          "en": "I am very hungry."
+        },
+        {
+          "de": "Hast du Hunger?",
+          "en": "Are you hungry?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Nach der Arbeit habe ich immer ___.",
+          "answer": "Hunger",
+          "en": "After work I am always hungry."
+        }
+      ],
+      "notes": "German says 'Ich habe Hunger' (I have hunger), not 'Ich bin Hunger'. The matching word for thirst is 'der Durst'.",
+      "mnemonic": "Hunger ~ hunger, same word.",
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "food",
+        "feeling",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "Durst"
+      ],
+      "related": [
+        "essen",
+        "mahlzeit"
+      ]
+    }
+  ]
+}

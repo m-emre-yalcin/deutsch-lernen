@@ -1,0 +1,4833 @@
+{
+  "category": "Apartment Hunting & Rental",
+  "words": [
+    {
+      "id": "wohnungssuche",
+      "word": "die Wohnungssuche",
+      "lemma": "Wohnungssuche",
+      "translation": "apartment search",
+      "translations": [
+        "apartment search",
+        "flat hunting"
+      ],
+      "level": "A1",
+      "category": "Apartment Hunting & Rental",
+      "partOfSpeech": "noun",
+      "frequency": 620,
+      "gender": "f",
+      "article": "die",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Wohnungssuche in München dauert oft Monate.",
+          "en": "The apartment search in Munich often takes months."
+        },
+        {
+          "de": "Ich bin seit acht Wochen auf Wohnungssuche.",
+          "en": "I have been flat hunting for eight weeks."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Meine ___ war schwierig, aber jetzt habe ich etwas gefunden.",
+          "answer": "Wohnungssuche",
+          "en": "My apartment search was difficult, but now I have found something."
+        }
+      ],
+      "notes": null,
+      "mnemonic": "Wohnung + Suche; the last part (die Suche) decides the gender.",
+      "germany_context": "Plan three to six months for a big city. 'auf Wohnungssuche sein' is the standard phrase people use.",
+      "emoji": "🔍",
+      "imageable": false,
+      "tags": [
+        "housing",
+        "process"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "wohnung",
+        "besichtigung"
+      ]
+    },
+    {
+      "id": "wohnungsanzeige",
+      "word": "die Wohnungsanzeige",
+      "lemma": "Wohnungsanzeige",
+      "translation": "apartment listing",
+      "translations": [
+        "apartment listing",
+        "flat ad"
+      ],
+      "level": "A2",
+      "category": "Apartment Hunting & Rental",
+      "partOfSpeech": "noun",
+      "frequency": 900,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Wohnungsanzeigen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "In der Wohnungsanzeige steht nur die Kaltmiete.",
+          "en": "The listing only states the base rent."
+        },
+        {
+          "de": "Ich lese jeden Tag neue Wohnungsanzeigen.",
+          "en": "I read new apartment listings every day."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Diese ___ ist schon zwei Wochen alt.",
+          "answer": "Wohnungsanzeige",
+          "en": "This apartment listing is already two weeks old."
+        }
+      ],
+      "notes": "Also simply 'die Anzeige' or 'das Inserat'.",
+      "mnemonic": null,
+      "germany_context": "Ads are full of abbreviations: KM = Kaltmiete, NK = Nebenkosten, WM = Warmmiete, ZKB = Zimmer/Küche/Bad, EBK = Einbauküche, EG/OG/DG for the floor.",
+      "emoji": "📰",
+      "imageable": false,
+      "tags": [
+        "housing",
+        "search"
+      ],
+      "synonyms": [
+        "das Inserat"
+      ],
+      "antonyms": [],
+      "related": [
+        "inserat",
+        "wohnungssuche"
+      ]
+    },
+    {
+      "id": "inserat",
+      "word": "das Inserat",
+      "lemma": "Inserat",
+      "translation": "classified ad",
+      "translations": [
+        "classified ad",
+        "listing"
+      ],
+      "level": "A2",
+      "category": "Apartment Hunting & Rental",
+      "partOfSpeech": "noun",
+      "frequency": 1500,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Inserate",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Das Inserat war nur einen Tag online.",
+          "en": "The ad was online for only one day."
+        },
+        {
+          "de": "Ich habe auf das Inserat sofort geantwortet.",
+          "en": "I replied to the ad immediately."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Er hat ein ___ für sein WG-Zimmer aufgegeben.",
+          "answer": "Inserat",
+          "en": "He posted an ad for his room in the shared flat."
+        }
+      ],
+      "notes": "'ein Inserat aufgeben' = to place an ad.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "📄",
+      "imageable": false,
+      "tags": [
+        "housing",
+        "search"
+      ],
+      "synonyms": [
+        "die Anzeige"
+      ],
+      "antonyms": [],
+      "related": [
+        "wohnungsanzeige"
+      ]
+    },
+    {
+      "id": "besichtigung",
+      "word": "die Besichtigung",
+      "lemma": "Besichtigung",
+      "translation": "viewing",
+      "translations": [
+        "viewing",
+        "inspection"
+      ],
+      "level": "A1",
+      "category": "Apartment Hunting & Rental",
+      "partOfSpeech": "noun",
+      "frequency": 640,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Besichtigungen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Besichtigung ist am Samstag um 14 Uhr.",
+          "en": "The viewing is on Saturday at 2 p.m."
+        },
+        {
+          "de": "Zur Besichtigung kamen über dreißig Leute.",
+          "en": "More than thirty people came to the viewing."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich habe morgen eine ___ in Köln.",
+          "answer": "Besichtigung",
+          "en": "I have a viewing in Cologne tomorrow."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Mass viewings with 20-40 applicants are normal. Be early, be polite, and hand over a complete folder (Schufa, payslips, ID, Selbstauskunft) on the spot — speed usually wins the flat.",
+      "emoji": "👀",
+      "imageable": false,
+      "tags": [
+        "housing",
+        "process"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "besichtigen",
+        "makler"
+      ]
+    },
+    {
+      "id": "makler",
+      "word": "der Makler",
+      "lemma": "Makler",
+      "translation": "estate agent",
+      "translations": [
+        "estate agent",
+        "realtor",
+        "broker"
+      ],
+      "level": "A2",
+      "category": "Apartment Hunting & Rental",
+      "partOfSpeech": "noun",
+      "frequency": 850,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Makler",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Makler zeigt uns die Wohnung.",
+          "en": "The estate agent is showing us the apartment."
+        },
+        {
+          "de": "Unser Makler hat sich nicht mehr gemeldet.",
+          "en": "Our estate agent never got back to us."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich habe dem ___ alle Unterlagen geschickt.",
+          "answer": "Makler",
+          "en": "I sent the estate agent all the documents."
+        }
+      ],
+      "notes": "Female form: die Maklerin.",
+      "mnemonic": null,
+      "germany_context": "Since the Bestellerprinzip (2015), whoever hires the agent pays them. For a normal rental that is the landlord — a tenant should not be charged commission.",
+      "emoji": "👔",
+      "imageable": false,
+      "tags": [
+        "housing",
+        "people"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "maklergebuehr",
+        "provision"
+      ]
+    },
+    {
+      "id": "maklergebuehr",
+      "word": "die Maklergebühr",
+      "lemma": "Maklergebühr",
+      "translation": "agent's fee",
+      "translations": [
+        "agent's fee",
+        "broker fee"
+      ],
+      "level": "A2",
+      "category": "Apartment Hunting & Rental",
+      "partOfSpeech": "noun",
+      "frequency": 1300,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Maklergebühren",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Bei der Miete zahlt der Vermieter die Maklergebühr.",
+          "en": "With rentals the landlord pays the agent's fee."
+        },
+        {
+          "de": "Die Maklergebühr beträgt zwei Kaltmieten plus Steuer.",
+          "en": "The agent's fee is two months' base rent plus tax."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Für diese Wohnung fällt keine ___ an.",
+          "answer": "Maklergebühr",
+          "en": "There is no agent's fee for this apartment."
+        }
+      ],
+      "notes": null,
+      "mnemonic": "Compound ends in -gebühr, and die Gebühr is feminine.",
+      "germany_context": "Capped by law at two Kaltmieten plus VAT, and only payable by whoever hired the agent. Ads marked 'provisionsfrei' involve no fee for you at all.",
+      "emoji": "💶",
+      "imageable": false,
+      "tags": [
+        "housing",
+        "money"
+      ],
+      "synonyms": [
+        "die Provision"
+      ],
+      "antonyms": [],
+      "related": [
+        "makler",
+        "provisionsfrei"
+      ]
+    },
+    {
+      "id": "provision",
+      "word": "die Provision",
+      "lemma": "Provision",
+      "translation": "commission",
+      "translations": [
+        "commission",
+        "agent's fee"
+      ],
+      "level": "A2",
+      "category": "Apartment Hunting & Rental",
+      "partOfSpeech": "noun",
+      "frequency": 1400,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Provisionen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Diese Wohnung ist ohne Provision.",
+          "en": "This apartment comes without commission."
+        },
+        {
+          "de": "Der Makler bekommt eine Provision vom Vermieter.",
+          "en": "The agent gets a commission from the landlord."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wir müssen zum Glück keine ___ zahlen.",
+          "answer": "Provision",
+          "en": "Luckily we don't have to pay any commission."
+        }
+      ],
+      "notes": "In flat ads 'Provision' and 'Maklergebühr' mean the same thing.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "💶",
+      "imageable": false,
+      "tags": [
+        "housing",
+        "money"
+      ],
+      "synonyms": [
+        "die Maklergebühr"
+      ],
+      "antonyms": [],
+      "related": [
+        "makler",
+        "maklergebuehr"
+      ]
+    },
+    {
+      "id": "mieter",
+      "word": "der Mieter",
+      "lemma": "Mieter",
+      "translation": "tenant",
+      "translations": [
+        "tenant",
+        "renter"
+      ],
+      "level": "A1",
+      "category": "Apartment Hunting & Rental",
+      "partOfSpeech": "noun",
+      "frequency": 480,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Mieter",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Mieter zahlt die Miete am Monatsanfang.",
+          "en": "The tenant pays the rent at the start of the month."
+        },
+        {
+          "de": "Wir sind seit fünf Jahren Mieter in diesem Haus.",
+          "en": "We have been tenants in this building for five years."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Als ___ hat man in Deutschland viele Rechte.",
+          "answer": "Mieter",
+          "en": "As a tenant you have a lot of rights in Germany."
+        }
+      ],
+      "notes": "Female form: die Mieterin.",
+      "mnemonic": null,
+      "germany_context": "German tenancy law strongly protects tenants: open-ended contracts are standard and a landlord needs a specific legal reason, such as Eigenbedarf, to terminate.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "housing",
+        "people"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "der Vermieter"
+      ],
+      "related": [
+        "miete",
+        "mietvertrag",
+        "mieterverein"
+      ]
+    },
+    {
+      "id": "hausverwaltung",
+      "word": "die Hausverwaltung",
+      "lemma": "Hausverwaltung",
+      "translation": "property management",
+      "translations": [
+        "property management",
+        "building management"
+      ],
+      "level": "A2",
+      "category": "Apartment Hunting & Rental",
+      "partOfSpeech": "noun",
+      "frequency": 1150,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Hausverwaltungen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Hausverwaltung kümmert sich um die Heizung.",
+          "en": "The property management takes care of the heating."
+        },
+        {
+          "de": "Ich habe der Hausverwaltung eine E-Mail geschrieben.",
+          "en": "I wrote an email to the property management."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Bei Problemen rufe ich die ___ an.",
+          "answer": "Hausverwaltung",
+          "en": "If there are problems I call the property management."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "In larger buildings you never speak to the owner, only to the Hausverwaltung. Always report defects in writing by email — phone calls are impossible to prove later.",
+      "emoji": "💼",
+      "imageable": false,
+      "tags": [
+        "housing",
+        "admin"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "reparatur",
+        "mangel"
+      ]
+    },
+    {
+      "id": "untermieter",
+      "word": "der Untermieter",
+      "lemma": "Untermieter",
+      "translation": "subtenant",
+      "translations": [
+        "subtenant",
+        "lodger"
+      ],
+      "level": "A2",
+      "category": "Apartment Hunting & Rental",
+      "partOfSpeech": "noun",
+      "frequency": 1450,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Untermieter",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Mein Untermieter wohnt im kleinen Zimmer.",
+          "en": "My subtenant lives in the small room."
+        },
+        {
+          "de": "Als Untermieter habe ich keinen eigenen Mietvertrag.",
+          "en": "As a subtenant I don't have my own lease."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Vermieter muss den ___ erlauben.",
+          "answer": "Untermieter",
+          "en": "The landlord has to permit the subtenant."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Subletting requires the landlord's written permission. Unauthorised Untervermietung is one of the few reasons for immediate termination — and a big issue with Airbnb-style lets.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "housing",
+        "people"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "wohngemeinschaft",
+        "mietvertrag"
+      ]
+    },
+    {
+      "id": "nachmieter",
+      "word": "der Nachmieter",
+      "lemma": "Nachmieter",
+      "translation": "successor tenant",
+      "translations": [
+        "successor tenant",
+        "next tenant"
+      ],
+      "level": "A2",
+      "category": "Apartment Hunting & Rental",
+      "partOfSpeech": "noun",
+      "frequency": 1550,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Nachmieter",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich suche einen Nachmieter für meine Wohnung.",
+          "en": "I am looking for someone to take over my apartment."
+        },
+        {
+          "de": "Der Nachmieter übernimmt die Küche.",
+          "en": "The next tenant is taking over the kitchen."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Mit einem ___ kann man manchmal früher ausziehen.",
+          "answer": "Nachmieter",
+          "en": "With a successor tenant you can sometimes move out earlier."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Offering three suitable Nachmieter can shorten the three-month Kündigungsfrist, but the landlord only has to accept one if your contract says so.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "housing",
+        "people"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "kuendigungsfrist",
+        "kuendigung"
+      ]
+    },
+    {
+      "id": "kaltmiete",
+      "word": "die Kaltmiete",
+      "lemma": "Kaltmiete",
+      "translation": "base rent",
+      "translations": [
+        "base rent",
+        "cold rent"
+      ],
+      "level": "A1",
+      "category": "Apartment Hunting & Rental",
+      "partOfSpeech": "noun",
+      "frequency": 700,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Kaltmieten",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Kaltmiete beträgt 850 Euro.",
+          "en": "The base rent is 850 euros."
+        },
+        {
+          "de": "In der Anzeige steht nur die Kaltmiete.",
+          "en": "The listing only shows the base rent."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Zur ___ kommen noch die Nebenkosten dazu.",
+          "answer": "Kaltmiete",
+          "en": "On top of the base rent there are still the utility costs."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Kaltmiete is rent without any running costs. Ads advertise it because it looks lower — the real monthly cost is typically 20-30% higher.",
+      "emoji": "🧊",
+      "imageable": false,
+      "tags": [
+        "housing",
+        "money"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "die Warmmiete"
+      ],
+      "related": [
+        "warmmiete",
+        "nebenkosten"
+      ]
+    },
+    {
+      "id": "warmmiete",
+      "word": "die Warmmiete",
+      "lemma": "Warmmiete",
+      "translation": "rent including utilities",
+      "translations": [
+        "rent including utilities",
+        "warm rent"
+      ],
+      "level": "A1",
+      "category": "Apartment Hunting & Rental",
+      "partOfSpeech": "noun",
+      "frequency": 710,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Warmmieten",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Warmmiete liegt bei 1100 Euro.",
+          "en": "The rent including utilities is 1100 euros."
+        },
+        {
+          "de": "Warmmiete heißt Kaltmiete plus Nebenkosten.",
+          "en": "Warmmiete means base rent plus utility costs."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wie hoch ist die ___ für diese Wohnung?",
+          "answer": "Warmmiete",
+          "en": "How high is the total rent for this apartment?"
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Warmmiete = Kaltmiete + Nebenkosten. Careful: it normally does NOT include electricity or internet — you sign those contracts yourself.",
+      "emoji": "🔥",
+      "imageable": false,
+      "tags": [
+        "housing",
+        "money"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "die Kaltmiete"
+      ],
+      "related": [
+        "kaltmiete",
+        "nebenkosten"
+      ]
+    },
+    {
+      "id": "betriebskosten",
+      "word": "die Betriebskosten",
+      "lemma": "Betriebskosten",
+      "translation": "operating costs",
+      "translations": [
+        "operating costs",
+        "service charges"
+      ],
+      "level": "A2",
+      "category": "Apartment Hunting & Rental",
+      "partOfSpeech": "noun",
+      "frequency": 1250,
+      "gender": null,
+      "article": "die",
+      "plural": "die Betriebskosten",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Zu den Betriebskosten gehören Müllabfuhr und Hausreinigung.",
+          "en": "Rubbish collection and cleaning are part of the operating costs."
+        },
+        {
+          "de": "Die Betriebskosten werden einmal im Jahr abgerechnet.",
+          "en": "The operating costs are settled once a year."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Vermieter darf nur bestimmte ___ auf den Mieter umlegen.",
+          "answer": "Betriebskosten",
+          "en": "The landlord may only pass certain operating costs on to the tenant."
+        }
+      ],
+      "notes": "Plural only. In everyday speech people usually say 'Nebenkosten'.",
+      "mnemonic": null,
+      "germany_context": "Only the items listed in the Betriebskostenverordnung may be charged to tenants — repairs and management fees may not, so a check by the Mieterverein often saves money.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "housing",
+        "money"
+      ],
+      "synonyms": [
+        "die Nebenkosten"
+      ],
+      "antonyms": [],
+      "related": [
+        "nebenkosten",
+        "betriebskostenabrechnung"
+      ]
+    },
+    {
+      "id": "heizkosten",
+      "word": "die Heizkosten",
+      "lemma": "Heizkosten",
+      "translation": "heating costs",
+      "translations": [
+        "heating costs"
+      ],
+      "level": "A2",
+      "category": "Apartment Hunting & Rental",
+      "partOfSpeech": "noun",
+      "frequency": 950,
+      "gender": null,
+      "article": "die",
+      "plural": "die Heizkosten",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Heizkosten waren im Winter sehr hoch.",
+          "en": "The heating costs were very high in winter."
+        },
+        {
+          "de": "Ich möchte die Heizkosten senken.",
+          "en": "I would like to reduce the heating costs."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Im Altbau sind die ___ oft besonders hoch.",
+          "answer": "Heizkosten",
+          "en": "In an old building the heating costs are often especially high."
+        }
+      ],
+      "notes": "Plural only.",
+      "mnemonic": null,
+      "germany_context": "Heating is billed by consumption using meters on the radiators. Since the 2022 gas crisis many tenants have faced four-figure Nachzahlungen, so keep your Vorauszahlung realistic.",
+      "emoji": "♨️",
+      "imageable": false,
+      "tags": [
+        "housing",
+        "money"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "heizung",
+        "nebenkosten",
+        "nachzahlung"
+      ]
+    },
+    {
+      "id": "betriebskostenabrechnung",
+      "word": "die Betriebskostenabrechnung",
+      "lemma": "Betriebskostenabrechnung",
+      "translation": "utility bill statement",
+      "translations": [
+        "utility bill statement",
+        "service charge statement"
+      ],
+      "level": "A2",
+      "category": "Apartment Hunting & Rental",
+      "partOfSpeech": "noun",
+      "frequency": 1700,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Betriebskostenabrechnungen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Betriebskostenabrechnung kommt einmal im Jahr.",
+          "en": "The utility statement comes once a year."
+        },
+        {
+          "de": "Ich habe die Betriebskostenabrechnung genau geprüft.",
+          "en": "I checked the utility statement carefully."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "In der ___ steht, ob ich Geld zurückbekomme.",
+          "answer": "Betriebskostenabrechnung",
+          "en": "The utility statement says whether I get money back."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "The landlord must send it within 12 months of the end of the billing period, otherwise he can no longer demand a Nachzahlung. You then have 12 months to object in writing.",
+      "emoji": "🧾",
+      "imageable": false,
+      "tags": [
+        "housing",
+        "money",
+        "documents"
+      ],
+      "synonyms": [
+        "die Nebenkostenabrechnung"
+      ],
+      "antonyms": [],
+      "related": [
+        "betriebskosten",
+        "nachzahlung"
+      ]
+    },
+    {
+      "id": "nachzahlung",
+      "word": "die Nachzahlung",
+      "lemma": "Nachzahlung",
+      "translation": "additional payment",
+      "translations": [
+        "additional payment",
+        "back payment"
+      ],
+      "level": "A2",
+      "category": "Apartment Hunting & Rental",
+      "partOfSpeech": "noun",
+      "frequency": 1350,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Nachzahlungen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich muss eine Nachzahlung von 300 Euro leisten.",
+          "en": "I have to make an additional payment of 300 euros."
+        },
+        {
+          "de": "Die Nachzahlung kam zusammen mit der Abrechnung.",
+          "en": "The additional payment came together with the statement."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Nach dem kalten Winter gab es eine hohe ___.",
+          "answer": "Nachzahlung",
+          "en": "After the cold winter there was a high additional payment."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "If the bill is large you can ask the landlord for Ratenzahlung (instalments). Afterwards raise your monthly Vorauszahlung so the next bill doesn't hurt.",
+      "emoji": "💸",
+      "imageable": false,
+      "tags": [
+        "housing",
+        "money"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "betriebskostenabrechnung",
+        "nebenkosten"
+      ]
+    },
+    {
+      "id": "gas",
+      "word": "das Gas",
+      "lemma": "Gas",
+      "translation": "gas",
+      "translations": [
+        "gas"
+      ],
+      "level": "A1",
+      "category": "Apartment Hunting & Rental",
+      "partOfSpeech": "noun",
+      "frequency": 900,
+      "gender": "n",
+      "article": "das",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "In dieser Wohnung heizen wir mit Gas.",
+          "en": "In this apartment we heat with gas."
+        },
+        {
+          "de": "Das Gas wird extra abgerechnet.",
+          "en": "The gas is billed separately."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Für ___ und Strom zahle ich zusammen 120 Euro.",
+          "answer": "Gas",
+          "en": "For gas and electricity together I pay 120 euros."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "If the flat has its own Gastherme you sign the gas contract yourself and read the meter once a year; if the building has central heating, gas is part of the Heizkosten.",
+      "emoji": "🔥",
+      "imageable": false,
+      "tags": [
+        "housing",
+        "utilities"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "strom",
+        "heizung",
+        "heizkosten"
+      ]
+    },
+    {
+      "id": "zaehlerstand",
+      "word": "der Zählerstand",
+      "lemma": "Zählerstand",
+      "translation": "meter reading",
+      "translations": [
+        "meter reading"
+      ],
+      "level": "A2",
+      "category": "Apartment Hunting & Rental",
+      "partOfSpeech": "noun",
+      "frequency": 1600,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Zählerstände",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Bitte notieren Sie den Zählerstand bei der Übergabe.",
+          "en": "Please write down the meter reading at the handover."
+        },
+        {
+          "de": "Der Zählerstand wird einmal im Jahr abgelesen.",
+          "en": "The meter is read once a year."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich habe den ___ am Einzugstag fotografiert.",
+          "answer": "Zählerstand",
+          "en": "I photographed the meter reading on move-in day."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Photograph every meter on move-in and move-out day and write the numbers into the Übergabeprotokoll — that is what stops you paying the previous tenant's electricity.",
+      "emoji": "🔢",
+      "imageable": false,
+      "tags": [
+        "housing",
+        "utilities"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "strom",
+        "uebergabeprotokoll"
+      ]
+    },
+    {
+      "id": "stromanbieter",
+      "word": "der Stromanbieter",
+      "lemma": "Stromanbieter",
+      "translation": "electricity provider",
+      "translations": [
+        "electricity provider",
+        "power company"
+      ],
+      "level": "A2",
+      "category": "Apartment Hunting & Rental",
+      "partOfSpeech": "noun",
+      "frequency": 1500,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Stromanbieter",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich habe den Stromanbieter gewechselt.",
+          "en": "I switched electricity provider."
+        },
+        {
+          "de": "Welcher Stromanbieter ist bei euch günstig?",
+          "en": "Which electricity provider is cheap where you live?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der neue ___ ist 200 Euro im Jahr billiger.",
+          "answer": "Stromanbieter",
+          "en": "The new electricity provider is 200 euros a year cheaper."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Switching takes five minutes on Verivox or Check24 and the new provider cancels the old contract for you. Many people switch every year for the Neukundenbonus.",
+      "emoji": "⚡",
+      "imageable": false,
+      "tags": [
+        "housing",
+        "utilities"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "strom"
+      ]
+    },
+    {
+      "id": "internetanschluss",
+      "word": "der Internetanschluss",
+      "lemma": "Internetanschluss",
+      "translation": "internet connection",
+      "translations": [
+        "internet connection"
+      ],
+      "level": "A2",
+      "category": "Apartment Hunting & Rental",
+      "partOfSpeech": "noun",
+      "frequency": 1050,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Internetanschlüsse",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Wohnung hat schon einen Internetanschluss.",
+          "en": "The apartment already has an internet connection."
+        },
+        {
+          "de": "Der Internetanschluss wurde erst nach vier Wochen freigeschaltet.",
+          "en": "The internet connection was only activated after four weeks."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ohne ___ kann ich nicht im Homeoffice arbeiten.",
+          "answer": "Internetanschluss",
+          "en": "Without an internet connection I can't work from home."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Activation often takes two to six weeks after you move in and contracts usually run 24 months. Order it the day you sign the lease, and check whether the building has Glasfaser or only DSL.",
+      "emoji": "📶",
+      "imageable": false,
+      "tags": [
+        "housing",
+        "utilities"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "umzug"
+      ]
+    },
+    {
+      "id": "quadratmeter",
+      "word": "der Quadratmeter",
+      "lemma": "Quadratmeter",
+      "translation": "square metre",
+      "translations": [
+        "square metre",
+        "square meter"
+      ],
+      "level": "A1",
+      "category": "Apartment Hunting & Rental",
+      "partOfSpeech": "noun",
+      "frequency": 800,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Quadratmeter",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Wohnung hat 65 Quadratmeter.",
+          "en": "The apartment has 65 square metres."
+        },
+        {
+          "de": "Wie viele Quadratmeter hat das Zimmer?",
+          "en": "How many square metres does the room have?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Preis pro ___ ist in Berlin stark gestiegen.",
+          "answer": "Quadratmeter",
+          "en": "The price per square metre has risen sharply in Berlin."
+        }
+      ],
+      "notes": "Written 'm²' or 'qm' in ads. The plural looks exactly like the singular.",
+      "mnemonic": null,
+      "germany_context": "Rents are compared per Quadratmeter. Your city's Mietspiegel shows the normal price per m² for your street and building age — useful evidence if the rent seems too high.",
+      "emoji": "📐",
+      "imageable": false,
+      "tags": [
+        "housing",
+        "measurement"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "wohnflaeche"
+      ]
+    },
+    {
+      "id": "wohnflaeche",
+      "word": "die Wohnfläche",
+      "lemma": "Wohnfläche",
+      "translation": "living space",
+      "translations": [
+        "living space",
+        "floor area"
+      ],
+      "level": "A2",
+      "category": "Apartment Hunting & Rental",
+      "partOfSpeech": "noun",
+      "frequency": 1450,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Wohnflächen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Wohnfläche beträgt 78 Quadratmeter.",
+          "en": "The living space is 78 square metres."
+        },
+        {
+          "de": "Der Balkon zählt nur halb zur Wohnfläche.",
+          "en": "The balcony counts only half towards the living space."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Auf einer ___ von 50 Quadratmetern leben wir zu zweit.",
+          "answer": "Wohnfläche",
+          "en": "The two of us live in a living space of 50 square metres."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "If the real floor area is more than 10% smaller than the contract states, you can demand a rent reduction — measuring after moving in is worth it.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "housing",
+        "measurement"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "quadratmeter",
+        "wohnung"
+      ]
+    },
+    {
+      "id": "wg-zimmer",
+      "word": "das WG-Zimmer",
+      "lemma": "WG-Zimmer",
+      "translation": "room in a shared flat",
+      "translations": [
+        "room in a shared flat",
+        "flatshare room"
+      ],
+      "level": "A2",
+      "category": "Apartment Hunting & Rental",
+      "partOfSpeech": "noun",
+      "frequency": 780,
+      "gender": "n",
+      "article": "das",
+      "plural": "die WG-Zimmer",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich habe ein WG-Zimmer für 450 Euro gefunden.",
+          "en": "I found a room in a shared flat for 450 euros."
+        },
+        {
+          "de": "Das WG-Zimmer ist möbliert.",
+          "en": "The room in the shared flat is furnished."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Er sucht ein ___ in der Nähe der Uni.",
+          "answer": "WG-Zimmer",
+          "en": "He is looking for a room in a shared flat near the university."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "WG-Gesucht.de is the standard platform. Rooms are usually given away after a casting-style visit where the existing flatmates choose — it is a social interview, not a viewing.",
+      "emoji": "🛏️",
+      "imageable": true,
+      "tags": [
+        "housing",
+        "shared"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "wohngemeinschaft",
+        "moebliert"
+      ]
+    },
+    {
+      "id": "wohngemeinschaft",
+      "word": "die Wohngemeinschaft",
+      "lemma": "Wohngemeinschaft",
+      "translation": "shared flat",
+      "translations": [
+        "shared flat",
+        "flatshare"
+      ],
+      "level": "A2",
+      "category": "Apartment Hunting & Rental",
+      "partOfSpeech": "noun",
+      "frequency": 820,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Wohngemeinschaften",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich wohne in einer Wohngemeinschaft mit drei Leuten.",
+          "en": "I live in a shared flat with three people."
+        },
+        {
+          "de": "Eine Wohngemeinschaft ist günstiger als eine eigene Wohnung.",
+          "en": "A shared flat is cheaper than your own apartment."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "In unserer ___ kocht jeder einmal pro Woche.",
+          "answer": "Wohngemeinschaft",
+          "en": "In our shared flat everyone cooks once a week."
+        }
+      ],
+      "notes": "Everybody says 'WG' — the full word appears mainly in contracts and ads.",
+      "mnemonic": null,
+      "germany_context": "Ask whether all flatmates are on the contract or whether you sublet from a Hauptmieter: it decides who can register you and who owes the landlord the rent.",
+      "emoji": "🏠",
+      "imageable": false,
+      "tags": [
+        "housing",
+        "shared"
+      ],
+      "synonyms": [
+        "die WG"
+      ],
+      "antonyms": [],
+      "related": [
+        "wg-zimmer",
+        "untermieter"
+      ]
+    },
+    {
+      "id": "einbaukueche",
+      "word": "die Einbauküche",
+      "lemma": "Einbauküche",
+      "translation": "fitted kitchen",
+      "translations": [
+        "fitted kitchen",
+        "built-in kitchen"
+      ],
+      "level": "A2",
+      "category": "Apartment Hunting & Rental",
+      "partOfSpeech": "noun",
+      "frequency": 1100,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Einbauküchen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Wohnung hat eine Einbauküche.",
+          "en": "The apartment has a fitted kitchen."
+        },
+        {
+          "de": "Ohne Einbauküche musst du selbst eine Küche kaufen.",
+          "en": "Without a fitted kitchen you have to buy a kitchen yourself."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "In der Anzeige steht 'mit ___'.",
+          "answer": "Einbauküche",
+          "en": "The ad says 'with fitted kitchen'."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "German flats often come with NO kitchen: the previous tenant takes theirs along. 'EBK' in an ad saves you 2000-5000 euros — sometimes the outgoing tenant sells you theirs (Ablöse).",
+      "emoji": "🍳",
+      "imageable": true,
+      "tags": [
+        "housing",
+        "kitchen"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "moebliert",
+        "unmoebliert"
+      ]
+    },
+    {
+      "id": "altbau",
+      "word": "der Altbau",
+      "lemma": "Altbau",
+      "translation": "old building",
+      "translations": [
+        "old building",
+        "period building"
+      ],
+      "level": "A2",
+      "category": "Apartment Hunting & Rental",
+      "partOfSpeech": "noun",
+      "frequency": 950,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Altbauten",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Wir wohnen in einem Altbau von 1910.",
+          "en": "We live in an old building from 1910."
+        },
+        {
+          "de": "Der Altbau hat sehr hohe Decken.",
+          "en": "The old building has very high ceilings."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ein ___ ist schön, aber das Heizen ist teuer.",
+          "answer": "Altbau",
+          "en": "An old building is beautiful, but heating it is expensive."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Altbau (built before 1949) means high ceilings, stucco and parquet — but also thin windows, no lift and high Heizkosten. Berlin and Leipzig are full of them.",
+      "emoji": "🏛️",
+      "imageable": true,
+      "tags": [
+        "housing",
+        "building"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "der Neubau"
+      ],
+      "related": [
+        "neubau",
+        "heizkosten"
+      ]
+    },
+    {
+      "id": "neubau",
+      "word": "der Neubau",
+      "lemma": "Neubau",
+      "translation": "new building",
+      "translations": [
+        "new building",
+        "new build"
+      ],
+      "level": "A2",
+      "category": "Apartment Hunting & Rental",
+      "partOfSpeech": "noun",
+      "frequency": 1000,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Neubauten",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Neubau ist sehr gut isoliert.",
+          "en": "The new building is very well insulated."
+        },
+        {
+          "de": "Im Neubau gibt es einen Aufzug.",
+          "en": "There is a lift in the new building."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Im ___ sind die Nebenkosten meistens niedriger.",
+          "answer": "Neubau",
+          "en": "In a new building the utility costs are usually lower."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Neubau flats have better insulation, a lift and often Fußbodenheizung, but a clearly higher Kaltmiete per m². New buildings are also exempt from the Mietpreisbremse.",
+      "emoji": "🏢",
+      "imageable": true,
+      "tags": [
+        "housing",
+        "building"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "der Altbau"
+      ],
+      "related": [
+        "altbau",
+        "aufzug"
+      ]
+    },
+    {
+      "id": "vormieter",
+      "word": "der Vormieter",
+      "lemma": "Vormieter",
+      "translation": "previous tenant",
+      "translations": [
+        "previous tenant",
+        "outgoing tenant"
+      ],
+      "level": "A2",
+      "category": "Apartment Hunting & Rental",
+      "partOfSpeech": "noun",
+      "frequency": 1300,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Vormieter",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Vormieter hat die Küche verkauft.",
+          "en": "The previous tenant sold the kitchen."
+        },
+        {
+          "de": "Ich habe die Wohnung vom Vormieter übernommen.",
+          "en": "I took over the apartment from the previous tenant."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Vom ___ bekomme ich die Lampen.",
+          "answer": "Vormieter",
+          "en": "I am getting the lamps from the previous tenant."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Talk to the outgoing tenant at the viewing: ask about real heating costs, noise and the neighbours, and whether the kitchen is for sale (Ablöse). Landlords may also ask you for a Mietschuldenfreiheitsbescheinigung from your own previous landlord.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "housing",
+        "people"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "nachmieter",
+        "abloese"
+      ]
+    },
+    {
+      "id": "obergeschoss",
+      "word": "das Obergeschoss",
+      "lemma": "Obergeschoss",
+      "translation": "upper floor",
+      "translations": [
+        "upper floor"
+      ],
+      "level": "A2",
+      "category": "Apartment Hunting & Rental",
+      "partOfSpeech": "noun",
+      "frequency": 1200,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Obergeschosse",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Sie wohnt im zweiten Obergeschoss.",
+          "en": "She lives on the second upper floor."
+        },
+        {
+          "de": "Das Obergeschoss erreicht man mit dem Aufzug.",
+          "en": "You reach the upper floor by lift."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Unsere Wohnung ist im dritten ___.",
+          "answer": "Obergeschoss",
+          "en": "Our apartment is on the third upper floor."
+        }
+      ],
+      "notes": "Abbreviated 'OG': 2. OG means two floors above the ground floor, i.e. the third level.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": true,
+      "tags": [
+        "housing",
+        "floors"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "erdgeschoss",
+        "etage"
+      ]
+    },
+    {
+      "id": "dachgeschoss",
+      "word": "das Dachgeschoss",
+      "lemma": "Dachgeschoss",
+      "translation": "attic floor",
+      "translations": [
+        "attic floor",
+        "top floor"
+      ],
+      "level": "A2",
+      "category": "Apartment Hunting & Rental",
+      "partOfSpeech": "noun",
+      "frequency": 1250,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Dachgeschosse",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Das Dachgeschoss hat schräge Wände.",
+          "en": "The attic floor has sloping walls."
+        },
+        {
+          "de": "Im Sommer wird es im Dachgeschoss sehr warm.",
+          "en": "In summer it gets very warm on the attic floor."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wir haben eine kleine Wohnung im ___.",
+          "answer": "Dachgeschoss",
+          "en": "We have a small apartment on the top floor."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "'DG' flats are cheap per m² and often charming, but they overheat in summer and sloping walls count only partly towards the Wohnfläche.",
+      "emoji": null,
+      "imageable": true,
+      "tags": [
+        "housing",
+        "floors"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "dachboden",
+        "erdgeschoss"
+      ]
+    },
+    {
+      "id": "souterrain",
+      "word": "das Souterrain",
+      "lemma": "Souterrain",
+      "translation": "basement flat level",
+      "translations": [
+        "basement flat level",
+        "semi-basement"
+      ],
+      "level": "A2",
+      "category": "Apartment Hunting & Rental",
+      "partOfSpeech": "noun",
+      "frequency": 2200,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Souterrains",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Wohnung liegt im Souterrain.",
+          "en": "The apartment is in the semi-basement."
+        },
+        {
+          "de": "Im Souterrain ist es kühl und ruhig.",
+          "en": "It is cool and quiet in the semi-basement."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Eine Wohnung im ___ ist billiger, aber oft feucht.",
+          "answer": "Souterrain",
+          "en": "An apartment in the semi-basement is cheaper, but often damp."
+        }
+      ],
+      "notes": "French loanword, pronounced roughly 'su-te-räng'. Also called Untergeschoss (UG).",
+      "mnemonic": null,
+      "germany_context": "Cheap but risky: little daylight and a real Schimmel danger. Check the corners and smell the walls at the viewing.",
+      "emoji": null,
+      "imageable": true,
+      "tags": [
+        "housing",
+        "floors"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "keller",
+        "schimmel"
+      ]
+    },
+    {
+      "id": "stockwerk",
+      "word": "das Stockwerk",
+      "lemma": "Stockwerk",
+      "translation": "floor",
+      "translations": [
+        "floor",
+        "storey"
+      ],
+      "level": "A1",
+      "category": "Apartment Hunting & Rental",
+      "partOfSpeech": "noun",
+      "frequency": 830,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Stockwerke",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Das Haus hat fünf Stockwerke.",
+          "en": "The building has five floors."
+        },
+        {
+          "de": "In welchem Stockwerk wohnst du?",
+          "en": "Which floor do you live on?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich muss vier ___ zu Fuß gehen.",
+          "answer": "Stockwerke",
+          "en": "I have to walk up four floors."
+        }
+      ],
+      "notes": "'der Stock', 'das Stockwerk' and 'die Etage' are interchangeable.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": true,
+      "tags": [
+        "housing",
+        "floors"
+      ],
+      "synonyms": [
+        "die Etage",
+        "der Stock"
+      ],
+      "antonyms": [],
+      "related": [
+        "etage",
+        "erdgeschoss"
+      ]
+    },
+    {
+      "id": "kuendigungsfrist",
+      "word": "die Kündigungsfrist",
+      "lemma": "Kündigungsfrist",
+      "translation": "notice period",
+      "translations": [
+        "notice period"
+      ],
+      "level": "A2",
+      "category": "Apartment Hunting & Rental",
+      "partOfSpeech": "noun",
+      "frequency": 940,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Kündigungsfristen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Kündigungsfrist beträgt drei Monate.",
+          "en": "The notice period is three months."
+        },
+        {
+          "de": "Ich muss die Kündigungsfrist einhalten.",
+          "en": "I have to observe the notice period."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wegen der ___ kann ich erst im Juni ausziehen.",
+          "answer": "Kündigungsfrist",
+          "en": "Because of the notice period I can only move out in June."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Three months is the legal standard for tenants and cannot be extended for you. The letter must arrive by the third working day of the month for that month to count.",
+      "emoji": "📅",
+      "imageable": false,
+      "tags": [
+        "housing",
+        "admin",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "kuendigung",
+        "nachmieter"
+      ]
+    },
+    {
+      "id": "schufa",
+      "word": "die Schufa-Auskunft",
+      "lemma": "Schufa-Auskunft",
+      "translation": "credit report",
+      "translations": [
+        "credit report",
+        "Schufa report"
+      ],
+      "level": "A2",
+      "category": "Apartment Hunting & Rental",
+      "partOfSpeech": "noun",
+      "frequency": 760,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Schufa-Auskünfte",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Vermieter will eine Schufa-Auskunft sehen.",
+          "en": "The landlord wants to see a credit report."
+        },
+        {
+          "de": "Meine Schufa-Auskunft ist zwei Wochen alt.",
+          "en": "My credit report is two weeks old."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ohne ___ bekommst du in Berlin kaum eine Wohnung.",
+          "answer": "Schufa-Auskunft",
+          "en": "Without a credit report you will hardly get an apartment in Berlin."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Almost every landlord asks for it. The free Datenkopie takes weeks, the paid instant version costs about 30 euros. Order it before you start viewing — newcomers get a thin but usually acceptable report.",
+      "emoji": "📄",
+      "imageable": false,
+      "tags": [
+        "housing",
+        "documents",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "selbstauskunft",
+        "einkommensnachweis"
+      ]
+    },
+    {
+      "id": "selbstauskunft",
+      "word": "die Selbstauskunft",
+      "lemma": "Selbstauskunft",
+      "translation": "tenant self-disclosure form",
+      "translations": [
+        "tenant self-disclosure form",
+        "personal information form"
+      ],
+      "level": "A2",
+      "category": "Apartment Hunting & Rental",
+      "partOfSpeech": "noun",
+      "frequency": 1650,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Selbstauskünfte",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Bitte füllen Sie die Selbstauskunft aus.",
+          "en": "Please fill in the self-disclosure form."
+        },
+        {
+          "de": "In der Selbstauskunft stehen mein Beruf und mein Einkommen.",
+          "en": "My job and my income are in the self-disclosure form."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Makler hat mir eine ___ zum Ausfüllen gegeben.",
+          "answer": "Selbstauskunft",
+          "en": "The agent gave me a self-disclosure form to fill in."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "A form about job, income and household size. You may legally leave out questions about religion, pregnancy, political party or plans to have children — those answers may even be untrue without consequence.",
+      "emoji": "📝",
+      "imageable": false,
+      "tags": [
+        "housing",
+        "documents"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "schufa",
+        "einkommensnachweis"
+      ]
+    },
+    {
+      "id": "einkommensnachweis",
+      "word": "der Einkommensnachweis",
+      "lemma": "Einkommensnachweis",
+      "translation": "proof of income",
+      "translations": [
+        "proof of income",
+        "income statement"
+      ],
+      "level": "A2",
+      "category": "Apartment Hunting & Rental",
+      "partOfSpeech": "noun",
+      "frequency": 1050,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Einkommensnachweise",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich brauche einen Einkommensnachweis für die Wohnung.",
+          "en": "I need proof of income for the apartment."
+        },
+        {
+          "de": "Bitte schicken Sie drei Einkommensnachweise.",
+          "en": "Please send three proofs of income."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Als ___ reichen die letzten drei Gehaltsabrechnungen.",
+          "answer": "Einkommensnachweis",
+          "en": "The last three payslips are enough as proof of income."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Landlords want your last three payslips and expect the Kaltmiete to be no more than about a third of your net income. A signed Arbeitsvertrag helps if you have just arrived.",
+      "emoji": "💵",
+      "imageable": false,
+      "tags": [
+        "housing",
+        "documents"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "schufa",
+        "buergschaft"
+      ]
+    },
+    {
+      "id": "buergschaft",
+      "word": "die Bürgschaft",
+      "lemma": "Bürgschaft",
+      "translation": "guarantee",
+      "translations": [
+        "guarantee",
+        "surety"
+      ],
+      "level": "A2",
+      "category": "Apartment Hunting & Rental",
+      "partOfSpeech": "noun",
+      "frequency": 1750,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Bürgschaften",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Meine Eltern haben eine Bürgschaft unterschrieben.",
+          "en": "My parents signed a guarantee."
+        },
+        {
+          "de": "Ohne Bürgschaft bekommt er den Vertrag nicht.",
+          "en": "Without a guarantee he won't get the contract."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Für Studenten ist eine ___ der Eltern ganz normal.",
+          "answer": "Bürgschaft",
+          "en": "For students a guarantee from their parents is completely normal."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Common if you are new to Germany or still in probation: a parent or employer guarantees the rent. A Mietkautionsbürgschaft from a bank or insurer can also replace the cash deposit.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "housing",
+        "money",
+        "documents"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "kaution",
+        "einkommensnachweis"
+      ]
+    },
+    {
+      "id": "wohnungsgeberbestaetigung",
+      "word": "die Wohnungsgeberbestätigung",
+      "lemma": "Wohnungsgeberbestätigung",
+      "translation": "landlord's confirmation of residence",
+      "translations": [
+        "landlord's confirmation of residence",
+        "housing provider confirmation"
+      ],
+      "level": "A2",
+      "category": "Apartment Hunting & Rental",
+      "partOfSpeech": "noun",
+      "frequency": 1200,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Wohnungsgeberbestätigungen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Vermieter schickt mir die Wohnungsgeberbestätigung.",
+          "en": "The landlord is sending me the confirmation of residence."
+        },
+        {
+          "de": "Ohne Wohnungsgeberbestätigung geht die Anmeldung nicht.",
+          "en": "Without the confirmation of residence the registration is impossible."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich habe die ___ zum Bürgeramt mitgenommen.",
+          "answer": "Wohnungsgeberbestätigung",
+          "en": "I took the confirmation of residence with me to the registration office."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "This one-page form from your landlord is mandatory for the Anmeldung, which must happen within 14 days of moving in. No Anmeldung means no Steuer-ID, no bank account and problems with your residence permit — ask for it on handover day.",
+      "emoji": "📃",
+      "imageable": false,
+      "tags": [
+        "housing",
+        "documents",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "umzug",
+        "mietvertrag"
+      ]
+    },
+    {
+      "id": "umzug",
+      "word": "der Umzug",
+      "lemma": "Umzug",
+      "translation": "move",
+      "translations": [
+        "move",
+        "relocation"
+      ],
+      "level": "A1",
+      "category": "Apartment Hunting & Rental",
+      "partOfSpeech": "noun",
+      "frequency": 640,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Umzüge",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Umzug war sehr anstrengend.",
+          "en": "The move was very exhausting."
+        },
+        {
+          "de": "Wir planen den Umzug für Ende Juli.",
+          "en": "We are planning the move for the end of July."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Nach dem ___ muss ich mich beim Bürgeramt anmelden.",
+          "answer": "Umzug",
+          "en": "After the move I have to register at the registration office."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Book a Halteverbotszone for the van two to three weeks in advance, or you will carry boxes 200 metres. A job-related move is tax-deductible, so keep every receipt.",
+      "emoji": "📦",
+      "imageable": false,
+      "tags": [
+        "housing",
+        "moving"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "umzugskarton",
+        "wohnungsgeberbestaetigung"
+      ]
+    },
+    {
+      "id": "renovierung",
+      "word": "die Renovierung",
+      "lemma": "Renovierung",
+      "translation": "renovation",
+      "translations": [
+        "renovation",
+        "refurbishment"
+      ],
+      "level": "A2",
+      "category": "Apartment Hunting & Rental",
+      "partOfSpeech": "noun",
+      "frequency": 1150,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Renovierungen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Renovierung dauert zwei Wochen.",
+          "en": "The renovation takes two weeks."
+        },
+        {
+          "de": "Nach der Renovierung riecht es nach Farbe.",
+          "en": "After the renovation it smells of paint."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Vermieter bezahlt die ___ nicht.",
+          "answer": "Renovierung",
+          "en": "The landlord is not paying for the renovation."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Many contracts demand Schönheitsreparaturen when you leave, but the Federal Court has struck down rigid fixed-date clauses — if you moved into an unrenovated flat you often do not have to paint at all.",
+      "emoji": "🖌️",
+      "imageable": false,
+      "tags": [
+        "housing",
+        "repair"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "renovieren",
+        "streichen"
+      ]
+    },
+    {
+      "id": "reparatur",
+      "word": "die Reparatur",
+      "lemma": "Reparatur",
+      "translation": "repair",
+      "translations": [
+        "repair"
+      ],
+      "level": "A1",
+      "category": "Apartment Hunting & Rental",
+      "partOfSpeech": "noun",
+      "frequency": 780,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Reparaturen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Reparatur der Heizung ist kostenlos.",
+          "en": "The repair of the heating is free of charge."
+        },
+        {
+          "de": "Wer bezahlt die Reparatur?",
+          "en": "Who pays for the repair?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich habe eine ___ bei der Hausverwaltung gemeldet.",
+          "answer": "Reparatur",
+          "en": "I reported a repair to the property management."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Repairs are the landlord's job. A Kleinreparaturklausel may make you pay small ones, typically up to about 100 euros per item and capped at 6-8% of the annual rent — never accept an unlimited clause.",
+      "emoji": "🔧",
+      "imageable": false,
+      "tags": [
+        "housing",
+        "repair"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "handwerker",
+        "mangel",
+        "hausverwaltung"
+      ]
+    },
+    {
+      "id": "mangel",
+      "word": "der Mangel",
+      "lemma": "Mangel",
+      "translation": "defect",
+      "translations": [
+        "defect",
+        "fault"
+      ],
+      "level": "A2",
+      "category": "Apartment Hunting & Rental",
+      "partOfSpeech": "noun",
+      "frequency": 1400,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Mängel",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Wohnung hat einen Mangel.",
+          "en": "The apartment has a defect."
+        },
+        {
+          "de": "Alle Mängel stehen im Protokoll.",
+          "en": "All defects are listed in the report."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Bitte melden Sie ___ sofort schriftlich.",
+          "answer": "Mängel",
+          "en": "Please report defects in writing immediately."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Write every Mangel into the Übergabeprotokoll on day one — scratched parquet, broken blinds, damp corners. Anything not listed can be deducted from your Kaution when you leave.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "housing",
+        "problems"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "uebergabeprotokoll",
+        "reparatur",
+        "schimmel"
+      ]
+    },
+    {
+      "id": "uebergabeprotokoll",
+      "word": "das Übergabeprotokoll",
+      "lemma": "Übergabeprotokoll",
+      "translation": "handover report",
+      "translations": [
+        "handover report",
+        "handover protocol"
+      ],
+      "level": "A2",
+      "category": "Apartment Hunting & Rental",
+      "partOfSpeech": "noun",
+      "frequency": 1500,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Übergabeprotokolle",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Wir haben das Übergabeprotokoll unterschrieben.",
+          "en": "We signed the handover report."
+        },
+        {
+          "de": "Im Übergabeprotokoll stehen die Zählerstände.",
+          "en": "The meter readings are in the handover report."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ohne ___ ist es schwer, die Kaution zurückzubekommen.",
+          "answer": "Übergabeprotokoll",
+          "en": "Without a handover report it is hard to get the deposit back."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "It lists meter readings, keys handed over and existing damage. Take photos of everything, sign only what you actually agree with, and keep your own copy — it is your main evidence in any Kaution dispute.",
+      "emoji": "📋",
+      "imageable": true,
+      "tags": [
+        "housing",
+        "documents",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "wohnungsuebergabe",
+        "kaution",
+        "mangel"
+      ]
+    },
+    {
+      "id": "wohnungsuebergabe",
+      "word": "die Wohnungsübergabe",
+      "lemma": "Wohnungsübergabe",
+      "translation": "apartment handover",
+      "translations": [
+        "apartment handover",
+        "flat handover"
+      ],
+      "level": "A2",
+      "category": "Apartment Hunting & Rental",
+      "partOfSpeech": "noun",
+      "frequency": 1600,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Wohnungsübergaben",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Wohnungsübergabe ist am 30. September.",
+          "en": "The apartment handover is on 30 September."
+        },
+        {
+          "de": "Bei der Wohnungsübergabe bekomme ich die Schlüssel.",
+          "en": "I get the keys at the apartment handover."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Zur ___ bringe ich alle Schlüssel mit.",
+          "answer": "Wohnungsübergabe",
+          "en": "I am bringing all the keys to the apartment handover."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Do the handover in daylight and never alone — bring a witness. Count the keys exactly: one missing key to a Schließanlage can mean paying for a whole new locking system.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "housing",
+        "process"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "uebergabeprotokoll",
+        "schluessel"
+      ]
+    },
+    {
+      "id": "namensschild",
+      "word": "das Namensschild",
+      "lemma": "Namensschild",
+      "translation": "name plate",
+      "translations": [
+        "name plate",
+        "name tag"
+      ],
+      "level": "A2",
+      "category": "Apartment Hunting & Rental",
+      "partOfSpeech": "noun",
+      "frequency": 1550,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Namensschilder",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich brauche ein Namensschild für die Klingel.",
+          "en": "I need a name plate for the doorbell."
+        },
+        {
+          "de": "Das Namensschild fehlt noch.",
+          "en": "The name plate is still missing."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ohne ___ kommt bei mir keine Post an.",
+          "answer": "Namensschild",
+          "en": "Without a name plate no mail arrives for me."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Ask the Hausmeister or Hausverwaltung for the official label — in many buildings you are not allowed to stick on your own hand-written one.",
+      "emoji": "🏷️",
+      "imageable": true,
+      "tags": [
+        "housing",
+        "mail"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "briefkasten"
+      ]
+    },
+    {
+      "id": "waschkueche",
+      "word": "die Waschküche",
+      "lemma": "Waschküche",
+      "translation": "laundry room",
+      "translations": [
+        "laundry room"
+      ],
+      "level": "A2",
+      "category": "Apartment Hunting & Rental",
+      "partOfSpeech": "noun",
+      "frequency": 1650,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Waschküchen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Waschküche ist im Keller.",
+          "en": "The laundry room is in the cellar."
+        },
+        {
+          "de": "In der Waschküche stehen zwei Waschmaschinen.",
+          "en": "There are two washing machines in the laundry room."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich muss die ___ vorher reservieren.",
+          "answer": "Waschküche",
+          "en": "I have to book the laundry room in advance."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Many older buildings have a shared laundry room with a booking list on the door; some charge per wash with a chip or coins.",
+      "emoji": "🧺",
+      "imageable": true,
+      "tags": [
+        "housing",
+        "building"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "keller"
+      ]
+    },
+    {
+      "id": "stellplatz",
+      "word": "der Stellplatz",
+      "lemma": "Stellplatz",
+      "translation": "parking space",
+      "translations": [
+        "parking space",
+        "parking spot"
+      ],
+      "level": "A2",
+      "category": "Apartment Hunting & Rental",
+      "partOfSpeech": "noun",
+      "frequency": 1500,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Stellplätze",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Stellplatz kostet 50 Euro extra.",
+          "en": "The parking space costs 50 euros extra."
+        },
+        {
+          "de": "Wir haben keinen Stellplatz für das Auto.",
+          "en": "We have no parking space for the car."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Zur Wohnung gehört ein ___ im Hof.",
+          "answer": "Stellplatz",
+          "en": "A parking space in the courtyard belongs to the apartment."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Parking is rented separately, typically 30-150 euros a month in cities. For street parking you often need an Anwohnerparkausweis from the district office.",
+      "emoji": "🅿️",
+      "imageable": true,
+      "tags": [
+        "housing",
+        "parking"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "garage"
+      ]
+    },
+    {
+      "id": "mieterverein",
+      "word": "der Mieterverein",
+      "lemma": "Mieterverein",
+      "translation": "tenants' association",
+      "translations": [
+        "tenants' association",
+        "tenants' union"
+      ],
+      "level": "A2",
+      "category": "Apartment Hunting & Rental",
+      "partOfSpeech": "noun",
+      "frequency": 1300,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Mietervereine",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich bin Mitglied im Mieterverein.",
+          "en": "I am a member of the tenants' association."
+        },
+        {
+          "de": "Der Mieterverein hat mir sehr geholfen.",
+          "en": "The tenants' association helped me a lot."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Frag den ___, wenn der Vermieter Probleme macht.",
+          "answer": "Mieterverein",
+          "en": "Ask the tenants' association if the landlord causes problems."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "For roughly 60-100 euros a year the local Mieterverein checks your contract and utility statement and gives legal advice, usually including Rechtsschutz. Excellent value if you ever have a dispute.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "housing",
+        "help"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "mieter",
+        "betriebskostenabrechnung"
+      ]
+    },
+    {
+      "id": "mietpreisbremse",
+      "word": "die Mietpreisbremse",
+      "lemma": "Mietpreisbremse",
+      "translation": "rent cap",
+      "translations": [
+        "rent cap",
+        "rent brake"
+      ],
+      "level": "A2",
+      "category": "Apartment Hunting & Rental",
+      "partOfSpeech": "noun",
+      "frequency": 1850,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Mietpreisbremsen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "In dieser Stadt gilt die Mietpreisbremse.",
+          "en": "The rent cap applies in this city."
+        },
+        {
+          "de": "Die Mietpreisbremse soll hohe Mieten verhindern.",
+          "en": "The rent cap is meant to prevent high rents."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Dank der ___ darf die Miete nicht zu stark steigen.",
+          "answer": "Mietpreisbremse",
+          "en": "Thanks to the rent cap the rent may not rise too steeply."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "In tight housing markets a new rent may exceed the local Mietspiegel by at most 10%. You can ask the landlord in writing what the previous tenant paid and reclaim rent that was set too high.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "housing",
+        "law"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "miete",
+        "kaltmiete"
+      ]
+    },
+    {
+      "id": "sozialwohnung",
+      "word": "die Sozialwohnung",
+      "lemma": "Sozialwohnung",
+      "translation": "subsidised apartment",
+      "translations": [
+        "subsidised apartment",
+        "social housing unit"
+      ],
+      "level": "A2",
+      "category": "Apartment Hunting & Rental",
+      "partOfSpeech": "noun",
+      "frequency": 1700,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Sozialwohnungen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Eine Sozialwohnung ist deutlich billiger.",
+          "en": "A subsidised apartment is clearly cheaper."
+        },
+        {
+          "de": "Für eine Sozialwohnung braucht man einen Wohnberechtigungsschein.",
+          "en": "For a subsidised apartment you need an eligibility certificate."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Sie wartet seit zwei Jahren auf eine ___.",
+          "answer": "Sozialwohnung",
+          "en": "She has been waiting two years for a subsidised apartment."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Rents are capped, but waiting lists in big cities run for years and you need a WBS from the city, which depends on income limits and household size.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "housing",
+        "law"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "wohnberechtigungsschein"
+      ]
+    },
+    {
+      "id": "wohnberechtigungsschein",
+      "word": "der Wohnberechtigungsschein",
+      "lemma": "Wohnberechtigungsschein",
+      "translation": "housing eligibility certificate",
+      "translations": [
+        "housing eligibility certificate"
+      ],
+      "level": "A2",
+      "category": "Apartment Hunting & Rental",
+      "partOfSpeech": "noun",
+      "frequency": 2100,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Wohnberechtigungsscheine",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich habe einen Wohnberechtigungsschein beantragt.",
+          "en": "I applied for a housing eligibility certificate."
+        },
+        {
+          "de": "Der Wohnberechtigungsschein gilt ein Jahr.",
+          "en": "The housing eligibility certificate is valid for one year."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ohne ___ bekommt man keine Sozialwohnung.",
+          "answer": "Wohnberechtigungsschein",
+          "en": "Without a housing eligibility certificate you cannot get a subsidised apartment."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Everyone says 'WBS'. Apply at the Wohnungsamt with proof of income; whether you qualify depends on income limits and how many people live in the household.",
+      "emoji": "📄",
+      "imageable": false,
+      "tags": [
+        "housing",
+        "documents"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "sozialwohnung"
+      ]
+    },
+    {
+      "id": "umzugskarton",
+      "word": "der Umzugskarton",
+      "lemma": "Umzugskarton",
+      "translation": "moving box",
+      "translations": [
+        "moving box",
+        "packing box"
+      ],
+      "level": "A2",
+      "category": "Apartment Hunting & Rental",
+      "partOfSpeech": "noun",
+      "frequency": 1600,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Umzugskartons",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Wir brauchen dreißig Umzugskartons.",
+          "en": "We need thirty moving boxes."
+        },
+        {
+          "de": "Der Umzugskarton ist viel zu schwer.",
+          "en": "The moving box is far too heavy."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "In diesem ___ sind nur Bücher.",
+          "answer": "Umzugskarton",
+          "en": "There are only books in this moving box."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Hardware stores like OBI or Bauhaus sell them cheaply, but renting stackable plastic boxes is often cheaper and far sturdier for a city move.",
+      "emoji": "📦",
+      "imageable": true,
+      "tags": [
+        "housing",
+        "moving"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "umzug"
+      ]
+    },
+    {
+      "id": "moebliert",
+      "word": "möbliert",
+      "lemma": "möbliert",
+      "translation": "furnished",
+      "translations": [
+        "furnished"
+      ],
+      "level": "A2",
+      "category": "Apartment Hunting & Rental",
+      "partOfSpeech": "adjective",
+      "frequency": 900,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Das Zimmer ist möbliert.",
+          "en": "The room is furnished."
+        },
+        {
+          "de": "Wir suchen eine möblierte Wohnung für sechs Monate.",
+          "en": "We are looking for a furnished apartment for six months."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Eine ___ Wohnung ist teurer, aber am Anfang praktisch.",
+          "answer": "möblierte",
+          "en": "A furnished apartment is more expensive, but practical at the beginning."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Furnished flats are usually let on short, befristet contracts at much higher rents — handy for your first months, but the Mietpreisbremse protects you less.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "housing",
+        "description"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "unmöbliert"
+      ],
+      "related": [
+        "unmoebliert",
+        "wg-zimmer"
+      ]
+    },
+    {
+      "id": "unmoebliert",
+      "word": "unmöbliert",
+      "lemma": "unmöbliert",
+      "translation": "unfurnished",
+      "translations": [
+        "unfurnished"
+      ],
+      "level": "A2",
+      "category": "Apartment Hunting & Rental",
+      "partOfSpeech": "adjective",
+      "frequency": 1250,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die meisten Wohnungen sind unmöbliert.",
+          "en": "Most apartments are unfurnished."
+        },
+        {
+          "de": "Unmöbliert heißt hier oft auch ohne Küche.",
+          "en": "Unfurnished here often also means without a kitchen."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wir haben die Wohnung ___ übernommen.",
+          "answer": "unmöbliert",
+          "en": "We took over the apartment unfurnished."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "In Germany 'unmöbliert' can mean literally empty: no kitchen, no wardrobes, sometimes not even light fittings — budget a few thousand euros for that.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "housing",
+        "description"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "möbliert"
+      ],
+      "related": [
+        "moebliert",
+        "einbaukueche"
+      ]
+    },
+    {
+      "id": "zentral",
+      "word": "zentral",
+      "lemma": "zentral",
+      "translation": "central",
+      "translations": [
+        "central",
+        "centrally located"
+      ],
+      "level": "A2",
+      "category": "Apartment Hunting & Rental",
+      "partOfSpeech": "adjective",
+      "frequency": 950,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "komparativ": "zentraler",
+        "superlativ": "am zentralsten"
+      },
+      "example_sentences": [
+        {
+          "de": "Die Wohnung liegt sehr zentral.",
+          "en": "The apartment is very centrally located."
+        },
+        {
+          "de": "Zentral wohnen ist in München teuer.",
+          "en": "Living centrally is expensive in Munich."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wir suchen etwas ___, aber trotzdem ruhig.",
+          "answer": "zentral",
+          "en": "We are looking for something central but still quiet."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "housing",
+        "description"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "wohnungsanzeige"
+      ]
+    },
+    {
+      "id": "provisionsfrei",
+      "word": "provisionsfrei",
+      "lemma": "provisionsfrei",
+      "translation": "without agent's commission",
+      "translations": [
+        "without agent's commission",
+        "commission-free"
+      ],
+      "level": "A2",
+      "category": "Apartment Hunting & Rental",
+      "partOfSpeech": "adjective",
+      "frequency": 1450,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Diese Wohnung ist provisionsfrei.",
+          "en": "This apartment comes without agent's commission."
+        },
+        {
+          "de": "Ich suche nur provisionsfreie Angebote.",
+          "en": "I am only looking for commission-free offers."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Das Angebot ist ___, du zahlst also keinen Makler.",
+          "answer": "provisionsfrei",
+          "en": "The offer is commission-free, so you don't pay an agent."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Most rental ads are provisionsfrei because of the Bestellerprinzip. If an agent still asks a tenant for commission on a normal rental, that is usually illegal.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "housing",
+        "money"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "provision",
+        "maklergebuehr"
+      ]
+    },
+    {
+      "id": "befristet",
+      "word": "befristet",
+      "lemma": "befristet",
+      "translation": "fixed-term",
+      "translations": [
+        "fixed-term",
+        "limited in time"
+      ],
+      "level": "A2",
+      "category": "Apartment Hunting & Rental",
+      "partOfSpeech": "adjective",
+      "frequency": 1200,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Mietvertrag ist auf ein Jahr befristet.",
+          "en": "The lease is limited to one year."
+        },
+        {
+          "de": "Ich habe nur einen befristeten Vertrag.",
+          "en": "I only have a fixed-term contract."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Vertrag ist bis Ende August ___.",
+          "answer": "befristet",
+          "en": "The contract is limited until the end of August."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "A landlord may only limit a lease for a legally valid reason (for example planned own use) and must name it in the contract; otherwise the time limit is void and the lease runs indefinitely.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "housing",
+        "contract"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "unbefristet"
+      ],
+      "related": [
+        "unbefristet",
+        "mietvertrag"
+      ]
+    },
+    {
+      "id": "unbefristet",
+      "word": "unbefristet",
+      "lemma": "unbefristet",
+      "translation": "open-ended",
+      "translations": [
+        "open-ended",
+        "permanent",
+        "indefinite"
+      ],
+      "level": "A2",
+      "category": "Apartment Hunting & Rental",
+      "partOfSpeech": "adjective",
+      "frequency": 1150,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Zum Glück ist mein Mietvertrag unbefristet.",
+          "en": "Luckily my lease is open-ended."
+        },
+        {
+          "de": "Ein unbefristeter Vertrag gibt Sicherheit.",
+          "en": "An open-ended contract gives security."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Die meisten Mietverträge in Deutschland sind ___.",
+          "answer": "unbefristet",
+          "en": "Most leases in Germany are open-ended."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "The normal German lease has no end date: you may stay as long as you want with three months' notice, and the landlord needs a legal reason such as Eigenbedarf to end it.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "housing",
+        "contract"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "befristet"
+      ],
+      "related": [
+        "befristet",
+        "mietvertrag"
+      ]
+    },
+    {
+      "id": "vermieten",
+      "word": "vermieten",
+      "lemma": "vermieten",
+      "translation": "to rent out",
+      "translations": [
+        "to rent out",
+        "to let"
+      ],
+      "level": "A2",
+      "category": "Apartment Hunting & Rental",
+      "partOfSpeech": "verb",
+      "frequency": 870,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "vermiete",
+        "du": "vermietest",
+        "er": "vermietet",
+        "wir": "vermieten",
+        "ihr": "vermietet",
+        "sie": "vermieten",
+        "praeteritum": "vermietete",
+        "perfekt": "hat vermietet",
+        "imperativ": "vermiete!"
+      },
+      "example_sentences": [
+        {
+          "de": "Er vermietet die Wohnung ab September.",
+          "en": "He is renting out the apartment from September."
+        },
+        {
+          "de": "Wir haben unser Zimmer an einen Studenten vermietet.",
+          "en": "We rented our room out to a student."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ Sie die Wohnung auch möbliert?",
+          "answer": "Vermieten",
+          "en": "Do you also rent out the apartment furnished?"
+        }
+      ],
+      "notes": "'mieten' = to rent (as tenant), 'vermieten' = to rent out (as owner).",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "housing",
+        "verb"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "mieten"
+      ],
+      "related": [
+        "mieter",
+        "mietvertrag"
+      ]
+    },
+    {
+      "id": "besichtigen",
+      "word": "besichtigen",
+      "lemma": "besichtigen",
+      "translation": "to view",
+      "translations": [
+        "to view",
+        "to inspect",
+        "to look around"
+      ],
+      "level": "A2",
+      "category": "Apartment Hunting & Rental",
+      "partOfSpeech": "verb",
+      "frequency": 780,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "besichtige",
+        "du": "besichtigst",
+        "er": "besichtigt",
+        "wir": "besichtigen",
+        "ihr": "besichtigt",
+        "sie": "besichtigen",
+        "praeteritum": "besichtigte",
+        "perfekt": "hat besichtigt",
+        "imperativ": "besichtige!"
+      },
+      "example_sentences": [
+        {
+          "de": "Wir besichtigen morgen zwei Wohnungen.",
+          "en": "We are viewing two apartments tomorrow."
+        },
+        {
+          "de": "Darf ich die Wohnung heute besichtigen?",
+          "en": "May I view the apartment today?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich habe das Haus schon ___.",
+          "answer": "besichtigt",
+          "en": "I have already viewed the house."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Turn up five minutes early with a folder containing Schufa, payslips, ID and a short introduction — viewings often last 15 minutes with 20 other applicants.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "housing",
+        "verb"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "besichtigung",
+        "wohnung"
+      ]
+    },
+    {
+      "id": "renovieren",
+      "word": "renovieren",
+      "lemma": "renovieren",
+      "translation": "to renovate",
+      "translations": [
+        "to renovate",
+        "to redecorate"
+      ],
+      "level": "A2",
+      "category": "Apartment Hunting & Rental",
+      "partOfSpeech": "verb",
+      "frequency": 1050,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "renoviere",
+        "du": "renovierst",
+        "er": "renoviert",
+        "wir": "renovieren",
+        "ihr": "renoviert",
+        "sie": "renovieren",
+        "praeteritum": "renovierte",
+        "perfekt": "hat renoviert",
+        "imperativ": "renovier(e)!"
+      },
+      "example_sentences": [
+        {
+          "de": "Wir renovieren gerade das Bad.",
+          "en": "We are renovating the bathroom right now."
+        },
+        {
+          "de": "Die Wohnung wurde letztes Jahr renoviert.",
+          "en": "The apartment was renovated last year."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Musst du beim Auszug ___?",
+          "answer": "renovieren",
+          "en": "Do you have to renovate when you move out?"
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Whether you must renovate on move-out depends on the clause in your contract and the condition you received the flat in. Many old clauses are invalid — ask the Mieterverein before you spend a weekend painting.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "housing",
+        "verb",
+        "repair"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "renovierung",
+        "streichen"
+      ]
+    },
+    {
+      "id": "streichen",
+      "word": "streichen",
+      "lemma": "streichen",
+      "translation": "to paint",
+      "translations": [
+        "to paint",
+        "to paint over"
+      ],
+      "level": "A2",
+      "category": "Apartment Hunting & Rental",
+      "partOfSpeech": "verb",
+      "frequency": 990,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "streiche",
+        "du": "streichst",
+        "er": "streicht",
+        "wir": "streichen",
+        "ihr": "streicht",
+        "sie": "streichen",
+        "praeteritum": "strich",
+        "perfekt": "hat gestrichen",
+        "imperativ": "streich(e)!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich streiche die Wände weiß.",
+          "en": "I am painting the walls white."
+        },
+        {
+          "de": "Wir haben die ganze Wohnung gestrichen.",
+          "en": "We painted the whole apartment."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Beim Auszug muss ich die Wände ___.",
+          "answer": "streichen",
+          "en": "When I move out I have to paint the walls."
+        }
+      ],
+      "notes": "Strong verb: streichen - strich - gestrichen. For pictures use 'malen'.",
+      "mnemonic": null,
+      "germany_context": "Landlords expect neutral white on move-out; strong colours must be painted over. 'Besenrein' means the flat is empty and swept, nothing more.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "housing",
+        "verb",
+        "repair"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "renovieren",
+        "renovierung"
+      ]
+    },
+    {
+      "id": "eigentuemer",
+      "word": "der Eigentümer",
+      "lemma": "Eigentümer",
+      "translation": "owner",
+      "translations": [
+        "owner",
+        "proprietor"
+      ],
+      "level": "A2",
+      "category": "Apartment Hunting & Rental",
+      "partOfSpeech": "noun",
+      "frequency": 1150,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Eigentümer",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Eigentümer wohnt selbst im Haus.",
+          "en": "The owner lives in the building himself."
+        },
+        {
+          "de": "Die Eigentümer haben das Dach reparieren lassen.",
+          "en": "The owners had the roof repaired."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der ___ hat die Wohnung verkauft.",
+          "answer": "Eigentümer",
+          "en": "The owner sold the apartment."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "If the flat is sold your lease simply continues with the new owner — 'Kauf bricht nicht Miete'. In big buildings you deal with the Hausverwaltung, never the Eigentümer directly.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "housing",
+        "people"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "hausverwaltung",
+        "mieter"
+      ]
+    },
+    {
+      "id": "mietspiegel",
+      "word": "der Mietspiegel",
+      "lemma": "Mietspiegel",
+      "translation": "rent index",
+      "translations": [
+        "rent index",
+        "rent table"
+      ],
+      "level": "A2",
+      "category": "Apartment Hunting & Rental",
+      "partOfSpeech": "noun",
+      "frequency": 1550,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Mietspiegel",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Mietspiegel zeigt die üblichen Mieten im Viertel.",
+          "en": "The rent index shows the usual rents in the district."
+        },
+        {
+          "de": "Laut Mietspiegel ist meine Miete zu hoch.",
+          "en": "According to the rent index my rent is too high."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich habe den ___ meiner Stadt im Internet gefunden.",
+          "answer": "Mietspiegel",
+          "en": "I found my city's rent index on the internet."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Every larger city publishes one with normal prices per m² by district, year of construction and fittings. It is your main evidence against a Mieterhöhung or a Mietpreisbremse violation.",
+      "emoji": "📊",
+      "imageable": false,
+      "tags": [
+        "housing",
+        "money"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "mietpreisbremse",
+        "mieterhoehung"
+      ]
+    },
+    {
+      "id": "mieterhoehung",
+      "word": "die Mieterhöhung",
+      "lemma": "Mieterhöhung",
+      "translation": "rent increase",
+      "translations": [
+        "rent increase"
+      ],
+      "level": "A2",
+      "category": "Apartment Hunting & Rental",
+      "partOfSpeech": "noun",
+      "frequency": 1100,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Mieterhöhungen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich habe eine Mieterhöhung bekommen.",
+          "en": "I received a rent increase."
+        },
+        {
+          "de": "Die Mieterhöhung gilt ab Januar.",
+          "en": "The rent increase applies from January."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der ___ muss ich schriftlich zustimmen.",
+          "answer": "Mieterhöhung",
+          "en": "I have to agree to the rent increase in writing."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "It must be justified in writing, may not go above the Mietspiegel and is capped at 20% (15% in tight markets) over three years. You have two months to agree — without your signature the landlord has to sue.",
+      "emoji": "📈",
+      "imageable": false,
+      "tags": [
+        "housing",
+        "money"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "mietspiegel",
+        "staffelmiete"
+      ]
+    },
+    {
+      "id": "mietminderung",
+      "word": "die Mietminderung",
+      "lemma": "Mietminderung",
+      "translation": "rent reduction",
+      "translations": [
+        "rent reduction",
+        "rent abatement"
+      ],
+      "level": "A2",
+      "category": "Apartment Hunting & Rental",
+      "partOfSpeech": "noun",
+      "frequency": 1500,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Mietminderungen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Bei Schimmel ist eine Mietminderung möglich.",
+          "en": "With mould a rent reduction is possible."
+        },
+        {
+          "de": "Ich habe eine Mietminderung von zehn Prozent gefordert.",
+          "en": "I demanded a rent reduction of ten percent."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Die ___ muss man vorher schriftlich ankündigen.",
+          "answer": "Mietminderung",
+          "en": "You have to announce the rent reduction in writing beforehand."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "You may pay less while a real defect exists (no heating, mould, building site noise). Announce it in writing first and pay 'unter Vorbehalt' if unsure — reducing too much can cost you the flat.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "housing",
+        "law"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "mangel",
+        "reparatur"
+      ]
+    },
+    {
+      "id": "eigenbedarf",
+      "word": "der Eigenbedarf",
+      "lemma": "Eigenbedarf",
+      "translation": "personal use",
+      "translations": [
+        "personal use",
+        "own need"
+      ],
+      "level": "A2",
+      "category": "Apartment Hunting & Rental",
+      "partOfSpeech": "noun",
+      "frequency": 1400,
+      "gender": "m",
+      "article": "der",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Vermieter kündigt wegen Eigenbedarf.",
+          "en": "The landlord is terminating because of personal use."
+        },
+        {
+          "de": "Eigenbedarf muss der Vermieter genau begründen.",
+          "en": "The landlord has to justify personal use precisely."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Eine Kündigung wegen ___ ist der häufigste Grund.",
+          "answer": "Eigenbedarf",
+          "en": "A termination because of personal use is the most common reason."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Practically the only way a landlord can end an open-ended lease: he needs the flat for himself or close family. He must name the person and the reason, and long-term tenants get up to nine months' notice.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "housing",
+        "law"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "kuendigung",
+        "unbefristet"
+      ]
+    },
+    {
+      "id": "schoenheitsreparatur",
+      "word": "die Schönheitsreparatur",
+      "lemma": "Schönheitsreparatur",
+      "translation": "cosmetic repair",
+      "translations": [
+        "cosmetic repair",
+        "decorative repair"
+      ],
+      "level": "A2",
+      "category": "Apartment Hunting & Rental",
+      "partOfSpeech": "noun",
+      "frequency": 1800,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Schönheitsreparaturen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Schönheitsreparaturen stehen im Mietvertrag.",
+          "en": "The cosmetic repairs are in the lease."
+        },
+        {
+          "de": "Wer zahlt die Schönheitsreparaturen beim Auszug?",
+          "en": "Who pays for the cosmetic repairs on moving out?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Für ___ bin ich laut Vertrag nicht zuständig.",
+          "answer": "Schönheitsreparaturen",
+          "en": "According to the contract I am not responsible for cosmetic repairs."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "This means painting walls, ceilings and radiators. Clauses with rigid fixed deadlines are invalid, and if you got the flat unrenovated you usually owe nothing — check before you spend a weekend painting.",
+      "emoji": "🖌️",
+      "imageable": false,
+      "tags": [
+        "housing",
+        "law",
+        "repair"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "streichen",
+        "renovierung"
+      ]
+    },
+    {
+      "id": "einzug",
+      "word": "der Einzug",
+      "lemma": "Einzug",
+      "translation": "moving in",
+      "translations": [
+        "moving in",
+        "move-in"
+      ],
+      "level": "A2",
+      "category": "Apartment Hunting & Rental",
+      "partOfSpeech": "noun",
+      "frequency": 1000,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Einzüge",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Einzug ist am ersten März.",
+          "en": "The move-in is on the first of March."
+        },
+        {
+          "de": "Nach dem Einzug habe ich mich sofort angemeldet.",
+          "en": "After moving in I registered immediately."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Vor dem ___ muss die Kaution bezahlt sein.",
+          "answer": "Einzug",
+          "en": "The deposit has to be paid before moving in."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Do the Anmeldung at the Bürgeramt within 14 days of your Einzug, and photograph all meters on the first day.",
+      "emoji": "🚪",
+      "imageable": false,
+      "tags": [
+        "housing",
+        "moving"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "der Auszug"
+      ],
+      "related": [
+        "auszug",
+        "wohnungsgeberbestaetigung"
+      ]
+    },
+    {
+      "id": "auszug",
+      "word": "der Auszug",
+      "lemma": "Auszug",
+      "translation": "moving out",
+      "translations": [
+        "moving out",
+        "move-out"
+      ],
+      "level": "A2",
+      "category": "Apartment Hunting & Rental",
+      "partOfSpeech": "noun",
+      "frequency": 1020,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Auszüge",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Beim Auszug muss die Wohnung besenrein sein.",
+          "en": "On moving out the apartment has to be swept clean."
+        },
+        {
+          "de": "Nach dem Auszug bekomme ich das Geld zurück.",
+          "en": "After moving out I get the money back."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Vor dem ___ streiche ich noch die Wände.",
+          "answer": "Auszug",
+          "en": "Before moving out I will still paint the walls."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "'Besenrein' means empty and swept, nothing more. Hand over every key, do the handover with a witness, and give the landlord your new address in writing so the deposit can be transferred.",
+      "emoji": "📦",
+      "imageable": false,
+      "tags": [
+        "housing",
+        "moving"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "der Einzug"
+      ],
+      "related": [
+        "einzug",
+        "uebergabeprotokoll"
+      ]
+    },
+    {
+      "id": "energieausweis",
+      "word": "der Energieausweis",
+      "lemma": "Energieausweis",
+      "translation": "energy certificate",
+      "translations": [
+        "energy certificate",
+        "energy performance certificate"
+      ],
+      "level": "A2",
+      "category": "Apartment Hunting & Rental",
+      "partOfSpeech": "noun",
+      "frequency": 1750,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Energieausweise",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Makler zeigt uns den Energieausweis.",
+          "en": "The agent shows us the energy certificate."
+        },
+        {
+          "de": "Im Energieausweis steht der Energieverbrauch des Hauses.",
+          "en": "The building's energy consumption is in the energy certificate."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der ___ sagt viel über die späteren Heizkosten.",
+          "answer": "Energieausweis",
+          "en": "The energy certificate says a lot about the later heating costs."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "By law it must be shown at the viewing without you asking. A poor class (F, G, H) is a reliable warning of high heating bills — ask for the kWh figure per m² per year.",
+      "emoji": "📄",
+      "imageable": false,
+      "tags": [
+        "housing",
+        "documents"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "heizkosten",
+        "besichtigung"
+      ]
+    },
+    {
+      "id": "abloese",
+      "word": "die Ablöse",
+      "lemma": "Ablöse",
+      "translation": "buy-out payment",
+      "translations": [
+        "buy-out payment",
+        "transfer payment"
+      ],
+      "level": "A2",
+      "category": "Apartment Hunting & Rental",
+      "partOfSpeech": "noun",
+      "frequency": 1900,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Ablösen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Vormieter will 2000 Euro Ablöse für die Küche.",
+          "en": "The previous tenant wants 2000 euros for the kitchen."
+        },
+        {
+          "de": "Die Ablöse ist immer Verhandlungssache.",
+          "en": "The buy-out payment is always a matter of negotiation."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich habe die ___ auf 1200 Euro heruntergehandelt.",
+          "answer": "Ablöse",
+          "en": "I negotiated the buy-out payment down to 1200 euros."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Money paid to the outgoing tenant for the kitchen, lamps or flooring. It is negotiable, and anything more than about 50% above the item's real value can legally be reclaimed.",
+      "emoji": "🤝",
+      "imageable": false,
+      "tags": [
+        "housing",
+        "money"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "einbaukueche",
+        "nachmieter"
+      ]
+    },
+    {
+      "id": "rundfunkbeitrag",
+      "word": "der Rundfunkbeitrag",
+      "lemma": "Rundfunkbeitrag",
+      "translation": "broadcasting fee",
+      "translations": [
+        "broadcasting fee",
+        "TV licence fee"
+      ],
+      "level": "A2",
+      "category": "Apartment Hunting & Rental",
+      "partOfSpeech": "noun",
+      "frequency": 1250,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Rundfunkbeiträge",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Rundfunkbeitrag kostet rund 18 Euro im Monat.",
+          "en": "The broadcasting fee costs around 18 euros a month."
+        },
+        {
+          "de": "Jeder Haushalt zahlt den Rundfunkbeitrag.",
+          "en": "Every household pays the broadcasting fee."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Nach der Anmeldung kam sofort Post wegen des ___.",
+          "answer": "Rundfunkbeitrags",
+          "en": "Right after registering, mail about the broadcasting fee arrived."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Mandatory per household, not per person — one payment covers a whole flat or WG, so agree inside a WG who pays and register only once. A letter arrives automatically weeks after your Anmeldung; ignoring it leads to enforcement.",
+      "emoji": "📺",
+      "imageable": false,
+      "tags": [
+        "housing",
+        "admin",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "einzug"
+      ]
+    },
+    {
+      "id": "hausratversicherung",
+      "word": "die Hausratversicherung",
+      "lemma": "Hausratversicherung",
+      "translation": "contents insurance",
+      "translations": [
+        "contents insurance",
+        "home contents insurance"
+      ],
+      "level": "A2",
+      "category": "Apartment Hunting & Rental",
+      "partOfSpeech": "noun",
+      "frequency": 1400,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Hausratversicherungen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich habe eine Hausratversicherung abgeschlossen.",
+          "en": "I took out contents insurance."
+        },
+        {
+          "de": "Die Hausratversicherung zahlt bei Einbruch und Wasserschaden.",
+          "en": "The contents insurance pays in case of burglary and water damage."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ohne ___ zahlst du den Schaden selbst.",
+          "answer": "Hausratversicherung",
+          "en": "Without contents insurance you pay for the damage yourself."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Covers your furniture and belongings against fire, burglary, storm and water damage. Not compulsory, but cheap (roughly 50-150 euros a year) and considered standard.",
+      "emoji": "🛡️",
+      "imageable": false,
+      "tags": [
+        "housing",
+        "insurance"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "haftpflichtversicherung"
+      ]
+    },
+    {
+      "id": "haftpflichtversicherung",
+      "word": "die Haftpflichtversicherung",
+      "lemma": "Haftpflichtversicherung",
+      "translation": "personal liability insurance",
+      "translations": [
+        "personal liability insurance",
+        "third-party liability insurance"
+      ],
+      "level": "A2",
+      "category": "Apartment Hunting & Rental",
+      "partOfSpeech": "noun",
+      "frequency": 1200,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Haftpflichtversicherungen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Fast jeder in Deutschland hat eine Haftpflichtversicherung.",
+          "en": "Almost everyone in Germany has personal liability insurance."
+        },
+        {
+          "de": "Die Haftpflichtversicherung zahlt, wenn ich etwas kaputt mache.",
+          "en": "The liability insurance pays if I break something."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Mein Vermieter fragt, ob ich eine ___ habe.",
+          "answer": "Haftpflichtversicherung",
+          "en": "My landlord is asking whether I have personal liability insurance."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "The one insurance every German calls essential: it covers damage you cause to the flat or to other people — including the lost key to a building's Schließanlage, which can otherwise cost thousands.",
+      "emoji": "🛡️",
+      "imageable": false,
+      "tags": [
+        "housing",
+        "insurance",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "hausratversicherung",
+        "wohnungsuebergabe"
+      ]
+    },
+    {
+      "id": "dauerauftrag",
+      "word": "der Dauerauftrag",
+      "lemma": "Dauerauftrag",
+      "translation": "standing order",
+      "translations": [
+        "standing order"
+      ],
+      "level": "A2",
+      "category": "Apartment Hunting & Rental",
+      "partOfSpeech": "noun",
+      "frequency": 1050,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Daueraufträge",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich habe einen Dauerauftrag für die Miete eingerichtet.",
+          "en": "I set up a standing order for the rent."
+        },
+        {
+          "de": "Der Dauerauftrag läuft jeden Monat automatisch.",
+          "en": "The standing order runs automatically every month."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Mit einem ___ vergesse ich die Zahlung nie.",
+          "answer": "Dauerauftrag",
+          "en": "With a standing order I never forget the payment."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Set it up in your banking app so the rent arrives by the third working day. Germans use a Dauerauftrag for rent and a Lastschrift (direct debit) for electricity and internet.",
+      "emoji": "🏦",
+      "imageable": false,
+      "tags": [
+        "housing",
+        "money",
+        "banking"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "kaltmiete"
+      ]
+    },
+    {
+      "id": "halteverbotszone",
+      "word": "die Halteverbotszone",
+      "lemma": "Halteverbotszone",
+      "translation": "no-stopping zone",
+      "translations": [
+        "no-stopping zone",
+        "reserved parking area"
+      ],
+      "level": "A2",
+      "category": "Apartment Hunting & Rental",
+      "partOfSpeech": "noun",
+      "frequency": 2300,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Halteverbotszonen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Wir haben eine Halteverbotszone für den Umzug beantragt.",
+          "en": "We applied for a no-stopping zone for the move."
+        },
+        {
+          "de": "Die Halteverbotszone gilt von acht bis achtzehn Uhr.",
+          "en": "The no-stopping zone applies from eight to six."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ohne ___ findet der Umzugswagen keinen Platz.",
+          "answer": "Halteverbotszone",
+          "en": "Without a no-stopping zone the moving van finds no space."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Apply at the Straßenverkehrsamt or through your moving company two to three weeks ahead. The signs must stand 72 hours before the move, otherwise parked cars cannot be towed.",
+      "emoji": "🚧",
+      "imageable": false,
+      "tags": [
+        "housing",
+        "moving"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "umzug",
+        "umzugsunternehmen"
+      ]
+    },
+    {
+      "id": "umzugsunternehmen",
+      "word": "das Umzugsunternehmen",
+      "lemma": "Umzugsunternehmen",
+      "translation": "moving company",
+      "translations": [
+        "moving company",
+        "removal firm"
+      ],
+      "level": "A2",
+      "category": "Apartment Hunting & Rental",
+      "partOfSpeech": "noun",
+      "frequency": 1650,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Umzugsunternehmen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Wir haben ein Umzugsunternehmen gebucht.",
+          "en": "We booked a moving company."
+        },
+        {
+          "de": "Das Umzugsunternehmen kostet 900 Euro.",
+          "en": "The moving company costs 900 euros."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ein ___ spart Zeit, ist aber teuer.",
+          "answer": "Umzugsunternehmen",
+          "en": "A moving company saves time, but it is expensive."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Get several written quotes (Kostenvoranschlag) and check the firm is insured. A job-related move is tax-deductible, so keep every invoice.",
+      "emoji": "🚚",
+      "imageable": false,
+      "tags": [
+        "housing",
+        "moving"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "umzug",
+        "halteverbotszone"
+      ]
+    },
+    {
+      "id": "grundriss",
+      "word": "der Grundriss",
+      "lemma": "Grundriss",
+      "translation": "floor plan",
+      "translations": [
+        "floor plan",
+        "layout"
+      ],
+      "level": "A2",
+      "category": "Apartment Hunting & Rental",
+      "partOfSpeech": "noun",
+      "frequency": 1500,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Grundrisse",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Im Grundriss sieht man alle Zimmer.",
+          "en": "In the floor plan you can see all the rooms."
+        },
+        {
+          "de": "Der Grundriss ist sehr praktisch.",
+          "en": "The floor plan is very practical."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Schick mir bitte den ___ der Wohnung.",
+          "answer": "Grundriss",
+          "en": "Please send me the floor plan of the apartment."
+        }
+      ],
+      "notes": "Germans say a flat is 'gut geschnitten' when the layout works well.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "📐",
+      "imageable": true,
+      "tags": [
+        "housing",
+        "description"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "wohnflaeche",
+        "quadratmeter"
+      ]
+    },
+    {
+      "id": "wohnungsbaugesellschaft",
+      "word": "die Wohnungsbaugesellschaft",
+      "lemma": "Wohnungsbaugesellschaft",
+      "translation": "municipal housing company",
+      "translations": [
+        "municipal housing company",
+        "housing association"
+      ],
+      "level": "A2",
+      "category": "Apartment Hunting & Rental",
+      "partOfSpeech": "noun",
+      "frequency": 2000,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Wohnungsbaugesellschaften",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Wohnungsbaugesellschaft vermietet tausende Wohnungen.",
+          "en": "The housing company rents out thousands of apartments."
+        },
+        {
+          "de": "Ich habe mich bei einer Wohnungsbaugesellschaft beworben.",
+          "en": "I applied at a municipal housing company."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Bei einer ___ ist die Miete oft günstiger.",
+          "answer": "Wohnungsbaugesellschaft",
+          "en": "With a municipal housing company the rent is often cheaper."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "City-owned companies (Berlin: Degewo, Howoge, Gewobag) offer cheaper, secure flats with no agent fee. Register on their waiting lists as early as possible — slow, but fair.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "housing",
+        "search"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "sozialwohnung",
+        "genossenschaft"
+      ]
+    },
+    {
+      "id": "genossenschaft",
+      "word": "die Genossenschaft",
+      "lemma": "Genossenschaft",
+      "translation": "housing cooperative",
+      "translations": [
+        "housing cooperative",
+        "co-op"
+      ],
+      "level": "A2",
+      "category": "Apartment Hunting & Rental",
+      "partOfSpeech": "noun",
+      "frequency": 1950,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Genossenschaften",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Wir haben eine Wohnung bei einer Genossenschaft.",
+          "en": "We have an apartment with a housing cooperative."
+        },
+        {
+          "de": "Bei der Genossenschaft muss man Anteile kaufen.",
+          "en": "With the cooperative you have to buy shares."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Eine ___ ist eine gute Alternative zum freien Markt.",
+          "answer": "Genossenschaft",
+          "en": "A cooperative is a good alternative to the open market."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "You buy shares (a few thousand euros, refunded when you leave) and get a cheap flat with a practically lifelong right to stay. Waiting lists run for years, so apply long before you need it.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "housing",
+        "search"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "wohnungsbaugesellschaft"
+      ]
+    },
+    {
+      "id": "staffelmiete",
+      "word": "die Staffelmiete",
+      "lemma": "Staffelmiete",
+      "translation": "stepped rent",
+      "translations": [
+        "stepped rent",
+        "graduated rent"
+      ],
+      "level": "A2",
+      "category": "Apartment Hunting & Rental",
+      "partOfSpeech": "noun",
+      "frequency": 2150,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Staffelmieten",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Im Vertrag steht eine Staffelmiete.",
+          "en": "There is a stepped rent in the contract."
+        },
+        {
+          "de": "Bei einer Staffelmiete steigt die Miete jedes Jahr.",
+          "en": "With a stepped rent the rent rises every year."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wegen der ___ zahle ich nächstes Jahr 40 Euro mehr.",
+          "answer": "Staffelmiete",
+          "en": "Because of the stepped rent I will pay 40 euros more next year."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Future increases are fixed in the contract, which is legal but must be stated in euros, not percentages. The Mietpreisbremse still applies to every step, and each level must last at least a year.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "housing",
+        "money"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "mieterhoehung",
+        "mietpreisbremse"
+      ]
+    },
+    {
+      "id": "unterlagen",
+      "word": "die Unterlagen",
+      "lemma": "Unterlagen",
+      "translation": "documents",
+      "translations": [
+        "documents",
+        "paperwork"
+      ],
+      "level": "A1",
+      "category": "Apartment Hunting & Rental",
+      "partOfSpeech": "noun",
+      "frequency": 700,
+      "gender": null,
+      "article": "die",
+      "plural": "die Unterlagen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Bitte bringen Sie alle Unterlagen zur Besichtigung mit.",
+          "en": "Please bring all the documents to the viewing."
+        },
+        {
+          "de": "Meine Unterlagen sind schon als PDF fertig.",
+          "en": "My documents are already ready as a PDF."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ohne vollständige ___ hast du keine Chance.",
+          "answer": "Unterlagen",
+          "en": "Without complete documents you don't stand a chance."
+        }
+      ],
+      "notes": "Plural only in this sense; one single paper is 'das Dokument'.",
+      "mnemonic": null,
+      "germany_context": "The standard folder: Schufa-Auskunft, three payslips, ID or passport, Selbstauskunft and often a Mietschuldenfreiheitsbescheinigung from your previous landlord. Keep it ready as one PDF on your phone.",
+      "emoji": "📁",
+      "imageable": false,
+      "tags": [
+        "housing",
+        "documents",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "schufa",
+        "selbstauskunft",
+        "einkommensnachweis"
+      ]
+    },
+    {
+      "id": "mietbeginn",
+      "word": "der Mietbeginn",
+      "lemma": "Mietbeginn",
+      "translation": "start of tenancy",
+      "translations": [
+        "start of tenancy",
+        "lease start"
+      ],
+      "level": "A2",
+      "category": "Apartment Hunting & Rental",
+      "partOfSpeech": "noun",
+      "frequency": 1550,
+      "gender": "m",
+      "article": "der",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Mietbeginn ist der erste Oktober.",
+          "en": "The start of the tenancy is the first of October."
+        },
+        {
+          "de": "Ab Mietbeginn zahle ich die volle Miete.",
+          "en": "From the start of the tenancy I pay the full rent."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wann ist der ___ für diese Wohnung?",
+          "answer": "Mietbeginn",
+          "en": "When does the tenancy start for this apartment?"
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Leases almost always begin on the 1st or the 15th. If you move in mid-month you only pay for the days you actually use (anteilige Miete).",
+      "emoji": "📅",
+      "imageable": false,
+      "tags": [
+        "housing",
+        "contract"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "einzug"
+      ]
+    },
+    {
+      "id": "kellerabteil",
+      "word": "das Kellerabteil",
+      "lemma": "Kellerabteil",
+      "translation": "cellar compartment",
+      "translations": [
+        "cellar compartment",
+        "storage unit"
+      ],
+      "level": "A2",
+      "category": "Apartment Hunting & Rental",
+      "partOfSpeech": "noun",
+      "frequency": 1900,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Kellerabteile",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Zur Wohnung gehört ein Kellerabteil.",
+          "en": "A cellar compartment belongs to the apartment."
+        },
+        {
+          "de": "Mein Kellerabteil ist immer abgeschlossen.",
+          "en": "My cellar compartment is always locked."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Die Winterreifen liegen im ___.",
+          "answer": "Kellerabteil",
+          "en": "The winter tyres are in the cellar compartment."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Bring your own padlock. Nothing may be stored in the shared corridor outside your compartment — fire regulations, and the Hausverwaltung will have it removed.",
+      "emoji": "🗃️",
+      "imageable": true,
+      "tags": [
+        "housing",
+        "storage"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "fahrradkeller"
+      ]
+    },
+    {
+      "id": "fahrradkeller",
+      "word": "der Fahrradkeller",
+      "lemma": "Fahrradkeller",
+      "translation": "bicycle cellar",
+      "translations": [
+        "bicycle cellar",
+        "bike storage room"
+      ],
+      "level": "A2",
+      "category": "Apartment Hunting & Rental",
+      "partOfSpeech": "noun",
+      "frequency": 1850,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Fahrradkeller",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Fahrräder stehen im Fahrradkeller.",
+          "en": "The bikes are in the bicycle cellar."
+        },
+        {
+          "de": "Der Fahrradkeller ist immer voll.",
+          "en": "The bicycle cellar is always full."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Hat das Haus einen ___?",
+          "answer": "Fahrradkeller",
+          "en": "Does the building have a bicycle cellar?"
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Bikes may not stand in the stairwell, so ask about a Fahrradkeller or Fahrradraum at the viewing — and use a good lock even down there, theft from cellars is common.",
+      "emoji": "🚲",
+      "imageable": true,
+      "tags": [
+        "housing",
+        "storage"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "kellerabteil"
+      ]
+    },
+    {
+      "id": "eigentumswohnung",
+      "word": "die Eigentumswohnung",
+      "lemma": "Eigentumswohnung",
+      "translation": "owner-occupied flat",
+      "translations": [
+        "owner-occupied flat",
+        "condominium"
+      ],
+      "level": "A2",
+      "category": "Apartment Hunting & Rental",
+      "partOfSpeech": "noun",
+      "frequency": 1450,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Eigentumswohnungen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Sie hat eine Eigentumswohnung gekauft.",
+          "en": "She bought an owner-occupied flat."
+        },
+        {
+          "de": "Die Eigentumswohnung wird jetzt vermietet.",
+          "en": "The condominium is now being rented out."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Eine ___ in München kostet sehr viel Geld.",
+          "answer": "Eigentumswohnung",
+          "en": "A condominium in Munich costs a lot of money."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Germany has one of Europe's lowest home-ownership rates. Buying adds 10-12% in Kaufnebenkosten (Grunderwerbsteuer, Notar, Makler), so long-term renting is completely normal here.",
+      "emoji": "🏡",
+      "imageable": true,
+      "tags": [
+        "housing",
+        "buying"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "eigentuemer",
+        "vermieten"
+      ]
+    }
+  ]
+}

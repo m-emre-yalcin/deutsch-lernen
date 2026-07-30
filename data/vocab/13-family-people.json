@@ -1,0 +1,4435 @@
+{
+  "category": "Family & People",
+  "words": [
+    {
+      "id": "familie",
+      "word": "die Familie",
+      "lemma": "Familie",
+      "translation": "family",
+      "translations": [
+        "family"
+      ],
+      "level": "A0",
+      "category": "Family & People",
+      "partOfSpeech": "noun",
+      "frequency": 90,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Familien",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Meine Familie wohnt noch in der Türkei.",
+          "en": "My family still lives in Turkey."
+        },
+        {
+          "de": "Wir sind eine kleine Familie.",
+          "en": "We are a small family."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Am Sonntag besuche ich meine ___.",
+          "answer": "Familie",
+          "en": "On Sunday I visit my family."
+        }
+      ],
+      "notes": null,
+      "mnemonic": "Familie ~ 'family'; nouns ending in -ie are feminine.",
+      "germany_context": "'Familiennachzug' is the official term for the family-reunification visa — the process that lets a spouse or children join you in Germany. Ask the Ausländerbehörde about it early, it takes months.",
+      "emoji": "👨‍👩‍👧‍👦",
+      "imageable": true,
+      "tags": [
+        "family",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "eltern",
+        "kind",
+        "geschwister"
+      ]
+    },
+    {
+      "id": "eltern",
+      "word": "die Eltern",
+      "lemma": "Eltern",
+      "translation": "parents",
+      "translations": [
+        "parents"
+      ],
+      "level": "A1",
+      "category": "Family & People",
+      "partOfSpeech": "noun",
+      "frequency": 115,
+      "gender": null,
+      "article": "die",
+      "plural": "die Eltern",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Meine Eltern kommen im Sommer nach Deutschland.",
+          "en": "My parents are coming to Germany in the summer."
+        },
+        {
+          "de": "Wo wohnen deine Eltern?",
+          "en": "Where do your parents live?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich telefoniere jeden Sonntag mit meinen ___.",
+          "answer": "Eltern",
+          "en": "I talk to my parents on the phone every Sunday."
+        }
+      ],
+      "notes": "Plural-only word — there is no singular form. Always used with plural verbs and endings: 'meine Eltern sind …'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "👪",
+      "imageable": true,
+      "tags": [
+        "family",
+        "essential",
+        "plural-only"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "mutter",
+        "vater",
+        "grosseltern"
+      ]
+    },
+    {
+      "id": "mutter",
+      "word": "die Mutter",
+      "lemma": "Mutter",
+      "translation": "mother",
+      "translations": [
+        "mother",
+        "mum"
+      ],
+      "level": "A1",
+      "category": "Family & People",
+      "partOfSpeech": "noun",
+      "frequency": 105,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Mütter",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Meine Mutter kocht sehr gut.",
+          "en": "My mother cooks very well."
+        },
+        {
+          "de": "Das ist ein Foto von meiner Mutter.",
+          "en": "That is a photo of my mother."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich rufe jeden Abend meine ___ an.",
+          "answer": "Mutter",
+          "en": "I call my mother every evening."
+        }
+      ],
+      "notes": null,
+      "mnemonic": "Mutter ~ 'mother'. Umlaut in the plural: Mütter.",
+      "germany_context": null,
+      "emoji": "👩",
+      "imageable": true,
+      "tags": [
+        "family",
+        "essential"
+      ],
+      "synonyms": [
+        "Mama"
+      ],
+      "antonyms": [
+        "Vater"
+      ],
+      "related": [
+        "vater",
+        "eltern",
+        "oma"
+      ]
+    },
+    {
+      "id": "vater",
+      "word": "der Vater",
+      "lemma": "Vater",
+      "translation": "father",
+      "translations": [
+        "father",
+        "dad"
+      ],
+      "level": "A1",
+      "category": "Family & People",
+      "partOfSpeech": "noun",
+      "frequency": 108,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Väter",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Mein Vater arbeitet bei einer Bank.",
+          "en": "My father works at a bank."
+        },
+        {
+          "de": "Der Vater von Anna heißt Thomas.",
+          "en": "Anna's father is called Thomas."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Mein ___ hat morgen Geburtstag.",
+          "answer": "Vater",
+          "en": "My father has his birthday tomorrow."
+        }
+      ],
+      "notes": null,
+      "mnemonic": "Vater ~ 'father' (V is pronounced like F).",
+      "germany_context": null,
+      "emoji": "👨",
+      "imageable": true,
+      "tags": [
+        "family",
+        "essential"
+      ],
+      "synonyms": [
+        "Papa"
+      ],
+      "antonyms": [
+        "Mutter"
+      ],
+      "related": [
+        "mutter",
+        "eltern",
+        "opa"
+      ]
+    },
+    {
+      "id": "sohn",
+      "word": "der Sohn",
+      "lemma": "Sohn",
+      "translation": "son",
+      "translations": [
+        "son"
+      ],
+      "level": "A1",
+      "category": "Family & People",
+      "partOfSpeech": "noun",
+      "frequency": 180,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Söhne",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ihr Sohn geht schon in die Schule.",
+          "en": "Her son already goes to school."
+        },
+        {
+          "de": "Wir haben einen Sohn und eine Tochter.",
+          "en": "We have a son and a daughter."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Mein ___ ist sechs Jahre alt.",
+          "answer": "Sohn",
+          "en": "My son is six years old."
+        }
+      ],
+      "notes": null,
+      "mnemonic": "Sohn ~ 'son'.",
+      "germany_context": null,
+      "emoji": "👦",
+      "imageable": true,
+      "tags": [
+        "family"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "Tochter"
+      ],
+      "related": [
+        "tochter",
+        "kind",
+        "vater"
+      ]
+    },
+    {
+      "id": "tochter",
+      "word": "die Tochter",
+      "lemma": "Tochter",
+      "translation": "daughter",
+      "translations": [
+        "daughter"
+      ],
+      "level": "A1",
+      "category": "Family & People",
+      "partOfSpeech": "noun",
+      "frequency": 185,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Töchter",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Meine Tochter lernt Deutsch im Kindergarten.",
+          "en": "My daughter is learning German at kindergarten."
+        },
+        {
+          "de": "Die Tochter von Herrn Weber studiert in Berlin.",
+          "en": "Mr Weber's daughter studies in Berlin."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wir holen unsere ___ um vier Uhr ab.",
+          "answer": "Tochter",
+          "en": "We pick up our daughter at four o'clock."
+        }
+      ],
+      "notes": null,
+      "mnemonic": "Tochter ~ 'daughter'.",
+      "germany_context": null,
+      "emoji": "👧",
+      "imageable": true,
+      "tags": [
+        "family"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "Sohn"
+      ],
+      "related": [
+        "sohn",
+        "kind",
+        "mutter"
+      ]
+    },
+    {
+      "id": "kind",
+      "word": "das Kind",
+      "lemma": "Kind",
+      "translation": "child",
+      "translations": [
+        "child",
+        "kid"
+      ],
+      "level": "A0",
+      "category": "Family & People",
+      "partOfSpeech": "noun",
+      "frequency": 70,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Kinder",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Das Kind spielt im Park.",
+          "en": "The child is playing in the park."
+        },
+        {
+          "de": "Wie viele Kinder haben Sie?",
+          "en": "How many children do you have?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wir haben zwei ___.",
+          "answer": "Kinder",
+          "en": "We have two children."
+        }
+      ],
+      "notes": "Neuter: das Kind, but 'die Kinder' in the plural like every plural.",
+      "mnemonic": null,
+      "germany_context": "Kindergeld (child benefit, a few hundred euros per child per month) is paid to almost everyone living legally in Germany with children — apply at the Familienkasse. Kita places are scarce, so register your child as early as possible.",
+      "emoji": "🧒",
+      "imageable": true,
+      "tags": [
+        "family",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "baby",
+        "eltern",
+        "familie"
+      ]
+    },
+    {
+      "id": "baby",
+      "word": "das Baby",
+      "lemma": "Baby",
+      "translation": "baby",
+      "translations": [
+        "baby"
+      ],
+      "level": "A1",
+      "category": "Family & People",
+      "partOfSpeech": "noun",
+      "frequency": 330,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Babys",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Das Baby schläft gerade.",
+          "en": "The baby is sleeping right now."
+        },
+        {
+          "de": "Sie bekommt im Mai ein Baby.",
+          "en": "She is having a baby in May."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Bitte leise, das ___ schläft.",
+          "answer": "Baby",
+          "en": "Please be quiet, the baby is sleeping."
+        }
+      ],
+      "notes": "German plural is 'Babys', not 'Babies'. Pronounced 'Bay-bi'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "👶",
+      "imageable": true,
+      "tags": [
+        "family"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "kind",
+        "mutter"
+      ]
+    },
+    {
+      "id": "bruder",
+      "word": "der Bruder",
+      "lemma": "Bruder",
+      "translation": "brother",
+      "translations": [
+        "brother"
+      ],
+      "level": "A1",
+      "category": "Family & People",
+      "partOfSpeech": "noun",
+      "frequency": 195,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Brüder",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Mein Bruder wohnt in Istanbul.",
+          "en": "My brother lives in Istanbul."
+        },
+        {
+          "de": "Hast du einen Bruder?",
+          "en": "Do you have a brother?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich habe zwei ___.",
+          "answer": "Brüder",
+          "en": "I have two brothers."
+        }
+      ],
+      "notes": null,
+      "mnemonic": "Bruder ~ 'brother'.",
+      "germany_context": null,
+      "emoji": "👦",
+      "imageable": true,
+      "tags": [
+        "family",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "Schwester"
+      ],
+      "related": [
+        "schwester",
+        "geschwister"
+      ]
+    },
+    {
+      "id": "schwester",
+      "word": "die Schwester",
+      "lemma": "Schwester",
+      "translation": "sister",
+      "translations": [
+        "sister"
+      ],
+      "level": "A1",
+      "category": "Family & People",
+      "partOfSpeech": "noun",
+      "frequency": 198,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Schwestern",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Meine Schwester ist Ärztin.",
+          "en": "My sister is a doctor."
+        },
+        {
+          "de": "Die Schwester von Max heißt Lena.",
+          "en": "Max's sister is called Lena."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Meine ___ kommt morgen zu Besuch.",
+          "answer": "Schwester",
+          "en": "My sister is coming to visit tomorrow."
+        }
+      ],
+      "notes": null,
+      "mnemonic": "Schwester ~ 'sister'.",
+      "germany_context": null,
+      "emoji": "👩",
+      "imageable": true,
+      "tags": [
+        "family",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "Bruder"
+      ],
+      "related": [
+        "bruder",
+        "geschwister"
+      ]
+    },
+    {
+      "id": "geschwister",
+      "word": "die Geschwister",
+      "lemma": "Geschwister",
+      "translation": "siblings",
+      "translations": [
+        "siblings",
+        "brothers and sisters"
+      ],
+      "level": "A1",
+      "category": "Family & People",
+      "partOfSpeech": "noun",
+      "frequency": 320,
+      "gender": null,
+      "article": "die",
+      "plural": "die Geschwister",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich habe drei Geschwister.",
+          "en": "I have three siblings."
+        },
+        {
+          "de": "Meine Geschwister leben alle in der Türkei.",
+          "en": "My siblings all live in Turkey."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Hast du ___?",
+          "answer": "Geschwister",
+          "en": "Do you have any siblings?"
+        }
+      ],
+      "notes": "Plural-only. One word for brothers and sisters together — English has no single equivalent.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "👫",
+      "imageable": true,
+      "tags": [
+        "family",
+        "plural-only"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "bruder",
+        "schwester"
+      ]
+    },
+    {
+      "id": "grossmutter",
+      "word": "die Großmutter",
+      "lemma": "Großmutter",
+      "translation": "grandmother",
+      "translations": [
+        "grandmother"
+      ],
+      "level": "A1",
+      "category": "Family & People",
+      "partOfSpeech": "noun",
+      "frequency": 400,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Großmütter",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Meine Großmutter ist 82 Jahre alt.",
+          "en": "My grandmother is 82 years old."
+        },
+        {
+          "de": "Die Großmutter meines Mannes lebt in Hamburg.",
+          "en": "My husband's grandmother lives in Hamburg."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wir besuchen am Wochenende meine ___.",
+          "answer": "Großmutter",
+          "en": "We are visiting my grandmother at the weekend."
+        }
+      ],
+      "notes": "Correct but formal — in everyday speech almost everyone says 'Oma'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "👵",
+      "imageable": true,
+      "tags": [
+        "family"
+      ],
+      "synonyms": [
+        "Oma"
+      ],
+      "antonyms": [],
+      "related": [
+        "oma",
+        "grossvater",
+        "grosseltern"
+      ]
+    },
+    {
+      "id": "oma",
+      "word": "die Oma",
+      "lemma": "Oma",
+      "translation": "grandma",
+      "translations": [
+        "grandma",
+        "granny"
+      ],
+      "level": "A1",
+      "category": "Family & People",
+      "partOfSpeech": "noun",
+      "frequency": 340,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Omas",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Meine Oma backt den besten Kuchen.",
+          "en": "My grandma bakes the best cake."
+        },
+        {
+          "de": "Oma, wo bist du?",
+          "en": "Grandma, where are you?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich fahre morgen zu meiner ___.",
+          "answer": "Oma",
+          "en": "I am going to my grandma's tomorrow."
+        }
+      ],
+      "notes": "The normal everyday word, also used as a form of address without an article.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "👵",
+      "imageable": true,
+      "tags": [
+        "family",
+        "informal"
+      ],
+      "synonyms": [
+        "Großmutter"
+      ],
+      "antonyms": [],
+      "related": [
+        "grossmutter",
+        "opa"
+      ]
+    },
+    {
+      "id": "grossvater",
+      "word": "der Großvater",
+      "lemma": "Großvater",
+      "translation": "grandfather",
+      "translations": [
+        "grandfather"
+      ],
+      "level": "A1",
+      "category": "Family & People",
+      "partOfSpeech": "noun",
+      "frequency": 405,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Großväter",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Mein Großvater war Lehrer.",
+          "en": "My grandfather was a teacher."
+        },
+        {
+          "de": "Der Großvater sitzt im Garten.",
+          "en": "The grandfather is sitting in the garden."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Mein ___ ist letztes Jahr gestorben.",
+          "answer": "Großvater",
+          "en": "My grandfather died last year."
+        }
+      ],
+      "notes": "Formal word; in conversation people say 'Opa'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "👴",
+      "imageable": true,
+      "tags": [
+        "family"
+      ],
+      "synonyms": [
+        "Opa"
+      ],
+      "antonyms": [],
+      "related": [
+        "opa",
+        "grossmutter",
+        "grosseltern"
+      ]
+    },
+    {
+      "id": "opa",
+      "word": "der Opa",
+      "lemma": "Opa",
+      "translation": "grandpa",
+      "translations": [
+        "grandpa",
+        "granddad"
+      ],
+      "level": "A1",
+      "category": "Family & People",
+      "partOfSpeech": "noun",
+      "frequency": 345,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Opas",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Opa spielt gern mit den Kindern.",
+          "en": "Grandpa likes playing with the children."
+        },
+        {
+          "de": "Mein Opa wohnt bei uns.",
+          "en": "My grandpa lives with us."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wie alt ist dein ___?",
+          "answer": "Opa",
+          "en": "How old is your grandpa?"
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "👴",
+      "imageable": true,
+      "tags": [
+        "family",
+        "informal"
+      ],
+      "synonyms": [
+        "Großvater"
+      ],
+      "antonyms": [],
+      "related": [
+        "grossvater",
+        "oma"
+      ]
+    },
+    {
+      "id": "grosseltern",
+      "word": "die Großeltern",
+      "lemma": "Großeltern",
+      "translation": "grandparents",
+      "translations": [
+        "grandparents"
+      ],
+      "level": "A1",
+      "category": "Family & People",
+      "partOfSpeech": "noun",
+      "frequency": 420,
+      "gender": null,
+      "article": "die",
+      "plural": "die Großeltern",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Meine Großeltern wohnen auf dem Land.",
+          "en": "My grandparents live in the countryside."
+        },
+        {
+          "de": "Die Kinder sind bei den Großeltern.",
+          "en": "The children are at their grandparents'."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "In den Ferien fahren wir zu meinen ___.",
+          "answer": "Großeltern",
+          "en": "In the holidays we go to my grandparents'."
+        }
+      ],
+      "notes": "Plural-only, built like 'Eltern'. Groß- marks the generation above: Großmutter, Großvater.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "👵",
+      "imageable": true,
+      "tags": [
+        "family",
+        "plural-only"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "eltern",
+        "grossmutter",
+        "grossvater"
+      ]
+    },
+    {
+      "id": "enkel",
+      "word": "der Enkel",
+      "lemma": "Enkel",
+      "translation": "grandson",
+      "translations": [
+        "grandson",
+        "grandchild"
+      ],
+      "level": "A2",
+      "category": "Family & People",
+      "partOfSpeech": "noun",
+      "frequency": 820,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Enkel",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Er hat vier Enkel.",
+          "en": "He has four grandchildren."
+        },
+        {
+          "de": "Der Enkel besucht seine Oma jeden Monat.",
+          "en": "The grandson visits his grandma every month."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Mein ___ ist gerade zwei geworden.",
+          "answer": "Enkel",
+          "en": "My grandson has just turned two."
+        }
+      ],
+      "notes": "'die Enkel' in the plural also covers grandchildren of both sexes. 'das Enkelkind' is the neutral single word.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "👦",
+      "imageable": true,
+      "tags": [
+        "family"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "enkelin",
+        "oma",
+        "opa"
+      ]
+    },
+    {
+      "id": "enkelin",
+      "word": "die Enkelin",
+      "lemma": "Enkelin",
+      "translation": "granddaughter",
+      "translations": [
+        "granddaughter"
+      ],
+      "level": "A2",
+      "category": "Family & People",
+      "partOfSpeech": "noun",
+      "frequency": 900,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Enkelinnen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Seine Enkelin heißt Marie.",
+          "en": "His granddaughter is called Marie."
+        },
+        {
+          "de": "Die Enkelin wohnt in derselben Stadt.",
+          "en": "The granddaughter lives in the same city."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Meine ___ geht seit September in die Schule.",
+          "answer": "Enkelin",
+          "en": "My granddaughter has been going to school since September."
+        }
+      ],
+      "notes": "-in makes the female form of almost any person noun, and it is always feminine.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "👧",
+      "imageable": true,
+      "tags": [
+        "family"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "enkel"
+      ]
+    },
+    {
+      "id": "onkel",
+      "word": "der Onkel",
+      "lemma": "Onkel",
+      "translation": "uncle",
+      "translations": [
+        "uncle"
+      ],
+      "level": "A1",
+      "category": "Family & People",
+      "partOfSpeech": "noun",
+      "frequency": 430,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Onkel",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Mein Onkel hat ein Restaurant.",
+          "en": "My uncle has a restaurant."
+        },
+        {
+          "de": "Onkel Ahmet kommt aus Ankara.",
+          "en": "Uncle Ahmet is from Ankara."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Das Auto gehört meinem ___.",
+          "answer": "Onkel",
+          "en": "The car belongs to my uncle."
+        }
+      ],
+      "notes": "Plural has no ending change: der Onkel, die Onkel.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🧔",
+      "imageable": true,
+      "tags": [
+        "family"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "Tante"
+      ],
+      "related": [
+        "tante",
+        "cousin"
+      ]
+    },
+    {
+      "id": "tante",
+      "word": "die Tante",
+      "lemma": "Tante",
+      "translation": "aunt",
+      "translations": [
+        "aunt"
+      ],
+      "level": "A1",
+      "category": "Family & People",
+      "partOfSpeech": "noun",
+      "frequency": 435,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Tanten",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Meine Tante wohnt in Köln.",
+          "en": "My aunt lives in Cologne."
+        },
+        {
+          "de": "Die Tante von Lisa ist Lehrerin.",
+          "en": "Lisa's aunt is a teacher."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich schreibe meiner ___ eine Karte.",
+          "answer": "Tante",
+          "en": "I am writing my aunt a card."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "👩",
+      "imageable": true,
+      "tags": [
+        "family"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "Onkel"
+      ],
+      "related": [
+        "onkel",
+        "cousine"
+      ]
+    },
+    {
+      "id": "cousin",
+      "word": "der Cousin",
+      "lemma": "Cousin",
+      "translation": "cousin (male)",
+      "translations": [
+        "cousin (male)",
+        "male cousin"
+      ],
+      "level": "A2",
+      "category": "Family & People",
+      "partOfSpeech": "noun",
+      "frequency": 520,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Cousins",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Mein Cousin studiert in München.",
+          "en": "My cousin studies in Munich."
+        },
+        {
+          "de": "Ich fahre mit meinem Cousin nach Berlin.",
+          "en": "I am going to Berlin with my cousin."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Das ist mein ___ aus Izmir.",
+          "answer": "Cousin",
+          "en": "This is my cousin from Izmir."
+        }
+      ],
+      "notes": "Pronounced the French way, roughly 'ku-ZÄNG'. The old German word 'Vetter' sounds dated today.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🧑",
+      "imageable": true,
+      "tags": [
+        "family"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "cousine",
+        "onkel"
+      ]
+    },
+    {
+      "id": "cousine",
+      "word": "die Cousine",
+      "lemma": "Cousine",
+      "translation": "cousin (female)",
+      "translations": [
+        "cousin (female)",
+        "female cousin"
+      ],
+      "level": "A2",
+      "category": "Family & People",
+      "partOfSpeech": "noun",
+      "frequency": 525,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Cousinen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Meine Cousine heiratet im Juni.",
+          "en": "My cousin is getting married in June."
+        },
+        {
+          "de": "Ich wohne bei meiner Cousine.",
+          "en": "I am staying at my cousin's."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Meine ___ arbeitet in einem Krankenhaus.",
+          "answer": "Cousine",
+          "en": "My cousin works in a hospital."
+        }
+      ],
+      "notes": "Also spelled 'Kusine'; both are correct, 'Cousine' is more common in writing.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "👩",
+      "imageable": true,
+      "tags": [
+        "family"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "cousin",
+        "tante"
+      ]
+    },
+    {
+      "id": "neffe",
+      "word": "der Neffe",
+      "lemma": "Neffe",
+      "translation": "nephew",
+      "translations": [
+        "nephew"
+      ],
+      "level": "A2",
+      "category": "Family & People",
+      "partOfSpeech": "noun",
+      "frequency": 780,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Neffen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "des Neffen"
+      },
+      "example_sentences": [
+        {
+          "de": "Mein Neffe ist zehn Jahre alt.",
+          "en": "My nephew is ten years old."
+        },
+        {
+          "de": "Ich kaufe meinem Neffen ein Geschenk.",
+          "en": "I am buying my nephew a present."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Morgen feiern wir den Geburtstag von meinem ___.",
+          "answer": "Neffen",
+          "en": "Tomorrow we are celebrating my nephew's birthday."
+        }
+      ],
+      "notes": "N-Deklination: adds -n in every case except the nominative singular (dem Neffen, den Neffen, des Neffen).",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "👦",
+      "imageable": true,
+      "tags": [
+        "family",
+        "n-deklination"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "Nichte"
+      ],
+      "related": [
+        "nichte",
+        "bruder"
+      ]
+    },
+    {
+      "id": "nichte",
+      "word": "die Nichte",
+      "lemma": "Nichte",
+      "translation": "niece",
+      "translations": [
+        "niece"
+      ],
+      "level": "A2",
+      "category": "Family & People",
+      "partOfSpeech": "noun",
+      "frequency": 785,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Nichten",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Meine Nichte spielt Klavier.",
+          "en": "My niece plays the piano."
+        },
+        {
+          "de": "Das ist ein Foto von meiner Nichte.",
+          "en": "That is a photo of my niece."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich passe heute auf meine ___ auf.",
+          "answer": "Nichte",
+          "en": "I am looking after my niece today."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "👧",
+      "imageable": true,
+      "tags": [
+        "family"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "Neffe"
+      ],
+      "related": [
+        "neffe",
+        "schwester"
+      ]
+    },
+    {
+      "id": "schwiegermutter",
+      "word": "die Schwiegermutter",
+      "lemma": "Schwiegermutter",
+      "translation": "mother-in-law",
+      "translations": [
+        "mother-in-law"
+      ],
+      "level": "A2",
+      "category": "Family & People",
+      "partOfSpeech": "noun",
+      "frequency": 700,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Schwiegermütter",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Meine Schwiegermutter kocht jeden Sonntag für uns.",
+          "en": "My mother-in-law cooks for us every Sunday."
+        },
+        {
+          "de": "Die Schwiegermutter wohnt zwei Straßen weiter.",
+          "en": "My mother-in-law lives two streets away."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich verstehe mich gut mit meiner ___.",
+          "answer": "Schwiegermutter",
+          "en": "I get on well with my mother-in-law."
+        }
+      ],
+      "notes": "Schwieger- marks every in-law: Schwiegervater, Schwiegersohn, Schwiegertochter, Schwiegereltern.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "👵",
+      "imageable": true,
+      "tags": [
+        "family",
+        "in-laws"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "schwiegervater",
+        "schwiegereltern"
+      ]
+    },
+    {
+      "id": "schwiegervater",
+      "word": "der Schwiegervater",
+      "lemma": "Schwiegervater",
+      "translation": "father-in-law",
+      "translations": [
+        "father-in-law"
+      ],
+      "level": "A2",
+      "category": "Family & People",
+      "partOfSpeech": "noun",
+      "frequency": 710,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Schwiegerväter",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Mein Schwiegervater repariert alles selbst.",
+          "en": "My father-in-law repairs everything himself."
+        },
+        {
+          "de": "Der Schwiegervater von Tom ist Rentner.",
+          "en": "Tom's father-in-law is retired."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wir holen meinen ___ vom Bahnhof ab.",
+          "answer": "Schwiegervater",
+          "en": "We are picking up my father-in-law from the station."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "👴",
+      "imageable": true,
+      "tags": [
+        "family",
+        "in-laws"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "schwiegermutter",
+        "schwiegereltern"
+      ]
+    },
+    {
+      "id": "schwiegereltern",
+      "word": "die Schwiegereltern",
+      "lemma": "Schwiegereltern",
+      "translation": "parents-in-law",
+      "translations": [
+        "parents-in-law",
+        "in-laws"
+      ],
+      "level": "A2",
+      "category": "Family & People",
+      "partOfSpeech": "noun",
+      "frequency": 760,
+      "gender": null,
+      "article": "die",
+      "plural": "die Schwiegereltern",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Meine Schwiegereltern kommen zu Weihnachten.",
+          "en": "My parents-in-law are coming for Christmas."
+        },
+        {
+          "de": "Wir wohnen im Moment bei den Schwiegereltern.",
+          "en": "At the moment we are living at my parents-in-law's."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich schreibe meinen ___ eine kurze Nachricht.",
+          "answer": "Schwiegereltern",
+          "en": "I am writing my parents-in-law a short message."
+        }
+      ],
+      "notes": "Plural-only like 'Eltern'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "👪",
+      "imageable": true,
+      "tags": [
+        "family",
+        "in-laws",
+        "plural-only"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "schwiegermutter",
+        "schwiegervater"
+      ]
+    },
+    {
+      "id": "schwager",
+      "word": "der Schwager",
+      "lemma": "Schwager",
+      "translation": "brother-in-law",
+      "translations": [
+        "brother-in-law"
+      ],
+      "level": "A2",
+      "category": "Family & People",
+      "partOfSpeech": "noun",
+      "frequency": 830,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Schwäger",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Mein Schwager arbeitet bei einer Autofirma.",
+          "en": "My brother-in-law works at a car company."
+        },
+        {
+          "de": "Der Schwager von Anna ist sehr nett.",
+          "en": "Anna's brother-in-law is very nice."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich fahre mit meinem ___ zum Fußball.",
+          "answer": "Schwager",
+          "en": "I am going to the football with my brother-in-law."
+        }
+      ],
+      "notes": "Your sister's husband or your partner's brother. Umlaut plural: die Schwäger.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🧑",
+      "imageable": true,
+      "tags": [
+        "family",
+        "in-laws"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "schwaegerin"
+      ]
+    },
+    {
+      "id": "schwaegerin",
+      "word": "die Schwägerin",
+      "lemma": "Schwägerin",
+      "translation": "sister-in-law",
+      "translations": [
+        "sister-in-law"
+      ],
+      "level": "A2",
+      "category": "Family & People",
+      "partOfSpeech": "noun",
+      "frequency": 950,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Schwägerinnen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Meine Schwägerin hat ein Baby bekommen.",
+          "en": "My sister-in-law has had a baby."
+        },
+        {
+          "de": "Die Schwägerin von Peter wohnt in Wien.",
+          "en": "Peter's sister-in-law lives in Vienna."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich telefoniere oft mit meiner ___.",
+          "answer": "Schwägerin",
+          "en": "I often talk to my sister-in-law on the phone."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "👩",
+      "imageable": true,
+      "tags": [
+        "family",
+        "in-laws"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "schwager"
+      ]
+    },
+    {
+      "id": "stiefvater",
+      "word": "der Stiefvater",
+      "lemma": "Stiefvater",
+      "translation": "stepfather",
+      "translations": [
+        "stepfather"
+      ],
+      "level": "A2",
+      "category": "Family & People",
+      "partOfSpeech": "noun",
+      "frequency": 1100,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Stiefväter",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Mein Stiefvater heißt Klaus.",
+          "en": "My stepfather is called Klaus."
+        },
+        {
+          "de": "Der Stiefvater bringt die Kinder zur Schule.",
+          "en": "The stepfather takes the children to school."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Sie versteht sich gut mit ihrem ___.",
+          "answer": "Stiefvater",
+          "en": "She gets on well with her stepfather."
+        }
+      ],
+      "notes": "Stief- = step-. Many people avoid the word and simply say 'der Mann meiner Mutter'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "👨",
+      "imageable": true,
+      "tags": [
+        "family"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "stiefmutter",
+        "vater"
+      ]
+    },
+    {
+      "id": "stiefmutter",
+      "word": "die Stiefmutter",
+      "lemma": "Stiefmutter",
+      "translation": "stepmother",
+      "translations": [
+        "stepmother"
+      ],
+      "level": "A2",
+      "category": "Family & People",
+      "partOfSpeech": "noun",
+      "frequency": 1110,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Stiefmütter",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Seine Stiefmutter ist Lehrerin.",
+          "en": "His stepmother is a teacher."
+        },
+        {
+          "de": "Die Stiefmutter kommt aus Polen.",
+          "en": "The stepmother is from Poland."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Meine ___ wohnt seit zehn Jahren bei uns.",
+          "answer": "Stiefmutter",
+          "en": "My stepmother has been living with us for ten years."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "👩",
+      "imageable": true,
+      "tags": [
+        "family"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "stiefvater",
+        "mutter"
+      ]
+    },
+    {
+      "id": "ehemann",
+      "word": "der Ehemann",
+      "lemma": "Ehemann",
+      "translation": "husband",
+      "translations": [
+        "husband"
+      ],
+      "level": "A1",
+      "category": "Family & People",
+      "partOfSpeech": "noun",
+      "frequency": 380,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Ehemänner",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ihr Ehemann arbeitet im Krankenhaus.",
+          "en": "Her husband works at the hospital."
+        },
+        {
+          "de": "Das ist mein Ehemann, Herr Yilmaz.",
+          "en": "This is my husband, Mr Yilmaz."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Mein ___ und ich sind seit fünf Jahren verheiratet.",
+          "answer": "Ehemann",
+          "en": "My husband and I have been married for five years."
+        }
+      ],
+      "notes": "Slightly formal, used on documents. In conversation people just say 'mein Mann'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🤵",
+      "imageable": true,
+      "tags": [
+        "family",
+        "marriage"
+      ],
+      "synonyms": [
+        "Mann"
+      ],
+      "antonyms": [
+        "Ehefrau"
+      ],
+      "related": [
+        "ehefrau",
+        "ehepaar",
+        "verheiratet"
+      ]
+    },
+    {
+      "id": "ehefrau",
+      "word": "die Ehefrau",
+      "lemma": "Ehefrau",
+      "translation": "wife",
+      "translations": [
+        "wife"
+      ],
+      "level": "A1",
+      "category": "Family & People",
+      "partOfSpeech": "noun",
+      "frequency": 385,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Ehefrauen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Seine Ehefrau kommt aus Spanien.",
+          "en": "His wife is from Spain."
+        },
+        {
+          "de": "Die Ehefrau steht auch im Mietvertrag.",
+          "en": "The wife is on the rental contract too."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Darf ich Ihnen meine ___ vorstellen?",
+          "answer": "Ehefrau",
+          "en": "May I introduce my wife to you?"
+        }
+      ],
+      "notes": "Formal/official. Everyday speech: 'meine Frau'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "👰",
+      "imageable": true,
+      "tags": [
+        "family",
+        "marriage"
+      ],
+      "synonyms": [
+        "Frau"
+      ],
+      "antonyms": [
+        "Ehemann"
+      ],
+      "related": [
+        "ehemann",
+        "ehepaar",
+        "verheiratet"
+      ]
+    },
+    {
+      "id": "ehepaar",
+      "word": "das Ehepaar",
+      "lemma": "Ehepaar",
+      "translation": "married couple",
+      "translations": [
+        "married couple",
+        "couple"
+      ],
+      "level": "A2",
+      "category": "Family & People",
+      "partOfSpeech": "noun",
+      "frequency": 640,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Ehepaare",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Das Ehepaar wohnt über uns.",
+          "en": "The married couple lives above us."
+        },
+        {
+          "de": "Ein junges Ehepaar hat die Wohnung gemietet.",
+          "en": "A young married couple rented the flat."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Das ___ aus dem dritten Stock ist sehr freundlich.",
+          "answer": "Ehepaar",
+          "en": "The couple from the third floor is very friendly."
+        }
+      ],
+      "notes": "Neuter because 'das Paar' is neuter.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "💑",
+      "imageable": true,
+      "tags": [
+        "family",
+        "marriage"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "ehemann",
+        "ehefrau",
+        "hochzeit"
+      ]
+    },
+    {
+      "id": "partner",
+      "word": "der Partner",
+      "lemma": "Partner",
+      "translation": "partner",
+      "translations": [
+        "partner",
+        "boyfriend"
+      ],
+      "level": "A1",
+      "category": "Family & People",
+      "partOfSpeech": "noun",
+      "frequency": 260,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Partner",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Mein Partner kommt etwas später.",
+          "en": "My partner is coming a bit later."
+        },
+        {
+          "de": "Wohnen Sie mit Ihrem Partner zusammen?",
+          "en": "Do you live together with your partner?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich suche eine Wohnung für mich und meinen ___.",
+          "answer": "Partner",
+          "en": "I am looking for a flat for me and my partner."
+        }
+      ],
+      "notes": "Neutral word for a life partner, married or not — it says nothing about marital status.",
+      "mnemonic": null,
+      "germany_context": "Living together unmarried is completely normal in Germany. Forms may ask about a 'Lebenspartner' or an 'eingetragene Lebenspartnerschaft' (registered partnership).",
+      "emoji": "🧑",
+      "imageable": true,
+      "tags": [
+        "people",
+        "relationship"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "partnerin",
+        "freund",
+        "ehemann"
+      ]
+    },
+    {
+      "id": "partnerin",
+      "word": "die Partnerin",
+      "lemma": "Partnerin",
+      "translation": "partner (female)",
+      "translations": [
+        "partner (female)",
+        "girlfriend"
+      ],
+      "level": "A1",
+      "category": "Family & People",
+      "partOfSpeech": "noun",
+      "frequency": 290,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Partnerinnen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Meine Partnerin arbeitet als Designerin.",
+          "en": "My partner works as a designer."
+        },
+        {
+          "de": "Er kommt heute Abend mit seiner Partnerin.",
+          "en": "He is coming with his partner tonight."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Das ist meine ___, Elif.",
+          "answer": "Partnerin",
+          "en": "This is my partner, Elif."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "👩",
+      "imageable": true,
+      "tags": [
+        "people",
+        "relationship"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "partner",
+        "freundin"
+      ]
+    },
+    {
+      "id": "freund",
+      "word": "der Freund",
+      "lemma": "Freund",
+      "translation": "friend",
+      "translations": [
+        "friend",
+        "boyfriend"
+      ],
+      "level": "A0",
+      "category": "Family & People",
+      "partOfSpeech": "noun",
+      "frequency": 100,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Freunde",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich treffe heute einen Freund.",
+          "en": "I am meeting a friend today."
+        },
+        {
+          "de": "Er ist mein bester Freund.",
+          "en": "He is my best friend."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Am Wochenende gehe ich mit ___ ins Kino.",
+          "answer": "Freunden",
+          "en": "At the weekend I go to the cinema with friends."
+        }
+      ],
+      "notes": "Careful: 'mein Freund' normally means 'my boyfriend'. For a plain friend say 'ein Freund von mir'.",
+      "mnemonic": null,
+      "germany_context": "Germans use 'Freund' far more narrowly than English 'friend' — people you see regularly but aren't close to are 'Bekannte'.",
+      "emoji": "🧑",
+      "imageable": true,
+      "tags": [
+        "people",
+        "essential",
+        "relationship"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "Feind"
+      ],
+      "related": [
+        "freundin",
+        "bekannte",
+        "kumpel"
+      ]
+    },
+    {
+      "id": "freundin",
+      "word": "die Freundin",
+      "lemma": "Freundin",
+      "translation": "friend (female)",
+      "translations": [
+        "friend (female)",
+        "girlfriend"
+      ],
+      "level": "A0",
+      "category": "Family & People",
+      "partOfSpeech": "noun",
+      "frequency": 120,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Freundinnen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Meine Freundin heißt Sarah.",
+          "en": "My girlfriend is called Sarah."
+        },
+        {
+          "de": "Sie trifft ihre Freundinnen im Café.",
+          "en": "She meets her friends at the café."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich fahre mit meiner ___ nach Hamburg.",
+          "answer": "Freundin",
+          "en": "I am going to Hamburg with my girlfriend."
+        }
+      ],
+      "notes": "Same trap as 'Freund': 'meine Freundin' = my girlfriend, 'eine Freundin von mir' = a female friend.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "👩",
+      "imageable": true,
+      "tags": [
+        "people",
+        "essential",
+        "relationship"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "freund",
+        "partnerin"
+      ]
+    },
+    {
+      "id": "verlobte",
+      "word": "die Verlobte",
+      "lemma": "Verlobte",
+      "translation": "fiancée",
+      "translations": [
+        "fiancée",
+        "fiancé"
+      ],
+      "level": "A2",
+      "category": "Family & People",
+      "partOfSpeech": "noun",
+      "frequency": 1050,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Verlobten",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Das ist meine Verlobte.",
+          "en": "This is my fiancée."
+        },
+        {
+          "de": "Seine Verlobte kommt aus Italien.",
+          "en": "His fiancée is from Italy."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich wohne mit meiner ___ zusammen.",
+          "answer": "Verlobten",
+          "en": "I live together with my fiancée."
+        }
+      ],
+      "notes": "Adjectival noun — the ending changes: meine Verlobte, mit meiner Verlobten. Male form: der Verlobte / ein Verlobter.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "💍",
+      "imageable": false,
+      "tags": [
+        "people",
+        "relationship",
+        "adjectival-noun"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "partnerin",
+        "hochzeit",
+        "verheiratet"
+      ]
+    },
+    {
+      "id": "verwandte",
+      "word": "der Verwandte",
+      "lemma": "Verwandte",
+      "translation": "relative",
+      "translations": [
+        "relative"
+      ],
+      "level": "A2",
+      "category": "Family & People",
+      "partOfSpeech": "noun",
+      "frequency": 600,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Verwandten",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich habe viele Verwandte in der Türkei.",
+          "en": "I have a lot of relatives in Turkey."
+        },
+        {
+          "de": "Ein Verwandter von mir wohnt in Frankfurt.",
+          "en": "A relative of mine lives in Frankfurt."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Am Wochenende kommen ein paar ___ zu Besuch.",
+          "answer": "Verwandte",
+          "en": "A few relatives are coming to visit at the weekend."
+        }
+      ],
+      "notes": "Adjectival noun: der Verwandte / ein Verwandter / die Verwandten. Female: die Verwandte.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "👪",
+      "imageable": false,
+      "tags": [
+        "family",
+        "adjectival-noun"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "familie",
+        "onkel",
+        "tante"
+      ]
+    },
+    {
+      "id": "hochzeit",
+      "word": "die Hochzeit",
+      "lemma": "Hochzeit",
+      "translation": "wedding",
+      "translations": [
+        "wedding",
+        "marriage"
+      ],
+      "level": "A2",
+      "category": "Family & People",
+      "partOfSpeech": "noun",
+      "frequency": 560,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Hochzeiten",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Hochzeit ist im August.",
+          "en": "The wedding is in August."
+        },
+        {
+          "de": "Wir gehen am Samstag auf eine Hochzeit.",
+          "en": "We are going to a wedding on Saturday."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Zur ___ meiner Schwester fliege ich nach Istanbul.",
+          "answer": "Hochzeit",
+          "en": "I am flying to Istanbul for my sister's wedding."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Only the civil ceremony at the Standesamt is legally binding in Germany; a church or party wedding has no legal effect. Book the Standesamt appointment months ahead.",
+      "emoji": "💒",
+      "imageable": true,
+      "tags": [
+        "family",
+        "marriage",
+        "events"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "ehepaar",
+        "verheiratet",
+        "verlobte"
+      ]
+    },
+    {
+      "id": "mensch",
+      "word": "der Mensch",
+      "lemma": "Mensch",
+      "translation": "human being",
+      "translations": [
+        "human being",
+        "person"
+      ],
+      "level": "A1",
+      "category": "Family & People",
+      "partOfSpeech": "noun",
+      "frequency": 150,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Menschen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "des Menschen"
+      },
+      "example_sentences": [
+        {
+          "de": "Auf dem Markt sind viele Menschen.",
+          "en": "There are a lot of people at the market."
+        },
+        {
+          "de": "Er ist ein netter Mensch.",
+          "en": "He is a nice person."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "In der U-Bahn waren heute Morgen sehr viele ___.",
+          "answer": "Menschen",
+          "en": "There were a lot of people on the underground this morning."
+        }
+      ],
+      "notes": "N-Deklination: den/dem/des Menschen. On its own, 'Mensch!' is also an everyday exclamation like 'wow!' or 'come on!'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🧍",
+      "imageable": true,
+      "tags": [
+        "people",
+        "essential",
+        "n-deklination"
+      ],
+      "synonyms": [
+        "Person"
+      ],
+      "antonyms": [],
+      "related": [
+        "person",
+        "leute"
+      ]
+    },
+    {
+      "id": "mann",
+      "word": "der Mann",
+      "lemma": "Mann",
+      "translation": "man",
+      "translations": [
+        "man",
+        "husband"
+      ],
+      "level": "A0",
+      "category": "Family & People",
+      "partOfSpeech": "noun",
+      "frequency": 60,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Männer",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Mann dort ist mein Nachbar.",
+          "en": "That man over there is my neighbour."
+        },
+        {
+          "de": "Mein Mann kommt gleich.",
+          "en": "My husband is coming in a moment."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ein ___ hat nach dir gefragt.",
+          "answer": "Mann",
+          "en": "A man asked for you."
+        }
+      ],
+      "notes": "'mein Mann' means 'my husband', not just 'my man'. Umlaut plural: Männer.",
+      "mnemonic": "Mann ~ 'man'.",
+      "germany_context": null,
+      "emoji": "👨",
+      "imageable": true,
+      "tags": [
+        "people",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "Frau"
+      ],
+      "related": [
+        "frau",
+        "ehemann",
+        "junge"
+      ]
+    },
+    {
+      "id": "frau",
+      "word": "die Frau",
+      "lemma": "Frau",
+      "translation": "woman",
+      "translations": [
+        "woman",
+        "wife",
+        "Ms"
+      ],
+      "level": "A0",
+      "category": "Family & People",
+      "partOfSpeech": "noun",
+      "frequency": 55,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Frauen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Frau am Schalter war sehr freundlich.",
+          "en": "The woman at the counter was very friendly."
+        },
+        {
+          "de": "Guten Tag, Frau Schmidt!",
+          "en": "Good day, Ms Schmidt!"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Meine ___ arbeitet bei einer Bank.",
+          "answer": "Frau",
+          "en": "My wife works at a bank."
+        }
+      ],
+      "notes": "Three jobs in one word: 'woman', 'wife' (meine Frau) and the title 'Ms/Mrs' (Frau Schmidt). 'Fräulein' is obsolete — never use it.",
+      "mnemonic": null,
+      "germany_context": "Every adult woman is addressed as 'Frau + surname', regardless of age or marital status — including in emails: 'Sehr geehrte Frau Schmidt,'.",
+      "emoji": "👩",
+      "imageable": true,
+      "tags": [
+        "people",
+        "essential",
+        "titles"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "Mann"
+      ],
+      "related": [
+        "mann",
+        "ehefrau",
+        "herr",
+        "dame"
+      ]
+    },
+    {
+      "id": "junge",
+      "word": "der Junge",
+      "lemma": "Junge",
+      "translation": "boy",
+      "translations": [
+        "boy"
+      ],
+      "level": "A1",
+      "category": "Family & People",
+      "partOfSpeech": "noun",
+      "frequency": 230,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Jungen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "des Jungen"
+      },
+      "example_sentences": [
+        {
+          "de": "Der Junge spielt Fußball.",
+          "en": "The boy is playing football."
+        },
+        {
+          "de": "Zwei Jungen warten vor der Tür.",
+          "en": "Two boys are waiting in front of the door."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der kleine ___ hat seinen Schlüssel verloren.",
+          "answer": "Junge",
+          "en": "The little boy has lost his key."
+        }
+      ],
+      "notes": "N-Deklination: dem Jungen, den Jungen. Colloquial plural: 'Jungs'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "👦",
+      "imageable": true,
+      "tags": [
+        "people",
+        "n-deklination"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "Mädchen"
+      ],
+      "related": [
+        "maedchen",
+        "kind"
+      ]
+    },
+    {
+      "id": "maedchen",
+      "word": "das Mädchen",
+      "lemma": "Mädchen",
+      "translation": "girl",
+      "translations": [
+        "girl"
+      ],
+      "level": "A1",
+      "category": "Family & People",
+      "partOfSpeech": "noun",
+      "frequency": 235,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Mädchen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Das Mädchen liest ein Buch.",
+          "en": "The girl is reading a book."
+        },
+        {
+          "de": "Zwei Mädchen fahren Fahrrad.",
+          "en": "Two girls are riding bicycles."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Das ___ neben mir heißt Lena.",
+          "answer": "Mädchen",
+          "en": "The girl next to me is called Lena."
+        }
+      ],
+      "notes": "Neuter, not feminine: every noun ending in -chen is 'das'. Grammar beats biology here.",
+      "mnemonic": "-chen → das, always: das Mädchen, das Brötchen, das Häuschen.",
+      "germany_context": null,
+      "emoji": "👧",
+      "imageable": true,
+      "tags": [
+        "people",
+        "gender-trap"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "Junge"
+      ],
+      "related": [
+        "junge",
+        "kind"
+      ]
+    },
+    {
+      "id": "person",
+      "word": "die Person",
+      "lemma": "Person",
+      "translation": "person",
+      "translations": [
+        "person"
+      ],
+      "level": "A1",
+      "category": "Family & People",
+      "partOfSpeech": "noun",
+      "frequency": 140,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Personen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Tisch ist für vier Personen.",
+          "en": "The table is for four people."
+        },
+        {
+          "de": "Eine Person fehlt noch.",
+          "en": "One person is still missing."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wie viele ___ wohnen in der Wohnung?",
+          "answer": "Personen",
+          "en": "How many people live in the flat?"
+        }
+      ],
+      "notes": "Always feminine, even for a man: 'Diese Person ist mein Chef.'",
+      "mnemonic": null,
+      "germany_context": "'Personen' is the counting word on German forms and contracts — the Anmeldung and the Mietvertrag both ask how many people live in the flat.",
+      "emoji": "🧍",
+      "imageable": true,
+      "tags": [
+        "people",
+        "essential",
+        "forms"
+      ],
+      "synonyms": [
+        "Mensch"
+      ],
+      "antonyms": [],
+      "related": [
+        "mensch",
+        "leute"
+      ]
+    },
+    {
+      "id": "leute",
+      "word": "die Leute",
+      "lemma": "Leute",
+      "translation": "people",
+      "translations": [
+        "people",
+        "folks"
+      ],
+      "level": "A0",
+      "category": "Family & People",
+      "partOfSpeech": "noun",
+      "frequency": 110,
+      "gender": null,
+      "article": "die",
+      "plural": "die Leute",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Hier sind heute viele Leute.",
+          "en": "There are a lot of people here today."
+        },
+        {
+          "de": "Die Leute im Büro sind nett.",
+          "en": "The people in the office are nice."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Auf dem Fest waren über hundert ___.",
+          "answer": "Leute",
+          "en": "There were over a hundred people at the party."
+        }
+      ],
+      "notes": "Plural-only and informal. Use 'Personen' on forms and 'Menschen' when you mean human beings in general.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "👥",
+      "imageable": true,
+      "tags": [
+        "people",
+        "essential",
+        "plural-only"
+      ],
+      "synonyms": [
+        "Menschen"
+      ],
+      "antonyms": [],
+      "related": [
+        "mensch",
+        "person"
+      ]
+    },
+    {
+      "id": "erwachsene",
+      "word": "der Erwachsene",
+      "lemma": "Erwachsene",
+      "translation": "adult",
+      "translations": [
+        "adult",
+        "grown-up"
+      ],
+      "level": "A2",
+      "category": "Family & People",
+      "partOfSpeech": "noun",
+      "frequency": 480,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Erwachsenen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Zwei Erwachsene und ein Kind, bitte.",
+          "en": "Two adults and one child, please."
+        },
+        {
+          "de": "Der Eintritt für Erwachsene kostet zehn Euro.",
+          "en": "Admission for adults costs ten euros."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ein ___ zahlt den vollen Preis.",
+          "answer": "Erwachsener",
+          "en": "An adult pays the full price."
+        }
+      ],
+      "notes": "Adjectival noun: ein Erwachsener / der Erwachsene / zwei Erwachsene. You hear it at every ticket counter.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🧑",
+      "imageable": true,
+      "tags": [
+        "people",
+        "adjectival-noun",
+        "tickets"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "Kind"
+      ],
+      "related": [
+        "kind",
+        "jugendliche"
+      ]
+    },
+    {
+      "id": "jugendliche",
+      "word": "der Jugendliche",
+      "lemma": "Jugendliche",
+      "translation": "teenager",
+      "translations": [
+        "teenager",
+        "young person"
+      ],
+      "level": "A2",
+      "category": "Family & People",
+      "partOfSpeech": "noun",
+      "frequency": 490,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Jugendlichen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Viele Jugendliche treffen sich im Park.",
+          "en": "A lot of teenagers meet up in the park."
+        },
+        {
+          "de": "Der Jugendliche zeigte seinen Ausweis.",
+          "en": "The teenager showed his ID."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Für ___ gibt es einen günstigeren Eintritt.",
+          "answer": "Jugendliche",
+          "en": "There is a cheaper entrance fee for teenagers."
+        }
+      ],
+      "notes": "Adjectival noun, roughly ages 14–18. 'Teenager' is also used in everyday speech.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🧑",
+      "imageable": true,
+      "tags": [
+        "people",
+        "adjectival-noun"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "erwachsene",
+        "kind"
+      ]
+    },
+    {
+      "id": "rentner",
+      "word": "der Rentner",
+      "lemma": "Rentner",
+      "translation": "pensioner",
+      "translations": [
+        "pensioner",
+        "retiree"
+      ],
+      "level": "A2",
+      "category": "Family & People",
+      "partOfSpeech": "noun",
+      "frequency": 720,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Rentner",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Mein Nachbar ist Rentner.",
+          "en": "My neighbour is a pensioner."
+        },
+        {
+          "de": "Viele Rentner fahren mittags mit dem Bus.",
+          "en": "Many pensioners take the bus around midday."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Als ___ bekommt er jeden Monat Rente.",
+          "answer": "Rentner",
+          "en": "As a pensioner he receives a pension every month."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "The standard retirement age in Germany is moving up to 67. Pensioners get reduced 'Senioren' prices at museums, pools and on public transport — always ask.",
+      "emoji": "👴",
+      "imageable": true,
+      "tags": [
+        "people",
+        "age"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "opa",
+        "erwachsene"
+      ]
+    },
+    {
+      "id": "nachbar",
+      "word": "der Nachbar",
+      "lemma": "Nachbar",
+      "translation": "neighbour",
+      "translations": [
+        "neighbour",
+        "neighbor"
+      ],
+      "level": "A1",
+      "category": "Family & People",
+      "partOfSpeech": "noun",
+      "frequency": 200,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Nachbarn",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "des Nachbarn"
+      },
+      "example_sentences": [
+        {
+          "de": "Mein Nachbar heißt Herr Becker.",
+          "en": "My neighbour is called Mr Becker."
+        },
+        {
+          "de": "Ich habe den Nachbarn um Hilfe gebeten.",
+          "en": "I asked the neighbour for help."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Unsere ___ sind sehr freundlich.",
+          "answer": "Nachbarn",
+          "en": "Our neighbours are very friendly."
+        }
+      ],
+      "notes": "N-Deklination: dem/den/des Nachbarn.",
+      "mnemonic": null,
+      "germany_context": "Hausgemeinschaft rules are taken seriously: Ruhezeiten are usually 22:00–06:00, plus all day Sunday and often 13:00–15:00 — no drilling, loud music or washing machine then. Many buildings run a Kehrwoche (your turn to clean the stairwell). Introduce yourself when you move in; a complaining neighbour can cost you your flat.",
+      "emoji": "🏘️",
+      "imageable": true,
+      "tags": [
+        "people",
+        "housing",
+        "n-deklination",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "nachbarin",
+        "nachbarschaft",
+        "hausmeister"
+      ]
+    },
+    {
+      "id": "nachbarin",
+      "word": "die Nachbarin",
+      "lemma": "Nachbarin",
+      "translation": "neighbour (female)",
+      "translations": [
+        "neighbour (female)"
+      ],
+      "level": "A1",
+      "category": "Family & People",
+      "partOfSpeech": "noun",
+      "frequency": 240,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Nachbarinnen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Meine Nachbarin nimmt meine Pakete an.",
+          "en": "My neighbour accepts my parcels."
+        },
+        {
+          "de": "Die Nachbarin von unten hat sich beschwert.",
+          "en": "The neighbour from downstairs complained."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich habe meiner ___ den Schlüssel gegeben.",
+          "answer": "Nachbarin",
+          "en": "I gave my neighbour the key."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Neighbours routinely take in each other's parcels — DHL leaves a yellow slip saying which flat has yours. It's normal to knock and ask.",
+      "emoji": "👩",
+      "imageable": true,
+      "tags": [
+        "people",
+        "housing"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "nachbar"
+      ]
+    },
+    {
+      "id": "nachbarschaft",
+      "word": "die Nachbarschaft",
+      "lemma": "Nachbarschaft",
+      "translation": "neighbourhood",
+      "translations": [
+        "neighbourhood",
+        "neighborhood"
+      ],
+      "level": "A2",
+      "category": "Family & People",
+      "partOfSpeech": "noun",
+      "frequency": 680,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Nachbarschaften",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Nachbarschaft ist ruhig und grün.",
+          "en": "The neighbourhood is quiet and green."
+        },
+        {
+          "de": "In unserer Nachbarschaft gibt es viele Familien.",
+          "en": "There are a lot of families in our neighbourhood."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wir kennen noch fast niemanden in der ___.",
+          "answer": "Nachbarschaft",
+          "en": "We hardly know anyone in the neighbourhood yet."
+        }
+      ],
+      "notes": "For the part of town you live in, Germans more often say 'das Viertel' or 'der Kiez' (Berlin).",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🏘️",
+      "imageable": false,
+      "tags": [
+        "people",
+        "housing"
+      ],
+      "synonyms": [
+        "Viertel"
+      ],
+      "antonyms": [],
+      "related": [
+        "nachbar"
+      ]
+    },
+    {
+      "id": "kollege",
+      "word": "der Kollege",
+      "lemma": "Kollege",
+      "translation": "colleague",
+      "translations": [
+        "colleague",
+        "co-worker"
+      ],
+      "level": "A1",
+      "category": "Family & People",
+      "partOfSpeech": "noun",
+      "frequency": 190,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Kollegen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "des Kollegen"
+      },
+      "example_sentences": [
+        {
+          "de": "Mein Kollege hilft mir bei dem Projekt.",
+          "en": "My colleague is helping me with the project."
+        },
+        {
+          "de": "Ich esse mittags mit den Kollegen.",
+          "en": "I eat lunch with my colleagues."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ein ___ von mir wohnt auch in diesem Viertel.",
+          "answer": "Kollege",
+          "en": "A colleague of mine lives in this area too."
+        }
+      ],
+      "notes": "N-Deklination: dem/den/des Kollegen.",
+      "mnemonic": null,
+      "germany_context": "In German tech companies and startups colleagues are on 'du' from day one. In banks, insurance, law firms and public offices 'Sie' can last for years — let the other side offer the 'du'.",
+      "emoji": "🧑‍💼",
+      "imageable": true,
+      "tags": [
+        "people",
+        "work",
+        "n-deklination"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "kollegin",
+        "chef",
+        "duzen"
+      ]
+    },
+    {
+      "id": "kollegin",
+      "word": "die Kollegin",
+      "lemma": "Kollegin",
+      "translation": "colleague (female)",
+      "translations": [
+        "colleague (female)"
+      ],
+      "level": "A1",
+      "category": "Family & People",
+      "partOfSpeech": "noun",
+      "frequency": 220,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Kolleginnen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Meine Kollegin ist heute krank.",
+          "en": "My colleague is ill today."
+        },
+        {
+          "de": "Ich frage meine Kollegin, sie weiß das.",
+          "en": "I'll ask my colleague, she knows that."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Das ist Frau Klein, eine ___ aus dem Marketing.",
+          "answer": "Kollegin",
+          "en": "This is Ms Klein, a colleague from marketing."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "👩‍💼",
+      "imageable": true,
+      "tags": [
+        "people",
+        "work"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "kollege"
+      ]
+    },
+    {
+      "id": "chef",
+      "word": "der Chef",
+      "lemma": "Chef",
+      "translation": "boss",
+      "translations": [
+        "boss",
+        "manager"
+      ],
+      "level": "A1",
+      "category": "Family & People",
+      "partOfSpeech": "noun",
+      "frequency": 210,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Chefs",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Mein Chef ist heute nicht im Büro.",
+          "en": "My boss is not in the office today."
+        },
+        {
+          "de": "Ich muss kurz mit dem Chef sprechen.",
+          "en": "I need to speak to the boss briefly."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der neue ___ kommt aus Hamburg.",
+          "answer": "Chef",
+          "en": "The new boss is from Hamburg."
+        }
+      ],
+      "notes": "False friend: pronounced 'schef' and it means boss, not a cook — a cook is 'der Koch'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "👔",
+      "imageable": true,
+      "tags": [
+        "people",
+        "work",
+        "false-friend"
+      ],
+      "synonyms": [
+        "Vorgesetzter"
+      ],
+      "antonyms": [],
+      "related": [
+        "chefin",
+        "kollege"
+      ]
+    },
+    {
+      "id": "chefin",
+      "word": "die Chefin",
+      "lemma": "Chefin",
+      "translation": "boss (female)",
+      "translations": [
+        "boss (female)"
+      ],
+      "level": "A1",
+      "category": "Family & People",
+      "partOfSpeech": "noun",
+      "frequency": 250,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Chefinnen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Unsere Chefin hat den Urlaub genehmigt.",
+          "en": "Our boss approved the holiday."
+        },
+        {
+          "de": "Die Chefin kommt aus München.",
+          "en": "The boss is from Munich."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich habe meiner ___ eine E-Mail geschrieben.",
+          "answer": "Chefin",
+          "en": "I wrote my boss an email."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "👩‍💼",
+      "imageable": true,
+      "tags": [
+        "people",
+        "work"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "chef"
+      ]
+    },
+    {
+      "id": "gast",
+      "word": "der Gast",
+      "lemma": "Gast",
+      "translation": "guest",
+      "translations": [
+        "guest"
+      ],
+      "level": "A1",
+      "category": "Family & People",
+      "partOfSpeech": "noun",
+      "frequency": 300,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Gäste",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Wir haben heute Abend Gäste.",
+          "en": "We have guests this evening."
+        },
+        {
+          "de": "Der Gast wartet an der Rezeption.",
+          "en": "The guest is waiting at reception."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Am Samstag kommen zehn ___ zu uns.",
+          "answer": "Gäste",
+          "en": "Ten guests are coming to our place on Saturday."
+        }
+      ],
+      "notes": "Umlaut plural: die Gäste. Used for visitors at home, in hotels and in restaurants.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🧑",
+      "imageable": true,
+      "tags": [
+        "people",
+        "social"
+      ],
+      "synonyms": [
+        "Besucher"
+      ],
+      "antonyms": [],
+      "related": [
+        "besucher"
+      ]
+    },
+    {
+      "id": "besucher",
+      "word": "der Besucher",
+      "lemma": "Besucher",
+      "translation": "visitor",
+      "translations": [
+        "visitor"
+      ],
+      "level": "A2",
+      "category": "Family & People",
+      "partOfSpeech": "noun",
+      "frequency": 660,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Besucher",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Das Museum hatte am Wochenende viele Besucher.",
+          "en": "The museum had a lot of visitors at the weekend."
+        },
+        {
+          "de": "Besucher müssen sich am Eingang anmelden.",
+          "en": "Visitors have to register at the entrance."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Jeder ___ bekommt am Empfang einen Ausweis.",
+          "answer": "Besucher",
+          "en": "Every visitor gets a badge at reception."
+        }
+      ],
+      "notes": "Singular and plural look the same: der Besucher, die Besucher.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🚶",
+      "imageable": true,
+      "tags": [
+        "people",
+        "social"
+      ],
+      "synonyms": [
+        "Gast"
+      ],
+      "antonyms": [],
+      "related": [
+        "gast"
+      ]
+    },
+    {
+      "id": "fremde",
+      "word": "der Fremde",
+      "lemma": "Fremde",
+      "translation": "stranger",
+      "translations": [
+        "stranger"
+      ],
+      "level": "A2",
+      "category": "Family & People",
+      "partOfSpeech": "noun",
+      "frequency": 740,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Fremden",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ein Fremder hat mir mit dem Koffer geholfen.",
+          "en": "A stranger helped me with my suitcase."
+        },
+        {
+          "de": "Sie spricht nicht gern mit Fremden.",
+          "en": "She doesn't like talking to strangers."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der ___ fragte nach dem Weg zum Bahnhof.",
+          "answer": "Fremde",
+          "en": "The stranger asked the way to the station."
+        }
+      ],
+      "notes": "Adjectival noun: ein Fremder / der Fremde / mit Fremden. As an adjective 'fremd' means foreign or unfamiliar.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🧑",
+      "imageable": false,
+      "tags": [
+        "people",
+        "adjectival-noun"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "Bekannter"
+      ],
+      "related": [
+        "bekannte",
+        "auslaender"
+      ]
+    },
+    {
+      "id": "auslaender",
+      "word": "der Ausländer",
+      "lemma": "Ausländer",
+      "translation": "foreigner",
+      "translations": [
+        "foreigner"
+      ],
+      "level": "A2",
+      "category": "Family & People",
+      "partOfSpeech": "noun",
+      "frequency": 540,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Ausländer",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Als Ausländer brauche ich einen Aufenthaltstitel.",
+          "en": "As a foreigner I need a residence permit."
+        },
+        {
+          "de": "In dieser Stadt leben viele Ausländer.",
+          "en": "A lot of foreigners live in this city."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich bin ___ und lerne seit einem Jahr Deutsch.",
+          "answer": "Ausländer",
+          "en": "I am a foreigner and have been learning German for a year."
+        }
+      ],
+      "notes": "Neutral in official use (Ausländerbehörde), but in casual conversation many people prefer 'Menschen aus dem Ausland' or 'internationale Kollegen'.",
+      "mnemonic": null,
+      "germany_context": "The Ausländerbehörde (immigration office) issues residence permits. Appointments are booked online and are often weeks or months away — book long before your visa expires, and bring every document plus copies.",
+      "emoji": "🌍",
+      "imageable": false,
+      "tags": [
+        "people",
+        "bureaucracy",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "fremde",
+        "person"
+      ]
+    },
+    {
+      "id": "bekannte",
+      "word": "der Bekannte",
+      "lemma": "Bekannte",
+      "translation": "acquaintance",
+      "translations": [
+        "acquaintance"
+      ],
+      "level": "A2",
+      "category": "Family & People",
+      "partOfSpeech": "noun",
+      "frequency": 620,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Bekannten",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ein Bekannter hat mir die Wohnung gezeigt.",
+          "en": "An acquaintance showed me the flat."
+        },
+        {
+          "de": "Wir sind nur Bekannte, keine Freunde.",
+          "en": "We are just acquaintances, not friends."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich habe die Stelle über einen ___ gefunden.",
+          "answer": "Bekannten",
+          "en": "I found the job through an acquaintance."
+        }
+      ],
+      "notes": "Adjectival noun: ein Bekannter / der Bekannte / die Bekannten.",
+      "mnemonic": null,
+      "germany_context": "Germans draw a sharp line: 'Bekannte' are people you know, 'Freunde' are close friends only. Calling a new colleague 'mein Freund' sounds odd.",
+      "emoji": "🧑",
+      "imageable": false,
+      "tags": [
+        "people",
+        "social",
+        "adjectival-noun"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "Fremder"
+      ],
+      "related": [
+        "freund",
+        "fremde"
+      ]
+    },
+    {
+      "id": "mitbewohner",
+      "word": "der Mitbewohner",
+      "lemma": "Mitbewohner",
+      "translation": "flatmate",
+      "translations": [
+        "flatmate",
+        "roommate"
+      ],
+      "level": "A2",
+      "category": "Family & People",
+      "partOfSpeech": "noun",
+      "frequency": 580,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Mitbewohner",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Mein Mitbewohner kocht heute für uns alle.",
+          "en": "My flatmate is cooking for all of us today."
+        },
+        {
+          "de": "Wir suchen einen neuen Mitbewohner.",
+          "en": "We are looking for a new flatmate."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Meine ___ sind beide Studenten.",
+          "answer": "Mitbewohner",
+          "en": "My flatmates are both students."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Rooms in flatshares are advertised on WG-Gesucht.de. A 'WG-Casting', where the existing flatmates interview several candidates over a beer, is completely normal.",
+      "emoji": "🧑‍🤝‍🧑",
+      "imageable": true,
+      "tags": [
+        "people",
+        "housing"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "wg",
+        "nachbar"
+      ]
+    },
+    {
+      "id": "wg",
+      "word": "die WG",
+      "lemma": "WG",
+      "translation": "flatshare",
+      "translations": [
+        "flatshare",
+        "shared flat"
+      ],
+      "level": "A2",
+      "category": "Family & People",
+      "partOfSpeech": "noun",
+      "frequency": 570,
+      "gender": "f",
+      "article": "die",
+      "plural": "die WGs",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich wohne in einer WG mit drei Leuten.",
+          "en": "I live in a flatshare with three people."
+        },
+        {
+          "de": "In unserer WG putzt jeder einmal pro Woche.",
+          "en": "In our flatshare everyone cleans once a week."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ein Zimmer in einer ___ ist billiger als eine eigene Wohnung.",
+          "answer": "WG",
+          "en": "A room in a flatshare is cheaper than your own flat."
+        }
+      ],
+      "notes": "Short for 'die Wohngemeinschaft'. Everyone says WG, pronounced 'veh-geh'.",
+      "mnemonic": null,
+      "germany_context": "A WG room is the fastest way into a German city. Make sure you get a Wohnungsgeberbestätigung from the landlord or main tenant — without it you cannot do your Anmeldung, and without the Anmeldung you get no bank account, no tax ID and no residence permit.",
+      "emoji": "🏠",
+      "imageable": true,
+      "tags": [
+        "housing",
+        "abbreviation"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "mitbewohner",
+        "vermieter"
+      ]
+    },
+    {
+      "id": "hausmeister",
+      "word": "der Hausmeister",
+      "lemma": "Hausmeister",
+      "translation": "caretaker",
+      "translations": [
+        "caretaker",
+        "building manager"
+      ],
+      "level": "A2",
+      "category": "Family & People",
+      "partOfSpeech": "noun",
+      "frequency": 610,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Hausmeister",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Hausmeister repariert die Heizung.",
+          "en": "The caretaker is repairing the heating."
+        },
+        {
+          "de": "Fragen Sie bitte den Hausmeister.",
+          "en": "Please ask the caretaker."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der ___ hat einen Schlüssel für den Keller.",
+          "answer": "Hausmeister",
+          "en": "The caretaker has a key for the basement."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "The Hausmeister looks after the building: heating, bins, stairwell, snow clearing. If something breaks in a rented flat you report it to the Hausmeister or the Hausverwaltung — never hire your own handyman, the landlord pays.",
+      "emoji": "🔧",
+      "imageable": true,
+      "tags": [
+        "people",
+        "housing",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "vermieter",
+        "nachbar"
+      ]
+    },
+    {
+      "id": "vermieter",
+      "word": "der Vermieter",
+      "lemma": "Vermieter",
+      "translation": "landlord",
+      "translations": [
+        "landlord"
+      ],
+      "level": "A2",
+      "category": "Family & People",
+      "partOfSpeech": "noun",
+      "frequency": 470,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Vermieter",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Vermieter hat mir den Vertrag geschickt.",
+          "en": "The landlord sent me the contract."
+        },
+        {
+          "de": "Ich habe dem Vermieter eine E-Mail geschrieben.",
+          "en": "I wrote the landlord an email."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Mein ___ wohnt selbst im Haus.",
+          "answer": "Vermieter",
+          "en": "My landlord lives in the building himself."
+        }
+      ],
+      "notes": "From 'vermieten' (to rent out). The tenant is 'der Mieter'.",
+      "mnemonic": null,
+      "germany_context": "Your Vermieter must give you a Wohnungsgeberbestätigung — you need that paper for the Anmeldung within 14 days of moving in. The Kaution (deposit) is legally capped at three months' cold rent and must be paid back with interest when you leave.",
+      "emoji": "🔑",
+      "imageable": true,
+      "tags": [
+        "people",
+        "housing",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "Mieter"
+      ],
+      "related": [
+        "hausmeister",
+        "wg"
+      ]
+    },
+    {
+      "id": "kumpel",
+      "word": "der Kumpel",
+      "lemma": "Kumpel",
+      "translation": "mate",
+      "translations": [
+        "mate",
+        "buddy"
+      ],
+      "level": "A2",
+      "category": "Family & People",
+      "partOfSpeech": "noun",
+      "frequency": 880,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Kumpels",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Er ist ein guter Kumpel von mir.",
+          "en": "He is a good mate of mine."
+        },
+        {
+          "de": "Ich treffe heute Abend ein paar Kumpels.",
+          "en": "I am meeting a few mates tonight."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Mein ___ hilft mir beim Umzug.",
+          "answer": "Kumpel",
+          "en": "My mate is helping me with the move."
+        }
+      ],
+      "notes": "Informal and mostly male. Handy because it avoids the 'mein Freund = my boyfriend' problem.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🧑",
+      "imageable": true,
+      "tags": [
+        "people",
+        "informal",
+        "social"
+      ],
+      "synonyms": [
+        "Freund"
+      ],
+      "antonyms": [],
+      "related": [
+        "freund",
+        "bekannte"
+      ]
+    },
+    {
+      "id": "dame",
+      "word": "die Dame",
+      "lemma": "Dame",
+      "translation": "lady",
+      "translations": [
+        "lady"
+      ],
+      "level": "A2",
+      "category": "Family & People",
+      "partOfSpeech": "noun",
+      "frequency": 500,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Damen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Dame am Schalter hilft Ihnen gern.",
+          "en": "The lady at the counter will be happy to help you."
+        },
+        {
+          "de": "Eine ältere Dame stand an der Haltestelle.",
+          "en": "An elderly lady was standing at the bus stop."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Diese ___ war vor mir in der Schlange.",
+          "answer": "Dame",
+          "en": "This lady was ahead of me in the queue."
+        }
+      ],
+      "notes": "Polite word for a woman, common in service situations. On toilet doors 'Damen' = ladies, 'Herren' = gents.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "👩",
+      "imageable": true,
+      "tags": [
+        "people",
+        "polite",
+        "titles"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "Herr"
+      ],
+      "related": [
+        "herr",
+        "frau",
+        "damen-und-herren"
+      ]
+    },
+    {
+      "id": "herr",
+      "word": "der Herr",
+      "lemma": "Herr",
+      "translation": "Mr",
+      "translations": [
+        "Mr",
+        "gentleman",
+        "sir"
+      ],
+      "level": "A0",
+      "category": "Family & People",
+      "partOfSpeech": "noun",
+      "frequency": 85,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Herren",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "des Herrn"
+      },
+      "example_sentences": [
+        {
+          "de": "Guten Tag, Herr Müller!",
+          "en": "Good day, Mr Müller!"
+        },
+        {
+          "de": "Ein Herr wartet am Empfang.",
+          "en": "A gentleman is waiting at reception."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Sehr geehrter ___ Schneider, vielen Dank für Ihre E-Mail.",
+          "answer": "Herr",
+          "en": "Dear Mr Schneider, thank you very much for your email."
+        }
+      ],
+      "notes": "Special declension: 'Herrn' in the singular after the nominative (Ich frage Herrn Müller), 'Herren' in the plural.",
+      "mnemonic": null,
+      "germany_context": "Always 'Herr + surname', never 'Herr + first name'. Formal emails start 'Sehr geehrter Herr Müller,' — switch to 'Hallo Herr Müller' or first names only after he does.",
+      "emoji": "🎩",
+      "imageable": true,
+      "tags": [
+        "people",
+        "titles",
+        "essential",
+        "formal"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "Frau"
+      ],
+      "related": [
+        "frau",
+        "dame",
+        "damen-und-herren",
+        "siezen"
+      ]
+    },
+    {
+      "id": "damen-und-herren",
+      "word": "Damen und Herren",
+      "lemma": "Damen und Herren",
+      "translation": "ladies and gentlemen",
+      "translations": [
+        "ladies and gentlemen"
+      ],
+      "level": "A2",
+      "category": "Family & People",
+      "partOfSpeech": "phrase",
+      "frequency": 800,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Sehr geehrte Damen und Herren, ich schreibe wegen der Wohnung.",
+          "en": "Dear Sir or Madam, I am writing about the flat."
+        },
+        {
+          "de": "Meine Damen und Herren, wir landen in zehn Minuten.",
+          "en": "Ladies and gentlemen, we are landing in ten minutes."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Sehr geehrte ___, hiermit kündige ich meinen Vertrag.",
+          "answer": "Damen und Herren",
+          "en": "Dear Sir or Madam, I hereby cancel my contract."
+        }
+      ],
+      "notes": "Fixed phrase. 'Sehr geehrte Damen und Herren,' is followed by a comma and the next line starts with a small letter.",
+      "mnemonic": null,
+      "germany_context": "This is THE opening line for any formal German letter or email when you don't know the person's name: the Bürgeramt, your landlord, insurance companies, the Ausländerbehörde. Close with 'Mit freundlichen Grüßen'.",
+      "emoji": "✉️",
+      "imageable": false,
+      "tags": [
+        "phrase",
+        "formal",
+        "letters",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "herr",
+        "dame",
+        "siezen"
+      ]
+    },
+    {
+      "id": "name",
+      "word": "der Name",
+      "lemma": "Name",
+      "translation": "name",
+      "translations": [
+        "name"
+      ],
+      "level": "A0",
+      "category": "Family & People",
+      "partOfSpeech": "noun",
+      "frequency": 95,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Namen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "des Namens"
+      },
+      "example_sentences": [
+        {
+          "de": "Wie ist Ihr Name?",
+          "en": "What is your name?"
+        },
+        {
+          "de": "Mein Name ist Emre.",
+          "en": "My name is Emre."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Können Sie Ihren ___ bitte buchstabieren?",
+          "answer": "Namen",
+          "en": "Could you spell your name, please?"
+        }
+      ],
+      "notes": "Mixed declension: den/dem Namen, des Namens. 'Wie ist Ihr Name?' is the formal version of 'Wie heißen Sie?'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "📛",
+      "imageable": false,
+      "tags": [
+        "people",
+        "essential",
+        "forms"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "vorname",
+        "nachname"
+      ]
+    },
+    {
+      "id": "vorname",
+      "word": "der Vorname",
+      "lemma": "Vorname",
+      "translation": "first name",
+      "translations": [
+        "first name",
+        "given name"
+      ],
+      "level": "A1",
+      "category": "Family & People",
+      "partOfSpeech": "noun",
+      "frequency": 310,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Vornamen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Mein Vorname ist Emre.",
+          "en": "My first name is Emre."
+        },
+        {
+          "de": "Bitte schreiben Sie Ihren Vornamen in das erste Feld.",
+          "en": "Please write your first name in the first box."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wie schreibt man deinen ___?",
+          "answer": "Vornamen",
+          "en": "How do you spell your first name?"
+        }
+      ],
+      "notes": "vor = before, so the name that comes first.",
+      "mnemonic": null,
+      "germany_context": "German forms always ask for Vorname and Nachname in separate boxes, and in that order. Fill them in exactly as written in your passport.",
+      "emoji": "📝",
+      "imageable": false,
+      "tags": [
+        "people",
+        "forms",
+        "bureaucracy"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "Nachname"
+      ],
+      "related": [
+        "name",
+        "nachname"
+      ]
+    },
+    {
+      "id": "nachname",
+      "word": "der Nachname",
+      "lemma": "Nachname",
+      "translation": "surname",
+      "translations": [
+        "surname",
+        "last name"
+      ],
+      "level": "A1",
+      "category": "Family & People",
+      "partOfSpeech": "noun",
+      "frequency": 315,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Nachnamen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Mein Nachname ist Yilmaz.",
+          "en": "My surname is Yilmaz."
+        },
+        {
+          "de": "Der Nachname steht auf dem Klingelschild.",
+          "en": "The surname is on the doorbell sign."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wie ist Ihr ___, bitte?",
+          "answer": "Nachname",
+          "en": "What is your surname, please?"
+        }
+      ],
+      "notes": "Also called 'der Familienname' on official forms.",
+      "mnemonic": null,
+      "germany_context": "German letterboxes and doorbells carry the surname only. If your name is not on the letterbox, the postal service returns your mail — write it on a strip of tape the day you move in.",
+      "emoji": "📝",
+      "imageable": false,
+      "tags": [
+        "people",
+        "forms",
+        "bureaucracy",
+        "essential"
+      ],
+      "synonyms": [
+        "Familienname"
+      ],
+      "antonyms": [
+        "Vorname"
+      ],
+      "related": [
+        "name",
+        "vorname"
+      ]
+    },
+    {
+      "id": "familienstand",
+      "word": "der Familienstand",
+      "lemma": "Familienstand",
+      "translation": "marital status",
+      "translations": [
+        "marital status"
+      ],
+      "level": "A2",
+      "category": "Family & People",
+      "partOfSpeech": "noun",
+      "frequency": 990,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Familienstände",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Bitte geben Sie Ihren Familienstand an.",
+          "en": "Please state your marital status."
+        },
+        {
+          "de": "Mein Familienstand ist ledig.",
+          "en": "My marital status is single."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Auf dem Formular fehlt noch der ___.",
+          "answer": "Familienstand",
+          "en": "The marital status is still missing on the form."
+        }
+      ],
+      "notes": "Standard answers: ledig, verheiratet, geschieden, verwitwet.",
+      "mnemonic": null,
+      "germany_context": "Marital status appears on nearly every German form (Anmeldung, tax, insurance) because it decides your Steuerklasse — married couples can choose class III/V or IV/IV and usually keep more net salary.",
+      "emoji": "📋",
+      "imageable": false,
+      "tags": [
+        "forms",
+        "bureaucracy"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "verheiratet",
+        "ledig"
+      ]
+    },
+    {
+      "id": "mama",
+      "word": "die Mama",
+      "lemma": "Mama",
+      "translation": "mum",
+      "translations": [
+        "mum",
+        "mom"
+      ],
+      "level": "A1",
+      "category": "Family & People",
+      "partOfSpeech": "noun",
+      "frequency": 360,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Mamas",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Mama, ich habe Hunger.",
+          "en": "Mum, I'm hungry."
+        },
+        {
+          "de": "Meine Mama ruft jeden Tag an.",
+          "en": "My mum calls every day."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Das Kind sucht seine ___.",
+          "answer": "Mama",
+          "en": "The child is looking for its mum."
+        }
+      ],
+      "notes": "The normal everyday and children's word for 'Mutter'; adults use it too. 'Mutti' sounds old-fashioned.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "👩",
+      "imageable": true,
+      "tags": [
+        "family",
+        "informal"
+      ],
+      "synonyms": [
+        "Mutter"
+      ],
+      "antonyms": [
+        "Papa"
+      ],
+      "related": [
+        "mutter",
+        "papa"
+      ]
+    },
+    {
+      "id": "papa",
+      "word": "der Papa",
+      "lemma": "Papa",
+      "translation": "dad",
+      "translations": [
+        "dad",
+        "daddy"
+      ],
+      "level": "A1",
+      "category": "Family & People",
+      "partOfSpeech": "noun",
+      "frequency": 365,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Papas",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Papa holt dich vom Kindergarten ab.",
+          "en": "Dad is picking you up from kindergarten."
+        },
+        {
+          "de": "Mein Papa kommt aus Ankara.",
+          "en": "My dad is from Ankara."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Junge wartet vor der Schule auf seinen ___.",
+          "answer": "Papa",
+          "en": "The boy is waiting for his dad in front of the school."
+        }
+      ],
+      "notes": "Everyday word for 'Vater'. Stress falls on the first syllable: PA-pa. 'Vati' sounds dated.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "👨",
+      "imageable": true,
+      "tags": [
+        "family",
+        "informal"
+      ],
+      "synonyms": [
+        "Vater"
+      ],
+      "antonyms": [
+        "Mama"
+      ],
+      "related": [
+        "vater",
+        "mama"
+      ]
+    },
+    {
+      "id": "paar",
+      "word": "das Paar",
+      "lemma": "Paar",
+      "translation": "couple",
+      "translations": [
+        "couple",
+        "pair"
+      ],
+      "level": "A2",
+      "category": "Family & People",
+      "partOfSpeech": "noun",
+      "frequency": 650,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Paare",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Das Paar wohnt seit einem Jahr zusammen.",
+          "en": "The couple have been living together for a year."
+        },
+        {
+          "de": "Ein junges Paar hat die Wohnung besichtigt.",
+          "en": "A young couple viewed the flat."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Neben uns wohnt ein nettes ___ aus Spanien.",
+          "answer": "Paar",
+          "en": "A nice couple from Spain lives next door to us."
+        }
+      ],
+      "notes": "Watch the capital letter: 'ein Paar' = a couple or a pair (ein Paar Schuhe), but 'ein paar' with a small p means 'a few' (ein paar Leute).",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "💑",
+      "imageable": true,
+      "tags": [
+        "people",
+        "relationship",
+        "spelling-trap"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "ehepaar",
+        "partner",
+        "partnerin"
+      ]
+    },
+    {
+      "id": "single",
+      "word": "der Single",
+      "lemma": "Single",
+      "translation": "single person",
+      "translations": [
+        "single person",
+        "single"
+      ],
+      "level": "A2",
+      "category": "Family & People",
+      "partOfSpeech": "noun",
+      "frequency": 870,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Singles",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich bin Single.",
+          "en": "I'm single."
+        },
+        {
+          "de": "In Berlin leben sehr viele Singles.",
+          "en": "A lot of single people live in Berlin."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Mein Kollege ist seit zwei Jahren ___.",
+          "answer": "Single",
+          "en": "My colleague has been single for two years."
+        }
+      ],
+      "notes": "English loanword, masculine and always capitalised. Used without an article after 'sein': 'Ich bin Single.'",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🧍",
+      "imageable": false,
+      "tags": [
+        "people",
+        "relationship",
+        "loanword"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "Partner"
+      ],
+      "related": [
+        "partner",
+        "familienstand"
+      ]
+    },
+    {
+      "id": "anrede",
+      "word": "die Anrede",
+      "lemma": "Anrede",
+      "translation": "form of address",
+      "translations": [
+        "form of address",
+        "salutation"
+      ],
+      "level": "A2",
+      "category": "Family & People",
+      "partOfSpeech": "noun",
+      "frequency": 1200,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Anreden",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Anrede in einer E-Mail ist wichtig.",
+          "en": "The form of address in an email is important."
+        },
+        {
+          "de": "Welche Anrede benutze ich für meinen Vermieter?",
+          "en": "Which form of address do I use for my landlord?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "In offiziellen Briefen ist die ___ 'Sehr geehrte Damen und Herren'.",
+          "answer": "Anrede",
+          "en": "In official letters the salutation is 'Dear Sir or Madam'."
+        }
+      ],
+      "notes": "Covers both the Sie/du choice and the 'Herr/Frau + Nachname' formula.",
+      "mnemonic": null,
+      "germany_context": "Sie vs. du is the biggest social minefield in Germany. Use 'Sie' plus 'Herr/Frau + surname' with strangers, officials at the Amt, doctors, your landlord, shop and restaurant staff, older neighbours and new colleagues in banks, law firms or public offices. 'du' is normal with family, friends, children, in sports clubs, and from day one in most startups and tech teams. Never switch by yourself — wait until the older or more senior person offers it: 'Wir können uns gerne duzen.' Going back from du to Sie is impossible, so when in doubt start with Sie.",
+      "emoji": "🗣️",
+      "imageable": false,
+      "tags": [
+        "people",
+        "etiquette",
+        "essential",
+        "formal"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "herr",
+        "frau",
+        "damen-und-herren"
+      ]
+    }
+  ]
+}

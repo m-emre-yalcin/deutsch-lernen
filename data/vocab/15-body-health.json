@@ -1,0 +1,4007 @@
+{
+  "category": "Body & Health",
+  "words": [
+    {
+      "id": "koerper",
+      "word": "der Körper",
+      "lemma": "Körper",
+      "translation": "body",
+      "translations": [
+        "body"
+      ],
+      "level": "A1",
+      "category": "Body & Health",
+      "partOfSpeech": "noun",
+      "frequency": 620,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Körper",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Sport ist gut für den Körper.",
+          "en": "Sport is good for the body."
+        },
+        {
+          "de": "Nach dem Umzug tut mir der ganze Körper weh.",
+          "en": "After the move my whole body hurts."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der menschliche ___ besteht zu großen Teilen aus Wasser.",
+          "answer": "Körper",
+          "en": "The human body consists largely of water."
+        }
+      ],
+      "notes": "You will hear 'am ganzen Körper' a lot: 'Ich habe am ganzen Körper Muskelkater.'",
+      "mnemonic": "KÖRPER ~ Latin 'corpus' — corporal, corporate, body.",
+      "germany_context": null,
+      "emoji": "🧍",
+      "imageable": true,
+      "tags": [
+        "body",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "kopf",
+        "gesundheit"
+      ]
+    },
+    {
+      "id": "kopf",
+      "word": "der Kopf",
+      "lemma": "Kopf",
+      "translation": "head",
+      "translations": [
+        "head"
+      ],
+      "level": "A0",
+      "category": "Body & Health",
+      "partOfSpeech": "noun",
+      "frequency": 400,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Köpfe",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Mein Kopf tut weh.",
+          "en": "My head hurts."
+        },
+        {
+          "de": "Er hat sich den Kopf an der Tür gestoßen.",
+          "en": "He bumped his head on the door."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Zieh eine Mütze auf den ___, es ist eiskalt!",
+          "answer": "Kopf",
+          "en": "Put a hat on your head, it's freezing!"
+        }
+      ],
+      "notes": "Two natural ways to report pain: 'Mein Kopf tut weh.' and 'Ich habe Kopfschmerzen.' Both are correct; the second is what you say at the doctor's.",
+      "mnemonic": "KOPF ~ English 'cup' — the cup sitting on your neck.",
+      "germany_context": null,
+      "emoji": "👤",
+      "imageable": true,
+      "tags": [
+        "body",
+        "head",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "kopfschmerz",
+        "wehtun",
+        "gesicht"
+      ]
+    },
+    {
+      "id": "haar",
+      "word": "das Haar",
+      "lemma": "Haar",
+      "translation": "hair",
+      "translations": [
+        "hair"
+      ],
+      "level": "A1",
+      "category": "Body & Health",
+      "partOfSpeech": "noun",
+      "frequency": 560,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Haare",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Sie hat lange, dunkle Haare.",
+          "en": "She has long, dark hair."
+        },
+        {
+          "de": "Ich muss mir die Haare schneiden lassen.",
+          "en": "I need to get my hair cut."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Nach dem Schwimmen sind meine ___ ganz nass.",
+          "answer": "Haare",
+          "en": "After swimming my hair is completely wet."
+        }
+      ],
+      "notes": "Germans use the plural 'die Haare' for the hair on your head. The singular 'das Haar' means one single hair.",
+      "mnemonic": "HAAR ~ 'hair', just with a long a.",
+      "germany_context": "A haircut at the Friseur normally needs a Termin, and it is usual to tip 1-2 € in cash directly to the person who cut your hair.",
+      "emoji": "💇",
+      "imageable": true,
+      "tags": [
+        "body",
+        "head"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "kopf"
+      ]
+    },
+    {
+      "id": "gesicht",
+      "word": "das Gesicht",
+      "lemma": "Gesicht",
+      "translation": "face",
+      "translations": [
+        "face"
+      ],
+      "level": "A1",
+      "category": "Body & Health",
+      "partOfSpeech": "noun",
+      "frequency": 520,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Gesichter",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Wasch dir bitte das Gesicht.",
+          "en": "Please wash your face."
+        },
+        {
+          "de": "Sein Gesicht kommt mir bekannt vor.",
+          "en": "His face looks familiar to me."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Sie hat ein sehr freundliches ___.",
+          "answer": "Gesicht",
+          "en": "She has a very friendly face."
+        }
+      ],
+      "notes": null,
+      "mnemonic": "ge-SICHT contains 'Sicht' (sight) — the side of you that people see.",
+      "germany_context": null,
+      "emoji": "😐",
+      "imageable": true,
+      "tags": [
+        "body",
+        "head"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "auge",
+        "nase",
+        "mund"
+      ]
+    },
+    {
+      "id": "auge",
+      "word": "das Auge",
+      "lemma": "Auge",
+      "translation": "eye",
+      "translations": [
+        "eye"
+      ],
+      "level": "A1",
+      "category": "Body & Health",
+      "partOfSpeech": "noun",
+      "frequency": 430,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Augen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Sie hat grüne Augen.",
+          "en": "She has green eyes."
+        },
+        {
+          "de": "Mein linkes Auge tut weh.",
+          "en": "My left eye hurts."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Mach die ___ zu und zähl bis zehn!",
+          "answer": "Augen",
+          "en": "Close your eyes and count to ten!"
+        }
+      ],
+      "notes": "Plural 'die Augen' — an -n plural, no umlaut.",
+      "mnemonic": null,
+      "germany_context": "Glasses for adults are normally not paid by the gesetzliche Krankenkasse. You buy them at an Optiker, where the eye test itself is usually free.",
+      "emoji": "👁",
+      "imageable": true,
+      "tags": [
+        "body",
+        "head",
+        "senses"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "gesicht",
+        "ohr"
+      ]
+    },
+    {
+      "id": "ohr",
+      "word": "das Ohr",
+      "lemma": "Ohr",
+      "translation": "ear",
+      "translations": [
+        "ear"
+      ],
+      "level": "A1",
+      "category": "Body & Health",
+      "partOfSpeech": "noun",
+      "frequency": 700,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Ohren",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Mein Ohr tut seit gestern weh.",
+          "en": "My ear has been hurting since yesterday."
+        },
+        {
+          "de": "Er hört auf dem rechten Ohr schlecht.",
+          "en": "He can't hear well in his right ear."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Die Musik ist viel zu laut für meine ___.",
+          "answer": "Ohren",
+          "en": "The music is far too loud for my ears."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "👂",
+      "imageable": true,
+      "tags": [
+        "body",
+        "head",
+        "senses"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "auge",
+        "nase"
+      ]
+    },
+    {
+      "id": "nase",
+      "word": "die Nase",
+      "lemma": "Nase",
+      "translation": "nose",
+      "translations": [
+        "nose"
+      ],
+      "level": "A1",
+      "category": "Body & Health",
+      "partOfSpeech": "noun",
+      "frequency": 690,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Nasen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Meine Nase läuft.",
+          "en": "My nose is running."
+        },
+        {
+          "de": "Ich habe eine verstopfte Nase.",
+          "en": "I have a blocked nose."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Putz dir bitte die ___!",
+          "answer": "Nase",
+          "en": "Please blow your nose!"
+        }
+      ],
+      "notes": "'Die Nase läuft' = runny nose. 'Die Nase ist zu / verstopft' = blocked nose.",
+      "mnemonic": "NASE ~ 'nose'.",
+      "germany_context": null,
+      "emoji": "👃",
+      "imageable": true,
+      "tags": [
+        "body",
+        "head",
+        "senses"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "schnupfen",
+        "bluten"
+      ]
+    },
+    {
+      "id": "mund",
+      "word": "der Mund",
+      "lemma": "Mund",
+      "translation": "mouth",
+      "translations": [
+        "mouth"
+      ],
+      "level": "A1",
+      "category": "Body & Health",
+      "partOfSpeech": "noun",
+      "frequency": 720,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Münder",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Machen Sie bitte den Mund auf.",
+          "en": "Please open your mouth."
+        },
+        {
+          "de": "Er hat den Mund voll und kann nicht sprechen.",
+          "en": "His mouth is full and he can't speak."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Beim Husten hält man die Hand vor den ___.",
+          "answer": "Mund",
+          "en": "When you cough you hold your hand in front of your mouth."
+        }
+      ],
+      "notes": "'der Mund' is masculine even though it ends in -d.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "👄",
+      "imageable": true,
+      "tags": [
+        "body",
+        "head"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "zahn",
+        "zunge",
+        "lippe"
+      ]
+    },
+    {
+      "id": "zahn",
+      "word": "der Zahn",
+      "lemma": "Zahn",
+      "translation": "tooth",
+      "translations": [
+        "tooth"
+      ],
+      "level": "A1",
+      "category": "Body & Health",
+      "partOfSpeech": "noun",
+      "frequency": 640,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Zähne",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich putze mir zweimal am Tag die Zähne.",
+          "en": "I brush my teeth twice a day."
+        },
+        {
+          "de": "Ein Zahn tut mir richtig weh.",
+          "en": "One tooth really hurts."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Zahnarzt hat meinen kaputten ___ repariert.",
+          "answer": "Zahn",
+          "en": "The dentist fixed my broken tooth."
+        }
+      ],
+      "notes": "'sich die Zähne putzen' = to brush your teeth — always with the dative pronoun.",
+      "mnemonic": "ZAHN ~ 'tooth' with a 'Z' like the zigzag of a saw.",
+      "germany_context": "People with gesetzliche Krankenkasse get one free check-up a year. Have it stamped in your Bonusheft — a full booklet cuts what you pay yourself for crowns later.",
+      "emoji": "🦷",
+      "imageable": true,
+      "tags": [
+        "body",
+        "head"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "zahnschmerz",
+        "mund"
+      ]
+    },
+    {
+      "id": "zunge",
+      "word": "die Zunge",
+      "lemma": "Zunge",
+      "translation": "tongue",
+      "translations": [
+        "tongue"
+      ],
+      "level": "A2",
+      "category": "Body & Health",
+      "partOfSpeech": "noun",
+      "frequency": 1450,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Zungen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich habe mir die Zunge verbrannt.",
+          "en": "I burnt my tongue."
+        },
+        {
+          "de": "Der Arzt sagt: Zeigen Sie mir bitte Ihre Zunge.",
+          "en": "The doctor says: please show me your tongue."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Die Suppe war so heiß, dass meine ___ noch wehtut.",
+          "answer": "Zunge",
+          "en": "The soup was so hot that my tongue still hurts."
+        }
+      ],
+      "notes": null,
+      "mnemonic": "ZUNGE ~ 'tongue'.",
+      "germany_context": null,
+      "emoji": "👅",
+      "imageable": true,
+      "tags": [
+        "body",
+        "head"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "mund"
+      ]
+    },
+    {
+      "id": "lippe",
+      "word": "die Lippe",
+      "lemma": "Lippe",
+      "translation": "lip",
+      "translations": [
+        "lip"
+      ],
+      "level": "A2",
+      "category": "Body & Health",
+      "partOfSpeech": "noun",
+      "frequency": 1500,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Lippen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Im Winter sind meine Lippen trocken.",
+          "en": "In winter my lips are dry."
+        },
+        {
+          "de": "Sie hat sich auf die Lippe gebissen.",
+          "en": "She bit her lip."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich brauche eine Creme für die ___.",
+          "answer": "Lippen",
+          "en": "I need a cream for my lips."
+        }
+      ],
+      "notes": null,
+      "mnemonic": "LIPPE ~ 'lip'.",
+      "germany_context": null,
+      "emoji": "💋",
+      "imageable": true,
+      "tags": [
+        "body",
+        "head"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "mund"
+      ]
+    },
+    {
+      "id": "hals",
+      "word": "der Hals",
+      "lemma": "Hals",
+      "translation": "neck",
+      "translations": [
+        "neck",
+        "throat"
+      ],
+      "level": "A1",
+      "category": "Body & Health",
+      "partOfSpeech": "noun",
+      "frequency": 750,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Hälse",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Mein Hals tut weh, ich werde wohl krank.",
+          "en": "My throat hurts, I think I'm getting ill."
+        },
+        {
+          "de": "Er hat einen dicken Schal um den Hals.",
+          "en": "He has a thick scarf around his neck."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Seit gestern habe ich einen rauen ___.",
+          "answer": "Hals",
+          "en": "Since yesterday my throat has been sore."
+        }
+      ],
+      "notes": "'Hals' covers both neck and throat. For a sore throat Germans say 'Ich habe Halsschmerzen'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": true,
+      "tags": [
+        "body"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "halsschmerz",
+        "nacken"
+      ]
+    },
+    {
+      "id": "nacken",
+      "word": "der Nacken",
+      "lemma": "Nacken",
+      "translation": "back of the neck",
+      "translations": [
+        "back of the neck",
+        "nape"
+      ],
+      "level": "A2",
+      "category": "Body & Health",
+      "partOfSpeech": "noun",
+      "frequency": 1750,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Nacken",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Nach dem langen Tag am Computer ist mein Nacken verspannt.",
+          "en": "After the long day at the computer my neck is tense."
+        },
+        {
+          "de": "Sie massiert ihm den Nacken.",
+          "en": "She is massaging the back of his neck."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich habe Schmerzen im ___ und in den Schultern.",
+          "answer": "Nacken",
+          "en": "I have pain in my neck and shoulders."
+        }
+      ],
+      "notes": "'Nacken' is the back of the neck; the front and the throat are 'der Hals'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": true,
+      "tags": [
+        "body",
+        "office"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "hals",
+        "schulter",
+        "rueckenschmerz"
+      ]
+    },
+    {
+      "id": "schulter",
+      "word": "die Schulter",
+      "lemma": "Schulter",
+      "translation": "shoulder",
+      "translations": [
+        "shoulder"
+      ],
+      "level": "A2",
+      "category": "Body & Health",
+      "partOfSpeech": "noun",
+      "frequency": 1100,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Schultern",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Er trägt die Tasche über der Schulter.",
+          "en": "He carries the bag over his shoulder."
+        },
+        {
+          "de": "Meine rechte Schulter tut beim Sport weh.",
+          "en": "My right shoulder hurts when I do sports."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Sie hat mir die Hand auf die ___ gelegt.",
+          "answer": "Schulter",
+          "en": "She put her hand on my shoulder."
+        }
+      ],
+      "notes": "Plural 'die Schultern' with -n.",
+      "mnemonic": "SCHULTER ~ 'shoulder'.",
+      "germany_context": null,
+      "emoji": null,
+      "imageable": true,
+      "tags": [
+        "body"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "arm-nomen",
+        "nacken"
+      ]
+    },
+    {
+      "id": "arm-nomen",
+      "word": "der Arm",
+      "lemma": "Arm",
+      "translation": "arm",
+      "translations": [
+        "arm"
+      ],
+      "level": "A1",
+      "category": "Body & Health",
+      "partOfSpeech": "noun",
+      "frequency": 660,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Arme",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich habe mir den Arm gebrochen.",
+          "en": "I broke my arm."
+        },
+        {
+          "de": "Nimm das Kind mal auf den Arm.",
+          "en": "Pick the child up in your arms."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Mein linker ___ tut nach dem Training weh.",
+          "answer": "Arm",
+          "en": "My left arm hurts after the workout."
+        }
+      ],
+      "notes": "Careful: the adjective 'arm' means 'poor' — 'der arme Mann' = the poor man.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "💪",
+      "imageable": true,
+      "tags": [
+        "body",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "hand",
+        "ellbogen",
+        "schulter"
+      ]
+    },
+    {
+      "id": "ellbogen",
+      "word": "der Ellbogen",
+      "lemma": "Ellbogen",
+      "translation": "elbow",
+      "translations": [
+        "elbow"
+      ],
+      "level": "A2",
+      "category": "Body & Health",
+      "partOfSpeech": "noun",
+      "frequency": 2100,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Ellbogen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich habe mir den Ellbogen gestoßen.",
+          "en": "I banged my elbow."
+        },
+        {
+          "de": "Stütz die Ellbogen nicht auf den Tisch.",
+          "en": "Don't put your elbows on the table."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Beim Sturz hat er sich am ___ verletzt.",
+          "answer": "Ellbogen",
+          "en": "In the fall he hurt his elbow."
+        }
+      ],
+      "notes": "Both spellings are correct: 'Ellbogen' and 'Ellenbogen'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": true,
+      "tags": [
+        "body"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "arm-nomen"
+      ]
+    },
+    {
+      "id": "hand",
+      "word": "die Hand",
+      "lemma": "Hand",
+      "translation": "hand",
+      "translations": [
+        "hand"
+      ],
+      "level": "A0",
+      "category": "Body & Health",
+      "partOfSpeech": "noun",
+      "frequency": 350,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Hände",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Wasch dir bitte die Hände.",
+          "en": "Please wash your hands."
+        },
+        {
+          "de": "Sie gibt mir die Hand.",
+          "en": "She shakes my hand."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich habe mir an der ___ wehgetan.",
+          "answer": "Hand",
+          "en": "I hurt my hand."
+        }
+      ],
+      "notes": "'jemandem die Hand geben' = to shake hands with someone.",
+      "mnemonic": "HAND ~ 'hand' — same word.",
+      "germany_context": "A short handshake is still the normal greeting in offices, at the Amt and at the doctor's. Among friends a spoken 'Hallo' without touching is more common.",
+      "emoji": "✋",
+      "imageable": true,
+      "tags": [
+        "body",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "finger",
+        "arm-nomen",
+        "daumen"
+      ]
+    },
+    {
+      "id": "finger",
+      "word": "der Finger",
+      "lemma": "Finger",
+      "translation": "finger",
+      "translations": [
+        "finger"
+      ],
+      "level": "A1",
+      "category": "Body & Health",
+      "partOfSpeech": "noun",
+      "frequency": 780,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Finger",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich habe mir in den Finger geschnitten.",
+          "en": "I cut my finger."
+        },
+        {
+          "de": "Der Ring passt nicht auf meinen Finger.",
+          "en": "The ring doesn't fit my finger."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Sie hat sich den ___ in der Tür geklemmt.",
+          "answer": "Finger",
+          "en": "She caught her finger in the door."
+        }
+      ],
+      "notes": "Plural is the same as the singular: ein Finger, zwei Finger.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "👆",
+      "imageable": true,
+      "tags": [
+        "body"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "hand",
+        "daumen"
+      ]
+    },
+    {
+      "id": "daumen",
+      "word": "der Daumen",
+      "lemma": "Daumen",
+      "translation": "thumb",
+      "translations": [
+        "thumb"
+      ],
+      "level": "A2",
+      "category": "Body & Health",
+      "partOfSpeech": "noun",
+      "frequency": 1900,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Daumen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich drücke dir die Daumen!",
+          "en": "Fingers crossed for you!"
+        },
+        {
+          "de": "Mein Daumen tut nach dem Klettern weh.",
+          "en": "My thumb hurts after climbing."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Er zeigt den ___ nach oben.",
+          "answer": "Daumen",
+          "en": "He gives a thumbs up."
+        }
+      ],
+      "notes": "'Ich drücke dir die Daumen' literally means 'I press my thumbs for you' — Germans press thumbs instead of crossing fingers.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "👍",
+      "imageable": true,
+      "tags": [
+        "body",
+        "idiom"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "finger",
+        "hand"
+      ]
+    },
+    {
+      "id": "brust",
+      "word": "die Brust",
+      "lemma": "Brust",
+      "translation": "chest",
+      "translations": [
+        "chest",
+        "breast"
+      ],
+      "level": "A2",
+      "category": "Body & Health",
+      "partOfSpeech": "noun",
+      "frequency": 1300,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Brüste",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich habe ein Ziehen in der Brust.",
+          "en": "I have a pulling feeling in my chest."
+        },
+        {
+          "de": "Beim tiefen Atmen tut mir die Brust weh.",
+          "en": "My chest hurts when I breathe deeply."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Arzt hört meine ___ mit dem Stethoskop ab.",
+          "answer": "Brust",
+          "en": "The doctor listens to my chest with the stethoscope."
+        }
+      ],
+      "notes": "Singular 'die Brust' = chest. The plural 'die Brüste' means breasts, so stick to the singular for the chest area.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": true,
+      "tags": [
+        "body"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "herz",
+        "lunge"
+      ]
+    },
+    {
+      "id": "bauch",
+      "word": "der Bauch",
+      "lemma": "Bauch",
+      "translation": "belly",
+      "translations": [
+        "belly",
+        "stomach",
+        "tummy"
+      ],
+      "level": "A1",
+      "category": "Body & Health",
+      "partOfSpeech": "noun",
+      "frequency": 730,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Bäuche",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Mein Bauch tut weh.",
+          "en": "My tummy hurts."
+        },
+        {
+          "de": "Nach dem Essen hat er einen vollen Bauch.",
+          "en": "After the meal he has a full stomach."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Das Baby schläft am liebsten auf dem ___.",
+          "answer": "Bauch",
+          "en": "The baby likes sleeping on its tummy best."
+        }
+      ],
+      "notes": "'der Bauch' is the outside belly, 'der Magen' is the organ inside.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": true,
+      "tags": [
+        "body"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "magen",
+        "bauchschmerz"
+      ]
+    },
+    {
+      "id": "ruecken",
+      "word": "der Rücken",
+      "lemma": "Rücken",
+      "translation": "back",
+      "translations": [
+        "back"
+      ],
+      "level": "A1",
+      "category": "Body & Health",
+      "partOfSpeech": "noun",
+      "frequency": 710,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Rücken",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Mein Rücken tut vom vielen Sitzen weh.",
+          "en": "My back hurts from sitting so much."
+        },
+        {
+          "de": "Sie liegt auf dem Rücken.",
+          "en": "She is lying on her back."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Heb schwere Kisten mit den Beinen, nicht mit dem ___!",
+          "answer": "Rücken",
+          "en": "Lift heavy boxes with your legs, not with your back!"
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "For back trouble the Hausarzt writes a Rezept for Physiotherapie — usually six sessions with a small co-payment, but expect a few weeks' wait for a slot.",
+      "emoji": null,
+      "imageable": true,
+      "tags": [
+        "body",
+        "office"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "rueckenschmerz",
+        "nacken"
+      ]
+    },
+    {
+      "id": "huefte",
+      "word": "die Hüfte",
+      "lemma": "Hüfte",
+      "translation": "hip",
+      "translations": [
+        "hip"
+      ],
+      "level": "A2",
+      "category": "Body & Health",
+      "partOfSpeech": "noun",
+      "frequency": 2000,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Hüften",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Meine Hüfte tut beim Laufen weh.",
+          "en": "My hip hurts when I run."
+        },
+        {
+          "de": "Sie hat die Hände in die Hüften gestemmt.",
+          "en": "She put her hands on her hips."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Meine Oma hat eine neue ___ bekommen.",
+          "answer": "Hüfte",
+          "en": "My grandma got a new hip."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": true,
+      "tags": [
+        "body"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "bein",
+        "ruecken"
+      ]
+    },
+    {
+      "id": "bein",
+      "word": "das Bein",
+      "lemma": "Bein",
+      "translation": "leg",
+      "translations": [
+        "leg"
+      ],
+      "level": "A1",
+      "category": "Body & Health",
+      "partOfSpeech": "noun",
+      "frequency": 670,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Beine",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Mein Bein ist eingeschlafen.",
+          "en": "My leg has gone to sleep."
+        },
+        {
+          "de": "Er hat sich beim Fußball das Bein gebrochen.",
+          "en": "He broke his leg playing football."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Nach dem langen Spaziergang tun mir die ___ weh.",
+          "answer": "Beine",
+          "en": "After the long walk my legs hurt."
+        }
+      ],
+      "notes": "'das Bein' is the whole leg; 'der Fuß' is only from the ankle down — Germans keep the two strictly apart.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🦵",
+      "imageable": true,
+      "tags": [
+        "body",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "fuss",
+        "knie",
+        "bruch"
+      ]
+    },
+    {
+      "id": "knie",
+      "word": "das Knie",
+      "lemma": "Knie",
+      "translation": "knee",
+      "translations": [
+        "knee"
+      ],
+      "level": "A2",
+      "category": "Body & Health",
+      "partOfSpeech": "noun",
+      "frequency": 1050,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Knie",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Mein Knie tut beim Treppensteigen weh.",
+          "en": "My knee hurts when I climb stairs."
+        },
+        {
+          "de": "Das Kind ist hingefallen und hat sich das Knie aufgeschlagen.",
+          "en": "The child fell over and cut its knee."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Beim Fahrradfahren habe ich mir das ___ verletzt.",
+          "answer": "Knie",
+          "en": "I hurt my knee cycling."
+        }
+      ],
+      "notes": "Singular and plural look the same: das Knie, die Knie.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": true,
+      "tags": [
+        "body"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "bein",
+        "verletzung"
+      ]
+    },
+    {
+      "id": "fuss",
+      "word": "der Fuß",
+      "lemma": "Fuß",
+      "translation": "foot",
+      "translations": [
+        "foot"
+      ],
+      "level": "A1",
+      "category": "Body & Health",
+      "partOfSpeech": "noun",
+      "frequency": 600,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Füße",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Meine Füße tun nach dem langen Tag weh.",
+          "en": "My feet hurt after the long day."
+        },
+        {
+          "de": "Wir gehen zu Fuß zum Supermarkt.",
+          "en": "We are walking to the supermarket."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich bin heute zu ___ zur Arbeit gegangen.",
+          "answer": "Fuß",
+          "en": "I walked to work today."
+        }
+      ],
+      "notes": "'zu Fuß gehen' = to walk / to go on foot. One of the most useful phrases in the language.",
+      "mnemonic": "FUSS ~ 'foot'.",
+      "germany_context": null,
+      "emoji": "🦶",
+      "imageable": true,
+      "tags": [
+        "body",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "bein",
+        "zeh"
+      ]
+    },
+    {
+      "id": "zeh",
+      "word": "der Zeh",
+      "lemma": "Zeh",
+      "translation": "toe",
+      "translations": [
+        "toe"
+      ],
+      "level": "A2",
+      "category": "Body & Health",
+      "partOfSpeech": "noun",
+      "frequency": 1850,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Zehen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich habe mir den kleinen Zeh gestoßen.",
+          "en": "I stubbed my little toe."
+        },
+        {
+          "de": "Im Sommer stehen meine Zehen im Sand.",
+          "en": "In summer my toes are in the sand."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Meine ___ sind im Winter immer kalt.",
+          "answer": "Zehen",
+          "en": "My toes are always cold in winter."
+        }
+      ],
+      "notes": "'die Zehe' (feminine) also exists; 'der Zeh' is the more common spoken form.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": true,
+      "tags": [
+        "body"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "fuss",
+        "finger"
+      ]
+    },
+    {
+      "id": "haut",
+      "word": "die Haut",
+      "lemma": "Haut",
+      "translation": "skin",
+      "translations": [
+        "skin"
+      ],
+      "level": "A2",
+      "category": "Body & Health",
+      "partOfSpeech": "noun",
+      "frequency": 1150,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Häute",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Im Winter ist meine Haut sehr trocken.",
+          "en": "In winter my skin is very dry."
+        },
+        {
+          "de": "Zu viel Sonne ist schlecht für die Haut.",
+          "en": "Too much sun is bad for your skin."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich habe einen roten Fleck auf der ___.",
+          "answer": "Haut",
+          "en": "I have a red spot on my skin."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "From the age of 35 the Krankenkasse pays for a skin-cancer screening (Hautkrebsscreening) every two years, but an appointment with a Hautarzt can take months — book early.",
+      "emoji": null,
+      "imageable": true,
+      "tags": [
+        "body"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "wunde",
+        "narbe"
+      ]
+    },
+    {
+      "id": "knochen",
+      "word": "der Knochen",
+      "lemma": "Knochen",
+      "translation": "bone",
+      "translations": [
+        "bone"
+      ],
+      "level": "A2",
+      "category": "Body & Health",
+      "partOfSpeech": "noun",
+      "frequency": 1600,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Knochen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Milch ist gut für die Knochen.",
+          "en": "Milk is good for your bones."
+        },
+        {
+          "de": "Der Hund hat einen Knochen bekommen.",
+          "en": "The dog got a bone."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Beim Sturz ist zum Glück kein ___ gebrochen.",
+          "answer": "Knochen",
+          "en": "Luckily no bone was broken in the fall."
+        }
+      ],
+      "notes": "Plural is identical to the singular.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🦴",
+      "imageable": true,
+      "tags": [
+        "body"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "bruch",
+        "muskel"
+      ]
+    },
+    {
+      "id": "muskel",
+      "word": "der Muskel",
+      "lemma": "Muskel",
+      "translation": "muscle",
+      "translations": [
+        "muscle"
+      ],
+      "level": "A2",
+      "category": "Body & Health",
+      "partOfSpeech": "noun",
+      "frequency": 1550,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Muskeln",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Nach dem Training tun mir alle Muskeln weh.",
+          "en": "After the workout all my muscles hurt."
+        },
+        {
+          "de": "Er trainiert seine Muskeln im Fitnessstudio.",
+          "en": "He trains his muscles at the gym."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich habe mir beim Sport einen ___ gezerrt.",
+          "answer": "Muskel",
+          "en": "I pulled a muscle doing sport."
+        }
+      ],
+      "notes": "Plural 'die Muskeln' (-n, no umlaut). Sore muscles after sport are 'Muskelkater'.",
+      "mnemonic": null,
+      "germany_context": "Fitnessstudio contracts in Germany usually run 12 to 24 months and renew automatically — you have to kündigen in writing before the notice period ends.",
+      "emoji": null,
+      "imageable": true,
+      "tags": [
+        "body",
+        "sport"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "knochen",
+        "koerper"
+      ]
+    },
+    {
+      "id": "herz",
+      "word": "das Herz",
+      "lemma": "Herz",
+      "translation": "heart",
+      "translations": [
+        "heart"
+      ],
+      "level": "A2",
+      "category": "Body & Health",
+      "partOfSpeech": "noun",
+      "frequency": 800,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Herzen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "des Herzens"
+      },
+      "example_sentences": [
+        {
+          "de": "Mein Herz schlägt ganz schnell.",
+          "en": "My heart is beating very fast."
+        },
+        {
+          "de": "Er hat ein gutes Herz.",
+          "en": "He has a good heart."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Beim Sport schlägt das ___ schneller.",
+          "answer": "Herz",
+          "en": "Your heart beats faster during exercise."
+        }
+      ],
+      "notes": "Irregular noun: Genitiv 'des Herzens', Dativ 'dem Herzen'.",
+      "mnemonic": "HERZ ~ 'heart'.",
+      "germany_context": null,
+      "emoji": "❤️",
+      "imageable": true,
+      "tags": [
+        "body",
+        "organs"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "blut",
+        "lunge"
+      ]
+    },
+    {
+      "id": "lunge",
+      "word": "die Lunge",
+      "lemma": "Lunge",
+      "translation": "lung",
+      "translations": [
+        "lung",
+        "lungs"
+      ],
+      "level": "A2",
+      "category": "Body & Health",
+      "partOfSpeech": "noun",
+      "frequency": 1950,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Lungen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Rauchen schadet der Lunge.",
+          "en": "Smoking damages your lungs."
+        },
+        {
+          "de": "Der Arzt hat meine Lunge abgehört.",
+          "en": "The doctor listened to my lungs."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Beim tiefen Atmen füllt sich die ___ mit Luft.",
+          "answer": "Lunge",
+          "en": "When you breathe deeply your lungs fill with air."
+        }
+      ],
+      "notes": "Germans usually say the singular 'die Lunge' where English says 'lungs'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🫁",
+      "imageable": true,
+      "tags": [
+        "body",
+        "organs"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "brust",
+        "husten-nomen"
+      ]
+    },
+    {
+      "id": "magen",
+      "word": "der Magen",
+      "lemma": "Magen",
+      "translation": "stomach",
+      "translations": [
+        "stomach"
+      ],
+      "level": "A2",
+      "category": "Body & Health",
+      "partOfSpeech": "noun",
+      "frequency": 1250,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Mägen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Mir tut der Magen weh.",
+          "en": "My stomach hurts."
+        },
+        {
+          "de": "Ich habe einen empfindlichen Magen.",
+          "en": "I have a sensitive stomach."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Nimm die Tablette nicht auf leeren ___.",
+          "answer": "Magen",
+          "en": "Don't take the tablet on an empty stomach."
+        }
+      ],
+      "notes": "'der Magen' is the organ; the belly you can see is 'der Bauch'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": true,
+      "tags": [
+        "body",
+        "organs"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "bauch",
+        "uebelkeit"
+      ]
+    },
+    {
+      "id": "leber",
+      "word": "die Leber",
+      "lemma": "Leber",
+      "translation": "liver",
+      "translations": [
+        "liver"
+      ],
+      "level": "A2",
+      "category": "Body & Health",
+      "partOfSpeech": "noun",
+      "frequency": 2300,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Lebern",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Zu viel Alkohol ist schlecht für die Leber.",
+          "en": "Too much alcohol is bad for your liver."
+        },
+        {
+          "de": "Die Leber sitzt rechts im Bauch.",
+          "en": "The liver sits on the right in your belly."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Arzt nimmt Blut, um die ___ zu kontrollieren.",
+          "answer": "Leber",
+          "en": "The doctor takes blood to check the liver."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": true,
+      "tags": [
+        "body",
+        "organs"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "niere",
+        "blut"
+      ]
+    },
+    {
+      "id": "niere",
+      "word": "die Niere",
+      "lemma": "Niere",
+      "translation": "kidney",
+      "translations": [
+        "kidney"
+      ],
+      "level": "A2",
+      "category": "Body & Health",
+      "partOfSpeech": "noun",
+      "frequency": 2400,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Nieren",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Mensch hat zwei Nieren.",
+          "en": "A human being has two kidneys."
+        },
+        {
+          "de": "Trink viel Wasser, das ist gut für die Nieren.",
+          "en": "Drink a lot of water, that's good for your kidneys."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Er hat Schmerzen an der linken ___.",
+          "answer": "Niere",
+          "en": "He has pain in his left kidney."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": true,
+      "tags": [
+        "body",
+        "organs"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "leber"
+      ]
+    },
+    {
+      "id": "gehirn",
+      "word": "das Gehirn",
+      "lemma": "Gehirn",
+      "translation": "brain",
+      "translations": [
+        "brain"
+      ],
+      "level": "A2",
+      "category": "Body & Health",
+      "partOfSpeech": "noun",
+      "frequency": 2050,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Gehirne",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Das Gehirn braucht regelmäßig Pausen.",
+          "en": "The brain needs regular breaks."
+        },
+        {
+          "de": "Schlaf ist wichtig für das Gehirn.",
+          "en": "Sleep is important for the brain."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Nach acht Stunden Arbeit ist mein ___ einfach müde.",
+          "answer": "Gehirn",
+          "en": "After eight hours of work my brain is simply tired."
+        }
+      ],
+      "notes": "Casually people also say 'der Kopf': 'Mein Kopf ist voll.'",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🧠",
+      "imageable": true,
+      "tags": [
+        "body",
+        "organs"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "kopf",
+        "muedigkeit"
+      ]
+    },
+    {
+      "id": "blut",
+      "word": "das Blut",
+      "lemma": "Blut",
+      "translation": "blood",
+      "translations": [
+        "blood"
+      ],
+      "level": "A1",
+      "category": "Body & Health",
+      "partOfSpeech": "noun",
+      "frequency": 1000,
+      "gender": "n",
+      "article": "das",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Bei der Untersuchung haben sie mir Blut abgenommen.",
+          "en": "At the check-up they took a blood sample."
+        },
+        {
+          "de": "An der Wunde ist noch Blut.",
+          "en": "There is still blood on the wound."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Arzt nimmt mir ___ aus dem Arm.",
+          "answer": "Blut",
+          "en": "The doctor takes blood from my arm."
+        }
+      ],
+      "notes": "No plural. 'Blut abnehmen' = to take a blood sample — you hear it at every check-up.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🩸",
+      "imageable": true,
+      "tags": [
+        "body",
+        "medical"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "bluten",
+        "herz",
+        "arzt"
+      ]
+    },
+    {
+      "id": "gesundheit",
+      "word": "die Gesundheit",
+      "lemma": "Gesundheit",
+      "translation": "health",
+      "translations": [
+        "health"
+      ],
+      "level": "A1",
+      "category": "Body & Health",
+      "partOfSpeech": "noun",
+      "frequency": 900,
+      "gender": "f",
+      "article": "die",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Gesundheit ist das Wichtigste.",
+          "en": "Health is the most important thing."
+        },
+        {
+          "de": "Er achtet sehr auf seine Gesundheit.",
+          "en": "He takes good care of his health."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Rauchen schadet der ___.",
+          "answer": "Gesundheit",
+          "en": "Smoking damages your health."
+        }
+      ],
+      "notes": "No plural.",
+      "mnemonic": "gesund + -heit → the state of being healthy. All -heit nouns are feminine.",
+      "germany_context": "When somebody sneezes, Germans say 'Gesundheit!' — the expected answer is 'Danke'. Not saying it can feel rude.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "health",
+        "abstract"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "gesund",
+        "krankheit"
+      ]
+    },
+    {
+      "id": "krankheit",
+      "word": "die Krankheit",
+      "lemma": "Krankheit",
+      "translation": "illness",
+      "translations": [
+        "illness",
+        "disease",
+        "sickness"
+      ],
+      "level": "A2",
+      "category": "Body & Health",
+      "partOfSpeech": "noun",
+      "frequency": 950,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Krankheiten",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Eine Erkältung ist keine schlimme Krankheit.",
+          "en": "A cold is not a serious illness."
+        },
+        {
+          "de": "Nach seiner Krankheit geht es ihm wieder gut.",
+          "en": "After his illness he is doing well again."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Die ___ hat fast drei Wochen gedauert.",
+          "answer": "Krankheit",
+          "en": "The illness lasted almost three weeks."
+        }
+      ],
+      "notes": null,
+      "mnemonic": "krank + -heit → sickness. -heit is always feminine.",
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "health",
+        "abstract"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "krank",
+        "gesundheit"
+      ]
+    },
+    {
+      "id": "schmerz",
+      "word": "der Schmerz",
+      "lemma": "Schmerz",
+      "translation": "pain",
+      "translations": [
+        "pain",
+        "ache"
+      ],
+      "level": "A1",
+      "category": "Body & Health",
+      "partOfSpeech": "noun",
+      "frequency": 820,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Schmerzen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich habe starke Schmerzen im Rücken.",
+          "en": "I have a lot of pain in my back."
+        },
+        {
+          "de": "Die Tablette nimmt den Schmerz weg.",
+          "en": "The tablet takes the pain away."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Seit wann haben Sie diese ___?",
+          "answer": "Schmerzen",
+          "en": "How long have you had this pain?"
+        }
+      ],
+      "notes": "In everyday German you nearly always hear the plural: 'Ich habe Schmerzen.' The doctor asks 'Wo haben Sie Schmerzen?'",
+      "mnemonic": null,
+      "germany_context": "At the practice you will be asked to rate pain from 1 to 10 ('Auf einer Skala von eins bis zehn'). Saying a clear number gets you taken seriously faster.",
+      "emoji": "😖",
+      "imageable": false,
+      "tags": [
+        "health",
+        "pain"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "wehtun",
+        "schmerzen",
+        "kopfschmerz"
+      ]
+    },
+    {
+      "id": "fieber",
+      "word": "das Fieber",
+      "lemma": "Fieber",
+      "translation": "fever",
+      "translations": [
+        "fever",
+        "temperature"
+      ],
+      "level": "A1",
+      "category": "Body & Health",
+      "partOfSpeech": "noun",
+      "frequency": 840,
+      "gender": "n",
+      "article": "das",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Das Kind hat Fieber.",
+          "en": "The child has a fever."
+        },
+        {
+          "de": "Ich messe kurz Fieber.",
+          "en": "I'll quickly take my temperature."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Sie hat 39 Grad ___.",
+          "answer": "Fieber",
+          "en": "She has a temperature of 39 degrees."
+        }
+      ],
+      "notes": "'Fieber messen' = to take someone's temperature. No plural.",
+      "mnemonic": "FIEBER ~ 'fever'.",
+      "germany_context": null,
+      "emoji": "🌡",
+      "imageable": false,
+      "tags": [
+        "health",
+        "symptom"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "grippe",
+        "erkaeltung",
+        "krank"
+      ]
+    },
+    {
+      "id": "husten-nomen",
+      "word": "der Husten",
+      "lemma": "Husten",
+      "translation": "cough",
+      "translations": [
+        "cough"
+      ],
+      "level": "A2",
+      "category": "Body & Health",
+      "partOfSpeech": "noun",
+      "frequency": 1150,
+      "gender": "m",
+      "article": "der",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich habe seit einer Woche Husten.",
+          "en": "I've had a cough for a week."
+        },
+        {
+          "de": "Der Husten wird nachts immer schlimmer.",
+          "en": "The cough always gets worse at night."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Gegen den ___ hilft heißer Tee mit Honig.",
+          "answer": "Husten",
+          "en": "Hot tea with honey helps against the cough."
+        }
+      ],
+      "notes": "The noun 'der Husten' and the verb 'husten' look identical: 'Ich habe Husten' = 'Ich huste'.",
+      "mnemonic": null,
+      "germany_context": "Hustensaft and throat lozenges are sold only in an Apotheke — dm and Rossmann are Drogerien and don't stock real medicine.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "health",
+        "symptom"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "husten",
+        "erkaeltung",
+        "hals"
+      ]
+    },
+    {
+      "id": "schnupfen",
+      "word": "der Schnupfen",
+      "lemma": "Schnupfen",
+      "translation": "runny nose",
+      "translations": [
+        "runny nose",
+        "head cold"
+      ],
+      "level": "A2",
+      "category": "Body & Health",
+      "partOfSpeech": "noun",
+      "frequency": 1350,
+      "gender": "m",
+      "article": "der",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich habe Schnupfen und Halsschmerzen.",
+          "en": "I have a runny nose and a sore throat."
+        },
+        {
+          "de": "Bei Schnupfen hilft frische Luft.",
+          "en": "Fresh air helps with a runny nose."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Mein Sohn hat einen leichten ___.",
+          "answer": "Schnupfen",
+          "en": "My son has a slight cold."
+        }
+      ],
+      "notes": "'Schnupfen' is only the blocked/runny nose; the whole cold is 'die Erkältung'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "health",
+        "symptom"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "nase",
+        "erkaeltung",
+        "niesen"
+      ]
+    },
+    {
+      "id": "erkaeltung",
+      "word": "die Erkältung",
+      "lemma": "Erkältung",
+      "translation": "cold",
+      "translations": [
+        "cold"
+      ],
+      "level": "A2",
+      "category": "Body & Health",
+      "partOfSpeech": "noun",
+      "frequency": 900,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Erkältungen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich habe eine Erkältung.",
+          "en": "I have a cold."
+        },
+        {
+          "de": "Die Erkältung dauert meistens eine Woche.",
+          "en": "The cold usually lasts a week."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Bei einer ___ soll man viel trinken.",
+          "answer": "Erkältung",
+          "en": "With a cold you should drink a lot."
+        }
+      ],
+      "notes": "'sich erkälten' = to catch a cold: 'Ich habe mich erkältet.' Don't confuse it with 'kalt'.",
+      "mnemonic": "ERKÄLTUNG comes from 'kalt' — the thing you get when you get cold.",
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "health",
+        "illness"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "schnupfen",
+        "husten-nomen",
+        "grippe"
+      ]
+    },
+    {
+      "id": "grippe",
+      "word": "die Grippe",
+      "lemma": "Grippe",
+      "translation": "flu",
+      "translations": [
+        "flu",
+        "influenza"
+      ],
+      "level": "A2",
+      "category": "Body & Health",
+      "partOfSpeech": "noun",
+      "frequency": 1200,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Grippen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Er liegt mit Grippe im Bett.",
+          "en": "He is in bed with the flu."
+        },
+        {
+          "de": "Die Grippe ist viel schlimmer als eine Erkältung.",
+          "en": "The flu is much worse than a cold."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich habe mich gegen die ___ impfen lassen.",
+          "answer": "Grippe",
+          "en": "I got vaccinated against the flu."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "From October your Hausarzt offers the Grippeimpfung. The Krankenkasse pays for it for over-60s, pregnant women, medical staff and people with chronic illness.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "health",
+        "illness"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "erkaeltung",
+        "fieber"
+      ]
+    },
+    {
+      "id": "allergie",
+      "word": "die Allergie",
+      "lemma": "Allergie",
+      "translation": "allergy",
+      "translations": [
+        "allergy"
+      ],
+      "level": "A2",
+      "category": "Body & Health",
+      "partOfSpeech": "noun",
+      "frequency": 1400,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Allergien",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich habe eine Allergie gegen Nüsse.",
+          "en": "I have a nut allergy."
+        },
+        {
+          "de": "Meine Allergie ist im Frühling am schlimmsten.",
+          "en": "My allergy is worst in spring."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Er hat eine ___ gegen Katzen.",
+          "answer": "Allergie",
+          "en": "He is allergic to cats."
+        }
+      ],
+      "notes": "Always 'Allergie gegen + Akkusativ'. The adjective is 'allergisch gegen'.",
+      "mnemonic": null,
+      "germany_context": "In a restaurant say 'Ich habe eine Allergie gegen …' — menus in Germany must list the 14 main allergens, usually as small numbers next to the dish.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "health",
+        "food"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "niesen",
+        "nase"
+      ]
+    },
+    {
+      "id": "kopfschmerz",
+      "word": "der Kopfschmerz",
+      "lemma": "Kopfschmerz",
+      "translation": "headache",
+      "translations": [
+        "headache"
+      ],
+      "level": "A1",
+      "category": "Body & Health",
+      "partOfSpeech": "noun",
+      "frequency": 760,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Kopfschmerzen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich habe Kopfschmerzen.",
+          "en": "I have a headache."
+        },
+        {
+          "de": "Gegen die Kopfschmerzen nehme ich eine Tablette.",
+          "en": "I'm taking a tablet for the headache."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Nach dem langen Tag am Bildschirm hatte ich ___.",
+          "answer": "Kopfschmerzen",
+          "en": "After the long day at the screen I had a headache."
+        }
+      ],
+      "notes": "Used almost only in the plural: 'Ich habe Kopfschmerzen.' The other natural pattern is 'Mein Kopf tut weh.'",
+      "mnemonic": "Kopf + Schmerz = head + pain.",
+      "germany_context": null,
+      "emoji": "🤕",
+      "imageable": false,
+      "tags": [
+        "health",
+        "pain",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "kopf",
+        "schmerz",
+        "wehtun"
+      ]
+    },
+    {
+      "id": "bauchschmerz",
+      "word": "der Bauchschmerz",
+      "lemma": "Bauchschmerz",
+      "translation": "stomach ache",
+      "translations": [
+        "stomach ache",
+        "belly ache"
+      ],
+      "level": "A2",
+      "category": "Body & Health",
+      "partOfSpeech": "noun",
+      "frequency": 1050,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Bauchschmerzen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Das Kind hat Bauchschmerzen.",
+          "en": "The child has a stomach ache."
+        },
+        {
+          "de": "Nach dem fetten Essen bekam ich Bauchschmerzen.",
+          "en": "After the greasy meal I got a stomach ache."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich kann nichts essen, ich habe ___.",
+          "answer": "Bauchschmerzen",
+          "en": "I can't eat anything, I have a stomach ache."
+        }
+      ],
+      "notes": "Like all -schmerzen words, used in the plural. Alternative: 'Mein Bauch tut weh.'",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "health",
+        "pain"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "bauch",
+        "magen",
+        "durchfall"
+      ]
+    },
+    {
+      "id": "halsschmerz",
+      "word": "der Halsschmerz",
+      "lemma": "Halsschmerz",
+      "translation": "sore throat",
+      "translations": [
+        "sore throat"
+      ],
+      "level": "A1",
+      "category": "Body & Health",
+      "partOfSpeech": "noun",
+      "frequency": 1080,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Halsschmerzen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich habe Halsschmerzen und kann kaum sprechen.",
+          "en": "I have a sore throat and can hardly speak."
+        },
+        {
+          "de": "Bei Halsschmerzen trinke ich Tee mit Honig.",
+          "en": "With a sore throat I drink tea with honey."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Seit gestern habe ich starke ___.",
+          "answer": "Halsschmerzen",
+          "en": "Since yesterday I've had a bad sore throat."
+        }
+      ],
+      "notes": "Plural only in practice. 'Mein Hals tut weh' means the same thing.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "health",
+        "pain"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "hals",
+        "erkaeltung"
+      ]
+    },
+    {
+      "id": "zahnschmerz",
+      "word": "der Zahnschmerz",
+      "lemma": "Zahnschmerz",
+      "translation": "toothache",
+      "translations": [
+        "toothache"
+      ],
+      "level": "A2",
+      "category": "Body & Health",
+      "partOfSpeech": "noun",
+      "frequency": 1250,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Zahnschmerzen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich habe Zahnschmerzen und muss zum Zahnarzt.",
+          "en": "I have toothache and need to see the dentist."
+        },
+        {
+          "de": "Die Zahnschmerzen sind nachts am schlimmsten.",
+          "en": "The toothache is worst at night."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Gegen ___ hilft auf Dauer nur der Zahnarzt.",
+          "answer": "Zahnschmerzen",
+          "en": "In the long run only the dentist helps against toothache."
+        }
+      ],
+      "notes": "Used in the plural. 'Mein Zahn tut weh' is the other natural pattern.",
+      "mnemonic": null,
+      "germany_context": "Most Zahnarztpraxen keep slots free for acute pain. Call right at 8:00 and say 'Ich habe akute Zahnschmerzen' — you usually get seen the same day.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "health",
+        "pain"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "zahn",
+        "arzt"
+      ]
+    },
+    {
+      "id": "rueckenschmerz",
+      "word": "der Rückenschmerz",
+      "lemma": "Rückenschmerz",
+      "translation": "back pain",
+      "translations": [
+        "back pain",
+        "backache"
+      ],
+      "level": "A2",
+      "category": "Body & Health",
+      "partOfSpeech": "noun",
+      "frequency": 1150,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Rückenschmerzen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Viele Leute im Büro haben Rückenschmerzen.",
+          "en": "Many people in the office have back pain."
+        },
+        {
+          "de": "Meine Rückenschmerzen kommen vom langen Sitzen.",
+          "en": "My back pain comes from sitting for a long time."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Seit dem Umzug habe ich ___.",
+          "answer": "Rückenschmerzen",
+          "en": "Since the move I've had back pain."
+        }
+      ],
+      "notes": "Plural in everyday use, like all -schmerzen compounds.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "health",
+        "pain",
+        "office"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "ruecken",
+        "nacken"
+      ]
+    },
+    {
+      "id": "uebelkeit",
+      "word": "die Übelkeit",
+      "lemma": "Übelkeit",
+      "translation": "nausea",
+      "translations": [
+        "nausea",
+        "queasiness"
+      ],
+      "level": "A2",
+      "category": "Body & Health",
+      "partOfSpeech": "noun",
+      "frequency": 1700,
+      "gender": "f",
+      "article": "die",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich habe seit dem Frühstück Übelkeit.",
+          "en": "I've felt nauseous since breakfast."
+        },
+        {
+          "de": "Die Übelkeit kam ganz plötzlich.",
+          "en": "The nausea came very suddenly."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Gegen ___ hilft frische Luft.",
+          "answer": "Übelkeit",
+          "en": "Fresh air helps against nausea."
+        }
+      ],
+      "notes": "In conversation people much more often say 'Mir ist schlecht' or 'Mir ist übel'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🤢",
+      "imageable": false,
+      "tags": [
+        "health",
+        "symptom"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "magen",
+        "uebergeben",
+        "durchfall"
+      ]
+    },
+    {
+      "id": "durchfall",
+      "word": "der Durchfall",
+      "lemma": "Durchfall",
+      "translation": "diarrhoea",
+      "translations": [
+        "diarrhoea",
+        "diarrhea"
+      ],
+      "level": "A2",
+      "category": "Body & Health",
+      "partOfSpeech": "noun",
+      "frequency": 1600,
+      "gender": "m",
+      "article": "der",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich habe seit gestern Durchfall.",
+          "en": "I've had diarrhoea since yesterday."
+        },
+        {
+          "de": "Bei Durchfall soll man viel trinken.",
+          "en": "With diarrhoea you should drink a lot."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Das Essen war schlecht, jetzt hat er ___.",
+          "answer": "Durchfall",
+          "en": "The food was bad, now he has diarrhoea."
+        }
+      ],
+      "notes": "Literally 'fall-through'. Used without an article: 'Ich habe Durchfall.'",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "health",
+        "symptom"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "bauchschmerz",
+        "magen"
+      ]
+    },
+    {
+      "id": "verletzung",
+      "word": "die Verletzung",
+      "lemma": "Verletzung",
+      "translation": "injury",
+      "translations": [
+        "injury"
+      ],
+      "level": "A2",
+      "category": "Body & Health",
+      "partOfSpeech": "noun",
+      "frequency": 1500,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Verletzungen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Verletzung am Knie ist nicht schlimm.",
+          "en": "The injury to the knee is not serious."
+        },
+        {
+          "de": "Er kann wegen einer Verletzung nicht Fußball spielen.",
+          "en": "He can't play football because of an injury."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Nach dem Unfall hatte sie eine kleine ___ am Arm.",
+          "answer": "Verletzung",
+          "en": "After the accident she had a small injury on her arm."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "health",
+        "injury"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "verletzen",
+        "wunde",
+        "bruch"
+      ]
+    },
+    {
+      "id": "wunde",
+      "word": "die Wunde",
+      "lemma": "Wunde",
+      "translation": "wound",
+      "translations": [
+        "wound",
+        "cut"
+      ],
+      "level": "A2",
+      "category": "Body & Health",
+      "partOfSpeech": "noun",
+      "frequency": 1450,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Wunden",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Wunde blutet noch ein bisschen.",
+          "en": "The wound is still bleeding a little."
+        },
+        {
+          "de": "Ich habe ein Pflaster auf die Wunde geklebt.",
+          "en": "I put a plaster on the wound."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wasch die ___ bitte mit klarem Wasser aus.",
+          "answer": "Wunde",
+          "en": "Please rinse the wound with clean water."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "For a deep cut go to the Notaufnahme or a practice with open Sprechstunde, and know your Tetanus-Impfung date — German doctors ask every single time.",
+      "emoji": "🩹",
+      "imageable": true,
+      "tags": [
+        "health",
+        "injury"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "bluten",
+        "narbe",
+        "verletzung"
+      ]
+    },
+    {
+      "id": "bruch",
+      "word": "der Bruch",
+      "lemma": "Bruch",
+      "translation": "fracture",
+      "translations": [
+        "fracture",
+        "break"
+      ],
+      "level": "A2",
+      "category": "Body & Health",
+      "partOfSpeech": "noun",
+      "frequency": 1900,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Brüche",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Arzt sagt, es ist ein Bruch.",
+          "en": "The doctor says it's a fracture."
+        },
+        {
+          "de": "Nach dem Bruch trägt er sechs Wochen einen Gips.",
+          "en": "After the fracture he wears a cast for six weeks."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Das Röntgenbild zeigt einen ___ im Arm.",
+          "answer": "Bruch",
+          "en": "The X-ray shows a fracture in the arm."
+        }
+      ],
+      "notes": "'sich etwas brechen' is the verb: 'Ich habe mir den Arm gebrochen.'",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "health",
+        "injury"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "knochen",
+        "verletzung",
+        "krankenhaus"
+      ]
+    },
+    {
+      "id": "narbe",
+      "word": "die Narbe",
+      "lemma": "Narbe",
+      "translation": "scar",
+      "translations": [
+        "scar"
+      ],
+      "level": "A2",
+      "category": "Body & Health",
+      "partOfSpeech": "noun",
+      "frequency": 2200,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Narben",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Von der Operation ist eine kleine Narbe geblieben.",
+          "en": "A small scar was left from the operation."
+        },
+        {
+          "de": "Er hat eine Narbe am Kinn.",
+          "en": "He has a scar on his chin."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Die ___ sieht man fast nicht mehr.",
+          "answer": "Narbe",
+          "en": "You can hardly see the scar any more."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": true,
+      "tags": [
+        "health",
+        "injury"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "wunde",
+        "haut",
+        "heilen"
+      ]
+    },
+    {
+      "id": "muedigkeit",
+      "word": "die Müdigkeit",
+      "lemma": "Müdigkeit",
+      "translation": "tiredness",
+      "translations": [
+        "tiredness",
+        "fatigue"
+      ],
+      "level": "A2",
+      "category": "Body & Health",
+      "partOfSpeech": "noun",
+      "frequency": 1800,
+      "gender": "f",
+      "article": "die",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Müdigkeit kommt vom wenigen Schlaf.",
+          "en": "The tiredness comes from too little sleep."
+        },
+        {
+          "de": "Gegen die Müdigkeit trinke ich einen Kaffee.",
+          "en": "I drink a coffee against the tiredness."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Nach dem Mittagessen kommt oft die große ___.",
+          "answer": "Müdigkeit",
+          "en": "After lunch the big tiredness often kicks in."
+        }
+      ],
+      "notes": "From the adjective 'müde'. No plural.",
+      "mnemonic": "müde + -keit → tiredness; -keit nouns are feminine.",
+      "germany_context": null,
+      "emoji": "😴",
+      "imageable": false,
+      "tags": [
+        "health",
+        "symptom"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "muede",
+        "erholen"
+      ]
+    },
+    {
+      "id": "schmerzen",
+      "word": "schmerzen",
+      "lemma": "schmerzen",
+      "translation": "to hurt",
+      "translations": [
+        "to hurt",
+        "to be painful"
+      ],
+      "level": "A2",
+      "category": "Body & Health",
+      "partOfSpeech": "verb",
+      "frequency": 1650,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "schmerze",
+        "du": "schmerzt",
+        "er": "schmerzt",
+        "wir": "schmerzen",
+        "ihr": "schmerzt",
+        "sie": "schmerzen",
+        "praeteritum": "schmerzte",
+        "perfekt": "hat geschmerzt",
+        "imperativ": "—"
+      },
+      "example_sentences": [
+        {
+          "de": "Meine Schulter schmerzt seit Tagen.",
+          "en": "My shoulder has been hurting for days."
+        },
+        {
+          "de": "Der Rücken schmerzt beim Aufstehen.",
+          "en": "My back hurts when I get up."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Die Wunde ___ noch ein bisschen.",
+          "answer": "schmerzt",
+          "en": "The wound still hurts a little."
+        }
+      ],
+      "notes": "More formal than 'wehtun' — you read it on leaflets and hear it from doctors, while in conversation Germans say 'Mein Rücken tut weh'. No imperative.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "health",
+        "pain"
+      ],
+      "synonyms": [
+        "wehtun"
+      ],
+      "antonyms": [],
+      "related": [
+        "schmerz",
+        "wehtun"
+      ]
+    },
+    {
+      "id": "bluten",
+      "word": "bluten",
+      "lemma": "bluten",
+      "translation": "to bleed",
+      "translations": [
+        "to bleed"
+      ],
+      "level": "A2",
+      "category": "Body & Health",
+      "partOfSpeech": "verb",
+      "frequency": 1500,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "blute",
+        "du": "blutest",
+        "er": "blutet",
+        "wir": "bluten",
+        "ihr": "blutet",
+        "sie": "bluten",
+        "praeteritum": "blutete",
+        "perfekt": "hat geblutet",
+        "imperativ": "blute!"
+      },
+      "example_sentences": [
+        {
+          "de": "Meine Nase blutet.",
+          "en": "My nose is bleeding."
+        },
+        {
+          "de": "Die Wunde hat ziemlich lange geblutet.",
+          "en": "The wound bled for quite a long time."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Mein Finger ___ schon seit fünf Minuten.",
+          "answer": "blutet",
+          "en": "My finger has been bleeding for five minutes."
+        }
+      ],
+      "notes": "Regular verb with an extra -e- in 'du blutest, er blutet' because the stem ends in -t.",
+      "mnemonic": "BLUT (blood) → bluten.",
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "health",
+        "injury"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "blut",
+        "wunde",
+        "nase"
+      ]
+    },
+    {
+      "id": "husten",
+      "word": "husten",
+      "lemma": "husten",
+      "translation": "to cough",
+      "translations": [
+        "to cough"
+      ],
+      "level": "A1",
+      "category": "Body & Health",
+      "partOfSpeech": "verb",
+      "frequency": 1100,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "huste",
+        "du": "hustest",
+        "er": "hustet",
+        "wir": "husten",
+        "ihr": "hustet",
+        "sie": "husten",
+        "praeteritum": "hustete",
+        "perfekt": "hat gehustet",
+        "imperativ": "huste!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich huste seit drei Tagen.",
+          "en": "I've been coughing for three days."
+        },
+        {
+          "de": "Er hustet die ganze Nacht.",
+          "en": "He coughs all night long."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Bitte ___ Sie in die Armbeuge!",
+          "answer": "husten",
+          "en": "Please cough into your elbow!"
+        }
+      ],
+      "notes": "Verb and noun look identical: 'Ich huste' = 'Ich habe Husten'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "health",
+        "symptom"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "husten-nomen",
+        "niesen",
+        "erkaeltung"
+      ]
+    },
+    {
+      "id": "niesen",
+      "word": "niesen",
+      "lemma": "niesen",
+      "translation": "to sneeze",
+      "translations": [
+        "to sneeze"
+      ],
+      "level": "A2",
+      "category": "Body & Health",
+      "partOfSpeech": "verb",
+      "frequency": 1700,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "niese",
+        "du": "niest",
+        "er": "niest",
+        "wir": "niesen",
+        "ihr": "niest",
+        "sie": "niesen",
+        "praeteritum": "nieste",
+        "perfekt": "hat geniest",
+        "imperativ": "nies!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich muss dauernd niesen.",
+          "en": "I keep having to sneeze."
+        },
+        {
+          "de": "Sie hat ganz laut geniest.",
+          "en": "She sneezed very loudly."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wenn im Frühling die Pollen fliegen, ___ ich ständig.",
+          "answer": "niese",
+          "en": "When the pollen flies in spring I sneeze constantly."
+        }
+      ],
+      "notes": "Don't mix it up with 'genießen' (to enjoy).",
+      "mnemonic": null,
+      "germany_context": "When you sneeze, strangers on the bus will say 'Gesundheit!'. The polite answer is a simple 'Danke'.",
+      "emoji": "🤧",
+      "imageable": false,
+      "tags": [
+        "health",
+        "symptom"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "schnupfen",
+        "allergie",
+        "husten"
+      ]
+    },
+    {
+      "id": "uebergeben",
+      "word": "sich übergeben",
+      "lemma": "übergeben",
+      "translation": "to vomit",
+      "translations": [
+        "to vomit",
+        "to throw up"
+      ],
+      "level": "A2",
+      "category": "Body & Health",
+      "partOfSpeech": "verb",
+      "frequency": 1950,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": true,
+      "cases": [],
+      "forms": {
+        "ich": "übergebe mich",
+        "du": "übergibst dich",
+        "er": "übergibt sich",
+        "wir": "übergeben uns",
+        "ihr": "übergebt euch",
+        "sie": "übergeben sich",
+        "praeteritum": "übergab sich",
+        "perfekt": "hat sich übergeben",
+        "imperativ": "—"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich habe mich heute Nacht übergeben.",
+          "en": "I threw up last night."
+        },
+        {
+          "de": "Dem Kind war schlecht, es hat sich übergeben.",
+          "en": "The child felt sick and threw up."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wenn du dich noch einmal ___, ruf bitte den Arzt an.",
+          "answer": "übergibst",
+          "en": "If you throw up again, please call the doctor."
+        }
+      ],
+      "notes": "The neutral, polite word. Irregular like 'geben': du übergibst dich, er übergibt sich. 'kotzen' is the rude version.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "health",
+        "symptom",
+        "reflexive"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "uebelkeit",
+        "magen"
+      ]
+    },
+    {
+      "id": "erholen",
+      "word": "sich erholen",
+      "lemma": "erholen",
+      "translation": "to recover",
+      "translations": [
+        "to recover",
+        "to rest"
+      ],
+      "level": "A2",
+      "category": "Body & Health",
+      "partOfSpeech": "verb",
+      "frequency": 1300,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": true,
+      "cases": [],
+      "forms": {
+        "ich": "erhole mich",
+        "du": "erholst dich",
+        "er": "erholt sich",
+        "wir": "erholen uns",
+        "ihr": "erholt euch",
+        "sie": "erholen sich",
+        "praeteritum": "erholte sich",
+        "perfekt": "hat sich erholt",
+        "imperativ": "erhol dich gut!"
+      },
+      "example_sentences": [
+        {
+          "de": "Nach der Grippe muss ich mich erst erholen.",
+          "en": "After the flu I need to recover first."
+        },
+        {
+          "de": "Im Urlaub erholen wir uns am besten.",
+          "en": "We recover best on holiday."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Er ___ sich langsam von der Operation.",
+          "answer": "erholt",
+          "en": "He is slowly recovering from the operation."
+        }
+      ],
+      "notes": "'sich erholen von + Dativ'. 'Erhol dich gut!' is what you write to a sick colleague, together with 'Gute Besserung!'",
+      "mnemonic": null,
+      "germany_context": "A German Krankschreibung means rest, not home office. Working while signed off can cost you your insurance cover if something happens.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "health",
+        "reflexive"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "muedigkeit",
+        "krank",
+        "heilen"
+      ]
+    },
+    {
+      "id": "heilen",
+      "word": "heilen",
+      "lemma": "heilen",
+      "translation": "to heal",
+      "translations": [
+        "to heal",
+        "to cure"
+      ],
+      "level": "A2",
+      "category": "Body & Health",
+      "partOfSpeech": "verb",
+      "frequency": 1750,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "sein",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "heile",
+        "du": "heilst",
+        "er": "heilt",
+        "wir": "heilen",
+        "ihr": "heilt",
+        "sie": "heilen",
+        "praeteritum": "heilte",
+        "perfekt": "ist geheilt",
+        "imperativ": "—"
+      },
+      "example_sentences": [
+        {
+          "de": "Die Wunde ist gut geheilt.",
+          "en": "The wound has healed well."
+        },
+        {
+          "de": "Der Bruch heilt in etwa sechs Wochen.",
+          "en": "The fracture heals in about six weeks."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Kleine Verletzungen ___ meistens von allein.",
+          "answer": "heilen",
+          "en": "Small injuries usually heal on their own."
+        }
+      ],
+      "notes": "Intransitive ('the wound heals') takes 'sein': 'Die Wunde ist geheilt.' Transitive ('to cure somebody') takes 'haben': 'Der Arzt hat ihn geheilt.'",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "health"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "wunde",
+        "narbe",
+        "erholen"
+      ]
+    },
+    {
+      "id": "tablette",
+      "word": "die Tablette",
+      "lemma": "Tablette",
+      "translation": "tablet",
+      "translations": [
+        "tablet",
+        "pill"
+      ],
+      "level": "A1",
+      "category": "Body & Health",
+      "partOfSpeech": "noun",
+      "frequency": 1000,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Tabletten",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich nehme zweimal am Tag eine Tablette.",
+          "en": "I take a tablet twice a day."
+        },
+        {
+          "de": "Hast du eine Tablette gegen Kopfschmerzen?",
+          "en": "Do you have a tablet for a headache?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Nimm die ___ am besten nach dem Essen.",
+          "answer": "Tablette",
+          "en": "It's best to take the tablet after a meal."
+        }
+      ],
+      "notes": "'eine Tablette nehmen' — never 'essen' or 'trinken'.",
+      "mnemonic": null,
+      "germany_context": "Painkillers like Ibuprofen and Paracetamol are sold only in an Apotheke, in small packs, and the pharmacist will ask what you need them for.",
+      "emoji": null,
+      "imageable": true,
+      "tags": [
+        "health",
+        "medical"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "medikament",
+        "apotheke",
+        "kopfschmerz"
+      ]
+    },
+    {
+      "id": "pflaster",
+      "word": "das Pflaster",
+      "lemma": "Pflaster",
+      "translation": "plaster",
+      "translations": [
+        "plaster",
+        "band-aid"
+      ],
+      "level": "A2",
+      "category": "Body & Health",
+      "partOfSpeech": "noun",
+      "frequency": 1750,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Pflaster",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich brauche ein Pflaster für den Finger.",
+          "en": "I need a plaster for my finger."
+        },
+        {
+          "de": "Sie klebt dem Kind ein Pflaster aufs Knie.",
+          "en": "She sticks a plaster on the child's knee."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Hast du zufällig ein ___ dabei?",
+          "answer": "Pflaster",
+          "en": "Do you happen to have a plaster with you?"
+        }
+      ],
+      "notes": "'das Pflaster' is also the paving of a street, but in everyday talk it means a sticking plaster.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🩹",
+      "imageable": true,
+      "tags": [
+        "health",
+        "injury"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "wunde",
+        "verletzung",
+        "apotheke"
+      ]
+    },
+    {
+      "id": "krankschreibung",
+      "word": "die Krankschreibung",
+      "lemma": "Krankschreibung",
+      "translation": "sick note",
+      "translations": [
+        "sick note",
+        "doctor's note"
+      ],
+      "level": "A2",
+      "category": "Body & Health",
+      "partOfSpeech": "noun",
+      "frequency": 1500,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Krankschreibungen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich brauche eine Krankschreibung für meinen Chef.",
+          "en": "I need a sick note for my boss."
+        },
+        {
+          "de": "Der Arzt hat mir eine Krankschreibung für drei Tage gegeben.",
+          "en": "The doctor gave me a sick note for three days."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ohne ___ darf ich nicht zu Hause bleiben.",
+          "answer": "Krankschreibung",
+          "en": "Without a sick note I'm not allowed to stay at home."
+        }
+      ],
+      "notes": "Officially 'Arbeitsunfähigkeitsbescheinigung (AU)', but everybody says 'Krankschreibung' or 'der gelbe Schein'.",
+      "mnemonic": null,
+      "germany_context": "Call your employer on the first morning you are ill. Many contracts want a Krankschreibung from day one, otherwise from day four. Since 2023 the practice sends it to the Krankenkasse electronically (eAU), but you still notify your employer yourself.",
+      "emoji": "📄",
+      "imageable": false,
+      "tags": [
+        "health",
+        "work",
+        "bureaucracy"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "krank",
+        "arzt",
+        "krankenkasse"
+      ]
+    },
+    {
+      "id": "arzt",
+      "word": "der Arzt",
+      "lemma": "Arzt",
+      "translation": "doctor",
+      "translations": [
+        "doctor",
+        "physician"
+      ],
+      "level": "A0",
+      "category": "Body & Health",
+      "partOfSpeech": "noun",
+      "frequency": 430,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Ärzte",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich muss zum Arzt.",
+          "en": "I have to go to the doctor."
+        },
+        {
+          "de": "Der Arzt hat morgen noch einen Termin frei.",
+          "en": "The doctor still has an appointment free tomorrow."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wenn das Fieber bleibt, geh bitte zum ___.",
+          "answer": "Arzt",
+          "en": "If the fever stays, please go to the doctor."
+        }
+      ],
+      "notes": "Female form: 'die Ärztin'. 'zum Arzt gehen' = to go to the doctor (dative).",
+      "mnemonic": null,
+      "germany_context": "Register with a Hausarzt near you: they are your first stop and write the Überweisung you need for most Fachärzte. Always phone for a Termin. Outside opening hours call 116117, and 112 only in a real emergency.",
+      "emoji": "👨‍⚕️",
+      "imageable": true,
+      "tags": [
+        "health",
+        "medical",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "krankenhaus",
+        "krankenkasse",
+        "medikament"
+      ]
+    },
+    {
+      "id": "apotheke",
+      "word": "die Apotheke",
+      "lemma": "Apotheke",
+      "translation": "pharmacy",
+      "translations": [
+        "pharmacy",
+        "chemist's"
+      ],
+      "level": "A0",
+      "category": "Body & Health",
+      "partOfSpeech": "noun",
+      "frequency": 680,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Apotheken",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Wo ist die nächste Apotheke?",
+          "en": "Where is the nearest pharmacy?"
+        },
+        {
+          "de": "Ich hole das Medikament in der Apotheke.",
+          "en": "I'll pick up the medicine at the pharmacy."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Die ___ am Bahnhof hat bis 20 Uhr offen.",
+          "answer": "Apotheke",
+          "en": "The pharmacy at the station is open until 8 p.m."
+        }
+      ],
+      "notes": "False friend alert: a 'Drogerie' (dm, Rossmann) sells shampoo and vitamins, not medicine.",
+      "mnemonic": null,
+      "germany_context": "Only an Apotheke may sell medicine — even ibuprofen is behind the counter. At night and on Sundays one pharmacy in the area has Notdienst; the rota hangs on every pharmacy door and is online at aponet.de.",
+      "emoji": "⚕️",
+      "imageable": true,
+      "tags": [
+        "health",
+        "medical",
+        "shopping",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "medikament",
+        "arzt"
+      ]
+    },
+    {
+      "id": "medikament",
+      "word": "das Medikament",
+      "lemma": "Medikament",
+      "translation": "medicine",
+      "translations": [
+        "medicine",
+        "medication",
+        "drug"
+      ],
+      "level": "A2",
+      "category": "Body & Health",
+      "partOfSpeech": "noun",
+      "frequency": 940,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Medikamente",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Nehmen Sie das Medikament zweimal am Tag.",
+          "en": "Take the medicine twice a day."
+        },
+        {
+          "de": "Für dieses Medikament brauchst du ein Rezept.",
+          "en": "You need a prescription for this medicine."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich habe das ___ in der Apotheke abgeholt.",
+          "answer": "Medikament",
+          "en": "I picked up the medicine at the pharmacy."
+        }
+      ],
+      "notes": "Everyday alternatives: 'die Tablette' (pill) and, more casually, 'die Medizin'.",
+      "mnemonic": null,
+      "germany_context": "On prescription you pay a fixed Zuzahlung of 5-10 € per item if you are gesetzlich versichert. Bring your eGK health card to the Apotheke — since 2024 the Rezept is usually stored on it.",
+      "emoji": "💊",
+      "imageable": true,
+      "tags": [
+        "health",
+        "medical"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "apotheke",
+        "arzt",
+        "krankenkasse"
+      ]
+    },
+    {
+      "id": "krankenkasse",
+      "word": "die Krankenkasse",
+      "lemma": "Krankenkasse",
+      "translation": "health insurance",
+      "translations": [
+        "health insurance",
+        "health insurer"
+      ],
+      "level": "A2",
+      "category": "Body & Health",
+      "partOfSpeech": "noun",
+      "frequency": 870,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Krankenkassen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Welche Krankenkasse hast du?",
+          "en": "Which health insurance do you have?"
+        },
+        {
+          "de": "Die Krankenkasse bezahlt die Behandlung.",
+          "en": "The health insurance pays for the treatment."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich habe letztes Jahr meine ___ gewechselt.",
+          "answer": "Krankenkasse",
+          "en": "I changed my health insurance last year."
+        }
+      ],
+      "notes": "'gesetzlich versichert' = publicly insured, 'privat versichert' = privately insured.",
+      "mnemonic": null,
+      "germany_context": "Health insurance is compulsory in Germany. Most employees join a gesetzliche Krankenkasse (TK, AOK, Barmer, DAK); the contribution is taken straight from your salary and you get a chip card (eGK) that you hand over at every practice.",
+      "emoji": "🪪",
+      "imageable": false,
+      "tags": [
+        "health",
+        "bureaucracy",
+        "moving"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "arzt",
+        "krankenhaus",
+        "medikament"
+      ]
+    },
+    {
+      "id": "krankenhaus",
+      "word": "das Krankenhaus",
+      "lemma": "Krankenhaus",
+      "translation": "hospital",
+      "translations": [
+        "hospital"
+      ],
+      "level": "A1",
+      "category": "Body & Health",
+      "partOfSpeech": "noun",
+      "frequency": 780,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Krankenhäuser",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Er liegt seit Montag im Krankenhaus.",
+          "en": "He has been in hospital since Monday."
+        },
+        {
+          "de": "Das Krankenhaus ist nicht weit von hier.",
+          "en": "The hospital is not far from here."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Nach dem Unfall haben sie ihn ins ___ gebracht.",
+          "answer": "Krankenhaus",
+          "en": "After the accident they took him to hospital."
+        }
+      ],
+      "notes": "Also 'die Klinik'. The emergency department is 'die Notaufnahme'.",
+      "mnemonic": "krank + Haus → sick-house = hospital.",
+      "germany_context": "In an emergency call 112 — free from any phone, no area code — or go straight to the Notaufnahme. For things that can wait until tomorrow, 116117 is the after-hours doctor line.",
+      "emoji": "🏥",
+      "imageable": true,
+      "tags": [
+        "health",
+        "medical",
+        "emergency"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "arzt",
+        "bruch",
+        "krankenkasse"
+      ]
+    }
+  ]
+}

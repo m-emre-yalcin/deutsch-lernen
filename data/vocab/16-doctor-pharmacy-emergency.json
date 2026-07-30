@@ -1,0 +1,4111 @@
+{
+  "category": "Doctor, Pharmacy & Emergency",
+  "words": [
+    {
+      "id": "aerztin",
+      "word": "die Ärztin",
+      "lemma": "Ärztin",
+      "translation": "doctor (female)",
+      "translations": [
+        "doctor (female)",
+        "female physician"
+      ],
+      "level": "A1",
+      "category": "Doctor, Pharmacy & Emergency",
+      "partOfSpeech": "noun",
+      "frequency": 420,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Ärztinnen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Meine Ärztin ist sehr nett.",
+          "en": "My doctor is very nice."
+        },
+        {
+          "de": "Ich habe morgen einen Termin bei der Ärztin.",
+          "en": "I have an appointment with the doctor tomorrow."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Die ___ untersucht gerade ein Kind.",
+          "answer": "Ärztin",
+          "en": "The doctor is examining a child right now."
+        }
+      ],
+      "notes": "Female job titles add -in: Arzt → Ärztin, Lehrer → Lehrerin.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "👩‍⚕️",
+      "imageable": true,
+      "tags": [
+        "health",
+        "doctor",
+        "job"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "arzt"
+      ]
+    },
+    {
+      "id": "hausarzt",
+      "word": "der Hausarzt",
+      "lemma": "Hausarzt",
+      "translation": "general practitioner",
+      "translations": [
+        "general practitioner",
+        "family doctor"
+      ],
+      "level": "A1",
+      "category": "Doctor, Pharmacy & Emergency",
+      "partOfSpeech": "noun",
+      "frequency": 610,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Hausärzte",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich suche einen neuen Hausarzt.",
+          "en": "I am looking for a new general practitioner."
+        },
+        {
+          "de": "Mein Hausarzt hat mich ins Krankenhaus geschickt.",
+          "en": "My GP sent me to the hospital."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Geh mit dem Husten zuerst zu deinem ___.",
+          "answer": "Hausarzt",
+          "en": "With that cough, go to your GP first."
+        }
+      ],
+      "notes": "Female: die Hausärztin. Everyday word for your family doctor.",
+      "mnemonic": null,
+      "germany_context": "The Hausarzt is your entry point into the system: everyday illnesses, the Krankschreibung and referrals all go through him. Register with one near your flat soon after you arrive, because many practices take no new patients.",
+      "emoji": "🩺",
+      "imageable": true,
+      "tags": [
+        "health",
+        "doctor",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "arzt",
+        "facharzt",
+        "ueberweisung"
+      ]
+    },
+    {
+      "id": "facharzt",
+      "word": "der Facharzt",
+      "lemma": "Facharzt",
+      "translation": "specialist",
+      "translations": [
+        "specialist",
+        "specialist doctor"
+      ],
+      "level": "A2",
+      "category": "Doctor, Pharmacy & Emergency",
+      "partOfSpeech": "noun",
+      "frequency": 1180,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Fachärzte",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Für einen Facharzt brauchst du eine Überweisung.",
+          "en": "For a specialist you need a referral."
+        },
+        {
+          "de": "Der Facharzt hat erst in drei Monaten einen Termin frei.",
+          "en": "The specialist has no free appointment for three months."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Mein Hausarzt schickt mich zu einem ___.",
+          "answer": "Facharzt",
+          "en": "My GP is sending me to a specialist."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Specialists (Hautarzt, Orthopäde, Neurologe) normally want an Überweisung from your Hausarzt, and waiting times of six to twelve weeks are normal. Call 116117 to let the Terminservicestelle find you a faster appointment.",
+      "emoji": "👨‍⚕️",
+      "imageable": true,
+      "tags": [
+        "health",
+        "doctor"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "hausarzt",
+        "ueberweisung"
+      ]
+    },
+    {
+      "id": "zahnarzt",
+      "word": "der Zahnarzt",
+      "lemma": "Zahnarzt",
+      "translation": "dentist",
+      "translations": [
+        "dentist"
+      ],
+      "level": "A1",
+      "category": "Doctor, Pharmacy & Emergency",
+      "partOfSpeech": "noun",
+      "frequency": 700,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Zahnärzte",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich habe Angst vor dem Zahnarzt.",
+          "en": "I am afraid of the dentist."
+        },
+        {
+          "de": "Der Zahnarzt hat den Zahn repariert.",
+          "en": "The dentist repaired the tooth."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Zweimal im Jahr gehe ich zum ___.",
+          "answer": "Zahnarzt",
+          "en": "Twice a year I go to the dentist."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "You can see a Zahnarzt without an Überweisung. Get the free yearly check-up stamped in your Bonusheft - it lowers what you have to pay later for crowns and dentures.",
+      "emoji": "🦷",
+      "imageable": true,
+      "tags": [
+        "health",
+        "doctor"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "arzt",
+        "behandlung"
+      ]
+    },
+    {
+      "id": "kinderarzt",
+      "word": "der Kinderarzt",
+      "lemma": "Kinderarzt",
+      "translation": "paediatrician",
+      "translations": [
+        "paediatrician",
+        "children's doctor"
+      ],
+      "level": "A2",
+      "category": "Doctor, Pharmacy & Emergency",
+      "partOfSpeech": "noun",
+      "frequency": 1240,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Kinderärzte",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Unser Sohn ist gerade beim Kinderarzt.",
+          "en": "Our son is at the paediatrician right now."
+        },
+        {
+          "de": "Der Kinderarzt hat ihn gestern geimpft.",
+          "en": "The paediatrician vaccinated him yesterday."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich rufe den ___ an, das Baby hat Fieber.",
+          "answer": "Kinderarzt",
+          "en": "I am calling the paediatrician, the baby has a fever."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Children get free check-ups called U-Untersuchungen (U1 to U9) at the Kinderarzt. The dates are written in the yellow Kinderuntersuchungsheft, which Kitas often want to see.",
+      "emoji": "👶",
+      "imageable": true,
+      "tags": [
+        "health",
+        "doctor",
+        "family"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "arzt",
+        "impfung"
+      ]
+    },
+    {
+      "id": "frauenarzt",
+      "word": "der Frauenarzt",
+      "lemma": "Frauenarzt",
+      "translation": "gynaecologist",
+      "translations": [
+        "gynaecologist"
+      ],
+      "level": "A2",
+      "category": "Doctor, Pharmacy & Emergency",
+      "partOfSpeech": "noun",
+      "frequency": 1520,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Frauenärzte",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Meine Frau geht einmal im Jahr zum Frauenarzt.",
+          "en": "My wife goes to the gynaecologist once a year."
+        },
+        {
+          "de": "Der Frauenarzt hat am Montag einen Termin frei.",
+          "en": "The gynaecologist has a free appointment on Monday."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Sie hat morgen einen Termin beim ___.",
+          "answer": "Frauenarzt",
+          "en": "She has an appointment with the gynaecologist tomorrow."
+        }
+      ],
+      "notes": "Also 'die Frauenärztin' or, more formally, 'der Gynäkologe'.",
+      "mnemonic": null,
+      "germany_context": "Frauenarzt, Zahnarzt, Augenarzt and Kinderarzt can be visited directly - no Überweisung needed. The yearly check-up is paid by the Krankenkasse.",
+      "emoji": null,
+      "imageable": true,
+      "tags": [
+        "health",
+        "doctor"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "arzt",
+        "untersuchung"
+      ]
+    },
+    {
+      "id": "augenarzt",
+      "word": "der Augenarzt",
+      "lemma": "Augenarzt",
+      "translation": "eye doctor",
+      "translations": [
+        "eye doctor",
+        "ophthalmologist"
+      ],
+      "level": "A2",
+      "category": "Doctor, Pharmacy & Emergency",
+      "partOfSpeech": "noun",
+      "frequency": 1560,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Augenärzte",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich sehe schlecht und gehe zum Augenarzt.",
+          "en": "I see badly and am going to the eye doctor."
+        },
+        {
+          "de": "Der Augenarzt hat meine Augen untersucht.",
+          "en": "The eye doctor examined my eyes."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Für eine neue Brille war ich beim ___.",
+          "answer": "Augenarzt",
+          "en": "I was at the eye doctor for new glasses."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Glasses are not paid for by the Krankenkasse for most adults, but the Sehtest is cheap at the Augenarzt and usually free at an optician.",
+      "emoji": "👓",
+      "imageable": true,
+      "tags": [
+        "health",
+        "doctor"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "arzt",
+        "untersuchung"
+      ]
+    },
+    {
+      "id": "klinik",
+      "word": "die Klinik",
+      "lemma": "Klinik",
+      "translation": "clinic",
+      "translations": [
+        "clinic",
+        "hospital"
+      ],
+      "level": "A2",
+      "category": "Doctor, Pharmacy & Emergency",
+      "partOfSpeech": "noun",
+      "frequency": 1020,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Kliniken",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Klinik ist auf Sportverletzungen spezialisiert.",
+          "en": "The clinic specialises in sports injuries."
+        },
+        {
+          "de": "Er arbeitet in einer großen Klinik.",
+          "en": "He works in a big clinic."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Nach dem Unfall kam er in eine ___ in Hamburg.",
+          "answer": "Klinik",
+          "en": "After the accident he was taken to a clinic in Hamburg."
+        }
+      ],
+      "notes": "'Klinik' is usually a specialised or private hospital; 'Krankenhaus' is the everyday word.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": true,
+      "tags": [
+        "health",
+        "doctor",
+        "places"
+      ],
+      "synonyms": [
+        "Krankenhaus"
+      ],
+      "antonyms": [],
+      "related": [
+        "krankenhaus"
+      ]
+    },
+    {
+      "id": "notaufnahme",
+      "word": "die Notaufnahme",
+      "lemma": "Notaufnahme",
+      "translation": "emergency room",
+      "translations": [
+        "emergency room",
+        "A&E"
+      ],
+      "level": "A1",
+      "category": "Doctor, Pharmacy & Emergency",
+      "partOfSpeech": "noun",
+      "frequency": 780,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Notaufnahmen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Wir sind sofort in die Notaufnahme gefahren.",
+          "en": "We drove to the emergency room immediately."
+        },
+        {
+          "de": "In der Notaufnahme haben wir drei Stunden gewartet.",
+          "en": "We waited three hours in the emergency room."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Bei sehr starken Schmerzen geh in die ___.",
+          "answer": "Notaufnahme",
+          "en": "With very strong pain, go to the emergency room."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "The Notaufnahme is only for real emergencies. Outside practice hours with a non-critical problem call the ärztlicher Bereitschaftsdienst on 116117 - it is free and usually much faster.",
+      "emoji": "🚨",
+      "imageable": true,
+      "tags": [
+        "health",
+        "emergency",
+        "places"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "krankenhaus",
+        "notfall",
+        "notruf"
+      ]
+    },
+    {
+      "id": "praxis",
+      "word": "die Praxis",
+      "lemma": "Praxis",
+      "translation": "doctor's office",
+      "translations": [
+        "doctor's office",
+        "practice"
+      ],
+      "level": "A1",
+      "category": "Doctor, Pharmacy & Emergency",
+      "partOfSpeech": "noun",
+      "frequency": 760,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Praxen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Praxis ist von Montag bis Freitag geöffnet.",
+          "en": "The practice is open from Monday to Friday."
+        },
+        {
+          "de": "Ich rufe die Praxis an und mache einen Termin.",
+          "en": "I am calling the practice to make an appointment."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Die ___ von Dr. Weber ist im ersten Stock.",
+          "answer": "Praxis",
+          "en": "Dr. Weber's practice is on the first floor."
+        }
+      ],
+      "notes": "Plural is 'die Praxen'. Full word: die Arztpraxis.",
+      "mnemonic": null,
+      "germany_context": "Most Praxen shut at lunchtime and on Wednesday afternoons. Check the Sprechzeiten on the door or the website before you walk over.",
+      "emoji": null,
+      "imageable": true,
+      "tags": [
+        "health",
+        "doctor",
+        "places"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "sprechstunde",
+        "arzttermin",
+        "wartezimmer"
+      ]
+    },
+    {
+      "id": "sprechstunde",
+      "word": "die Sprechstunde",
+      "lemma": "Sprechstunde",
+      "translation": "consultation hours",
+      "translations": [
+        "consultation hours",
+        "office hours"
+      ],
+      "level": "A2",
+      "category": "Doctor, Pharmacy & Emergency",
+      "partOfSpeech": "noun",
+      "frequency": 1310,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Sprechstunden",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Sprechstunde beginnt um acht Uhr.",
+          "en": "Consultation hours start at eight o'clock."
+        },
+        {
+          "de": "Am Mittwochnachmittag ist keine Sprechstunde.",
+          "en": "There are no consultation hours on Wednesday afternoon."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "In der offenen ___ kann man ohne Termin kommen.",
+          "answer": "Sprechstunde",
+          "en": "In the open consultation hour you can come without an appointment."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Many practices keep an offene Sprechstunde, a walk-in hour without an appointment. Ask about it whenever you cannot get a Termin.",
+      "emoji": "🕘",
+      "imageable": false,
+      "tags": [
+        "health",
+        "doctor"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "praxis",
+        "arzttermin"
+      ]
+    },
+    {
+      "id": "arzttermin",
+      "word": "der Arzttermin",
+      "lemma": "Arzttermin",
+      "translation": "doctor's appointment",
+      "translations": [
+        "doctor's appointment"
+      ],
+      "level": "A1",
+      "category": "Doctor, Pharmacy & Emergency",
+      "partOfSpeech": "noun",
+      "frequency": 540,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Arzttermine",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich habe morgen um zehn einen Arzttermin.",
+          "en": "I have a doctor's appointment tomorrow at ten."
+        },
+        {
+          "de": "Kannst du meinen Arzttermin verschieben?",
+          "en": "Can you postpone my doctor's appointment?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich muss dringend einen ___ vereinbaren.",
+          "answer": "Arzttermin",
+          "en": "I urgently need to make a doctor's appointment."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Phone right when the practice opens or book online (Doctolib, jameda). If you cannot come, cancel at least 24 hours before - some practices charge an Ausfallgebühr for no-shows.",
+      "emoji": "📅",
+      "imageable": false,
+      "tags": [
+        "health",
+        "doctor",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "praxis",
+        "sprechstunde",
+        "ich-brauche-einen-termin"
+      ]
+    },
+    {
+      "id": "wartezimmer",
+      "word": "das Wartezimmer",
+      "lemma": "Wartezimmer",
+      "translation": "waiting room",
+      "translations": [
+        "waiting room"
+      ],
+      "level": "A2",
+      "category": "Doctor, Pharmacy & Emergency",
+      "partOfSpeech": "noun",
+      "frequency": 1420,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Wartezimmer",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Bitte nehmen Sie im Wartezimmer Platz.",
+          "en": "Please take a seat in the waiting room."
+        },
+        {
+          "de": "Im Wartezimmer saßen viele Patienten.",
+          "en": "There were many patients sitting in the waiting room."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Er wartet schon eine Stunde im ___.",
+          "answer": "Wartezimmer",
+          "en": "He has already been waiting an hour in the waiting room."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🪑",
+      "imageable": true,
+      "tags": [
+        "health",
+        "doctor",
+        "places"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "praxis",
+        "patient"
+      ]
+    },
+    {
+      "id": "krankenschwester",
+      "word": "die Krankenschwester",
+      "lemma": "Krankenschwester",
+      "translation": "nurse (female)",
+      "translations": [
+        "nurse (female)",
+        "nurse"
+      ],
+      "level": "A2",
+      "category": "Doctor, Pharmacy & Emergency",
+      "partOfSpeech": "noun",
+      "frequency": 1290,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Krankenschwestern",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Krankenschwester hat mir Blut abgenommen.",
+          "en": "The nurse took my blood."
+        },
+        {
+          "de": "Meine Nachbarin ist Krankenschwester.",
+          "en": "My neighbour is a nurse."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Die ___ bringt gleich die Tabletten.",
+          "answer": "Krankenschwester",
+          "en": "The nurse will bring the tablets in a moment."
+        }
+      ],
+      "notes": "The modern official title is 'Pflegefachfrau', but everybody still says Krankenschwester.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "👩‍⚕️",
+      "imageable": true,
+      "tags": [
+        "health",
+        "doctor",
+        "job"
+      ],
+      "synonyms": [
+        "Pflegerin"
+      ],
+      "antonyms": [],
+      "related": [
+        "pfleger",
+        "krankenhaus"
+      ]
+    },
+    {
+      "id": "pfleger",
+      "word": "der Pfleger",
+      "lemma": "Pfleger",
+      "translation": "nurse (male)",
+      "translations": [
+        "nurse (male)",
+        "carer"
+      ],
+      "level": "A2",
+      "category": "Doctor, Pharmacy & Emergency",
+      "partOfSpeech": "noun",
+      "frequency": 2050,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Pfleger",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Pfleger hilft dem Patienten beim Aufstehen.",
+          "en": "The nurse helps the patient get up."
+        },
+        {
+          "de": "Im Krankenhaus arbeiten viele Pfleger.",
+          "en": "Many nurses work in the hospital."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ein ___ hat mich auf mein Zimmer gebracht.",
+          "answer": "Pfleger",
+          "en": "A nurse took me to my room."
+        }
+      ],
+      "notes": "Female: die Pflegerin. Longer form: der Krankenpfleger.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": true,
+      "tags": [
+        "health",
+        "doctor",
+        "job"
+      ],
+      "synonyms": [
+        "Krankenpfleger"
+      ],
+      "antonyms": [],
+      "related": [
+        "krankenschwester"
+      ]
+    },
+    {
+      "id": "patient",
+      "word": "der Patient",
+      "lemma": "Patient",
+      "translation": "patient",
+      "translations": [
+        "patient"
+      ],
+      "level": "A2",
+      "category": "Doctor, Pharmacy & Emergency",
+      "partOfSpeech": "noun",
+      "frequency": 1150,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Patienten",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Arzt hat heute sehr viele Patienten.",
+          "en": "The doctor has a lot of patients today."
+        },
+        {
+          "de": "Der Patient hat starke Schmerzen.",
+          "en": "The patient is in a lot of pain."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Jeder ___ bekommt hier eine Nummer.",
+          "answer": "Patient",
+          "en": "Every patient gets a number here."
+        }
+      ],
+      "notes": "N-Deklination: den/dem/des Patienten - the -en is added in every case except the nominative singular.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": true,
+      "tags": [
+        "health",
+        "doctor"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "arzt",
+        "wartezimmer"
+      ]
+    },
+    {
+      "id": "apotheker",
+      "word": "der Apotheker",
+      "lemma": "Apotheker",
+      "translation": "pharmacist",
+      "translations": [
+        "pharmacist",
+        "chemist"
+      ],
+      "level": "A2",
+      "category": "Doctor, Pharmacy & Emergency",
+      "partOfSpeech": "noun",
+      "frequency": 1830,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Apotheker",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Apotheker hat mir etwas gegen Husten empfohlen.",
+          "en": "The pharmacist recommended me something for a cough."
+        },
+        {
+          "de": "Fragen Sie bitte Ihren Apotheker.",
+          "en": "Please ask your pharmacist."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der ___ erklärt mir, wie ich die Salbe benutze.",
+          "answer": "Apotheker",
+          "en": "The pharmacist explains how to use the ointment."
+        }
+      ],
+      "notes": "Female: die Apothekerin. 'Fragen Sie Ihren Arzt oder Apotheker' is the line at the end of every German medicine advert.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": true,
+      "tags": [
+        "health",
+        "pharmacy",
+        "job"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "apotheke",
+        "medikament"
+      ]
+    },
+    {
+      "id": "notdienst",
+      "word": "der Notdienst",
+      "lemma": "Notdienst",
+      "translation": "emergency service",
+      "translations": [
+        "emergency service",
+        "on-call duty"
+      ],
+      "level": "A2",
+      "category": "Doctor, Pharmacy & Emergency",
+      "partOfSpeech": "noun",
+      "frequency": 1390,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Notdienste",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Heute Nacht hat diese Apotheke Notdienst.",
+          "en": "This pharmacy is on emergency duty tonight."
+        },
+        {
+          "de": "Der Notdienst ist auch am Wochenende erreichbar.",
+          "en": "The emergency service can be reached at the weekend too."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Welche Apotheke hat heute ___?",
+          "answer": "Notdienst",
+          "en": "Which pharmacy is on emergency duty today?"
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Pharmacies take turns doing Notdienst at night and on Sundays. The rota hangs on every pharmacy door, is listed at aponet.de, or dial 22833 from a mobile. Expect an extra fee of about 2,50 euros.",
+      "emoji": "🌙",
+      "imageable": false,
+      "tags": [
+        "health",
+        "pharmacy",
+        "emergency"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "apotheke",
+        "notfall"
+      ]
+    },
+    {
+      "id": "versichertenkarte",
+      "word": "die Versichertenkarte",
+      "lemma": "Versichertenkarte",
+      "translation": "health insurance card",
+      "translations": [
+        "health insurance card",
+        "insurance card"
+      ],
+      "level": "A1",
+      "category": "Doctor, Pharmacy & Emergency",
+      "partOfSpeech": "noun",
+      "frequency": 900,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Versichertenkarten",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Haben Sie Ihre Versichertenkarte dabei?",
+          "en": "Do you have your health insurance card with you?"
+        },
+        {
+          "de": "Ich habe meine Versichertenkarte zu Hause vergessen.",
+          "en": "I forgot my health insurance card at home."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Bitte geben Sie mir Ihre ___.",
+          "answer": "Versichertenkarte",
+          "en": "Please give me your health insurance card."
+        }
+      ],
+      "notes": "Also called 'die Gesundheitskarte' or simply 'die Karte'.",
+      "mnemonic": null,
+      "germany_context": "Hand the card in at the Anmeldung on your first visit each quarter. Without it you may have to pay privately and bring the card within ten days to get your money back.",
+      "emoji": "💳",
+      "imageable": true,
+      "tags": [
+        "health",
+        "bureaucracy",
+        "essential"
+      ],
+      "synonyms": [
+        "Gesundheitskarte"
+      ],
+      "antonyms": [],
+      "related": [
+        "krankenkasse",
+        "praxis"
+      ]
+    },
+    {
+      "id": "attest",
+      "word": "das Attest",
+      "lemma": "Attest",
+      "translation": "medical certificate",
+      "translations": [
+        "medical certificate",
+        "doctor's certificate"
+      ],
+      "level": "A2",
+      "category": "Doctor, Pharmacy & Emergency",
+      "partOfSpeech": "noun",
+      "frequency": 1740,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Atteste",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Schule verlangt ein Attest.",
+          "en": "The school requires a medical certificate."
+        },
+        {
+          "de": "Ich habe ein Attest vom Arzt bekommen.",
+          "en": "I got a medical certificate from the doctor."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ohne ___ darf mein Sohn nicht zurück in die Schule.",
+          "answer": "Attest",
+          "en": "Without a medical certificate my son is not allowed back at school."
+        }
+      ],
+      "notes": "'Attest' is a medical certificate in general; for work you specifically need the AU (Krankschreibung).",
+      "mnemonic": null,
+      "germany_context": "For work you need the AU (Arbeitsunfähigkeitsbescheinigung, the Krankschreibung): from the fourth sick day at the latest, and many contracts demand it from day one - tell your boss before your shift starts. Schools and Kitas ask for an Attest after a longer illness, and a private Attest for a gym or a flight costs you 10 to 30 euros yourself.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "health",
+        "bureaucracy"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "krankschreibung"
+      ]
+    },
+    {
+      "id": "ueberweisung",
+      "word": "die Überweisung",
+      "lemma": "Überweisung",
+      "translation": "referral",
+      "translations": [
+        "referral",
+        "transfer"
+      ],
+      "level": "A2",
+      "category": "Doctor, Pharmacy & Emergency",
+      "partOfSpeech": "noun",
+      "frequency": 1090,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Überweisungen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich brauche eine Überweisung zum Hautarzt.",
+          "en": "I need a referral to the dermatologist."
+        },
+        {
+          "de": "Die Überweisung gilt ein Quartal.",
+          "en": "The referral is valid for one quarter."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Hausarzt hat mir eine ___ geschrieben.",
+          "answer": "Überweisung",
+          "en": "The GP wrote me a referral."
+        }
+      ],
+      "notes": "Same word as a bank transfer - the context tells you which one is meant.",
+      "mnemonic": null,
+      "germany_context": "With statutory insurance you need an Überweisung from your Hausarzt for most Fachärzte, and it is valid for the current quarter. Zahnarzt, Augenarzt, Frauenarzt and Kinderarzt need none.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "health",
+        "bureaucracy",
+        "doctor"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "hausarzt",
+        "facharzt",
+        "krankenkasse"
+      ]
+    },
+    {
+      "id": "krankenwagen",
+      "word": "der Krankenwagen",
+      "lemma": "Krankenwagen",
+      "translation": "ambulance",
+      "translations": [
+        "ambulance"
+      ],
+      "level": "A1",
+      "category": "Doctor, Pharmacy & Emergency",
+      "partOfSpeech": "noun",
+      "frequency": 390,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Krankenwagen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Krankenwagen war in fünf Minuten da.",
+          "en": "The ambulance was there in five minutes."
+        },
+        {
+          "de": "Sie haben ihn mit dem Krankenwagen ins Krankenhaus gebracht.",
+          "en": "They took him to the hospital by ambulance."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Nach dem Unfall kam sofort ein ___.",
+          "answer": "Krankenwagen",
+          "en": "An ambulance came immediately after the accident."
+        }
+      ],
+      "notes": "The official term is 'der Rettungswagen' (RTW); both are understood.",
+      "mnemonic": null,
+      "germany_context": "Call 112 for an ambulance. It is free from any phone, needs no area code, and the dispatchers usually speak English. Never call 110 (police) for a medical emergency.",
+      "emoji": "🚑",
+      "imageable": true,
+      "tags": [
+        "health",
+        "emergency",
+        "essential"
+      ],
+      "synonyms": [
+        "Rettungswagen"
+      ],
+      "antonyms": [],
+      "related": [
+        "notruf",
+        "notfall",
+        "rufen-sie-einen-krankenwagen"
+      ]
+    },
+    {
+      "id": "notruf",
+      "word": "der Notruf",
+      "lemma": "Notruf",
+      "translation": "emergency call",
+      "translations": [
+        "emergency call",
+        "emergency number"
+      ],
+      "level": "A1",
+      "category": "Doctor, Pharmacy & Emergency",
+      "partOfSpeech": "noun",
+      "frequency": 360,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Notrufe",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Notruf in Deutschland ist die 112.",
+          "en": "The emergency number in Germany is 112."
+        },
+        {
+          "de": "Sie hat sofort den Notruf gewählt.",
+          "en": "She dialled the emergency number immediately."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Bei einem schweren Unfall wählst du den ___.",
+          "answer": "Notruf",
+          "en": "In a serious accident you dial the emergency number."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "112 reaches the ambulance and the fire brigade, 110 the police. Both are free from every phone, even without credit. Say where you are, what happened and how many people are hurt - and stay on the line until they hang up.",
+      "emoji": "📞",
+      "imageable": false,
+      "tags": [
+        "health",
+        "emergency",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "krankenwagen",
+        "feuerwehr",
+        "polizei"
+      ]
+    },
+    {
+      "id": "feuerwehr",
+      "word": "die Feuerwehr",
+      "lemma": "Feuerwehr",
+      "translation": "fire brigade",
+      "translations": [
+        "fire brigade",
+        "fire department"
+      ],
+      "level": "A1",
+      "category": "Doctor, Pharmacy & Emergency",
+      "partOfSpeech": "noun",
+      "frequency": 720,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Feuerwehren",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Feuerwehr war sehr schnell da.",
+          "en": "The fire brigade was there very quickly."
+        },
+        {
+          "de": "Ruf die Feuerwehr, es brennt!",
+          "en": "Call the fire brigade, there is a fire!"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Die ___ hat das Feuer gelöscht.",
+          "answer": "Feuerwehr",
+          "en": "The fire brigade put out the fire."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "The Feuerwehr also comes via 112 and does much more than fires: they open stuck lifts, help after accidents and pump out flooded cellars.",
+      "emoji": "🚒",
+      "imageable": true,
+      "tags": [
+        "health",
+        "emergency"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "notruf",
+        "polizei"
+      ]
+    },
+    {
+      "id": "polizei",
+      "word": "die Polizei",
+      "lemma": "Polizei",
+      "translation": "police",
+      "translations": [
+        "police"
+      ],
+      "level": "A1",
+      "category": "Doctor, Pharmacy & Emergency",
+      "partOfSpeech": "noun",
+      "frequency": 350,
+      "gender": "f",
+      "article": "die",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Polizei ist schon unterwegs.",
+          "en": "The police are already on their way."
+        },
+        {
+          "de": "Ich habe die Polizei gerufen.",
+          "en": "I called the police."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Bei einem Einbruch ruft man sofort die ___.",
+          "answer": "Polizei",
+          "en": "In a burglary you call the police immediately."
+        }
+      ],
+      "notes": "Singular only and always 'die Polizei'. The verb stays singular: Die Polizei kommt.",
+      "mnemonic": null,
+      "germany_context": "Police: 110. After a car accident with injuries or serious damage you must call them. For anything non-urgent you can also report it at a Polizeiwache or online via the Onlinewache of your Bundesland.",
+      "emoji": "🚓",
+      "imageable": true,
+      "tags": [
+        "health",
+        "emergency",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "notruf",
+        "unfall"
+      ]
+    },
+    {
+      "id": "unfall",
+      "word": "der Unfall",
+      "lemma": "Unfall",
+      "translation": "accident",
+      "translations": [
+        "accident",
+        "crash"
+      ],
+      "level": "A1",
+      "category": "Doctor, Pharmacy & Emergency",
+      "partOfSpeech": "noun",
+      "frequency": 520,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Unfälle",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Auf der Autobahn gab es einen Unfall.",
+          "en": "There was an accident on the motorway."
+        },
+        {
+          "de": "Sie hatte einen Unfall mit dem Fahrrad.",
+          "en": "She had an accident on her bicycle."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Nach dem ___ hat er sofort die Polizei gerufen.",
+          "answer": "Unfall",
+          "en": "After the accident he called the police immediately."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "An accident on the way to or from work counts as an Arbeitsunfall. Report it to your employer and go to a Durchgangsarzt (D-Arzt) rather than your Hausarzt - the accident insurance pays.",
+      "emoji": "💥",
+      "imageable": false,
+      "tags": [
+        "health",
+        "emergency",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "notfall",
+        "polizei",
+        "verletzt"
+      ]
+    },
+    {
+      "id": "notfall",
+      "word": "der Notfall",
+      "lemma": "Notfall",
+      "translation": "emergency",
+      "translations": [
+        "emergency"
+      ],
+      "level": "A1",
+      "category": "Doctor, Pharmacy & Emergency",
+      "partOfSpeech": "noun",
+      "frequency": 410,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Notfälle",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Im Notfall rufen Sie bitte die 112.",
+          "en": "In an emergency please call 112."
+        },
+        {
+          "de": "Zum Glück war es kein Notfall.",
+          "en": "Luckily it was not an emergency."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Nur im ___ darf man diese Tür benutzen.",
+          "answer": "Notfall",
+          "en": "Only in an emergency may you use this door."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Notfall means life-threatening: chest pain, heavy bleeding, unconsciousness, trouble breathing. Everything else belongs to the Hausarzt or, outside opening hours, to the 116117 Bereitschaftsdienst.",
+      "emoji": "🚨",
+      "imageable": false,
+      "tags": [
+        "health",
+        "emergency",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "notaufnahme",
+        "notruf",
+        "es-ist-ein-notfall"
+      ]
+    },
+    {
+      "id": "erste-hilfe",
+      "word": "die Erste Hilfe",
+      "lemma": "Erste Hilfe",
+      "translation": "first aid",
+      "translations": [
+        "first aid"
+      ],
+      "level": "A2",
+      "category": "Doctor, Pharmacy & Emergency",
+      "partOfSpeech": "noun",
+      "frequency": 1260,
+      "gender": "f",
+      "article": "die",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Er hat sofort Erste Hilfe geleistet.",
+          "en": "He gave first aid immediately."
+        },
+        {
+          "de": "Nächste Woche mache ich einen Kurs in Erster Hilfe.",
+          "en": "Next week I am taking a first aid course."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Kannst du ___ leisten?",
+          "answer": "Erste Hilfe",
+          "en": "Can you give first aid?"
+        }
+      ],
+      "notes": "Set phrase: 'Erste Hilfe leisten' = to give first aid.",
+      "mnemonic": null,
+      "germany_context": "An Erste-Hilfe-Kurs (about nine hours, around 50 euros) is required for a German driving licence. In Germany you are legally obliged to help at an accident - unterlassene Hilfeleistung is a criminal offence.",
+      "emoji": "🆘",
+      "imageable": false,
+      "tags": [
+        "health",
+        "emergency"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "notfall",
+        "krankenwagen"
+      ]
+    },
+    {
+      "id": "gift",
+      "word": "das Gift",
+      "lemma": "Gift",
+      "translation": "poison",
+      "translations": [
+        "poison",
+        "toxin"
+      ],
+      "level": "A2",
+      "category": "Doctor, Pharmacy & Emergency",
+      "partOfSpeech": "noun",
+      "frequency": 1970,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Gifte",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Vorsicht, das ist Gift!",
+          "en": "Careful, that is poison!"
+        },
+        {
+          "de": "Das Gift wirkt sehr schnell.",
+          "en": "The poison works very quickly."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Putzmittel sind ___ für kleine Kinder.",
+          "answer": "Gift",
+          "en": "Cleaning products are poison for small children."
+        }
+      ],
+      "notes": "Classic false friend: 'Gift' means poison, not a present - that is 'das Geschenk'.",
+      "mnemonic": "A German Gift is the worst present you can get: poison.",
+      "germany_context": "If someone swallows something dangerous, call the regional Giftnotruf (for example Berlin 030 19240) or 112 - they tell you exactly what to do.",
+      "emoji": "☠️",
+      "imageable": false,
+      "tags": [
+        "health",
+        "emergency"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "notruf",
+        "medikament"
+      ]
+    },
+    {
+      "id": "untersuchung",
+      "word": "die Untersuchung",
+      "lemma": "Untersuchung",
+      "translation": "examination",
+      "translations": [
+        "examination",
+        "check-up"
+      ],
+      "level": "A2",
+      "category": "Doctor, Pharmacy & Emergency",
+      "partOfSpeech": "noun",
+      "frequency": 1130,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Untersuchungen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Untersuchung dauert nur zehn Minuten.",
+          "en": "The examination takes only ten minutes."
+        },
+        {
+          "de": "Nach der Untersuchung bekomme ich das Ergebnis.",
+          "en": "I will get the result after the examination."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Arzt macht zuerst eine kurze ___.",
+          "answer": "Untersuchung",
+          "en": "The doctor first does a short examination."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "From the age of 35 the Krankenkasse pays a general Check-up every three years, plus cancer screening (Krebsvorsorge) yearly for women from 20 and men from 45.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "health",
+        "doctor"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "untersuchen",
+        "diagnose"
+      ]
+    },
+    {
+      "id": "diagnose",
+      "word": "die Diagnose",
+      "lemma": "Diagnose",
+      "translation": "diagnosis",
+      "translations": [
+        "diagnosis"
+      ],
+      "level": "A2",
+      "category": "Doctor, Pharmacy & Emergency",
+      "partOfSpeech": "noun",
+      "frequency": 1650,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Diagnosen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Diagnose war zum Glück harmlos.",
+          "en": "Luckily the diagnosis was harmless."
+        },
+        {
+          "de": "Der Arzt stellt die Diagnose nach den Tests.",
+          "en": "The doctor makes the diagnosis after the tests."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich möchte gern eine zweite Meinung zu dieser ___.",
+          "answer": "Diagnose",
+          "en": "I would like a second opinion on this diagnosis."
+        }
+      ],
+      "notes": "Set phrase: 'eine Diagnose stellen' = to make a diagnosis.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "health",
+        "doctor"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "untersuchung",
+        "behandlung"
+      ]
+    },
+    {
+      "id": "behandlung",
+      "word": "die Behandlung",
+      "lemma": "Behandlung",
+      "translation": "treatment",
+      "translations": [
+        "treatment"
+      ],
+      "level": "A2",
+      "category": "Doctor, Pharmacy & Emergency",
+      "partOfSpeech": "noun",
+      "frequency": 1210,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Behandlungen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Behandlung hat sehr gut geholfen.",
+          "en": "The treatment helped a lot."
+        },
+        {
+          "de": "Die Krankenkasse bezahlt die Behandlung.",
+          "en": "The health insurance pays for the treatment."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Die ___ beim Zahnarzt war ziemlich teuer.",
+          "answer": "Behandlung",
+          "en": "The treatment at the dentist was quite expensive."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "health",
+        "doctor"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "behandeln",
+        "diagnose"
+      ]
+    },
+    {
+      "id": "operation",
+      "word": "die Operation",
+      "lemma": "Operation",
+      "translation": "operation",
+      "translations": [
+        "operation",
+        "surgery"
+      ],
+      "level": "A2",
+      "category": "Doctor, Pharmacy & Emergency",
+      "partOfSpeech": "noun",
+      "frequency": 1350,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Operationen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Operation war zum Glück erfolgreich.",
+          "en": "Luckily the operation was successful."
+        },
+        {
+          "de": "Nach der Operation muss er eine Woche im Krankenhaus bleiben.",
+          "en": "After the operation he has to stay in hospital for a week."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Die ___ dauert etwa zwei Stunden.",
+          "answer": "Operation",
+          "en": "The operation takes about two hours."
+        }
+      ],
+      "notes": "Short form in speech: die OP (spoken 'oh-peh').",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "health",
+        "doctor"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "krankenhaus",
+        "behandlung"
+      ]
+    },
+    {
+      "id": "rezept",
+      "word": "das Rezept",
+      "lemma": "Rezept",
+      "translation": "prescription",
+      "translations": [
+        "prescription",
+        "recipe"
+      ],
+      "level": "A1",
+      "category": "Doctor, Pharmacy & Emergency",
+      "partOfSpeech": "noun",
+      "frequency": 570,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Rezepte",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Dieses Medikament gibt es nur auf Rezept.",
+          "en": "This medicine is only available on prescription."
+        },
+        {
+          "de": "Der Arzt hat mir ein Rezept ausgestellt.",
+          "en": "The doctor wrote me a prescription."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ohne ___ bekomme ich die Tabletten nicht.",
+          "answer": "Rezept",
+          "en": "Without a prescription I do not get the tablets."
+        }
+      ],
+      "notes": "'Rezept' also means a cooking recipe - context decides.",
+      "mnemonic": null,
+      "germany_context": "Prescriptions are now usually digital (E-Rezept): the pharmacy reads it straight off your Versichertenkarte. On a Kassenrezept you pay a Zuzahlung of 5 to 10 euros per item.",
+      "emoji": "📝",
+      "imageable": true,
+      "tags": [
+        "health",
+        "pharmacy",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "medikament",
+        "apotheke",
+        "verschreiben"
+      ]
+    },
+    {
+      "id": "salbe",
+      "word": "die Salbe",
+      "lemma": "Salbe",
+      "translation": "ointment",
+      "translations": [
+        "ointment",
+        "cream"
+      ],
+      "level": "A2",
+      "category": "Doctor, Pharmacy & Emergency",
+      "partOfSpeech": "noun",
+      "frequency": 1720,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Salben",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Diese Salbe hilft gegen Schmerzen.",
+          "en": "This ointment helps against pain."
+        },
+        {
+          "de": "Tragen Sie die Salbe zweimal täglich auf.",
+          "en": "Apply the ointment twice a day."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Arzt hat mir eine ___ für die Wunde verschrieben.",
+          "answer": "Salbe",
+          "en": "The doctor prescribed me an ointment for the wound."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🧴",
+      "imageable": true,
+      "tags": [
+        "health",
+        "pharmacy"
+      ],
+      "synonyms": [
+        "Creme"
+      ],
+      "antonyms": [],
+      "related": [
+        "medikament",
+        "verband"
+      ]
+    },
+    {
+      "id": "tropfen",
+      "word": "der Tropfen",
+      "lemma": "Tropfen",
+      "translation": "drop",
+      "translations": [
+        "drop",
+        "drops"
+      ],
+      "level": "A2",
+      "category": "Doctor, Pharmacy & Emergency",
+      "partOfSpeech": "noun",
+      "frequency": 1610,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Tropfen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Nehmen Sie zehn Tropfen in etwas Wasser.",
+          "en": "Take ten drops in a little water."
+        },
+        {
+          "de": "Die Tropfen sind für die Nase.",
+          "en": "The drops are for the nose."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich brauche ___ gegen Husten.",
+          "answer": "Tropfen",
+          "en": "I need drops for a cough."
+        }
+      ],
+      "notes": "Usually used in the plural: Augentropfen, Nasentropfen, Hustentropfen.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "💧",
+      "imageable": true,
+      "tags": [
+        "health",
+        "pharmacy"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "medikament",
+        "apotheke"
+      ]
+    },
+    {
+      "id": "spritze",
+      "word": "die Spritze",
+      "lemma": "Spritze",
+      "translation": "injection",
+      "translations": [
+        "injection",
+        "syringe"
+      ],
+      "level": "A2",
+      "category": "Doctor, Pharmacy & Emergency",
+      "partOfSpeech": "noun",
+      "frequency": 1480,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Spritzen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich habe Angst vor Spritzen.",
+          "en": "I am afraid of injections."
+        },
+        {
+          "de": "Die Krankenschwester gibt mir eine Spritze.",
+          "en": "The nurse is giving me an injection."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Beim Zahnarzt bekomme ich immer eine ___.",
+          "answer": "Spritze",
+          "en": "At the dentist I always get an injection."
+        }
+      ],
+      "notes": "'eine Spritze bekommen' = to get an injection.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "💉",
+      "imageable": true,
+      "tags": [
+        "health",
+        "doctor"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "impfung",
+        "impfen"
+      ]
+    },
+    {
+      "id": "impfung",
+      "word": "die Impfung",
+      "lemma": "Impfung",
+      "translation": "vaccination",
+      "translations": [
+        "vaccination",
+        "shot"
+      ],
+      "level": "A2",
+      "category": "Doctor, Pharmacy & Emergency",
+      "partOfSpeech": "noun",
+      "frequency": 1160,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Impfungen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Impfung ist für Kinder kostenlos.",
+          "en": "The vaccination is free for children."
+        },
+        {
+          "de": "Ich hole mir im Herbst eine Impfung gegen Grippe.",
+          "en": "I am getting a flu vaccination in autumn."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Für die Reise brauche ich noch eine ___.",
+          "answer": "Impfung",
+          "en": "I still need a vaccination for the trip."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Vaccinations are recorded in the yellow Impfpass - keep it safe, Kitas and employers ask to see it. Standard vaccinations and the yearly flu shot are paid by the Krankenkasse.",
+      "emoji": "💉",
+      "imageable": false,
+      "tags": [
+        "health",
+        "doctor"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "impfen",
+        "spritze"
+      ]
+    },
+    {
+      "id": "verband",
+      "word": "der Verband",
+      "lemma": "Verband",
+      "translation": "bandage",
+      "translations": [
+        "bandage",
+        "dressing"
+      ],
+      "level": "A2",
+      "category": "Doctor, Pharmacy & Emergency",
+      "partOfSpeech": "noun",
+      "frequency": 1690,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Verbände",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Arzt hat einen Verband angelegt.",
+          "en": "The doctor put on a bandage."
+        },
+        {
+          "de": "Der Verband muss jeden Tag gewechselt werden.",
+          "en": "The bandage has to be changed every day."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Sie trägt einen ___ am rechten Arm.",
+          "answer": "Verband",
+          "en": "She is wearing a bandage on her right arm."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🩹",
+      "imageable": true,
+      "tags": [
+        "health",
+        "emergency",
+        "pharmacy"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "pflaster",
+        "erste-hilfe"
+      ]
+    },
+    {
+      "id": "untersuchen",
+      "word": "untersuchen",
+      "lemma": "untersuchen",
+      "translation": "to examine",
+      "translations": [
+        "to examine",
+        "to check"
+      ],
+      "level": "A2",
+      "category": "Doctor, Pharmacy & Emergency",
+      "partOfSpeech": "verb",
+      "frequency": 1080,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "untersuche",
+        "du": "untersuchst",
+        "er": "untersucht",
+        "wir": "untersuchen",
+        "ihr": "untersucht",
+        "sie": "untersuchen",
+        "praeteritum": "untersuchte",
+        "perfekt": "hat untersucht",
+        "imperativ": "untersuch(e)!"
+      },
+      "example_sentences": [
+        {
+          "de": "Der Arzt untersucht mich gleich.",
+          "en": "The doctor will examine me shortly."
+        },
+        {
+          "de": "Die Ärztin hat mein Knie untersucht.",
+          "en": "The doctor examined my knee."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Können Sie bitte mein linkes Ohr ___?",
+          "answer": "untersuchen",
+          "en": "Could you please examine my left ear?"
+        }
+      ],
+      "notes": "Inseparable verb - no 'ge-' in the Perfekt: hat untersucht.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "health",
+        "doctor"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "untersuchung",
+        "arzt"
+      ]
+    },
+    {
+      "id": "behandeln",
+      "word": "behandeln",
+      "lemma": "behandeln",
+      "translation": "to treat",
+      "translations": [
+        "to treat"
+      ],
+      "level": "A2",
+      "category": "Doctor, Pharmacy & Emergency",
+      "partOfSpeech": "verb",
+      "frequency": 1230,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "behandle",
+        "du": "behandelst",
+        "er": "behandelt",
+        "wir": "behandeln",
+        "ihr": "behandelt",
+        "sie": "behandeln",
+        "praeteritum": "behandelte",
+        "perfekt": "hat behandelt",
+        "imperativ": "behandle!"
+      },
+      "example_sentences": [
+        {
+          "de": "Welcher Arzt behandelt Sie?",
+          "en": "Which doctor is treating you?"
+        },
+        {
+          "de": "Die Wunde muss sofort behandelt werden.",
+          "en": "The wound has to be treated immediately."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Diese Klinik ___ vor allem Kinder.",
+          "answer": "behandelt",
+          "en": "This clinic mainly treats children."
+        }
+      ],
+      "notes": "Inseparable: hat behandelt. The noun is 'die Behandlung'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "health",
+        "doctor"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "behandlung",
+        "arzt"
+      ]
+    },
+    {
+      "id": "verschreiben",
+      "word": "verschreiben",
+      "lemma": "verschreiben",
+      "translation": "to prescribe",
+      "translations": [
+        "to prescribe"
+      ],
+      "level": "A2",
+      "category": "Doctor, Pharmacy & Emergency",
+      "partOfSpeech": "verb",
+      "frequency": 1440,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [
+        "akk",
+        "dat"
+      ],
+      "forms": {
+        "ich": "verschreibe",
+        "du": "verschreibst",
+        "er": "verschreibt",
+        "wir": "verschreiben",
+        "ihr": "verschreibt",
+        "sie": "verschreiben",
+        "praeteritum": "verschrieb",
+        "perfekt": "hat verschrieben",
+        "imperativ": "verschreib(e)!"
+      },
+      "example_sentences": [
+        {
+          "de": "Der Arzt verschreibt mir ein Antibiotikum.",
+          "en": "The doctor is prescribing me an antibiotic."
+        },
+        {
+          "de": "Sie hat mir eine Salbe verschrieben.",
+          "en": "She prescribed me an ointment."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Können Sie mir etwas gegen die Schmerzen ___?",
+          "answer": "verschreiben",
+          "en": "Can you prescribe me something for the pain?"
+        }
+      ],
+      "notes": "Takes a dative person and an accusative thing: Er verschreibt mir Tabletten.",
+      "mnemonic": null,
+      "germany_context": "Only a doctor can prescribe; at the pharmacy you then pay a Zuzahlung of 5 to 10 euros per item on a Kassenrezept.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "health",
+        "doctor",
+        "pharmacy"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "rezept",
+        "medikament"
+      ]
+    },
+    {
+      "id": "einnehmen",
+      "word": "einnehmen",
+      "lemma": "einnehmen",
+      "translation": "to take (medicine)",
+      "translations": [
+        "to take (medicine)"
+      ],
+      "level": "A2",
+      "category": "Doctor, Pharmacy & Emergency",
+      "partOfSpeech": "verb",
+      "frequency": 1190,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "nehme ein",
+        "du": "nimmst ein",
+        "er": "nimmt ein",
+        "wir": "nehmen ein",
+        "ihr": "nehmt ein",
+        "sie": "nehmen ein",
+        "praeteritum": "nahm ein",
+        "perfekt": "hat eingenommen",
+        "imperativ": "nimm ein!"
+      },
+      "example_sentences": [
+        {
+          "de": "Nehmen Sie die Tabletten nach dem Essen ein.",
+          "en": "Take the tablets after eating."
+        },
+        {
+          "de": "Ich nehme das Medikament dreimal täglich ein.",
+          "en": "I take the medicine three times a day."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wie oft muss ich die Tropfen ___?",
+          "answer": "einnehmen",
+          "en": "How often do I have to take the drops?"
+        }
+      ],
+      "notes": "Separable: ein|nehmen. In everyday speech people simply say 'nehmen'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "health",
+        "pharmacy"
+      ],
+      "synonyms": [
+        "nehmen"
+      ],
+      "antonyms": [],
+      "related": [
+        "medikament",
+        "tablette"
+      ]
+    },
+    {
+      "id": "impfen",
+      "word": "impfen",
+      "lemma": "impfen",
+      "translation": "to vaccinate",
+      "translations": [
+        "to vaccinate"
+      ],
+      "level": "A2",
+      "category": "Doctor, Pharmacy & Emergency",
+      "partOfSpeech": "verb",
+      "frequency": 1580,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "impfe",
+        "du": "impfst",
+        "er": "impft",
+        "wir": "impfen",
+        "ihr": "impft",
+        "sie": "impfen",
+        "praeteritum": "impfte",
+        "perfekt": "hat geimpft",
+        "imperativ": "impf(e)!"
+      },
+      "example_sentences": [
+        {
+          "de": "Wir impfen hier jeden Mittwochnachmittag.",
+          "en": "We vaccinate here every Wednesday afternoon."
+        },
+        {
+          "de": "Mein Sohn wurde gestern geimpft.",
+          "en": "My son was vaccinated yesterday."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Bist du gegen Grippe ___?",
+          "answer": "geimpft",
+          "en": "Are you vaccinated against flu?"
+        }
+      ],
+      "notes": "'sich impfen lassen' = to get vaccinated.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "health",
+        "doctor"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "impfung",
+        "spritze"
+      ]
+    },
+    {
+      "id": "messen",
+      "word": "messen",
+      "lemma": "messen",
+      "translation": "to measure",
+      "translations": [
+        "to measure",
+        "to take (a reading)"
+      ],
+      "level": "A2",
+      "category": "Doctor, Pharmacy & Emergency",
+      "partOfSpeech": "verb",
+      "frequency": 1460,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "messe",
+        "du": "misst",
+        "er": "misst",
+        "wir": "messen",
+        "ihr": "messt",
+        "sie": "messen",
+        "praeteritum": "maß",
+        "perfekt": "hat gemessen",
+        "imperativ": "miss!"
+      },
+      "example_sentences": [
+        {
+          "de": "Der Arzt misst zuerst den Blutdruck.",
+          "en": "The doctor takes the blood pressure first."
+        },
+        {
+          "de": "Hast du schon Fieber gemessen?",
+          "en": "Have you already taken your temperature?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ du bitte mal meine Temperatur?",
+          "answer": "Misst",
+          "en": "Could you take my temperature, please?"
+        }
+      ],
+      "notes": "Strong verb with vowel change: du misst, er misst.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "health",
+        "doctor"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "fieber"
+      ]
+    },
+    {
+      "id": "rufen",
+      "word": "rufen",
+      "lemma": "rufen",
+      "translation": "to call",
+      "translations": [
+        "to call",
+        "to shout"
+      ],
+      "level": "A1",
+      "category": "Doctor, Pharmacy & Emergency",
+      "partOfSpeech": "verb",
+      "frequency": 430,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "rufe",
+        "du": "rufst",
+        "er": "ruft",
+        "wir": "rufen",
+        "ihr": "ruft",
+        "sie": "rufen",
+        "praeteritum": "rief",
+        "perfekt": "hat gerufen",
+        "imperativ": "ruf(e)!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ruf bitte sofort einen Arzt!",
+          "en": "Please call a doctor immediately!"
+        },
+        {
+          "de": "Jemand hat laut um Hilfe gerufen.",
+          "en": "Someone shouted for help loudly."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Sollen wir die Polizei ___?",
+          "answer": "rufen",
+          "en": "Should we call the police?"
+        }
+      ],
+      "notes": "'rufen' = to call out or summon someone; 'anrufen' = to phone somebody.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "health",
+        "emergency",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "notruf",
+        "krankenwagen",
+        "hilfe"
+      ]
+    },
+    {
+      "id": "allergisch",
+      "word": "allergisch",
+      "lemma": "allergisch",
+      "translation": "allergic",
+      "translations": [
+        "allergic"
+      ],
+      "level": "A1",
+      "category": "Doctor, Pharmacy & Emergency",
+      "partOfSpeech": "adjective",
+      "frequency": 880,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich bin allergisch gegen Penicillin.",
+          "en": "I am allergic to penicillin."
+        },
+        {
+          "de": "Sie reagiert allergisch auf Katzen.",
+          "en": "She reacts allergically to cats."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Bist du gegen Nüsse ___?",
+          "answer": "allergisch",
+          "en": "Are you allergic to nuts?"
+        }
+      ],
+      "notes": "'allergisch gegen' + accusative. With 'reagieren' you can also say 'allergisch auf etwas reagieren'.",
+      "mnemonic": null,
+      "germany_context": "Tell the doctor and the pharmacy about every allergy before any treatment. Your doctor can issue an Allergiepass - carry it with your Versichertenkarte.",
+      "emoji": "🤧",
+      "imageable": false,
+      "tags": [
+        "health",
+        "doctor"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "allergie",
+        "ich-habe-eine-allergie-gegen"
+      ]
+    },
+    {
+      "id": "schwindelig",
+      "word": "schwindelig",
+      "lemma": "schwindelig",
+      "translation": "dizzy",
+      "translations": [
+        "dizzy",
+        "giddy"
+      ],
+      "level": "A2",
+      "category": "Doctor, Pharmacy & Emergency",
+      "partOfSpeech": "adjective",
+      "frequency": 1550,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Mir ist schwindelig.",
+          "en": "I feel dizzy."
+        },
+        {
+          "de": "Nach dem Sport wurde ihm schwindelig.",
+          "en": "He got dizzy after doing sport."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wenn dir ___ ist, setz dich sofort hin.",
+          "answer": "schwindelig",
+          "en": "If you feel dizzy, sit down immediately."
+        }
+      ],
+      "notes": "Always with the dative: 'Mir ist schwindelig', never 'Ich bin schwindelig'. The spelling 'schwindlig' is also correct.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "health",
+        "doctor"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "mir-ist-schlecht"
+      ]
+    },
+    {
+      "id": "verletzt",
+      "word": "verletzt",
+      "lemma": "verletzt",
+      "translation": "injured",
+      "translations": [
+        "injured",
+        "hurt"
+      ],
+      "level": "A1",
+      "category": "Doctor, Pharmacy & Emergency",
+      "partOfSpeech": "adjective",
+      "frequency": 990,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Zum Glück ist niemand verletzt.",
+          "en": "Luckily nobody is injured."
+        },
+        {
+          "de": "Er wurde beim Fußball verletzt.",
+          "en": "He got injured playing football."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Bei dem Unfall wurden zwei Menschen schwer ___.",
+          "answer": "verletzt",
+          "en": "Two people were seriously injured in the accident."
+        }
+      ],
+      "notes": "On the phone to 112 they ask: Wie viele Verletzte? - How many injured people?",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "health",
+        "emergency"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "gesund"
+      ],
+      "related": [
+        "unfall",
+        "notruf"
+      ]
+    },
+    {
+      "id": "bewusstlos",
+      "word": "bewusstlos",
+      "lemma": "bewusstlos",
+      "translation": "unconscious",
+      "translations": [
+        "unconscious"
+      ],
+      "level": "A2",
+      "category": "Doctor, Pharmacy & Emergency",
+      "partOfSpeech": "adjective",
+      "frequency": 2280,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Mann ist bewusstlos.",
+          "en": "The man is unconscious."
+        },
+        {
+          "de": "Sie war zum Glück nur kurz bewusstlos.",
+          "en": "Luckily she was only unconscious for a short time."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Er lag ___ auf dem Boden.",
+          "answer": "bewusstlos",
+          "en": "He was lying unconscious on the floor."
+        }
+      ],
+      "notes": "Emergency sentence: 'Die Person ist bewusstlos und atmet nicht.'",
+      "mnemonic": null,
+      "germany_context": "If someone is unconscious but still breathing, put them in the stabile Seitenlage (recovery position) and call 112 at once.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "health",
+        "emergency"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "notruf",
+        "erste-hilfe"
+      ]
+    },
+    {
+      "id": "versichert",
+      "word": "versichert",
+      "lemma": "versichert",
+      "translation": "insured",
+      "translations": [
+        "insured"
+      ],
+      "level": "A2",
+      "category": "Doctor, Pharmacy & Emergency",
+      "partOfSpeech": "adjective",
+      "frequency": 1010,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich bin gesetzlich versichert.",
+          "en": "I have statutory health insurance."
+        },
+        {
+          "de": "Sind Sie privat versichert?",
+          "en": "Are you privately insured?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Bei welcher Kasse sind Sie ___?",
+          "answer": "versichert",
+          "en": "Which fund are you insured with?"
+        }
+      ],
+      "notes": "'gesetzlich versichert' (statutory) versus 'privat versichert' (private).",
+      "mnemonic": null,
+      "germany_context": "Every reception desk asks 'gesetzlich oder privat?'. Privately insured patients often get appointments faster but pay the bill themselves first and claim it back.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "health",
+        "bureaucracy"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "krankenkasse",
+        "versichertenkarte"
+      ]
+    },
+    {
+      "id": "hilfe",
+      "word": "Hilfe!",
+      "lemma": "Hilfe",
+      "translation": "help!",
+      "translations": [
+        "help!"
+      ],
+      "level": "A0",
+      "category": "Doctor, Pharmacy & Emergency",
+      "partOfSpeech": "interjection",
+      "frequency": 90,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Hilfe! Bitte helfen Sie mir!",
+          "en": "Help! Please help me!"
+        },
+        {
+          "de": "Hilfe, hier ist ein Unfall passiert!",
+          "en": "Help, there has been an accident here!"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___! Ich brauche sofort einen Arzt!",
+          "answer": "Hilfe",
+          "en": "Help! I need a doctor right away!"
+        }
+      ],
+      "notes": "As a noun 'die Hilfe' means help: Ich brauche Hilfe.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🆘",
+      "imageable": false,
+      "tags": [
+        "health",
+        "emergency",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "rufen",
+        "erste-hilfe"
+      ]
+    },
+    {
+      "id": "rufen-sie-einen-krankenwagen",
+      "word": "Rufen Sie einen Krankenwagen!",
+      "lemma": "einen Krankenwagen rufen",
+      "translation": "call an ambulance!",
+      "translations": [
+        "call an ambulance!"
+      ],
+      "level": "A0",
+      "category": "Doctor, Pharmacy & Emergency",
+      "partOfSpeech": "phrase",
+      "frequency": 150,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Rufen Sie einen Krankenwagen, bitte schnell!",
+          "en": "Call an ambulance, quickly please!"
+        },
+        {
+          "de": "Bitte rufen Sie einen Krankenwagen, es ist dringend!",
+          "en": "Please call an ambulance, it is urgent!"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Schnell, ___ Sie einen Krankenwagen!",
+          "answer": "rufen",
+          "en": "Quick, call an ambulance!"
+        }
+      ],
+      "notes": "Informal version: 'Ruf einen Krankenwagen!' The official word is Rettungswagen, but both are understood.",
+      "mnemonic": null,
+      "germany_context": "Faster still: dial 112 yourself. It works from any phone, is free, needs no SIM credit and the dispatchers usually speak English.",
+      "emoji": "🚑",
+      "imageable": false,
+      "tags": [
+        "health",
+        "emergency",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "krankenwagen",
+        "notruf"
+      ]
+    },
+    {
+      "id": "es-ist-ein-notfall",
+      "word": "Es ist ein Notfall!",
+      "lemma": "es ist ein Notfall",
+      "translation": "it's an emergency!",
+      "translations": [
+        "it's an emergency!"
+      ],
+      "level": "A0",
+      "category": "Doctor, Pharmacy & Emergency",
+      "partOfSpeech": "phrase",
+      "frequency": 190,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Es ist ein Notfall, bitte kommen Sie sofort!",
+          "en": "It is an emergency, please come immediately!"
+        },
+        {
+          "de": "Es ist ein Notfall. Mein Kind bekommt keine Luft.",
+          "en": "It is an emergency. My child cannot breathe."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Bitte helfen Sie mir, es ist ein ___!",
+          "answer": "Notfall",
+          "en": "Please help me, it is an emergency!"
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Saying 'Es ist ein Notfall' on the phone or at the reception desk gets you seen or connected much faster - so use it only when it is true.",
+      "emoji": "🚨",
+      "imageable": false,
+      "tags": [
+        "health",
+        "emergency",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "notfall",
+        "notaufnahme"
+      ]
+    },
+    {
+      "id": "ich-brauche-einen-termin",
+      "word": "Ich brauche einen Termin.",
+      "lemma": "ich brauche einen Termin",
+      "translation": "I need an appointment.",
+      "translations": [
+        "I need an appointment."
+      ],
+      "level": "A1",
+      "category": "Doctor, Pharmacy & Emergency",
+      "partOfSpeech": "phrase",
+      "frequency": 220,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Guten Tag, ich brauche einen Termin bei Dr. Meyer.",
+          "en": "Hello, I need an appointment with Dr. Meyer."
+        },
+        {
+          "de": "Ich brauche einen Termin, möglichst noch diese Woche.",
+          "en": "I need an appointment, ideally still this week."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Guten Tag, ich ___ einen Termin.",
+          "answer": "brauche",
+          "en": "Hello, I need an appointment."
+        }
+      ],
+      "notes": "More formal: 'Ich möchte einen Termin vereinbaren.'",
+      "mnemonic": null,
+      "germany_context": "Phone the moment the practice opens - later the line is busy all day. Say what it is about, because urgent cases get an earlier slot, and take your Versichertenkarte with you.",
+      "emoji": "📅",
+      "imageable": false,
+      "tags": [
+        "health",
+        "doctor",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "arzttermin",
+        "praxis"
+      ]
+    },
+    {
+      "id": "mir-ist-schlecht",
+      "word": "Mir ist schlecht.",
+      "lemma": "mir ist schlecht",
+      "translation": "I feel sick.",
+      "translations": [
+        "I feel sick.",
+        "I feel nauseous."
+      ],
+      "level": "A1",
+      "category": "Doctor, Pharmacy & Emergency",
+      "partOfSpeech": "phrase",
+      "frequency": 260,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Mir ist schlecht, ich glaube, ich muss mich übergeben.",
+          "en": "I feel sick, I think I have to throw up."
+        },
+        {
+          "de": "Seit heute Morgen ist mir schlecht.",
+          "en": "I have been feeling sick since this morning."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Können wir kurz anhalten? ___ ist schlecht.",
+          "answer": "Mir",
+          "en": "Can we stop for a moment? I feel sick."
+        }
+      ],
+      "notes": "Dative construction: mir / dir / ihm ist schlecht. Never say 'Ich bin schlecht' - that means you are a bad person.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🤢",
+      "imageable": false,
+      "tags": [
+        "health",
+        "doctor",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "uebergeben",
+        "schwindelig"
+      ]
+    },
+    {
+      "id": "ich-habe-schmerzen-hier",
+      "word": "Ich habe hier Schmerzen.",
+      "lemma": "ich habe hier Schmerzen",
+      "translation": "I have pain here.",
+      "translations": [
+        "I have pain here.",
+        "it hurts here"
+      ],
+      "level": "A1",
+      "category": "Doctor, Pharmacy & Emergency",
+      "partOfSpeech": "phrase",
+      "frequency": 280,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich habe hier Schmerzen, im unteren Rücken.",
+          "en": "I have pain here, in my lower back."
+        },
+        {
+          "de": "Ich habe hier Schmerzen, wenn ich mich bewege.",
+          "en": "I have pain here when I move."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Seit gestern habe ich hier ___.",
+          "answer": "Schmerzen",
+          "en": "I have had pain here since yesterday."
+        }
+      ],
+      "notes": "Point at the spot while you say it - the easiest way to explain a problem. Add 'seit gestern' or 'seit einer Woche' to say how long.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "health",
+        "doctor",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "schmerz",
+        "arzt"
+      ]
+    },
+    {
+      "id": "ich-habe-eine-allergie-gegen",
+      "word": "Ich habe eine Allergie gegen …",
+      "lemma": "eine Allergie gegen etwas haben",
+      "translation": "I have an allergy to …",
+      "translations": [
+        "I have an allergy to …"
+      ],
+      "level": "A1",
+      "category": "Doctor, Pharmacy & Emergency",
+      "partOfSpeech": "phrase",
+      "frequency": 450,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich habe eine Allergie gegen Penicillin.",
+          "en": "I have an allergy to penicillin."
+        },
+        {
+          "de": "Ich habe eine Allergie gegen Hausstaub.",
+          "en": "I have an allergy to house dust."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Sagen Sie mir bitte: Haben Sie eine ___ gegen Medikamente?",
+          "answer": "Allergie",
+          "en": "Please tell me: do you have an allergy to any medication?"
+        }
+      ],
+      "notes": "Equally common: 'Ich bin allergisch gegen ...'. Always with 'gegen'.",
+      "mnemonic": null,
+      "germany_context": "Say this before any treatment, injection or prescription. Your doctor can also issue an Allergiepass - keep it next to your Versichertenkarte.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "health",
+        "doctor",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "allergisch",
+        "allergie"
+      ]
+    },
+    {
+      "id": "wo-ist-die-naechste-apotheke",
+      "word": "Wo ist die nächste Apotheke?",
+      "lemma": "wo ist die nächste Apotheke",
+      "translation": "where is the nearest pharmacy?",
+      "translations": [
+        "where is the nearest pharmacy?"
+      ],
+      "level": "A0",
+      "category": "Doctor, Pharmacy & Emergency",
+      "partOfSpeech": "phrase",
+      "frequency": 170,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Entschuldigung, wo ist die nächste Apotheke?",
+          "en": "Excuse me, where is the nearest pharmacy?"
+        },
+        {
+          "de": "Wo ist die nächste Apotheke, die heute Notdienst hat?",
+          "en": "Where is the nearest pharmacy on emergency duty today?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Entschuldigung, wo ist die nächste ___?",
+          "answer": "Apotheke",
+          "en": "Excuse me, where is the nearest pharmacy?"
+        }
+      ],
+      "notes": "The same pattern works everywhere: 'Wo ist das nächste Krankenhaus?'",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "💊",
+      "imageable": false,
+      "tags": [
+        "health",
+        "pharmacy",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "apotheke",
+        "notdienst"
+      ]
+    },
+    {
+      "id": "haben-sie-etwas-gegen-kopfschmerzen",
+      "word": "Haben Sie etwas gegen Kopfschmerzen?",
+      "lemma": "haben Sie etwas gegen Kopfschmerzen",
+      "translation": "do you have something for a headache?",
+      "translations": [
+        "do you have something for a headache?"
+      ],
+      "level": "A2",
+      "category": "Doctor, Pharmacy & Emergency",
+      "partOfSpeech": "phrase",
+      "frequency": 620,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Guten Tag, haben Sie etwas gegen Kopfschmerzen?",
+          "en": "Hello, do you have something for a headache?"
+        },
+        {
+          "de": "Haben Sie etwas gegen Kopfschmerzen ohne Rezept?",
+          "en": "Do you have something for a headache without a prescription?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Haben Sie ___ gegen Halsschmerzen?",
+          "answer": "etwas",
+          "en": "Do you have something for a sore throat?"
+        }
+      ],
+      "notes": "Swap the last word for anything: gegen Husten, gegen Fieber, gegen Bauchschmerzen.",
+      "mnemonic": null,
+      "germany_context": "This is the standard sentence in a German pharmacy. Painkillers sit behind the counter, so you always have to ask; the Apotheker will suggest a product and explain the dose.",
+      "emoji": "💊",
+      "imageable": false,
+      "tags": [
+        "health",
+        "pharmacy",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "apotheke",
+        "apotheker",
+        "tablette"
+      ]
+    },
+    {
+      "id": "krankenversicherung",
+      "word": "die Krankenversicherung",
+      "lemma": "Krankenversicherung",
+      "translation": "health insurance",
+      "translations": [
+        "health insurance"
+      ],
+      "level": "A1",
+      "category": "Doctor, Pharmacy & Emergency",
+      "partOfSpeech": "noun",
+      "frequency": 560,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Krankenversicherungen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ohne Krankenversicherung geht in Deutschland nichts.",
+          "en": "Without health insurance nothing works in Germany."
+        },
+        {
+          "de": "Meine Krankenversicherung bezahlt die Brille leider nicht.",
+          "en": "Unfortunately my health insurance does not pay for the glasses."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Hast du schon eine ___?",
+          "answer": "Krankenversicherung",
+          "en": "Do you already have health insurance?"
+        }
+      ],
+      "notes": "The insurer itself is usually called 'die Krankenkasse'.",
+      "mnemonic": null,
+      "germany_context": "Health insurance is compulsory for everyone living in Germany. Employees are registered with a gesetzliche Kasse (TK, AOK, Barmer) and the contribution comes straight out of the salary. You need proof of it for your visa and your Anmeldung.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "health",
+        "bureaucracy",
+        "essential",
+        "money"
+      ],
+      "synonyms": [
+        "Krankenkasse"
+      ],
+      "antonyms": [],
+      "related": [
+        "krankenkasse",
+        "versichertenkarte",
+        "versichert"
+      ]
+    },
+    {
+      "id": "schmerzmittel",
+      "word": "das Schmerzmittel",
+      "lemma": "Schmerzmittel",
+      "translation": "painkiller",
+      "translations": [
+        "painkiller",
+        "pain medication"
+      ],
+      "level": "A1",
+      "category": "Doctor, Pharmacy & Emergency",
+      "partOfSpeech": "noun",
+      "frequency": 1240,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Schmerzmittel",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Haben Sie ein Schmerzmittel ohne Rezept?",
+          "en": "Do you have a painkiller without a prescription?"
+        },
+        {
+          "de": "Das Schmerzmittel wirkt nach etwa zwanzig Minuten.",
+          "en": "The painkiller works after about twenty minutes."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Nimm ein ___, wenn der Zahn wieder wehtut.",
+          "answer": "Schmerzmittel",
+          "en": "Take a painkiller if the tooth hurts again."
+        }
+      ],
+      "notes": "Common ones in Germany: Ibuprofen, Paracetamol, Aspirin.",
+      "mnemonic": null,
+      "germany_context": "Painkillers are kept behind the counter in the Apotheke and are never sold in supermarkets. Ask for a kleine Packung - it is cheap and needs no prescription.",
+      "emoji": "💊",
+      "imageable": true,
+      "tags": [
+        "health",
+        "pharmacy",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "apotheke",
+        "tablette",
+        "rezept"
+      ]
+    },
+    {
+      "id": "nebenwirkung",
+      "word": "die Nebenwirkung",
+      "lemma": "Nebenwirkung",
+      "translation": "side effect",
+      "translations": [
+        "side effect"
+      ],
+      "level": "A2",
+      "category": "Doctor, Pharmacy & Emergency",
+      "partOfSpeech": "noun",
+      "frequency": 1620,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Nebenwirkungen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Das Medikament hat starke Nebenwirkungen.",
+          "en": "The medicine has strong side effects."
+        },
+        {
+          "de": "Welche Nebenwirkungen hat diese Tablette?",
+          "en": "What side effects does this tablet have?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Bitte lesen Sie die ___ im Beipackzettel.",
+          "answer": "Nebenwirkungen",
+          "en": "Please read the side effects in the package leaflet."
+        }
+      ],
+      "notes": "From the famous advert line: 'Zu Risiken und Nebenwirkungen fragen Sie Ihren Arzt oder Apotheker.'",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "health",
+        "pharmacy"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "beipackzettel",
+        "medikament"
+      ]
+    },
+    {
+      "id": "beipackzettel",
+      "word": "der Beipackzettel",
+      "lemma": "Beipackzettel",
+      "translation": "package leaflet",
+      "translations": [
+        "package leaflet",
+        "package insert"
+      ],
+      "level": "A2",
+      "category": "Doctor, Pharmacy & Emergency",
+      "partOfSpeech": "noun",
+      "frequency": 2150,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Beipackzettel",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Beipackzettel ist sehr klein gedruckt.",
+          "en": "The package leaflet is printed very small."
+        },
+        {
+          "de": "Lies bitte zuerst den Beipackzettel.",
+          "en": "Please read the package leaflet first."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Im ___ steht, wie oft man das nehmen darf.",
+          "answer": "Beipackzettel",
+          "en": "The package leaflet says how often you may take it."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Every German medicine box holds a long Beipackzettel. If the German is too much, just ask the Apotheker: Wie oft und wie viel?",
+      "emoji": "📄",
+      "imageable": true,
+      "tags": [
+        "health",
+        "pharmacy"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "nebenwirkung",
+        "medikament"
+      ]
+    },
+    {
+      "id": "blutdruck",
+      "word": "der Blutdruck",
+      "lemma": "Blutdruck",
+      "translation": "blood pressure",
+      "translations": [
+        "blood pressure"
+      ],
+      "level": "A2",
+      "category": "Doctor, Pharmacy & Emergency",
+      "partOfSpeech": "noun",
+      "frequency": 1760,
+      "gender": "m",
+      "article": "der",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Mein Blutdruck ist leider zu hoch.",
+          "en": "Unfortunately my blood pressure is too high."
+        },
+        {
+          "de": "Die Ärztin misst jeden Monat meinen Blutdruck.",
+          "en": "The doctor measures my blood pressure every month."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Arzt hat zuerst meinen ___ gemessen.",
+          "answer": "Blutdruck",
+          "en": "The doctor measured my blood pressure first."
+        }
+      ],
+      "notes": "No plural. 'hoher Blutdruck' = high blood pressure.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "health",
+        "doctor"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "messen",
+        "untersuchung"
+      ]
+    },
+    {
+      "id": "zuzahlung",
+      "word": "die Zuzahlung",
+      "lemma": "Zuzahlung",
+      "translation": "co-payment",
+      "translations": [
+        "co-payment",
+        "additional payment"
+      ],
+      "level": "A2",
+      "category": "Doctor, Pharmacy & Emergency",
+      "partOfSpeech": "noun",
+      "frequency": 1980,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Zuzahlungen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Für dieses Medikament zahlen Sie fünf Euro Zuzahlung.",
+          "en": "For this medicine you pay five euros co-payment."
+        },
+        {
+          "de": "Die Zuzahlung ist bei jedem Rezept fällig.",
+          "en": "The co-payment is due with every prescription."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wie hoch ist die ___ für diese Tabletten?",
+          "answer": "Zuzahlung",
+          "en": "How high is the co-payment for these tablets?"
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "On a Kassenrezept adults pay 10 % of the price, at least 5 and at most 10 euros per item. Children under 18 pay nothing, and chronically ill patients can apply to their Kasse for a Befreiung.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "health",
+        "bureaucracy",
+        "money",
+        "pharmacy"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "rezept",
+        "krankenversicherung"
+      ]
+    },
+    {
+      "id": "bereitschaftsdienst",
+      "word": "der Bereitschaftsdienst",
+      "lemma": "Bereitschaftsdienst",
+      "translation": "on-call service",
+      "translations": [
+        "on-call service",
+        "out-of-hours service"
+      ],
+      "level": "A2",
+      "category": "Doctor, Pharmacy & Emergency",
+      "partOfSpeech": "noun",
+      "frequency": 1890,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Bereitschaftsdienste",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Am Wochenende hilft der ärztliche Bereitschaftsdienst.",
+          "en": "At the weekend the on-call medical service helps."
+        },
+        {
+          "de": "Der Bereitschaftsdienst hat die Nummer 116117.",
+          "en": "The on-call service has the number 116117."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ruf abends den ___ an, nicht die 112.",
+          "answer": "Bereitschaftsdienst",
+          "en": "In the evening call the on-call service, not 112."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "116117 is the ärztlicher Bereitschaftsdienst: free, around the clock, for problems that cannot wait until the practice opens but are not life-threatening. It also finds urgent specialist appointments for you.",
+      "emoji": "📞",
+      "imageable": false,
+      "tags": [
+        "health",
+        "emergency",
+        "doctor"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "notdienst",
+        "notaufnahme",
+        "notruf"
+      ]
+    },
+    {
+      "id": "impfpass",
+      "word": "der Impfpass",
+      "lemma": "Impfpass",
+      "translation": "vaccination card",
+      "translations": [
+        "vaccination card",
+        "vaccination record"
+      ],
+      "level": "A2",
+      "category": "Doctor, Pharmacy & Emergency",
+      "partOfSpeech": "noun",
+      "frequency": 1930,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Impfpässe",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Bring bitte deinen Impfpass mit.",
+          "en": "Please bring your vaccination card with you."
+        },
+        {
+          "de": "Mein Impfpass ist gelb und schon ziemlich alt.",
+          "en": "My vaccination card is yellow and already quite old."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Arzt trägt die Impfung in den ___ ein.",
+          "answer": "Impfpass",
+          "en": "The doctor enters the vaccination in the vaccination card."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "The yellow Impfpass is an official document. Kitas, schools and many employers ask to see it, so keep it with your passport - replacing a lost one means digging through old doctors' records.",
+      "emoji": "📒",
+      "imageable": true,
+      "tags": [
+        "health",
+        "doctor",
+        "bureaucracy"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "impfung",
+        "impfen"
+      ]
+    },
+    {
+      "id": "nasenspray",
+      "word": "das Nasenspray",
+      "lemma": "Nasenspray",
+      "translation": "nasal spray",
+      "translations": [
+        "nasal spray"
+      ],
+      "level": "A2",
+      "category": "Doctor, Pharmacy & Emergency",
+      "partOfSpeech": "noun",
+      "frequency": 1830,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Nasensprays",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich brauche ein Nasenspray, meine Nase ist zu.",
+          "en": "I need a nasal spray, my nose is blocked."
+        },
+        {
+          "de": "Das Nasenspray hilft sofort.",
+          "en": "The nasal spray helps immediately."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Bei Schnupfen benutze ich ein ___.",
+          "answer": "Nasenspray",
+          "en": "When I have a runny nose I use a nasal spray."
+        }
+      ],
+      "notes": "Do not use it for more than about a week - the nose gets used to it.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "👃",
+      "imageable": true,
+      "tags": [
+        "health",
+        "pharmacy"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "apotheke",
+        "erkaeltung"
+      ]
+    },
+    {
+      "id": "thermometer",
+      "word": "das Thermometer",
+      "lemma": "Thermometer",
+      "translation": "thermometer",
+      "translations": [
+        "thermometer"
+      ],
+      "level": "A2",
+      "category": "Doctor, Pharmacy & Emergency",
+      "partOfSpeech": "noun",
+      "frequency": 2020,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Thermometer",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Wo ist das Thermometer?",
+          "en": "Where is the thermometer?"
+        },
+        {
+          "de": "Das Thermometer zeigt achtunddreißig Grad.",
+          "en": "The thermometer shows thirty-eight degrees."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Hol bitte das ___ aus dem Bad.",
+          "answer": "Thermometer",
+          "en": "Please get the thermometer from the bathroom."
+        }
+      ],
+      "notes": "Full word: das Fieberthermometer.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🌡️",
+      "imageable": true,
+      "tags": [
+        "health",
+        "doctor"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "fieber",
+        "messen"
+      ]
+    },
+    {
+      "id": "antibiotikum",
+      "word": "das Antibiotikum",
+      "lemma": "Antibiotikum",
+      "translation": "antibiotic",
+      "translations": [
+        "antibiotic"
+      ],
+      "level": "A2",
+      "category": "Doctor, Pharmacy & Emergency",
+      "partOfSpeech": "noun",
+      "frequency": 1710,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Antibiotika",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Arzt hat mir ein Antibiotikum verschrieben.",
+          "en": "The doctor prescribed me an antibiotic."
+        },
+        {
+          "de": "Nehmen Sie das Antibiotikum bitte bis zum Ende.",
+          "en": "Please take the antibiotic until the end."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Gegen eine Erkältung hilft kein ___.",
+          "answer": "Antibiotikum",
+          "en": "An antibiotic does not help against a cold."
+        }
+      ],
+      "notes": "Plural: die Antibiotika. Only available on prescription.",
+      "mnemonic": null,
+      "germany_context": "German doctors prescribe antibiotics sparingly and often say 'das ist viral'. Do not expect a prescription for a normal cold.",
+      "emoji": null,
+      "imageable": true,
+      "tags": [
+        "health",
+        "pharmacy"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "rezept",
+        "verschreiben"
+      ]
+    },
+    {
+      "id": "hautarzt",
+      "word": "der Hautarzt",
+      "lemma": "Hautarzt",
+      "translation": "dermatologist",
+      "translations": [
+        "dermatologist",
+        "skin doctor"
+      ],
+      "level": "A2",
+      "category": "Doctor, Pharmacy & Emergency",
+      "partOfSpeech": "noun",
+      "frequency": 1670,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Hautärzte",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich habe einen Termin beim Hautarzt.",
+          "en": "I have an appointment with the dermatologist."
+        },
+        {
+          "de": "Der Hautarzt hat mir eine Salbe verschrieben.",
+          "en": "The dermatologist prescribed me an ointment."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Für den Ausschlag gehst du besser zum ___.",
+          "answer": "Hautarzt",
+          "en": "For that rash you had better go to the dermatologist."
+        }
+      ],
+      "notes": "More formal: der Dermatologe. Female: die Hautärztin.",
+      "mnemonic": null,
+      "germany_context": "The Hautarzt needs an Überweisung and often has waiting times of several months. From 35 the Krankenkasse pays a skin cancer screening (Hautkrebsscreening) every two years.",
+      "emoji": null,
+      "imageable": true,
+      "tags": [
+        "health",
+        "doctor"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "facharzt",
+        "ueberweisung",
+        "salbe"
+      ]
+    },
+    {
+      "id": "ich-moechte-den-termin-absagen",
+      "word": "Ich möchte den Termin absagen.",
+      "lemma": "den Termin absagen",
+      "translation": "I would like to cancel the appointment.",
+      "translations": [
+        "I would like to cancel the appointment."
+      ],
+      "level": "A2",
+      "category": "Doctor, Pharmacy & Emergency",
+      "partOfSpeech": "phrase",
+      "frequency": 700,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Guten Tag, ich möchte den Termin am Freitag absagen.",
+          "en": "Hello, I would like to cancel the appointment on Friday."
+        },
+        {
+          "de": "Ich möchte den Termin absagen und einen neuen vereinbaren.",
+          "en": "I would like to cancel the appointment and make a new one."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich bin krank und möchte den Termin ___.",
+          "answer": "absagen",
+          "en": "I am ill and would like to cancel the appointment."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Cancel at least 24 hours in advance. Practices keep the slot free for you, and if you simply do not turn up some of them send an Ausfallgebühr of 20 to 50 euros.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "health",
+        "doctor",
+        "bureaucracy"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "arzttermin",
+        "ich-brauche-einen-termin"
+      ]
+    },
+    {
+      "id": "wie-oft-muss-ich-das-nehmen",
+      "word": "Wie oft muss ich das nehmen?",
+      "lemma": "wie oft muss ich das nehmen",
+      "translation": "how often do I have to take this?",
+      "translations": [
+        "how often do I have to take this?"
+      ],
+      "level": "A2",
+      "category": "Doctor, Pharmacy & Emergency",
+      "partOfSpeech": "phrase",
+      "frequency": 810,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Wie oft muss ich das nehmen, zweimal oder dreimal am Tag?",
+          "en": "How often do I have to take this, twice or three times a day?"
+        },
+        {
+          "de": "Wie oft muss ich das nehmen und wie lange?",
+          "en": "How often do I have to take this and for how long?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Und wie ___ muss ich das nehmen?",
+          "answer": "oft",
+          "en": "And how often do I have to take this?"
+        }
+      ],
+      "notes": "Typical answers: einmal / zweimal / dreimal täglich, vor oder nach dem Essen.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "health",
+        "pharmacy",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "einnehmen",
+        "beipackzettel",
+        "apotheker"
+      ]
+    }
+  ]
+}

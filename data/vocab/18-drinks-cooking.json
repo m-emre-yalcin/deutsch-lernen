@@ -1,0 +1,4417 @@
+{
+  "category": "Drinks & Cooking",
+  "words": [
+    {
+      "id": "wasser",
+      "word": "das Wasser",
+      "lemma": "Wasser",
+      "translation": "water",
+      "translations": [
+        "water"
+      ],
+      "level": "A0",
+      "category": "Drinks & Cooking",
+      "partOfSpeech": "noun",
+      "frequency": 120,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Wässer",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "des Wassers"
+      },
+      "example_sentences": [
+        {
+          "de": "Ein Wasser, bitte.",
+          "en": "A water, please."
+        },
+        {
+          "de": "Das Wasser ist noch zu heiß.",
+          "en": "The water is still too hot."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Kann ich bitte ein Glas ___ haben?",
+          "answer": "Wasser",
+          "en": "Can I please have a glass of water?"
+        }
+      ],
+      "notes": "Im Restaurant bestellt man meist eine Flasche Wasser, kein Glas aus dem Hahn.",
+      "mnemonic": "Wasser ~ water — same W sound.",
+      "germany_context": "Wasser im Restaurant wird fast immer als Flasche verkauft (2–5 €). Gratis-Wasser wie in der Türkei oder den USA gibt es normalerweise nicht.",
+      "emoji": "💧",
+      "imageable": true,
+      "tags": [
+        "drinks",
+        "essential",
+        "restaurant"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "leitungswasser",
+        "mineralwasser",
+        "getraenk"
+      ]
+    },
+    {
+      "id": "leitungswasser",
+      "word": "das Leitungswasser",
+      "lemma": "Leitungswasser",
+      "translation": "tap water",
+      "translations": [
+        "tap water"
+      ],
+      "level": "A2",
+      "category": "Drinks & Cooking",
+      "partOfSpeech": "noun",
+      "frequency": 740,
+      "gender": "n",
+      "article": "das",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "des Leitungswassers"
+      },
+      "example_sentences": [
+        {
+          "de": "Leitungswasser kann man in Deutschland trinken.",
+          "en": "You can drink tap water in Germany."
+        },
+        {
+          "de": "Ich koche meinen Tee mit Leitungswasser.",
+          "en": "I make my tea with tap water."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Könnte ich bitte auch ein Glas ___ bekommen?",
+          "answer": "Leitungswasser",
+          "en": "Could I also get a glass of tap water, please?"
+        }
+      ],
+      "notes": "Auch \"Wasser aus der Leitung\" oder umgangssprachlich \"Kranwasser\" (Norden).",
+      "mnemonic": "Leitung = pipe/line → Leitungswasser = water from the pipe.",
+      "germany_context": "Leitungswasser hat sehr gute Qualität und ist überall trinkbar, aber im Restaurant ist es meist NICHT kostenlos — viele Lokale bringen es gar nicht oder berechnen 0,50–1 €.",
+      "emoji": "🚰",
+      "imageable": true,
+      "tags": [
+        "drinks",
+        "germany",
+        "restaurant"
+      ],
+      "synonyms": [
+        "Kranwasser"
+      ],
+      "antonyms": [
+        "Mineralwasser"
+      ],
+      "related": [
+        "wasser",
+        "mineralwasser"
+      ]
+    },
+    {
+      "id": "mineralwasser",
+      "word": "das Mineralwasser",
+      "lemma": "Mineralwasser",
+      "translation": "mineral water",
+      "translations": [
+        "mineral water",
+        "bottled water"
+      ],
+      "level": "A1",
+      "category": "Drinks & Cooking",
+      "partOfSpeech": "noun",
+      "frequency": 640,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Mineralwässer",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "des Mineralwassers"
+      },
+      "example_sentences": [
+        {
+          "de": "Wir nehmen eine Flasche Mineralwasser.",
+          "en": "We'll take a bottle of mineral water."
+        },
+        {
+          "de": "Das Mineralwasser steht im Kühlschrank.",
+          "en": "The mineral water is in the fridge."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Möchten Sie ___ mit oder ohne Kohlensäure?",
+          "answer": "Mineralwasser",
+          "en": "Would you like mineral water with or without carbonation?"
+        }
+      ],
+      "notes": "Im Alltag sagt man oft nur \"Wasser\" und klärt dann \"still oder mit Sprudel?\".",
+      "mnemonic": "Mineral + Wasser — fast wie im Englischen.",
+      "germany_context": "Standard im Restaurant ist Mineralwasser MIT Kohlensäure. Wer stilles Wasser will, muss ausdrücklich \"still, bitte\" sagen.",
+      "emoji": "🥤",
+      "imageable": true,
+      "tags": [
+        "drinks",
+        "restaurant",
+        "supermarket"
+      ],
+      "synonyms": [
+        "Sprudelwasser"
+      ],
+      "antonyms": [
+        "Leitungswasser"
+      ],
+      "related": [
+        "wasser",
+        "sprudel",
+        "kohlensaeure",
+        "still"
+      ]
+    },
+    {
+      "id": "sprudel",
+      "word": "der Sprudel",
+      "lemma": "Sprudel",
+      "translation": "sparkling water",
+      "translations": [
+        "sparkling water",
+        "fizzy water"
+      ],
+      "level": "A2",
+      "category": "Drinks & Cooking",
+      "partOfSpeech": "noun",
+      "frequency": 900,
+      "gender": "m",
+      "article": "der",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "des Sprudels"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich trinke lieber Sprudel als stilles Wasser.",
+          "en": "I prefer sparkling water to still water."
+        },
+        {
+          "de": "Wir haben keinen Sprudel mehr im Haus.",
+          "en": "We don't have any sparkling water left in the house."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Bringst du bitte eine Flasche ___ mit?",
+          "answer": "Sprudel",
+          "en": "Could you bring a bottle of sparkling water?"
+        }
+      ],
+      "notes": "\"Wasser mit Sprudel\" = mit Kohlensäure. Das Verb \"sprudeln\" heißt bubble/fizz.",
+      "mnemonic": "Sprudel klingt wie das Sprudeln der Blasen.",
+      "germany_context": "\"Sprudel\" ist vor allem im Süden und Westen üblich; im Norden sagt man eher \"Wasser mit Kohlensäure\" oder \"Selters\".",
+      "emoji": "🫧",
+      "imageable": true,
+      "tags": [
+        "drinks",
+        "regional"
+      ],
+      "synonyms": [
+        "Sprudelwasser",
+        "Selters"
+      ],
+      "antonyms": [],
+      "related": [
+        "mineralwasser",
+        "kohlensaeure",
+        "still"
+      ]
+    },
+    {
+      "id": "kohlensaeure",
+      "word": "die Kohlensäure",
+      "lemma": "Kohlensäure",
+      "translation": "carbonation",
+      "translations": [
+        "carbonation",
+        "fizz",
+        "carbon dioxide (in drinks)"
+      ],
+      "level": "A2",
+      "category": "Drinks & Cooking",
+      "partOfSpeech": "noun",
+      "frequency": 1150,
+      "gender": "f",
+      "article": "die",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "der Kohlensäure"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich mag kein Wasser mit Kohlensäure.",
+          "en": "I don't like water with carbonation."
+        },
+        {
+          "de": "Die Limonade hat viel Kohlensäure.",
+          "en": "The lemonade is very fizzy."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Einmal Wasser ohne ___, bitte.",
+          "answer": "Kohlensäure",
+          "en": "One water without carbonation, please."
+        }
+      ],
+      "notes": "Nur im Singular. Alle Wörter auf -säure sind feminin.",
+      "mnemonic": "-säure (acid) ist immer feminin: die Kohlensäure.",
+      "germany_context": "\"Mit oder ohne Kohlensäure?\" ist die Standardfrage beim Wasserkauf und im Restaurant. Im Supermarkt bedeutet die blaue Kappe still, grün/rot bedeutet sprudelnd.",
+      "emoji": "🫧",
+      "imageable": false,
+      "tags": [
+        "drinks",
+        "restaurant"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "mineralwasser",
+        "sprudel",
+        "still"
+      ]
+    },
+    {
+      "id": "still",
+      "word": "still",
+      "lemma": "still",
+      "translation": "still (non-carbonated)",
+      "translations": [
+        "still (non-carbonated)",
+        "quiet"
+      ],
+      "level": "A1",
+      "category": "Drinks & Cooking",
+      "partOfSpeech": "adjective",
+      "frequency": 520,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "komparativ": "stiller",
+        "superlativ": "am stillsten"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich hätte gern ein stilles Wasser.",
+          "en": "I'd like a still water."
+        },
+        {
+          "de": "Still oder mit Kohlensäure?",
+          "en": "Still or sparkling?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Für mich bitte ein ___es Wasser.",
+          "answer": "still",
+          "en": "For me a still water, please."
+        }
+      ],
+      "notes": "Doppelbedeutung: \"still\" heißt auch \"leise/ruhig\" (ein stiller Raum).",
+      "mnemonic": "\"still\" wie englisch still water — gleiche Bedeutung.",
+      "germany_context": "Ohne \"still\" zu sagen bekommst du in Deutschland fast immer Wasser mit Kohlensäure.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "drinks",
+        "restaurant",
+        "adjective"
+      ],
+      "synonyms": [
+        "ohne Kohlensäure"
+      ],
+      "antonyms": [
+        "sprudelnd"
+      ],
+      "related": [
+        "mineralwasser",
+        "kohlensaeure",
+        "sprudel"
+      ]
+    },
+    {
+      "id": "getraenk",
+      "word": "das Getränk",
+      "lemma": "Getränk",
+      "translation": "drink",
+      "translations": [
+        "drink",
+        "beverage"
+      ],
+      "level": "A1",
+      "category": "Drinks & Cooking",
+      "partOfSpeech": "noun",
+      "frequency": 330,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Getränke",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "des Getränks"
+      },
+      "example_sentences": [
+        {
+          "de": "Möchten Sie noch ein Getränk?",
+          "en": "Would you like another drink?"
+        },
+        {
+          "de": "Die Getränke sind hier ziemlich teuer.",
+          "en": "The drinks are pretty expensive here."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wo finde ich die ___ im Supermarkt?",
+          "answer": "Getränke",
+          "en": "Where do I find the drinks in the supermarket?"
+        }
+      ],
+      "notes": "Auf der Speisekarte steht oft \"Getränke\" als eigene Rubrik.",
+      "mnemonic": "trinken → das Getränk: Ge- + Verbstamm = neutrum.",
+      "germany_context": "In Kantinen und Restaurants sind Getränke fast nie im Preis inbegriffen — auch nicht beim Mittagsmenü.",
+      "emoji": "🥤",
+      "imageable": true,
+      "tags": [
+        "drinks",
+        "restaurant",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "wasser",
+        "getraenkemarkt"
+      ]
+    },
+    {
+      "id": "durst",
+      "word": "der Durst",
+      "lemma": "Durst",
+      "translation": "thirst",
+      "translations": [
+        "thirst"
+      ],
+      "level": "A1",
+      "category": "Drinks & Cooking",
+      "partOfSpeech": "noun",
+      "frequency": 520,
+      "gender": "m",
+      "article": "der",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "des Durstes"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich habe Durst.",
+          "en": "I'm thirsty."
+        },
+        {
+          "de": "Nach dem Sport hatte er großen Durst.",
+          "en": "After sports he was very thirsty."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Hast du ___? Im Kühlschrank ist Saft.",
+          "answer": "Durst",
+          "en": "Are you thirsty? There's juice in the fridge."
+        }
+      ],
+      "notes": "Man sagt \"Durst haben\", nicht \"durstig sein\" — das klingt weniger natürlich.",
+      "mnemonic": "Durst ~ thirst — fast der gleiche Klang.",
+      "germany_context": null,
+      "emoji": "😰",
+      "imageable": false,
+      "tags": [
+        "drinks",
+        "feelings",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "wasser",
+        "getraenk"
+      ]
+    },
+    {
+      "id": "saft",
+      "word": "der Saft",
+      "lemma": "Saft",
+      "translation": "juice",
+      "translations": [
+        "juice"
+      ],
+      "level": "A1",
+      "category": "Drinks & Cooking",
+      "partOfSpeech": "noun",
+      "frequency": 400,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Säfte",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "des Saftes"
+      },
+      "example_sentences": [
+        {
+          "de": "Der Saft ist frisch gepresst.",
+          "en": "The juice is freshly squeezed."
+        },
+        {
+          "de": "Möchtest du Saft oder Wasser?",
+          "en": "Would you like juice or water?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Die Kinder trinken gern ___ zum Frühstück.",
+          "answer": "Saft",
+          "en": "The kids like to drink juice for breakfast."
+        }
+      ],
+      "notes": "\"Direktsaft\" = nicht aus Konzentrat; \"Nektar\" hat weniger Fruchtanteil.",
+      "mnemonic": "Saft ~ sap/juice — der Saft, wie der Wein.",
+      "germany_context": null,
+      "emoji": "🧃",
+      "imageable": true,
+      "tags": [
+        "drinks",
+        "supermarket"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "apfelsaft",
+        "orangensaft",
+        "schorle"
+      ]
+    },
+    {
+      "id": "apfelsaft",
+      "word": "der Apfelsaft",
+      "lemma": "Apfelsaft",
+      "translation": "apple juice",
+      "translations": [
+        "apple juice"
+      ],
+      "level": "A1",
+      "category": "Drinks & Cooking",
+      "partOfSpeech": "noun",
+      "frequency": 560,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Apfelsäfte",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "des Apfelsaftes"
+      },
+      "example_sentences": [
+        {
+          "de": "Ein Glas Apfelsaft, bitte.",
+          "en": "A glass of apple juice, please."
+        },
+        {
+          "de": "Der Apfelsaft kommt aus der Region.",
+          "en": "The apple juice comes from the region."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich mische ___ mit Mineralwasser.",
+          "answer": "Apfelsaft",
+          "en": "I mix apple juice with mineral water."
+        }
+      ],
+      "notes": "Grundlage der Apfelschorle — das beliebteste alkoholfreie Getränk in Deutschland.",
+      "mnemonic": "Apfel + Saft: das letzte Wort bestimmt das Genus → der Saft, der Apfelsaft.",
+      "germany_context": "Naturtrüber Apfelsaft aus der Region wird oft in Mehrwegflaschen mit 0,15 € Pfand verkauft.",
+      "emoji": "🍎",
+      "imageable": true,
+      "tags": [
+        "drinks",
+        "supermarket"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "saft",
+        "apfelschorle"
+      ]
+    },
+    {
+      "id": "orangensaft",
+      "word": "der Orangensaft",
+      "lemma": "Orangensaft",
+      "translation": "orange juice",
+      "translations": [
+        "orange juice"
+      ],
+      "level": "A1",
+      "category": "Drinks & Cooking",
+      "partOfSpeech": "noun",
+      "frequency": 620,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Orangensäfte",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "des Orangensaftes"
+      },
+      "example_sentences": [
+        {
+          "de": "Zum Frühstück trinke ich Orangensaft.",
+          "en": "I drink orange juice for breakfast."
+        },
+        {
+          "de": "Der Orangensaft ist leider alle.",
+          "en": "Unfortunately the orange juice is all gone."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Kaufst du bitte noch ___ im Supermarkt?",
+          "answer": "Orangensaft",
+          "en": "Could you buy some orange juice at the supermarket?"
+        }
+      ],
+      "notes": "Kurz auch \"O-Saft\" — sehr üblich im Alltag.",
+      "mnemonic": "Orangen + Saft → der Saft gibt das Genus vor.",
+      "germany_context": null,
+      "emoji": "🍊",
+      "imageable": true,
+      "tags": [
+        "drinks",
+        "breakfast"
+      ],
+      "synonyms": [
+        "O-Saft"
+      ],
+      "antonyms": [],
+      "related": [
+        "saft",
+        "apfelsaft"
+      ]
+    },
+    {
+      "id": "schorle",
+      "word": "die Schorle",
+      "lemma": "Schorle",
+      "translation": "juice mixed with sparkling water",
+      "translations": [
+        "juice mixed with sparkling water",
+        "spritzer"
+      ],
+      "level": "A2",
+      "category": "Drinks & Cooking",
+      "partOfSpeech": "noun",
+      "frequency": 700,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Schorlen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "der Schorle"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich nehme eine Schorle.",
+          "en": "I'll have a spritzer."
+        },
+        {
+          "de": "Die Schorle ist nicht so süß wie Limonade.",
+          "en": "The spritzer isn't as sweet as lemonade."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Zwei ___, bitte — einmal Apfel, einmal Traube.",
+          "answer": "Schorlen",
+          "en": "Two spritzers, please — one apple, one grape."
+        }
+      ],
+      "notes": "Saft + Mineralwasser. Auch mit Wein: die Weinschorle.",
+      "mnemonic": "Schorle klingt wie \"shore-luh\" — halb Saft, halb Wasser am Ufer.",
+      "germany_context": "Die Schorle ist DAS deutsche Alltagsgetränk: erfrischend, weniger süß und in jedem Lokal zu bekommen.",
+      "emoji": "🥤",
+      "imageable": true,
+      "tags": [
+        "drinks",
+        "germany",
+        "restaurant"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "apfelschorle",
+        "saft",
+        "mineralwasser"
+      ]
+    },
+    {
+      "id": "apfelschorle",
+      "word": "die Apfelschorle",
+      "lemma": "Apfelschorle",
+      "translation": "apple juice with sparkling water",
+      "translations": [
+        "apple juice with sparkling water",
+        "apple spritzer"
+      ],
+      "level": "A1",
+      "category": "Drinks & Cooking",
+      "partOfSpeech": "noun",
+      "frequency": 660,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Apfelschorlen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "der Apfelschorle"
+      },
+      "example_sentences": [
+        {
+          "de": "Eine Apfelschorle, bitte.",
+          "en": "An apple spritzer, please."
+        },
+        {
+          "de": "Die Apfelschorle kostet drei Euro fünfzig.",
+          "en": "The apple spritzer costs three euros fifty."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Für mich bitte eine große ___.",
+          "answer": "Apfelschorle",
+          "en": "A large apple spritzer for me, please."
+        }
+      ],
+      "notes": "Steht auf praktisch jeder Getränkekarte in Deutschland.",
+      "mnemonic": "Apfelsaft + Sprudel = Apfelschorle.",
+      "germany_context": "Die Apfelschorle ist das beliebteste alkoholfreie Getränk Deutschlands — die sichere Bestellung, wenn du kein Bier willst.",
+      "emoji": "🍏",
+      "imageable": true,
+      "tags": [
+        "drinks",
+        "germany",
+        "restaurant",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "schorle",
+        "apfelsaft"
+      ]
+    },
+    {
+      "id": "limonade",
+      "word": "die Limonade",
+      "lemma": "Limonade",
+      "translation": "soft drink",
+      "translations": [
+        "soft drink",
+        "lemonade",
+        "soda"
+      ],
+      "level": "A2",
+      "category": "Drinks & Cooking",
+      "partOfSpeech": "noun",
+      "frequency": 950,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Limonaden",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "der Limonade"
+      },
+      "example_sentences": [
+        {
+          "de": "Die Kinder möchten Limonade.",
+          "en": "The kids want a soft drink."
+        },
+        {
+          "de": "Diese Limonade ist mir zu süß.",
+          "en": "This soft drink is too sweet for me."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Im Kühlschrank steht noch eine Flasche ___.",
+          "answer": "Limonade",
+          "en": "There's still a bottle of soda in the fridge."
+        }
+      ],
+      "notes": "Kurzform \"Limo\" ist im Alltag häufiger. Achtung: nicht dasselbe wie amerikanische lemonade.",
+      "mnemonic": "Wörter auf -ade sind feminin: die Limonade, die Marmelade.",
+      "germany_context": null,
+      "emoji": "🍋",
+      "imageable": true,
+      "tags": [
+        "drinks",
+        "supermarket"
+      ],
+      "synonyms": [
+        "Limo"
+      ],
+      "antonyms": [],
+      "related": [
+        "cola",
+        "schorle"
+      ]
+    },
+    {
+      "id": "cola",
+      "word": "die Cola",
+      "lemma": "Cola",
+      "translation": "cola",
+      "translations": [
+        "cola",
+        "coke"
+      ],
+      "level": "A1",
+      "category": "Drinks & Cooking",
+      "partOfSpeech": "noun",
+      "frequency": 680,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Colas",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "der Cola"
+      },
+      "example_sentences": [
+        {
+          "de": "Eine Cola, bitte.",
+          "en": "A coke, please."
+        },
+        {
+          "de": "Die Cola ist warm geworden.",
+          "en": "The coke has gotten warm."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Nimmst du auch eine ___ oder lieber Wasser?",
+          "answer": "Cola",
+          "en": "Are you having a coke too or water instead?"
+        }
+      ],
+      "notes": "In Deutschland \"die Cola\"; in Österreich und der Schweiz hört man auch \"das Cola\".",
+      "mnemonic": "die Cola — wie die Limonade, feminin.",
+      "germany_context": "\"Ein Spezi\" (Cola + Orangenlimonade) ist ein typisch deutsches Mischgetränk, das du auf fast jeder Karte findest.",
+      "emoji": "🥤",
+      "imageable": true,
+      "tags": [
+        "drinks",
+        "restaurant"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "limonade",
+        "getraenk"
+      ]
+    },
+    {
+      "id": "kaffee",
+      "word": "der Kaffee",
+      "lemma": "Kaffee",
+      "translation": "coffee",
+      "translations": [
+        "coffee"
+      ],
+      "level": "A0",
+      "category": "Drinks & Cooking",
+      "partOfSpeech": "noun",
+      "frequency": 180,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Kaffees",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "des Kaffees"
+      },
+      "example_sentences": [
+        {
+          "de": "Einen Kaffee, bitte.",
+          "en": "A coffee, please."
+        },
+        {
+          "de": "Möchtest du Milch in den Kaffee?",
+          "en": "Would you like milk in your coffee?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich trinke morgens immer einen ___.",
+          "answer": "Kaffee",
+          "en": "I always drink a coffee in the morning."
+        }
+      ],
+      "notes": "Betonung meist auf der ersten Silbe: KAF-fee.",
+      "mnemonic": "Kaffee ~ kahve — fast wie im Türkischen.",
+      "germany_context": "Kaffee zum Mitnehmen heißt \"Kaffee to go\". Viele Cafés bieten Mehrwegbecher (RECUP) gegen 1 € Pfand an oder geben Rabatt für den eigenen Becher.",
+      "emoji": "☕",
+      "imageable": true,
+      "tags": [
+        "drinks",
+        "essential",
+        "cafe"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "espresso",
+        "milchkaffee",
+        "tasse"
+      ]
+    },
+    {
+      "id": "espresso",
+      "word": "der Espresso",
+      "lemma": "Espresso",
+      "translation": "espresso",
+      "translations": [
+        "espresso"
+      ],
+      "level": "A2",
+      "category": "Drinks & Cooking",
+      "partOfSpeech": "noun",
+      "frequency": 830,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Espressos",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "des Espressos"
+      },
+      "example_sentences": [
+        {
+          "de": "Nach dem Essen trinke ich einen Espresso.",
+          "en": "After the meal I have an espresso."
+        },
+        {
+          "de": "Der Espresso hier ist richtig gut.",
+          "en": "The espresso here is really good."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Einen doppelten ___ zum Mitnehmen, bitte.",
+          "answer": "Espresso",
+          "en": "A double espresso to go, please."
+        }
+      ],
+      "notes": "Plural auch \"die Espressi\", aber \"Espressos\" ist im Alltag üblicher.",
+      "mnemonic": "Kaffeearten sind meist maskulin: der Espresso, der Cappuccino, der Latte.",
+      "germany_context": null,
+      "emoji": "☕",
+      "imageable": true,
+      "tags": [
+        "drinks",
+        "cafe"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "kaffee",
+        "milchkaffee"
+      ]
+    },
+    {
+      "id": "milchkaffee",
+      "word": "der Milchkaffee",
+      "lemma": "Milchkaffee",
+      "translation": "coffee with milk",
+      "translations": [
+        "coffee with milk",
+        "café au lait"
+      ],
+      "level": "A2",
+      "category": "Drinks & Cooking",
+      "partOfSpeech": "noun",
+      "frequency": 1050,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Milchkaffees",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "des Milchkaffees"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich hätte gern einen Milchkaffee.",
+          "en": "I'd like a coffee with milk."
+        },
+        {
+          "de": "Der Milchkaffee wird in einer großen Tasse serviert.",
+          "en": "The milk coffee is served in a large cup."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Sie bestellt jeden Samstag einen ___ und ein Croissant.",
+          "answer": "Milchkaffee",
+          "en": "Every Saturday she orders a milk coffee and a croissant."
+        }
+      ],
+      "notes": "Ähnlich, aber nicht gleich: der Latte macchiato hat mehr geschäumte Milch.",
+      "mnemonic": "Milch + Kaffee → der Kaffee bestimmt das Genus.",
+      "germany_context": null,
+      "emoji": "☕",
+      "imageable": true,
+      "tags": [
+        "drinks",
+        "cafe"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "kaffee",
+        "milch",
+        "espresso"
+      ]
+    },
+    {
+      "id": "tee",
+      "word": "der Tee",
+      "lemma": "Tee",
+      "translation": "tea",
+      "translations": [
+        "tea"
+      ],
+      "level": "A0",
+      "category": "Drinks & Cooking",
+      "partOfSpeech": "noun",
+      "frequency": 300,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Tees",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "des Tees"
+      },
+      "example_sentences": [
+        {
+          "de": "Einen Tee, bitte.",
+          "en": "A tea, please."
+        },
+        {
+          "de": "Der Tee ist noch zu heiß.",
+          "en": "The tea is still too hot."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Möchtest du einen ___ mit Zitrone?",
+          "answer": "Tee",
+          "en": "Would you like a tea with lemon?"
+        }
+      ],
+      "notes": "\"Schwarztee\", \"grüner Tee\", \"Früchtetee\" — alle maskulin.",
+      "mnemonic": "Tee ~ çay/tea — der Tee, wie der Kaffee.",
+      "germany_context": null,
+      "emoji": "🍵",
+      "imageable": true,
+      "tags": [
+        "drinks",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "kraeutertee",
+        "tasse",
+        "wasserkocher"
+      ]
+    },
+    {
+      "id": "kraeutertee",
+      "word": "der Kräutertee",
+      "lemma": "Kräutertee",
+      "translation": "herbal tea",
+      "translations": [
+        "herbal tea"
+      ],
+      "level": "A2",
+      "category": "Drinks & Cooking",
+      "partOfSpeech": "noun",
+      "frequency": 1100,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Kräutertees",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "des Kräutertees"
+      },
+      "example_sentences": [
+        {
+          "de": "Bei Erkältung trinke ich Kräutertee.",
+          "en": "When I have a cold I drink herbal tea."
+        },
+        {
+          "de": "Haben Sie auch Kräutertee ohne Koffein?",
+          "en": "Do you also have caffeine-free herbal tea?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Abends trinkt sie lieber ___ als Kaffee.",
+          "answer": "Kräutertee",
+          "en": "In the evening she prefers herbal tea to coffee."
+        }
+      ],
+      "notes": "\"das Kraut\" (herb), Plural \"die Kräuter\" — deshalb Kräuter- im Kompositum.",
+      "mnemonic": "Kräuter + Tee → der Tee bestimmt das Genus.",
+      "germany_context": null,
+      "emoji": "🌿",
+      "imageable": true,
+      "tags": [
+        "drinks",
+        "health"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "tee",
+        "wasserkocher"
+      ]
+    },
+    {
+      "id": "bier",
+      "word": "das Bier",
+      "lemma": "Bier",
+      "translation": "beer",
+      "translations": [
+        "beer"
+      ],
+      "level": "A0",
+      "category": "Drinks & Cooking",
+      "partOfSpeech": "noun",
+      "frequency": 240,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Biere",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "des Bieres"
+      },
+      "example_sentences": [
+        {
+          "de": "Zwei Bier, bitte.",
+          "en": "Two beers, please."
+        },
+        {
+          "de": "Das Bier ist hier sehr gut.",
+          "en": "The beer is very good here."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wir trinken ein ___ im Biergarten.",
+          "answer": "Bier",
+          "en": "We're having a beer in the beer garden."
+        }
+      ],
+      "notes": "Beim Bestellen sagt man \"zwei Bier\", nicht \"zwei Biere\".",
+      "mnemonic": "das Bier — wie das Getränk, neutrum.",
+      "germany_context": "Bierflaschen sind Mehrweg: 0,08 € Pfand pro Flasche, ein Kasten (20 Flaschen) kostet zusätzlich 1,50 € Kastenpfand. Im Biergarten kommen 1–3 € Glaspfand dazu.",
+      "emoji": "🍺",
+      "imageable": true,
+      "tags": [
+        "drinks",
+        "germany",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "pils",
+        "weizenbier",
+        "pfand"
+      ]
+    },
+    {
+      "id": "weizenbier",
+      "word": "das Weizenbier",
+      "lemma": "Weizenbier",
+      "translation": "wheat beer",
+      "translations": [
+        "wheat beer"
+      ],
+      "level": "A2",
+      "category": "Drinks & Cooking",
+      "partOfSpeech": "noun",
+      "frequency": 1250,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Weizenbiere",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "des Weizenbieres"
+      },
+      "example_sentences": [
+        {
+          "de": "Ein Weizenbier, bitte.",
+          "en": "A wheat beer, please."
+        },
+        {
+          "de": "Weizenbier wird in einem hohen Glas serviert.",
+          "en": "Wheat beer is served in a tall glass."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Er bestellt immer ein ___ mit Zitrone.",
+          "answer": "Weizenbier",
+          "en": "He always orders a wheat beer with lemon."
+        }
+      ],
+      "notes": "Kurz sagt man oft nur \"ein Weizen\" oder \"eine Weiße\".",
+      "mnemonic": "Weizen (wheat) + Bier → das Bier bestimmt das Genus.",
+      "germany_context": "In Bayern heißt es meist \"Weißbier\" oder \"Hefeweizen\" und wird im typischen 0,5-Liter-Weizenglas serviert.",
+      "emoji": "🍺",
+      "imageable": true,
+      "tags": [
+        "drinks",
+        "germany",
+        "regional"
+      ],
+      "synonyms": [
+        "Weißbier",
+        "Hefeweizen"
+      ],
+      "antonyms": [],
+      "related": [
+        "bier",
+        "pils"
+      ]
+    },
+    {
+      "id": "pils",
+      "word": "das Pils",
+      "lemma": "Pils",
+      "translation": "pilsner",
+      "translations": [
+        "pilsner",
+        "pils"
+      ],
+      "level": "A2",
+      "category": "Drinks & Cooking",
+      "partOfSpeech": "noun",
+      "frequency": 1200,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Pils",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "des Pils"
+      },
+      "example_sentences": [
+        {
+          "de": "Ein Pils vom Fass, bitte.",
+          "en": "A draft pilsner, please."
+        },
+        {
+          "de": "Das Pils ist schön kalt.",
+          "en": "The pilsner is nice and cold."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Für mich bitte ein kleines ___.",
+          "answer": "Pils",
+          "en": "A small pilsner for me, please."
+        }
+      ],
+      "notes": "Die häufigste Biersorte in Norddeutschland; \"vom Fass\" heißt draft.",
+      "mnemonic": "das Pils — wie das Bier, neutrum.",
+      "germany_context": "\"Ein Pils, bitte\" ist die Standardbestellung in einer deutschen Kneipe. Ein Pils braucht Zeit — 3–7 Minuten Wartezeit sind normal und gelten als Qualitätszeichen.",
+      "emoji": "🍺",
+      "imageable": true,
+      "tags": [
+        "drinks",
+        "germany",
+        "restaurant"
+      ],
+      "synonyms": [
+        "Pilsener"
+      ],
+      "antonyms": [],
+      "related": [
+        "bier",
+        "weizenbier"
+      ]
+    },
+    {
+      "id": "wein",
+      "word": "der Wein",
+      "lemma": "Wein",
+      "translation": "wine",
+      "translations": [
+        "wine"
+      ],
+      "level": "A1",
+      "category": "Drinks & Cooking",
+      "partOfSpeech": "noun",
+      "frequency": 450,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Weine",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "des Weines"
+      },
+      "example_sentences": [
+        {
+          "de": "Trinkst du ein Glas Wein?",
+          "en": "Would you like a glass of wine?"
+        },
+        {
+          "de": "Dieser Wein kommt aus der Pfalz.",
+          "en": "This wine is from the Palatinate."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wir bringen eine Flasche ___ zum Abendessen mit.",
+          "answer": "Wein",
+          "en": "We're bringing a bottle of wine to dinner."
+        }
+      ],
+      "notes": "Wein wird im Restaurant oft glasweise (0,2 l) verkauft.",
+      "mnemonic": "Wein ~ wine — der Wein wie der Saft.",
+      "germany_context": null,
+      "emoji": "🍷",
+      "imageable": true,
+      "tags": [
+        "drinks",
+        "alcohol"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "rotwein",
+        "weisswein",
+        "sekt"
+      ]
+    },
+    {
+      "id": "rotwein",
+      "word": "der Rotwein",
+      "lemma": "Rotwein",
+      "translation": "red wine",
+      "translations": [
+        "red wine"
+      ],
+      "level": "A1",
+      "category": "Drinks & Cooking",
+      "partOfSpeech": "noun",
+      "frequency": 780,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Rotweine",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "des Rotweines"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich trinke lieber Rotwein.",
+          "en": "I prefer red wine."
+        },
+        {
+          "de": "Der Rotwein passt gut zum Fleisch.",
+          "en": "The red wine goes well with the meat."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ein Glas ___, bitte.",
+          "answer": "Rotwein",
+          "en": "A glass of red wine, please."
+        }
+      ],
+      "notes": "Farbadjektiv + Wein: Rotwein, Weißwein, Roséwein.",
+      "mnemonic": "rot + Wein → der Wein bestimmt das Genus.",
+      "germany_context": null,
+      "emoji": "🍷",
+      "imageable": true,
+      "tags": [
+        "drinks",
+        "alcohol",
+        "restaurant"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "Weißwein"
+      ],
+      "related": [
+        "wein",
+        "weisswein"
+      ]
+    },
+    {
+      "id": "weisswein",
+      "word": "der Weißwein",
+      "lemma": "Weißwein",
+      "translation": "white wine",
+      "translations": [
+        "white wine"
+      ],
+      "level": "A1",
+      "category": "Drinks & Cooking",
+      "partOfSpeech": "noun",
+      "frequency": 820,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Weißweine",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "des Weißweines"
+      },
+      "example_sentences": [
+        {
+          "de": "Der Weißwein sollte kalt sein.",
+          "en": "The white wine should be cold."
+        },
+        {
+          "de": "Wir haben einen trockenen Weißwein bestellt.",
+          "en": "We ordered a dry white wine."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Zum Fisch passt ___ besser als Rotwein.",
+          "answer": "Weißwein",
+          "en": "White wine goes better with fish than red wine."
+        }
+      ],
+      "notes": "\"trocken\" = dry, \"halbtrocken\" = semi-dry, \"lieblich\" = sweet.",
+      "mnemonic": "weiß + Wein → der Wein bestimmt das Genus.",
+      "germany_context": "Deutschland ist vor allem für Weißwein bekannt — Riesling aus Mosel, Rheingau und Pfalz.",
+      "emoji": "🥂",
+      "imageable": true,
+      "tags": [
+        "drinks",
+        "alcohol",
+        "restaurant"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "Rotwein"
+      ],
+      "related": [
+        "wein",
+        "rotwein"
+      ]
+    },
+    {
+      "id": "sekt",
+      "word": "der Sekt",
+      "lemma": "Sekt",
+      "translation": "sparkling wine",
+      "translations": [
+        "sparkling wine",
+        "German champagne"
+      ],
+      "level": "A2",
+      "category": "Drinks & Cooking",
+      "partOfSpeech": "noun",
+      "frequency": 1300,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Sekte",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "des Sektes"
+      },
+      "example_sentences": [
+        {
+          "de": "Wir trinken Sekt zum Geburtstag.",
+          "en": "We're drinking sparkling wine for the birthday."
+        },
+        {
+          "de": "Der Sekt muss noch kalt werden.",
+          "en": "The sparkling wine still needs to chill."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Um Mitternacht öffnen wir eine Flasche ___.",
+          "answer": "Sekt",
+          "en": "At midnight we open a bottle of sparkling wine."
+        }
+      ],
+      "notes": "Sekt ist die deutsche Version von Champagner, aber günstiger.",
+      "mnemonic": "der Sekt — wie der Wein, maskulin.",
+      "germany_context": "An Silvester und bei Geburtstagen im Büro wird traditionell mit Sekt angestoßen.",
+      "emoji": "🍾",
+      "imageable": true,
+      "tags": [
+        "drinks",
+        "alcohol",
+        "celebration"
+      ],
+      "synonyms": [
+        "Schaumwein"
+      ],
+      "antonyms": [],
+      "related": [
+        "wein",
+        "alkohol"
+      ]
+    },
+    {
+      "id": "schnaps",
+      "word": "der Schnaps",
+      "lemma": "Schnaps",
+      "translation": "schnapps",
+      "translations": [
+        "schnapps",
+        "liquor",
+        "spirits"
+      ],
+      "level": "A2",
+      "category": "Drinks & Cooking",
+      "partOfSpeech": "noun",
+      "frequency": 1400,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Schnäpse",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "des Schnapses"
+      },
+      "example_sentences": [
+        {
+          "de": "Nach dem Essen gibt es einen Schnaps.",
+          "en": "After the meal there's a schnapps."
+        },
+        {
+          "de": "Der Schnaps ist mir zu stark.",
+          "en": "The schnapps is too strong for me."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Er trinkt keinen ___, nur Bier.",
+          "answer": "Schnaps",
+          "en": "He doesn't drink schnapps, only beer."
+        }
+      ],
+      "notes": "Sammelbegriff für hochprozentigen Alkohol (Korn, Obstler, Kräuterlikör).",
+      "mnemonic": "Schnaps — kurz und scharf, wie das Getränk selbst.",
+      "germany_context": "Spirituosen darfst du in Deutschland erst ab 18 kaufen (Bier und Wein ab 16).",
+      "emoji": "🥃",
+      "imageable": true,
+      "tags": [
+        "drinks",
+        "alcohol"
+      ],
+      "synonyms": [
+        "Spirituose"
+      ],
+      "antonyms": [],
+      "related": [
+        "alkohol",
+        "bier"
+      ]
+    },
+    {
+      "id": "alkohol",
+      "word": "der Alkohol",
+      "lemma": "Alkohol",
+      "translation": "alcohol",
+      "translations": [
+        "alcohol"
+      ],
+      "level": "A2",
+      "category": "Drinks & Cooking",
+      "partOfSpeech": "noun",
+      "frequency": 720,
+      "gender": "m",
+      "article": "der",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "des Alkohols"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich trinke keinen Alkohol.",
+          "en": "I don't drink alcohol."
+        },
+        {
+          "de": "Dieses Bier ist ohne Alkohol.",
+          "en": "This beer is alcohol-free."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Am Steuer ist ___ tabu.",
+          "answer": "Alkohol",
+          "en": "Alcohol is off limits when driving."
+        }
+      ],
+      "notes": "\"alkoholfrei\" steht auf vielen Bieren und Getränken.",
+      "mnemonic": "Alkohol ~ alkol — international, maskulin.",
+      "germany_context": "Alkohol in der Öffentlichkeit zu trinken ist in Deutschland grundsätzlich erlaubt. Ab 16 gibt es Bier und Wein, ab 18 Spirituosen; beim Autofahren gilt 0,5 Promille (Fahranfänger: 0,0).",
+      "emoji": "🍻",
+      "imageable": false,
+      "tags": [
+        "drinks",
+        "germany",
+        "rules"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "bier",
+        "wein",
+        "schnaps"
+      ]
+    },
+    {
+      "id": "flasche",
+      "word": "die Flasche",
+      "lemma": "Flasche",
+      "translation": "bottle",
+      "translations": [
+        "bottle"
+      ],
+      "level": "A1",
+      "category": "Drinks & Cooking",
+      "partOfSpeech": "noun",
+      "frequency": 350,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Flaschen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "der Flasche"
+      },
+      "example_sentences": [
+        {
+          "de": "Eine Flasche Wasser, bitte.",
+          "en": "A bottle of water, please."
+        },
+        {
+          "de": "Die Flasche ist leer.",
+          "en": "The bottle is empty."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Bitte bring die leeren ___ zum Supermarkt zurück.",
+          "answer": "Flaschen",
+          "en": "Please take the empty bottles back to the supermarket."
+        }
+      ],
+      "notes": "Umgangssprachlich heißt \"eine Flasche sein\" auch: unfähig sein.",
+      "mnemonic": "Wörter auf -e sind meistens feminin: die Flasche, die Tasse, die Gabel.",
+      "germany_context": "Fast jede Getränkeflasche hat Pfand. Rückgabe am Leergutautomaten im Supermarkt — du bekommst einen Bon, den du an der Kasse einlöst.",
+      "emoji": "🍾",
+      "imageable": true,
+      "tags": [
+        "kitchen",
+        "drinks",
+        "germany",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "pfand",
+        "pfandflasche",
+        "dose"
+      ]
+    },
+    {
+      "id": "pfand",
+      "word": "das Pfand",
+      "lemma": "Pfand",
+      "translation": "deposit (on bottles)",
+      "translations": [
+        "deposit (on bottles)",
+        "returnable deposit"
+      ],
+      "level": "A1",
+      "category": "Drinks & Cooking",
+      "partOfSpeech": "noun",
+      "frequency": 480,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Pfänder",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "des Pfandes"
+      },
+      "example_sentences": [
+        {
+          "de": "Auf dieser Flasche ist Pfand.",
+          "en": "There's a deposit on this bottle."
+        },
+        {
+          "de": "Das Pfand bekommst du zurück.",
+          "en": "You get the deposit back."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wie viel ___ ist auf einer Dose?",
+          "answer": "Pfand",
+          "en": "How much deposit is on a can?"
+        }
+      ],
+      "notes": "\"Einwegpfand\" (Plastik/Dose) vs. \"Mehrwegpfand\" (Glas). \"Leergut\" = die leeren Pfandflaschen.",
+      "mnemonic": "Pfand = das Geld, das du der Flasche \"pfändest\", bis du sie zurückbringst.",
+      "germany_context": "Einweg (Plastikflaschen, Dosen): 0,25 €. Mehrweg (Glas, wiederverwendbares Plastik): 0,08–0,15 €. Saft- und Weinflaschen haben oft gar kein Pfand — achte auf das Zeichen \"PFANDFLASCHE\" auf dem Etikett.",
+      "emoji": "♻️",
+      "imageable": false,
+      "tags": [
+        "germany",
+        "essential",
+        "supermarket",
+        "recycling"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "flasche",
+        "pfandflasche",
+        "dose"
+      ]
+    },
+    {
+      "id": "pfandflasche",
+      "word": "die Pfandflasche",
+      "lemma": "Pfandflasche",
+      "translation": "returnable bottle",
+      "translations": [
+        "returnable bottle",
+        "deposit bottle"
+      ],
+      "level": "A2",
+      "category": "Drinks & Cooking",
+      "partOfSpeech": "noun",
+      "frequency": 900,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Pfandflaschen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "der Pfandflasche"
+      },
+      "example_sentences": [
+        {
+          "de": "Wir haben zwanzig Pfandflaschen im Keller.",
+          "en": "We have twenty returnable bottles in the basement."
+        },
+        {
+          "de": "Ist das eine Pfandflasche?",
+          "en": "Is that a returnable bottle?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Automat nimmt diese ___ leider nicht an.",
+          "answer": "Pfandflasche",
+          "en": "Unfortunately the machine doesn't accept this returnable bottle."
+        }
+      ],
+      "notes": "Der Automat heißt \"Leergutautomat\" oder \"Pfandautomat\".",
+      "mnemonic": "Pfand + Flasche → die Flasche bestimmt das Genus.",
+      "germany_context": "Pfandflaschen gibst du am Automaten im Supermarkt zurück. Wer sie nicht will, stellt sie in Städten neben den Mülleimer statt hinein — das gilt als Geste für Flaschensammler.",
+      "emoji": "🍶",
+      "imageable": true,
+      "tags": [
+        "germany",
+        "supermarket",
+        "recycling"
+      ],
+      "synonyms": [
+        "Mehrwegflasche"
+      ],
+      "antonyms": [],
+      "related": [
+        "pfand",
+        "flasche"
+      ]
+    },
+    {
+      "id": "dose",
+      "word": "die Dose",
+      "lemma": "Dose",
+      "translation": "can",
+      "translations": [
+        "can",
+        "tin"
+      ],
+      "level": "A2",
+      "category": "Drinks & Cooking",
+      "partOfSpeech": "noun",
+      "frequency": 870,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Dosen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "der Dose"
+      },
+      "example_sentences": [
+        {
+          "de": "Er trinkt eine Dose Cola.",
+          "en": "He's drinking a can of coke."
+        },
+        {
+          "de": "Die Tomaten sind aus der Dose.",
+          "en": "The tomatoes are from a can."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Auf jede ___ zahlst du 25 Cent Pfand.",
+          "answer": "Dose",
+          "en": "You pay 25 cents deposit on every can."
+        }
+      ],
+      "notes": "Auch \"die Konserve\" für Konservendosen mit Essen.",
+      "mnemonic": "die Dose — wie die Flasche, feminin.",
+      "germany_context": "Auf Getränkedosen liegt 0,25 € Einwegpfand — Dosen sind deshalb hier deutlich seltener als in vielen anderen Ländern.",
+      "emoji": "🥫",
+      "imageable": true,
+      "tags": [
+        "kitchen",
+        "supermarket",
+        "germany"
+      ],
+      "synonyms": [
+        "Konserve"
+      ],
+      "antonyms": [],
+      "related": [
+        "pfand",
+        "flasche",
+        "cola"
+      ]
+    },
+    {
+      "id": "glas",
+      "word": "das Glas",
+      "lemma": "Glas",
+      "translation": "glass",
+      "translations": [
+        "glass"
+      ],
+      "level": "A1",
+      "category": "Drinks & Cooking",
+      "partOfSpeech": "noun",
+      "frequency": 280,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Gläser",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "des Glases"
+      },
+      "example_sentences": [
+        {
+          "de": "Ein Glas Wasser, bitte.",
+          "en": "A glass of water, please."
+        },
+        {
+          "de": "Das Glas ist leider kaputt.",
+          "en": "Unfortunately the glass is broken."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Die sauberen ___ stehen im Schrank.",
+          "answer": "Gläser",
+          "en": "The clean glasses are in the cupboard."
+        }
+      ],
+      "notes": "\"Glas\" ist auch das Material: eine Flasche aus Glas.",
+      "mnemonic": "das Glas — Umlaut im Plural: die Gläser.",
+      "germany_context": "Glas ohne Pfand kommt in den Altglascontainer, getrennt nach Weiß, Grün und Braun. Wegen der Ruhezeiten nicht sonntags, nicht vor 7 und nicht nach 20 Uhr einwerfen.",
+      "emoji": "🥛",
+      "imageable": true,
+      "tags": [
+        "kitchen",
+        "essential",
+        "germany"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "becher",
+        "tasse",
+        "flasche"
+      ]
+    },
+    {
+      "id": "becher",
+      "word": "der Becher",
+      "lemma": "Becher",
+      "translation": "cup",
+      "translations": [
+        "cup",
+        "mug",
+        "tub"
+      ],
+      "level": "A2",
+      "category": "Drinks & Cooking",
+      "partOfSpeech": "noun",
+      "frequency": 990,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Becher",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "des Bechers"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich kaufe einen Becher Joghurt.",
+          "en": "I'm buying a tub of yoghurt."
+        },
+        {
+          "de": "Der Becher ist aus Plastik.",
+          "en": "The cup is made of plastic."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Bring bitte deinen eigenen ___ mit ins Büro.",
+          "answer": "Becher",
+          "en": "Please bring your own cup to the office."
+        }
+      ],
+      "notes": "Becher = ohne Untertasse; Tasse = mit Henkel und Untertasse (Kaffee/Tee).",
+      "mnemonic": "Wörter auf -er sind oft maskulin: der Becher, der Löffel, der Teller.",
+      "germany_context": "Für Kaffee zum Mitnehmen gibt es Mehrwegbecher-Systeme wie RECUP (1 € Pfand). Mit eigenem Becher geben viele Cafés 20–50 Cent Rabatt.",
+      "emoji": "🥤",
+      "imageable": true,
+      "tags": [
+        "kitchen",
+        "cafe",
+        "germany"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "tasse",
+        "glas",
+        "kaffee"
+      ]
+    },
+    {
+      "id": "tasse",
+      "word": "die Tasse",
+      "lemma": "Tasse",
+      "translation": "cup",
+      "translations": [
+        "cup",
+        "mug"
+      ],
+      "level": "A1",
+      "category": "Drinks & Cooking",
+      "partOfSpeech": "noun",
+      "frequency": 420,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Tassen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "der Tasse"
+      },
+      "example_sentences": [
+        {
+          "de": "Eine Tasse Kaffee, bitte.",
+          "en": "A cup of coffee, please."
+        },
+        {
+          "de": "Die Tasse steht auf dem Tisch.",
+          "en": "The cup is on the table."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Möchtest du noch eine ___ Tee?",
+          "answer": "Tasse",
+          "en": "Would you like another cup of tea?"
+        }
+      ],
+      "notes": "Nach Mengenangaben ohne \"von\": eine Tasse Kaffee, nicht \"eine Tasse von Kaffee\".",
+      "mnemonic": "Tasse ~ tas — sehr nah am türkischen Wort, und feminin wie die Flasche.",
+      "germany_context": null,
+      "emoji": "☕",
+      "imageable": true,
+      "tags": [
+        "kitchen",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "becher",
+        "kaffee",
+        "tee"
+      ]
+    },
+    {
+      "id": "topf",
+      "word": "der Topf",
+      "lemma": "Topf",
+      "translation": "pot",
+      "translations": [
+        "pot",
+        "saucepan"
+      ],
+      "level": "A1",
+      "category": "Drinks & Cooking",
+      "partOfSpeech": "noun",
+      "frequency": 760,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Töpfe",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "des Topfes"
+      },
+      "example_sentences": [
+        {
+          "de": "Der Topf steht auf dem Herd.",
+          "en": "The pot is on the stove."
+        },
+        {
+          "de": "Nimm einen großen Topf für die Nudeln.",
+          "en": "Take a big pot for the pasta."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Die Suppe ist noch im ___.",
+          "answer": "Topf",
+          "en": "The soup is still in the pot."
+        }
+      ],
+      "notes": "Achtung: \"der Topf\" (Kochtopf) ≠ \"die Pfanne\" (flach, zum Braten).",
+      "mnemonic": "Topf klingt fast wie \"top\" — der Deckel kommt oben drauf.",
+      "germany_context": null,
+      "emoji": "🍲",
+      "imageable": true,
+      "tags": [
+        "kitchen",
+        "cooking"
+      ],
+      "synonyms": [
+        "Kochtopf"
+      ],
+      "antonyms": [],
+      "related": [
+        "pfanne",
+        "herd"
+      ]
+    },
+    {
+      "id": "pfanne",
+      "word": "die Pfanne",
+      "lemma": "Pfanne",
+      "translation": "pan",
+      "translations": [
+        "pan",
+        "frying pan"
+      ],
+      "level": "A1",
+      "category": "Drinks & Cooking",
+      "partOfSpeech": "noun",
+      "frequency": 800,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Pfannen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "der Pfanne"
+      },
+      "example_sentences": [
+        {
+          "de": "Die Pfanne ist noch heiß.",
+          "en": "The pan is still hot."
+        },
+        {
+          "de": "Gib etwas Öl in die Pfanne.",
+          "en": "Put some oil in the pan."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich brate das Gemüse in der ___.",
+          "answer": "Pfanne",
+          "en": "I'm frying the vegetables in the pan."
+        }
+      ],
+      "notes": "\"beschichtete Pfanne\" = non-stick pan.",
+      "mnemonic": "Pfanne ~ pan, plus deutsche Pf-Aussprache. Feminin wie die Flasche.",
+      "germany_context": null,
+      "emoji": "🍳",
+      "imageable": true,
+      "tags": [
+        "kitchen",
+        "cooking"
+      ],
+      "synonyms": [
+        "Bratpfanne"
+      ],
+      "antonyms": [],
+      "related": [
+        "topf",
+        "braten",
+        "herd"
+      ]
+    },
+    {
+      "id": "messer",
+      "word": "das Messer",
+      "lemma": "Messer",
+      "translation": "knife",
+      "translations": [
+        "knife"
+      ],
+      "level": "A1",
+      "category": "Drinks & Cooking",
+      "partOfSpeech": "noun",
+      "frequency": 390,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Messer",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "des Messers"
+      },
+      "example_sentences": [
+        {
+          "de": "Das Messer ist sehr scharf.",
+          "en": "The knife is very sharp."
+        },
+        {
+          "de": "Kannst du mir bitte ein Messer geben?",
+          "en": "Can you give me a knife, please?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Mit einem scharfen ___ geht das viel schneller.",
+          "answer": "Messer",
+          "en": "With a sharp knife it goes much faster."
+        }
+      ],
+      "notes": "Achtung: neutrum, obwohl es auf -er endet.",
+      "mnemonic": "das Messer — Ausnahme: -er, aber neutrum (wie das Fenster).",
+      "germany_context": null,
+      "emoji": "🔪",
+      "imageable": true,
+      "tags": [
+        "kitchen",
+        "cutlery",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "gabel",
+        "loeffel",
+        "besteck",
+        "schneidebrett"
+      ]
+    },
+    {
+      "id": "gabel",
+      "word": "die Gabel",
+      "lemma": "Gabel",
+      "translation": "fork",
+      "translations": [
+        "fork"
+      ],
+      "level": "A1",
+      "category": "Drinks & Cooking",
+      "partOfSpeech": "noun",
+      "frequency": 430,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Gabeln",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "der Gabel"
+      },
+      "example_sentences": [
+        {
+          "de": "Die Gabel liegt links vom Teller.",
+          "en": "The fork is to the left of the plate."
+        },
+        {
+          "de": "Ich brauche noch eine Gabel.",
+          "en": "I still need a fork."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Entschuldigung, könnte ich bitte eine saubere ___ haben?",
+          "answer": "Gabel",
+          "en": "Excuse me, could I have a clean fork, please?"
+        }
+      ],
+      "notes": "Tischordnung: Gabel links, Messer rechts.",
+      "mnemonic": "die Gabel — feminin wie die Schüssel und die Tasse.",
+      "germany_context": null,
+      "emoji": "🍴",
+      "imageable": true,
+      "tags": [
+        "kitchen",
+        "cutlery",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "messer",
+        "loeffel",
+        "besteck"
+      ]
+    },
+    {
+      "id": "loeffel",
+      "word": "der Löffel",
+      "lemma": "Löffel",
+      "translation": "spoon",
+      "translations": [
+        "spoon"
+      ],
+      "level": "A1",
+      "category": "Drinks & Cooking",
+      "partOfSpeech": "noun",
+      "frequency": 440,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Löffel",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "des Löffels"
+      },
+      "example_sentences": [
+        {
+          "de": "Der Löffel ist für die Suppe.",
+          "en": "The spoon is for the soup."
+        },
+        {
+          "de": "Nimm zwei Löffel Zucker.",
+          "en": "Take two spoons of sugar."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Zum Joghurt brauche ich einen kleinen ___.",
+          "answer": "Löffel",
+          "en": "I need a small spoon for the yoghurt."
+        }
+      ],
+      "notes": "\"ein Teelöffel\" (TL) und \"ein Esslöffel\" (EL) sind Standardmaße in Rezepten.",
+      "mnemonic": "der Löffel — wie der Becher und der Teller, maskulin auf -el/-er.",
+      "germany_context": null,
+      "emoji": "🥄",
+      "imageable": true,
+      "tags": [
+        "kitchen",
+        "cutlery",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "gabel",
+        "messer",
+        "besteck"
+      ]
+    },
+    {
+      "id": "teller",
+      "word": "der Teller",
+      "lemma": "Teller",
+      "translation": "plate",
+      "translations": [
+        "plate"
+      ],
+      "level": "A1",
+      "category": "Drinks & Cooking",
+      "partOfSpeech": "noun",
+      "frequency": 410,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Teller",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "des Tellers"
+      },
+      "example_sentences": [
+        {
+          "de": "Der Teller ist noch schmutzig.",
+          "en": "The plate is still dirty."
+        },
+        {
+          "de": "Stell die Teller bitte auf den Tisch.",
+          "en": "Please put the plates on the table."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Auf meinem ___ ist noch etwas Salat.",
+          "answer": "Teller",
+          "en": "There's still some salad on my plate."
+        }
+      ],
+      "notes": "Plural ohne Endung: ein Teller, zwei Teller.",
+      "mnemonic": "der Teller — maskulin wie der Löffel und der Becher.",
+      "germany_context": null,
+      "emoji": "🍽️",
+      "imageable": true,
+      "tags": [
+        "kitchen",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "schuessel",
+        "besteck",
+        "abwaschen"
+      ]
+    },
+    {
+      "id": "schuessel",
+      "word": "die Schüssel",
+      "lemma": "Schüssel",
+      "translation": "bowl",
+      "translations": [
+        "bowl"
+      ],
+      "level": "A2",
+      "category": "Drinks & Cooking",
+      "partOfSpeech": "noun",
+      "frequency": 1000,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Schüsseln",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "der Schüssel"
+      },
+      "example_sentences": [
+        {
+          "de": "Der Salat ist in der Schüssel.",
+          "en": "The salad is in the bowl."
+        },
+        {
+          "de": "Wir brauchen eine große Schüssel.",
+          "en": "We need a big bowl."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Gib das Mehl bitte in die ___.",
+          "answer": "Schüssel",
+          "en": "Please put the flour in the bowl."
+        }
+      ],
+      "notes": "Kleiner: \"die Schale\" (für Obst oder Dips).",
+      "mnemonic": "die Schüssel — feminin wie die Gabel und die Pfanne.",
+      "germany_context": null,
+      "emoji": "🥣",
+      "imageable": true,
+      "tags": [
+        "kitchen",
+        "cooking"
+      ],
+      "synonyms": [
+        "Schale"
+      ],
+      "antonyms": [],
+      "related": [
+        "teller",
+        "mischen",
+        "ruehren"
+      ]
+    },
+    {
+      "id": "besteck",
+      "word": "das Besteck",
+      "lemma": "Besteck",
+      "translation": "cutlery",
+      "translations": [
+        "cutlery",
+        "silverware"
+      ],
+      "level": "A2",
+      "category": "Drinks & Cooking",
+      "partOfSpeech": "noun",
+      "frequency": 1080,
+      "gender": "n",
+      "article": "das",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "des Bestecks"
+      },
+      "example_sentences": [
+        {
+          "de": "Das Besteck liegt in der Schublade.",
+          "en": "The cutlery is in the drawer."
+        },
+        {
+          "de": "Bitte leg das Besteck auf den Tisch.",
+          "en": "Please put the cutlery on the table."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Nach dem Essen kommt das ___ in die Spülmaschine.",
+          "answer": "Besteck",
+          "en": "After the meal the cutlery goes in the dishwasher."
+        }
+      ],
+      "notes": "Sammelbegriff für Messer, Gabel und Löffel — meist im Singular.",
+      "mnemonic": "Be- am Anfang → oft neutrum: das Besteck, das Getränk.",
+      "germany_context": null,
+      "emoji": "🍴",
+      "imageable": true,
+      "tags": [
+        "kitchen",
+        "cutlery"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "messer",
+        "gabel",
+        "loeffel",
+        "spuelmaschine"
+      ]
+    },
+    {
+      "id": "serviette",
+      "word": "die Serviette",
+      "lemma": "Serviette",
+      "translation": "napkin",
+      "translations": [
+        "napkin",
+        "serviette"
+      ],
+      "level": "A2",
+      "category": "Drinks & Cooking",
+      "partOfSpeech": "noun",
+      "frequency": 1120,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Servietten",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "der Serviette"
+      },
+      "example_sentences": [
+        {
+          "de": "Kann ich bitte eine Serviette haben?",
+          "en": "Can I have a napkin, please?"
+        },
+        {
+          "de": "Die Servietten sind aus Papier.",
+          "en": "The napkins are made of paper."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Auf dem Tisch liegt neben jedem Teller eine ___.",
+          "answer": "Serviette",
+          "en": "There's a napkin next to every plate on the table."
+        }
+      ],
+      "notes": "Wörter auf -ette sind feminin: die Serviette, die Toilette.",
+      "mnemonic": "-ette ist immer feminin.",
+      "germany_context": null,
+      "emoji": "🧻",
+      "imageable": true,
+      "tags": [
+        "kitchen",
+        "restaurant"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "teller",
+        "besteck"
+      ]
+    },
+    {
+      "id": "schneidebrett",
+      "word": "das Schneidebrett",
+      "lemma": "Schneidebrett",
+      "translation": "cutting board",
+      "translations": [
+        "cutting board",
+        "chopping board"
+      ],
+      "level": "A2",
+      "category": "Drinks & Cooking",
+      "partOfSpeech": "noun",
+      "frequency": 1450,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Schneidebretter",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "des Schneidebretts"
+      },
+      "example_sentences": [
+        {
+          "de": "Das Schneidebrett ist aus Holz.",
+          "en": "The cutting board is made of wood."
+        },
+        {
+          "de": "Leg die Zwiebel auf das Schneidebrett.",
+          "en": "Put the onion on the cutting board."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Für Fleisch nehme ich ein extra ___.",
+          "answer": "Schneidebrett",
+          "en": "For meat I use a separate cutting board."
+        }
+      ],
+      "notes": "Auch \"das Schneidbrett\" oder einfach \"das Brett\".",
+      "mnemonic": "das Brett bestimmt das Genus — neutrum.",
+      "germany_context": null,
+      "emoji": "🔪",
+      "imageable": true,
+      "tags": [
+        "kitchen",
+        "cooking"
+      ],
+      "synonyms": [
+        "Schneidbrett"
+      ],
+      "antonyms": [],
+      "related": [
+        "messer",
+        "hacken"
+      ]
+    },
+    {
+      "id": "herd",
+      "word": "der Herd",
+      "lemma": "Herd",
+      "translation": "stove",
+      "translations": [
+        "stove",
+        "cooker",
+        "hob"
+      ],
+      "level": "A1",
+      "category": "Drinks & Cooking",
+      "partOfSpeech": "noun",
+      "frequency": 850,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Herde",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "des Herdes"
+      },
+      "example_sentences": [
+        {
+          "de": "Der Herd ist noch an.",
+          "en": "The stove is still on."
+        },
+        {
+          "de": "Wir haben einen neuen Herd gekauft.",
+          "en": "We bought a new stove."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Mach bitte den ___ aus, bevor du gehst.",
+          "answer": "Herd",
+          "en": "Please turn off the stove before you leave."
+        }
+      ],
+      "notes": "\"Ceranfeld\" oder \"Induktionsherd\" sind die üblichen Typen.",
+      "mnemonic": "Herd ~ hearth — das Feuer der Küche, maskulin.",
+      "germany_context": "Viele deutsche Mietwohnungen werden OHNE Küche vermietet. Herd, Kühlschrank und Schränke musst du oft selbst kaufen oder dem Vormieter abkaufen (\"Ablöse\").",
+      "emoji": "🔥",
+      "imageable": true,
+      "tags": [
+        "kitchen",
+        "appliances",
+        "germany"
+      ],
+      "synonyms": [
+        "Kochfeld"
+      ],
+      "antonyms": [],
+      "related": [
+        "backofen",
+        "topf",
+        "pfanne"
+      ]
+    },
+    {
+      "id": "backofen",
+      "word": "der Backofen",
+      "lemma": "Backofen",
+      "translation": "oven",
+      "translations": [
+        "oven"
+      ],
+      "level": "A1",
+      "category": "Drinks & Cooking",
+      "partOfSpeech": "noun",
+      "frequency": 880,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Backöfen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "des Backofens"
+      },
+      "example_sentences": [
+        {
+          "de": "Die Pizza ist im Backofen.",
+          "en": "The pizza is in the oven."
+        },
+        {
+          "de": "Heiz den Backofen auf 200 Grad vor.",
+          "en": "Preheat the oven to 200 degrees."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der ___ ist noch heiß, pass auf.",
+          "answer": "Backofen",
+          "en": "The oven is still hot, be careful."
+        }
+      ],
+      "notes": "Kurz auch nur \"der Ofen\". \"vorheizen\" = to preheat.",
+      "mnemonic": "backen + Ofen → der Ofen bestimmt das Genus.",
+      "germany_context": null,
+      "emoji": "🔥",
+      "imageable": true,
+      "tags": [
+        "kitchen",
+        "appliances"
+      ],
+      "synonyms": [
+        "Ofen"
+      ],
+      "antonyms": [],
+      "related": [
+        "herd",
+        "mikrowelle"
+      ]
+    },
+    {
+      "id": "mikrowelle",
+      "word": "die Mikrowelle",
+      "lemma": "Mikrowelle",
+      "translation": "microwave",
+      "translations": [
+        "microwave"
+      ],
+      "level": "A1",
+      "category": "Drinks & Cooking",
+      "partOfSpeech": "noun",
+      "frequency": 940,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Mikrowellen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "der Mikrowelle"
+      },
+      "example_sentences": [
+        {
+          "de": "Wärm die Suppe in der Mikrowelle auf.",
+          "en": "Heat the soup in the microwave."
+        },
+        {
+          "de": "Haben wir eine Mikrowelle im Büro?",
+          "en": "Do we have a microwave in the office?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Stell den Teller zwei Minuten in die ___.",
+          "answer": "Mikrowelle",
+          "en": "Put the plate in the microwave for two minutes."
+        }
+      ],
+      "notes": "\"die Welle\" (wave) ist feminin, deshalb die Mikrowelle.",
+      "mnemonic": "die Welle → die Mikrowelle.",
+      "germany_context": null,
+      "emoji": "📻",
+      "imageable": true,
+      "tags": [
+        "kitchen",
+        "appliances"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "aufwaermen",
+        "backofen"
+      ]
+    },
+    {
+      "id": "kuehlschrank",
+      "word": "der Kühlschrank",
+      "lemma": "Kühlschrank",
+      "translation": "fridge",
+      "translations": [
+        "fridge",
+        "refrigerator"
+      ],
+      "level": "A1",
+      "category": "Drinks & Cooking",
+      "partOfSpeech": "noun",
+      "frequency": 540,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Kühlschränke",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "des Kühlschranks"
+      },
+      "example_sentences": [
+        {
+          "de": "Die Milch ist im Kühlschrank.",
+          "en": "The milk is in the fridge."
+        },
+        {
+          "de": "Der Kühlschrank ist fast leer.",
+          "en": "The fridge is almost empty."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Stell das Bier bitte in den ___.",
+          "answer": "Kühlschrank",
+          "en": "Please put the beer in the fridge."
+        }
+      ],
+      "notes": "kühl (cool) + Schrank (cupboard). \"der Schrank\" gibt das Genus vor.",
+      "mnemonic": "kühler Schrank = Kühlschrank, maskulin wie der Schrank.",
+      "germany_context": null,
+      "emoji": "🧊",
+      "imageable": true,
+      "tags": [
+        "kitchen",
+        "appliances",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "gefrierschrank",
+        "milch"
+      ]
+    },
+    {
+      "id": "gefrierschrank",
+      "word": "der Gefrierschrank",
+      "lemma": "Gefrierschrank",
+      "translation": "freezer",
+      "translations": [
+        "freezer"
+      ],
+      "level": "A2",
+      "category": "Drinks & Cooking",
+      "partOfSpeech": "noun",
+      "frequency": 1160,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Gefrierschränke",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "des Gefrierschranks"
+      },
+      "example_sentences": [
+        {
+          "de": "Das Eis ist im Gefrierschrank.",
+          "en": "The ice cream is in the freezer."
+        },
+        {
+          "de": "Unser Gefrierschrank ist voll.",
+          "en": "Our freezer is full."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Das Brot lege ich in den ___.",
+          "answer": "Gefrierschrank",
+          "en": "I'll put the bread in the freezer."
+        }
+      ],
+      "notes": "Das Fach im Kühlschrank heißt \"das Gefrierfach\" oder \"die Tiefkühltruhe\" (Truhe = chest freezer).",
+      "mnemonic": "gefrieren + Schrank → der Schrank bestimmt das Genus.",
+      "germany_context": null,
+      "emoji": "🧊",
+      "imageable": true,
+      "tags": [
+        "kitchen",
+        "appliances"
+      ],
+      "synonyms": [
+        "Tiefkühlschrank"
+      ],
+      "antonyms": [],
+      "related": [
+        "kuehlschrank",
+        "einfrieren",
+        "auftauen"
+      ]
+    },
+    {
+      "id": "spuelmaschine",
+      "word": "die Spülmaschine",
+      "lemma": "Spülmaschine",
+      "translation": "dishwasher",
+      "translations": [
+        "dishwasher"
+      ],
+      "level": "A1",
+      "category": "Drinks & Cooking",
+      "partOfSpeech": "noun",
+      "frequency": 810,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Spülmaschinen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "der Spülmaschine"
+      },
+      "example_sentences": [
+        {
+          "de": "Die Spülmaschine ist fertig.",
+          "en": "The dishwasher is done."
+        },
+        {
+          "de": "Räum bitte die Spülmaschine aus.",
+          "en": "Please empty the dishwasher."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Die Teller kommen alle in die ___.",
+          "answer": "Spülmaschine",
+          "en": "All the plates go in the dishwasher."
+        }
+      ],
+      "notes": "Auch \"der Geschirrspüler\" — beides ist im Alltag üblich.",
+      "mnemonic": "die Maschine ist feminin → die Spülmaschine, die Waschmaschine.",
+      "germany_context": "Wegen der Ruhezeiten (22–6 Uhr und meist sonntags) lassen viele die Spülmaschine nachts lieber nicht laufen, wenn die Wände dünn sind.",
+      "emoji": "🍽️",
+      "imageable": true,
+      "tags": [
+        "kitchen",
+        "appliances",
+        "germany"
+      ],
+      "synonyms": [
+        "Geschirrspüler"
+      ],
+      "antonyms": [],
+      "related": [
+        "spuelen",
+        "abwaschen",
+        "besteck"
+      ]
+    },
+    {
+      "id": "wasserkocher",
+      "word": "der Wasserkocher",
+      "lemma": "Wasserkocher",
+      "translation": "electric kettle",
+      "translations": [
+        "electric kettle",
+        "kettle"
+      ],
+      "level": "A2",
+      "category": "Drinks & Cooking",
+      "partOfSpeech": "noun",
+      "frequency": 1020,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Wasserkocher",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "des Wasserkochers"
+      },
+      "example_sentences": [
+        {
+          "de": "Der Wasserkocher steht neben dem Herd.",
+          "en": "The kettle is next to the stove."
+        },
+        {
+          "de": "Mach bitte den Wasserkocher an.",
+          "en": "Please turn on the kettle."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Für den Tee brauche ich den ___.",
+          "answer": "Wasserkocher",
+          "en": "I need the kettle for the tea."
+        }
+      ],
+      "notes": "In fast jeder deutschen Küche vorhanden — Tee und Instantkaffee laufen darüber.",
+      "mnemonic": "-er am Ende macht das Gerät maskulin: der Kocher, der Toaster, der Fernseher.",
+      "germany_context": null,
+      "emoji": "🫖",
+      "imageable": true,
+      "tags": [
+        "kitchen",
+        "appliances"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "tee",
+        "kraeutertee"
+      ]
+    },
+    {
+      "id": "spuelmittel",
+      "word": "das Spülmittel",
+      "lemma": "Spülmittel",
+      "translation": "dish soap",
+      "translations": [
+        "dish soap",
+        "washing-up liquid"
+      ],
+      "level": "A2",
+      "category": "Drinks & Cooking",
+      "partOfSpeech": "noun",
+      "frequency": 1210,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Spülmittel",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "des Spülmittels"
+      },
+      "example_sentences": [
+        {
+          "de": "Wir brauchen neues Spülmittel.",
+          "en": "We need new dish soap."
+        },
+        {
+          "de": "Das Spülmittel steht neben der Spüle.",
+          "en": "The dish soap is next to the sink."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Gib bitte etwas ___ ins Wasser.",
+          "answer": "Spülmittel",
+          "en": "Please put some dish soap in the water."
+        }
+      ],
+      "notes": "Wörter auf -mittel sind neutrum: das Spülmittel, das Waschmittel, das Lebensmittel.",
+      "mnemonic": "-mittel → immer das.",
+      "germany_context": null,
+      "emoji": "🧴",
+      "imageable": true,
+      "tags": [
+        "kitchen",
+        "cleaning",
+        "supermarket"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "spuelen",
+        "abwaschen"
+      ]
+    },
+    {
+      "id": "leergut",
+      "word": "das Leergut",
+      "lemma": "Leergut",
+      "translation": "empties (returnable bottles)",
+      "translations": [
+        "empties (returnable bottles)",
+        "empty containers"
+      ],
+      "level": "A2",
+      "category": "Drinks & Cooking",
+      "partOfSpeech": "noun",
+      "frequency": 1060,
+      "gender": "n",
+      "article": "das",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "des Leerguts"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich bringe das Leergut zurück.",
+          "en": "I'm taking the empties back."
+        },
+        {
+          "de": "Das Leergut steht schon im Auto.",
+          "en": "The empties are already in the car."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Nimmst du bitte das ___ mit zum Supermarkt?",
+          "answer": "Leergut",
+          "en": "Could you take the empties along to the supermarket?"
+        }
+      ],
+      "notes": "\"leer\" + \"Gut\" (goods). Nur im Singular, auch wenn es viele Flaschen sind.",
+      "mnemonic": "leere Flaschen = Leergut.",
+      "germany_context": "Im Supermarkt steht \"Leergutannahme\" über dem Pfandautomaten. Du bekommst einen Bon, den du an der Kasse einlöst oder direkt vom Einkauf abziehen lässt.",
+      "emoji": "♻️",
+      "imageable": true,
+      "tags": [
+        "germany",
+        "supermarket",
+        "recycling",
+        "drinks"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "pfand",
+        "pfandflasche",
+        "getraenkemarkt"
+      ]
+    },
+    {
+      "id": "zutat",
+      "word": "die Zutat",
+      "lemma": "Zutat",
+      "translation": "ingredient",
+      "translations": [
+        "ingredient"
+      ],
+      "level": "A2",
+      "category": "Drinks & Cooking",
+      "partOfSpeech": "noun",
+      "frequency": 930,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Zutaten",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "der Zutat"
+      },
+      "example_sentences": [
+        {
+          "de": "Wir haben alle Zutaten zu Hause.",
+          "en": "We have all the ingredients at home."
+        },
+        {
+          "de": "Eine Zutat fehlt noch.",
+          "en": "One ingredient is still missing."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Auf der Packung stehen alle ___.",
+          "answer": "Zutaten",
+          "en": "All the ingredients are listed on the package."
+        }
+      ],
+      "notes": "Meist im Plural benutzt: die Zutaten.",
+      "mnemonic": "Was man zur Speise \"tut\" → die Zutat.",
+      "germany_context": "Die Zutatenliste auf Verpackungen ist wichtig, wenn du kein Schweinefleisch isst: achte auf \"Schweinefleisch\", \"Gelatine\" und \"Schweineschmalz\".",
+      "emoji": "🧂",
+      "imageable": false,
+      "tags": [
+        "cooking",
+        "supermarket"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "portion",
+        "mischen"
+      ]
+    },
+    {
+      "id": "portion",
+      "word": "die Portion",
+      "lemma": "Portion",
+      "translation": "portion",
+      "translations": [
+        "portion",
+        "serving"
+      ],
+      "level": "A2",
+      "category": "Drinks & Cooking",
+      "partOfSpeech": "noun",
+      "frequency": 890,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Portionen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "der Portion"
+      },
+      "example_sentences": [
+        {
+          "de": "Die Portion ist ziemlich groß.",
+          "en": "The portion is pretty big."
+        },
+        {
+          "de": "Das Rezept reicht für vier Portionen.",
+          "en": "The recipe is enough for four portions."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich nehme eine kleine ___ Pommes.",
+          "answer": "Portion",
+          "en": "I'll have a small portion of fries."
+        }
+      ],
+      "notes": "Wörter auf -ion sind feminin: die Portion, die Position, die Information.",
+      "mnemonic": "-ion → immer die.",
+      "germany_context": null,
+      "emoji": "🍽️",
+      "imageable": false,
+      "tags": [
+        "cooking",
+        "restaurant"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "servieren"
+      ]
+    },
+    {
+      "id": "getraenkemarkt",
+      "word": "der Getränkemarkt",
+      "lemma": "Getränkemarkt",
+      "translation": "beverage store",
+      "translations": [
+        "beverage store",
+        "drinks market"
+      ],
+      "level": "A2",
+      "category": "Drinks & Cooking",
+      "partOfSpeech": "noun",
+      "frequency": 1180,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Getränkemärkte",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "des Getränkemarkts"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich fahre kurz zum Getränkemarkt.",
+          "en": "I'm driving over to the beverage store."
+        },
+        {
+          "de": "Der Getränkemarkt hat bis 20 Uhr offen.",
+          "en": "The beverage store is open until 8 pm."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Am ___ kannst du auch das Leergut abgeben.",
+          "answer": "Getränkemarkt",
+          "en": "You can also return your empties at the beverage store."
+        }
+      ],
+      "notes": "Dort kauft man Getränke kastenweise, deutlich günstiger als im Supermarkt.",
+      "mnemonic": "der Markt bestimmt das Genus → der Getränkemarkt.",
+      "germany_context": "Getränkemärkte verkaufen ganze Kästen und nehmen jedes Leergut zurück. Sonntags haben sie wie alle Läden zu — Getränke fürs Wochenende musst du bis Samstagabend kaufen.",
+      "emoji": "🏪",
+      "imageable": true,
+      "tags": [
+        "drinks",
+        "germany",
+        "shopping"
+      ],
+      "synonyms": [
+        "Getränkehandel"
+      ],
+      "antonyms": [],
+      "related": [
+        "getraenk",
+        "pfand",
+        "bier"
+      ]
+    },
+    {
+      "id": "braten",
+      "word": "braten",
+      "lemma": "braten",
+      "translation": "to fry",
+      "translations": [
+        "to fry",
+        "to roast"
+      ],
+      "level": "A2",
+      "category": "Drinks & Cooking",
+      "partOfSpeech": "verb",
+      "frequency": 970,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "brate",
+        "du": "brätst",
+        "er": "brät",
+        "wir": "braten",
+        "ihr": "bratet",
+        "sie": "braten",
+        "praeteritum": "briet",
+        "perfekt": "hat gebraten",
+        "imperativ": "brate!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich brate das Hähnchen in der Pfanne.",
+          "en": "I'm frying the chicken in the pan."
+        },
+        {
+          "de": "Brätst du die Zwiebeln kurz an?",
+          "en": "Will you fry the onions briefly?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Er ___ das Ei mit etwas Butter.",
+          "answer": "brät",
+          "en": "He fries the egg with a little butter."
+        }
+      ],
+      "notes": "Starkes Verb mit a→ä bei du/er. \"der Braten\" (roast) ist das dazugehörige Substantiv.",
+      "mnemonic": "braten ~ roast — du brätst, er brät (a wird zu ä).",
+      "germany_context": null,
+      "emoji": "🍳",
+      "imageable": false,
+      "tags": [
+        "cooking",
+        "verb"
+      ],
+      "synonyms": [
+        "anbraten"
+      ],
+      "antonyms": [],
+      "related": [
+        "pfanne",
+        "grillen",
+        "herd"
+      ]
+    },
+    {
+      "id": "grillen",
+      "word": "grillen",
+      "lemma": "grillen",
+      "translation": "to grill",
+      "translations": [
+        "to grill",
+        "to barbecue"
+      ],
+      "level": "A2",
+      "category": "Drinks & Cooking",
+      "partOfSpeech": "verb",
+      "frequency": 860,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "grille",
+        "du": "grillst",
+        "er": "grillt",
+        "wir": "grillen",
+        "ihr": "grillt",
+        "sie": "grillen",
+        "praeteritum": "grillte",
+        "perfekt": "hat gegrillt",
+        "imperativ": "grill(e)!"
+      },
+      "example_sentences": [
+        {
+          "de": "Am Wochenende grillen wir im Park.",
+          "en": "On the weekend we're grilling in the park."
+        },
+        {
+          "de": "Grillst du auch Gemüse?",
+          "en": "Do you grill vegetables too?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Bei gutem Wetter ___ die Nachbarn auf dem Balkon.",
+          "answer": "grillen",
+          "en": "When the weather is good the neighbours grill on the balcony."
+        }
+      ],
+      "notes": "\"grillen\" braucht kein Objekt: \"Wir grillen heute.\" reicht als Einladung.",
+      "mnemonic": "grillen ~ grill — regelmäßig und einfach.",
+      "germany_context": "Grillen ist ein Sommerritual, aber in Parks nur an ausgewiesenen Grillplätzen erlaubt. Auf dem Balkon kann Grillen laut Mietvertrag oder Hausordnung verboten sein — vorher nachlesen.",
+      "emoji": "🍖",
+      "imageable": false,
+      "tags": [
+        "cooking",
+        "verb",
+        "germany",
+        "summer"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "braten",
+        "bier"
+      ]
+    },
+    {
+      "id": "duensten",
+      "word": "dünsten",
+      "lemma": "dünsten",
+      "translation": "to steam",
+      "translations": [
+        "to steam",
+        "to braise"
+      ],
+      "level": "A2",
+      "category": "Drinks & Cooking",
+      "partOfSpeech": "verb",
+      "frequency": 1900,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "dünste",
+        "du": "dünstest",
+        "er": "dünstet",
+        "wir": "dünsten",
+        "ihr": "dünstet",
+        "sie": "dünsten",
+        "praeteritum": "dünstete",
+        "perfekt": "hat gedünstet",
+        "imperativ": "dünste!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich dünste das Gemüse nur kurz.",
+          "en": "I only steam the vegetables briefly."
+        },
+        {
+          "de": "Gedünsteter Fisch ist sehr gesund.",
+          "en": "Steamed fish is very healthy."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wir ___ die Karotten in wenig Wasser.",
+          "answer": "dünsten",
+          "en": "We steam the carrots in a little water."
+        }
+      ],
+      "notes": "Stamm auf -st, deshalb du dünstest / ihr dünstet mit Extra-e.",
+      "mnemonic": "Dunst = steam/haze → dünsten = im Dunst garen.",
+      "germany_context": null,
+      "emoji": "♨️",
+      "imageable": false,
+      "tags": [
+        "cooking",
+        "verb"
+      ],
+      "synonyms": [
+        "garen"
+      ],
+      "antonyms": [],
+      "related": [
+        "topf",
+        "braten"
+      ]
+    },
+    {
+      "id": "hacken",
+      "word": "hacken",
+      "lemma": "hacken",
+      "translation": "to chop",
+      "translations": [
+        "to chop",
+        "to mince"
+      ],
+      "level": "A2",
+      "category": "Drinks & Cooking",
+      "partOfSpeech": "verb",
+      "frequency": 1500,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "hacke",
+        "du": "hackst",
+        "er": "hackt",
+        "wir": "hacken",
+        "ihr": "hackt",
+        "sie": "hacken",
+        "praeteritum": "hackte",
+        "perfekt": "hat gehackt",
+        "imperativ": "hack(e)!"
+      },
+      "example_sentences": [
+        {
+          "de": "Hack bitte die Zwiebeln klein.",
+          "en": "Please chop the onions finely."
+        },
+        {
+          "de": "Ich hacke die Petersilie für die Soße.",
+          "en": "I'm chopping the parsley for the sauce."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Er ___ den Knoblauch sehr fein.",
+          "answer": "hackt",
+          "en": "He chops the garlic very finely."
+        }
+      ],
+      "notes": "\"Hackfleisch\" = ground meat, im Supermarkt sehr üblich.",
+      "mnemonic": "hacken ~ to hack/chop — gleiche Wurzel.",
+      "germany_context": null,
+      "emoji": "🔪",
+      "imageable": false,
+      "tags": [
+        "cooking",
+        "verb"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "messer",
+        "schneidebrett"
+      ]
+    },
+    {
+      "id": "ruehren",
+      "word": "rühren",
+      "lemma": "rühren",
+      "translation": "to stir",
+      "translations": [
+        "to stir"
+      ],
+      "level": "A2",
+      "category": "Drinks & Cooking",
+      "partOfSpeech": "verb",
+      "frequency": 1260,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "rühre",
+        "du": "rührst",
+        "er": "rührt",
+        "wir": "rühren",
+        "ihr": "rührt",
+        "sie": "rühren",
+        "praeteritum": "rührte",
+        "perfekt": "hat gerührt",
+        "imperativ": "rühr(e)!"
+      },
+      "example_sentences": [
+        {
+          "de": "Rühr die Soße, sonst brennt sie an.",
+          "en": "Stir the sauce or it will burn."
+        },
+        {
+          "de": "Ich rühre den Zucker in den Kaffee.",
+          "en": "I'm stirring the sugar into the coffee."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Sie ___ den Teig mit einem Löffel.",
+          "answer": "rührt",
+          "en": "She stirs the dough with a spoon."
+        }
+      ],
+      "notes": "Oft mit Vorsilbe: \"umrühren\" (stir around), \"einrühren\" (stir in).",
+      "mnemonic": "Rührei = scrambled egg — da wird gerührt.",
+      "germany_context": null,
+      "emoji": "🥄",
+      "imageable": false,
+      "tags": [
+        "cooking",
+        "verb"
+      ],
+      "synonyms": [
+        "umrühren"
+      ],
+      "antonyms": [],
+      "related": [
+        "loeffel",
+        "mischen",
+        "schuessel"
+      ]
+    },
+    {
+      "id": "mischen",
+      "word": "mischen",
+      "lemma": "mischen",
+      "translation": "to mix",
+      "translations": [
+        "to mix",
+        "to blend"
+      ],
+      "level": "A2",
+      "category": "Drinks & Cooking",
+      "partOfSpeech": "verb",
+      "frequency": 1140,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "mische",
+        "du": "mischst",
+        "er": "mischt",
+        "wir": "mischen",
+        "ihr": "mischt",
+        "sie": "mischen",
+        "praeteritum": "mischte",
+        "perfekt": "hat gemischt",
+        "imperativ": "misch(e)!"
+      },
+      "example_sentences": [
+        {
+          "de": "Misch den Saft mit Wasser.",
+          "en": "Mix the juice with water."
+        },
+        {
+          "de": "Ich mische das Mehl und das Salz.",
+          "en": "I'm mixing the flour and the salt."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wir ___ alle Zutaten in einer großen Schüssel.",
+          "answer": "mischen",
+          "en": "We mix all the ingredients in a large bowl."
+        }
+      ],
+      "notes": "\"gemischt\" auf der Karte heißt oft \"gemischter Salat\" (mixed salad).",
+      "mnemonic": "mischen ~ to mix — fast identisch.",
+      "germany_context": null,
+      "emoji": "🥣",
+      "imageable": false,
+      "tags": [
+        "cooking",
+        "verb"
+      ],
+      "synonyms": [
+        "vermischen"
+      ],
+      "antonyms": [
+        "trennen"
+      ],
+      "related": [
+        "ruehren",
+        "zutat",
+        "schorle"
+      ]
+    },
+    {
+      "id": "schaelen",
+      "word": "schälen",
+      "lemma": "schälen",
+      "translation": "to peel",
+      "translations": [
+        "to peel"
+      ],
+      "level": "A2",
+      "category": "Drinks & Cooking",
+      "partOfSpeech": "verb",
+      "frequency": 1350,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "schäle",
+        "du": "schälst",
+        "er": "schält",
+        "wir": "schälen",
+        "ihr": "schält",
+        "sie": "schälen",
+        "praeteritum": "schälte",
+        "perfekt": "hat geschält",
+        "imperativ": "schäl(e)!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich schäle die Kartoffeln.",
+          "en": "I'm peeling the potatoes."
+        },
+        {
+          "de": "Schälst du bitte die Äpfel?",
+          "en": "Could you peel the apples?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Er ___ die Karotten über dem Mülleimer.",
+          "answer": "schält",
+          "en": "He peels the carrots over the bin."
+        }
+      ],
+      "notes": "\"die Schale\" = peel/skin; \"der Sparschäler\" = vegetable peeler.",
+      "mnemonic": "die Schale abmachen → schälen.",
+      "germany_context": null,
+      "emoji": "🥔",
+      "imageable": false,
+      "tags": [
+        "cooking",
+        "verb"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "messer",
+        "zutat"
+      ]
+    },
+    {
+      "id": "wuerzen",
+      "word": "würzen",
+      "lemma": "würzen",
+      "translation": "to season",
+      "translations": [
+        "to season",
+        "to spice"
+      ],
+      "level": "A2",
+      "category": "Drinks & Cooking",
+      "partOfSpeech": "verb",
+      "frequency": 1550,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "würze",
+        "du": "würzt",
+        "er": "würzt",
+        "wir": "würzen",
+        "ihr": "würzt",
+        "sie": "würzen",
+        "praeteritum": "würzte",
+        "perfekt": "hat gewürzt",
+        "imperativ": "würz(e)!"
+      },
+      "example_sentences": [
+        {
+          "de": "Würz die Suppe mit Salz und Pfeffer.",
+          "en": "Season the soup with salt and pepper."
+        },
+        {
+          "de": "Ich würze das Fleisch immer stark.",
+          "en": "I always season the meat heavily."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Du ___ dein Essen viel schärfer als ich.",
+          "answer": "würzt",
+          "en": "You season your food much spicier than I do."
+        }
+      ],
+      "notes": "Stamm auf -z, deshalb ist die du-Form gleich der er-Form: du würzt, er würzt.",
+      "mnemonic": "das Gewürz (spice) → würzen.",
+      "germany_context": null,
+      "emoji": "🧂",
+      "imageable": false,
+      "tags": [
+        "cooking",
+        "verb"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "probieren",
+        "zutat"
+      ]
+    },
+    {
+      "id": "probieren",
+      "word": "probieren",
+      "lemma": "probieren",
+      "translation": "to taste",
+      "translations": [
+        "to taste",
+        "to try"
+      ],
+      "level": "A1",
+      "category": "Drinks & Cooking",
+      "partOfSpeech": "verb",
+      "frequency": 590,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "probiere",
+        "du": "probierst",
+        "er": "probiert",
+        "wir": "probieren",
+        "ihr": "probiert",
+        "sie": "probieren",
+        "praeteritum": "probierte",
+        "perfekt": "hat probiert",
+        "imperativ": "probier(e)!"
+      },
+      "example_sentences": [
+        {
+          "de": "Probier mal, ob genug Salz drin ist.",
+          "en": "Have a taste and see if there's enough salt."
+        },
+        {
+          "de": "Ich möchte den Wein gern probieren.",
+          "en": "I'd like to taste the wine."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Hast du das schon mal ___?",
+          "answer": "probiert",
+          "en": "Have you ever tried that before?"
+        }
+      ],
+      "notes": "Verben auf -ieren haben kein ge- im Partizip: probiert, nicht \"geprobiert\".",
+      "mnemonic": "probieren ~ to probe/try.",
+      "germany_context": null,
+      "emoji": "👅",
+      "imageable": false,
+      "tags": [
+        "cooking",
+        "verb",
+        "essential"
+      ],
+      "synonyms": [
+        "kosten",
+        "versuchen"
+      ],
+      "antonyms": [],
+      "related": [
+        "wuerzen",
+        "servieren"
+      ]
+    },
+    {
+      "id": "servieren",
+      "word": "servieren",
+      "lemma": "servieren",
+      "translation": "to serve",
+      "translations": [
+        "to serve"
+      ],
+      "level": "A2",
+      "category": "Drinks & Cooking",
+      "partOfSpeech": "verb",
+      "frequency": 1230,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "serviere",
+        "du": "servierst",
+        "er": "serviert",
+        "wir": "servieren",
+        "ihr": "serviert",
+        "sie": "servieren",
+        "praeteritum": "servierte",
+        "perfekt": "hat serviert",
+        "imperativ": "servier(e)!"
+      },
+      "example_sentences": [
+        {
+          "de": "Das Essen wird um acht Uhr serviert.",
+          "en": "Dinner is served at eight o'clock."
+        },
+        {
+          "de": "Wir servieren den Kuchen mit Sahne.",
+          "en": "We serve the cake with cream."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Kellner ___ die Getränke sehr schnell.",
+          "answer": "serviert",
+          "en": "The waiter serves the drinks very quickly."
+        }
+      ],
+      "notes": "Wie alle -ieren-Verben ohne ge- im Perfekt: hat serviert.",
+      "mnemonic": "servieren ~ to serve — international.",
+      "germany_context": null,
+      "emoji": "🍽️",
+      "imageable": false,
+      "tags": [
+        "cooking",
+        "verb",
+        "restaurant"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "portion",
+        "teller"
+      ]
+    },
+    {
+      "id": "aufwaermen",
+      "word": "aufwärmen",
+      "lemma": "aufwärmen",
+      "translation": "to warm up",
+      "translations": [
+        "to warm up",
+        "to reheat"
+      ],
+      "level": "A2",
+      "category": "Drinks & Cooking",
+      "partOfSpeech": "verb",
+      "frequency": 1090,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "wärme auf",
+        "du": "wärmst auf",
+        "er": "wärmt auf",
+        "wir": "wärmen auf",
+        "ihr": "wärmt auf",
+        "sie": "wärmen auf",
+        "praeteritum": "wärmte auf",
+        "perfekt": "hat aufgewärmt",
+        "imperativ": "wärm(e) auf!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich wärme die Suppe auf.",
+          "en": "I'm warming up the soup."
+        },
+        {
+          "de": "Wärmst du mir bitte den Rest auf?",
+          "en": "Could you warm up the rest for me?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Er hat die Nudeln in der Mikrowelle ___.",
+          "answer": "aufgewärmt",
+          "en": "He warmed up the pasta in the microwave."
+        }
+      ],
+      "notes": "Trennbar: die Vorsilbe \"auf\" geht ans Satzende.",
+      "mnemonic": "auf + warm → aufwärmen: etwas wieder warm machen.",
+      "germany_context": null,
+      "emoji": "♨️",
+      "imageable": false,
+      "tags": [
+        "cooking",
+        "verb",
+        "separable"
+      ],
+      "synonyms": [
+        "erwärmen"
+      ],
+      "antonyms": [
+        "abkühlen"
+      ],
+      "related": [
+        "mikrowelle",
+        "auftauen"
+      ]
+    },
+    {
+      "id": "einfrieren",
+      "word": "einfrieren",
+      "lemma": "einfrieren",
+      "translation": "to freeze",
+      "translations": [
+        "to freeze",
+        "to put in the freezer"
+      ],
+      "level": "A2",
+      "category": "Drinks & Cooking",
+      "partOfSpeech": "verb",
+      "frequency": 1310,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "friere ein",
+        "du": "frierst ein",
+        "er": "friert ein",
+        "wir": "frieren ein",
+        "ihr": "friert ein",
+        "sie": "frieren ein",
+        "praeteritum": "fror ein",
+        "perfekt": "hat eingefroren",
+        "imperativ": "frier(e) ein!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich friere das Brot ein.",
+          "en": "I'm freezing the bread."
+        },
+        {
+          "de": "Man kann Suppe gut einfrieren.",
+          "en": "Soup freezes well."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wir haben die Reste gestern ___.",
+          "answer": "eingefroren",
+          "en": "We froze the leftovers yesterday."
+        }
+      ],
+      "notes": "Mit Objekt (etwas einfrieren) steht es mit haben; ohne Objekt (das Wasser ist eingefroren) mit sein.",
+      "mnemonic": "ein + frieren → ins Gefrierfach hinein.",
+      "germany_context": null,
+      "emoji": "🧊",
+      "imageable": false,
+      "tags": [
+        "cooking",
+        "verb",
+        "separable"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "auftauen"
+      ],
+      "related": [
+        "gefrierschrank",
+        "auftauen"
+      ]
+    },
+    {
+      "id": "auftauen",
+      "word": "auftauen",
+      "lemma": "auftauen",
+      "translation": "to defrost",
+      "translations": [
+        "to defrost",
+        "to thaw"
+      ],
+      "level": "A2",
+      "category": "Drinks & Cooking",
+      "partOfSpeech": "verb",
+      "frequency": 1420,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "taue auf",
+        "du": "taust auf",
+        "er": "taut auf",
+        "wir": "tauen auf",
+        "ihr": "taut auf",
+        "sie": "tauen auf",
+        "praeteritum": "taute auf",
+        "perfekt": "hat aufgetaut",
+        "imperativ": "tau(e) auf!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich taue das Fleisch im Kühlschrank auf.",
+          "en": "I'm defrosting the meat in the fridge."
+        },
+        {
+          "de": "Taust du bitte das Brot auf?",
+          "en": "Could you defrost the bread?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Fisch muss erst langsam ___.",
+          "answer": "auftauen",
+          "en": "The fish has to thaw slowly first."
+        }
+      ],
+      "notes": "Mit Objekt mit haben, von selbst auftauen mit sein: \"Das Eis ist aufgetaut.\"",
+      "mnemonic": "auf + tauen (to thaw) → das Eis geht auf.",
+      "germany_context": null,
+      "emoji": "💧",
+      "imageable": false,
+      "tags": [
+        "cooking",
+        "verb",
+        "separable"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "einfrieren"
+      ],
+      "related": [
+        "einfrieren",
+        "gefrierschrank",
+        "mikrowelle"
+      ]
+    },
+    {
+      "id": "abwaschen",
+      "word": "abwaschen",
+      "lemma": "abwaschen",
+      "translation": "to wash the dishes",
+      "translations": [
+        "to wash the dishes",
+        "to wash off"
+      ],
+      "level": "A2",
+      "category": "Drinks & Cooking",
+      "partOfSpeech": "verb",
+      "frequency": 960,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "wasche ab",
+        "du": "wäschst ab",
+        "er": "wäscht ab",
+        "wir": "waschen ab",
+        "ihr": "wascht ab",
+        "sie": "waschen ab",
+        "praeteritum": "wusch ab",
+        "perfekt": "hat abgewaschen",
+        "imperativ": "wasch(e) ab!"
+      },
+      "example_sentences": [
+        {
+          "de": "Heute wasche ich ab.",
+          "en": "I'm doing the dishes today."
+        },
+        {
+          "de": "Wäschst du bitte die Töpfe ab?",
+          "en": "Could you wash the pots?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wer hat gestern Abend ___?",
+          "answer": "abgewaschen",
+          "en": "Who did the dishes last night?"
+        }
+      ],
+      "notes": "Starkes Verb: du wäschst, er wäscht (a→ä). Synonym im Alltag: \"spülen\".",
+      "mnemonic": "ab + waschen → das Schmutzige abwaschen.",
+      "germany_context": null,
+      "emoji": "🧽",
+      "imageable": false,
+      "tags": [
+        "kitchen",
+        "verb",
+        "separable",
+        "housework"
+      ],
+      "synonyms": [
+        "spülen"
+      ],
+      "antonyms": [],
+      "related": [
+        "spuelen",
+        "spuelmaschine",
+        "spuelmittel"
+      ]
+    },
+    {
+      "id": "spuelen",
+      "word": "spülen",
+      "lemma": "spülen",
+      "translation": "to rinse",
+      "translations": [
+        "to rinse",
+        "to wash up"
+      ],
+      "level": "A2",
+      "category": "Drinks & Cooking",
+      "partOfSpeech": "verb",
+      "frequency": 1040,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "spüle",
+        "du": "spülst",
+        "er": "spült",
+        "wir": "spülen",
+        "ihr": "spült",
+        "sie": "spülen",
+        "praeteritum": "spülte",
+        "perfekt": "hat gespült",
+        "imperativ": "spül(e)!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich spüle die Gläser mit warmem Wasser.",
+          "en": "I rinse the glasses with warm water."
+        },
+        {
+          "de": "Nach dem Essen spülen wir zusammen.",
+          "en": "After the meal we wash up together."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ bitte kurz die Tasse aus.",
+          "answer": "Spül",
+          "en": "Please rinse the cup out quickly."
+        }
+      ],
+      "notes": "\"die Spüle\" ist das Spülbecken in der Küche (sink).",
+      "mnemonic": "Spülmaschine, Spülmittel, spülen — alles gehört zusammen.",
+      "germany_context": null,
+      "emoji": "🚿",
+      "imageable": false,
+      "tags": [
+        "kitchen",
+        "verb",
+        "housework"
+      ],
+      "synonyms": [
+        "abwaschen"
+      ],
+      "antonyms": [],
+      "related": [
+        "abwaschen",
+        "spuelmittel",
+        "spuelmaschine"
+      ]
+    },
+    {
+      "id": "zubereiten",
+      "word": "zubereiten",
+      "lemma": "zubereiten",
+      "translation": "to prepare (food)",
+      "translations": [
+        "to prepare (food)",
+        "to make"
+      ],
+      "level": "A2",
+      "category": "Drinks & Cooking",
+      "partOfSpeech": "verb",
+      "frequency": 1290,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "bereite zu",
+        "du": "bereitest zu",
+        "er": "bereitet zu",
+        "wir": "bereiten zu",
+        "ihr": "bereitet zu",
+        "sie": "bereiten zu",
+        "praeteritum": "bereitete zu",
+        "perfekt": "hat zubereitet",
+        "imperativ": "bereite zu!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich bereite das Abendessen zu.",
+          "en": "I'm preparing dinner."
+        },
+        {
+          "de": "Das Gericht ist schnell zubereitet.",
+          "en": "The dish is quick to prepare."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wie hat er den Fisch ___?",
+          "answer": "zubereitet",
+          "en": "How did he prepare the fish?"
+        }
+      ],
+      "notes": "Trennbar, aber ohne ge- im Partizip, weil \"bereiten\" untrennbar betont ist: hat zubereitet.",
+      "mnemonic": "zu + bereiten → etwas fertig machen zum Essen.",
+      "germany_context": null,
+      "emoji": "👨‍🍳",
+      "imageable": false,
+      "tags": [
+        "cooking",
+        "verb",
+        "separable"
+      ],
+      "synonyms": [
+        "machen"
+      ],
+      "antonyms": [],
+      "related": [
+        "zutat"
+      ]
+    }
+  ]
+}

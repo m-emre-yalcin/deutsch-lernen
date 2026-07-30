@@ -1,0 +1,5017 @@
+{
+  "category": "Home & Furniture",
+  "words": [
+    {
+      "id": "wohnung",
+      "word": "die Wohnung",
+      "lemma": "Wohnung",
+      "translation": "flat",
+      "translations": [
+        "flat",
+        "apartment"
+      ],
+      "level": "A1",
+      "category": "Home & Furniture",
+      "partOfSpeech": "noun",
+      "frequency": 150,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Wohnungen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Unsere Wohnung hat drei Zimmer.",
+          "en": "Our flat has three rooms."
+        },
+        {
+          "de": "Ich suche eine Wohnung in Köln.",
+          "en": "I'm looking for a flat in Cologne."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Die ___ liegt im dritten Stock.",
+          "answer": "Wohnung",
+          "en": "The flat is on the third floor."
+        }
+      ],
+      "notes": "Wohnung = flat/apartment. A whole house is 'das Haus'.",
+      "mnemonic": "wohnen + -ung → die Wohnung; every -ung noun is feminine.",
+      "germany_context": "German rental flats are almost always let unfurnished — and very often with no kitchen at all. Budget for buying and installing one, or look for a listing that says 'mit Einbauküche' (EBK).",
+      "emoji": "🏢",
+      "imageable": true,
+      "tags": [
+        "home",
+        "essential",
+        "housing"
+      ],
+      "synonyms": [
+        "das Appartement"
+      ],
+      "antonyms": [],
+      "related": [
+        "haus",
+        "zimmer",
+        "miete"
+      ]
+    },
+    {
+      "id": "haus",
+      "word": "das Haus",
+      "lemma": "Haus",
+      "translation": "house",
+      "translations": [
+        "house",
+        "home"
+      ],
+      "level": "A1",
+      "category": "Home & Furniture",
+      "partOfSpeech": "noun",
+      "frequency": 130,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Häuser",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "des Hauses"
+      },
+      "example_sentences": [
+        {
+          "de": "Das Haus ist sehr alt.",
+          "en": "The house is very old."
+        },
+        {
+          "de": "Meine Eltern haben ein Haus mit Garten.",
+          "en": "My parents have a house with a garden."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich gehe jetzt nach ___.",
+          "answer": "Hause",
+          "en": "I'm going home now."
+        }
+      ],
+      "notes": "Fixed phrases: 'nach Hause' (going home) and 'zu Hause' (at home) keep the old dative -e.",
+      "mnemonic": "HAUS ~ 'house' — the vowel even sounds similar.",
+      "germany_context": null,
+      "emoji": "🏠",
+      "imageable": true,
+      "tags": [
+        "home",
+        "essential",
+        "building"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "wohnung",
+        "garten"
+      ]
+    },
+    {
+      "id": "zimmer",
+      "word": "das Zimmer",
+      "lemma": "Zimmer",
+      "translation": "room",
+      "translations": [
+        "room"
+      ],
+      "level": "A1",
+      "category": "Home & Furniture",
+      "partOfSpeech": "noun",
+      "frequency": 260,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Zimmer",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Das Zimmer ist klein, aber hell.",
+          "en": "The room is small but bright."
+        },
+        {
+          "de": "Wie viele Zimmer hat die Wohnung?",
+          "en": "How many rooms does the flat have?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Mein ___ ist im ersten Stock.",
+          "answer": "Zimmer",
+          "en": "My room is on the first floor."
+        }
+      ],
+      "notes": "In German ads '3-Zimmer-Wohnung' counts living rooms and bedrooms only — kitchen and bathroom are not counted.",
+      "mnemonic": "Nouns ending in -er for things are often neuter here: das Zimmer, plural unchanged.",
+      "germany_context": "A '2-Zimmer-Wohnung' means two rooms plus kitchen and bath, so it is roughly a one-bedroom flat.",
+      "emoji": "🚪",
+      "imageable": true,
+      "tags": [
+        "home",
+        "rooms"
+      ],
+      "synonyms": [
+        "der Raum"
+      ],
+      "antonyms": [],
+      "related": [
+        "wohnung"
+      ]
+    },
+    {
+      "id": "wohnzimmer",
+      "word": "das Wohnzimmer",
+      "lemma": "Wohnzimmer",
+      "translation": "living room",
+      "translations": [
+        "living room"
+      ],
+      "level": "A1",
+      "category": "Home & Furniture",
+      "partOfSpeech": "noun",
+      "frequency": 620,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Wohnzimmer",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Wir sitzen im Wohnzimmer und schauen einen Film.",
+          "en": "We're sitting in the living room watching a film."
+        },
+        {
+          "de": "Das Wohnzimmer hat einen großen Balkon.",
+          "en": "The living room has a big balcony."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Fernseher steht im ___.",
+          "answer": "Wohnzimmer",
+          "en": "The TV is in the living room."
+        }
+      ],
+      "notes": null,
+      "mnemonic": "wohnen (to live) + Zimmer (room) = the room you live in.",
+      "germany_context": null,
+      "emoji": "🛋️",
+      "imageable": true,
+      "tags": [
+        "home",
+        "rooms"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "zimmer",
+        "sofa"
+      ]
+    },
+    {
+      "id": "schlafzimmer",
+      "word": "das Schlafzimmer",
+      "lemma": "Schlafzimmer",
+      "translation": "bedroom",
+      "translations": [
+        "bedroom"
+      ],
+      "level": "A1",
+      "category": "Home & Furniture",
+      "partOfSpeech": "noun",
+      "frequency": 660,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Schlafzimmer",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Unser Schlafzimmer ist ziemlich ruhig.",
+          "en": "Our bedroom is fairly quiet."
+        },
+        {
+          "de": "Im Schlafzimmer steht nur ein Bett.",
+          "en": "There is only a bed in the bedroom."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich gehe ins ___ und mache das Licht aus.",
+          "answer": "Schlafzimmer",
+          "en": "I go into the bedroom and turn off the light."
+        }
+      ],
+      "notes": null,
+      "mnemonic": "schlafen + Zimmer = the sleeping room.",
+      "germany_context": null,
+      "emoji": "🛏️",
+      "imageable": true,
+      "tags": [
+        "home",
+        "rooms"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "bett",
+        "zimmer"
+      ]
+    },
+    {
+      "id": "kinderzimmer",
+      "word": "das Kinderzimmer",
+      "lemma": "Kinderzimmer",
+      "translation": "children's room",
+      "translations": [
+        "children's room",
+        "nursery"
+      ],
+      "level": "A2",
+      "category": "Home & Furniture",
+      "partOfSpeech": "noun",
+      "frequency": 1150,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Kinderzimmer",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Das Kinderzimmer ist immer unordentlich.",
+          "en": "The children's room is always messy."
+        },
+        {
+          "de": "Wir streichen das Kinderzimmer gelb.",
+          "en": "We're painting the children's room yellow."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Die Spielsachen sind im ___.",
+          "answer": "Kinderzimmer",
+          "en": "The toys are in the children's room."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🧸",
+      "imageable": true,
+      "tags": [
+        "home",
+        "rooms",
+        "family"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "zimmer"
+      ]
+    },
+    {
+      "id": "kueche",
+      "word": "die Küche",
+      "lemma": "Küche",
+      "translation": "kitchen",
+      "translations": [
+        "kitchen"
+      ],
+      "level": "A1",
+      "category": "Home & Furniture",
+      "partOfSpeech": "noun",
+      "frequency": 240,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Küchen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Küche ist neu und modern.",
+          "en": "The kitchen is new and modern."
+        },
+        {
+          "de": "Wir kochen zusammen in der Küche.",
+          "en": "We cook together in the kitchen."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Kühlschrank steht in der ___.",
+          "answer": "Küche",
+          "en": "The fridge is in the kitchen."
+        }
+      ],
+      "notes": "Küche = the room; kochen = to cook; der Koch = the cook.",
+      "mnemonic": "Küche ~ 'kitchen' — and it is 'die', like most -e nouns.",
+      "germany_context": "This is the classic shock for newcomers: most German flats are rented WITHOUT a kitchen. No cupboards, no sink unit, sometimes not even a cooker. Tenants either buy one or take over the old one from the previous tenant (Abstandszahlung).",
+      "emoji": "🍳",
+      "imageable": true,
+      "tags": [
+        "home",
+        "rooms",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "herd",
+        "kuehlschrank",
+        "spuelmaschine"
+      ]
+    },
+    {
+      "id": "badezimmer",
+      "word": "das Badezimmer",
+      "lemma": "Badezimmer",
+      "translation": "bathroom",
+      "translations": [
+        "bathroom"
+      ],
+      "level": "A1",
+      "category": "Home & Furniture",
+      "partOfSpeech": "noun",
+      "frequency": 700,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Badezimmer",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Das Badezimmer hat kein Fenster.",
+          "en": "The bathroom has no window."
+        },
+        {
+          "de": "Wo ist das Badezimmer, bitte?",
+          "en": "Where is the bathroom, please?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Die Handtücher liegen im ___.",
+          "answer": "Badezimmer",
+          "en": "The towels are in the bathroom."
+        }
+      ],
+      "notes": "Short form 'das Bad' is just as common in speech and in flat ads.",
+      "mnemonic": "baden (to bathe) + Zimmer = the bathing room.",
+      "germany_context": "In flat listings you will see 'Tageslichtbad' (bathroom with a window) — many older bathrooms have none, only an extractor fan.",
+      "emoji": "🛁",
+      "imageable": true,
+      "tags": [
+        "home",
+        "rooms",
+        "essential"
+      ],
+      "synonyms": [
+        "das Bad"
+      ],
+      "antonyms": [],
+      "related": [
+        "dusche",
+        "waschbecken",
+        "toilette"
+      ]
+    },
+    {
+      "id": "toilette",
+      "word": "die Toilette",
+      "lemma": "Toilette",
+      "translation": "toilet",
+      "translations": [
+        "toilet",
+        "restroom"
+      ],
+      "level": "A0",
+      "category": "Home & Furniture",
+      "partOfSpeech": "noun",
+      "frequency": 330,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Toiletten",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Entschuldigung, wo ist die Toilette?",
+          "en": "Excuse me, where is the toilet?"
+        },
+        {
+          "de": "Die Toilette ist leider kaputt.",
+          "en": "Unfortunately the toilet is broken."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich muss kurz auf die ___.",
+          "answer": "Toilette",
+          "en": "I need to pop to the toilet."
+        }
+      ],
+      "notes": "Everyday spoken alternative: 'das Klo'. On signs you will see 'WC' or 'Damen / Herren'.",
+      "mnemonic": null,
+      "germany_context": "Public toilets in stations and motorway stops usually cost 50 cents to 1 euro; Sanifair machines give you a voucher you can spend in the shop.",
+      "emoji": "🚻",
+      "imageable": true,
+      "tags": [
+        "home",
+        "rooms",
+        "survival"
+      ],
+      "synonyms": [
+        "das WC",
+        "das Klo"
+      ],
+      "antonyms": [],
+      "related": [
+        "badezimmer"
+      ]
+    },
+    {
+      "id": "flur",
+      "word": "der Flur",
+      "lemma": "Flur",
+      "translation": "hallway",
+      "translations": [
+        "hallway",
+        "corridor"
+      ],
+      "level": "A1",
+      "category": "Home & Furniture",
+      "partOfSpeech": "noun",
+      "frequency": 1050,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Flure",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Schuhe stehen im Flur.",
+          "en": "The shoes are in the hallway."
+        },
+        {
+          "de": "Der Flur ist lang und dunkel.",
+          "en": "The hallway is long and dark."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Häng deine Jacke bitte im ___ auf.",
+          "answer": "Flur",
+          "en": "Please hang your jacket up in the hallway."
+        }
+      ],
+      "notes": "'die Diele' means the same thing and appears in flat ads.",
+      "mnemonic": null,
+      "germany_context": "Fire regulations mean you may not store shoe racks, prams or bikes in the shared stairwell — only inside your own Flur.",
+      "emoji": "🚪",
+      "imageable": true,
+      "tags": [
+        "home",
+        "rooms"
+      ],
+      "synonyms": [
+        "die Diele"
+      ],
+      "antonyms": [],
+      "related": [
+        "treppenhaus",
+        "wohnung"
+      ]
+    },
+    {
+      "id": "balkon",
+      "word": "der Balkon",
+      "lemma": "Balkon",
+      "translation": "balcony",
+      "translations": [
+        "balcony"
+      ],
+      "level": "A1",
+      "category": "Home & Furniture",
+      "partOfSpeech": "noun",
+      "frequency": 830,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Balkone",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Wir frühstücken im Sommer auf dem Balkon.",
+          "en": "In summer we have breakfast on the balcony."
+        },
+        {
+          "de": "Die Wohnung hat einen kleinen Balkon.",
+          "en": "The flat has a small balcony."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Meine Pflanzen stehen auf dem ___.",
+          "answer": "Balkon",
+          "en": "My plants are on the balcony."
+        }
+      ],
+      "notes": "Plural is 'die Balkone'; 'die Balkons' is also heard.",
+      "mnemonic": null,
+      "germany_context": "A balcony noticeably raises the rent in German cities. Grilling with charcoal on it is often banned by the Hausordnung — electric grills are usually fine.",
+      "emoji": "🌇",
+      "imageable": true,
+      "tags": [
+        "home",
+        "rooms",
+        "outdoor"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "terrasse",
+        "wohnung"
+      ]
+    },
+    {
+      "id": "terrasse",
+      "word": "die Terrasse",
+      "lemma": "Terrasse",
+      "translation": "terrace",
+      "translations": [
+        "terrace",
+        "patio"
+      ],
+      "level": "A2",
+      "category": "Home & Furniture",
+      "partOfSpeech": "noun",
+      "frequency": 1350,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Terrassen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Terrasse liegt hinter dem Haus.",
+          "en": "The terrace is behind the house."
+        },
+        {
+          "de": "Wir haben eine Terrasse mit Blick auf den Garten.",
+          "en": "We have a terrace overlooking the garden."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Im Sommer essen wir oft auf der ___.",
+          "answer": "Terrasse",
+          "en": "In summer we often eat on the terrace."
+        }
+      ],
+      "notes": "A Terrasse is at ground level; a Balkon is upstairs.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🪴",
+      "imageable": true,
+      "tags": [
+        "home",
+        "outdoor"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "balkon",
+        "garten"
+      ]
+    },
+    {
+      "id": "garten",
+      "word": "der Garten",
+      "lemma": "Garten",
+      "translation": "garden",
+      "translations": [
+        "garden",
+        "yard"
+      ],
+      "level": "A1",
+      "category": "Home & Furniture",
+      "partOfSpeech": "noun",
+      "frequency": 560,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Gärten",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Hinter dem Haus ist ein großer Garten.",
+          "en": "There is a big garden behind the house."
+        },
+        {
+          "de": "Die Kinder spielen im Garten.",
+          "en": "The children are playing in the garden."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wir haben Tomaten im ___ gepflanzt.",
+          "answer": "Garten",
+          "en": "We planted tomatoes in the garden."
+        }
+      ],
+      "notes": "Umlaut in the plural: der Garten → die Gärten.",
+      "mnemonic": "GARTEN ~ 'garden'.",
+      "germany_context": "City dwellers without a garden often rent a 'Schrebergarten' (allotment) — there are long waiting lists and strict club rules.",
+      "emoji": "🌳",
+      "imageable": true,
+      "tags": [
+        "home",
+        "outdoor"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "haus",
+        "terrasse"
+      ]
+    },
+    {
+      "id": "keller",
+      "word": "der Keller",
+      "lemma": "Keller",
+      "translation": "cellar",
+      "translations": [
+        "cellar",
+        "basement"
+      ],
+      "level": "A1",
+      "category": "Home & Furniture",
+      "partOfSpeech": "noun",
+      "frequency": 900,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Keller",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Fahrräder stehen im Keller.",
+          "en": "The bikes are in the cellar."
+        },
+        {
+          "de": "Unser Keller ist leider sehr feucht.",
+          "en": "Unfortunately our cellar is very damp."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Kannst du die Getränke aus dem ___ holen?",
+          "answer": "Keller",
+          "en": "Can you get the drinks from the cellar?"
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Almost every German flat comes with a private 'Kellerabteil' — a lockable storage cage in the basement. The washing machines and the bike room are often down there too.",
+      "emoji": "🪜",
+      "imageable": true,
+      "tags": [
+        "home",
+        "building"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "der Dachboden"
+      ],
+      "related": [
+        "dachboden",
+        "waschmaschine"
+      ]
+    },
+    {
+      "id": "dachboden",
+      "word": "der Dachboden",
+      "lemma": "Dachboden",
+      "translation": "attic",
+      "translations": [
+        "attic",
+        "loft"
+      ],
+      "level": "A2",
+      "category": "Home & Furniture",
+      "partOfSpeech": "noun",
+      "frequency": 1900,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Dachböden",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die alten Koffer sind auf dem Dachboden.",
+          "en": "The old suitcases are in the attic."
+        },
+        {
+          "de": "Auf dem Dachboden ist es im Sommer sehr heiß.",
+          "en": "It gets very hot in the attic in summer."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wir räumen am Wochenende den ___ auf.",
+          "answer": "Dachboden",
+          "en": "We're tidying up the attic at the weekend."
+        }
+      ],
+      "notes": "Also called 'der Speicher' in southern Germany.",
+      "mnemonic": "Dach (roof) + Boden (floor) = the floor under the roof.",
+      "germany_context": null,
+      "emoji": "📦",
+      "imageable": true,
+      "tags": [
+        "home",
+        "building"
+      ],
+      "synonyms": [
+        "der Speicher"
+      ],
+      "antonyms": [
+        "der Keller"
+      ],
+      "related": [
+        "dach",
+        "keller"
+      ]
+    },
+    {
+      "id": "garage",
+      "word": "die Garage",
+      "lemma": "Garage",
+      "translation": "garage",
+      "translations": [
+        "garage"
+      ],
+      "level": "A2",
+      "category": "Home & Furniture",
+      "partOfSpeech": "noun",
+      "frequency": 1250,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Garagen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Das Auto steht in der Garage.",
+          "en": "The car is in the garage."
+        },
+        {
+          "de": "Wir mieten eine Garage für 60 Euro im Monat.",
+          "en": "We rent a garage for 60 euros a month."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Mach bitte das Tor von der ___ zu.",
+          "answer": "Garage",
+          "en": "Please close the garage door."
+        }
+      ],
+      "notes": "Pronounced with a soft French 'g': [gaˈraːʒə].",
+      "mnemonic": null,
+      "germany_context": "A Garage or 'Stellplatz' (parking space) is usually rented separately from the flat, with its own contract and its own rent.",
+      "emoji": "🚗",
+      "imageable": true,
+      "tags": [
+        "home",
+        "building"
+      ],
+      "synonyms": [
+        "der Stellplatz"
+      ],
+      "antonyms": [],
+      "related": [
+        "haus"
+      ]
+    },
+    {
+      "id": "treppenhaus",
+      "word": "das Treppenhaus",
+      "lemma": "Treppenhaus",
+      "translation": "stairwell",
+      "translations": [
+        "stairwell",
+        "communal staircase"
+      ],
+      "level": "A2",
+      "category": "Home & Furniture",
+      "partOfSpeech": "noun",
+      "frequency": 1700,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Treppenhäuser",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Im Treppenhaus riecht es nach Farbe.",
+          "en": "The stairwell smells of paint."
+        },
+        {
+          "de": "Das Licht im Treppenhaus geht automatisch aus.",
+          "en": "The light in the stairwell goes off automatically."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Bitte stell dein Fahrrad nicht ins ___.",
+          "answer": "Treppenhaus",
+          "en": "Please don't put your bike in the stairwell."
+        }
+      ],
+      "notes": null,
+      "mnemonic": "Treppe (stairs) + Haus = the house's staircase area.",
+      "germany_context": "Cleaning the stairwell is often the tenants' job on a weekly rota — in the south it is famously called the 'Kehrwoche' and neighbours will notice if you skip yours.",
+      "emoji": "🪜",
+      "imageable": true,
+      "tags": [
+        "home",
+        "building"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "treppe",
+        "flur"
+      ]
+    },
+    {
+      "id": "aufzug",
+      "word": "der Aufzug",
+      "lemma": "Aufzug",
+      "translation": "lift",
+      "translations": [
+        "lift",
+        "elevator"
+      ],
+      "level": "A2",
+      "category": "Home & Furniture",
+      "partOfSpeech": "noun",
+      "frequency": 1300,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Aufzüge",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Aufzug ist heute außer Betrieb.",
+          "en": "The lift is out of order today."
+        },
+        {
+          "de": "Wir nehmen den Aufzug in den fünften Stock.",
+          "en": "We take the lift to the fifth floor."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der ___ ist kaputt, wir müssen die Treppe nehmen.",
+          "answer": "Aufzug",
+          "en": "The lift is broken, we have to take the stairs."
+        }
+      ],
+      "notes": "'der Fahrstuhl' means exactly the same and is just as common.",
+      "mnemonic": "auf (up) + Zug (pull) — the thing that pulls you up.",
+      "germany_context": "Most Altbau buildings from before 1950 have no lift at all — check this before renting a flat on the 4th floor.",
+      "emoji": "🛗",
+      "imageable": true,
+      "tags": [
+        "home",
+        "building"
+      ],
+      "synonyms": [
+        "der Fahrstuhl"
+      ],
+      "antonyms": [],
+      "related": [
+        "treppe",
+        "etage"
+      ]
+    },
+    {
+      "id": "treppe",
+      "word": "die Treppe",
+      "lemma": "Treppe",
+      "translation": "stairs",
+      "translations": [
+        "stairs",
+        "staircase"
+      ],
+      "level": "A1",
+      "category": "Home & Furniture",
+      "partOfSpeech": "noun",
+      "frequency": 890,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Treppen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Treppe ist steil.",
+          "en": "The stairs are steep."
+        },
+        {
+          "de": "Ich nehme lieber die Treppe.",
+          "en": "I'd rather take the stairs."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Sie geht langsam die ___ hinauf.",
+          "answer": "Treppe",
+          "en": "She slowly walks up the stairs."
+        }
+      ],
+      "notes": "German uses the singular 'die Treppe' where English says the plural 'stairs'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🪜",
+      "imageable": true,
+      "tags": [
+        "home",
+        "building"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "aufzug",
+        "treppenhaus"
+      ]
+    },
+    {
+      "id": "etage",
+      "word": "die Etage",
+      "lemma": "Etage",
+      "translation": "floor",
+      "translations": [
+        "floor",
+        "storey"
+      ],
+      "level": "A2",
+      "category": "Home & Furniture",
+      "partOfSpeech": "noun",
+      "frequency": 1400,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Etagen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Wir wohnen in der zweiten Etage.",
+          "en": "We live on the second floor."
+        },
+        {
+          "de": "Das Haus hat vier Etagen.",
+          "en": "The building has four storeys."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "In welcher ___ wohnst du?",
+          "answer": "Etage",
+          "en": "Which floor do you live on?"
+        }
+      ],
+      "notes": "'der Stock' / '1. Stock' means the same thing and is used just as often.",
+      "mnemonic": null,
+      "germany_context": "Counting starts above ground level: the ground floor is the 'Erdgeschoss', so the '1. Stock' is one flight up — what British English calls the first floor and American English the second.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "home",
+        "building"
+      ],
+      "synonyms": [
+        "der Stock"
+      ],
+      "antonyms": [],
+      "related": [
+        "aufzug",
+        "treppe"
+      ]
+    },
+    {
+      "id": "miete",
+      "word": "die Miete",
+      "lemma": "Miete",
+      "translation": "rent",
+      "translations": [
+        "rent"
+      ],
+      "level": "A2",
+      "category": "Home & Furniture",
+      "partOfSpeech": "noun",
+      "frequency": 480,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Mieten",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Miete ist am dritten Werktag fällig.",
+          "en": "The rent is due on the third working day."
+        },
+        {
+          "de": "Die Mieten in München sind sehr hoch.",
+          "en": "Rents in Munich are very high."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich überweise die ___ immer am Monatsanfang.",
+          "answer": "Miete",
+          "en": "I always transfer the rent at the start of the month."
+        }
+      ],
+      "notes": "Note the pair: der Mieter (tenant), der Vermieter (landlord), mieten (to rent).",
+      "mnemonic": null,
+      "germany_context": "Ads quote two numbers: 'Kaltmiete' is the bare rent, 'Warmmiete' includes the Nebenkosten. Electricity and internet are almost never included in either.",
+      "emoji": "💶",
+      "imageable": false,
+      "tags": [
+        "home",
+        "housing",
+        "money"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "nebenkosten",
+        "kaution",
+        "mietvertrag"
+      ]
+    },
+    {
+      "id": "kaution",
+      "word": "die Kaution",
+      "lemma": "Kaution",
+      "translation": "deposit",
+      "translations": [
+        "deposit",
+        "security deposit"
+      ],
+      "level": "A2",
+      "category": "Home & Furniture",
+      "partOfSpeech": "noun",
+      "frequency": 1250,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Kautionen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Kaution beträgt zwei Monatsmieten.",
+          "en": "The deposit is two months' rent."
+        },
+        {
+          "de": "Wann bekomme ich meine Kaution zurück?",
+          "en": "When do I get my deposit back?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich habe die ___ gestern überwiesen.",
+          "answer": "Kaution",
+          "en": "I transferred the deposit yesterday."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "By law (§ 551 BGB) the deposit may not exceed three Kaltmieten, and you may pay it in three monthly instalments. The landlord must keep it in a separate account and usually returns it three to six months after you move out.",
+      "emoji": "💰",
+      "imageable": false,
+      "tags": [
+        "home",
+        "housing",
+        "money",
+        "bureaucracy"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "miete",
+        "mietvertrag"
+      ]
+    },
+    {
+      "id": "nebenkosten",
+      "word": "die Nebenkosten",
+      "lemma": "Nebenkosten",
+      "translation": "utility costs",
+      "translations": [
+        "utility costs",
+        "service charges"
+      ],
+      "level": "A2",
+      "category": "Home & Furniture",
+      "partOfSpeech": "noun",
+      "frequency": 1300,
+      "gender": null,
+      "article": "die",
+      "plural": "die Nebenkosten",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Nebenkosten sind in der Warmmiete enthalten.",
+          "en": "The service charges are included in the warm rent."
+        },
+        {
+          "de": "Wie hoch sind die Nebenkosten pro Monat?",
+          "en": "How high are the service charges per month?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Für Wasser und Müll zahle ich 180 Euro ___.",
+          "answer": "Nebenkosten",
+          "en": "I pay 180 euros in service charges for water and rubbish."
+        }
+      ],
+      "notes": "Plural only — there is no 'die Nebenkoste'.",
+      "mnemonic": "neben (beside) + Kosten (costs) = the costs beside the rent.",
+      "germany_context": "Once a year you get a 'Nebenkostenabrechnung'. It can mean a refund or a nasty Nachzahlung, so keep some money aside. You have 12 months to object in writing.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "home",
+        "housing",
+        "money",
+        "bureaucracy"
+      ],
+      "synonyms": [
+        "die Betriebskosten"
+      ],
+      "antonyms": [],
+      "related": [
+        "miete",
+        "heizung",
+        "strom"
+      ]
+    },
+    {
+      "id": "mietvertrag",
+      "word": "der Mietvertrag",
+      "lemma": "Mietvertrag",
+      "translation": "rental contract",
+      "translations": [
+        "rental contract",
+        "lease"
+      ],
+      "level": "A2",
+      "category": "Home & Furniture",
+      "partOfSpeech": "noun",
+      "frequency": 1450,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Mietverträge",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Wir unterschreiben den Mietvertrag am Freitag.",
+          "en": "We're signing the rental contract on Friday."
+        },
+        {
+          "de": "Im Mietvertrag steht, dass Haustiere erlaubt sind.",
+          "en": "The contract says that pets are allowed."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Lies den ___ bitte genau durch.",
+          "answer": "Mietvertrag",
+          "en": "Please read the rental contract carefully."
+        }
+      ],
+      "notes": null,
+      "mnemonic": "Miete (rent) + Vertrag (contract).",
+      "germany_context": "The standard notice period for tenants is three months, in writing, arriving by the third working day of the month. Landlords need a legal reason to terminate — tenants in Germany are strongly protected.",
+      "emoji": "📄",
+      "imageable": false,
+      "tags": [
+        "home",
+        "housing",
+        "bureaucracy"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "miete",
+        "kaution"
+      ]
+    },
+    {
+      "id": "moebel",
+      "word": "die Möbel",
+      "lemma": "Möbel",
+      "translation": "furniture",
+      "translations": [
+        "furniture"
+      ],
+      "level": "A2",
+      "category": "Home & Furniture",
+      "partOfSpeech": "noun",
+      "frequency": 780,
+      "gender": null,
+      "article": "die",
+      "plural": "die Möbel",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Unsere Möbel sind alle gebraucht.",
+          "en": "All our furniture is second-hand."
+        },
+        {
+          "de": "Wir kaufen neue Möbel für das Wohnzimmer.",
+          "en": "We're buying new furniture for the living room."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Die neuen ___ kommen am Samstag.",
+          "answer": "Möbel",
+          "en": "The new furniture is arriving on Saturday."
+        }
+      ],
+      "notes": "Used as a plural: 'die Möbel sind…'. English 'furniture' is uncountable, German is not.",
+      "mnemonic": null,
+      "germany_context": "Old furniture goes out as 'Sperrmüll' — you book a free collection date with the city, you don't just leave it on the pavement. Cheap second-hand furniture is easiest to find on Kleinanzeigen.",
+      "emoji": "🪑",
+      "imageable": true,
+      "tags": [
+        "home",
+        "furniture"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "schrank",
+        "sofa",
+        "einrichten"
+      ]
+    },
+    {
+      "id": "esstisch",
+      "word": "der Esstisch",
+      "lemma": "Esstisch",
+      "translation": "dining table",
+      "translations": [
+        "dining table"
+      ],
+      "level": "A2",
+      "category": "Home & Furniture",
+      "partOfSpeech": "noun",
+      "frequency": 1200,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Esstische",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Das Essen steht schon auf dem Esstisch.",
+          "en": "The food is already on the dining table."
+        },
+        {
+          "de": "An unserem Esstisch haben acht Leute Platz.",
+          "en": "There's room for eight people at our dining table."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wir haben einen neuen ___ gekauft.",
+          "answer": "Esstisch",
+          "en": "We bought a new dining table."
+        }
+      ],
+      "notes": "Movement onto it takes the accusative ('auf den Esstisch'), position takes the dative ('auf dem Esstisch').",
+      "mnemonic": "essen (to eat) + Tisch (table); all -tisch compounds are masculine.",
+      "germany_context": null,
+      "emoji": "🍽️",
+      "imageable": true,
+      "tags": [
+        "home",
+        "furniture",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "stuhl",
+        "schreibtisch"
+      ]
+    },
+    {
+      "id": "stuhl",
+      "word": "der Stuhl",
+      "lemma": "Stuhl",
+      "translation": "chair",
+      "translations": [
+        "chair"
+      ],
+      "level": "A1",
+      "category": "Home & Furniture",
+      "partOfSpeech": "noun",
+      "frequency": 320,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Stühle",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Stuhl ist unbequem.",
+          "en": "The chair is uncomfortable."
+        },
+        {
+          "de": "Wir haben sechs Stühle für den Esstisch.",
+          "en": "We have six chairs for the dining table."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Setz dich bitte auf den ___.",
+          "answer": "Stuhl",
+          "en": "Please sit down on the chair."
+        }
+      ],
+      "notes": "Stuhl = an upright chair; Sessel = an armchair.",
+      "mnemonic": "STUHL ~ 'stool' — but a Stuhl has a back.",
+      "germany_context": null,
+      "emoji": "🪑",
+      "imageable": true,
+      "tags": [
+        "home",
+        "furniture",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "tisch",
+        "sessel"
+      ]
+    },
+    {
+      "id": "sessel",
+      "word": "der Sessel",
+      "lemma": "Sessel",
+      "translation": "armchair",
+      "translations": [
+        "armchair"
+      ],
+      "level": "A2",
+      "category": "Home & Furniture",
+      "partOfSpeech": "noun",
+      "frequency": 1500,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Sessel",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Opa sitzt in seinem alten Sessel.",
+          "en": "Grandpa is sitting in his old armchair."
+        },
+        {
+          "de": "Der Sessel passt gut zum Sofa.",
+          "en": "The armchair goes well with the sofa."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich lese abends gern im ___.",
+          "answer": "Sessel",
+          "en": "In the evening I like reading in the armchair."
+        }
+      ],
+      "notes": "False friend for English speakers: a Sessel is an armchair, not a 'settee'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "💺",
+      "imageable": true,
+      "tags": [
+        "home",
+        "furniture"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "sofa",
+        "stuhl"
+      ]
+    },
+    {
+      "id": "sofa",
+      "word": "das Sofa",
+      "lemma": "Sofa",
+      "translation": "sofa",
+      "translations": [
+        "sofa",
+        "couch"
+      ],
+      "level": "A1",
+      "category": "Home & Furniture",
+      "partOfSpeech": "noun",
+      "frequency": 700,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Sofas",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Das Sofa ist sehr bequem.",
+          "en": "The sofa is very comfortable."
+        },
+        {
+          "de": "Wir haben das Sofa gebraucht gekauft.",
+          "en": "We bought the sofa second-hand."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Die Katze schläft auf dem ___.",
+          "answer": "Sofa",
+          "en": "The cat is sleeping on the sofa."
+        }
+      ],
+      "notes": "'die Couch' is equally common in everyday speech.",
+      "mnemonic": "Foreign words ending in -a are usually neuter: das Sofa, das Cafe.",
+      "germany_context": null,
+      "emoji": "🛋️",
+      "imageable": true,
+      "tags": [
+        "home",
+        "furniture"
+      ],
+      "synonyms": [
+        "die Couch"
+      ],
+      "antonyms": [],
+      "related": [
+        "wohnzimmer",
+        "sessel"
+      ]
+    },
+    {
+      "id": "bett",
+      "word": "das Bett",
+      "lemma": "Bett",
+      "translation": "bed",
+      "translations": [
+        "bed"
+      ],
+      "level": "A1",
+      "category": "Home & Furniture",
+      "partOfSpeech": "noun",
+      "frequency": 280,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Betten",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Das Bett ist zu weich für mich.",
+          "en": "The bed is too soft for me."
+        },
+        {
+          "de": "Die Kinder liegen schon im Bett.",
+          "en": "The children are already in bed."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich gehe heute früh ins ___.",
+          "answer": "Bett",
+          "en": "I'm going to bed early today."
+        }
+      ],
+      "notes": "'ins Bett gehen' (going to bed) vs. 'im Bett liegen' (lying in bed).",
+      "mnemonic": "BETT ~ 'bed' — one letter longer, same meaning.",
+      "germany_context": null,
+      "emoji": "🛏️",
+      "imageable": true,
+      "tags": [
+        "home",
+        "furniture",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "matratze",
+        "bettdecke",
+        "schlafzimmer"
+      ]
+    },
+    {
+      "id": "matratze",
+      "word": "die Matratze",
+      "lemma": "Matratze",
+      "translation": "mattress",
+      "translations": [
+        "mattress"
+      ],
+      "level": "A2",
+      "category": "Home & Furniture",
+      "partOfSpeech": "noun",
+      "frequency": 1600,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Matratzen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Matratze ist zu hart.",
+          "en": "The mattress is too hard."
+        },
+        {
+          "de": "Wir brauchen eine neue Matratze für das Gästebett.",
+          "en": "We need a new mattress for the guest bed."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich habe die ___ online bestellt.",
+          "answer": "Matratze",
+          "en": "I ordered the mattress online."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "German bed sizes differ from Turkish ones: a double bed is usually 180x200 cm, often made of two 90x200 mattresses with two separate duvets.",
+      "emoji": "🛏️",
+      "imageable": true,
+      "tags": [
+        "home",
+        "furniture"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "bett",
+        "bettwaesche"
+      ]
+    },
+    {
+      "id": "schrank",
+      "word": "der Schrank",
+      "lemma": "Schrank",
+      "translation": "cupboard",
+      "translations": [
+        "cupboard",
+        "cabinet",
+        "wardrobe"
+      ],
+      "level": "A1",
+      "category": "Home & Furniture",
+      "partOfSpeech": "noun",
+      "frequency": 520,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Schränke",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Teller sind im Schrank.",
+          "en": "The plates are in the cupboard."
+        },
+        {
+          "de": "Der Schrank ist zu groß für dieses Zimmer.",
+          "en": "The cupboard is too big for this room."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Stell die Gläser bitte in den ___.",
+          "answer": "Schrank",
+          "en": "Please put the glasses in the cupboard."
+        }
+      ],
+      "notes": "Generic word for any closed storage unit: Küchenschrank, Kleiderschrank, Kühlschrank.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🚪",
+      "imageable": true,
+      "tags": [
+        "home",
+        "furniture",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "kleiderschrank",
+        "regal",
+        "kommode"
+      ]
+    },
+    {
+      "id": "kleiderschrank",
+      "word": "der Kleiderschrank",
+      "lemma": "Kleiderschrank",
+      "translation": "wardrobe",
+      "translations": [
+        "wardrobe",
+        "closet"
+      ],
+      "level": "A2",
+      "category": "Home & Furniture",
+      "partOfSpeech": "noun",
+      "frequency": 1350,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Kleiderschränke",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Meine Jacken hängen im Kleiderschrank.",
+          "en": "My jackets are hanging in the wardrobe."
+        },
+        {
+          "de": "Der Kleiderschrank hat drei Türen.",
+          "en": "The wardrobe has three doors."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich räume gerade den ___ auf.",
+          "answer": "Kleiderschrank",
+          "en": "I'm tidying up the wardrobe right now."
+        }
+      ],
+      "notes": null,
+      "mnemonic": "Kleider (clothes) + Schrank (cupboard).",
+      "germany_context": "German flats have no built-in closets — the wardrobe is a piece of furniture you buy and take with you when you move.",
+      "emoji": "👕",
+      "imageable": true,
+      "tags": [
+        "home",
+        "furniture",
+        "clothes"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "schrank",
+        "kommode"
+      ]
+    },
+    {
+      "id": "regal",
+      "word": "das Regal",
+      "lemma": "Regal",
+      "translation": "shelf",
+      "translations": [
+        "shelf",
+        "shelving unit"
+      ],
+      "level": "A1",
+      "category": "Home & Furniture",
+      "partOfSpeech": "noun",
+      "frequency": 1200,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Regale",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Bücher stehen im Regal.",
+          "en": "The books are on the shelf."
+        },
+        {
+          "de": "Wir bauen das Regal heute Abend zusammen.",
+          "en": "We're assembling the shelf this evening."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Stell die Schuhe unter das ___.",
+          "answer": "Regal",
+          "en": "Put the shoes under the shelf."
+        }
+      ],
+      "notes": "Books 'stehen' (stand) in a Regal, they don't 'liegen'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "📚",
+      "imageable": true,
+      "tags": [
+        "home",
+        "furniture"
+      ],
+      "synonyms": [
+        "das Bücherregal"
+      ],
+      "antonyms": [],
+      "related": [
+        "schrank"
+      ]
+    },
+    {
+      "id": "kommode",
+      "word": "die Kommode",
+      "lemma": "Kommode",
+      "translation": "chest of drawers",
+      "translations": [
+        "chest of drawers",
+        "dresser"
+      ],
+      "level": "A2",
+      "category": "Home & Furniture",
+      "partOfSpeech": "noun",
+      "frequency": 1900,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Kommoden",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Socken sind in der Kommode.",
+          "en": "The socks are in the chest of drawers."
+        },
+        {
+          "de": "Auf der Kommode steht eine Lampe.",
+          "en": "There is a lamp on the chest of drawers."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich habe die ___ bei Kleinanzeigen gefunden.",
+          "answer": "Kommode",
+          "en": "I found the chest of drawers on Kleinanzeigen."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🗄️",
+      "imageable": true,
+      "tags": [
+        "home",
+        "furniture"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "schrank",
+        "kleiderschrank"
+      ]
+    },
+    {
+      "id": "nachttisch",
+      "word": "der Nachttisch",
+      "lemma": "Nachttisch",
+      "translation": "bedside table",
+      "translations": [
+        "bedside table",
+        "nightstand"
+      ],
+      "level": "A2",
+      "category": "Home & Furniture",
+      "partOfSpeech": "noun",
+      "frequency": 1950,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Nachttische",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Mein Handy liegt auf dem Nachttisch.",
+          "en": "My phone is on the bedside table."
+        },
+        {
+          "de": "Der Nachttisch hat eine kleine Schublade.",
+          "en": "The bedside table has a small drawer."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Stell das Wasserglas auf den ___.",
+          "answer": "Nachttisch",
+          "en": "Put the glass of water on the bedside table."
+        }
+      ],
+      "notes": null,
+      "mnemonic": "Nacht (night) + Tisch (table).",
+      "germany_context": null,
+      "emoji": "🛏️",
+      "imageable": true,
+      "tags": [
+        "home",
+        "furniture"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "bett",
+        "lampe"
+      ]
+    },
+    {
+      "id": "spiegel",
+      "word": "der Spiegel",
+      "lemma": "Spiegel",
+      "translation": "mirror",
+      "translations": [
+        "mirror"
+      ],
+      "level": "A1",
+      "category": "Home & Furniture",
+      "partOfSpeech": "noun",
+      "frequency": 1100,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Spiegel",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Im Bad hängt ein großer Spiegel.",
+          "en": "There is a big mirror in the bathroom."
+        },
+        {
+          "de": "Der Spiegel ist schmutzig.",
+          "en": "The mirror is dirty."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Sie schaut in den ___.",
+          "answer": "Spiegel",
+          "en": "She looks in the mirror."
+        }
+      ],
+      "notes": null,
+      "mnemonic": "'Der Spiegel' is also Germany's best-known news magazine.",
+      "germany_context": null,
+      "emoji": "🪞",
+      "imageable": true,
+      "tags": [
+        "home",
+        "furniture"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "badezimmer",
+        "wand"
+      ]
+    },
+    {
+      "id": "lampe",
+      "word": "die Lampe",
+      "lemma": "Lampe",
+      "translation": "lamp",
+      "translations": [
+        "lamp",
+        "light"
+      ],
+      "level": "A1",
+      "category": "Home & Furniture",
+      "partOfSpeech": "noun",
+      "frequency": 750,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Lampen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Lampe im Flur ist kaputt.",
+          "en": "The lamp in the hallway is broken."
+        },
+        {
+          "de": "Mach bitte die Lampe an.",
+          "en": "Please turn on the lamp."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Über dem Tisch hängt eine neue ___.",
+          "answer": "Lampe",
+          "en": "There's a new lamp hanging above the table."
+        }
+      ],
+      "notes": "Lampe = the fixture; Licht = the light itself.",
+      "mnemonic": "LAMPE ~ 'lamp', feminine like most -e nouns.",
+      "germany_context": "New flats are usually handed over with bare wires in the ceiling — the previous tenant takes the light fittings with them, so buy lamps on day one.",
+      "emoji": "💡",
+      "imageable": true,
+      "tags": [
+        "home",
+        "furniture",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "licht",
+        "lichtschalter"
+      ]
+    },
+    {
+      "id": "teppich",
+      "word": "der Teppich",
+      "lemma": "Teppich",
+      "translation": "carpet",
+      "translations": [
+        "carpet",
+        "rug"
+      ],
+      "level": "A2",
+      "category": "Home & Furniture",
+      "partOfSpeech": "noun",
+      "frequency": 1400,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Teppiche",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Teppich im Wohnzimmer ist neu.",
+          "en": "The carpet in the living room is new."
+        },
+        {
+          "de": "Wir haben einen Teppich aus der Türkei.",
+          "en": "We have a carpet from Turkey."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Bitte saug den ___ noch schnell.",
+          "answer": "Teppich",
+          "en": "Please quickly vacuum the carpet."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🧶",
+      "imageable": true,
+      "tags": [
+        "home",
+        "furniture"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "boden",
+        "staubsauger"
+      ]
+    },
+    {
+      "id": "vorhang",
+      "word": "der Vorhang",
+      "lemma": "Vorhang",
+      "translation": "curtain",
+      "translations": [
+        "curtain"
+      ],
+      "level": "A2",
+      "category": "Home & Furniture",
+      "partOfSpeech": "noun",
+      "frequency": 1650,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Vorhänge",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Mach bitte die Vorhänge zu.",
+          "en": "Please close the curtains."
+        },
+        {
+          "de": "Der Vorhang ist zu kurz für das Fenster.",
+          "en": "The curtain is too short for the window."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Morgens öffne ich zuerst den ___.",
+          "answer": "Vorhang",
+          "en": "In the morning I open the curtain first."
+        }
+      ],
+      "notes": "'die Gardine' is the lighter, see-through kind.",
+      "mnemonic": "vor (in front of) + hängen (to hang) = it hangs in front.",
+      "germany_context": null,
+      "emoji": "🪟",
+      "imageable": true,
+      "tags": [
+        "home",
+        "furniture"
+      ],
+      "synonyms": [
+        "die Gardine"
+      ],
+      "antonyms": [],
+      "related": [
+        "fenster"
+      ]
+    },
+    {
+      "id": "kissen",
+      "word": "das Kissen",
+      "lemma": "Kissen",
+      "translation": "pillow",
+      "translations": [
+        "pillow",
+        "cushion"
+      ],
+      "level": "A1",
+      "category": "Home & Furniture",
+      "partOfSpeech": "noun",
+      "frequency": 1250,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Kissen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Das Kissen ist zu flach.",
+          "en": "The pillow is too flat."
+        },
+        {
+          "de": "Auf dem Sofa liegen bunte Kissen.",
+          "en": "There are colourful cushions on the sofa."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich brauche noch ein zweites ___.",
+          "answer": "Kissen",
+          "en": "I need a second pillow."
+        }
+      ],
+      "notes": "Same word for a bed pillow and a sofa cushion.",
+      "mnemonic": null,
+      "germany_context": "German bed pillows are typically a big square 80x80 cm, not the long rectangle used in many other countries.",
+      "emoji": "🛏️",
+      "imageable": true,
+      "tags": [
+        "home",
+        "furniture",
+        "bedroom"
+      ],
+      "synonyms": [
+        "das Kopfkissen"
+      ],
+      "antonyms": [],
+      "related": [
+        "bett",
+        "bettwaesche"
+      ]
+    },
+    {
+      "id": "bettdecke",
+      "word": "die Bettdecke",
+      "lemma": "Bettdecke",
+      "translation": "duvet",
+      "translations": [
+        "duvet",
+        "blanket"
+      ],
+      "level": "A2",
+      "category": "Home & Furniture",
+      "partOfSpeech": "noun",
+      "frequency": 1750,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Bettdecken",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Im Winter brauche ich eine dicke Bettdecke.",
+          "en": "In winter I need a thick duvet."
+        },
+        {
+          "de": "Die Bettdecke ist zu warm für den Sommer.",
+          "en": "The duvet is too warm for summer."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Zieh dir bitte die ___ hoch, es ist kalt.",
+          "answer": "Bettdecke",
+          "en": "Pull the duvet up, it's cold."
+        }
+      ],
+      "notes": "Careful: 'die Decke' alone can mean ceiling. 'die Bettdecke' is unambiguous.",
+      "mnemonic": null,
+      "germany_context": "Couples in Germany normally sleep under two separate single duvets rather than one shared one — hotels do it that way too.",
+      "emoji": "🛏️",
+      "imageable": true,
+      "tags": [
+        "home",
+        "bedroom"
+      ],
+      "synonyms": [
+        "das Federbett"
+      ],
+      "antonyms": [],
+      "related": [
+        "bett",
+        "bettwaesche",
+        "decke"
+      ]
+    },
+    {
+      "id": "bettwaesche",
+      "word": "die Bettwäsche",
+      "lemma": "Bettwäsche",
+      "translation": "bed linen",
+      "translations": [
+        "bed linen",
+        "bedding"
+      ],
+      "level": "A2",
+      "category": "Home & Furniture",
+      "partOfSpeech": "noun",
+      "frequency": 1800,
+      "gender": "f",
+      "article": "die",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich wechsle jeden Sonntag die Bettwäsche.",
+          "en": "I change the bed linen every Sunday."
+        },
+        {
+          "de": "Die Bettwäsche muss noch gewaschen werden.",
+          "en": "The bed linen still needs washing."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Im Schrank liegt saubere ___.",
+          "answer": "Bettwäsche",
+          "en": "There is clean bed linen in the cupboard."
+        }
+      ],
+      "notes": "Uncountable, like the English word: no plural.",
+      "mnemonic": "Bett + Wäsche (laundry).",
+      "germany_context": null,
+      "emoji": "🧺",
+      "imageable": true,
+      "tags": [
+        "home",
+        "bedroom",
+        "housework"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "waesche",
+        "bettdecke"
+      ]
+    },
+    {
+      "id": "handtuch",
+      "word": "das Handtuch",
+      "lemma": "Handtuch",
+      "translation": "towel",
+      "translations": [
+        "towel"
+      ],
+      "level": "A1",
+      "category": "Home & Furniture",
+      "partOfSpeech": "noun",
+      "frequency": 900,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Handtücher",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Das Handtuch hängt im Bad.",
+          "en": "The towel is hanging in the bathroom."
+        },
+        {
+          "de": "Kann ich bitte ein sauberes Handtuch haben?",
+          "en": "Can I have a clean towel, please?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Nimm dir ein frisches ___ aus dem Schrank.",
+          "answer": "Handtuch",
+          "en": "Take a fresh towel from the cupboard."
+        }
+      ],
+      "notes": "'das Tuch' takes an umlaut in the plural: Tücher.",
+      "mnemonic": "Hand + Tuch (cloth) = a cloth for your hands.",
+      "germany_context": null,
+      "emoji": "🧻",
+      "imageable": true,
+      "tags": [
+        "home",
+        "bathroom"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "badezimmer",
+        "dusche"
+      ]
+    },
+    {
+      "id": "schreibtisch",
+      "word": "der Schreibtisch",
+      "lemma": "Schreibtisch",
+      "translation": "desk",
+      "translations": [
+        "desk"
+      ],
+      "level": "A2",
+      "category": "Home & Furniture",
+      "partOfSpeech": "noun",
+      "frequency": 1150,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Schreibtische",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Mein Laptop steht auf dem Schreibtisch.",
+          "en": "My laptop is on the desk."
+        },
+        {
+          "de": "Ich brauche einen größeren Schreibtisch fürs Homeoffice.",
+          "en": "I need a bigger desk for my home office."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der ___ passt genau ans Fenster.",
+          "answer": "Schreibtisch",
+          "en": "The desk fits exactly by the window."
+        }
+      ],
+      "notes": null,
+      "mnemonic": "schreiben (to write) + Tisch (table).",
+      "germany_context": "If you work from home, desk and chair can often be claimed against tax in your Steuererklärung — keep the receipts.",
+      "emoji": "💻",
+      "imageable": true,
+      "tags": [
+        "home",
+        "furniture",
+        "work"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "tisch",
+        "stuhl"
+      ]
+    },
+    {
+      "id": "tuer",
+      "word": "die Tür",
+      "lemma": "Tür",
+      "translation": "door",
+      "translations": [
+        "door"
+      ],
+      "level": "A1",
+      "category": "Home & Furniture",
+      "partOfSpeech": "noun",
+      "frequency": 210,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Türen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Mach bitte die Tür zu.",
+          "en": "Please close the door."
+        },
+        {
+          "de": "Die Tür ist offen.",
+          "en": "The door is open."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Jemand klopft an die ___.",
+          "answer": "Tür",
+          "en": "Someone is knocking on the door."
+        }
+      ],
+      "notes": "Spelled 'Tür' (also written Thür only in very old texts).",
+      "mnemonic": "'Tür' hides in 'door' — d/t and r are the same sounds.",
+      "germany_context": "Most German front doors have a Schnappschloss: they lock behind you automatically. Locking yourself out means calling a Schlüsseldienst, which can easily cost 100–200 euros.",
+      "emoji": "🚪",
+      "imageable": true,
+      "tags": [
+        "home",
+        "fixtures",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "schluessel",
+        "schloss",
+        "klingel"
+      ]
+    },
+    {
+      "id": "fenster",
+      "word": "das Fenster",
+      "lemma": "Fenster",
+      "translation": "window",
+      "translations": [
+        "window"
+      ],
+      "level": "A1",
+      "category": "Home & Furniture",
+      "partOfSpeech": "noun",
+      "frequency": 250,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Fenster",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Das Fenster ist offen.",
+          "en": "The window is open."
+        },
+        {
+          "de": "Bitte mach das Fenster zu, mir ist kalt.",
+          "en": "Please close the window, I'm cold."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Aus dem ___ sieht man den Park.",
+          "answer": "Fenster",
+          "en": "You can see the park from the window."
+        }
+      ],
+      "notes": "Plural is identical to the singular: das Fenster → die Fenster.",
+      "mnemonic": "Fenster ~ Latin 'fenestra' (like 'defenestration').",
+      "germany_context": "German windows tilt as well as open: turn the handle up to 'kippen' (tilt) or sideways to open fully. Airing properly means opening fully for a few minutes, not leaving it tilted all day.",
+      "emoji": "🪟",
+      "imageable": true,
+      "tags": [
+        "home",
+        "fixtures",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "lueften",
+        "vorhang"
+      ]
+    },
+    {
+      "id": "wand",
+      "word": "die Wand",
+      "lemma": "Wand",
+      "translation": "wall",
+      "translations": [
+        "wall"
+      ],
+      "level": "A1",
+      "category": "Home & Furniture",
+      "partOfSpeech": "noun",
+      "frequency": 640,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Wände",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "An der Wand hängt ein Bild.",
+          "en": "There's a picture hanging on the wall."
+        },
+        {
+          "de": "Die Wände sind sehr dünn.",
+          "en": "The walls are very thin."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wir streichen die ___ weiß.",
+          "answer": "Wand",
+          "en": "We're painting the wall white."
+        }
+      ],
+      "notes": "Wand = an inside wall of a room; Mauer = a thick outside wall (die Berliner Mauer).",
+      "mnemonic": null,
+      "germany_context": "Many contracts require you to hand the flat back 'besenrein' with neutral white walls, so think twice before painting a room dark.",
+      "emoji": "🧱",
+      "imageable": true,
+      "tags": [
+        "home",
+        "fixtures"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "boden",
+        "decke"
+      ]
+    },
+    {
+      "id": "boden",
+      "word": "der Boden",
+      "lemma": "Boden",
+      "translation": "floor",
+      "translations": [
+        "floor",
+        "ground"
+      ],
+      "level": "A1",
+      "category": "Home & Furniture",
+      "partOfSpeech": "noun",
+      "frequency": 700,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Böden",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Boden ist noch nass.",
+          "en": "The floor is still wet."
+        },
+        {
+          "de": "Das Kind sitzt auf dem Boden.",
+          "en": "The child is sitting on the floor."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich wische einmal pro Woche den ___.",
+          "answer": "Boden",
+          "en": "I mop the floor once a week."
+        }
+      ],
+      "notes": "Boden = the surface you walk on; Etage/Stock = the storey of a building.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🟫",
+      "imageable": true,
+      "tags": [
+        "home",
+        "fixtures"
+      ],
+      "synonyms": [
+        "der Fußboden"
+      ],
+      "antonyms": [
+        "die Decke"
+      ],
+      "related": [
+        "decke",
+        "teppich"
+      ]
+    },
+    {
+      "id": "decke",
+      "word": "die Decke",
+      "lemma": "Decke",
+      "translation": "ceiling",
+      "translations": [
+        "ceiling",
+        "blanket"
+      ],
+      "level": "A2",
+      "category": "Home & Furniture",
+      "partOfSpeech": "noun",
+      "frequency": 1050,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Decken",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Decke in der Altbauwohnung ist sehr hoch.",
+          "en": "The ceiling in the old flat is very high."
+        },
+        {
+          "de": "An der Decke hängt eine Lampe.",
+          "en": "A lamp hangs from the ceiling."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "An der ___ ist ein dunkler Fleck.",
+          "answer": "Decke",
+          "en": "There's a dark spot on the ceiling."
+        }
+      ],
+      "notes": "Two meanings: ceiling and blanket. Context decides; for a bed use 'Bettdecke'.",
+      "mnemonic": "The ceiling 'covers' the room — decken means to cover.",
+      "germany_context": "Altbau flats often have 3-metre ceilings, which look great but are expensive to heat.",
+      "emoji": null,
+      "imageable": true,
+      "tags": [
+        "home",
+        "fixtures"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "der Boden"
+      ],
+      "related": [
+        "boden",
+        "bettdecke"
+      ]
+    },
+    {
+      "id": "dach",
+      "word": "das Dach",
+      "lemma": "Dach",
+      "translation": "roof",
+      "translations": [
+        "roof"
+      ],
+      "level": "A2",
+      "category": "Home & Furniture",
+      "partOfSpeech": "noun",
+      "frequency": 1150,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Dächer",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Das Dach ist undicht.",
+          "en": "The roof is leaking."
+        },
+        {
+          "de": "Auf dem Dach sind Solarzellen.",
+          "en": "There are solar panels on the roof."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Vermieter lässt das ___ reparieren.",
+          "answer": "Dach",
+          "en": "The landlord is having the roof repaired."
+        }
+      ],
+      "notes": null,
+      "mnemonic": "Dach ~ 'thatch' — both come from the same old root.",
+      "germany_context": null,
+      "emoji": "🏠",
+      "imageable": true,
+      "tags": [
+        "home",
+        "building"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "dachboden",
+        "haus"
+      ]
+    },
+    {
+      "id": "heizung",
+      "word": "die Heizung",
+      "lemma": "Heizung",
+      "translation": "heating",
+      "translations": [
+        "heating",
+        "radiator"
+      ],
+      "level": "A1",
+      "category": "Home & Furniture",
+      "partOfSpeech": "noun",
+      "frequency": 800,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Heizungen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Heizung funktioniert nicht.",
+          "en": "The heating isn't working."
+        },
+        {
+          "de": "Dreh bitte die Heizung etwas runter.",
+          "en": "Please turn the heating down a bit."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Im Winter läuft die ___ den ganzen Tag.",
+          "answer": "Heizung",
+          "en": "In winter the heating runs all day."
+        }
+      ],
+      "notes": "Same word for the system and the radiator on the wall.",
+      "mnemonic": "heizen + -ung → die Heizung; all -ung nouns are feminine.",
+      "germany_context": "Radiator valves go from 1 to 5, where 3 is roughly 20 °C. You pay for heating through the Nebenkosten and settle up once a year, so turning it down really does save you money.",
+      "emoji": "🔥",
+      "imageable": true,
+      "tags": [
+        "home",
+        "fixtures",
+        "winter"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "heizen",
+        "nebenkosten"
+      ]
+    },
+    {
+      "id": "steckdose",
+      "word": "die Steckdose",
+      "lemma": "Steckdose",
+      "translation": "socket",
+      "translations": [
+        "socket",
+        "power outlet"
+      ],
+      "level": "A2",
+      "category": "Home & Furniture",
+      "partOfSpeech": "noun",
+      "frequency": 1500,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Steckdosen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Im Bad gibt es nur eine Steckdose.",
+          "en": "There's only one socket in the bathroom."
+        },
+        {
+          "de": "Die Steckdose neben dem Bett funktioniert nicht.",
+          "en": "The socket next to the bed doesn't work."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Steck das Kabel bitte in die ___.",
+          "answer": "Steckdose",
+          "en": "Please put the cable in the socket."
+        }
+      ],
+      "notes": "The plug itself is 'der Stecker'.",
+      "mnemonic": "stecken (to stick in) + Dose (tin/box) = the box you stick the plug into.",
+      "germany_context": "Germany uses type F 'Schuko' sockets at 230 V. Turkish plugs fit, UK and US ones need an adapter.",
+      "emoji": "🔌",
+      "imageable": true,
+      "tags": [
+        "home",
+        "fixtures",
+        "electricity"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "strom",
+        "lichtschalter"
+      ]
+    },
+    {
+      "id": "lichtschalter",
+      "word": "der Lichtschalter",
+      "lemma": "Lichtschalter",
+      "translation": "light switch",
+      "translations": [
+        "light switch"
+      ],
+      "level": "A2",
+      "category": "Home & Furniture",
+      "partOfSpeech": "noun",
+      "frequency": 1850,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Lichtschalter",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Lichtschalter ist links neben der Tür.",
+          "en": "The light switch is on the left next to the door."
+        },
+        {
+          "de": "Ich finde den Lichtschalter nicht.",
+          "en": "I can't find the light switch."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Drück bitte auf den ___.",
+          "answer": "Lichtschalter",
+          "en": "Please press the light switch."
+        }
+      ],
+      "notes": "Short form 'der Schalter' is common, but 'Schalter' alone can also mean a counter at a bank or station.",
+      "mnemonic": "Licht (light) + Schalter (switch).",
+      "germany_context": null,
+      "emoji": "💡",
+      "imageable": true,
+      "tags": [
+        "home",
+        "fixtures",
+        "electricity"
+      ],
+      "synonyms": [
+        "der Schalter"
+      ],
+      "antonyms": [],
+      "related": [
+        "licht",
+        "lampe"
+      ]
+    },
+    {
+      "id": "schluessel",
+      "word": "der Schlüssel",
+      "lemma": "Schlüssel",
+      "translation": "key",
+      "translations": [
+        "key"
+      ],
+      "level": "A1",
+      "category": "Home & Furniture",
+      "partOfSpeech": "noun",
+      "frequency": 380,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Schlüssel",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich habe meinen Schlüssel vergessen.",
+          "en": "I've forgotten my key."
+        },
+        {
+          "de": "Der Schlüssel passt nicht.",
+          "en": "The key doesn't fit."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Hast du den ___ für die Haustür?",
+          "answer": "Schlüssel",
+          "en": "Do you have the key for the front door?"
+        }
+      ],
+      "notes": "Plural is the same as the singular.",
+      "mnemonic": "SCHLÜSSEL locks the SCHLOSS — key and lock share the 'schl'.",
+      "germany_context": "You normally get two or three keys at handover and must return every single one, or the landlord may charge you for a whole new locking system out of your Kaution.",
+      "emoji": "🔑",
+      "imageable": true,
+      "tags": [
+        "home",
+        "fixtures",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "schloss",
+        "tuer",
+        "abschliessen"
+      ]
+    },
+    {
+      "id": "schloss",
+      "word": "das Schloss",
+      "lemma": "Schloss",
+      "translation": "lock",
+      "translations": [
+        "lock",
+        "castle"
+      ],
+      "level": "A2",
+      "category": "Home & Furniture",
+      "partOfSpeech": "noun",
+      "frequency": 1300,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Schlösser",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Das Schloss klemmt ein bisschen.",
+          "en": "The lock is a bit stiff."
+        },
+        {
+          "de": "Der Vermieter tauscht das Schloss aus.",
+          "en": "The landlord is replacing the lock."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Die Tür fällt automatisch ins ___.",
+          "answer": "Schloss",
+          "en": "The door locks automatically behind you."
+        }
+      ],
+      "notes": "Same word for 'lock' and 'castle' (Schloss Neuschwanstein).",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🔒",
+      "imageable": true,
+      "tags": [
+        "home",
+        "fixtures"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "schluessel",
+        "tuer"
+      ]
+    },
+    {
+      "id": "klingel",
+      "word": "die Klingel",
+      "lemma": "Klingel",
+      "translation": "doorbell",
+      "translations": [
+        "doorbell",
+        "bell"
+      ],
+      "level": "A2",
+      "category": "Home & Furniture",
+      "partOfSpeech": "noun",
+      "frequency": 1600,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Klingeln",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Klingel ist kaputt, bitte klopfen.",
+          "en": "The doorbell is broken, please knock."
+        },
+        {
+          "de": "An der Klingel steht kein Name.",
+          "en": "There's no name on the doorbell."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich habe die ___ nicht gehört.",
+          "answer": "Klingel",
+          "en": "I didn't hear the doorbell."
+        }
+      ],
+      "notes": "The verb is 'klingeln': 'Es klingelt.' = Someone's at the door.",
+      "mnemonic": null,
+      "germany_context": "Put your surname on the bell and the letterbox as soon as you move in — parcel couriers and the Anmeldung paperwork both depend on it.",
+      "emoji": "🔔",
+      "imageable": true,
+      "tags": [
+        "home",
+        "fixtures"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "tuer",
+        "briefkasten"
+      ]
+    },
+    {
+      "id": "briefkasten",
+      "word": "der Briefkasten",
+      "lemma": "Briefkasten",
+      "translation": "letterbox",
+      "translations": [
+        "letterbox",
+        "mailbox"
+      ],
+      "level": "A2",
+      "category": "Home & Furniture",
+      "partOfSpeech": "noun",
+      "frequency": 1400,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Briefkästen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Briefkasten ist voll mit Werbung.",
+          "en": "The letterbox is full of adverts."
+        },
+        {
+          "de": "Ich schaue jeden Tag in den Briefkasten.",
+          "en": "I check the letterbox every day."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Dein Name fehlt noch am ___.",
+          "answer": "Briefkasten",
+          "en": "Your name is still missing from the letterbox."
+        }
+      ],
+      "notes": "Also means the yellow public post box on the street.",
+      "mnemonic": "Brief (letter) + Kasten (box).",
+      "germany_context": "Official post — from the Ausländerbehörde, Finanzamt or a Mahnung — arrives on paper and deadlines start when it lands. No name on the box means no delivery. A 'Bitte keine Werbung' sticker stops the junk mail.",
+      "emoji": "📬",
+      "imageable": true,
+      "tags": [
+        "home",
+        "fixtures",
+        "bureaucracy"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "klingel",
+        "flur"
+      ]
+    },
+    {
+      "id": "licht",
+      "word": "das Licht",
+      "lemma": "Licht",
+      "translation": "light",
+      "translations": [
+        "light"
+      ],
+      "level": "A1",
+      "category": "Home & Furniture",
+      "partOfSpeech": "noun",
+      "frequency": 430,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Lichter",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Mach bitte das Licht an.",
+          "en": "Please turn on the light."
+        },
+        {
+          "de": "Das Licht im Bad brennt noch.",
+          "en": "The light in the bathroom is still on."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Vergiss nicht, das ___ auszumachen.",
+          "answer": "Licht",
+          "en": "Don't forget to turn off the light."
+        }
+      ],
+      "notes": "'Licht anmachen/ausmachen' is the everyday way to say turn on/off.",
+      "mnemonic": "LICHT ~ 'light'.",
+      "germany_context": null,
+      "emoji": "💡",
+      "imageable": true,
+      "tags": [
+        "home",
+        "fixtures",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "die Dunkelheit"
+      ],
+      "related": [
+        "lampe",
+        "lichtschalter",
+        "strom"
+      ]
+    },
+    {
+      "id": "strom",
+      "word": "der Strom",
+      "lemma": "Strom",
+      "translation": "electricity",
+      "translations": [
+        "electricity",
+        "power"
+      ],
+      "level": "A2",
+      "category": "Home & Furniture",
+      "partOfSpeech": "noun",
+      "frequency": 900,
+      "gender": "m",
+      "article": "der",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Strom ist ausgefallen.",
+          "en": "The power has gone out."
+        },
+        {
+          "de": "Strom ist in Deutschland ziemlich teuer.",
+          "en": "Electricity is quite expensive in Germany."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wir zahlen 80 Euro im Monat für ___.",
+          "answer": "Strom",
+          "en": "We pay 80 euros a month for electricity."
+        }
+      ],
+      "notes": "No plural in this meaning. 'der Strom' also means a large river current.",
+      "mnemonic": null,
+      "germany_context": "Electricity is almost never included in the rent: you sign your own contract with a provider, pay a monthly Abschlag and settle the difference once a year. You can switch provider online in minutes and usually save money.",
+      "emoji": "⚡",
+      "imageable": false,
+      "tags": [
+        "home",
+        "utilities",
+        "money"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "steckdose",
+        "nebenkosten"
+      ]
+    },
+    {
+      "id": "wasserhahn",
+      "word": "der Wasserhahn",
+      "lemma": "Wasserhahn",
+      "translation": "tap",
+      "translations": [
+        "tap",
+        "faucet"
+      ],
+      "level": "A2",
+      "category": "Home & Furniture",
+      "partOfSpeech": "noun",
+      "frequency": 1900,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Wasserhähne",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Wasserhahn tropft.",
+          "en": "The tap is dripping."
+        },
+        {
+          "de": "Dreh bitte den Wasserhahn zu.",
+          "en": "Please turn off the tap."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Aus dem ___ kommt nur kaltes Wasser.",
+          "answer": "Wasserhahn",
+          "en": "Only cold water comes out of the tap."
+        }
+      ],
+      "notes": null,
+      "mnemonic": "Wasser (water) + Hahn (rooster/cock) — literally a 'water cock', like the English tap.",
+      "germany_context": "Tap water in Germany is strictly controlled and safe to drink everywhere — most people just drink it.",
+      "emoji": "🚰",
+      "imageable": true,
+      "tags": [
+        "home",
+        "fixtures",
+        "bathroom"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "waschbecken",
+        "kueche"
+      ]
+    },
+    {
+      "id": "dusche",
+      "word": "die Dusche",
+      "lemma": "Dusche",
+      "translation": "shower",
+      "translations": [
+        "shower"
+      ],
+      "level": "A1",
+      "category": "Home & Furniture",
+      "partOfSpeech": "noun",
+      "frequency": 850,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Duschen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Dusche ist schon wieder verstopft.",
+          "en": "The shower is blocked again."
+        },
+        {
+          "de": "Nach dem Sport gehe ich unter die Dusche.",
+          "en": "After sport I get in the shower."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "In der neuen Wohnung gibt es nur eine ___.",
+          "answer": "Dusche",
+          "en": "In the new flat there's only a shower."
+        }
+      ],
+      "notes": "The verb is reflexive: 'sich duschen' or simply 'duschen'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🚿",
+      "imageable": true,
+      "tags": [
+        "home",
+        "bathroom"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "badezimmer",
+        "handtuch"
+      ]
+    },
+    {
+      "id": "waschbecken",
+      "word": "das Waschbecken",
+      "lemma": "Waschbecken",
+      "translation": "sink",
+      "translations": [
+        "sink",
+        "washbasin"
+      ],
+      "level": "A2",
+      "category": "Home & Furniture",
+      "partOfSpeech": "noun",
+      "frequency": 1750,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Waschbecken",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Das Waschbecken ist verstopft.",
+          "en": "The sink is blocked."
+        },
+        {
+          "de": "Über dem Waschbecken hängt ein Spiegel.",
+          "en": "There's a mirror above the sink."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Die Zahnbürste liegt neben dem ___.",
+          "answer": "Waschbecken",
+          "en": "The toothbrush is next to the sink."
+        }
+      ],
+      "notes": "In the kitchen people usually say 'die Spüle'.",
+      "mnemonic": "waschen (to wash) + Becken (basin).",
+      "germany_context": null,
+      "emoji": "🚰",
+      "imageable": true,
+      "tags": [
+        "home",
+        "bathroom"
+      ],
+      "synonyms": [
+        "die Spüle"
+      ],
+      "antonyms": [],
+      "related": [
+        "badezimmer",
+        "wasserhahn"
+      ]
+    },
+    {
+      "id": "rollladen",
+      "word": "der Rollladen",
+      "lemma": "Rollladen",
+      "translation": "roller shutter",
+      "translations": [
+        "roller shutter",
+        "blind"
+      ],
+      "level": "A2",
+      "category": "Home & Furniture",
+      "partOfSpeech": "noun",
+      "frequency": 1800,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Rollläden",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Abends mache ich die Rollläden runter.",
+          "en": "In the evening I put the roller shutters down."
+        },
+        {
+          "de": "Der Rollladen im Schlafzimmer klemmt.",
+          "en": "The roller shutter in the bedroom is stuck."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Im Sommer lasse ich den ___ tagsüber unten.",
+          "answer": "Rollladen",
+          "en": "In summer I leave the shutter down during the day."
+        }
+      ],
+      "notes": "Spelled with three l (Roll + Laden). 'die Jalousie' is the indoor blind.",
+      "mnemonic": null,
+      "germany_context": "External roller shutters are standard on German windows and are the local substitute for air conditioning: close them before the sun hits, and the flat stays several degrees cooler. They also make the bedroom pitch dark and much quieter.",
+      "emoji": "🪟",
+      "imageable": true,
+      "tags": [
+        "home",
+        "fixtures"
+      ],
+      "synonyms": [
+        "die Jalousie"
+      ],
+      "antonyms": [],
+      "related": [
+        "fenster",
+        "klimaanlage"
+      ]
+    },
+    {
+      "id": "hausordnung",
+      "word": "die Hausordnung",
+      "lemma": "Hausordnung",
+      "translation": "house rules",
+      "translations": [
+        "house rules"
+      ],
+      "level": "A2",
+      "category": "Home & Furniture",
+      "partOfSpeech": "noun",
+      "frequency": 1700,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Hausordnungen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Hausordnung hängt im Treppenhaus.",
+          "en": "The house rules are posted in the stairwell."
+        },
+        {
+          "de": "Das steht so in der Hausordnung.",
+          "en": "That's what the house rules say."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Bitte lies dir die ___ genau durch.",
+          "answer": "Hausordnung",
+          "en": "Please read the house rules carefully."
+        }
+      ],
+      "notes": null,
+      "mnemonic": "Haus (house) + Ordnung (order) = the rules of the house.",
+      "germany_context": "The Hausordnung is part of your Mietvertrag and legally binding. It fixes the Ruhezeiten, the stairwell cleaning rota, where bikes and prams may stand, and whether you may grill on the balcony.",
+      "emoji": "📋",
+      "imageable": false,
+      "tags": [
+        "home",
+        "rules",
+        "bureaucracy"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "ruhezeit",
+        "mietvertrag",
+        "treppenhaus"
+      ]
+    },
+    {
+      "id": "waeschestaender",
+      "word": "der Wäscheständer",
+      "lemma": "Wäscheständer",
+      "translation": "clothes airer",
+      "translations": [
+        "clothes airer",
+        "drying rack"
+      ],
+      "level": "A2",
+      "category": "Home & Furniture",
+      "partOfSpeech": "noun",
+      "frequency": 1950,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Wäscheständer",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Wäscheständer steht im Schlafzimmer.",
+          "en": "The clothes airer is in the bedroom."
+        },
+        {
+          "de": "Auf dem Wäscheständer hängen noch die Hemden.",
+          "en": "The shirts are still on the clothes airer."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Stell den ___ bitte auf den Balkon.",
+          "answer": "Wäscheständer",
+          "en": "Please put the clothes airer on the balcony."
+        }
+      ],
+      "notes": null,
+      "mnemonic": "Wäsche (laundry) + Ständer (stand).",
+      "germany_context": "Since hardly anyone has a tumble dryer, a folding Wäscheständer is standard equipment in a German flat. Air the room while it dries — wet laundry indoors without lüften is a classic cause of Schimmel.",
+      "emoji": "🧺",
+      "imageable": true,
+      "tags": [
+        "home",
+        "housework",
+        "laundry"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "waesche",
+        "trockner",
+        "aufhaengen"
+      ]
+    },
+    {
+      "id": "waschmittel",
+      "word": "das Waschmittel",
+      "lemma": "Waschmittel",
+      "translation": "detergent",
+      "translations": [
+        "detergent",
+        "washing powder"
+      ],
+      "level": "A2",
+      "category": "Home & Furniture",
+      "partOfSpeech": "noun",
+      "frequency": 1600,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Waschmittel",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Das Waschmittel ist alle.",
+          "en": "We're out of detergent."
+        },
+        {
+          "de": "Ich nehme flüssiges Waschmittel für Buntwäsche.",
+          "en": "I use liquid detergent for coloured washing."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wie viel ___ nimmst du pro Waschgang?",
+          "answer": "Waschmittel",
+          "en": "How much detergent do you use per wash?"
+        }
+      ],
+      "notes": "'der Weichspüler' (fabric softener) is a separate product.",
+      "mnemonic": "waschen (to wash) + Mittel (agent, product).",
+      "germany_context": "Doses on the pack are given by 'Wasserhärte'. Water is hard in most German cities, so the higher dose usually applies — you can look your local hardness up on the Wasserwerk website.",
+      "emoji": "🧴",
+      "imageable": true,
+      "tags": [
+        "home",
+        "housework",
+        "laundry"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "waesche",
+        "waschmaschine"
+      ]
+    },
+    {
+      "id": "waschmaschine",
+      "word": "die Waschmaschine",
+      "lemma": "Waschmaschine",
+      "translation": "washing machine",
+      "translations": [
+        "washing machine"
+      ],
+      "level": "A1",
+      "category": "Home & Furniture",
+      "partOfSpeech": "noun",
+      "frequency": 850,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Waschmaschinen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Waschmaschine läuft gerade.",
+          "en": "The washing machine is running right now."
+        },
+        {
+          "de": "Wir brauchen eine neue Waschmaschine.",
+          "en": "We need a new washing machine."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Die ___ steht bei uns im Keller.",
+          "answer": "Waschmaschine",
+          "en": "Our washing machine is in the cellar."
+        }
+      ],
+      "notes": null,
+      "mnemonic": "waschen (to wash) + Maschine.",
+      "germany_context": "Running the washing machine after 22:00 or on a Sunday is a classic reason for neighbours to complain — the Hausordnung usually forbids it. In older buildings the machine lives in a shared laundry room in the Keller.",
+      "emoji": "🧺",
+      "imageable": true,
+      "tags": [
+        "home",
+        "appliances",
+        "housework"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "waesche",
+        "trockner",
+        "ruhezeit"
+      ]
+    },
+    {
+      "id": "trockner",
+      "word": "der Trockner",
+      "lemma": "Trockner",
+      "translation": "tumble dryer",
+      "translations": [
+        "tumble dryer",
+        "dryer"
+      ],
+      "level": "A2",
+      "category": "Home & Furniture",
+      "partOfSpeech": "noun",
+      "frequency": 1850,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Trockner",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Trockner braucht viel Strom.",
+          "en": "The tumble dryer uses a lot of electricity."
+        },
+        {
+          "de": "Wir haben keinen Trockner.",
+          "en": "We don't have a tumble dryer."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Die Handtücher sind noch im ___.",
+          "answer": "Trockner",
+          "en": "The towels are still in the dryer."
+        }
+      ],
+      "notes": "Full form: 'der Wäschetrockner'.",
+      "mnemonic": "trocken (dry) → trocknen → der Trockner.",
+      "germany_context": "Dryers are far less common in Germany than in the UK or US — most people hang the laundry on a Wäscheständer in the flat or in the drying room in the cellar.",
+      "emoji": "🌀",
+      "imageable": true,
+      "tags": [
+        "home",
+        "appliances",
+        "housework"
+      ],
+      "synonyms": [
+        "der Wäschetrockner"
+      ],
+      "antonyms": [],
+      "related": [
+        "waschmaschine",
+        "aufhaengen"
+      ]
+    },
+    {
+      "id": "staubsauger",
+      "word": "der Staubsauger",
+      "lemma": "Staubsauger",
+      "translation": "vacuum cleaner",
+      "translations": [
+        "vacuum cleaner",
+        "hoover"
+      ],
+      "level": "A2",
+      "category": "Home & Furniture",
+      "partOfSpeech": "noun",
+      "frequency": 1550,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Staubsauger",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Staubsauger ist ziemlich laut.",
+          "en": "The vacuum cleaner is quite loud."
+        },
+        {
+          "de": "Wo steht der Staubsauger?",
+          "en": "Where is the vacuum cleaner?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich hole schnell den ___ aus dem Schrank.",
+          "answer": "Staubsauger",
+          "en": "I'll quickly get the vacuum cleaner from the cupboard."
+        }
+      ],
+      "notes": null,
+      "mnemonic": "Staub (dust) + saugen (to suck) = the dust sucker.",
+      "germany_context": null,
+      "emoji": "🧹",
+      "imageable": true,
+      "tags": [
+        "home",
+        "appliances",
+        "housework"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "staubsaugen",
+        "teppich"
+      ]
+    },
+    {
+      "id": "buegeleisen",
+      "word": "das Bügeleisen",
+      "lemma": "Bügeleisen",
+      "translation": "iron",
+      "translations": [
+        "iron"
+      ],
+      "level": "A2",
+      "category": "Home & Furniture",
+      "partOfSpeech": "noun",
+      "frequency": 2100,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Bügeleisen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Das Bügeleisen ist noch heiß.",
+          "en": "The iron is still hot."
+        },
+        {
+          "de": "Hast du ein Bügeleisen?",
+          "en": "Do you have an iron?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Zieh bitte den Stecker vom ___ raus.",
+          "answer": "Bügeleisen",
+          "en": "Please unplug the iron."
+        }
+      ],
+      "notes": null,
+      "mnemonic": "bügeln (to iron) + Eisen (iron, the metal).",
+      "germany_context": null,
+      "emoji": "👔",
+      "imageable": true,
+      "tags": [
+        "home",
+        "appliances",
+        "housework"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "buegeln"
+      ]
+    },
+    {
+      "id": "fernseher",
+      "word": "der Fernseher",
+      "lemma": "Fernseher",
+      "translation": "television",
+      "translations": [
+        "television",
+        "TV set"
+      ],
+      "level": "A1",
+      "category": "Home & Furniture",
+      "partOfSpeech": "noun",
+      "frequency": 780,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Fernseher",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Fernseher hängt an der Wand.",
+          "en": "The TV is mounted on the wall."
+        },
+        {
+          "de": "Mach bitte den Fernseher aus.",
+          "en": "Please turn off the TV."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wir haben einen neuen ___ gekauft.",
+          "answer": "Fernseher",
+          "en": "We bought a new TV."
+        }
+      ],
+      "notes": "Fernseher = the device; fernsehen = the activity of watching TV.",
+      "mnemonic": "fern (far) + sehen (to see) = seeing far.",
+      "germany_context": "Every household pays the Rundfunkbeitrag of 18.36 € per month — even with no TV set at all. You get a letter soon after your Anmeldung; if a flatmate already pays for the flat, you register as 'befreit' rather than paying twice.",
+      "emoji": "📺",
+      "imageable": true,
+      "tags": [
+        "home",
+        "appliances",
+        "bureaucracy"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "wohnzimmer",
+        "strom"
+      ]
+    },
+    {
+      "id": "klimaanlage",
+      "word": "die Klimaanlage",
+      "lemma": "Klimaanlage",
+      "translation": "air conditioning",
+      "translations": [
+        "air conditioning"
+      ],
+      "level": "A2",
+      "category": "Home & Furniture",
+      "partOfSpeech": "noun",
+      "frequency": 2000,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Klimaanlagen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Das Hotel hat eine Klimaanlage.",
+          "en": "The hotel has air conditioning."
+        },
+        {
+          "de": "Ohne Klimaanlage ist es im Sommer sehr heiß.",
+          "en": "Without air conditioning it's very hot in summer."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "In meinem Büro läuft die ___ den ganzen Tag.",
+          "answer": "Klimaanlage",
+          "en": "The air conditioning runs all day in my office."
+        }
+      ],
+      "notes": null,
+      "mnemonic": "Klima (climate) + Anlage (system).",
+      "germany_context": "Almost no German flat has air conditioning, and landlords rarely allow a fixed unit. In a heatwave people use a mobile Klimagerät, a fan, and shutters (Rollläden) closed during the day.",
+      "emoji": "❄️",
+      "imageable": true,
+      "tags": [
+        "home",
+        "appliances",
+        "summer"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "die Heizung"
+      ],
+      "related": [
+        "heizung"
+      ]
+    },
+    {
+      "id": "muell",
+      "word": "der Müll",
+      "lemma": "Müll",
+      "translation": "rubbish",
+      "translations": [
+        "rubbish",
+        "garbage",
+        "trash"
+      ],
+      "level": "A1",
+      "category": "Home & Furniture",
+      "partOfSpeech": "noun",
+      "frequency": 720,
+      "gender": "m",
+      "article": "der",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Kannst du bitte den Müll runterbringen?",
+          "en": "Can you take the rubbish down, please?"
+        },
+        {
+          "de": "Der Müll wird jeden Dienstag abgeholt.",
+          "en": "The rubbish is collected every Tuesday."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wirf das bitte nicht in den ___, das ist Papier.",
+          "answer": "Müll",
+          "en": "Please don't throw that in the rubbish, it's paper."
+        }
+      ],
+      "notes": "No plural. 'der Abfall' is the more formal word on signs.",
+      "mnemonic": null,
+      "germany_context": "Mülltrennung is taken seriously: Restmüll (grey/black), Bio (brown, food waste), Papier (blue), Gelber Sack or Gelbe Tonne (plastic and metal packaging), and glass sorted by colour into street containers — never after 20:00 or on Sundays, because of the noise.",
+      "emoji": "🗑️",
+      "imageable": false,
+      "tags": [
+        "home",
+        "housework",
+        "recycling"
+      ],
+      "synonyms": [
+        "der Abfall"
+      ],
+      "antonyms": [],
+      "related": [
+        "muelltonne",
+        "rausbringen"
+      ]
+    },
+    {
+      "id": "muelltonne",
+      "word": "die Mülltonne",
+      "lemma": "Mülltonne",
+      "translation": "wheelie bin",
+      "translations": [
+        "wheelie bin",
+        "rubbish bin"
+      ],
+      "level": "A2",
+      "category": "Home & Furniture",
+      "partOfSpeech": "noun",
+      "frequency": 1650,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Mülltonnen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Mülltonnen stehen hinter dem Haus.",
+          "en": "The bins are behind the house."
+        },
+        {
+          "de": "Die braune Mülltonne ist für Bioabfall.",
+          "en": "The brown bin is for organic waste."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Bitte stell die ___ am Abend vorher raus.",
+          "answer": "Mülltonne",
+          "en": "Please put the bin out the evening before."
+        }
+      ],
+      "notes": null,
+      "mnemonic": "Müll (rubbish) + Tonne (barrel).",
+      "germany_context": "Each type has its own colour and its own collection day. Your city publishes an 'Abfallkalender' online or as an app — put the bin out on the pavement the night before, or wait another two weeks.",
+      "emoji": "🗑️",
+      "imageable": true,
+      "tags": [
+        "home",
+        "housework",
+        "recycling"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "muell",
+        "rausbringen"
+      ]
+    },
+    {
+      "id": "schimmel",
+      "word": "der Schimmel",
+      "lemma": "Schimmel",
+      "translation": "mould",
+      "translations": [
+        "mould",
+        "mold"
+      ],
+      "level": "A2",
+      "category": "Home & Furniture",
+      "partOfSpeech": "noun",
+      "frequency": 1700,
+      "gender": "m",
+      "article": "der",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "In der Ecke ist Schimmel.",
+          "en": "There's mould in the corner."
+        },
+        {
+          "de": "Gegen Schimmel hilft nur regelmäßiges Lüften.",
+          "en": "Only regular airing helps against mould."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Hinter dem Schrank hat sich ___ gebildet.",
+          "answer": "Schimmel",
+          "en": "Mould has formed behind the cupboard."
+        }
+      ],
+      "notes": "No plural in this meaning.",
+      "mnemonic": null,
+      "germany_context": "Mould is the number one tenant-landlord dispute in Germany. Well-insulated flats need Stoßlüften two or three times a day; if mould appears, photograph it and report it to the landlord in writing immediately, or you may be blamed and lose part of your Kaution.",
+      "emoji": "🦠",
+      "imageable": false,
+      "tags": [
+        "home",
+        "housing",
+        "problems"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "lueften",
+        "fenster"
+      ]
+    },
+    {
+      "id": "ruhezeit",
+      "word": "die Ruhezeit",
+      "lemma": "Ruhezeit",
+      "translation": "quiet hours",
+      "translations": [
+        "quiet hours",
+        "quiet time"
+      ],
+      "level": "A2",
+      "category": "Home & Furniture",
+      "partOfSpeech": "noun",
+      "frequency": 1750,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Ruhezeiten",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Nach 22 Uhr beginnt die Ruhezeit.",
+          "en": "Quiet hours start after 10 p.m."
+        },
+        {
+          "de": "Bitte halten Sie die Ruhezeiten ein.",
+          "en": "Please observe the quiet hours."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Sonntag ist den ganzen Tag ___.",
+          "answer": "Ruhezeit",
+          "en": "Sunday is quiet time all day."
+        }
+      ],
+      "notes": "Usually seen in the plural, 'die Ruhezeiten', in the Hausordnung.",
+      "mnemonic": "Ruhe (quiet) + Zeit (time).",
+      "germany_context": "Standard Ruhezeiten are 22:00–06:00 every night, all day Sunday and on public holidays, and in many buildings 13:00–15:00 too. That means no drilling, no loud music, no vacuuming and no washing machine. Neighbours really do complain.",
+      "emoji": "🤫",
+      "imageable": false,
+      "tags": [
+        "home",
+        "rules",
+        "neighbours"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "nachbar",
+        "staubsaugen",
+        "waschmaschine"
+      ]
+    },
+    {
+      "id": "saubermachen",
+      "word": "saubermachen",
+      "lemma": "saubermachen",
+      "translation": "to clean",
+      "translations": [
+        "to clean",
+        "to clean up"
+      ],
+      "level": "A1",
+      "category": "Home & Furniture",
+      "partOfSpeech": "verb",
+      "frequency": 690,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "mache sauber",
+        "du": "machst sauber",
+        "er": "macht sauber",
+        "wir": "machen sauber",
+        "ihr": "macht sauber",
+        "sie": "machen sauber",
+        "praeteritum": "machte sauber",
+        "perfekt": "hat sauber gemacht",
+        "imperativ": "mach sauber!"
+      },
+      "example_sentences": [
+        {
+          "de": "Am Samstag mache ich die ganze Wohnung sauber.",
+          "en": "On Saturday I clean the whole flat."
+        },
+        {
+          "de": "Wer macht heute das Bad sauber?",
+          "en": "Who is cleaning the bathroom today?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Am Wochenende muss ich die ganze Küche ___.",
+          "answer": "saubermachen",
+          "en": "At the weekend I have to clean the whole kitchen."
+        }
+      ],
+      "notes": "Separable: the 'sauber' part goes to the end of the sentence.",
+      "mnemonic": "sauber (clean) + machen (to make) = to make clean.",
+      "germany_context": null,
+      "emoji": "🧽",
+      "imageable": false,
+      "tags": [
+        "housework",
+        "verb"
+      ],
+      "synonyms": [
+        "putzen",
+        "reinigen"
+      ],
+      "antonyms": [],
+      "related": [
+        "staubsaugen",
+        "abwaschen"
+      ]
+    },
+    {
+      "id": "staubsaugen",
+      "word": "staubsaugen",
+      "lemma": "staubsaugen",
+      "translation": "to vacuum",
+      "translations": [
+        "to vacuum",
+        "to hoover"
+      ],
+      "level": "A2",
+      "category": "Home & Furniture",
+      "partOfSpeech": "verb",
+      "frequency": 1500,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "staubsauge",
+        "du": "staubsaugst",
+        "er": "staubsaugt",
+        "wir": "staubsaugen",
+        "ihr": "staubsaugt",
+        "sie": "staubsaugen",
+        "praeteritum": "staubsaugte",
+        "perfekt": "hat gestaubsaugt",
+        "imperativ": "staubsaug!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich staubsauge jeden Samstag das Wohnzimmer.",
+          "en": "I vacuum the living room every Saturday."
+        },
+        {
+          "de": "Hast du schon gestaubsaugt?",
+          "en": "Have you vacuumed yet?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Am Sonntag darf man nicht ___.",
+          "answer": "staubsaugen",
+          "en": "You're not allowed to vacuum on Sundays."
+        }
+      ],
+      "notes": "Treated as one word: 'ich staubsauge', Perfekt 'gestaubsaugt'. Many people simply say 'Staub saugen': 'ich sauge Staub'.",
+      "mnemonic": null,
+      "germany_context": "Vacuuming falls under the Ruhezeiten: not after 22:00, and not on Sundays or public holidays.",
+      "emoji": "🧹",
+      "imageable": false,
+      "tags": [
+        "housework",
+        "verb"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "staubsauger",
+        "ruhezeit"
+      ]
+    },
+    {
+      "id": "wischen",
+      "word": "wischen",
+      "lemma": "wischen",
+      "translation": "to mop",
+      "translations": [
+        "to mop",
+        "to wipe"
+      ],
+      "level": "A2",
+      "category": "Home & Furniture",
+      "partOfSpeech": "verb",
+      "frequency": 1350,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "wische",
+        "du": "wischst",
+        "er": "wischt",
+        "wir": "wischen",
+        "ihr": "wischt",
+        "sie": "wischen",
+        "praeteritum": "wischte",
+        "perfekt": "hat gewischt",
+        "imperativ": "wisch(e)!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich wische den Boden einmal pro Woche.",
+          "en": "I mop the floor once a week."
+        },
+        {
+          "de": "Kannst du bitte den Tisch wischen?",
+          "en": "Can you wipe the table, please?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Nach dem Kochen ___ ich immer die Küche.",
+          "answer": "wische",
+          "en": "After cooking I always mop the kitchen."
+        }
+      ],
+      "notes": "'den Boden wischen' = to mop the floor; 'aufwischen' is used for cleaning up a spill.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🧽",
+      "imageable": false,
+      "tags": [
+        "housework",
+        "verb"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "boden",
+        "saubermachen"
+      ]
+    },
+    {
+      "id": "sperrmuell",
+      "word": "der Sperrmüll",
+      "lemma": "Sperrmüll",
+      "translation": "bulky waste",
+      "translations": [
+        "bulky waste"
+      ],
+      "level": "A2",
+      "category": "Home & Furniture",
+      "partOfSpeech": "noun",
+      "frequency": 1850,
+      "gender": "m",
+      "article": "der",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Das alte Sofa kommt auf den Sperrmüll.",
+          "en": "The old sofa is going out as bulky waste."
+        },
+        {
+          "de": "Der Sperrmüll wird nächste Woche abgeholt.",
+          "en": "The bulky waste is being collected next week."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wir haben den ___ online angemeldet.",
+          "answer": "Sperrmüll",
+          "en": "We registered the bulky waste collection online."
+        }
+      ],
+      "notes": "No plural.",
+      "mnemonic": "sperrig (bulky) + Müll (rubbish).",
+      "germany_context": "Furniture and mattresses never go in the bins. You book a free collection date with the city and put the items on the pavement the evening before — dumping them unannounced can earn you a fine. Whatever is still usable often disappears within an hour.",
+      "emoji": "🛋️",
+      "imageable": false,
+      "tags": [
+        "home",
+        "housework",
+        "recycling"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "muell",
+        "moebel",
+        "rausbringen"
+      ]
+    },
+    {
+      "id": "buegeln",
+      "word": "bügeln",
+      "lemma": "bügeln",
+      "translation": "to iron",
+      "translations": [
+        "to iron"
+      ],
+      "level": "A2",
+      "category": "Home & Furniture",
+      "partOfSpeech": "verb",
+      "frequency": 1700,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "bügle",
+        "du": "bügelst",
+        "er": "bügelt",
+        "wir": "bügeln",
+        "ihr": "bügelt",
+        "sie": "bügeln",
+        "praeteritum": "bügelte",
+        "perfekt": "hat gebügelt",
+        "imperativ": "bügle!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich bügle meine Hemden am Sonntagabend.",
+          "en": "I iron my shirts on Sunday evening."
+        },
+        {
+          "de": "Diese Hose muss nicht gebügelt werden.",
+          "en": "These trousers don't need ironing."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Kannst du bitte das Hemd ___?",
+          "answer": "bügeln",
+          "en": "Can you iron the shirt, please?"
+        }
+      ],
+      "notes": "The ich-form drops the e: bügle (bügele is also correct but stiffer).",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "👔",
+      "imageable": false,
+      "tags": [
+        "housework",
+        "verb",
+        "clothes"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "buegeleisen",
+        "waesche"
+      ]
+    },
+    {
+      "id": "lueften",
+      "word": "lüften",
+      "lemma": "lüften",
+      "translation": "to air",
+      "translations": [
+        "to air",
+        "to ventilate"
+      ],
+      "level": "A2",
+      "category": "Home & Furniture",
+      "partOfSpeech": "verb",
+      "frequency": 1150,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "lüfte",
+        "du": "lüftest",
+        "er": "lüftet",
+        "wir": "lüften",
+        "ihr": "lüftet",
+        "sie": "lüften",
+        "praeteritum": "lüftete",
+        "perfekt": "hat gelüftet",
+        "imperativ": "lüfte!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich lüfte jeden Morgen zehn Minuten.",
+          "en": "I air the room for ten minutes every morning."
+        },
+        {
+          "de": "Hast du heute schon gelüftet?",
+          "en": "Have you aired the place today?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Im Bad muss man nach dem Duschen gut ___.",
+          "answer": "lüften",
+          "en": "You have to air the bathroom well after showering."
+        }
+      ],
+      "notes": "Note the -e- in du lüftest / ihr lüftet, because the stem ends in -ft.",
+      "mnemonic": "die Luft (air) → lüften (to let air in).",
+      "germany_context": "'Stoßlüften' — windows wide open for 5–10 minutes, two or three times a day — is the standard advice and is often written into the Mietvertrag. Leaving a window tilted all day cools the walls and actually causes Schimmel.",
+      "emoji": "🪟",
+      "imageable": false,
+      "tags": [
+        "housework",
+        "verb",
+        "health"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "fenster",
+        "schimmel"
+      ]
+    },
+    {
+      "id": "aufhaengen",
+      "word": "aufhängen",
+      "lemma": "aufhängen",
+      "translation": "to hang up",
+      "translations": [
+        "to hang up"
+      ],
+      "level": "A2",
+      "category": "Home & Furniture",
+      "partOfSpeech": "verb",
+      "frequency": 1450,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "hänge auf",
+        "du": "hängst auf",
+        "er": "hängt auf",
+        "wir": "hängen auf",
+        "ihr": "hängt auf",
+        "sie": "hängen auf",
+        "praeteritum": "hängte auf",
+        "perfekt": "hat aufgehängt",
+        "imperativ": "häng auf!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich hänge die Wäsche auf dem Balkon auf.",
+          "en": "I hang the laundry up on the balcony."
+        },
+        {
+          "de": "Wir haben ein Bild im Flur aufgehängt.",
+          "en": "We hung a picture up in the hallway."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich muss noch schnell die Wäsche ___.",
+          "answer": "aufhängen",
+          "en": "I still have to hang the laundry up quickly."
+        }
+      ],
+      "notes": "Weak in this meaning: hängte auf, aufgehängt. The intransitive 'hängen' (to be hanging) is strong: hing, gehangen.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🧺",
+      "imageable": false,
+      "tags": [
+        "housework",
+        "verb"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "abnehmen"
+      ],
+      "related": [
+        "waesche",
+        "trockner"
+      ]
+    },
+    {
+      "id": "abtrocknen",
+      "word": "abtrocknen",
+      "lemma": "abtrocknen",
+      "translation": "to dry",
+      "translations": [
+        "to dry",
+        "to dry off"
+      ],
+      "level": "A2",
+      "category": "Home & Furniture",
+      "partOfSpeech": "verb",
+      "frequency": 1600,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "trockne ab",
+        "du": "trocknest ab",
+        "er": "trocknet ab",
+        "wir": "trocknen ab",
+        "ihr": "trocknet ab",
+        "sie": "trocknen ab",
+        "praeteritum": "trocknete ab",
+        "perfekt": "hat abgetrocknet",
+        "imperativ": "trockne ab!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich wasche ab und du trocknest ab.",
+          "en": "I'll wash up and you dry."
+        },
+        {
+          "de": "Hast du die Gläser schon abgetrocknet?",
+          "en": "Have you dried the glasses yet?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Kannst du bitte die Teller ___?",
+          "answer": "abtrocknen",
+          "en": "Can you dry the plates, please?"
+        }
+      ],
+      "notes": "Also used reflexively after a shower: 'sich abtrocknen'.",
+      "mnemonic": "trocken (dry) → abtrocknen.",
+      "germany_context": null,
+      "emoji": "🧻",
+      "imageable": false,
+      "tags": [
+        "housework",
+        "verb",
+        "kitchen"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "abwaschen",
+        "handtuch"
+      ]
+    },
+    {
+      "id": "einrichten",
+      "word": "einrichten",
+      "lemma": "einrichten",
+      "translation": "to furnish",
+      "translations": [
+        "to furnish",
+        "to set up"
+      ],
+      "level": "A2",
+      "category": "Home & Furniture",
+      "partOfSpeech": "verb",
+      "frequency": 1650,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "richte ein",
+        "du": "richtest ein",
+        "er": "richtet ein",
+        "wir": "richten ein",
+        "ihr": "richtet ein",
+        "sie": "richten ein",
+        "praeteritum": "richtete ein",
+        "perfekt": "hat eingerichtet",
+        "imperativ": "richte ein!"
+      },
+      "example_sentences": [
+        {
+          "de": "Wir richten gerade die neue Wohnung ein.",
+          "en": "We're furnishing the new flat right now."
+        },
+        {
+          "de": "Das Zimmer ist sehr gemütlich eingerichtet.",
+          "en": "The room is furnished very cosily."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wie hast du dein Wohnzimmer ___?",
+          "answer": "eingerichtet",
+          "en": "How have you furnished your living room?"
+        }
+      ],
+      "notes": "Also means 'to set up' an account or an appointment: 'ein Konto einrichten'.",
+      "mnemonic": null,
+      "germany_context": "Furnishing from scratch is normal here because flats come empty. Beyond IKEA, look at Kleinanzeigen, Sozialkaufhaus shops and 'Zu verschenken' boxes on the pavement.",
+      "emoji": "🛋️",
+      "imageable": false,
+      "tags": [
+        "home",
+        "verb",
+        "furniture"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "moebel",
+        "wohnung"
+      ]
+    },
+    {
+      "id": "abschliessen",
+      "word": "abschließen",
+      "lemma": "abschließen",
+      "translation": "to lock",
+      "translations": [
+        "to lock",
+        "to lock up"
+      ],
+      "level": "A2",
+      "category": "Home & Furniture",
+      "partOfSpeech": "verb",
+      "frequency": 1300,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "schließe ab",
+        "du": "schließt ab",
+        "er": "schließt ab",
+        "wir": "schließen ab",
+        "ihr": "schließt ab",
+        "sie": "schließen ab",
+        "praeteritum": "schloss ab",
+        "perfekt": "hat abgeschlossen",
+        "imperativ": "schließ ab!"
+      },
+      "example_sentences": [
+        {
+          "de": "Vergiss nicht, die Tür abzuschließen.",
+          "en": "Don't forget to lock the door."
+        },
+        {
+          "de": "Ich schließe abends immer zweimal ab.",
+          "en": "In the evening I always lock up twice."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Hast du die Haustür ___?",
+          "answer": "abgeschlossen",
+          "en": "Did you lock the front door?"
+        }
+      ],
+      "notes": "Strong verb: schloss ab, abgeschlossen. Also means 'to complete' a course or 'to take out' insurance.",
+      "mnemonic": null,
+      "germany_context": "Insurers often expect the door to be properly locked with the key, not just pulled shut — a burglary through an unlocked door can reduce your Hausratversicherung payout.",
+      "emoji": "🔐",
+      "imageable": false,
+      "tags": [
+        "home",
+        "verb",
+        "security"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "aufschließen"
+      ],
+      "related": [
+        "schluessel",
+        "schloss",
+        "tuer"
+      ]
+    },
+    {
+      "id": "rausbringen",
+      "word": "rausbringen",
+      "lemma": "rausbringen",
+      "translation": "to take out",
+      "translations": [
+        "to take out"
+      ],
+      "level": "A2",
+      "category": "Home & Furniture",
+      "partOfSpeech": "verb",
+      "frequency": 1500,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "bringe raus",
+        "du": "bringst raus",
+        "er": "bringt raus",
+        "wir": "bringen raus",
+        "ihr": "bringt raus",
+        "sie": "bringen raus",
+        "praeteritum": "brachte raus",
+        "perfekt": "hat rausgebracht",
+        "imperativ": "bring raus!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich bringe den Müll jeden Abend raus.",
+          "en": "I take the rubbish out every evening."
+        },
+        {
+          "de": "Hast du das Altpapier schon rausgebracht?",
+          "en": "Have you taken the paper out yet?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Kannst du bitte die leeren Flaschen ___?",
+          "answer": "rausbringen",
+          "en": "Can you take the empty bottles out, please?"
+        }
+      ],
+      "notes": "Colloquial short form of 'hinausbringen'. Very common in spoken German.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🗑️",
+      "imageable": false,
+      "tags": [
+        "housework",
+        "verb"
+      ],
+      "synonyms": [
+        "hinausbringen"
+      ],
+      "antonyms": [],
+      "related": [
+        "muell",
+        "muelltonne"
+      ]
+    },
+    {
+      "id": "heizen",
+      "word": "heizen",
+      "lemma": "heizen",
+      "translation": "to heat",
+      "translations": [
+        "to heat",
+        "to put the heating on"
+      ],
+      "level": "A2",
+      "category": "Home & Furniture",
+      "partOfSpeech": "verb",
+      "frequency": 1400,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "heize",
+        "du": "heizt",
+        "er": "heizt",
+        "wir": "heizen",
+        "ihr": "heizt",
+        "sie": "heizen",
+        "praeteritum": "heizte",
+        "perfekt": "hat geheizt",
+        "imperativ": "heiz(e)!"
+      },
+      "example_sentences": [
+        {
+          "de": "Wir heizen nur im Wohnzimmer.",
+          "en": "We only heat the living room."
+        },
+        {
+          "de": "Im Winter heizt man hier mit Gas.",
+          "en": "In winter people here heat with gas."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Bei offenem Fenster zu ___ ist Geldverschwendung.",
+          "answer": "heizen",
+          "en": "Heating with the window open is a waste of money."
+        }
+      ],
+      "notes": "Both du and er take -t because the stem ends in -z: du heizt, er heizt.",
+      "mnemonic": "die Heizung comes from heizen.",
+      "germany_context": "Landlords must keep the heating running from roughly 1 October to 30 April and keep flats at about 20 °C during the day — if yours stays cold, put the complaint in writing.",
+      "emoji": "🔥",
+      "imageable": false,
+      "tags": [
+        "home",
+        "verb",
+        "winter"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "heizung",
+        "nebenkosten"
+      ]
+    }
+  ]
+}
