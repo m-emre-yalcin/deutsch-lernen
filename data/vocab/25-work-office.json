@@ -1,0 +1,3905 @@
+{
+  "category": "Work & Office",
+  "words": [
+    {
+      "id": "arbeit",
+      "word": "die Arbeit",
+      "lemma": "Arbeit",
+      "translation": "work",
+      "translations": [
+        "work",
+        "job"
+      ],
+      "level": "A1",
+      "category": "Work & Office",
+      "partOfSpeech": "noun",
+      "frequency": 60,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Arbeiten",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich fahre jeden Morgen mit dem Bus zur Arbeit.",
+          "en": "I take the bus to work every morning."
+        },
+        {
+          "de": "Meine Arbeit macht mir Spaß.",
+          "en": "I enjoy my work."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Nach der ___ gehe ich noch einkaufen.",
+          "answer": "Arbeit",
+          "en": "After work I go shopping."
+        }
+      ],
+      "notes": "'zur Arbeit' = to work, 'bei der Arbeit' = at work.",
+      "mnemonic": "ARBEIT sounds like 'arbeit(er)' - a worker works.",
+      "germany_context": null,
+      "emoji": "💼",
+      "imageable": false,
+      "tags": [
+        "work",
+        "essential"
+      ],
+      "synonyms": [
+        "der Job"
+      ],
+      "antonyms": [
+        "die Freizeit"
+      ],
+      "related": [
+        "job",
+        "beruf",
+        "feierabend"
+      ]
+    },
+    {
+      "id": "job",
+      "word": "der Job",
+      "lemma": "Job",
+      "translation": "job",
+      "translations": [
+        "job"
+      ],
+      "level": "A1",
+      "category": "Work & Office",
+      "partOfSpeech": "noun",
+      "frequency": 150,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Jobs",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich suche einen neuen Job in Berlin.",
+          "en": "I'm looking for a new job in Berlin."
+        },
+        {
+          "de": "Mein Job ist gut bezahlt.",
+          "en": "My job is well paid."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Sie hat einen ___ bei einer großen Firma gefunden.",
+          "answer": "Job",
+          "en": "She found a job at a big company."
+        }
+      ],
+      "notes": "Casual English loanword. In job ads and contracts the word is 'Stelle'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "💼",
+      "imageable": false,
+      "tags": [
+        "work"
+      ],
+      "synonyms": [
+        "die Arbeit",
+        "die Stelle"
+      ],
+      "antonyms": [],
+      "related": [
+        "arbeit",
+        "stelle"
+      ]
+    },
+    {
+      "id": "beruf",
+      "word": "der Beruf",
+      "lemma": "Beruf",
+      "translation": "profession",
+      "translations": [
+        "profession",
+        "occupation"
+      ],
+      "level": "A1",
+      "category": "Work & Office",
+      "partOfSpeech": "noun",
+      "frequency": 320,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Berufe",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Was sind Sie von Beruf?",
+          "en": "What do you do for a living?"
+        },
+        {
+          "de": "Mein Beruf gefällt mir sehr.",
+          "en": "I like my profession a lot."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Er hat einen interessanten ___.",
+          "answer": "Beruf",
+          "en": "He has an interesting profession."
+        }
+      ],
+      "notes": "'Was sind Sie von Beruf?' is the standard way to ask what someone does.",
+      "mnemonic": null,
+      "germany_context": "Official forms (Anmeldung, bank, insurance) ask for your 'Beruf' - write the profession, e.g. 'Softwareentwickler', not 'Job'.",
+      "emoji": "👔",
+      "imageable": false,
+      "tags": [
+        "work",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "arbeit",
+        "stelle"
+      ]
+    },
+    {
+      "id": "stelle",
+      "word": "die Stelle",
+      "lemma": "Stelle",
+      "translation": "position",
+      "translations": [
+        "position",
+        "job",
+        "post"
+      ],
+      "level": "A2",
+      "category": "Work & Office",
+      "partOfSpeech": "noun",
+      "frequency": 420,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Stellen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Firma hat eine Stelle als Entwickler frei.",
+          "en": "The company has an open position for a developer."
+        },
+        {
+          "de": "Ich habe die Stelle bekommen!",
+          "en": "I got the job!"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Er bewirbt sich auf eine ___ in München.",
+          "answer": "Stelle",
+          "en": "He is applying for a position in Munich."
+        }
+      ],
+      "notes": "Formal word for a job position; 'Stelle' can also mean a spot or place.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "work",
+        "jobsearch"
+      ],
+      "synonyms": [
+        "der Job",
+        "die Position"
+      ],
+      "antonyms": [],
+      "related": [
+        "stellenangebot",
+        "bewerbung"
+      ]
+    },
+    {
+      "id": "stellenangebot",
+      "word": "das Stellenangebot",
+      "lemma": "Stellenangebot",
+      "translation": "job offer",
+      "translations": [
+        "job offer",
+        "job ad"
+      ],
+      "level": "A2",
+      "category": "Work & Office",
+      "partOfSpeech": "noun",
+      "frequency": 950,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Stellenangebote",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich habe ein interessantes Stellenangebot gefunden.",
+          "en": "I found an interesting job ad."
+        },
+        {
+          "de": "Die Stellenangebote stehen alle online.",
+          "en": "The job ads are all online."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "In der Zeitung gibt es viele ___ für Handwerker.",
+          "answer": "Stellenangebote",
+          "en": "There are many job ads for tradespeople in the paper."
+        }
+      ],
+      "notes": "Also called 'die Stellenanzeige'.",
+      "mnemonic": null,
+      "germany_context": "Search 'Stellenangebote' on the Agentur für Arbeit site or on portals like StepStone and Indeed. Ads end with '(m/w/d)' by law.",
+      "emoji": "📰",
+      "imageable": false,
+      "tags": [
+        "work",
+        "jobsearch"
+      ],
+      "synonyms": [
+        "die Stellenanzeige"
+      ],
+      "antonyms": [],
+      "related": [
+        "stelle",
+        "bewerbung"
+      ]
+    },
+    {
+      "id": "bewerbung",
+      "word": "die Bewerbung",
+      "lemma": "Bewerbung",
+      "translation": "application",
+      "translations": [
+        "application",
+        "job application"
+      ],
+      "level": "A2",
+      "category": "Work & Office",
+      "partOfSpeech": "noun",
+      "frequency": 700,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Bewerbungen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich schicke die Bewerbung heute per E-Mail.",
+          "en": "I'm sending the application by e-mail today."
+        },
+        {
+          "de": "Meine Bewerbung war leider nicht erfolgreich.",
+          "en": "Unfortunately my application was not successful."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Für die ___ brauchst du einen Lebenslauf und ein Anschreiben.",
+          "answer": "Bewerbung",
+          "en": "For the application you need a CV and a cover letter."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "A German Bewerbung is normally one PDF containing Anschreiben, Lebenslauf and scanned Zeugnisse (references and certificates).",
+      "emoji": "📄",
+      "imageable": false,
+      "tags": [
+        "work",
+        "jobsearch"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "lebenslauf",
+        "anschreiben",
+        "vorstellungsgespraech"
+      ]
+    },
+    {
+      "id": "lebenslauf",
+      "word": "der Lebenslauf",
+      "lemma": "Lebenslauf",
+      "translation": "cv",
+      "translations": [
+        "cv",
+        "resume"
+      ],
+      "level": "A2",
+      "category": "Work & Office",
+      "partOfSpeech": "noun",
+      "frequency": 820,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Lebensläufe",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Mein Lebenslauf ist zwei Seiten lang.",
+          "en": "My CV is two pages long."
+        },
+        {
+          "de": "Schick mir bitte deinen Lebenslauf als PDF.",
+          "en": "Please send me your CV as a PDF."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Im ___ steht meine ganze Berufserfahrung.",
+          "answer": "Lebenslauf",
+          "en": "All my work experience is in my CV."
+        }
+      ],
+      "notes": "Literally 'course of life'.",
+      "mnemonic": null,
+      "germany_context": "German CVs are tabular, reverse-chronological, signed and dated, and often still include a photo and date of birth.",
+      "emoji": "📃",
+      "imageable": false,
+      "tags": [
+        "work",
+        "jobsearch"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "bewerbung",
+        "anschreiben"
+      ]
+    },
+    {
+      "id": "anschreiben",
+      "word": "das Anschreiben",
+      "lemma": "Anschreiben",
+      "translation": "cover letter",
+      "translations": [
+        "cover letter"
+      ],
+      "level": "A2",
+      "category": "Work & Office",
+      "partOfSpeech": "noun",
+      "frequency": 1450,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Anschreiben",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Das Anschreiben soll nur eine Seite haben.",
+          "en": "The cover letter should be only one page."
+        },
+        {
+          "de": "Ich schreibe gerade mein Anschreiben.",
+          "en": "I'm writing my cover letter right now."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ohne ___ ist die Bewerbung nicht komplett.",
+          "answer": "Anschreiben",
+          "en": "Without a cover letter the application is not complete."
+        }
+      ],
+      "notes": "A nominalised infinitive, so it is neuter and the plural looks the same as the singular.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "✉️",
+      "imageable": false,
+      "tags": [
+        "work",
+        "jobsearch"
+      ],
+      "synonyms": [
+        "das Bewerbungsschreiben"
+      ],
+      "antonyms": [],
+      "related": [
+        "bewerbung",
+        "lebenslauf"
+      ]
+    },
+    {
+      "id": "vorstellungsgespraech",
+      "word": "das Vorstellungsgespräch",
+      "lemma": "Vorstellungsgespräch",
+      "translation": "job interview",
+      "translations": [
+        "job interview"
+      ],
+      "level": "A2",
+      "category": "Work & Office",
+      "partOfSpeech": "noun",
+      "frequency": 880,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Vorstellungsgespräche",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich habe morgen ein Vorstellungsgespräch.",
+          "en": "I have a job interview tomorrow."
+        },
+        {
+          "de": "Das Vorstellungsgespräch war auf Englisch.",
+          "en": "The job interview was in English."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Zum ___ ziehe ich ein Hemd an.",
+          "answer": "Vorstellungsgespräch",
+          "en": "I'll wear a shirt to the job interview."
+        }
+      ],
+      "notes": "Also 'das Bewerbungsgespräch'. From 'sich vorstellen' = to introduce oneself.",
+      "mnemonic": null,
+      "germany_context": "Arrive 5-10 minutes early, shake hands, and expect direct questions about salary expectations. Being late is usually the end of it.",
+      "emoji": "🤝",
+      "imageable": false,
+      "tags": [
+        "work",
+        "jobsearch"
+      ],
+      "synonyms": [
+        "das Bewerbungsgespräch"
+      ],
+      "antonyms": [],
+      "related": [
+        "bewerbung",
+        "stelle"
+      ]
+    },
+    {
+      "id": "arbeitsvertrag",
+      "word": "der Arbeitsvertrag",
+      "lemma": "Arbeitsvertrag",
+      "translation": "employment contract",
+      "translations": [
+        "employment contract",
+        "work contract"
+      ],
+      "level": "A2",
+      "category": "Work & Office",
+      "partOfSpeech": "noun",
+      "frequency": 900,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Arbeitsverträge",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich habe den Arbeitsvertrag unterschrieben.",
+          "en": "I signed the employment contract."
+        },
+        {
+          "de": "Im Arbeitsvertrag steht mein Gehalt.",
+          "en": "My salary is stated in the employment contract."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Lies den ___ genau, bevor du unterschreibst.",
+          "answer": "Arbeitsvertrag",
+          "en": "Read the employment contract carefully before you sign."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Check the Probezeit and the Kündigungsfrist (notice period, often 1-3 months). Banks and landlords will ask to see this contract.",
+      "emoji": "📝",
+      "imageable": false,
+      "tags": [
+        "work",
+        "contract"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "probezeit",
+        "kuendigung",
+        "gehalt"
+      ]
+    },
+    {
+      "id": "probezeit",
+      "word": "die Probezeit",
+      "lemma": "Probezeit",
+      "translation": "probation period",
+      "translations": [
+        "probation period",
+        "trial period"
+      ],
+      "level": "A2",
+      "category": "Work & Office",
+      "partOfSpeech": "noun",
+      "frequency": 1150,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Probezeiten",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Meine Probezeit dauert sechs Monate.",
+          "en": "My probation period lasts six months."
+        },
+        {
+          "de": "In der Probezeit ist die Kündigungsfrist kurz.",
+          "en": "During the probation period the notice period is short."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Nach der ___ habe ich mehr Sicherheit.",
+          "answer": "Probezeit",
+          "en": "After the probation period I have more security."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Usually 6 months. During it either side can quit with 2 weeks' notice, and many landlords prefer tenants who are past it.",
+      "emoji": "⏳",
+      "imageable": false,
+      "tags": [
+        "work",
+        "contract"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "arbeitsvertrag",
+        "kuendigung"
+      ]
+    },
+    {
+      "id": "gehalt",
+      "word": "das Gehalt",
+      "lemma": "Gehalt",
+      "translation": "salary",
+      "translations": [
+        "salary",
+        "pay"
+      ],
+      "level": "A2",
+      "category": "Work & Office",
+      "partOfSpeech": "noun",
+      "frequency": 380,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Gehälter",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Mein Gehalt kommt am Ende des Monats.",
+          "en": "My salary comes at the end of the month."
+        },
+        {
+          "de": "Sie verhandelt über ein höheres Gehalt.",
+          "en": "She is negotiating a higher salary."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Das ___ wird jeden Monat auf mein Konto überwiesen.",
+          "answer": "Gehalt",
+          "en": "The salary is transferred to my account every month."
+        }
+      ],
+      "notes": "'Gehalt' = fixed monthly salary; 'Lohn' = wage paid by the hour.",
+      "mnemonic": null,
+      "germany_context": "Salaries are quoted per year and gross ('55.000 € brutto'). Payday is once a month, usually on the last working day.",
+      "emoji": "💶",
+      "imageable": false,
+      "tags": [
+        "work",
+        "money"
+      ],
+      "synonyms": [
+        "der Lohn"
+      ],
+      "antonyms": [],
+      "related": [
+        "lohn",
+        "brutto",
+        "netto"
+      ]
+    },
+    {
+      "id": "lohn",
+      "word": "der Lohn",
+      "lemma": "Lohn",
+      "translation": "wage",
+      "translations": [
+        "wage",
+        "pay"
+      ],
+      "level": "A2",
+      "category": "Work & Office",
+      "partOfSpeech": "noun",
+      "frequency": 1000,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Löhne",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Lohn wird pro Stunde bezahlt.",
+          "en": "The wage is paid by the hour."
+        },
+        {
+          "de": "Die Löhne sind dieses Jahr gestiegen.",
+          "en": "Wages went up this year."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Er bekommt einen guten ___ für seine Arbeit.",
+          "answer": "Lohn",
+          "en": "He gets a good wage for his work."
+        }
+      ],
+      "notes": "Used for hourly or manual work; office staff get a 'Gehalt'.",
+      "mnemonic": null,
+      "germany_context": "There is a statutory minimum wage (Mindestlohn) that is raised every year - it applies to mini-jobs and students too.",
+      "emoji": "💰",
+      "imageable": false,
+      "tags": [
+        "work",
+        "money"
+      ],
+      "synonyms": [
+        "das Gehalt"
+      ],
+      "antonyms": [],
+      "related": [
+        "gehalt",
+        "brutto"
+      ]
+    },
+    {
+      "id": "brutto",
+      "word": "brutto",
+      "lemma": "brutto",
+      "translation": "gross",
+      "translations": [
+        "gross",
+        "before tax"
+      ],
+      "level": "A2",
+      "category": "Work & Office",
+      "partOfSpeech": "adverb",
+      "frequency": 1150,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich verdiene viertausend Euro brutto im Monat.",
+          "en": "I earn four thousand euros gross a month."
+        },
+        {
+          "de": "Ist das Gehalt brutto oder netto?",
+          "en": "Is that salary gross or net?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Im Vertrag steht das Gehalt immer ___.",
+          "answer": "brutto",
+          "en": "In the contract the salary is always stated gross."
+        }
+      ],
+      "notes": "Used after the amount: '3.000 Euro brutto'. Opposite: netto.",
+      "mnemonic": null,
+      "germany_context": "Every German job ad quotes brutto. After tax and social contributions your netto is roughly 55-65% of it - use a Brutto-Netto-Rechner before you accept.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "work",
+        "money"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "netto"
+      ],
+      "related": [
+        "netto",
+        "gehalt",
+        "steuer"
+      ]
+    },
+    {
+      "id": "netto",
+      "word": "netto",
+      "lemma": "netto",
+      "translation": "net",
+      "translations": [
+        "net",
+        "after tax",
+        "take-home"
+      ],
+      "level": "A2",
+      "category": "Work & Office",
+      "partOfSpeech": "adverb",
+      "frequency": 1200,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Netto bleiben mir etwa zweitausendfünfhundert Euro.",
+          "en": "About two thousand five hundred euros are left net."
+        },
+        {
+          "de": "Wie viel ist das netto?",
+          "en": "How much is that after tax?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Von viertausend Euro brutto bleiben ungefähr zweitausendfünfhundert Euro ___.",
+          "answer": "netto",
+          "en": "Out of four thousand euros gross, about two thousand five hundred euros are left net."
+        }
+      ],
+      "notes": "'Netto' is what actually lands on your bank account.",
+      "mnemonic": null,
+      "germany_context": "The gap between brutto and netto surprises most newcomers: income tax, solidarity surcharge, health, care, pension and unemployment insurance all come off first.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "work",
+        "money"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "brutto"
+      ],
+      "related": [
+        "brutto",
+        "gehaltsabrechnung"
+      ]
+    },
+    {
+      "id": "steuer",
+      "word": "die Steuer",
+      "lemma": "Steuer",
+      "translation": "tax",
+      "translations": [
+        "tax"
+      ],
+      "level": "A2",
+      "category": "Work & Office",
+      "partOfSpeech": "noun",
+      "frequency": 600,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Steuern",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich zahle jeden Monat viele Steuern.",
+          "en": "I pay a lot of taxes every month."
+        },
+        {
+          "de": "Die Steuer wird direkt vom Gehalt abgezogen.",
+          "en": "The tax is deducted directly from the salary."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wie viel ___ zahlst du im Jahr?",
+          "answer": "Steuern",
+          "en": "How much tax do you pay per year?"
+        }
+      ],
+      "notes": "Often used in the plural: 'Steuern zahlen'.",
+      "mnemonic": null,
+      "germany_context": "Your Lohnsteuer is withheld automatically. A yearly Steuererklärung (via ELSTER or an app) usually brings a few hundred euros back.",
+      "emoji": "🧾",
+      "imageable": false,
+      "tags": [
+        "work",
+        "money",
+        "bureaucracy"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "steuerklasse",
+        "netto",
+        "gehaltsabrechnung"
+      ]
+    },
+    {
+      "id": "sozialversicherung",
+      "word": "die Sozialversicherung",
+      "lemma": "Sozialversicherung",
+      "translation": "social security",
+      "translations": [
+        "social security",
+        "social insurance"
+      ],
+      "level": "A2",
+      "category": "Work & Office",
+      "partOfSpeech": "noun",
+      "frequency": 1550,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Sozialversicherungen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Sozialversicherung wird vom Gehalt abgezogen.",
+          "en": "Social security is deducted from the salary."
+        },
+        {
+          "de": "Jeder Arbeitnehmer zahlt in die Sozialversicherung ein.",
+          "en": "Every employee pays into social security."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Krankenkasse und Rente gehören zur ___.",
+          "answer": "Sozialversicherung",
+          "en": "Health insurance and pension are part of social security."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "It bundles health, long-term care, pension and unemployment insurance - about 20% off your gross, matched by your employer. Your first job gets you a Sozialversicherungsnummer for life.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "work",
+        "money",
+        "bureaucracy"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "rente",
+        "steuer",
+        "brutto"
+      ]
+    },
+    {
+      "id": "rente",
+      "word": "die Rente",
+      "lemma": "Rente",
+      "translation": "pension",
+      "translations": [
+        "pension",
+        "retirement"
+      ],
+      "level": "A2",
+      "category": "Work & Office",
+      "partOfSpeech": "noun",
+      "frequency": 780,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Renten",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Mein Vater ist seit zwei Jahren in Rente.",
+          "en": "My father has been retired for two years."
+        },
+        {
+          "de": "Von meinem Gehalt geht Geld in die Rente.",
+          "en": "Part of my salary goes into the pension."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Mit 67 Jahren gehen die meisten Menschen in ___.",
+          "answer": "Rente",
+          "en": "Most people retire at 67."
+        }
+      ],
+      "notes": "'in Rente gehen' = to retire.",
+      "mnemonic": null,
+      "germany_context": "Retirement age is 67. Once you have paid in for five years you get a yearly Renteninformation letter estimating your future pension.",
+      "emoji": "👴",
+      "imageable": false,
+      "tags": [
+        "work",
+        "money"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "sozialversicherung",
+        "arbeit"
+      ]
+    },
+    {
+      "id": "arbeitszeit",
+      "word": "die Arbeitszeit",
+      "lemma": "Arbeitszeit",
+      "translation": "working hours",
+      "translations": [
+        "working hours",
+        "working time"
+      ],
+      "level": "A2",
+      "category": "Work & Office",
+      "partOfSpeech": "noun",
+      "frequency": 1000,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Arbeitszeiten",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Meine Arbeitszeit ist von neun bis siebzehn Uhr.",
+          "en": "My working hours are from nine to five."
+        },
+        {
+          "de": "Wir haben flexible Arbeitszeiten.",
+          "en": "We have flexible working hours."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wie lang ist deine ___ pro Woche?",
+          "answer": "Arbeitszeit",
+          "en": "How long are your working hours per week?"
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "A full week is usually 38-40 hours. By law every hour worked must be recorded, and Gleitzeit (flexitime) is common in offices.",
+      "emoji": "🕘",
+      "imageable": false,
+      "tags": [
+        "work",
+        "time"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "vollzeit",
+        "teilzeit",
+        "ueberstunde"
+      ]
+    },
+    {
+      "id": "vollzeit",
+      "word": "die Vollzeit",
+      "lemma": "Vollzeit",
+      "translation": "full-time",
+      "translations": [
+        "full-time"
+      ],
+      "level": "A2",
+      "category": "Work & Office",
+      "partOfSpeech": "noun",
+      "frequency": 1100,
+      "gender": "f",
+      "article": "die",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich arbeite Vollzeit.",
+          "en": "I work full-time."
+        },
+        {
+          "de": "Wir suchen jemanden in Vollzeit.",
+          "en": "We are looking for someone full-time."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Arbeitest du ___ oder Teilzeit?",
+          "answer": "Vollzeit",
+          "en": "Do you work full-time or part-time?"
+        }
+      ],
+      "notes": "Almost always used without an article: 'Vollzeit arbeiten', 'in Vollzeit'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "work",
+        "contract"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "Teilzeit"
+      ],
+      "related": [
+        "teilzeit",
+        "arbeitszeit"
+      ]
+    },
+    {
+      "id": "teilzeit",
+      "word": "die Teilzeit",
+      "lemma": "Teilzeit",
+      "translation": "part-time",
+      "translations": [
+        "part-time"
+      ],
+      "level": "A2",
+      "category": "Work & Office",
+      "partOfSpeech": "noun",
+      "frequency": 1150,
+      "gender": "f",
+      "article": "die",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Nach der Geburt arbeitet sie Teilzeit.",
+          "en": "After the birth she works part-time."
+        },
+        {
+          "de": "Ich suche eine Stelle in Teilzeit.",
+          "en": "I'm looking for a part-time position."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Er arbeitet nur zwanzig Stunden, also ___.",
+          "answer": "Teilzeit",
+          "en": "He only works twenty hours, so part-time."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "In companies with more than 15 employees you have a legal right to ask for reduced hours - many parents use it after Elternzeit.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "work",
+        "contract"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "Vollzeit"
+      ],
+      "related": [
+        "vollzeit",
+        "arbeitszeit"
+      ]
+    },
+    {
+      "id": "ueberstunde",
+      "word": "die Überstunde",
+      "lemma": "Überstunde",
+      "translation": "overtime hour",
+      "translations": [
+        "overtime hour",
+        "overtime"
+      ],
+      "level": "A2",
+      "category": "Work & Office",
+      "partOfSpeech": "noun",
+      "frequency": 1050,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Überstunden",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich habe diese Woche viele Überstunden gemacht.",
+          "en": "I worked a lot of overtime this week."
+        },
+        {
+          "de": "Meine Überstunden bekomme ich als freie Tage zurück.",
+          "en": "I get my overtime back as days off."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Gestern musste ich zwei ___ machen.",
+          "answer": "Überstunden",
+          "en": "Yesterday I had to work two hours of overtime."
+        }
+      ],
+      "notes": "Nearly always plural: 'Überstunden machen'.",
+      "mnemonic": null,
+      "germany_context": "Overtime usually goes onto a Zeitkonto and is taken back as time off (abfeiern) rather than paid out.",
+      "emoji": "⏰",
+      "imageable": false,
+      "tags": [
+        "work",
+        "time"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "arbeitszeit",
+        "feierabend"
+      ]
+    },
+    {
+      "id": "homeoffice",
+      "word": "das Homeoffice",
+      "lemma": "Homeoffice",
+      "translation": "working from home",
+      "translations": [
+        "working from home",
+        "home office"
+      ],
+      "level": "A2",
+      "category": "Work & Office",
+      "partOfSpeech": "noun",
+      "frequency": 850,
+      "gender": "n",
+      "article": "das",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich arbeite zwei Tage pro Woche im Homeoffice.",
+          "en": "I work from home two days a week."
+        },
+        {
+          "de": "Morgen mache ich Homeoffice.",
+          "en": "Tomorrow I'm working from home."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Am Freitag bin ich im ___.",
+          "answer": "Homeoffice",
+          "en": "On Friday I'm working from home."
+        }
+      ],
+      "notes": "False friend: German 'Homeoffice' means working from home, not a room. The room is 'das Arbeitszimmer'.",
+      "mnemonic": null,
+      "germany_context": "Two to three Homeoffice days a week are standard in German tech companies, and days worked from home can be claimed on your tax return.",
+      "emoji": "🏡",
+      "imageable": false,
+      "tags": [
+        "work",
+        "modern"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "buero",
+        "arbeitszeit"
+      ]
+    },
+    {
+      "id": "feierabend",
+      "word": "der Feierabend",
+      "lemma": "Feierabend",
+      "translation": "end of the workday",
+      "translations": [
+        "end of the workday",
+        "quitting time"
+      ],
+      "level": "A2",
+      "category": "Work & Office",
+      "partOfSpeech": "noun",
+      "frequency": 650,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Feierabende",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich habe um fünf Uhr Feierabend.",
+          "en": "I finish work at five."
+        },
+        {
+          "de": "Schönen Feierabend!",
+          "en": "Have a nice evening off!"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Nach ___ trinken wir noch ein Bier.",
+          "answer": "Feierabend",
+          "en": "After work we'll have a beer."
+        }
+      ],
+      "notes": "'Feierabend machen' = to call it a day. There is no real English equivalent.",
+      "mnemonic": null,
+      "germany_context": "Feierabend is close to sacred: mails and calls stop when the day ends. 'Schönen Feierabend!' is the normal goodbye when leaving the office.",
+      "emoji": "🍻",
+      "imageable": false,
+      "tags": [
+        "work",
+        "culture"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "die Arbeit"
+      ],
+      "related": [
+        "arbeit",
+        "ueberstunde",
+        "mittagspause"
+      ]
+    },
+    {
+      "id": "urlaubstag",
+      "word": "der Urlaubstag",
+      "lemma": "Urlaubstag",
+      "translation": "day of holiday",
+      "translations": [
+        "day of holiday",
+        "vacation day"
+      ],
+      "level": "A2",
+      "category": "Work & Office",
+      "partOfSpeech": "noun",
+      "frequency": 1300,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Urlaubstage",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich habe dieses Jahr dreißig Urlaubstage.",
+          "en": "I have thirty holiday days this year."
+        },
+        {
+          "de": "Wie viele Urlaubstage hast du noch?",
+          "en": "How many holiday days do you have left?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich nehme morgen einen ___.",
+          "answer": "Urlaubstag",
+          "en": "I'm taking a day off tomorrow."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Leftover days usually have to be used by 31 March of the following year, otherwise they expire.",
+      "emoji": "📅",
+      "imageable": false,
+      "tags": [
+        "work",
+        "time"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "urlaub",
+        "arbeitszeit"
+      ]
+    },
+    {
+      "id": "kuendigung",
+      "word": "die Kündigung",
+      "lemma": "Kündigung",
+      "translation": "notice of termination",
+      "translations": [
+        "notice of termination",
+        "resignation",
+        "dismissal"
+      ],
+      "level": "A2",
+      "category": "Work & Office",
+      "partOfSpeech": "noun",
+      "frequency": 900,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Kündigungen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich habe meine Kündigung geschrieben.",
+          "en": "I wrote my resignation."
+        },
+        {
+          "de": "Die Kündigung muss schriftlich sein.",
+          "en": "The termination has to be in writing."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Er hat gestern die ___ bekommen.",
+          "answer": "Kündigung",
+          "en": "He got his notice yesterday."
+        }
+      ],
+      "notes": "Same word for quitting and being let go; also used for cancelling a contract or a flat.",
+      "mnemonic": null,
+      "germany_context": "A Kündigung needs paper and a real signature - e-mail is not valid. Notice periods are typically one to three months to the end of a month.",
+      "emoji": "📤",
+      "imageable": false,
+      "tags": [
+        "work",
+        "contract"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "arbeitsvertrag",
+        "probezeit",
+        "arbeitslos"
+      ]
+    },
+    {
+      "id": "arbeitslos",
+      "word": "arbeitslos",
+      "lemma": "arbeitslos",
+      "translation": "unemployed",
+      "translations": [
+        "unemployed",
+        "out of work"
+      ],
+      "level": "A2",
+      "category": "Work & Office",
+      "partOfSpeech": "adjective",
+      "frequency": 950,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Er ist seit drei Monaten arbeitslos.",
+          "en": "He has been unemployed for three months."
+        },
+        {
+          "de": "Nach der Kündigung war ich kurz arbeitslos.",
+          "en": "After the termination I was briefly unemployed."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Meine Nachbarin ist zurzeit ___ und sucht eine Stelle.",
+          "answer": "arbeitslos",
+          "en": "My neighbour is currently unemployed and looking for a position."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "If you lose your job you must register as jobseeking (arbeitsuchend melden) at the Agentur für Arbeit within 3 days of getting the notice, or your benefits are cut.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "work",
+        "money"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "berufstätig"
+      ],
+      "related": [
+        "arbeitslosengeld",
+        "arbeitsamt",
+        "kuendigung"
+      ]
+    },
+    {
+      "id": "arbeitslosengeld",
+      "word": "das Arbeitslosengeld",
+      "lemma": "Arbeitslosengeld",
+      "translation": "unemployment benefit",
+      "translations": [
+        "unemployment benefit"
+      ],
+      "level": "A2",
+      "category": "Work & Office",
+      "partOfSpeech": "noun",
+      "frequency": 1400,
+      "gender": "n",
+      "article": "das",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Er bekommt jetzt Arbeitslosengeld.",
+          "en": "He now receives unemployment benefit."
+        },
+        {
+          "de": "Das Arbeitslosengeld muss man beantragen.",
+          "en": "You have to apply for unemployment benefit."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ohne Antrag gibt es kein ___.",
+          "answer": "Arbeitslosengeld",
+          "en": "Without an application there is no unemployment benefit."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "ALG I is about 60% of your last netto (67% with a child) and requires 12 months of contributions within the last 30 months.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "work",
+        "money",
+        "bureaucracy"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "arbeitslos",
+        "arbeitsamt"
+      ]
+    },
+    {
+      "id": "arbeitsamt",
+      "word": "das Arbeitsamt",
+      "lemma": "Arbeitsamt",
+      "translation": "job centre",
+      "translations": [
+        "job centre",
+        "employment office"
+      ],
+      "level": "A2",
+      "category": "Work & Office",
+      "partOfSpeech": "noun",
+      "frequency": 1200,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Arbeitsämter",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich habe einen Termin beim Arbeitsamt.",
+          "en": "I have an appointment at the job centre."
+        },
+        {
+          "de": "Das Arbeitsamt hilft bei der Jobsuche.",
+          "en": "The job centre helps with the job search."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Sie muss sich beim ___ melden.",
+          "answer": "Arbeitsamt",
+          "en": "She has to register at the job centre."
+        }
+      ],
+      "notes": "Everyday name; the official name today is 'die Agentur für Arbeit'.",
+      "mnemonic": null,
+      "germany_context": "The Agentur für Arbeit also funds German courses and retraining with a Bildungsgutschein. Everything runs by Termin - bring your ID and all letters.",
+      "emoji": "🏛️",
+      "imageable": false,
+      "tags": [
+        "work",
+        "bureaucracy"
+      ],
+      "synonyms": [
+        "die Agentur für Arbeit"
+      ],
+      "antonyms": [],
+      "related": [
+        "arbeitslos",
+        "arbeitslosengeld"
+      ]
+    },
+    {
+      "id": "betriebsrat",
+      "word": "der Betriebsrat",
+      "lemma": "Betriebsrat",
+      "translation": "works council",
+      "translations": [
+        "works council"
+      ],
+      "level": "A2",
+      "category": "Work & Office",
+      "partOfSpeech": "noun",
+      "frequency": 1650,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Betriebsräte",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Betriebsrat hilft den Mitarbeitern.",
+          "en": "The works council helps the employees."
+        },
+        {
+          "de": "Wir haben einen neuen Betriebsrat gewählt.",
+          "en": "We elected a new works council."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Bei Problemen mit dem Vertrag frag den ___.",
+          "answer": "Betriebsrat",
+          "en": "If there are problems with the contract, ask the works council."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Works councils are elected by staff and have real legal power over hours, overtime and dismissals - a free and confidential first stop for any workplace problem.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "work",
+        "culture"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "mitarbeiter",
+        "kuendigung"
+      ]
+    },
+    {
+      "id": "gehaltsabrechnung",
+      "word": "die Gehaltsabrechnung",
+      "lemma": "Gehaltsabrechnung",
+      "translation": "payslip",
+      "translations": [
+        "payslip",
+        "pay statement"
+      ],
+      "level": "A2",
+      "category": "Work & Office",
+      "partOfSpeech": "noun",
+      "frequency": 1500,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Gehaltsabrechnungen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Gehaltsabrechnung kommt jeden Monat per E-Mail.",
+          "en": "The payslip comes by e-mail every month."
+        },
+        {
+          "de": "Auf der Gehaltsabrechnung sieht man alle Abzüge.",
+          "en": "You can see all the deductions on the payslip."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Für die Wohnung brauche ich drei ___.",
+          "answer": "Gehaltsabrechnungen",
+          "en": "For the flat I need three payslips."
+        }
+      ],
+      "notes": "Also 'die Lohnabrechnung' or 'der Gehaltszettel'.",
+      "mnemonic": null,
+      "germany_context": "Landlords and banks routinely ask for your last three payslips. Keep them, plus the yearly Lohnsteuerbescheinigung you need for your tax return.",
+      "emoji": "🧾",
+      "imageable": false,
+      "tags": [
+        "work",
+        "money",
+        "bureaucracy"
+      ],
+      "synonyms": [
+        "die Lohnabrechnung"
+      ],
+      "antonyms": [],
+      "related": [
+        "gehalt",
+        "netto",
+        "steuer"
+      ]
+    },
+    {
+      "id": "buero",
+      "word": "das Büro",
+      "lemma": "Büro",
+      "translation": "office",
+      "translations": [
+        "office"
+      ],
+      "level": "A1",
+      "category": "Work & Office",
+      "partOfSpeech": "noun",
+      "frequency": 280,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Büros",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Mein Büro ist im dritten Stock.",
+          "en": "My office is on the third floor."
+        },
+        {
+          "de": "Ich bin heute nicht im Büro.",
+          "en": "I'm not in the office today."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Um acht Uhr bin ich schon im ___.",
+          "answer": "Büro",
+          "en": "At eight I'm already in the office."
+        }
+      ],
+      "notes": null,
+      "mnemonic": "BÜRO ~ 'bureau' - the office.",
+      "germany_context": null,
+      "emoji": "🏢",
+      "imageable": true,
+      "tags": [
+        "work",
+        "place",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "homeoffice",
+        "besprechung"
+      ]
+    },
+    {
+      "id": "computer",
+      "word": "der Computer",
+      "lemma": "Computer",
+      "translation": "computer",
+      "translations": [
+        "computer"
+      ],
+      "level": "A1",
+      "category": "Work & Office",
+      "partOfSpeech": "noun",
+      "frequency": 240,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Computer",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Mein Computer ist sehr langsam.",
+          "en": "My computer is very slow."
+        },
+        {
+          "de": "Ich arbeite den ganzen Tag am Computer.",
+          "en": "I work at the computer all day."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der ___ startet nicht mehr.",
+          "answer": "Computer",
+          "en": "The computer doesn't start any more."
+        }
+      ],
+      "notes": "Pronounced 'kom-PJU-ter'. Plural looks the same as the singular.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🖥️",
+      "imageable": true,
+      "tags": [
+        "work",
+        "tech"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "laptop",
+        "drucker",
+        "passwort"
+      ]
+    },
+    {
+      "id": "laptop",
+      "word": "der Laptop",
+      "lemma": "Laptop",
+      "translation": "laptop",
+      "translations": [
+        "laptop"
+      ],
+      "level": "A1",
+      "category": "Work & Office",
+      "partOfSpeech": "noun",
+      "frequency": 430,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Laptops",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich nehme meinen Laptop mit ins Büro.",
+          "en": "I'm taking my laptop to the office."
+        },
+        {
+          "de": "Der Laptop von der Firma ist neu.",
+          "en": "The company laptop is new."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Mein ___ hat nur noch zehn Prozent Akku.",
+          "answer": "Laptop",
+          "en": "My laptop only has ten percent battery left."
+        }
+      ],
+      "notes": "'der Laptop' is standard; 'das Laptop' is also heard.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "💻",
+      "imageable": true,
+      "tags": [
+        "work",
+        "tech"
+      ],
+      "synonyms": [
+        "das Notebook"
+      ],
+      "antonyms": [],
+      "related": [
+        "computer",
+        "homeoffice"
+      ]
+    },
+    {
+      "id": "drucker",
+      "word": "der Drucker",
+      "lemma": "Drucker",
+      "translation": "printer",
+      "translations": [
+        "printer"
+      ],
+      "level": "A2",
+      "category": "Work & Office",
+      "partOfSpeech": "noun",
+      "frequency": 800,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Drucker",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Drucker ist schon wieder kaputt.",
+          "en": "The printer is broken again."
+        },
+        {
+          "de": "Wo steht der Drucker?",
+          "en": "Where is the printer?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich hole das Papier aus dem ___.",
+          "answer": "Drucker",
+          "en": "I'm getting the paper out of the printer."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🖨️",
+      "imageable": true,
+      "tags": [
+        "work",
+        "tech"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "drucken",
+        "computer"
+      ]
+    },
+    {
+      "id": "email",
+      "word": "die E-Mail",
+      "lemma": "E-Mail",
+      "translation": "e-mail",
+      "translations": [
+        "e-mail",
+        "email"
+      ],
+      "level": "A1",
+      "category": "Work & Office",
+      "partOfSpeech": "noun",
+      "frequency": 200,
+      "gender": "f",
+      "article": "die",
+      "plural": "die E-Mails",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich schreibe dir gleich eine E-Mail.",
+          "en": "I'll write you an e-mail in a minute."
+        },
+        {
+          "de": "Ich habe deine E-Mail bekommen.",
+          "en": "I got your e-mail."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Er beantwortet jeden Morgen seine ___.",
+          "answer": "E-Mails",
+          "en": "Every morning he answers his e-mails."
+        }
+      ],
+      "notes": "Feminine, and written with a hyphen in German.",
+      "mnemonic": null,
+      "germany_context": "Work e-mails stay formal: 'Sehr geehrte Frau Weber' and 'Mit freundlichen Grüßen' until the other side switches to 'Hallo' and du.",
+      "emoji": "📧",
+      "imageable": false,
+      "tags": [
+        "work",
+        "communication",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "besprechung",
+        "kunde"
+      ]
+    },
+    {
+      "id": "besprechung",
+      "word": "die Besprechung",
+      "lemma": "Besprechung",
+      "translation": "meeting",
+      "translations": [
+        "meeting",
+        "discussion"
+      ],
+      "level": "A2",
+      "category": "Work & Office",
+      "partOfSpeech": "noun",
+      "frequency": 1000,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Besprechungen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Besprechung dauert eine Stunde.",
+          "en": "The meeting lasts an hour."
+        },
+        {
+          "de": "Er ist gerade in einer Besprechung.",
+          "en": "He is in a meeting right now."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Um zehn Uhr haben wir eine kurze ___.",
+          "answer": "Besprechung",
+          "en": "At ten we have a short meeting."
+        }
+      ],
+      "notes": "The German word for a meeting; 'Meeting' is just as common in offices.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🗣️",
+      "imageable": false,
+      "tags": [
+        "work",
+        "office"
+      ],
+      "synonyms": [
+        "das Meeting"
+      ],
+      "antonyms": [],
+      "related": [
+        "meeting",
+        "praesentation"
+      ]
+    },
+    {
+      "id": "meeting",
+      "word": "das Meeting",
+      "lemma": "Meeting",
+      "translation": "meeting",
+      "translations": [
+        "meeting"
+      ],
+      "level": "A2",
+      "category": "Work & Office",
+      "partOfSpeech": "noun",
+      "frequency": 750,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Meetings",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Das Meeting beginnt um neun.",
+          "en": "The meeting starts at nine."
+        },
+        {
+          "de": "Wir haben heute drei Meetings.",
+          "en": "We have three meetings today."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Kannst du das ___ auf morgen verschieben?",
+          "answer": "Meeting",
+          "en": "Can you move the meeting to tomorrow?"
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Meetings start punctually and end on time; small talk is short and people come straight to the point.",
+      "emoji": "📆",
+      "imageable": false,
+      "tags": [
+        "work",
+        "office"
+      ],
+      "synonyms": [
+        "die Besprechung"
+      ],
+      "antonyms": [],
+      "related": [
+        "besprechung",
+        "team"
+      ]
+    },
+    {
+      "id": "praesentation",
+      "word": "die Präsentation",
+      "lemma": "Präsentation",
+      "translation": "presentation",
+      "translations": [
+        "presentation"
+      ],
+      "level": "A2",
+      "category": "Work & Office",
+      "partOfSpeech": "noun",
+      "frequency": 1200,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Präsentationen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Meine Präsentation ist fast fertig.",
+          "en": "My presentation is almost finished."
+        },
+        {
+          "de": "Die Präsentation war sehr gut.",
+          "en": "The presentation was very good."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Morgen halte ich eine ___ für die Kunden.",
+          "answer": "Präsentation",
+          "en": "Tomorrow I'm giving a presentation for the clients."
+        }
+      ],
+      "notes": "'eine Präsentation halten' = to give a presentation.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "📊",
+      "imageable": false,
+      "tags": [
+        "work",
+        "office"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "besprechung",
+        "projekt"
+      ]
+    },
+    {
+      "id": "projekt",
+      "word": "das Projekt",
+      "lemma": "Projekt",
+      "translation": "project",
+      "translations": [
+        "project"
+      ],
+      "level": "A2",
+      "category": "Work & Office",
+      "partOfSpeech": "noun",
+      "frequency": 480,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Projekte",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich arbeite an einem neuen Projekt.",
+          "en": "I'm working on a new project."
+        },
+        {
+          "de": "Das Projekt ist fast fertig.",
+          "en": "The project is almost finished."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Unser ___ dauert noch drei Monate.",
+          "answer": "Projekt",
+          "en": "Our project will take another three months."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "📁",
+      "imageable": false,
+      "tags": [
+        "work",
+        "office"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "aufgabe",
+        "frist",
+        "team"
+      ]
+    },
+    {
+      "id": "frist",
+      "word": "die Frist",
+      "lemma": "Frist",
+      "translation": "deadline",
+      "translations": [
+        "deadline",
+        "time limit"
+      ],
+      "level": "A2",
+      "category": "Work & Office",
+      "partOfSpeech": "noun",
+      "frequency": 1250,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Fristen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Frist ist am Freitag.",
+          "en": "The deadline is on Friday."
+        },
+        {
+          "de": "Wir müssen die Frist einhalten.",
+          "en": "We have to meet the deadline."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Die ___ für die Bewerbung endet morgen.",
+          "answer": "Frist",
+          "en": "The deadline for the application ends tomorrow."
+        }
+      ],
+      "notes": "At work you also hear the English 'Deadline'; 'Frist' is the official word.",
+      "mnemonic": null,
+      "germany_context": "Fristen are taken literally here - Kündigungsfrist, Widerrufsfrist, tax deadlines. Miss one and it is usually simply over, no negotiation.",
+      "emoji": "⌛",
+      "imageable": false,
+      "tags": [
+        "work",
+        "time",
+        "bureaucracy"
+      ],
+      "synonyms": [
+        "die Deadline"
+      ],
+      "antonyms": [],
+      "related": [
+        "projekt",
+        "aufgabe"
+      ]
+    },
+    {
+      "id": "team",
+      "word": "das Team",
+      "lemma": "Team",
+      "translation": "team",
+      "translations": [
+        "team"
+      ],
+      "level": "A1",
+      "category": "Work & Office",
+      "partOfSpeech": "noun",
+      "frequency": 520,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Teams",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Unser Team hat sechs Leute.",
+          "en": "Our team has six people."
+        },
+        {
+          "de": "Ich arbeite gern im Team.",
+          "en": "I like working in a team."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Willkommen im ___!",
+          "answer": "Team",
+          "en": "Welcome to the team!"
+        }
+      ],
+      "notes": "Pronounced like English 'team', but neuter.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "👥",
+      "imageable": false,
+      "tags": [
+        "work",
+        "office"
+      ],
+      "synonyms": [
+        "die Gruppe"
+      ],
+      "antonyms": [],
+      "related": [
+        "mitarbeiter",
+        "abteilung"
+      ]
+    },
+    {
+      "id": "vorgesetzte",
+      "word": "der Vorgesetzte",
+      "lemma": "Vorgesetzte",
+      "translation": "superior",
+      "translations": [
+        "superior",
+        "line manager",
+        "boss"
+      ],
+      "level": "A2",
+      "category": "Work & Office",
+      "partOfSpeech": "noun",
+      "frequency": 1400,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Vorgesetzten",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Mein Vorgesetzter heißt Herr Weber.",
+          "en": "My line manager's name is Mr Weber."
+        },
+        {
+          "de": "Ich muss das mit meiner Vorgesetzten besprechen.",
+          "en": "I have to discuss that with my line manager."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Fragen Sie bitte Ihren ___.",
+          "answer": "Vorgesetzten",
+          "en": "Please ask your line manager."
+        }
+      ],
+      "notes": "Adjectival noun: 'der Vorgesetzte' but 'mein Vorgesetzter'. Formal word for Chef; female: die Vorgesetzte.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "work",
+        "people"
+      ],
+      "synonyms": [
+        "der Chef"
+      ],
+      "antonyms": [],
+      "related": [
+        "mitarbeiter",
+        "abteilung"
+      ]
+    },
+    {
+      "id": "mitarbeiter",
+      "word": "der Mitarbeiter",
+      "lemma": "Mitarbeiter",
+      "translation": "employee",
+      "translations": [
+        "employee",
+        "staff member"
+      ],
+      "level": "A2",
+      "category": "Work & Office",
+      "partOfSpeech": "noun",
+      "frequency": 880,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Mitarbeiter",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Firma hat zweihundert Mitarbeiter.",
+          "en": "The company has two hundred employees."
+        },
+        {
+          "de": "Er ist ein neuer Mitarbeiter in unserer Abteilung.",
+          "en": "He is a new employee in our department."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Alle ___ bekommen einen Schlüssel.",
+          "answer": "Mitarbeiter",
+          "en": "All employees get a key."
+        }
+      ],
+      "notes": "Female: die Mitarbeiterin. Literally 'someone who works along with you'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "work",
+        "people"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "team",
+        "vorgesetzte",
+        "abteilung"
+      ]
+    },
+    {
+      "id": "abteilung",
+      "word": "die Abteilung",
+      "lemma": "Abteilung",
+      "translation": "department",
+      "translations": [
+        "department"
+      ],
+      "level": "A2",
+      "category": "Work & Office",
+      "partOfSpeech": "noun",
+      "frequency": 1000,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Abteilungen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich arbeite in der IT-Abteilung.",
+          "en": "I work in the IT department."
+        },
+        {
+          "de": "Welche Abteilung ist dafür zuständig?",
+          "en": "Which department is responsible for that?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Unsere ___ hat zwölf Mitarbeiter.",
+          "answer": "Abteilung",
+          "en": "Our department has twelve employees."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "work",
+        "office"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "team",
+        "firma",
+        "mitarbeiter"
+      ]
+    },
+    {
+      "id": "firma",
+      "word": "die Firma",
+      "lemma": "Firma",
+      "translation": "company",
+      "translations": [
+        "company",
+        "firm"
+      ],
+      "level": "A1",
+      "category": "Work & Office",
+      "partOfSpeech": "noun",
+      "frequency": 290,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Firmen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Meine Firma ist in Hamburg.",
+          "en": "My company is in Hamburg."
+        },
+        {
+          "de": "Die Firma sucht neue Leute.",
+          "en": "The company is looking for new people."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich arbeite seit zwei Jahren bei dieser ___.",
+          "answer": "Firma",
+          "en": "I have worked at this company for two years."
+        }
+      ],
+      "notes": "Irregular plural: die Firmen.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🏢",
+      "imageable": false,
+      "tags": [
+        "work",
+        "essential"
+      ],
+      "synonyms": [
+        "das Unternehmen"
+      ],
+      "antonyms": [],
+      "related": [
+        "unternehmen",
+        "betrieb"
+      ]
+    },
+    {
+      "id": "unternehmen",
+      "word": "das Unternehmen",
+      "lemma": "Unternehmen",
+      "translation": "company",
+      "translations": [
+        "company",
+        "enterprise"
+      ],
+      "level": "A2",
+      "category": "Work & Office",
+      "partOfSpeech": "noun",
+      "frequency": 900,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Unternehmen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Das Unternehmen hat fünftausend Mitarbeiter.",
+          "en": "The company has five thousand employees."
+        },
+        {
+          "de": "Er arbeitet für ein großes Unternehmen.",
+          "en": "He works for a large company."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Unser ___ verkauft Software.",
+          "answer": "Unternehmen",
+          "en": "Our company sells software."
+        }
+      ],
+      "notes": "More formal than 'Firma'. Plural is identical to the singular.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "work",
+        "business"
+      ],
+      "synonyms": [
+        "die Firma"
+      ],
+      "antonyms": [],
+      "related": [
+        "firma",
+        "betrieb"
+      ]
+    },
+    {
+      "id": "betrieb",
+      "word": "der Betrieb",
+      "lemma": "Betrieb",
+      "translation": "business",
+      "translations": [
+        "business",
+        "company",
+        "plant"
+      ],
+      "level": "A2",
+      "category": "Work & Office",
+      "partOfSpeech": "noun",
+      "frequency": 1450,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Betriebe",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Mein Onkel hat einen kleinen Betrieb.",
+          "en": "My uncle has a small business."
+        },
+        {
+          "de": "Der Betrieb macht im August zwei Wochen zu.",
+          "en": "The business closes for two weeks in August."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "In diesem ___ arbeiten nur zehn Leute.",
+          "answer": "Betrieb",
+          "en": "Only ten people work in this business."
+        }
+      ],
+      "notes": "Often a craft or production business. 'in Betrieb' also means 'in operation'.",
+      "mnemonic": null,
+      "germany_context": "Small Betriebe often close completely for Betriebsferien in summer or between Christmas and New Year - plan repairs and appointments around it.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "work",
+        "business"
+      ],
+      "synonyms": [
+        "die Firma"
+      ],
+      "antonyms": [],
+      "related": [
+        "firma",
+        "handwerker"
+      ]
+    },
+    {
+      "id": "kunde",
+      "word": "der Kunde",
+      "lemma": "Kunde",
+      "translation": "customer",
+      "translations": [
+        "customer",
+        "client"
+      ],
+      "level": "A2",
+      "category": "Work & Office",
+      "partOfSpeech": "noun",
+      "frequency": 380,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Kunden",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Kunde wartet am Telefon.",
+          "en": "The customer is waiting on the phone."
+        },
+        {
+          "de": "Wir haben viele Kunden in Deutschland.",
+          "en": "We have a lot of customers in Germany."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich schreibe dem ___ eine E-Mail.",
+          "answer": "Kunden",
+          "en": "I'm writing the customer an e-mail."
+        }
+      ],
+      "notes": "N-noun: den/dem/des Kunden in every case except the nominative singular. Female: die Kundin.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🙋",
+      "imageable": false,
+      "tags": [
+        "work",
+        "people"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "firma",
+        "email"
+      ]
+    },
+    {
+      "id": "mittagspause",
+      "word": "die Mittagspause",
+      "lemma": "Mittagspause",
+      "translation": "lunch break",
+      "translations": [
+        "lunch break"
+      ],
+      "level": "A1",
+      "category": "Work & Office",
+      "partOfSpeech": "noun",
+      "frequency": 650,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Mittagspausen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich mache um zwölf Uhr Mittagspause.",
+          "en": "I take my lunch break at twelve."
+        },
+        {
+          "de": "Die Mittagspause dauert dreißig Minuten.",
+          "en": "The lunch break lasts thirty minutes."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Er ist gerade in der ___.",
+          "answer": "Mittagspause",
+          "en": "He is on his lunch break right now."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Offices break between 12 and 13. Colleagues eat together in the Kantine or at a nearby Mittagstisch, and by law you get 30 minutes after 6 hours of work.",
+      "emoji": "🍽️",
+      "imageable": false,
+      "tags": [
+        "work",
+        "time"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "feierabend",
+        "arbeitszeit"
+      ]
+    },
+    {
+      "id": "azubi",
+      "word": "der Azubi",
+      "lemma": "Azubi",
+      "translation": "apprentice",
+      "translations": [
+        "apprentice",
+        "trainee"
+      ],
+      "level": "A2",
+      "category": "Work & Office",
+      "partOfSpeech": "noun",
+      "frequency": 1700,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Azubis",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Unser Azubi ist erst siebzehn.",
+          "en": "Our apprentice is only seventeen."
+        },
+        {
+          "de": "Die Firma sucht zwei Azubis.",
+          "en": "The company is looking for two apprentices."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der neue ___ lernt sehr schnell.",
+          "answer": "Azubi",
+          "en": "The new apprentice learns very fast."
+        }
+      ],
+      "notes": "Short for 'Auszubildender'. Same word for women: die Azubi.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "work",
+        "people",
+        "education"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "ausbildung",
+        "mitarbeiter"
+      ]
+    },
+    {
+      "id": "ingenieur",
+      "word": "der Ingenieur",
+      "lemma": "Ingenieur",
+      "translation": "engineer",
+      "translations": [
+        "engineer"
+      ],
+      "level": "A2",
+      "category": "Work & Office",
+      "partOfSpeech": "noun",
+      "frequency": 900,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Ingenieure",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Mein Bruder ist Ingenieur bei einer Autofirma.",
+          "en": "My brother is an engineer at a car company."
+        },
+        {
+          "de": "Die Firma sucht Ingenieure.",
+          "en": "The company is looking for engineers."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Er arbeitet als ___ in Stuttgart.",
+          "answer": "Ingenieur",
+          "en": "He works as an engineer in Stuttgart."
+        }
+      ],
+      "notes": "No article after 'als' or 'sein': 'Ich bin Ingenieur.' Female: die Ingenieurin. Pronounced 'in-zhe-NIÖR'.",
+      "mnemonic": null,
+      "germany_context": "'Ingenieur' is a protected title in Germany and sits on the shortage-occupation list, which makes visas and job offers easier.",
+      "emoji": "⚙️",
+      "imageable": true,
+      "tags": [
+        "work",
+        "profession"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "entwickler",
+        "beruf"
+      ]
+    },
+    {
+      "id": "entwickler",
+      "word": "der Entwickler",
+      "lemma": "Entwickler",
+      "translation": "developer",
+      "translations": [
+        "developer"
+      ],
+      "level": "A2",
+      "category": "Work & Office",
+      "partOfSpeech": "noun",
+      "frequency": 1000,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Entwickler",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich arbeite als Entwickler bei einem Start-up.",
+          "en": "I work as a developer at a start-up."
+        },
+        {
+          "de": "Wir suchen zwei neue Entwickler für das Team.",
+          "en": "We're looking for two new developers for the team."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Als ___ programmiere ich jeden Tag.",
+          "answer": "Entwickler",
+          "en": "As a developer I write code every day."
+        }
+      ],
+      "notes": "Female: die Entwicklerin. Software people are 'Softwareentwickler'.",
+      "mnemonic": null,
+      "germany_context": "German tech ads say 'Softwareentwickler (m/w/d)' - the (m/w/d) is a legal requirement, not a typo, and many teams work in English.",
+      "emoji": "👨‍💻",
+      "imageable": true,
+      "tags": [
+        "work",
+        "profession",
+        "tech"
+      ],
+      "synonyms": [
+        "der Programmierer"
+      ],
+      "antonyms": [],
+      "related": [
+        "programmieren",
+        "ingenieur"
+      ]
+    },
+    {
+      "id": "verkaeufer",
+      "word": "der Verkäufer",
+      "lemma": "Verkäufer",
+      "translation": "salesperson",
+      "translations": [
+        "salesperson",
+        "shop assistant"
+      ],
+      "level": "A1",
+      "category": "Work & Office",
+      "partOfSpeech": "noun",
+      "frequency": 700,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Verkäufer",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Verkäufer war sehr freundlich.",
+          "en": "The shop assistant was very friendly."
+        },
+        {
+          "de": "Frag den Verkäufer nach der Größe.",
+          "en": "Ask the shop assistant about the size."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Die ___ im Supermarkt haben viel zu tun.",
+          "answer": "Verkäufer",
+          "en": "The shop assistants in the supermarket have a lot to do."
+        }
+      ],
+      "notes": "Female: die Verkäuferin.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🛍️",
+      "imageable": true,
+      "tags": [
+        "work",
+        "profession"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "kunde",
+        "beruf"
+      ]
+    },
+    {
+      "id": "handwerker",
+      "word": "der Handwerker",
+      "lemma": "Handwerker",
+      "translation": "tradesman",
+      "translations": [
+        "tradesman",
+        "handyman",
+        "craftsman"
+      ],
+      "level": "A2",
+      "category": "Work & Office",
+      "partOfSpeech": "noun",
+      "frequency": 850,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Handwerker",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Handwerker kommt morgen um acht.",
+          "en": "The tradesman is coming tomorrow at eight."
+        },
+        {
+          "de": "Wir warten seit einer Woche auf den Handwerker.",
+          "en": "We've been waiting for the tradesman for a week."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Gute ___ sind in Deutschland schwer zu bekommen.",
+          "answer": "Handwerker",
+          "en": "Good tradesmen are hard to get in Germany."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Tradespeople are booked out for weeks and mostly work weekday mornings. In a rented flat call the Hausmeister or Vermieter first - they usually order and pay.",
+      "emoji": "🔨",
+      "imageable": true,
+      "tags": [
+        "work",
+        "profession",
+        "home"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "elektriker",
+        "klempner",
+        "betrieb"
+      ]
+    },
+    {
+      "id": "elektriker",
+      "word": "der Elektriker",
+      "lemma": "Elektriker",
+      "translation": "electrician",
+      "translations": [
+        "electrician"
+      ],
+      "level": "A2",
+      "category": "Work & Office",
+      "partOfSpeech": "noun",
+      "frequency": 1300,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Elektriker",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Elektriker repariert die Lampe.",
+          "en": "The electrician is repairing the lamp."
+        },
+        {
+          "de": "Ich brauche einen Elektriker für die Steckdose.",
+          "en": "I need an electrician for the socket."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der ___ war schnell fertig.",
+          "answer": "Elektriker",
+          "en": "The electrician was done quickly."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "💡",
+      "imageable": true,
+      "tags": [
+        "work",
+        "profession",
+        "home"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "handwerker",
+        "klempner"
+      ]
+    },
+    {
+      "id": "klempner",
+      "word": "der Klempner",
+      "lemma": "Klempner",
+      "translation": "plumber",
+      "translations": [
+        "plumber"
+      ],
+      "level": "A2",
+      "category": "Work & Office",
+      "partOfSpeech": "noun",
+      "frequency": 1600,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Klempner",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Klempner kommt wegen der Dusche.",
+          "en": "The plumber is coming about the shower."
+        },
+        {
+          "de": "Wir brauchen dringend einen Klempner.",
+          "en": "We urgently need a plumber."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der ___ repariert den Wasserhahn.",
+          "answer": "Klempner",
+          "en": "The plumber is fixing the tap."
+        }
+      ],
+      "notes": "Also 'der Installateur'; in southern Germany 'der Spengler'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🚿",
+      "imageable": true,
+      "tags": [
+        "work",
+        "profession",
+        "home"
+      ],
+      "synonyms": [
+        "der Installateur"
+      ],
+      "antonyms": [],
+      "related": [
+        "handwerker",
+        "elektriker"
+      ]
+    },
+    {
+      "id": "fahrer",
+      "word": "der Fahrer",
+      "lemma": "Fahrer",
+      "translation": "driver",
+      "translations": [
+        "driver"
+      ],
+      "level": "A2",
+      "category": "Work & Office",
+      "partOfSpeech": "noun",
+      "frequency": 950,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Fahrer",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Fahrer wartet vor dem Haus.",
+          "en": "The driver is waiting in front of the house."
+        },
+        {
+          "de": "Er arbeitet als Fahrer bei einem Paketdienst.",
+          "en": "He works as a driver for a parcel service."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der ___ vom Bus war sehr nett.",
+          "answer": "Fahrer",
+          "en": "The bus driver was very nice."
+        }
+      ],
+      "notes": "Female: die Fahrerin. From 'fahren'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🚚",
+      "imageable": true,
+      "tags": [
+        "work",
+        "profession"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "beruf"
+      ]
+    },
+    {
+      "id": "beamte",
+      "word": "der Beamte",
+      "lemma": "Beamte",
+      "translation": "civil servant",
+      "translations": [
+        "civil servant",
+        "official"
+      ],
+      "level": "A2",
+      "category": "Work & Office",
+      "partOfSpeech": "noun",
+      "frequency": 1500,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Beamten",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Mein Nachbar ist Beamter bei der Stadt.",
+          "en": "My neighbour is a civil servant at the city."
+        },
+        {
+          "de": "Die Beamten im Amt sind sehr genau.",
+          "en": "The officials at the authority are very precise."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ein ___ hat mir das Formular erklärt.",
+          "answer": "Beamter",
+          "en": "An official explained the form to me."
+        }
+      ],
+      "notes": "Adjectival noun: 'der Beamte' but 'ein Beamter'. Female: die Beamtin.",
+      "mnemonic": null,
+      "germany_context": "Beamte are tenured civil servants - the people behind the counter at the Bürgeramt, Ausländerbehörde and Finanzamt. Bring every document; they follow the rules exactly.",
+      "emoji": "🏛️",
+      "imageable": false,
+      "tags": [
+        "work",
+        "profession",
+        "bureaucracy"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "arbeitsamt",
+        "beruf"
+      ]
+    },
+    {
+      "id": "anwalt",
+      "word": "der Anwalt",
+      "lemma": "Anwalt",
+      "translation": "lawyer",
+      "translations": [
+        "lawyer",
+        "attorney"
+      ],
+      "level": "A2",
+      "category": "Work & Office",
+      "partOfSpeech": "noun",
+      "frequency": 1050,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Anwälte",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich brauche einen Anwalt für den Vertrag.",
+          "en": "I need a lawyer for the contract."
+        },
+        {
+          "de": "Mein Anwalt ruft dich morgen an.",
+          "en": "My lawyer will call you tomorrow."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Sie hat mit ihrem ___ gesprochen.",
+          "answer": "Anwalt",
+          "en": "She spoke with her lawyer."
+        }
+      ],
+      "notes": "Full form 'der Rechtsanwalt'. Female: die Anwältin.",
+      "mnemonic": null,
+      "germany_context": "Legal insurance (Rechtsschutzversicherung) is common here. Without it, a first consultation is capped by law at around 190 € plus VAT.",
+      "emoji": "⚖️",
+      "imageable": false,
+      "tags": [
+        "work",
+        "profession"
+      ],
+      "synonyms": [
+        "der Rechtsanwalt"
+      ],
+      "antonyms": [],
+      "related": [
+        "arbeitsvertrag",
+        "kuendigung"
+      ]
+    },
+    {
+      "id": "einstellen",
+      "word": "einstellen",
+      "lemma": "einstellen",
+      "translation": "to hire",
+      "translations": [
+        "to hire",
+        "to employ"
+      ],
+      "level": "A2",
+      "category": "Work & Office",
+      "partOfSpeech": "verb",
+      "frequency": 1200,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "stelle ein",
+        "du": "stellst ein",
+        "er": "stellt ein",
+        "wir": "stellen ein",
+        "ihr": "stellt ein",
+        "sie": "stellen ein",
+        "praeteritum": "stellte ein",
+        "perfekt": "hat eingestellt",
+        "imperativ": "stell ein!"
+      },
+      "example_sentences": [
+        {
+          "de": "Die Firma stellt zehn neue Leute ein.",
+          "en": "The company is hiring ten new people."
+        },
+        {
+          "de": "Sie haben mich sofort eingestellt.",
+          "en": "They hired me right away."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wir ___ im Sommer zwei Entwickler ein.",
+          "answer": "stellen",
+          "en": "We're hiring two developers in the summer."
+        }
+      ],
+      "notes": "Separable. Also means 'to adjust/set' (die Heizung einstellen).",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "work",
+        "verb"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "entlassen"
+      ],
+      "related": [
+        "entlassen",
+        "stelle",
+        "bewerbung"
+      ]
+    },
+    {
+      "id": "entlassen",
+      "word": "entlassen",
+      "lemma": "entlassen",
+      "translation": "to dismiss",
+      "translations": [
+        "to dismiss",
+        "to fire",
+        "to lay off"
+      ],
+      "level": "A2",
+      "category": "Work & Office",
+      "partOfSpeech": "verb",
+      "frequency": 1600,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "entlasse",
+        "du": "entlässt",
+        "er": "entlässt",
+        "wir": "entlassen",
+        "ihr": "entlasst",
+        "sie": "entlassen",
+        "praeteritum": "entließ",
+        "perfekt": "hat entlassen",
+        "imperativ": "entlass!"
+      },
+      "example_sentences": [
+        {
+          "de": "Die Firma hat zwanzig Mitarbeiter entlassen.",
+          "en": "The company laid off twenty employees."
+        },
+        {
+          "de": "Er wurde nach der Probezeit entlassen.",
+          "en": "He was dismissed after the probation period."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Chef ___ niemanden ohne Grund.",
+          "answer": "entlässt",
+          "en": "The boss doesn't fire anyone without a reason."
+        }
+      ],
+      "notes": "Irregular: du/er entlässt, Perfekt 'hat entlassen' (no ge-). Also 'to discharge' from hospital.",
+      "mnemonic": null,
+      "germany_context": "Firing is hard here: after 6 months in a company with more than 10 staff the Kündigungsschutz applies and a dismissal needs a legal reason.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "work",
+        "verb"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "einstellen"
+      ],
+      "related": [
+        "einstellen",
+        "kuendigung"
+      ]
+    },
+    {
+      "id": "leiten",
+      "word": "leiten",
+      "lemma": "leiten",
+      "translation": "to lead",
+      "translations": [
+        "to lead",
+        "to manage",
+        "to run"
+      ],
+      "level": "A2",
+      "category": "Work & Office",
+      "partOfSpeech": "verb",
+      "frequency": 1350,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "leite",
+        "du": "leitest",
+        "er": "leitet",
+        "wir": "leiten",
+        "ihr": "leitet",
+        "sie": "leiten",
+        "praeteritum": "leitete",
+        "perfekt": "hat geleitet",
+        "imperativ": "leite!"
+      },
+      "example_sentences": [
+        {
+          "de": "Sie leitet unsere Abteilung.",
+          "en": "She runs our department."
+        },
+        {
+          "de": "Wer leitet das Projekt?",
+          "en": "Who is leading the project?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Herr Klein ___ die Besprechung.",
+          "answer": "leitet",
+          "en": "Mr Klein is chairing the meeting."
+        }
+      ],
+      "notes": "Regular, but the stem ends in -t, so you get 'du leitest', 'er leitet'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "work",
+        "verb"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "vorgesetzte",
+        "projekt",
+        "abteilung"
+      ]
+    },
+    {
+      "id": "erledigen",
+      "word": "erledigen",
+      "lemma": "erledigen",
+      "translation": "to take care of",
+      "translations": [
+        "to take care of",
+        "to get done",
+        "to deal with"
+      ],
+      "level": "A2",
+      "category": "Work & Office",
+      "partOfSpeech": "verb",
+      "frequency": 1100,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "erledige",
+        "du": "erledigst",
+        "er": "erledigt",
+        "wir": "erledigen",
+        "ihr": "erledigt",
+        "sie": "erledigen",
+        "praeteritum": "erledigte",
+        "perfekt": "hat erledigt",
+        "imperativ": "erledige!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich erledige das heute noch.",
+          "en": "I'll take care of that today."
+        },
+        {
+          "de": "Alle Aufgaben sind erledigt.",
+          "en": "All the tasks are done."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Kannst du das bitte bis Freitag ___?",
+          "answer": "erledigen",
+          "en": "Can you please get that done by Friday?"
+        }
+      ],
+      "notes": "'Das ist erledigt' = 'that's sorted' - very common at work and at the Amt.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "work",
+        "verb"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "aufgabe",
+        "frist"
+      ]
+    },
+    {
+      "id": "drucken",
+      "word": "drucken",
+      "lemma": "drucken",
+      "translation": "to print",
+      "translations": [
+        "to print"
+      ],
+      "level": "A2",
+      "category": "Work & Office",
+      "partOfSpeech": "verb",
+      "frequency": 1300,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "drucke",
+        "du": "druckst",
+        "er": "druckt",
+        "wir": "drucken",
+        "ihr": "druckt",
+        "sie": "drucken",
+        "praeteritum": "druckte",
+        "perfekt": "hat gedruckt",
+        "imperativ": "druck!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich drucke die Dokumente für die Besprechung.",
+          "en": "I'm printing the documents for the meeting."
+        },
+        {
+          "de": "Der Drucker druckt nicht mehr.",
+          "en": "The printer doesn't print any more."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Bitte ___ Sie das Formular zweimal.",
+          "answer": "drucken",
+          "en": "Please print the form twice."
+        }
+      ],
+      "notes": "For printing something out you usually say 'ausdrucken'. Do not confuse it with 'drücken' (to press).",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🖨️",
+      "imageable": false,
+      "tags": [
+        "work",
+        "verb",
+        "office"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "drucker",
+        "passwort"
+      ]
+    },
+    {
+      "id": "planen",
+      "word": "planen",
+      "lemma": "planen",
+      "translation": "to plan",
+      "translations": [
+        "to plan"
+      ],
+      "level": "A2",
+      "category": "Work & Office",
+      "partOfSpeech": "verb",
+      "frequency": 640,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "plane",
+        "du": "planst",
+        "er": "plant",
+        "wir": "planen",
+        "ihr": "plant",
+        "sie": "planen",
+        "praeteritum": "plante",
+        "perfekt": "hat geplant",
+        "imperativ": "plan!"
+      },
+      "example_sentences": [
+        {
+          "de": "Wir planen das Projekt für nächstes Jahr.",
+          "en": "We are planning the project for next year."
+        },
+        {
+          "de": "Hast du deinen Urlaub schon geplant?",
+          "en": "Have you already planned your holiday?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich ___ die Reise für Mai.",
+          "answer": "plane",
+          "en": "I'm planning the trip for May."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Germans plan far ahead: holidays, visits and Termine are often fixed weeks or months in advance, and spontaneous drop-ins are unusual.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "work",
+        "verb"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "projekt",
+        "urlaub",
+        "frist"
+      ]
+    },
+    {
+      "id": "telefonieren",
+      "word": "telefonieren",
+      "lemma": "telefonieren",
+      "translation": "to talk on the phone",
+      "translations": [
+        "to talk on the phone",
+        "to phone"
+      ],
+      "level": "A1",
+      "category": "Work & Office",
+      "partOfSpeech": "verb",
+      "frequency": 560,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "telefoniere",
+        "du": "telefonierst",
+        "er": "telefoniert",
+        "wir": "telefonieren",
+        "ihr": "telefoniert",
+        "sie": "telefonieren",
+        "praeteritum": "telefonierte",
+        "perfekt": "hat telefoniert",
+        "imperativ": "telefonier!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich telefoniere gerade mit einem Kunden.",
+          "en": "I'm on the phone with a customer right now."
+        },
+        {
+          "de": "Wir haben eine Stunde telefoniert.",
+          "en": "We talked on the phone for an hour."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Mein Chef ___ den ganzen Tag.",
+          "answer": "telefoniert",
+          "en": "My boss is on the phone all day."
+        }
+      ],
+      "notes": "'mit jemandem telefonieren' = to talk to someone on the phone; 'jemanden anrufen' = to call someone.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "📞",
+      "imageable": false,
+      "tags": [
+        "work",
+        "verb",
+        "communication"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "kunde",
+        "email"
+      ]
+    },
+    {
+      "id": "beantragen",
+      "word": "beantragen",
+      "lemma": "beantragen",
+      "translation": "to apply for",
+      "translations": [
+        "to apply for",
+        "to file an application for"
+      ],
+      "level": "A2",
+      "category": "Work & Office",
+      "partOfSpeech": "verb",
+      "frequency": 1250,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "beantrage",
+        "du": "beantragst",
+        "er": "beantragt",
+        "wir": "beantragen",
+        "ihr": "beantragt",
+        "sie": "beantragen",
+        "praeteritum": "beantragte",
+        "perfekt": "hat beantragt",
+        "imperativ": "beantrage!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich beantrage Urlaub für nächste Woche.",
+          "en": "I'm applying for holiday for next week."
+        },
+        {
+          "de": "Er hat Arbeitslosengeld beantragt.",
+          "en": "He applied for unemployment benefit."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Man muss das Kindergeld schriftlich ___.",
+          "answer": "beantragen",
+          "en": "You have to apply for child benefit in writing."
+        }
+      ],
+      "notes": "Used for official applications; 'sich bewerben' is for job applications.",
+      "mnemonic": null,
+      "germany_context": "Nearly everything official must be beantragt on a form: Kindergeld, Elterngeld, Wohngeld, Aufenthaltstitel, even a parking permit. No Antrag, no money.",
+      "emoji": "📝",
+      "imageable": false,
+      "tags": [
+        "work",
+        "verb",
+        "bureaucracy"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "arbeitslosengeld",
+        "arbeitsamt",
+        "urlaub"
+      ]
+    },
+    {
+      "id": "programmieren",
+      "word": "programmieren",
+      "lemma": "programmieren",
+      "translation": "to program",
+      "translations": [
+        "to program",
+        "to code"
+      ],
+      "level": "A2",
+      "category": "Work & Office",
+      "partOfSpeech": "verb",
+      "frequency": 1500,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "programmiere",
+        "du": "programmierst",
+        "er": "programmiert",
+        "wir": "programmieren",
+        "ihr": "programmiert",
+        "sie": "programmieren",
+        "praeteritum": "programmierte",
+        "perfekt": "hat programmiert",
+        "imperativ": "programmier!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich programmiere seit zehn Jahren.",
+          "en": "I have been programming for ten years."
+        },
+        {
+          "de": "Er programmiert eine App für die Firma.",
+          "en": "He is programming an app for the company."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Was ___ du gerade?",
+          "answer": "programmierst",
+          "en": "What are you coding right now?"
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "💻",
+      "imageable": false,
+      "tags": [
+        "work",
+        "verb",
+        "tech"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "entwickler",
+        "computer"
+      ]
+    }
+  ]
+}

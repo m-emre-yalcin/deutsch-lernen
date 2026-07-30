@@ -1,0 +1,2044 @@
+{
+  "category": "Bureaucracy & Officialdom",
+  "words": [
+    {
+      "id": "das-amt",
+      "word": "das Amt",
+      "lemma": "Amt",
+      "translation": "public office",
+      "translations": [
+        "public office",
+        "authority"
+      ],
+      "level": "A1",
+      "category": "Bureaucracy & Officialdom",
+      "partOfSpeech": "noun",
+      "frequency": 620,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Ämter",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "des Amtes"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich muss morgen zum Amt gehen.",
+          "en": "I have to go to the public office tomorrow."
+        },
+        {
+          "de": "Welches Amt ist dafür zuständig?",
+          "en": "Which office is responsible for that?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Das ___ ist nur bis 15 Uhr geöffnet.",
+          "answer": "Amt",
+          "en": "The office is only open until 3 pm."
+        }
+      ],
+      "notes": "Appears at the end of dozens of compound words: Einwohnermeldeamt, Finanzamt, Standesamt, Jugendamt.",
+      "mnemonic": null,
+      "germany_context": "German offices close remarkably early — often 12:00 on Fridays. Check the Öffnungszeiten before you travel across town.",
+      "emoji": "🏛️",
+      "imageable": true,
+      "tags": [
+        "bureaucracy",
+        "essential"
+      ],
+      "synonyms": [
+        "die Behörde"
+      ],
+      "antonyms": [],
+      "related": [
+        "das-buergeramt",
+        "die-behoerde"
+      ]
+    },
+    {
+      "id": "die-behoerde",
+      "word": "die Behörde",
+      "lemma": "Behörde",
+      "translation": "authority",
+      "translations": [
+        "authority",
+        "government agency"
+      ],
+      "level": "A2",
+      "category": "Bureaucracy & Officialdom",
+      "partOfSpeech": "noun",
+      "frequency": 900,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Behörden",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Behörde hat meinen Antrag abgelehnt.",
+          "en": "The authority rejected my application."
+        },
+        {
+          "de": "Er arbeitet bei einer Behörde.",
+          "en": "He works for a government agency."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Die zuständige ___ prüft den Antrag.",
+          "answer": "Behörde",
+          "en": "The responsible authority is reviewing the application."
+        }
+      ],
+      "notes": "-e ending, feminine. More formal and more abstract than 'Amt'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🏢",
+      "imageable": false,
+      "tags": [
+        "bureaucracy"
+      ],
+      "synonyms": [
+        "das Amt"
+      ],
+      "antonyms": [],
+      "related": [
+        "das-amt"
+      ]
+    },
+    {
+      "id": "das-buergeramt",
+      "word": "das Bürgeramt",
+      "lemma": "Bürgeramt",
+      "translation": "citizens' office",
+      "translations": [
+        "citizens' office",
+        "residents' registration office"
+      ],
+      "level": "A1",
+      "category": "Bureaucracy & Officialdom",
+      "partOfSpeech": "noun",
+      "frequency": 640,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Bürgerämter",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich habe einen Termin im Bürgeramt.",
+          "en": "I have an appointment at the citizens' office."
+        },
+        {
+          "de": "Das Bürgeramt ist im Rathaus.",
+          "en": "The citizens' office is in the town hall."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Die Anmeldung machen Sie im ___.",
+          "answer": "Bürgeramt",
+          "en": "You do the registration at the citizens' office."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "This is where you do your Anmeldung, get a Meldebescheinigung and apply for a Personalausweis. Appointments are booked online and can be gone weeks ahead — check the site early in the morning, when cancellations appear.",
+      "emoji": "🏛️",
+      "imageable": false,
+      "tags": [
+        "bureaucracy",
+        "essential"
+      ],
+      "synonyms": [
+        "das Bürgerbüro",
+        "das Einwohnermeldeamt"
+      ],
+      "antonyms": [],
+      "related": [
+        "die-anmeldung",
+        "der-termin-amt"
+      ]
+    },
+    {
+      "id": "die-anmeldung",
+      "word": "die Anmeldung",
+      "lemma": "Anmeldung",
+      "translation": "registration",
+      "translations": [
+        "registration",
+        "registering your address"
+      ],
+      "level": "A1",
+      "category": "Bureaucracy & Officialdom",
+      "partOfSpeech": "noun",
+      "frequency": 600,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Anmeldungen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Anmeldung dauert nur zehn Minuten.",
+          "en": "The registration only takes ten minutes."
+        },
+        {
+          "de": "Ohne Anmeldung bekommen Sie keine Steuer-ID.",
+          "en": "Without registration you won't get a tax ID."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Für die ___ brauchen Sie Ihren Pass.",
+          "answer": "Anmeldung",
+          "en": "For the registration you need your passport."
+        }
+      ],
+      "notes": "-ung ending, so it is always die.",
+      "mnemonic": null,
+      "germany_context": "You must register your address within 14 days of moving in. Almost everything else depends on it: your tax ID, a bank account, a phone contract, health insurance. Do this first.",
+      "emoji": "📋",
+      "imageable": false,
+      "tags": [
+        "bureaucracy",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "die Abmeldung"
+      ],
+      "related": [
+        "anmelden",
+        "die-wohnungsgeberbestaetigung",
+        "das-buergeramt"
+      ]
+    },
+    {
+      "id": "die-meldebescheinigung",
+      "word": "die Meldebescheinigung",
+      "lemma": "Meldebescheinigung",
+      "translation": "certificate of registration",
+      "translations": [
+        "certificate of registration"
+      ],
+      "level": "A2",
+      "category": "Bureaucracy & Officialdom",
+      "partOfSpeech": "noun",
+      "frequency": 1150,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Meldebescheinigungen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Bank will eine Meldebescheinigung sehen.",
+          "en": "The bank wants to see a certificate of registration."
+        },
+        {
+          "de": "Ich habe die Meldebescheinigung sofort bekommen.",
+          "en": "I got the certificate of registration straight away."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Für das Konto brauchen Sie eine ___.",
+          "answer": "Meldebescheinigung",
+          "en": "For the account you need a certificate of registration."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "You get this on the spot when you do your Anmeldung. Keep several copies — banks, employers and insurers all ask for it.",
+      "emoji": "🧾",
+      "imageable": false,
+      "tags": [
+        "bureaucracy",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "die-anmeldung"
+      ]
+    },
+    {
+      "id": "vereinbaren",
+      "word": "vereinbaren",
+      "lemma": "vereinbaren",
+      "translation": "to arrange",
+      "translations": [
+        "to arrange",
+        "to agree on"
+      ],
+      "level": "A2",
+      "category": "Bureaucracy & Officialdom",
+      "partOfSpeech": "verb",
+      "frequency": 950,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "vereinbare",
+        "du": "vereinbarst",
+        "er": "vereinbart",
+        "wir": "vereinbaren",
+        "ihr": "vereinbart",
+        "sie": "vereinbaren",
+        "praeteritum": "vereinbarte",
+        "perfekt": "hat vereinbart",
+        "imperativ": "vereinbare!"
+      },
+      "example_sentences": [
+        {
+          "de": "Können wir einen Termin vereinbaren?",
+          "en": "Can we arrange an appointment?"
+        },
+        {
+          "de": "Wir haben einen Preis vereinbart.",
+          "en": "We agreed on a price."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich möchte einen Termin ___.",
+          "answer": "vereinbaren",
+          "en": "I'd like to arrange an appointment."
+        }
+      ],
+      "notes": "Inseparable — the ver- prefix never detaches, and there is no ge- in the participle: 'hat vereinbart'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🤝",
+      "imageable": false,
+      "tags": [
+        "bureaucracy"
+      ],
+      "synonyms": [
+        "ausmachen"
+      ],
+      "antonyms": [
+        "absagen"
+      ],
+      "related": [
+        "der-termin-amt"
+      ]
+    },
+    {
+      "id": "die-wartenummer",
+      "word": "die Wartenummer",
+      "lemma": "Wartenummer",
+      "translation": "queue number",
+      "translations": [
+        "queue number",
+        "waiting number"
+      ],
+      "level": "A2",
+      "category": "Bureaucracy & Officialdom",
+      "partOfSpeech": "noun",
+      "frequency": 1400,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Wartenummern",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ziehen Sie bitte eine Wartenummer.",
+          "en": "Please take a queue number."
+        },
+        {
+          "de": "Meine Wartenummer ist B42.",
+          "en": "My queue number is B42."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Nehmen Sie am Eingang eine ___.",
+          "answer": "Wartenummer",
+          "en": "Take a queue number at the entrance."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Take a number as soon as you walk in, then watch the screen — your number appears next to a Schalter (counter) number.",
+      "emoji": "🎫",
+      "imageable": true,
+      "tags": [
+        "bureaucracy"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "der-schalter",
+        "der-termin-amt"
+      ]
+    },
+    {
+      "id": "der-schalter",
+      "word": "der Schalter",
+      "lemma": "Schalter",
+      "translation": "counter",
+      "translations": [
+        "counter",
+        "service window"
+      ],
+      "level": "A2",
+      "category": "Bureaucracy & Officialdom",
+      "partOfSpeech": "noun",
+      "frequency": 1250,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Schalter",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Bitte gehen Sie zu Schalter drei.",
+          "en": "Please go to counter three."
+        },
+        {
+          "de": "Der Schalter ist geschlossen.",
+          "en": "The counter is closed."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ihre Nummer wird an ___ 5 aufgerufen.",
+          "answer": "Schalter",
+          "en": "Your number is being called at counter 5."
+        }
+      ],
+      "notes": "-er ending, masculine. Also means a light switch.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🪟",
+      "imageable": true,
+      "tags": [
+        "bureaucracy"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "die-wartenummer"
+      ]
+    },
+    {
+      "id": "das-formular",
+      "word": "das Formular",
+      "lemma": "Formular",
+      "translation": "form",
+      "translations": [
+        "form"
+      ],
+      "level": "A1",
+      "category": "Bureaucracy & Officialdom",
+      "partOfSpeech": "noun",
+      "frequency": 700,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Formulare",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Bitte füllen Sie dieses Formular aus.",
+          "en": "Please fill in this form."
+        },
+        {
+          "de": "Das Formular gibt es auch online.",
+          "en": "The form is also available online."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Können Sie mir beim ___ helfen?",
+          "answer": "Formular",
+          "en": "Can you help me with the form?"
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "German forms are long and unforgiving. Bring a black pen — many offices refuse blue or pencil.",
+      "emoji": "📝",
+      "imageable": true,
+      "tags": [
+        "bureaucracy",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "ausfuellen-amt",
+        "der-antrag"
+      ]
+    },
+    {
+      "id": "der-antrag",
+      "word": "der Antrag",
+      "lemma": "Antrag",
+      "translation": "application",
+      "translations": [
+        "application",
+        "formal request"
+      ],
+      "level": "A2",
+      "category": "Bureaucracy & Officialdom",
+      "partOfSpeech": "noun",
+      "frequency": 750,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Anträge",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "des Antrags"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich habe einen Antrag auf Kindergeld gestellt.",
+          "en": "I submitted an application for child benefit."
+        },
+        {
+          "de": "Der Antrag wurde bearbeitet.",
+          "en": "The application has been processed."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der ___ auf Verlängerung dauert vier Wochen.",
+          "answer": "Antrag",
+          "en": "The application for an extension takes four weeks."
+        }
+      ],
+      "notes": "The set phrase is 'einen Antrag stellen' — to submit an application, literally 'to place' one.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "📑",
+      "imageable": false,
+      "tags": [
+        "bureaucracy",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "beantragen",
+        "das-formular",
+        "der-bescheid"
+      ]
+    },
+    {
+      "id": "der-bescheid",
+      "word": "der Bescheid",
+      "lemma": "Bescheid",
+      "translation": "official decision",
+      "translations": [
+        "official decision",
+        "notice"
+      ],
+      "level": "A2",
+      "category": "Bureaucracy & Officialdom",
+      "partOfSpeech": "noun",
+      "frequency": 1000,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Bescheide",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Bescheid kommt per Post.",
+          "en": "The decision comes by post."
+        },
+        {
+          "de": "Ich habe einen positiven Bescheid bekommen.",
+          "en": "I received a positive decision."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Warten Sie bitte auf den schriftlichen ___.",
+          "answer": "Bescheid",
+          "en": "Please wait for the written decision."
+        }
+      ],
+      "notes": "Also in the very common idiom 'Bescheid sagen' — to let someone know.",
+      "mnemonic": null,
+      "germany_context": "German authorities answer by paper letter, not email. Check your Briefkasten and make sure your surname is on it, or letters get returned.",
+      "emoji": "✉️",
+      "imageable": false,
+      "tags": [
+        "bureaucracy"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "der-antrag",
+        "die-frist"
+      ]
+    },
+    {
+      "id": "die-bescheinigung",
+      "word": "die Bescheinigung",
+      "lemma": "Bescheinigung",
+      "translation": "certificate",
+      "translations": [
+        "certificate",
+        "written confirmation"
+      ],
+      "level": "A2",
+      "category": "Bureaucracy & Officialdom",
+      "partOfSpeech": "noun",
+      "frequency": 980,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Bescheinigungen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich brauche eine Bescheinigung vom Arbeitgeber.",
+          "en": "I need a certificate from my employer."
+        },
+        {
+          "de": "Bringen Sie bitte die Bescheinigung mit.",
+          "en": "Please bring the certificate with you."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Können Sie mir eine ___ ausstellen?",
+          "answer": "Bescheinigung",
+          "en": "Can you issue me a certificate?"
+        }
+      ],
+      "notes": "-ung, therefore die.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "📃",
+      "imageable": false,
+      "tags": [
+        "bureaucracy"
+      ],
+      "synonyms": [
+        "die Bestätigung"
+      ],
+      "antonyms": [],
+      "related": [
+        "die-unterlagen"
+      ]
+    },
+    {
+      "id": "das-dokument",
+      "word": "das Dokument",
+      "lemma": "Dokument",
+      "translation": "document",
+      "translations": [
+        "document"
+      ],
+      "level": "A1",
+      "category": "Bureaucracy & Officialdom",
+      "partOfSpeech": "noun",
+      "frequency": 760,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Dokumente",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Bitte unterschreiben Sie dieses Dokument.",
+          "en": "Please sign this document."
+        },
+        {
+          "de": "Ich habe alle Dokumente dabei.",
+          "en": "I have all the documents with me."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Bewahren Sie dieses ___ gut auf.",
+          "answer": "Dokument",
+          "en": "Keep this document safe."
+        }
+      ],
+      "notes": "-ment ending, so it is das.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "📄",
+      "imageable": true,
+      "tags": [
+        "bureaucracy"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "die-unterlagen"
+      ]
+    },
+    {
+      "id": "die-kopie",
+      "word": "die Kopie",
+      "lemma": "Kopie",
+      "translation": "copy",
+      "translations": [
+        "copy",
+        "photocopy"
+      ],
+      "level": "A1",
+      "category": "Bureaucracy & Officialdom",
+      "partOfSpeech": "noun",
+      "frequency": 870,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Kopien",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Brauchen Sie das Original oder eine Kopie?",
+          "en": "Do you need the original or a copy?"
+        },
+        {
+          "de": "Ich mache schnell eine Kopie.",
+          "en": "I'll quickly make a copy."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Bringen Sie bitte eine ___ Ihres Passes mit.",
+          "answer": "Kopie",
+          "en": "Please bring a copy of your passport."
+        }
+      ],
+      "notes": "A 'beglaubigte Kopie' is a certified copy, stamped by an official.",
+      "mnemonic": null,
+      "germany_context": "Offices often want the original AND a copy, and many have no copier. Photocopy everything before you go.",
+      "emoji": "🖨️",
+      "imageable": false,
+      "tags": [
+        "bureaucracy"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "das Original"
+      ],
+      "related": [
+        "das-original",
+        "das-dokument"
+      ]
+    },
+    {
+      "id": "das-original",
+      "word": "das Original",
+      "lemma": "Original",
+      "translation": "original",
+      "translations": [
+        "original"
+      ],
+      "level": "A2",
+      "category": "Bureaucracy & Officialdom",
+      "partOfSpeech": "noun",
+      "frequency": 1050,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Originale",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Bitte bringen Sie das Original mit.",
+          "en": "Please bring the original with you."
+        },
+        {
+          "de": "Wir behalten das Original nicht.",
+          "en": "We won't keep the original."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Kopien reichen nicht, wir brauchen das ___.",
+          "answer": "Original",
+          "en": "Copies aren't enough, we need the original."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "📜",
+      "imageable": false,
+      "tags": [
+        "bureaucracy"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "die Kopie"
+      ],
+      "related": [
+        "die-kopie"
+      ]
+    },
+    {
+      "id": "die-unterschrift",
+      "word": "die Unterschrift",
+      "lemma": "Unterschrift",
+      "translation": "signature",
+      "translations": [
+        "signature"
+      ],
+      "level": "A2",
+      "category": "Bureaucracy & Officialdom",
+      "partOfSpeech": "noun",
+      "frequency": 940,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Unterschriften",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Hier fehlt noch Ihre Unterschrift.",
+          "en": "Your signature is still missing here."
+        },
+        {
+          "de": "Die Unterschrift muss mit dem Ausweis übereinstimmen.",
+          "en": "The signature has to match the ID."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ohne ___ ist das Formular ungültig.",
+          "answer": "Unterschrift",
+          "en": "Without a signature the form is invalid."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🖋️",
+      "imageable": false,
+      "tags": [
+        "bureaucracy"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "unterschreiben"
+      ]
+    },
+    {
+      "id": "der-stempel",
+      "word": "der Stempel",
+      "lemma": "Stempel",
+      "translation": "stamp",
+      "translations": [
+        "stamp",
+        "official seal"
+      ],
+      "level": "A2",
+      "category": "Bureaucracy & Officialdom",
+      "partOfSpeech": "noun",
+      "frequency": 1300,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Stempel",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Das Formular braucht noch einen Stempel.",
+          "en": "The form still needs a stamp."
+        },
+        {
+          "de": "Ohne Stempel gilt das nicht.",
+          "en": "Without a stamp it isn't valid."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der ___ vom Amt fehlt noch.",
+          "answer": "Stempel",
+          "en": "The stamp from the office is still missing."
+        }
+      ],
+      "notes": "Not a postage stamp — that is 'die Briefmarke'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🔖",
+      "imageable": true,
+      "tags": [
+        "bureaucracy"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "die-unterschrift"
+      ]
+    },
+    {
+      "id": "die-verlaengerung",
+      "word": "die Verlängerung",
+      "lemma": "Verlängerung",
+      "translation": "extension",
+      "translations": [
+        "extension",
+        "renewal"
+      ],
+      "level": "A2",
+      "category": "Bureaucracy & Officialdom",
+      "partOfSpeech": "noun",
+      "frequency": 1320,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Verlängerungen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich beantrage die Verlängerung meines Visums.",
+          "en": "I'm applying for an extension of my visa."
+        },
+        {
+          "de": "Die Verlängerung kostet 100 Euro.",
+          "en": "The extension costs 100 euros."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Die ___ dauert etwa sechs Wochen.",
+          "answer": "Verlängerung",
+          "en": "The extension takes about six weeks."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Apply to extend a residence permit 6-8 weeks before it expires. The Ausländerbehörde is notoriously slow.",
+      "emoji": "📆",
+      "imageable": false,
+      "tags": [
+        "bureaucracy"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "die-frist",
+        "die-aufenthaltserlaubnis"
+      ]
+    },
+    {
+      "id": "die-gebuehr",
+      "word": "die Gebühr",
+      "lemma": "Gebühr",
+      "translation": "fee",
+      "translations": [
+        "fee",
+        "charge"
+      ],
+      "level": "A2",
+      "category": "Bureaucracy & Officialdom",
+      "partOfSpeech": "noun",
+      "frequency": 860,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Gebühren",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Gebühr beträgt 37 Euro.",
+          "en": "The fee is 37 euros."
+        },
+        {
+          "de": "Muss ich eine Gebühr bezahlen?",
+          "en": "Do I have to pay a fee?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Die ___ für den Personalausweis ist 37 Euro.",
+          "answer": "Gebühr",
+          "en": "The fee for the ID card is 37 euros."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Many offices only take cash or an EC-Karte for fees — foreign credit cards are frequently refused.",
+      "emoji": "💶",
+      "imageable": false,
+      "tags": [
+        "bureaucracy"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "der-antrag"
+      ]
+    },
+    {
+      "id": "der-personalausweis",
+      "word": "der Personalausweis",
+      "lemma": "Personalausweis",
+      "translation": "national ID card",
+      "translations": [
+        "national ID card",
+        "identity card"
+      ],
+      "level": "A2",
+      "category": "Bureaucracy & Officialdom",
+      "partOfSpeech": "noun",
+      "frequency": 830,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Personalausweise",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Kann ich bitte Ihren Personalausweis sehen?",
+          "en": "May I see your ID card, please?"
+        },
+        {
+          "de": "Mein Personalausweis ist abgelaufen.",
+          "en": "My ID card has expired."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Bitte zeigen Sie mir Ihren ___.",
+          "answer": "Personalausweis",
+          "en": "Please show me your ID card."
+        }
+      ],
+      "notes": "Often shortened to 'Ausweis' in speech.",
+      "mnemonic": null,
+      "germany_context": "German residents are legally required to carry ID. As a non-EU resident, carry your passport and Aufenthaltstitel.",
+      "emoji": "🪪",
+      "imageable": true,
+      "tags": [
+        "bureaucracy",
+        "essential"
+      ],
+      "synonyms": [
+        "der Ausweis"
+      ],
+      "antonyms": [],
+      "related": [
+        "der-reisepass",
+        "die-aufenthaltserlaubnis"
+      ]
+    },
+    {
+      "id": "die-aufenthaltserlaubnis",
+      "word": "die Aufenthaltserlaubnis",
+      "lemma": "Aufenthaltserlaubnis",
+      "translation": "residence permit",
+      "translations": [
+        "residence permit"
+      ],
+      "level": "A2",
+      "category": "Bureaucracy & Officialdom",
+      "partOfSpeech": "noun",
+      "frequency": 920,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Aufenthaltserlaubnisse",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Meine Aufenthaltserlaubnis gilt drei Jahre.",
+          "en": "My residence permit is valid for three years."
+        },
+        {
+          "de": "Ich habe die Aufenthaltserlaubnis beantragt.",
+          "en": "I applied for the residence permit."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Die ___ muss rechtzeitig verlängert werden.",
+          "answer": "Aufenthaltserlaubnis",
+          "en": "The residence permit has to be renewed in good time."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Issued by the Ausländerbehörde. For skilled workers the Blaue Karte EU is usually faster and leads to permanent residence sooner.",
+      "emoji": "🛂",
+      "imageable": false,
+      "tags": [
+        "bureaucracy",
+        "essential"
+      ],
+      "synonyms": [
+        "der Aufenthaltstitel"
+      ],
+      "antonyms": [],
+      "related": [
+        "die-auslaenderbehoerde",
+        "das-visum",
+        "die-verlaengerung"
+      ]
+    },
+    {
+      "id": "die-auslaenderbehoerde",
+      "word": "die Ausländerbehörde",
+      "lemma": "Ausländerbehörde",
+      "translation": "immigration office",
+      "translations": [
+        "immigration office",
+        "foreigners' registration office"
+      ],
+      "level": "A2",
+      "category": "Bureaucracy & Officialdom",
+      "partOfSpeech": "noun",
+      "frequency": 960,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Ausländerbehörden",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich habe einen Termin bei der Ausländerbehörde.",
+          "en": "I have an appointment at the immigration office."
+        },
+        {
+          "de": "Die Ausländerbehörde hat sich noch nicht gemeldet.",
+          "en": "The immigration office hasn't been in touch yet."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Den Aufenthaltstitel bekommen Sie bei der ___.",
+          "answer": "Ausländerbehörde",
+          "en": "You get the residence permit from the immigration office."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Waiting times of two to three months for an appointment are normal in big cities. Book the moment you know you'll need it, and bring a German-speaking friend if you can.",
+      "emoji": "🏛️",
+      "imageable": false,
+      "tags": [
+        "bureaucracy",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "die-aufenthaltserlaubnis",
+        "das-visum"
+      ]
+    },
+    {
+      "id": "das-finanzamt",
+      "word": "das Finanzamt",
+      "lemma": "Finanzamt",
+      "translation": "tax office",
+      "translations": [
+        "tax office"
+      ],
+      "level": "A2",
+      "category": "Bureaucracy & Officialdom",
+      "partOfSpeech": "noun",
+      "frequency": 910,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Finanzämter",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Das Finanzamt hat mir einen Brief geschickt.",
+          "en": "The tax office sent me a letter."
+        },
+        {
+          "de": "Ich muss zum Finanzamt.",
+          "en": "I have to go to the tax office."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Die Steuererklärung geht an das ___.",
+          "answer": "Finanzamt",
+          "en": "The tax return goes to the tax office."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Your Steuer-ID arrives by post a few weeks after your Anmeldung, automatically. You never apply for it.",
+      "emoji": "🏦",
+      "imageable": false,
+      "tags": [
+        "bureaucracy"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "die-steuer-id",
+        "die-steuererklaerung"
+      ]
+    },
+    {
+      "id": "die-steuer-id",
+      "word": "die Steueridentifikationsnummer",
+      "lemma": "Steueridentifikationsnummer",
+      "translation": "tax identification number",
+      "translations": [
+        "tax identification number",
+        "tax ID"
+      ],
+      "level": "A2",
+      "category": "Bureaucracy & Officialdom",
+      "partOfSpeech": "noun",
+      "frequency": 1020,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Steueridentifikationsnummern",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Mein Arbeitgeber braucht meine Steueridentifikationsnummer.",
+          "en": "My employer needs my tax ID."
+        },
+        {
+          "de": "Die Steuer-ID kommt automatisch per Post.",
+          "en": "The tax ID comes automatically by post."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ohne ___ bekommen Sie kein volles Gehalt.",
+          "answer": "Steueridentifikationsnummer",
+          "en": "Without a tax ID you won't get your full salary."
+        }
+      ],
+      "notes": "Everyone says 'Steuer-ID' in practice.",
+      "mnemonic": null,
+      "germany_context": "Until your employer has this number, you're taxed at the highest rate. It usually arrives 2-3 weeks after the Anmeldung — chase the Finanzamt if it doesn't.",
+      "emoji": "🔢",
+      "imageable": false,
+      "tags": [
+        "bureaucracy",
+        "essential",
+        "work"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "das-finanzamt",
+        "die-steuerklasse"
+      ]
+    },
+    {
+      "id": "die-steuerklasse",
+      "word": "die Steuerklasse",
+      "lemma": "Steuerklasse",
+      "translation": "tax class",
+      "translations": [
+        "tax class",
+        "tax bracket"
+      ],
+      "level": "A2",
+      "category": "Bureaucracy & Officialdom",
+      "partOfSpeech": "noun",
+      "frequency": 1280,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Steuerklassen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich bin in Steuerklasse eins.",
+          "en": "I'm in tax class one."
+        },
+        {
+          "de": "Nach der Heirat ändert sich die Steuerklasse.",
+          "en": "After marriage the tax class changes."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Welche ___ haben Sie?",
+          "answer": "Steuerklasse",
+          "en": "Which tax class are you in?"
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Six classes. Single people are class 1; married couples can split into 3 and 5 to take home more each month. Worth checking — it can be a few hundred euros a month.",
+      "emoji": "📊",
+      "imageable": false,
+      "tags": [
+        "bureaucracy",
+        "work"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "die-steuer-id",
+        "die-steuererklaerung"
+      ]
+    },
+    {
+      "id": "die-steuererklaerung",
+      "word": "die Steuererklärung",
+      "lemma": "Steuererklärung",
+      "translation": "tax return",
+      "translations": [
+        "tax return"
+      ],
+      "level": "A2",
+      "category": "Bureaucracy & Officialdom",
+      "partOfSpeech": "noun",
+      "frequency": 1180,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Steuererklärungen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich mache meine Steuererklärung online.",
+          "en": "I do my tax return online."
+        },
+        {
+          "de": "Die Steuererklärung muss bis Juli fertig sein.",
+          "en": "The tax return has to be done by July."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Haben Sie Ihre ___ schon abgegeben?",
+          "answer": "Steuererklärung",
+          "en": "Have you submitted your tax return yet?"
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Most employees get money back — the average refund is around €1,000. Tools like ELSTER (free) or WISO/Taxfix make it manageable without German.",
+      "emoji": "🧮",
+      "imageable": false,
+      "tags": [
+        "bureaucracy",
+        "work"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "das-finanzamt",
+        "die-steuerklasse"
+      ]
+    },
+    {
+      "id": "ablaufen",
+      "word": "ablaufen",
+      "lemma": "ablaufen",
+      "translation": "to expire",
+      "translations": [
+        "to expire",
+        "to run out"
+      ],
+      "level": "A2",
+      "category": "Bureaucracy & Officialdom",
+      "partOfSpeech": "verb",
+      "frequency": 1220,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "sein",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "laufe ab",
+        "du": "läufst ab",
+        "er": "läuft ab",
+        "wir": "laufen ab",
+        "ihr": "lauft ab",
+        "sie": "laufen ab",
+        "praeteritum": "lief ab",
+        "perfekt": "ist abgelaufen",
+        "imperativ": "lauf ab!"
+      },
+      "example_sentences": [
+        {
+          "de": "Mein Pass läuft nächsten Monat ab.",
+          "en": "My passport expires next month."
+        },
+        {
+          "de": "Die Frist ist gestern abgelaufen.",
+          "en": "The deadline expired yesterday."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wann läuft Ihr Visum ___?",
+          "answer": "ab",
+          "en": "When does your visa expire?"
+        }
+      ],
+      "notes": "Separable, and takes sein in the Perfekt because it's a change of state. Note the stem change: du läufst, er läuft.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "⌛",
+      "imageable": false,
+      "tags": [
+        "bureaucracy"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "gueltig",
+        "die-frist",
+        "die-verlaengerung"
+      ]
+    },
+    {
+      "id": "bearbeiten",
+      "word": "bearbeiten",
+      "lemma": "bearbeiten",
+      "translation": "to process",
+      "translations": [
+        "to process",
+        "to handle"
+      ],
+      "level": "A2",
+      "category": "Bureaucracy & Officialdom",
+      "partOfSpeech": "verb",
+      "frequency": 1090,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "bearbeite",
+        "du": "bearbeitest",
+        "er": "bearbeitet",
+        "wir": "bearbeiten",
+        "ihr": "bearbeitet",
+        "sie": "bearbeiten",
+        "praeteritum": "bearbeitete",
+        "perfekt": "hat bearbeitet",
+        "imperativ": "bearbeite!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ihr Antrag wird gerade bearbeitet.",
+          "en": "Your application is currently being processed."
+        },
+        {
+          "de": "Wie lange dauert die Bearbeitung?",
+          "en": "How long does processing take?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Antrag wird in vier Wochen ___.",
+          "answer": "bearbeitet",
+          "en": "The application will be processed in four weeks."
+        }
+      ],
+      "notes": "be- prefix, inseparable, no ge- in the Perfekt.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "⚙️",
+      "imageable": false,
+      "tags": [
+        "bureaucracy"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "der-antrag"
+      ]
+    },
+    {
+      "id": "ablehnen",
+      "word": "ablehnen",
+      "lemma": "ablehnen",
+      "translation": "to reject",
+      "translations": [
+        "to reject",
+        "to turn down"
+      ],
+      "level": "A2",
+      "category": "Bureaucracy & Officialdom",
+      "partOfSpeech": "verb",
+      "frequency": 1160,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "lehne ab",
+        "du": "lehnst ab",
+        "er": "lehnt ab",
+        "wir": "lehnen ab",
+        "ihr": "lehnt ab",
+        "sie": "lehnen ab",
+        "praeteritum": "lehnte ab",
+        "perfekt": "hat abgelehnt",
+        "imperativ": "lehne ab!"
+      },
+      "example_sentences": [
+        {
+          "de": "Die Behörde hat meinen Antrag abgelehnt.",
+          "en": "The authority rejected my application."
+        },
+        {
+          "de": "Er lehnt das Angebot ab.",
+          "en": "He is turning down the offer."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Warum wurde mein Antrag ___?",
+          "answer": "abgelehnt",
+          "en": "Why was my application rejected?"
+        }
+      ],
+      "notes": "Separable — 'ab' goes to the end.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🚫",
+      "imageable": false,
+      "tags": [
+        "bureaucracy"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "genehmigen"
+      ],
+      "related": [
+        "genehmigen",
+        "der-bescheid"
+      ]
+    },
+    {
+      "id": "genehmigen",
+      "word": "genehmigen",
+      "lemma": "genehmigen",
+      "translation": "to approve",
+      "translations": [
+        "to approve",
+        "to authorise"
+      ],
+      "level": "A2",
+      "category": "Bureaucracy & Officialdom",
+      "partOfSpeech": "verb",
+      "frequency": 1350,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "genehmige",
+        "du": "genehmigst",
+        "er": "genehmigt",
+        "wir": "genehmigen",
+        "ihr": "genehmigt",
+        "sie": "genehmigen",
+        "praeteritum": "genehmigte",
+        "perfekt": "hat genehmigt",
+        "imperativ": "genehmige!"
+      },
+      "example_sentences": [
+        {
+          "de": "Der Antrag wurde genehmigt.",
+          "en": "The application was approved."
+        },
+        {
+          "de": "Mein Chef hat den Urlaub genehmigt.",
+          "en": "My boss approved the holiday."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Urlaub wurde bereits ___.",
+          "answer": "genehmigt",
+          "en": "The holiday has already been approved."
+        }
+      ],
+      "notes": "Starts with ge- already, so the participle adds nothing: 'hat genehmigt'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "✔️",
+      "imageable": false,
+      "tags": [
+        "bureaucracy"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "ablehnen"
+      ],
+      "related": [
+        "ablehnen",
+        "die-genehmigung"
+      ]
+    },
+    {
+      "id": "die-genehmigung",
+      "word": "die Genehmigung",
+      "lemma": "Genehmigung",
+      "translation": "permit",
+      "translations": [
+        "permit",
+        "approval"
+      ],
+      "level": "A2",
+      "category": "Bureaucracy & Officialdom",
+      "partOfSpeech": "noun",
+      "frequency": 1260,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Genehmigungen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Dafür brauchen Sie eine Genehmigung.",
+          "en": "You need a permit for that."
+        },
+        {
+          "de": "Die Genehmigung ist endlich da.",
+          "en": "The permit has finally arrived."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ohne ___ dürfen Sie nicht arbeiten.",
+          "answer": "Genehmigung",
+          "en": "Without a permit you're not allowed to work."
+        }
+      ],
+      "notes": "-ung, therefore die.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "📋",
+      "imageable": false,
+      "tags": [
+        "bureaucracy"
+      ],
+      "synonyms": [
+        "die Erlaubnis"
+      ],
+      "antonyms": [],
+      "related": [
+        "genehmigen"
+      ]
+    },
+    {
+      "id": "das-standesamt",
+      "word": "das Standesamt",
+      "lemma": "Standesamt",
+      "translation": "registry office",
+      "translations": [
+        "registry office"
+      ],
+      "level": "A2",
+      "category": "Bureaucracy & Officialdom",
+      "partOfSpeech": "noun",
+      "frequency": 1500,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Standesämter",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Wir haben auf dem Standesamt geheiratet.",
+          "en": "We got married at the registry office."
+        },
+        {
+          "de": "Die Geburtsurkunde bekommt man beim Standesamt.",
+          "en": "You get the birth certificate from the registry office."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Die Heirat wird beim ___ angemeldet.",
+          "answer": "Standesamt",
+          "en": "The marriage is registered at the registry office."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Only a Standesamt marriage is legally binding in Germany — a religious ceremony has no legal effect on its own.",
+      "emoji": "💍",
+      "imageable": false,
+      "tags": [
+        "bureaucracy"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "das-rathaus",
+        "die-geburtsurkunde"
+      ]
+    },
+    {
+      "id": "die-geburtsurkunde",
+      "word": "die Geburtsurkunde",
+      "lemma": "Geburtsurkunde",
+      "translation": "birth certificate",
+      "translations": [
+        "birth certificate"
+      ],
+      "level": "A2",
+      "category": "Bureaucracy & Officialdom",
+      "partOfSpeech": "noun",
+      "frequency": 1380,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Geburtsurkunden",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Bitte bringen Sie Ihre Geburtsurkunde mit.",
+          "en": "Please bring your birth certificate."
+        },
+        {
+          "de": "Die Geburtsurkunde muss übersetzt werden.",
+          "en": "The birth certificate has to be translated."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Für die Heirat brauchen Sie eine ___.",
+          "answer": "Geburtsurkunde",
+          "en": "For the marriage you need a birth certificate."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Foreign certificates usually need a certified German translation and sometimes an Apostille. Sort this out before you leave your home country.",
+      "emoji": "👶",
+      "imageable": false,
+      "tags": [
+        "bureaucracy"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "das-standesamt",
+        "die-unterlagen"
+      ]
+    },
+    {
+      "id": "die-sozialversicherungsnummer",
+      "word": "die Sozialversicherungsnummer",
+      "lemma": "Sozialversicherungsnummer",
+      "translation": "social security number",
+      "translations": [
+        "social security number"
+      ],
+      "level": "A2",
+      "category": "Bureaucracy & Officialdom",
+      "partOfSpeech": "noun",
+      "frequency": 1420,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Sozialversicherungsnummern",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Arbeitgeber braucht Ihre Sozialversicherungsnummer.",
+          "en": "The employer needs your social security number."
+        },
+        {
+          "de": "Ich habe meine Sozialversicherungsnummer noch nicht.",
+          "en": "I don't have my social security number yet."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Bitte geben Sie Ihre ___ an.",
+          "answer": "Sozialversicherungsnummer",
+          "en": "Please state your social security number."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Issued automatically once you start your first job — your health insurer arranges it. You don't apply separately.",
+      "emoji": "🔢",
+      "imageable": false,
+      "tags": [
+        "bureaucracy",
+        "work"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "die-steuer-id"
+      ]
+    },
+    {
+      "id": "das-fuehrungszeugnis",
+      "word": "das Führungszeugnis",
+      "lemma": "Führungszeugnis",
+      "translation": "certificate of good conduct",
+      "translations": [
+        "certificate of good conduct",
+        "police clearance certificate"
+      ],
+      "level": "A2",
+      "category": "Bureaucracy & Officialdom",
+      "partOfSpeech": "noun",
+      "frequency": 1550,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Führungszeugnisse",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Für diesen Job brauche ich ein Führungszeugnis.",
+          "en": "I need a certificate of good conduct for this job."
+        },
+        {
+          "de": "Das Führungszeugnis beantragt man im Bürgeramt.",
+          "en": "You apply for the certificate of good conduct at the citizens' office."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Arbeitgeber verlangt ein ___.",
+          "answer": "Führungszeugnis",
+          "en": "The employer requires a certificate of good conduct."
+        }
+      ],
+      "notes": "-nis ending, so it is das.",
+      "mnemonic": null,
+      "germany_context": "Required for jobs involving children, healthcare or finance. Apply at the Bürgeramt; it costs about €13 and arrives by post in 1-2 weeks.",
+      "emoji": "📜",
+      "imageable": false,
+      "tags": [
+        "bureaucracy",
+        "work"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "das-buergeramt"
+      ]
+    },
+    {
+      "id": "welche-unterlagen",
+      "word": "Welche Unterlagen brauche ich?",
+      "lemma": "Welche Unterlagen brauche ich",
+      "translation": "Which documents do I need?",
+      "translations": [
+        "Which documents do I need?"
+      ],
+      "level": "A1",
+      "category": "Bureaucracy & Officialdom",
+      "partOfSpeech": "phrase",
+      "frequency": 810,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Welche Unterlagen brauche ich für die Anmeldung?",
+          "en": "Which documents do I need for the registration?"
+        },
+        {
+          "de": "Welche Unterlagen soll ich mitbringen?",
+          "en": "Which documents should I bring?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ Unterlagen brauche ich für den Termin?",
+          "answer": "Welche",
+          "en": "Which documents do I need for the appointment?"
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Ask this on every single phone call to an office. It saves entire wasted mornings.",
+      "emoji": "❓",
+      "imageable": false,
+      "tags": [
+        "bureaucracy",
+        "essential",
+        "phrase"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "die-unterlagen"
+      ]
+    },
+    {
+      "id": "ich-moechte-mich-anmelden",
+      "word": "Ich möchte mich anmelden.",
+      "lemma": "Ich möchte mich anmelden",
+      "translation": "I'd like to register.",
+      "translations": [
+        "I'd like to register."
+      ],
+      "level": "A1",
+      "category": "Bureaucracy & Officialdom",
+      "partOfSpeech": "phrase",
+      "frequency": 790,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Guten Tag, ich möchte mich anmelden.",
+          "en": "Hello, I'd like to register."
+        },
+        {
+          "de": "Ich möchte mich für einen Kurs anmelden.",
+          "en": "I'd like to register for a course."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Guten Tag, ich möchte mich ___.",
+          "answer": "anmelden",
+          "en": "Hello, I'd like to register."
+        }
+      ],
+      "notes": "The first sentence you say at the Bürgeramt counter.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🙋",
+      "imageable": false,
+      "tags": [
+        "bureaucracy",
+        "essential",
+        "phrase"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "anmelden",
+        "die-anmeldung"
+      ]
+    }
+  ]
+}

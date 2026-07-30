@@ -1,0 +1,1908 @@
+{
+  "category": "Nature & Weather",
+  "words": [
+    {
+      "id": "das-wetter",
+      "word": "das Wetter",
+      "lemma": "Wetter",
+      "translation": "weather",
+      "translations": [
+        "weather"
+      ],
+      "level": "A1",
+      "category": "Nature & Weather",
+      "partOfSpeech": "noun",
+      "frequency": 340,
+      "gender": "n",
+      "article": "das",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Wie ist das Wetter heute?",
+          "en": "What's the weather like today?"
+        },
+        {
+          "de": "Das Wetter wird morgen besser.",
+          "en": "The weather will be better tomorrow."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wie wird das ___ am Wochenende?",
+          "answer": "Wetter",
+          "en": "What will the weather be like at the weekend?"
+        }
+      ],
+      "notes": "'Wie ist das Wetter?' is the standard small-talk opener.",
+      "mnemonic": null,
+      "germany_context": "Weather is the safest small-talk topic in Germany, and complaining about it is a national pastime.",
+      "emoji": "🌤️",
+      "imageable": false,
+      "tags": [
+        "weather",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "die-wettervorhersage"
+      ]
+    },
+    {
+      "id": "die-wettervorhersage",
+      "word": "die Wettervorhersage",
+      "lemma": "Wettervorhersage",
+      "translation": "weather forecast",
+      "translations": [
+        "weather forecast"
+      ],
+      "level": "A2",
+      "category": "Nature & Weather",
+      "partOfSpeech": "noun",
+      "frequency": 1600,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Wettervorhersagen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Wettervorhersage sagt Regen.",
+          "en": "The weather forecast says rain."
+        },
+        {
+          "de": "Ich schaue die Wettervorhersage jeden Morgen.",
+          "en": "I check the weather forecast every morning."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Laut ___ wird es morgen sonnig.",
+          "answer": "Wettervorhersage",
+          "en": "According to the forecast it'll be sunny tomorrow."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "📺",
+      "imageable": false,
+      "tags": [
+        "weather"
+      ],
+      "synonyms": [
+        "der Wetterbericht"
+      ],
+      "antonyms": [],
+      "related": [
+        "das-wetter"
+      ]
+    },
+    {
+      "id": "die-sonne",
+      "word": "die Sonne",
+      "lemma": "Sonne",
+      "translation": "sun",
+      "translations": [
+        "sun"
+      ],
+      "level": "A1",
+      "category": "Nature & Weather",
+      "partOfSpeech": "noun",
+      "frequency": 420,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Sonnen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Sonne scheint heute.",
+          "en": "The sun is shining today."
+        },
+        {
+          "de": "Wir sitzen in der Sonne.",
+          "en": "We're sitting in the sun."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Endlich scheint die ___ wieder!",
+          "answer": "Sonne",
+          "en": "The sun is finally shining again!"
+        }
+      ],
+      "notes": "Feminine in German, unlike in many languages where the sun is masculine.",
+      "mnemonic": "die Sonne, der Mond — German swaps the genders you might expect.",
+      "germany_context": null,
+      "emoji": "☀️",
+      "imageable": true,
+      "tags": [
+        "weather",
+        "nature"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "der-mond",
+        "sonnig"
+      ]
+    },
+    {
+      "id": "der-regen",
+      "word": "der Regen",
+      "lemma": "Regen",
+      "translation": "rain",
+      "translations": [
+        "rain"
+      ],
+      "level": "A1",
+      "category": "Nature & Weather",
+      "partOfSpeech": "noun",
+      "frequency": 620,
+      "gender": "m",
+      "article": "der",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Regen hört nicht auf.",
+          "en": "The rain isn't stopping."
+        },
+        {
+          "de": "Wir sind im Regen nass geworden.",
+          "en": "We got wet in the rain."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Nach dem ___ kommt die Sonne.",
+          "answer": "Regen",
+          "en": "After the rain comes the sun."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🌧️",
+      "imageable": true,
+      "tags": [
+        "weather"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "regnen",
+        "der-regenschirm"
+      ]
+    },
+    {
+      "id": "regnen",
+      "word": "regnen",
+      "lemma": "regnen",
+      "translation": "to rain",
+      "translations": [
+        "to rain"
+      ],
+      "level": "A1",
+      "category": "Nature & Weather",
+      "partOfSpeech": "verb",
+      "frequency": 630,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "regne",
+        "du": "regnest",
+        "er": "regnet",
+        "wir": "regnen",
+        "ihr": "regnet",
+        "sie": "regnen",
+        "praeteritum": "regnete",
+        "perfekt": "hat geregnet",
+        "imperativ": "regne!"
+      },
+      "example_sentences": [
+        {
+          "de": "Es regnet seit gestern.",
+          "en": "It's been raining since yesterday."
+        },
+        {
+          "de": "Gestern hat es den ganzen Tag geregnet.",
+          "en": "Yesterday it rained all day."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Nimm einen Schirm mit, es ___.",
+          "answer": "regnet",
+          "en": "Take an umbrella, it's raining."
+        }
+      ],
+      "notes": "Only ever used with 'es': 'Es regnet.' The stem ends in -gn, so it takes a linking -e: du regnest.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🌧️",
+      "imageable": false,
+      "tags": [
+        "weather",
+        "verb"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "der-regen",
+        "schneien"
+      ]
+    },
+    {
+      "id": "der-schnee",
+      "word": "der Schnee",
+      "lemma": "Schnee",
+      "translation": "snow",
+      "translations": [
+        "snow"
+      ],
+      "level": "A1",
+      "category": "Nature & Weather",
+      "partOfSpeech": "noun",
+      "frequency": 900,
+      "gender": "m",
+      "article": "der",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Schnee liegt einen Meter hoch.",
+          "en": "The snow is a metre deep."
+        },
+        {
+          "de": "Die Kinder spielen im Schnee.",
+          "en": "The children are playing in the snow."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Im Januar gab es viel ___.",
+          "answer": "Schnee",
+          "en": "In January there was a lot of snow."
+        }
+      ],
+      "notes": "No plural.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "❄️",
+      "imageable": true,
+      "tags": [
+        "weather"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "schneien"
+      ]
+    },
+    {
+      "id": "schneien",
+      "word": "schneien",
+      "lemma": "schneien",
+      "translation": "to snow",
+      "translations": [
+        "to snow"
+      ],
+      "level": "A1",
+      "category": "Nature & Weather",
+      "partOfSpeech": "verb",
+      "frequency": 1200,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "schneie",
+        "du": "schneist",
+        "er": "schneit",
+        "wir": "schneien",
+        "ihr": "schneit",
+        "sie": "schneien",
+        "praeteritum": "schneite",
+        "perfekt": "hat geschneit",
+        "imperativ": "schnei!"
+      },
+      "example_sentences": [
+        {
+          "de": "Es schneit seit heute Morgen.",
+          "en": "It's been snowing since this morning."
+        },
+        {
+          "de": "Letzte Nacht hat es geschneit.",
+          "en": "It snowed last night."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Schau mal raus, es ___!",
+          "answer": "schneit",
+          "en": "Look outside, it's snowing!"
+        }
+      ],
+      "notes": "Like regnen, only used with 'es'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🌨️",
+      "imageable": false,
+      "tags": [
+        "weather",
+        "verb"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "der-schnee",
+        "regnen"
+      ]
+    },
+    {
+      "id": "der-wind",
+      "word": "der Wind",
+      "lemma": "Wind",
+      "translation": "wind",
+      "translations": [
+        "wind"
+      ],
+      "level": "A1",
+      "category": "Nature & Weather",
+      "partOfSpeech": "noun",
+      "frequency": 810,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Winde",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Wind ist heute sehr stark.",
+          "en": "The wind is very strong today."
+        },
+        {
+          "de": "Ein kalter Wind weht.",
+          "en": "A cold wind is blowing."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der ___ hat die Bäume umgeworfen.",
+          "answer": "Wind",
+          "en": "The wind knocked the trees over."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "💨",
+      "imageable": false,
+      "tags": [
+        "weather"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "windig",
+        "der-sturm"
+      ]
+    },
+    {
+      "id": "der-sturm",
+      "word": "der Sturm",
+      "lemma": "Sturm",
+      "translation": "storm",
+      "translations": [
+        "storm"
+      ],
+      "level": "A2",
+      "category": "Nature & Weather",
+      "partOfSpeech": "noun",
+      "frequency": 1250,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Stürme",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ein Sturm zieht auf.",
+          "en": "A storm is coming."
+        },
+        {
+          "de": "Der Sturm hat viele Bäume beschädigt.",
+          "en": "The storm damaged many trees."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wegen des ___s fahren keine Züge.",
+          "answer": "Sturm",
+          "en": "Because of the storm no trains are running."
+        }
+      ],
+      "notes": "Umlaut plural: die Stürme.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🌪️",
+      "imageable": true,
+      "tags": [
+        "weather"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "der-wind",
+        "das-gewitter"
+      ]
+    },
+    {
+      "id": "das-gewitter",
+      "word": "das Gewitter",
+      "lemma": "Gewitter",
+      "translation": "thunderstorm",
+      "translations": [
+        "thunderstorm"
+      ],
+      "level": "A2",
+      "category": "Nature & Weather",
+      "partOfSpeech": "noun",
+      "frequency": 1350,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Gewitter",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Heute Abend gibt es ein Gewitter.",
+          "en": "There'll be a thunderstorm this evening."
+        },
+        {
+          "de": "Ich habe Angst vor Gewittern.",
+          "en": "I'm afraid of thunderstorms."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Nach dem ___ war die Luft frisch.",
+          "answer": "Gewitter",
+          "en": "After the thunderstorm the air was fresh."
+        }
+      ],
+      "notes": "Starts with Ge-, so it's das.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "⛈️",
+      "imageable": true,
+      "tags": [
+        "weather"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "der-sturm",
+        "der-blitz"
+      ]
+    },
+    {
+      "id": "der-blitz",
+      "word": "der Blitz",
+      "lemma": "Blitz",
+      "translation": "lightning",
+      "translations": [
+        "lightning"
+      ],
+      "level": "A2",
+      "category": "Nature & Weather",
+      "partOfSpeech": "noun",
+      "frequency": 1700,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Blitze",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Blitz hat einen Baum getroffen.",
+          "en": "The lightning hit a tree."
+        },
+        {
+          "de": "Nach dem Blitz kommt der Donner.",
+          "en": "After the lightning comes the thunder."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ein heller ___ erhellte den Himmel.",
+          "answer": "Blitz",
+          "en": "A bright flash of lightning lit up the sky."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "⚡",
+      "imageable": true,
+      "tags": [
+        "weather"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "das-gewitter",
+        "der-donner"
+      ]
+    },
+    {
+      "id": "der-donner",
+      "word": "der Donner",
+      "lemma": "Donner",
+      "translation": "thunder",
+      "translations": [
+        "thunder"
+      ],
+      "level": "A2",
+      "category": "Nature & Weather",
+      "partOfSpeech": "noun",
+      "frequency": 1800,
+      "gender": "m",
+      "article": "der",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Donner war sehr laut.",
+          "en": "The thunder was very loud."
+        },
+        {
+          "de": "Ich höre Donner in der Ferne.",
+          "en": "I hear thunder in the distance."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der ___ hat das Baby geweckt.",
+          "answer": "Donner",
+          "en": "The thunder woke the baby."
+        }
+      ],
+      "notes": "Related to Donnerstag — Thursday is literally 'thunder day'.",
+      "mnemonic": "Donner → Donnerstag (Thursday), Thor's day.",
+      "germany_context": null,
+      "emoji": "🌩️",
+      "imageable": false,
+      "tags": [
+        "weather"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "der-blitz"
+      ]
+    },
+    {
+      "id": "die-wolke",
+      "word": "die Wolke",
+      "lemma": "Wolke",
+      "translation": "cloud",
+      "translations": [
+        "cloud"
+      ],
+      "level": "A1",
+      "category": "Nature & Weather",
+      "partOfSpeech": "noun",
+      "frequency": 1150,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Wolken",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Am Himmel sind dunkle Wolken.",
+          "en": "There are dark clouds in the sky."
+        },
+        {
+          "de": "Die Wolken ziehen schnell.",
+          "en": "The clouds are moving fast."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Keine einzige ___ am Himmel!",
+          "answer": "Wolke",
+          "en": "Not a single cloud in the sky!"
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "☁️",
+      "imageable": true,
+      "tags": [
+        "weather"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "bewoelkt"
+      ]
+    },
+    {
+      "id": "bewoelkt",
+      "word": "bewölkt",
+      "lemma": "bewölkt",
+      "translation": "cloudy",
+      "translations": [
+        "cloudy",
+        "overcast"
+      ],
+      "level": "A2",
+      "category": "Nature & Weather",
+      "partOfSpeech": "adjective",
+      "frequency": 1450,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Morgen wird es bewölkt.",
+          "en": "Tomorrow it will be cloudy."
+        },
+        {
+          "de": "Der Himmel ist stark bewölkt.",
+          "en": "The sky is heavily overcast."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Es ist grau und ___ heute.",
+          "answer": "bewölkt",
+          "en": "It's grey and cloudy today."
+        }
+      ],
+      "notes": "A past participle used as an adjective, so it has no comparative.",
+      "mnemonic": null,
+      "germany_context": "German winters are famously grey. Many people take vitamin D from October to March — it's routinely recommended by doctors.",
+      "emoji": "☁️",
+      "imageable": false,
+      "tags": [
+        "weather"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "sonnig"
+      ],
+      "related": [
+        "die-wolke",
+        "sonnig"
+      ]
+    },
+    {
+      "id": "der-nebel",
+      "word": "der Nebel",
+      "lemma": "Nebel",
+      "translation": "fog",
+      "translations": [
+        "fog",
+        "mist"
+      ],
+      "level": "A2",
+      "category": "Nature & Weather",
+      "partOfSpeech": "noun",
+      "frequency": 1550,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Nebel",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Am Morgen war dichter Nebel.",
+          "en": "There was thick fog in the morning."
+        },
+        {
+          "de": "Wegen Nebel fahren die Züge langsamer.",
+          "en": "Because of fog the trains are running slower."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Im Herbst gibt es oft ___.",
+          "answer": "Nebel",
+          "en": "In autumn there's often fog."
+        }
+      ],
+      "notes": "-el ending, masculine.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🌫️",
+      "imageable": true,
+      "tags": [
+        "weather"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "neblig"
+      ]
+    },
+    {
+      "id": "die-temperatur",
+      "word": "die Temperatur",
+      "lemma": "Temperatur",
+      "translation": "temperature",
+      "translations": [
+        "temperature"
+      ],
+      "level": "A2",
+      "category": "Nature & Weather",
+      "partOfSpeech": "noun",
+      "frequency": 1050,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Temperaturen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Temperatur fällt auf null Grad.",
+          "en": "The temperature is falling to zero degrees."
+        },
+        {
+          "de": "Wie hoch ist die Temperatur draußen?",
+          "en": "How high is the temperature outside?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Die ___ liegt heute bei 18 Grad.",
+          "answer": "Temperatur",
+          "en": "The temperature is 18 degrees today."
+        }
+      ],
+      "notes": "-ur ending, feminine.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🌡️",
+      "imageable": false,
+      "tags": [
+        "weather"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "der-grad"
+      ]
+    },
+    {
+      "id": "der-grad",
+      "word": "der Grad",
+      "lemma": "Grad",
+      "translation": "degree",
+      "translations": [
+        "degree"
+      ],
+      "level": "A1",
+      "category": "Nature & Weather",
+      "partOfSpeech": "noun",
+      "frequency": 850,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Grade",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Heute sind es 25 Grad.",
+          "en": "It's 25 degrees today."
+        },
+        {
+          "de": "Es sind minus drei Grad.",
+          "en": "It's minus three degrees."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Draußen sind es nur fünf ___.",
+          "answer": "Grad",
+          "en": "It's only five degrees outside."
+        }
+      ],
+      "notes": "After a number the singular is used: '25 Grad', never '25 Grade'.",
+      "mnemonic": null,
+      "germany_context": "Germany uses Celsius. 20°C is a pleasant day, 30°C is a heatwave, and anything below 0°C means Glatteis warnings.",
+      "emoji": "🌡️",
+      "imageable": false,
+      "tags": [
+        "weather",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "die-temperatur"
+      ]
+    },
+    {
+      "id": "die-jahreszeit",
+      "word": "die Jahreszeit",
+      "lemma": "Jahreszeit",
+      "translation": "season",
+      "translations": [
+        "season"
+      ],
+      "level": "A1",
+      "category": "Nature & Weather",
+      "partOfSpeech": "noun",
+      "frequency": 1300,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Jahreszeiten",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Welche Jahreszeit magst du am liebsten?",
+          "en": "Which season do you like best?"
+        },
+        {
+          "de": "Es gibt vier Jahreszeiten.",
+          "en": "There are four seasons."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Herbst ist meine liebste ___.",
+          "answer": "Jahreszeit",
+          "en": "Autumn is my favourite season."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🍂",
+      "imageable": false,
+      "tags": [
+        "weather",
+        "time"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "der-fruehling",
+        "der-sommer"
+      ]
+    },
+    {
+      "id": "der-herbst",
+      "word": "der Herbst",
+      "lemma": "Herbst",
+      "translation": "autumn",
+      "translations": [
+        "autumn",
+        "fall"
+      ],
+      "level": "A1",
+      "category": "Nature & Weather",
+      "partOfSpeech": "noun",
+      "frequency": 980,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Herbste",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Im Herbst fallen die Blätter.",
+          "en": "In autumn the leaves fall."
+        },
+        {
+          "de": "Der Herbst ist meine Lieblingsjahreszeit.",
+          "en": "Autumn is my favourite season."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Im ___ wird es früh dunkel.",
+          "answer": "Herbst",
+          "en": "In autumn it gets dark early."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🍁",
+      "imageable": true,
+      "tags": [
+        "weather",
+        "time"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "der-sommer",
+        "der-winter"
+      ]
+    },
+    {
+      "id": "der-himmel",
+      "word": "der Himmel",
+      "lemma": "Himmel",
+      "translation": "sky",
+      "translations": [
+        "sky",
+        "heaven"
+      ],
+      "level": "A1",
+      "category": "Nature & Weather",
+      "partOfSpeech": "noun",
+      "frequency": 700,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Himmel",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Himmel ist heute blau.",
+          "en": "The sky is blue today."
+        },
+        {
+          "de": "Am Himmel sieht man viele Sterne.",
+          "en": "You can see many stars in the sky."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der ___ ist grau und wolkig.",
+          "answer": "Himmel",
+          "en": "The sky is grey and cloudy."
+        }
+      ],
+      "notes": "Means both sky and heaven.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🌌",
+      "imageable": true,
+      "tags": [
+        "nature"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "der-mond",
+        "der-stern"
+      ]
+    },
+    {
+      "id": "der-mond",
+      "word": "der Mond",
+      "lemma": "Mond",
+      "translation": "moon",
+      "translations": [
+        "moon"
+      ],
+      "level": "A1",
+      "category": "Nature & Weather",
+      "partOfSpeech": "noun",
+      "frequency": 1000,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Monde",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Mond scheint hell.",
+          "en": "The moon is shining brightly."
+        },
+        {
+          "de": "Heute ist Vollmond.",
+          "en": "Today is a full moon."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der ___ ist heute Nacht sehr hell.",
+          "answer": "Mond",
+          "en": "The moon is very bright tonight."
+        }
+      ],
+      "notes": "Masculine, unlike in Romance languages.",
+      "mnemonic": "der Mond, die Sonne — the reverse of French and Spanish.",
+      "germany_context": null,
+      "emoji": "🌙",
+      "imageable": true,
+      "tags": [
+        "nature"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "die-sonne",
+        "der-stern"
+      ]
+    },
+    {
+      "id": "der-stern",
+      "word": "der Stern",
+      "lemma": "Stern",
+      "translation": "star",
+      "translations": [
+        "star"
+      ],
+      "level": "A1",
+      "category": "Nature & Weather",
+      "partOfSpeech": "noun",
+      "frequency": 1080,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Sterne",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Am Himmel leuchten die Sterne.",
+          "en": "The stars are shining in the sky."
+        },
+        {
+          "de": "Das Hotel hat vier Sterne.",
+          "en": "The hotel has four stars."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Heute Nacht sieht man viele ___.",
+          "answer": "Sterne",
+          "en": "Tonight you can see many stars."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "⭐",
+      "imageable": true,
+      "tags": [
+        "nature"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "der-mond",
+        "der-himmel"
+      ]
+    },
+    {
+      "id": "der-baum",
+      "word": "der Baum",
+      "lemma": "Baum",
+      "translation": "tree",
+      "translations": [
+        "tree"
+      ],
+      "level": "A1",
+      "category": "Nature & Weather",
+      "partOfSpeech": "noun",
+      "frequency": 560,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Bäume",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Baum ist sehr alt.",
+          "en": "The tree is very old."
+        },
+        {
+          "de": "Im Garten stehen zwei Bäume.",
+          "en": "There are two trees in the garden."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Unter dem ___ ist es schön schattig.",
+          "answer": "Baum",
+          "en": "It's nicely shady under the tree."
+        }
+      ],
+      "notes": "Umlaut plural: die Bäume.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🌳",
+      "imageable": true,
+      "tags": [
+        "nature"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "der-wald",
+        "das-blatt"
+      ]
+    },
+    {
+      "id": "der-wald",
+      "word": "der Wald",
+      "lemma": "Wald",
+      "translation": "forest",
+      "translations": [
+        "forest",
+        "woods"
+      ],
+      "level": "A1",
+      "category": "Nature & Weather",
+      "partOfSpeech": "noun",
+      "frequency": 720,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Wälder",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Wir gehen im Wald spazieren.",
+          "en": "We're going for a walk in the forest."
+        },
+        {
+          "de": "Der Wald ist im Herbst besonders schön.",
+          "en": "The forest is especially beautiful in autumn."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Am Sonntag machen wir einen Spaziergang im ___.",
+          "answer": "Wald",
+          "en": "On Sunday we go for a walk in the forest."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "A third of Germany is forest, and the Sunday Waldspaziergang is a genuine national institution. Forests are open to the public by law.",
+      "emoji": "🌲",
+      "imageable": true,
+      "tags": [
+        "nature"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "der-baum",
+        "der-berg"
+      ]
+    },
+    {
+      "id": "das-blatt",
+      "word": "das Blatt",
+      "lemma": "Blatt",
+      "translation": "leaf",
+      "translations": [
+        "leaf",
+        "sheet (of paper)"
+      ],
+      "level": "A2",
+      "category": "Nature & Weather",
+      "partOfSpeech": "noun",
+      "frequency": 1220,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Blätter",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Blätter werden im Herbst bunt.",
+          "en": "The leaves turn colourful in autumn."
+        },
+        {
+          "de": "Gib mir bitte ein Blatt Papier.",
+          "en": "Please give me a sheet of paper."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Im Herbst fallen die ___ von den Bäumen.",
+          "answer": "Blätter",
+          "en": "In autumn the leaves fall from the trees."
+        }
+      ],
+      "notes": "Means both a leaf and a sheet of paper.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🍃",
+      "imageable": true,
+      "tags": [
+        "nature"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "der-baum"
+      ]
+    },
+    {
+      "id": "die-blume",
+      "word": "die Blume",
+      "lemma": "Blume",
+      "translation": "flower",
+      "translations": [
+        "flower"
+      ],
+      "level": "A1",
+      "category": "Nature & Weather",
+      "partOfSpeech": "noun",
+      "frequency": 680,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Blumen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich habe ihr Blumen geschenkt.",
+          "en": "I gave her flowers."
+        },
+        {
+          "de": "Die Blumen brauchen Wasser.",
+          "en": "The flowers need water."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Er hat ihr rote ___ mitgebracht.",
+          "answer": "Blumen",
+          "en": "He brought her red flowers."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Bringing flowers when invited to someone's home is standard. Unwrap them before handing them over — but never give an even number, and avoid red roses unless it's romantic.",
+      "emoji": "🌸",
+      "imageable": true,
+      "tags": [
+        "nature"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "die-pflanze"
+      ]
+    },
+    {
+      "id": "die-pflanze",
+      "word": "die Pflanze",
+      "lemma": "Pflanze",
+      "translation": "plant",
+      "translations": [
+        "plant"
+      ],
+      "level": "A2",
+      "category": "Nature & Weather",
+      "partOfSpeech": "noun",
+      "frequency": 1020,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Pflanzen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Meine Pflanzen brauchen mehr Licht.",
+          "en": "My plants need more light."
+        },
+        {
+          "de": "Kannst du die Pflanzen gießen?",
+          "en": "Can you water the plants?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich habe viele ___ in der Wohnung.",
+          "answer": "Pflanzen",
+          "en": "I have a lot of plants in the flat."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🪴",
+      "imageable": true,
+      "tags": [
+        "nature"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "die-blume"
+      ]
+    },
+    {
+      "id": "der-berg",
+      "word": "der Berg",
+      "lemma": "Berg",
+      "translation": "mountain",
+      "translations": [
+        "mountain"
+      ],
+      "level": "A1",
+      "category": "Nature & Weather",
+      "partOfSpeech": "noun",
+      "frequency": 660,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Berge",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Wir fahren in die Berge.",
+          "en": "We're going to the mountains."
+        },
+        {
+          "de": "Der Berg ist 2000 Meter hoch.",
+          "en": "The mountain is 2000 metres high."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Im Winter fahren wir gern in die ___.",
+          "answer": "Berge",
+          "en": "In winter we like going to the mountains."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "⛰️",
+      "imageable": true,
+      "tags": [
+        "nature"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "der-wald",
+        "der-see"
+      ]
+    },
+    {
+      "id": "der-see",
+      "word": "der See",
+      "lemma": "See",
+      "translation": "lake",
+      "translations": [
+        "lake"
+      ],
+      "level": "A1",
+      "category": "Nature & Weather",
+      "partOfSpeech": "noun",
+      "frequency": 890,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Seen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Wir schwimmen im See.",
+          "en": "We're swimming in the lake."
+        },
+        {
+          "de": "Der See ist im Winter zugefroren.",
+          "en": "The lake is frozen in winter."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Im Sommer baden wir oft im ___.",
+          "answer": "See",
+          "en": "In summer we often swim in the lake."
+        }
+      ],
+      "notes": "Gender changes the meaning: DER See = lake, DIE See = the sea. A rare and genuinely confusing pair.",
+      "mnemonic": "der See (lake, masculine) vs die See (sea, feminine) — same word, different gender, different water.",
+      "germany_context": null,
+      "emoji": "🏞️",
+      "imageable": true,
+      "tags": [
+        "nature"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "das-meer",
+        "der-fluss"
+      ]
+    },
+    {
+      "id": "das-meer",
+      "word": "das Meer",
+      "lemma": "Meer",
+      "translation": "sea",
+      "translations": [
+        "sea",
+        "ocean"
+      ],
+      "level": "A1",
+      "category": "Nature & Weather",
+      "partOfSpeech": "noun",
+      "frequency": 730,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Meere",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Im Sommer fahren wir ans Meer.",
+          "en": "In summer we go to the sea."
+        },
+        {
+          "de": "Das Meer ist heute ruhig.",
+          "en": "The sea is calm today."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich möchte Urlaub am ___ machen.",
+          "answer": "Meer",
+          "en": "I'd like to holiday by the sea."
+        }
+      ],
+      "notes": "'ans Meer' = to the sea (movement), 'am Meer' = by the sea (location).",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🌊",
+      "imageable": true,
+      "tags": [
+        "nature"
+      ],
+      "synonyms": [
+        "die See"
+      ],
+      "antonyms": [],
+      "related": [
+        "der-see",
+        "der-strand"
+      ]
+    },
+    {
+      "id": "der-strand",
+      "word": "der Strand",
+      "lemma": "Strand",
+      "translation": "beach",
+      "translations": [
+        "beach"
+      ],
+      "level": "A1",
+      "category": "Nature & Weather",
+      "partOfSpeech": "noun",
+      "frequency": 940,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Strände",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Wir liegen am Strand.",
+          "en": "We're lying on the beach."
+        },
+        {
+          "de": "Der Strand war fast leer.",
+          "en": "The beach was almost empty."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wir gehen morgen an den ___.",
+          "answer": "Strand",
+          "en": "We're going to the beach tomorrow."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🏖️",
+      "imageable": true,
+      "tags": [
+        "nature"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "das-meer"
+      ]
+    },
+    {
+      "id": "der-fluss",
+      "word": "der Fluss",
+      "lemma": "Fluss",
+      "translation": "river",
+      "translations": [
+        "river"
+      ],
+      "level": "A1",
+      "category": "Nature & Weather",
+      "partOfSpeech": "noun",
+      "frequency": 870,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Flüsse",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Rhein ist ein großer Fluss.",
+          "en": "The Rhine is a big river."
+        },
+        {
+          "de": "Wir gehen am Fluss spazieren.",
+          "en": "We're going for a walk along the river."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Die Brücke führt über den ___.",
+          "answer": "Fluss",
+          "en": "The bridge goes over the river."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🏞️",
+      "imageable": true,
+      "tags": [
+        "nature"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "der-see"
+      ]
+    },
+    {
+      "id": "die-umwelt",
+      "word": "die Umwelt",
+      "lemma": "Umwelt",
+      "translation": "environment",
+      "translations": [
+        "environment"
+      ],
+      "level": "A2",
+      "category": "Nature & Weather",
+      "partOfSpeech": "noun",
+      "frequency": 1120,
+      "gender": "f",
+      "article": "die",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Wir müssen die Umwelt schützen.",
+          "en": "We have to protect the environment."
+        },
+        {
+          "de": "Das ist schlecht für die Umwelt.",
+          "en": "That's bad for the environment."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Radfahren ist gut für die ___.",
+          "answer": "Umwelt",
+          "en": "Cycling is good for the environment."
+        }
+      ],
+      "notes": "No plural.",
+      "mnemonic": null,
+      "germany_context": "Environmental awareness is mainstream, not niche. Expect strict recycling, high fuel prices and genuine social pressure around flying and waste.",
+      "emoji": "🌍",
+      "imageable": false,
+      "tags": [
+        "nature"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "das-recycling",
+        "der-muell-natur"
+      ]
+    },
+    {
+      "id": "das-recycling",
+      "word": "das Recycling",
+      "lemma": "Recycling",
+      "translation": "recycling",
+      "translations": [
+        "recycling"
+      ],
+      "level": "A2",
+      "category": "Nature & Weather",
+      "partOfSpeech": "noun",
+      "frequency": 1650,
+      "gender": "n",
+      "article": "das",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Recycling ist in Deutschland sehr wichtig.",
+          "en": "Recycling is very important in Germany."
+        },
+        {
+          "de": "Das Papier kommt ins Recycling.",
+          "en": "The paper goes into recycling."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Glas und Papier gehören ins ___.",
+          "answer": "Recycling",
+          "en": "Glass and paper belong in recycling."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "♻️",
+      "imageable": false,
+      "tags": [
+        "nature"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "der-muell-natur",
+        "die-umwelt"
+      ]
+    },
+    {
+      "id": "es-regnet",
+      "word": "Es regnet.",
+      "lemma": "Es regnet",
+      "translation": "It's raining.",
+      "translations": [
+        "It's raining."
+      ],
+      "level": "A0",
+      "category": "Nature & Weather",
+      "partOfSpeech": "phrase",
+      "frequency": 300,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Es regnet, nimm einen Schirm.",
+          "en": "It's raining, take an umbrella."
+        },
+        {
+          "de": "Es hat die ganze Nacht geregnet.",
+          "en": "It rained all night."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Schau mal raus — ___ regnet.",
+          "answer": "es",
+          "en": "Look outside — it's raining."
+        }
+      ],
+      "notes": "Weather always needs the dummy subject 'es': Es regnet, es schneit, es ist kalt.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "☔",
+      "imageable": false,
+      "tags": [
+        "weather",
+        "phrase",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "regnen",
+        "wie-ist-das-wetter"
+      ]
+    },
+    {
+      "id": "wie-ist-das-wetter",
+      "word": "Wie ist das Wetter?",
+      "lemma": "Wie ist das Wetter",
+      "translation": "What's the weather like?",
+      "translations": [
+        "What's the weather like?"
+      ],
+      "level": "A1",
+      "category": "Nature & Weather",
+      "partOfSpeech": "phrase",
+      "frequency": 350,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Wie ist das Wetter bei euch?",
+          "en": "What's the weather like where you are?"
+        },
+        {
+          "de": "Wie wird das Wetter morgen?",
+          "en": "What will the weather be like tomorrow?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ ist das Wetter heute in Berlin?",
+          "answer": "Wie",
+          "en": "What's the weather like in Berlin today?"
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🌦️",
+      "imageable": false,
+      "tags": [
+        "weather",
+        "phrase",
+        "smalltalk"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "das-wetter",
+        "es-regnet"
+      ]
+    }
+  ]
+}

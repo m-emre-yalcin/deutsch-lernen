@@ -1,0 +1,3450 @@
+{
+  "category": "Directions & Position",
+  "words": [
+    {
+      "id": "wo-ist",
+      "word": "Wo ist ...?",
+      "lemma": "Wo ist",
+      "translation": "where is ...?",
+      "translations": [
+        "where is ...?",
+        "where's ...?"
+      ],
+      "level": "A0",
+      "category": "Directions & Position",
+      "partOfSpeech": "phrase",
+      "frequency": 25,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Entschuldigung, wo ist der Bahnhof?",
+          "en": "Excuse me, where is the train station?"
+        },
+        {
+          "de": "Wo ist hier die Toilette?",
+          "en": "Where is the toilet here?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ die nächste Haltestelle?",
+          "answer": "Wo ist",
+          "en": "Where is the next stop?"
+        }
+      ],
+      "notes": "For plural things use Wo sind ...? (Wo sind die Toiletten?).",
+      "mnemonic": "WO = where, ist = is — same word order as English.",
+      "germany_context": "The single most useful question on the street. Start it with Entschuldigung and use Sie with strangers.",
+      "emoji": "❓",
+      "imageable": false,
+      "tags": [
+        "phrase",
+        "essential",
+        "asking-directions"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "wie-komme-ich-zu",
+        "entschuldigung-ich-suche"
+      ]
+    },
+    {
+      "id": "wie-komme-ich-zu",
+      "word": "Wie komme ich zu ...?",
+      "lemma": "Wie komme ich zu",
+      "translation": "how do i get to ...?",
+      "translations": [
+        "how do i get to ...?",
+        "how can i get to ...?"
+      ],
+      "level": "A0",
+      "category": "Directions & Position",
+      "partOfSpeech": "phrase",
+      "frequency": 55,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Wie komme ich zum Hauptbahnhof?",
+          "en": "How do I get to the main station?"
+        },
+        {
+          "de": "Wie komme ich zur Post?",
+          "en": "How do I get to the post office?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ zum Flughafen?",
+          "answer": "Wie komme ich",
+          "en": "How do I get to the airport?"
+        }
+      ],
+      "notes": "zu + dem = zum (der/das words), zu + der = zur (die words): zum Bahnhof, zur Apotheke.",
+      "mnemonic": "komme ich = come I — the verb comes second in the question.",
+      "germany_context": "People usually answer fast and in detail; if it is too quick, say: Langsamer, bitte.",
+      "emoji": "🧭",
+      "imageable": false,
+      "tags": [
+        "phrase",
+        "essential",
+        "asking-directions"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "wo-ist",
+        "koennen-sie-mir-helfen"
+      ]
+    },
+    {
+      "id": "entschuldigung-ich-suche",
+      "word": "Entschuldigung, ich suche ...",
+      "lemma": "Entschuldigung, ich suche",
+      "translation": "excuse me, i'm looking for ...",
+      "translations": [
+        "excuse me, i'm looking for ...",
+        "sorry, i'm looking for ..."
+      ],
+      "level": "A0",
+      "category": "Directions & Position",
+      "partOfSpeech": "phrase",
+      "frequency": 75,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Entschuldigung, ich suche den Bahnhof.",
+          "en": "Excuse me, I'm looking for the train station."
+        },
+        {
+          "de": "Entschuldigung, ich suche diese Adresse.",
+          "en": "Excuse me, I'm looking for this address."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ die Sparkasse.",
+          "answer": "Entschuldigung, ich suche",
+          "en": "Excuse me, I'm looking for the Sparkasse bank."
+        }
+      ],
+      "notes": "suchen takes the accusative: ich suche den Weg, die Straße, das Rathaus.",
+      "mnemonic": "Entschuldigung opens almost every conversation with a stranger.",
+      "germany_context": "Politeness formula matters here: Entschuldigung first, Sie form after. Hallo alone can sound blunt to strangers.",
+      "emoji": "🙋",
+      "imageable": false,
+      "tags": [
+        "phrase",
+        "essential",
+        "asking-directions"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "wo-ist",
+        "koennen-sie-mir-helfen"
+      ]
+    },
+    {
+      "id": "koennen-sie-mir-helfen",
+      "word": "Können Sie mir helfen?",
+      "lemma": "Können Sie mir helfen",
+      "translation": "can you help me?",
+      "translations": [
+        "can you help me?",
+        "could you help me?"
+      ],
+      "level": "A0",
+      "category": "Directions & Position",
+      "partOfSpeech": "phrase",
+      "frequency": 85,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Entschuldigung, können Sie mir helfen?",
+          "en": "Excuse me, can you help me?"
+        },
+        {
+          "de": "Können Sie mir helfen? Ich suche diese Straße.",
+          "en": "Can you help me? I'm looking for this street."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Entschuldigung, ___ mir helfen?",
+          "answer": "können Sie",
+          "en": "Excuse me, can you help me?"
+        }
+      ],
+      "notes": "helfen takes the dative: mir, dir, ihm, ihr, uns.",
+      "mnemonic": "können + mir + helfen — the dative mir is fixed here.",
+      "germany_context": "Also the phrase you use in offices and shops; staff usually switch to English if you ask, but the German opener gets a warmer reaction.",
+      "emoji": "🤝",
+      "imageable": false,
+      "tags": [
+        "phrase",
+        "essential",
+        "help"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "wo-ist",
+        "ich-habe-mich-verlaufen"
+      ]
+    },
+    {
+      "id": "ich-habe-mich-verlaufen",
+      "word": "Ich habe mich verlaufen.",
+      "lemma": "Ich habe mich verlaufen",
+      "translation": "i'm lost",
+      "translations": [
+        "i'm lost",
+        "i've gotten lost"
+      ],
+      "level": "A1",
+      "category": "Directions & Position",
+      "partOfSpeech": "phrase",
+      "frequency": 190,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Entschuldigung, ich habe mich verlaufen.",
+          "en": "Excuse me, I'm lost."
+        },
+        {
+          "de": "Ich habe mich verlaufen und finde mein Hotel nicht.",
+          "en": "I'm lost and can't find my hotel."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___. Wo ist der Hauptbahnhof?",
+          "answer": "Ich habe mich verlaufen",
+          "en": "I'm lost. Where is the main station?"
+        }
+      ],
+      "notes": "On foot: sich verlaufen. In a car: sich verfahren (Ich habe mich verfahren).",
+      "mnemonic": "ver- often means something went wrong: verlaufen = walked wrong.",
+      "germany_context": null,
+      "emoji": "😕",
+      "imageable": false,
+      "tags": [
+        "phrase",
+        "essential",
+        "problem"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "koennen-sie-mir-helfen",
+        "wo-ist"
+      ]
+    },
+    {
+      "id": "zebrastreifen",
+      "word": "der Zebrastreifen",
+      "lemma": "Zebrastreifen",
+      "translation": "zebra crossing",
+      "translations": [
+        "zebra crossing",
+        "pedestrian crossing"
+      ],
+      "level": "A2",
+      "category": "Directions & Position",
+      "partOfSpeech": "noun",
+      "frequency": 1260,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Zebrastreifen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "des Zebrastreifens"
+      },
+      "example_sentences": [
+        {
+          "de": "Gehen Sie am Zebrastreifen über die Straße.",
+          "en": "Cross the street at the zebra crossing."
+        },
+        {
+          "de": "Vor der Schule ist ein Zebrastreifen.",
+          "en": "There's a zebra crossing in front of the school."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Am ___ müssen die Autos halten.",
+          "answer": "Zebrastreifen",
+          "en": "Cars have to stop at the zebra crossing."
+        }
+      ],
+      "notes": "Officially der Fußgängerüberweg, but everyone says Zebrastreifen.",
+      "mnemonic": "White stripes like a zebra.",
+      "germany_context": "At a Zebrastreifen cars must let you cross, but there are far fewer of them than in other countries — most crossings have a light instead.",
+      "emoji": "🦓",
+      "imageable": true,
+      "tags": [
+        "traffic",
+        "city",
+        "safety"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "ampel",
+        "ueberqueren"
+      ]
+    },
+    {
+      "id": "wie-weit-ist-es",
+      "word": "Wie weit ist es?",
+      "lemma": "Wie weit ist es",
+      "translation": "how far is it?",
+      "translations": [
+        "how far is it?"
+      ],
+      "level": "A1",
+      "category": "Directions & Position",
+      "partOfSpeech": "phrase",
+      "frequency": 205,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Wie weit ist es bis zum Bahnhof?",
+          "en": "How far is it to the station?"
+        },
+        {
+          "de": "Wie weit ist es zu Fuß?",
+          "en": "How far is it on foot?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ bis zur nächsten Apotheke?",
+          "answer": "Wie weit ist es",
+          "en": "How far is it to the nearest pharmacy?"
+        }
+      ],
+      "notes": "Typical answers: zehn Minuten zu Fuß, zwei Kilometer, gleich um die Ecke.",
+      "mnemonic": "weit = far.",
+      "germany_context": null,
+      "emoji": "📏",
+      "imageable": false,
+      "tags": [
+        "phrase",
+        "essential",
+        "asking-directions"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "ist-es-weit-von-hier",
+        "entfernung",
+        "entfernt"
+      ]
+    },
+    {
+      "id": "nach-oben",
+      "word": "nach oben",
+      "lemma": "nach oben",
+      "translation": "up",
+      "translations": [
+        "up",
+        "upstairs"
+      ],
+      "level": "A1",
+      "category": "Directions & Position",
+      "partOfSpeech": "phrase",
+      "frequency": 470,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Aufzug fährt nach oben.",
+          "en": "The lift is going up."
+        },
+        {
+          "de": "Gehen Sie die Treppe nach oben.",
+          "en": "Go up the stairs."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Das Büro ist ___, im zweiten Stock.",
+          "answer": "nach oben",
+          "en": "The office is up there, on the second floor."
+        }
+      ],
+      "notes": "nach oben = movement upwards; oben alone = up there (position).",
+      "mnemonic": "nach = towards, oben = above.",
+      "germany_context": null,
+      "emoji": "⬆️",
+      "imageable": false,
+      "tags": [
+        "direction",
+        "building"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "nach unten"
+      ],
+      "related": [
+        "nach-unten",
+        "oben",
+        "rolltreppe"
+      ]
+    },
+    {
+      "id": "nach-links",
+      "word": "nach links",
+      "lemma": "nach links",
+      "translation": "to the left",
+      "translations": [
+        "to the left",
+        "left"
+      ],
+      "level": "A0",
+      "category": "Directions & Position",
+      "partOfSpeech": "phrase",
+      "frequency": 120,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Gehen Sie hier nach links.",
+          "en": "Go left here."
+        },
+        {
+          "de": "Nach links, dann sehen Sie den Markt.",
+          "en": "To the left, then you'll see the market."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "An der Ampel müssen wir ___.",
+          "answer": "nach links",
+          "en": "At the traffic light we have to go left."
+        }
+      ],
+      "notes": "nach links = movement to the left; links alone = on the left (position).",
+      "mnemonic": "nach = towards, links = left.",
+      "germany_context": null,
+      "emoji": "⬅️",
+      "imageable": false,
+      "tags": [
+        "direction",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "nach rechts"
+      ],
+      "related": [
+        "nach-rechts",
+        "links",
+        "biegen-sie-links-ab"
+      ]
+    },
+    {
+      "id": "nach-rechts",
+      "word": "nach rechts",
+      "lemma": "nach rechts",
+      "translation": "to the right",
+      "translations": [
+        "to the right",
+        "right"
+      ],
+      "level": "A0",
+      "category": "Directions & Position",
+      "partOfSpeech": "phrase",
+      "frequency": 125,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Bitte nach rechts abbiegen.",
+          "en": "Please turn right."
+        },
+        {
+          "de": "Der Weg geht dort nach rechts.",
+          "en": "The path goes to the right there."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Am Kiosk gehst du ___.",
+          "answer": "nach rechts",
+          "en": "At the kiosk you go right."
+        }
+      ],
+      "notes": "rechts also means legally correct in compounds (Recht = law), but on the street it is simply right.",
+      "mnemonic": "rechts = right — same first letter as right.",
+      "germany_context": null,
+      "emoji": "➡️",
+      "imageable": false,
+      "tags": [
+        "direction",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "nach links"
+      ],
+      "related": [
+        "nach-links",
+        "rechts"
+      ]
+    },
+    {
+      "id": "immer-geradeaus",
+      "word": "immer geradeaus",
+      "lemma": "immer geradeaus",
+      "translation": "straight ahead (all the way)",
+      "translations": [
+        "straight ahead (all the way)",
+        "keep going straight"
+      ],
+      "level": "A1",
+      "category": "Directions & Position",
+      "partOfSpeech": "phrase",
+      "frequency": 230,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Immer geradeaus, dann kommen Sie zum Bahnhof.",
+          "en": "Keep going straight, then you'll reach the station."
+        },
+        {
+          "de": "Fahren Sie immer geradeaus bis zur Kreuzung.",
+          "en": "Drive straight ahead until the intersection."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Sie gehen ___ und dann links.",
+          "answer": "immer geradeaus",
+          "en": "You go straight ahead and then left."
+        }
+      ],
+      "notes": "immer here means keep on, not always.",
+      "mnemonic": "gerade = straight, aus = out — straight out ahead.",
+      "germany_context": null,
+      "emoji": "⬆️",
+      "imageable": false,
+      "tags": [
+        "direction",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "geradeaus",
+        "gehen-sie-geradeaus"
+      ]
+    },
+    {
+      "id": "gehen-sie-geradeaus",
+      "word": "Gehen Sie geradeaus.",
+      "lemma": "Gehen Sie geradeaus",
+      "translation": "go straight ahead",
+      "translations": [
+        "go straight ahead",
+        "keep straight on"
+      ],
+      "level": "A1",
+      "category": "Directions & Position",
+      "partOfSpeech": "phrase",
+      "frequency": 110,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Gehen Sie geradeaus bis zur Kirche.",
+          "en": "Go straight ahead as far as the church."
+        },
+        {
+          "de": "Gehen Sie geradeaus, dann links.",
+          "en": "Go straight ahead, then left."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ und dann über die Brücke.",
+          "answer": "Gehen Sie geradeaus",
+          "en": "Go straight ahead and then over the bridge."
+        }
+      ],
+      "notes": "The Sie imperative keeps the pronoun: Gehen Sie ... To a friend: Geh geradeaus.",
+      "mnemonic": "Verb first + Sie = polite command.",
+      "germany_context": "This is the answer you will hear most often, usually paired with bis zur Ampel or bis zur Kreuzung.",
+      "emoji": "🚶",
+      "imageable": false,
+      "tags": [
+        "phrase",
+        "essential",
+        "asking-directions"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "immer-geradeaus",
+        "biegen-sie-links-ab"
+      ]
+    },
+    {
+      "id": "biegen-sie-links-ab",
+      "word": "Biegen Sie links ab.",
+      "lemma": "Biegen Sie links ab",
+      "translation": "turn left",
+      "translations": [
+        "turn left",
+        "take a left"
+      ],
+      "level": "A1",
+      "category": "Directions & Position",
+      "partOfSpeech": "phrase",
+      "frequency": 160,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Biegen Sie links ab und gehen Sie weiter.",
+          "en": "Turn left and keep going."
+        },
+        {
+          "de": "An der Ampel biegen Sie links ab.",
+          "en": "At the traffic light, turn left."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___, dann sehen Sie das Rathaus.",
+          "answer": "Biegen Sie links ab",
+          "en": "Turn left, then you'll see the town hall."
+        }
+      ],
+      "notes": "abbiegen is separable, so ab goes to the end. For right: Biegen Sie rechts ab.",
+      "mnemonic": "biegen = to bend — you bend the route left.",
+      "germany_context": null,
+      "emoji": "↩️",
+      "imageable": false,
+      "tags": [
+        "phrase",
+        "essential",
+        "asking-directions"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "abbiegen",
+        "nach-links",
+        "gehen-sie-geradeaus"
+      ]
+    },
+    {
+      "id": "ist-es-weit-von-hier",
+      "word": "Ist es weit von hier?",
+      "lemma": "Ist es weit von hier",
+      "translation": "is it far from here?",
+      "translations": [
+        "is it far from here?",
+        "is it a long way?"
+      ],
+      "level": "A1",
+      "category": "Directions & Position",
+      "partOfSpeech": "phrase",
+      "frequency": 200,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Bahnhof, ist es weit von hier?",
+          "en": "The station, is it far from here?"
+        },
+        {
+          "de": "Ist es weit von hier? Ich habe keinen Regenschirm.",
+          "en": "Is it far from here? I don't have an umbrella."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ oder kann ich laufen?",
+          "answer": "Ist es weit von hier",
+          "en": "Is it far from here or can I walk?"
+        }
+      ],
+      "notes": "A common answer: Nein, fünf Minuten zu Fuß.",
+      "mnemonic": "weit = wide/far.",
+      "germany_context": null,
+      "emoji": "📏",
+      "imageable": false,
+      "tags": [
+        "phrase",
+        "essential",
+        "asking-directions"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "weit-weg",
+        "entfernt",
+        "entfernung"
+      ]
+    },
+    {
+      "id": "in-der-naehe",
+      "word": "in der Nähe",
+      "lemma": "in der Nähe",
+      "translation": "nearby",
+      "translations": [
+        "nearby",
+        "close by",
+        "in the area"
+      ],
+      "level": "A1",
+      "category": "Directions & Position",
+      "partOfSpeech": "phrase",
+      "frequency": 260,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Wohnst du hier in der Nähe?",
+          "en": "Do you live nearby?"
+        },
+        {
+          "de": "In der Nähe gibt es eine Apotheke.",
+          "en": "There's a pharmacy nearby."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Gibt es ___ einen Geldautomaten?",
+          "answer": "in der Nähe",
+          "en": "Is there a cash machine nearby?"
+        }
+      ],
+      "notes": "With a place: in der Nähe von der Post / in der Nähe des Bahnhofs.",
+      "mnemonic": "nah = near, die Nähe = the nearness.",
+      "germany_context": null,
+      "emoji": "📍",
+      "imageable": false,
+      "tags": [
+        "position",
+        "essential"
+      ],
+      "synonyms": [
+        "nebenan"
+      ],
+      "antonyms": [
+        "weit weg"
+      ],
+      "related": [
+        "naehe",
+        "weit-weg",
+        "nebenan"
+      ]
+    },
+    {
+      "id": "weit-weg",
+      "word": "weit weg",
+      "lemma": "weit weg",
+      "translation": "far away",
+      "translations": [
+        "far away",
+        "a long way off"
+      ],
+      "level": "A1",
+      "category": "Directions & Position",
+      "partOfSpeech": "phrase",
+      "frequency": 340,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Bahnhof ist nicht weit weg.",
+          "en": "The station isn't far away."
+        },
+        {
+          "de": "Meine Familie wohnt weit weg.",
+          "en": "My family lives far away."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ist das Kino ___ von hier?",
+          "answer": "weit weg",
+          "en": "Is the cinema far away from here?"
+        }
+      ],
+      "notes": "Here weg has a short e and means away — not der Weg (the way).",
+      "mnemonic": "weit + weg = wide away.",
+      "germany_context": null,
+      "emoji": "🌍",
+      "imageable": false,
+      "tags": [
+        "position",
+        "distance"
+      ],
+      "synonyms": [
+        "entfernt"
+      ],
+      "antonyms": [
+        "in der Nähe"
+      ],
+      "related": [
+        "in-der-naehe",
+        "entfernt"
+      ]
+    },
+    {
+      "id": "an-der-ecke",
+      "word": "an der Ecke",
+      "lemma": "an der Ecke",
+      "translation": "on the corner",
+      "translations": [
+        "on the corner",
+        "at the corner"
+      ],
+      "level": "A1",
+      "category": "Directions & Position",
+      "partOfSpeech": "phrase",
+      "frequency": 430,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Bäckerei ist an der Ecke.",
+          "en": "The bakery is on the corner."
+        },
+        {
+          "de": "Wir treffen uns an der Ecke.",
+          "en": "We'll meet at the corner."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Kiosk ist gleich ___.",
+          "answer": "an der Ecke",
+          "en": "The kiosk is right on the corner."
+        }
+      ],
+      "notes": "an der Ecke = standing at the corner; um die Ecke = around the corner.",
+      "mnemonic": "an = at, die Ecke = corner.",
+      "germany_context": null,
+      "emoji": "📐",
+      "imageable": false,
+      "tags": [
+        "position",
+        "city"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "ecke",
+        "um-die-ecke"
+      ]
+    },
+    {
+      "id": "um-die-ecke",
+      "word": "um die Ecke",
+      "lemma": "um die Ecke",
+      "translation": "around the corner",
+      "translations": [
+        "around the corner"
+      ],
+      "level": "A1",
+      "category": "Directions & Position",
+      "partOfSpeech": "phrase",
+      "frequency": 470,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Post ist gleich um die Ecke.",
+          "en": "The post office is just around the corner."
+        },
+        {
+          "de": "Um die Ecke gibt es ein kleines Café.",
+          "en": "Around the corner there's a small café."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Gehen Sie hier ___, dann sehen Sie die Bank.",
+          "answer": "um die Ecke",
+          "en": "Go around the corner here, then you'll see the bank."
+        }
+      ],
+      "notes": "um takes the accusative: um die Ecke, not um der Ecke.",
+      "mnemonic": "um = around.",
+      "germany_context": null,
+      "emoji": "🔄",
+      "imageable": false,
+      "tags": [
+        "position",
+        "city"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "an-der-ecke",
+        "ecke"
+      ]
+    },
+    {
+      "id": "auf-der-anderen-seite",
+      "word": "auf der anderen Seite",
+      "lemma": "auf der anderen Seite",
+      "translation": "on the other side",
+      "translations": [
+        "on the other side",
+        "across the way"
+      ],
+      "level": "A1",
+      "category": "Directions & Position",
+      "partOfSpeech": "phrase",
+      "frequency": 520,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Apotheke ist auf der anderen Seite der Straße.",
+          "en": "The pharmacy is on the other side of the street."
+        },
+        {
+          "de": "Auf der anderen Seite ist ein Park.",
+          "en": "On the other side there's a park."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ihr Hotel ist ___ der Straße.",
+          "answer": "auf der anderen Seite",
+          "en": "Your hotel is on the other side of the street."
+        }
+      ],
+      "notes": "For movement use auf die andere Seite: Gehen Sie auf die andere Seite.",
+      "mnemonic": "Seite = side, same root.",
+      "germany_context": null,
+      "emoji": "↔️",
+      "imageable": false,
+      "tags": [
+        "position",
+        "city"
+      ],
+      "synonyms": [
+        "gegenüber"
+      ],
+      "antonyms": [],
+      "related": [
+        "seite",
+        "gegenueber-von"
+      ]
+    },
+    {
+      "id": "gegenueber-von",
+      "word": "gegenüber von",
+      "lemma": "gegenüber von",
+      "translation": "opposite",
+      "translations": [
+        "opposite",
+        "across from"
+      ],
+      "level": "A2",
+      "category": "Directions & Position",
+      "partOfSpeech": "phrase",
+      "frequency": 610,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Bank ist gegenüber von der Post.",
+          "en": "The bank is opposite the post office."
+        },
+        {
+          "de": "Gegenüber von uns wohnt eine Familie aus Italien.",
+          "en": "A family from Italy lives across from us."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Park liegt ___ meiner Wohnung.",
+          "answer": "gegenüber von",
+          "en": "The park is opposite my flat."
+        }
+      ],
+      "notes": "gegenüber always takes the dative, with or without von.",
+      "mnemonic": "gegen = against, über = over — facing across.",
+      "germany_context": null,
+      "emoji": "🔁",
+      "imageable": false,
+      "tags": [
+        "position",
+        "preposition"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "gegenueber",
+        "auf-der-anderen-seite"
+      ]
+    },
+    {
+      "id": "am-ende-der-strasse",
+      "word": "am Ende der Straße",
+      "lemma": "am Ende der Straße",
+      "translation": "at the end of the street",
+      "translations": [
+        "at the end of the street",
+        "down the end of the road"
+      ],
+      "level": "A2",
+      "category": "Directions & Position",
+      "partOfSpeech": "phrase",
+      "frequency": 640,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Am Ende der Straße ist eine Apotheke.",
+          "en": "At the end of the street there's a pharmacy."
+        },
+        {
+          "de": "Unser Haus steht am Ende der Straße.",
+          "en": "Our house is at the end of the street."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Supermarkt ist ___, auf der rechten Seite.",
+          "answer": "am Ende der Straße",
+          "en": "The supermarket is at the end of the street, on the right."
+        }
+      ],
+      "notes": "am = an dem. The genitive der Straße shows possession: the street's end.",
+      "mnemonic": "Ende ~ end.",
+      "germany_context": null,
+      "emoji": "🔚",
+      "imageable": false,
+      "tags": [
+        "position",
+        "asking-directions"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "strasse",
+        "an-der-ecke"
+      ]
+    },
+    {
+      "id": "die-erste-strasse-links",
+      "word": "die erste Straße links",
+      "lemma": "die erste Straße links",
+      "translation": "the first street on the left",
+      "translations": [
+        "the first street on the left",
+        "first left"
+      ],
+      "level": "A2",
+      "category": "Directions & Position",
+      "partOfSpeech": "phrase",
+      "frequency": 680,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Nehmen Sie die erste Straße links.",
+          "en": "Take the first street on the left."
+        },
+        {
+          "de": "Die erste Straße links, dann immer geradeaus.",
+          "en": "First street on the left, then straight ahead."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Fahren Sie bis zur Ampel und dann ___.",
+          "answer": "die erste Straße links",
+          "en": "Drive to the traffic light and then take the first street on the left."
+        }
+      ],
+      "notes": "Same pattern with numbers and sides: die zweite Straße rechts.",
+      "mnemonic": "erste = first, like the first floor.",
+      "germany_context": null,
+      "emoji": "🛣️",
+      "imageable": false,
+      "tags": [
+        "phrase",
+        "asking-directions"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "nach-links",
+        "strasse"
+      ]
+    },
+    {
+      "id": "an-der-ampel",
+      "word": "an der Ampel",
+      "lemma": "an der Ampel",
+      "translation": "at the traffic light",
+      "translations": [
+        "at the traffic light",
+        "at the lights"
+      ],
+      "level": "A1",
+      "category": "Directions & Position",
+      "partOfSpeech": "phrase",
+      "frequency": 330,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "An der Ampel rechts, bitte.",
+          "en": "Right at the traffic light, please."
+        },
+        {
+          "de": "Wir warten an der Ampel.",
+          "en": "We're waiting at the traffic light."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Biegen Sie ___ links ab.",
+          "answer": "an der Ampel",
+          "en": "Turn left at the traffic light."
+        }
+      ],
+      "notes": "Position uses an der (dative); movement uses an die Ampel.",
+      "mnemonic": "Ampel is feminine: an der Ampel.",
+      "germany_context": "Directions in German towns are given by landmarks like an der Ampel, an der Kreuzung, am Kreisverkehr rather than by street numbers.",
+      "emoji": "🚦",
+      "imageable": false,
+      "tags": [
+        "position",
+        "traffic"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "ampel",
+        "kreuzung"
+      ]
+    },
+    {
+      "id": "nach-unten",
+      "word": "nach unten",
+      "lemma": "nach unten",
+      "translation": "down",
+      "translations": [
+        "down",
+        "downstairs"
+      ],
+      "level": "A1",
+      "category": "Directions & Position",
+      "partOfSpeech": "phrase",
+      "frequency": 475,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Gehen Sie die Treppe nach unten.",
+          "en": "Go down the stairs."
+        },
+        {
+          "de": "Die Rolltreppe fährt nach unten.",
+          "en": "The escalator is going down."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Zum Ausgang müssen Sie ___.",
+          "answer": "nach unten",
+          "en": "You have to go down to get to the exit."
+        }
+      ],
+      "notes": "In stations the platforms are often nach unten, the exit nach oben.",
+      "mnemonic": "unten = below.",
+      "germany_context": null,
+      "emoji": "⬇️",
+      "imageable": false,
+      "tags": [
+        "direction",
+        "building"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "nach oben"
+      ],
+      "related": [
+        "nach-oben",
+        "unten",
+        "rolltreppe"
+      ]
+    },
+    {
+      "id": "auf-der-rechten-seite",
+      "word": "auf der rechten Seite",
+      "lemma": "auf der rechten Seite",
+      "translation": "on the right-hand side",
+      "translations": [
+        "on the right-hand side",
+        "on the right"
+      ],
+      "level": "A1",
+      "category": "Directions & Position",
+      "partOfSpeech": "phrase",
+      "frequency": 530,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Bank ist auf der rechten Seite.",
+          "en": "The bank is on the right-hand side."
+        },
+        {
+          "de": "Auf der rechten Seite sehen Sie eine Apotheke.",
+          "en": "On the right you'll see a pharmacy."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Eingang ist ___, neben dem Kiosk.",
+          "answer": "auf der rechten Seite",
+          "en": "The entrance is on the right, next to the kiosk."
+        }
+      ],
+      "notes": "Same pattern with left: auf der linken Seite.",
+      "mnemonic": "rechte Seite = right side.",
+      "germany_context": null,
+      "emoji": "➡️",
+      "imageable": false,
+      "tags": [
+        "position",
+        "asking-directions"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "seite",
+        "auf-der-anderen-seite",
+        "nach-rechts"
+      ]
+    },
+    {
+      "id": "kreisverkehr",
+      "word": "der Kreisverkehr",
+      "lemma": "Kreisverkehr",
+      "translation": "roundabout",
+      "translations": [
+        "roundabout",
+        "traffic circle"
+      ],
+      "level": "A2",
+      "category": "Directions & Position",
+      "partOfSpeech": "noun",
+      "frequency": 1450,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Kreisverkehre",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "des Kreisverkehrs"
+      },
+      "example_sentences": [
+        {
+          "de": "Im Kreisverkehr nehmen Sie die zweite Ausfahrt.",
+          "en": "At the roundabout take the second exit."
+        },
+        {
+          "de": "Vor dem Kreisverkehr ist eine Tankstelle.",
+          "en": "There's a petrol station before the roundabout."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Nehmen Sie im ___ die erste Ausfahrt.",
+          "answer": "Kreisverkehr",
+          "en": "At the roundabout take the first exit."
+        }
+      ],
+      "notes": "der Kreis = circle, der Verkehr = traffic. Exit = die Ausfahrt.",
+      "mnemonic": "Kreis (circle) + Verkehr (traffic).",
+      "germany_context": "Cars already in the roundabout have priority, and you only indicate when you leave it.",
+      "emoji": "🔄",
+      "imageable": true,
+      "tags": [
+        "traffic",
+        "driving"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "kreuzung",
+        "ausgang"
+      ]
+    },
+    {
+      "id": "schild",
+      "word": "das Schild",
+      "lemma": "Schild",
+      "translation": "sign",
+      "translations": [
+        "sign",
+        "signpost"
+      ],
+      "level": "A2",
+      "category": "Directions & Position",
+      "partOfSpeech": "noun",
+      "frequency": 720,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Schilder",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "des Schildes"
+      },
+      "example_sentences": [
+        {
+          "de": "Das Schild zeigt nach links.",
+          "en": "The sign points to the left."
+        },
+        {
+          "de": "Siehst du das blaue Schild dort?",
+          "en": "Do you see the blue sign over there?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Auf dem ___ steht der Name der Straße.",
+          "answer": "Schild",
+          "en": "The name of the street is on the sign."
+        }
+      ],
+      "notes": "das Schild = sign (plural die Schilder); der Schild = shield. Get the article right.",
+      "mnemonic": "A flat board — das Schild, like das Brett.",
+      "germany_context": "Germany signposts everything. If you are unsure, look for a Schild before asking — the answer is usually already on it.",
+      "emoji": "🪧",
+      "imageable": true,
+      "tags": [
+        "city",
+        "traffic"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "umleitung",
+        "strasse"
+      ]
+    },
+    {
+      "id": "buergersteig",
+      "word": "der Bürgersteig",
+      "lemma": "Bürgersteig",
+      "translation": "pavement",
+      "translations": [
+        "pavement",
+        "sidewalk"
+      ],
+      "level": "A2",
+      "category": "Directions & Position",
+      "partOfSpeech": "noun",
+      "frequency": 1310,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Bürgersteige",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "des Bürgersteigs"
+      },
+      "example_sentences": [
+        {
+          "de": "Der Bürgersteig ist hier sehr schmal.",
+          "en": "The pavement is very narrow here."
+        },
+        {
+          "de": "Bitte parken Sie nicht auf dem Bürgersteig.",
+          "en": "Please don't park on the pavement."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Gehen Sie auf dem ___ weiter bis zur Kirche.",
+          "answer": "Bürgersteig",
+          "en": "Keep walking on the pavement as far as the church."
+        }
+      ],
+      "notes": "Also called der Gehweg. In Austria: das Trottoir.",
+      "mnemonic": "Bürger (citizen) + Steig (path) — the citizens' path.",
+      "germany_context": "Adults may not cycle on the Bürgersteig; bikes belong on the red Radweg strip or the road, and walking on the Radweg gets you a bell ringing behind you.",
+      "emoji": "🚶",
+      "imageable": true,
+      "tags": [
+        "city",
+        "traffic"
+      ],
+      "synonyms": [
+        "Gehweg"
+      ],
+      "antonyms": [],
+      "related": [
+        "strasse",
+        "zebrastreifen"
+      ]
+    },
+    {
+      "id": "seite",
+      "word": "die Seite",
+      "lemma": "Seite",
+      "translation": "side",
+      "translations": [
+        "side",
+        "page"
+      ],
+      "level": "A1",
+      "category": "Directions & Position",
+      "partOfSpeech": "noun",
+      "frequency": 450,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Seiten",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "der Seite"
+      },
+      "example_sentences": [
+        {
+          "de": "Der Supermarkt ist auf der linken Seite.",
+          "en": "The supermarket is on the left-hand side."
+        },
+        {
+          "de": "Auf dieser Seite der Straße gibt es keine Bäckerei.",
+          "en": "There's no bakery on this side of the street."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Gehen Sie bitte auf die andere ___.",
+          "answer": "Seite",
+          "en": "Please go to the other side."
+        }
+      ],
+      "notes": "Seite also means page of a book or website.",
+      "mnemonic": "Seite ~ side.",
+      "germany_context": null,
+      "emoji": "↔️",
+      "imageable": false,
+      "tags": [
+        "position"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "auf-der-anderen-seite",
+        "mitte"
+      ]
+    },
+    {
+      "id": "mitte",
+      "word": "die Mitte",
+      "lemma": "Mitte",
+      "translation": "middle",
+      "translations": [
+        "middle",
+        "centre"
+      ],
+      "level": "A1",
+      "category": "Directions & Position",
+      "partOfSpeech": "noun",
+      "frequency": 620,
+      "gender": "f",
+      "article": "die",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "der Mitte"
+      },
+      "example_sentences": [
+        {
+          "de": "Der Brunnen steht in der Mitte vom Platz.",
+          "en": "The fountain is in the middle of the square."
+        },
+        {
+          "de": "Wir treffen uns in der Mitte.",
+          "en": "We'll meet in the middle."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Das Rathaus ist in der ___ der Stadt.",
+          "answer": "Mitte",
+          "en": "The town hall is in the middle of the city."
+        }
+      ],
+      "notes": "City centre is usually die Stadtmitte, das Zentrum or die Innenstadt.",
+      "mnemonic": "Mitte ~ middle.",
+      "germany_context": "Mitte is also the name of the central district in many cities (Berlin-Mitte, Hamburg-Mitte) — you will see it on address forms and U-Bahn maps.",
+      "emoji": "🎯",
+      "imageable": false,
+      "tags": [
+        "position",
+        "city"
+      ],
+      "synonyms": [
+        "Zentrum"
+      ],
+      "antonyms": [],
+      "related": [
+        "seite",
+        "ecke"
+      ]
+    },
+    {
+      "id": "naehe",
+      "word": "die Nähe",
+      "lemma": "Nähe",
+      "translation": "vicinity",
+      "translations": [
+        "vicinity",
+        "proximity",
+        "closeness"
+      ],
+      "level": "A2",
+      "category": "Directions & Position",
+      "partOfSpeech": "noun",
+      "frequency": 700,
+      "gender": "f",
+      "article": "die",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "der Nähe"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich wohne in der Nähe vom Bahnhof.",
+          "en": "I live near the station."
+        },
+        {
+          "de": "In unserer Nähe gibt es viele Cafés.",
+          "en": "There are lots of cafés in our area."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ist ein Supermarkt hier in der ___?",
+          "answer": "Nähe",
+          "en": "Is there a supermarket nearby?"
+        }
+      ],
+      "notes": "Almost always used in the fixed phrase in der Nähe (von).",
+      "mnemonic": "nah (near) becomes die Nähe with an umlaut.",
+      "germany_context": null,
+      "emoji": "📍",
+      "imageable": false,
+      "tags": [
+        "position",
+        "distance"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "Entfernung"
+      ],
+      "related": [
+        "in-der-naehe",
+        "entfernung"
+      ]
+    },
+    {
+      "id": "entfernung",
+      "word": "die Entfernung",
+      "lemma": "Entfernung",
+      "translation": "distance",
+      "translations": [
+        "distance"
+      ],
+      "level": "A2",
+      "category": "Directions & Position",
+      "partOfSpeech": "noun",
+      "frequency": 1250,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Entfernungen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "der Entfernung"
+      },
+      "example_sentences": [
+        {
+          "de": "Die Entfernung sind nur fünf Kilometer.",
+          "en": "The distance is only five kilometres."
+        },
+        {
+          "de": "Welche Entfernung ist das zu Fuß?",
+          "en": "What distance is that on foot?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Die ___ zwischen Köln und Bonn ist klein.",
+          "answer": "Entfernung",
+          "en": "The distance between Cologne and Bonn is small."
+        }
+      ],
+      "notes": "In speech people more often say: Wie weit ist es?",
+      "mnemonic": "fern = far, ent-fern-ung = the farness.",
+      "germany_context": null,
+      "emoji": "📏",
+      "imageable": false,
+      "tags": [
+        "distance",
+        "measurement"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "Nähe"
+      ],
+      "related": [
+        "kilometer",
+        "entfernt",
+        "naehe"
+      ]
+    },
+    {
+      "id": "kilometer",
+      "word": "der Kilometer",
+      "lemma": "Kilometer",
+      "translation": "kilometre",
+      "translations": [
+        "kilometre",
+        "kilometer"
+      ],
+      "level": "A1",
+      "category": "Directions & Position",
+      "partOfSpeech": "noun",
+      "frequency": 660,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Kilometer",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "des Kilometers"
+      },
+      "example_sentences": [
+        {
+          "de": "Es sind noch zwei Kilometer bis zum Bahnhof.",
+          "en": "It's another two kilometres to the station."
+        },
+        {
+          "de": "Ich laufe jeden Morgen fünf Kilometer.",
+          "en": "I run five kilometres every morning."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Supermarkt ist einen ___ von hier entfernt.",
+          "answer": "Kilometer",
+          "en": "The supermarket is one kilometre from here."
+        }
+      ],
+      "notes": "Plural has no ending: zwei Kilometer, not Kilometers. Written km.",
+      "mnemonic": "kilo = 1000 metres.",
+      "germany_context": "Germany uses kilometres everywhere — road signs, speed limits and rents per square metre. Miles never appear.",
+      "emoji": "📐",
+      "imageable": false,
+      "tags": [
+        "distance",
+        "measurement"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "meter",
+        "entfernung"
+      ]
+    },
+    {
+      "id": "meter",
+      "word": "der Meter",
+      "lemma": "Meter",
+      "translation": "metre",
+      "translations": [
+        "metre",
+        "meter"
+      ],
+      "level": "A1",
+      "category": "Directions & Position",
+      "partOfSpeech": "noun",
+      "frequency": 700,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Meter",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "des Meters"
+      },
+      "example_sentences": [
+        {
+          "de": "Der Laden ist nur hundert Meter weiter.",
+          "en": "The shop is only a hundred metres further on."
+        },
+        {
+          "de": "Das Zimmer ist vier Meter breit.",
+          "en": "The room is four metres wide."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Gehen Sie noch fünfzig ___ geradeaus.",
+          "answer": "Meter",
+          "en": "Go another fifty metres straight ahead."
+        }
+      ],
+      "notes": "Plural unchanged: 200 Meter. Flat sizes are given in Quadratmeter (qm/m²).",
+      "mnemonic": "Meter ~ metre.",
+      "germany_context": "Flat listings are advertised by Quadratmeter — a 60 qm Wohnung is about 645 square feet.",
+      "emoji": "📏",
+      "imageable": false,
+      "tags": [
+        "distance",
+        "measurement"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "kilometer",
+        "entfernung"
+      ]
+    },
+    {
+      "id": "eingang",
+      "word": "der Eingang",
+      "lemma": "Eingang",
+      "translation": "entrance",
+      "translations": [
+        "entrance",
+        "way in"
+      ],
+      "level": "A1",
+      "category": "Directions & Position",
+      "partOfSpeech": "noun",
+      "frequency": 490,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Eingänge",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "des Eingangs"
+      },
+      "example_sentences": [
+        {
+          "de": "Der Eingang ist auf der anderen Seite.",
+          "en": "The entrance is on the other side."
+        },
+        {
+          "de": "Wir treffen uns am Eingang.",
+          "en": "We'll meet at the entrance."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wo ist der ___ zum Museum?",
+          "answer": "Eingang",
+          "en": "Where is the entrance to the museum?"
+        }
+      ],
+      "notes": "From eingehen/hineingehen (to go in). Related: die Einfahrt (vehicle entrance).",
+      "mnemonic": "ein = in, Gang = walking — the way in.",
+      "germany_context": "A gate marked Einfahrt freihalten must be left clear at all times; parking there gets you towed.",
+      "emoji": "🚪",
+      "imageable": true,
+      "tags": [
+        "building",
+        "city",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "Ausgang"
+      ],
+      "related": [
+        "ausgang",
+        "notausgang"
+      ]
+    },
+    {
+      "id": "einbahnstrasse",
+      "word": "die Einbahnstraße",
+      "lemma": "Einbahnstraße",
+      "translation": "one-way street",
+      "translations": [
+        "one-way street"
+      ],
+      "level": "A2",
+      "category": "Directions & Position",
+      "partOfSpeech": "noun",
+      "frequency": 1550,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Einbahnstraßen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "der Einbahnstraße"
+      },
+      "example_sentences": [
+        {
+          "de": "Vorsicht, das ist eine Einbahnstraße.",
+          "en": "Careful, that's a one-way street."
+        },
+        {
+          "de": "In der Einbahnstraße darf man nur in eine Richtung fahren.",
+          "en": "In a one-way street you may only drive in one direction."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Hier kannst du nicht zurückfahren, das ist eine ___.",
+          "answer": "Einbahnstraße",
+          "en": "You can't drive back here, it's a one-way street."
+        }
+      ],
+      "notes": "ein + Bahn + Straße: a street with one lane of travel.",
+      "mnemonic": "eine Bahn = one track.",
+      "germany_context": "A white arrow on a blue sign means Einbahnstraße; a small bicycle sign underneath means cyclists may ride against the traffic.",
+      "emoji": "🚗",
+      "imageable": true,
+      "tags": [
+        "traffic",
+        "driving"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "strasse",
+        "schild",
+        "umleitung"
+      ]
+    },
+    {
+      "id": "wegweiser",
+      "word": "der Wegweiser",
+      "lemma": "Wegweiser",
+      "translation": "signpost",
+      "translations": [
+        "signpost",
+        "direction sign"
+      ],
+      "level": "A2",
+      "category": "Directions & Position",
+      "partOfSpeech": "noun",
+      "frequency": 1580,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Wegweiser",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "des Wegweisers"
+      },
+      "example_sentences": [
+        {
+          "de": "Der Wegweiser zeigt nach rechts.",
+          "en": "The signpost points to the right."
+        },
+        {
+          "de": "An der Kreuzung steht ein Wegweiser.",
+          "en": "There's a signpost at the intersection."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Folgen Sie einfach dem gelben ___.",
+          "answer": "Wegweiser",
+          "en": "Just follow the yellow signpost."
+        }
+      ],
+      "notes": "der Weg + weisen (to point) — literally the way-pointer.",
+      "mnemonic": "Weg (way) + Weiser (pointer).",
+      "germany_context": "Yellow Wegweiser signs at junctions list the next towns; hiking and cycling routes are signposted the same way all over Germany.",
+      "emoji": "🪧",
+      "imageable": true,
+      "tags": [
+        "city",
+        "navigation"
+      ],
+      "synonyms": [
+        "Schild"
+      ],
+      "antonyms": [],
+      "related": [
+        "schild",
+        "richtung",
+        "weg"
+      ]
+    },
+    {
+      "id": "rolltreppe",
+      "word": "die Rolltreppe",
+      "lemma": "Rolltreppe",
+      "translation": "escalator",
+      "translations": [
+        "escalator"
+      ],
+      "level": "A2",
+      "category": "Directions & Position",
+      "partOfSpeech": "noun",
+      "frequency": 1350,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Rolltreppen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "der Rolltreppe"
+      },
+      "example_sentences": [
+        {
+          "de": "Die Rolltreppe ist leider kaputt.",
+          "en": "Unfortunately the escalator is out of order."
+        },
+        {
+          "de": "Nehmen wir die Rolltreppe nach oben.",
+          "en": "Let's take the escalator up."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Die ___ bringt dich in den ersten Stock.",
+          "answer": "Rolltreppe",
+          "en": "The escalator takes you to the first floor."
+        }
+      ],
+      "notes": "rollen (to roll) + Treppe (stairs). A lift is der Aufzug.",
+      "mnemonic": "Rolling stairs = Rolltreppe.",
+      "germany_context": "Stand on the right, keep the left free for people walking past — ignoring this gets you tutted at in Munich and Frankfurt stations.",
+      "emoji": "🛗",
+      "imageable": true,
+      "tags": [
+        "building",
+        "station"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "treppe",
+        "aufzug",
+        "erdgeschoss"
+      ]
+    },
+    {
+      "id": "stock",
+      "word": "der Stock",
+      "lemma": "Stock",
+      "translation": "floor",
+      "translations": [
+        "floor",
+        "storey"
+      ],
+      "level": "A1",
+      "category": "Directions & Position",
+      "partOfSpeech": "noun",
+      "frequency": 760,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Stockwerke",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "des Stocks"
+      },
+      "example_sentences": [
+        {
+          "de": "Wir wohnen im dritten Stock.",
+          "en": "We live on the third floor."
+        },
+        {
+          "de": "In welchem Stock ist die Praxis?",
+          "en": "Which floor is the doctor's office on?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Zahnarzt ist im zweiten ___.",
+          "answer": "Stock",
+          "en": "The dentist is on the second floor."
+        }
+      ],
+      "notes": "Floor sense: plural die Stockwerke. Die Stöcke means sticks.",
+      "mnemonic": "im dritten Stock — fixed phrase, always dative with im.",
+      "germany_context": "Counting starts at zero: Erdgeschoss is ground level, so 1. Stock is one flight up and 3. Stock means four levels of stairs when there is no Aufzug.",
+      "emoji": "🏢",
+      "imageable": false,
+      "tags": [
+        "building",
+        "address"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "erdgeschoss",
+        "rolltreppe",
+        "aufzug"
+      ]
+    },
+    {
+      "id": "karte",
+      "word": "die Karte",
+      "lemma": "Karte",
+      "translation": "map",
+      "translations": [
+        "map",
+        "card",
+        "ticket"
+      ],
+      "level": "A1",
+      "category": "Directions & Position",
+      "partOfSpeech": "noun",
+      "frequency": 400,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Karten",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "der Karte"
+      },
+      "example_sentences": [
+        {
+          "de": "Hast du eine Karte von der Stadt?",
+          "en": "Do you have a map of the city?"
+        },
+        {
+          "de": "Ich schaue kurz auf die Karte.",
+          "en": "I'll just look at the map."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Auf der ___ finde ich diese Straße nicht.",
+          "answer": "Karte",
+          "en": "I can't find this street on the map."
+        }
+      ],
+      "notes": "Karte covers map, card and ticket — context decides (EC-Karte, Eintrittskarte, Speisekarte).",
+      "mnemonic": "Karte ~ card / chart.",
+      "germany_context": null,
+      "emoji": "🗺️",
+      "imageable": true,
+      "tags": [
+        "navigation",
+        "travel"
+      ],
+      "synonyms": [
+        "Stadtplan"
+      ],
+      "antonyms": [],
+      "related": [
+        "stadtplan",
+        "navi"
+      ]
+    },
+    {
+      "id": "stadtplan",
+      "word": "der Stadtplan",
+      "lemma": "Stadtplan",
+      "translation": "city map",
+      "translations": [
+        "city map",
+        "street map"
+      ],
+      "level": "A2",
+      "category": "Directions & Position",
+      "partOfSpeech": "noun",
+      "frequency": 1200,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Stadtpläne",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "des Stadtplans"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich kaufe einen Stadtplan am Kiosk.",
+          "en": "I'll buy a city map at the kiosk."
+        },
+        {
+          "de": "Auf dem Stadtplan sieht man alle Straßen.",
+          "en": "You can see all the streets on the city map."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Zeigen Sie es mir bitte auf dem ___.",
+          "answer": "Stadtplan",
+          "en": "Please show me on the city map."
+        }
+      ],
+      "notes": "die Stadt + der Plan; the gender comes from the last part, der Plan.",
+      "mnemonic": "City plan = Stadtplan.",
+      "germany_context": "Most stations and Rathaus tourist desks still hand out free paper Stadtpläne — useful when your phone dies.",
+      "emoji": "🗺️",
+      "imageable": true,
+      "tags": [
+        "navigation",
+        "city"
+      ],
+      "synonyms": [
+        "Karte"
+      ],
+      "antonyms": [],
+      "related": [
+        "karte",
+        "navi"
+      ]
+    },
+    {
+      "id": "navi",
+      "word": "das Navi",
+      "lemma": "Navi",
+      "translation": "sat nav",
+      "translations": [
+        "sat nav",
+        "gps",
+        "navigation device"
+      ],
+      "level": "A2",
+      "category": "Directions & Position",
+      "partOfSpeech": "noun",
+      "frequency": 1150,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Navis",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "des Navis"
+      },
+      "example_sentences": [
+        {
+          "de": "Mein Navi kennt diese Straße nicht.",
+          "en": "My sat nav doesn't know this street."
+        },
+        {
+          "de": "Ohne Navi finde ich das nie.",
+          "en": "Without a sat nav I'll never find it."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Gib die Adresse bitte ins ___ ein.",
+          "answer": "Navi",
+          "en": "Please enter the address into the sat nav."
+        }
+      ],
+      "notes": "Short for das Navigationsgerät; short forms keep the gender of the long word.",
+      "mnemonic": "Navi ~ navigation.",
+      "germany_context": null,
+      "emoji": "📱",
+      "imageable": true,
+      "tags": [
+        "navigation",
+        "driving"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "karte",
+        "stadtplan"
+      ]
+    },
+    {
+      "id": "umleitung",
+      "word": "die Umleitung",
+      "lemma": "Umleitung",
+      "translation": "detour",
+      "translations": [
+        "detour",
+        "diversion"
+      ],
+      "level": "A2",
+      "category": "Directions & Position",
+      "partOfSpeech": "noun",
+      "frequency": 1600,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Umleitungen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "der Umleitung"
+      },
+      "example_sentences": [
+        {
+          "de": "Wegen der Baustelle gibt es eine Umleitung.",
+          "en": "There's a diversion because of the roadworks."
+        },
+        {
+          "de": "Die Umleitung ist gut ausgeschildert.",
+          "en": "The diversion is well signposted."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Folgen Sie bitte der ___.",
+          "answer": "Umleitung",
+          "en": "Please follow the diversion."
+        }
+      ],
+      "notes": "um + leiten (to lead around). Buses also use it: Die Linie 5 fährt eine Umleitung.",
+      "mnemonic": "um-leiten = lead around.",
+      "germany_context": "Yellow Umleitung signs with a U mark the detour; keep following the arrows until they stop, they always lead back to the route.",
+      "emoji": "↪️",
+      "imageable": false,
+      "tags": [
+        "traffic",
+        "driving"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "baustelle",
+        "schild"
+      ]
+    },
+    {
+      "id": "baustelle",
+      "word": "die Baustelle",
+      "lemma": "Baustelle",
+      "translation": "construction site",
+      "translations": [
+        "construction site",
+        "roadworks"
+      ],
+      "level": "A2",
+      "category": "Directions & Position",
+      "partOfSpeech": "noun",
+      "frequency": 1050,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Baustellen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "der Baustelle"
+      },
+      "example_sentences": [
+        {
+          "de": "Vor dem Haus ist eine Baustelle.",
+          "en": "There's a construction site in front of the house."
+        },
+        {
+          "de": "Wegen der Baustelle fährt der Bus anders.",
+          "en": "Because of the roadworks the bus takes a different route."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Die Straße ist wegen einer ___ gesperrt.",
+          "answer": "Baustelle",
+          "en": "The street is closed because of a construction site."
+        }
+      ],
+      "notes": "bauen (to build) + Stelle (place).",
+      "mnemonic": "Bau (building) + Stelle (site).",
+      "germany_context": "Baustellen may legally make noise from 7:00, but not on Sundays — Sunday is protected quiet time almost everywhere.",
+      "emoji": "🚧",
+      "imageable": true,
+      "tags": [
+        "city",
+        "traffic"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "umleitung",
+        "strasse"
+      ]
+    },
+    {
+      "id": "norden",
+      "word": "der Norden",
+      "lemma": "Norden",
+      "translation": "north",
+      "translations": [
+        "north"
+      ],
+      "level": "A2",
+      "category": "Directions & Position",
+      "partOfSpeech": "noun",
+      "frequency": 880,
+      "gender": "m",
+      "article": "der",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "des Nordens"
+      },
+      "example_sentences": [
+        {
+          "de": "Hamburg liegt im Norden von Deutschland.",
+          "en": "Hamburg is in the north of Germany."
+        },
+        {
+          "de": "Wir fahren im Sommer in den Norden.",
+          "en": "We're going north in the summer."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Wind kommt heute aus dem ___.",
+          "answer": "Norden",
+          "en": "The wind is coming from the north today."
+        }
+      ],
+      "notes": "All four compass points are masculine and normally used with im (location) or nach (movement: nach Norden).",
+      "mnemonic": "Norden ~ north.",
+      "germany_context": null,
+      "emoji": "🧭",
+      "imageable": false,
+      "tags": [
+        "direction",
+        "compass"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "Süden"
+      ],
+      "related": [
+        "sueden",
+        "osten",
+        "westen"
+      ]
+    },
+    {
+      "id": "sueden",
+      "word": "der Süden",
+      "lemma": "Süden",
+      "translation": "south",
+      "translations": [
+        "south"
+      ],
+      "level": "A2",
+      "category": "Directions & Position",
+      "partOfSpeech": "noun",
+      "frequency": 885,
+      "gender": "m",
+      "article": "der",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "des Südens"
+      },
+      "example_sentences": [
+        {
+          "de": "München liegt im Süden.",
+          "en": "Munich is in the south."
+        },
+        {
+          "de": "Im Süden ist es meistens wärmer.",
+          "en": "It's usually warmer in the south."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wir fliegen in den ___, ans Meer.",
+          "answer": "Süden",
+          "en": "We're flying south, to the sea."
+        }
+      ],
+      "notes": "Southern Germany is Süddeutschland; the dialects there sound quite different.",
+      "mnemonic": "Süden ~ south.",
+      "germany_context": "In Bayern and Baden-Württemberg you will hear Grüß Gott instead of Guten Tag.",
+      "emoji": "🧭",
+      "imageable": false,
+      "tags": [
+        "direction",
+        "compass"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "Norden"
+      ],
+      "related": [
+        "norden",
+        "osten",
+        "westen"
+      ]
+    },
+    {
+      "id": "osten",
+      "word": "der Osten",
+      "lemma": "Osten",
+      "translation": "east",
+      "translations": [
+        "east"
+      ],
+      "level": "A2",
+      "category": "Directions & Position",
+      "partOfSpeech": "noun",
+      "frequency": 890,
+      "gender": "m",
+      "article": "der",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "des Ostens"
+      },
+      "example_sentences": [
+        {
+          "de": "Dresden liegt im Osten von Deutschland.",
+          "en": "Dresden is in the east of Germany."
+        },
+        {
+          "de": "Die Sonne geht im Osten auf.",
+          "en": "The sun rises in the east."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Meine Wohnung liegt im ___ der Stadt.",
+          "answer": "Osten",
+          "en": "My flat is in the east of the city."
+        }
+      ],
+      "notes": "Sunrise: im Osten. Sunset: im Westen.",
+      "mnemonic": "Osten ~ east.",
+      "germany_context": "der Osten often means the former East Germany (die neuen Bundesländer) — rents there are usually lower than in the west.",
+      "emoji": "🧭",
+      "imageable": false,
+      "tags": [
+        "direction",
+        "compass"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "Westen"
+      ],
+      "related": [
+        "westen",
+        "norden",
+        "sueden"
+      ]
+    },
+    {
+      "id": "westen",
+      "word": "der Westen",
+      "lemma": "Westen",
+      "translation": "west",
+      "translations": [
+        "west"
+      ],
+      "level": "A2",
+      "category": "Directions & Position",
+      "partOfSpeech": "noun",
+      "frequency": 895,
+      "gender": "m",
+      "article": "der",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "des Westens"
+      },
+      "example_sentences": [
+        {
+          "de": "Köln liegt im Westen.",
+          "en": "Cologne is in the west."
+        },
+        {
+          "de": "Die Sonne geht im Westen unter.",
+          "en": "The sun sets in the west."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Bahnhof ist im ___ der Stadt.",
+          "answer": "Westen",
+          "en": "The station is in the west of the city."
+        }
+      ],
+      "notes": "Station exits are often named after compass points: Ausgang West.",
+      "mnemonic": "Westen ~ west.",
+      "germany_context": null,
+      "emoji": "🧭",
+      "imageable": false,
+      "tags": [
+        "direction",
+        "compass"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "Osten"
+      ],
+      "related": [
+        "osten",
+        "norden",
+        "sueden"
+      ]
+    },
+    {
+      "id": "vorwaerts",
+      "word": "vorwärts",
+      "lemma": "vorwärts",
+      "translation": "forwards",
+      "translations": [
+        "forwards",
+        "forward"
+      ],
+      "level": "A2",
+      "category": "Directions & Position",
+      "partOfSpeech": "adverb",
+      "frequency": 1300,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Gehen Sie zwei Schritte vorwärts.",
+          "en": "Take two steps forward."
+        },
+        {
+          "de": "Das Auto fährt langsam vorwärts.",
+          "en": "The car is moving forward slowly."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Bitte einen Schritt ___!",
+          "answer": "vorwärts",
+          "en": "One step forward, please!"
+        }
+      ],
+      "notes": "For directions on the street people say geradeaus, not vorwärts.",
+      "mnemonic": "vor = in front, -wärts = -wards.",
+      "germany_context": null,
+      "emoji": "⏩",
+      "imageable": false,
+      "tags": [
+        "direction",
+        "movement"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "rückwärts"
+      ],
+      "related": [
+        "rueckwaerts",
+        "geradeaus"
+      ]
+    },
+    {
+      "id": "rueckwaerts",
+      "word": "rückwärts",
+      "lemma": "rückwärts",
+      "translation": "backwards",
+      "translations": [
+        "backwards",
+        "in reverse"
+      ],
+      "level": "A2",
+      "category": "Directions & Position",
+      "partOfSpeech": "adverb",
+      "frequency": 1340,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich fahre rückwärts in die Parklücke.",
+          "en": "I'm reversing into the parking space."
+        },
+        {
+          "de": "Er ging rückwärts aus dem Zimmer.",
+          "en": "He walked backwards out of the room."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Kannst du bitte ___ fahren?",
+          "answer": "rückwärts",
+          "en": "Can you reverse, please?"
+        }
+      ],
+      "notes": "der Rückwärtsgang = reverse gear.",
+      "mnemonic": "der Rücken = back, so rückwärts = backwards.",
+      "germany_context": null,
+      "emoji": "⏪",
+      "imageable": false,
+      "tags": [
+        "direction",
+        "movement",
+        "driving"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "vorwärts"
+      ],
+      "related": [
+        "vorwaerts",
+        "zurueckgehen"
+      ]
+    },
+    {
+      "id": "nebenan",
+      "word": "nebenan",
+      "lemma": "nebenan",
+      "translation": "next door",
+      "translations": [
+        "next door",
+        "right next to it"
+      ],
+      "level": "A2",
+      "category": "Directions & Position",
+      "partOfSpeech": "adverb",
+      "frequency": 1080,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Bäckerei ist nebenan.",
+          "en": "The bakery is next door."
+        },
+        {
+          "de": "Meine Kollegin sitzt nebenan.",
+          "en": "My colleague sits next door."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Nachbar von ___ ist sehr nett.",
+          "answer": "nebenan",
+          "en": "The neighbour from next door is very nice."
+        }
+      ],
+      "notes": "nebenan needs no object; neben does: neben der Post.",
+      "mnemonic": "neben (beside) + an = right beside.",
+      "germany_context": null,
+      "emoji": "🏘️",
+      "imageable": false,
+      "tags": [
+        "position",
+        "neighbourhood"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "neben",
+        "in-der-naehe"
+      ]
+    },
+    {
+      "id": "drueben",
+      "word": "drüben",
+      "lemma": "drüben",
+      "translation": "over there",
+      "translations": [
+        "over there",
+        "across there"
+      ],
+      "level": "A2",
+      "category": "Directions & Position",
+      "partOfSpeech": "adverb",
+      "frequency": 990,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Das Hotel ist da drüben.",
+          "en": "The hotel is over there."
+        },
+        {
+          "de": "Drüben auf der anderen Seite ist eine Apotheke.",
+          "en": "Over on the other side there's a pharmacy."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Siehst du den Turm da ___?",
+          "answer": "drüben",
+          "en": "Do you see the tower over there?"
+        }
+      ],
+      "notes": "Almost always used as da drüben, with a pointing gesture.",
+      "mnemonic": "drüben = there over (über).",
+      "germany_context": null,
+      "emoji": "👉",
+      "imageable": false,
+      "tags": [
+        "position",
+        "pointing"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "dort",
+        "auf-der-anderen-seite"
+      ]
+    },
+    {
+      "id": "entfernt",
+      "word": "entfernt",
+      "lemma": "entfernt",
+      "translation": "away",
+      "translations": [
+        "away",
+        "distant"
+      ],
+      "level": "A2",
+      "category": "Directions & Position",
+      "partOfSpeech": "adjective",
+      "frequency": 1150,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "komparativ": "entfernter",
+        "superlativ": "am entferntesten"
+      },
+      "example_sentences": [
+        {
+          "de": "Der Bahnhof ist zwei Kilometer entfernt.",
+          "en": "The station is two kilometres away."
+        },
+        {
+          "de": "Wie weit ist das von hier entfernt?",
+          "en": "How far away is that from here?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Flughafen ist nur zehn Minuten ___.",
+          "answer": "entfernt",
+          "en": "The airport is only ten minutes away."
+        }
+      ],
+      "notes": "Comes after the distance: 500 Meter entfernt, zehn Minuten entfernt.",
+      "mnemonic": "fern = far.",
+      "germany_context": null,
+      "emoji": "📏",
+      "imageable": false,
+      "tags": [
+        "distance",
+        "position"
+      ],
+      "synonyms": [
+        "weit weg"
+      ],
+      "antonyms": [
+        "nah"
+      ],
+      "related": [
+        "entfernung",
+        "weit-weg",
+        "ist-es-weit-von-hier"
+      ]
+    },
+    {
+      "id": "ueberqueren",
+      "word": "überqueren",
+      "lemma": "überqueren",
+      "translation": "to cross",
+      "translations": [
+        "to cross",
+        "to go across"
+      ],
+      "level": "A2",
+      "category": "Directions & Position",
+      "partOfSpeech": "verb",
+      "frequency": 1100,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "überquere",
+        "du": "überquerst",
+        "er": "überquert",
+        "wir": "überqueren",
+        "ihr": "überquert",
+        "sie": "überqueren",
+        "praeteritum": "überquerte",
+        "perfekt": "hat überquert",
+        "imperativ": "überquer(e)!"
+      },
+      "example_sentences": [
+        {
+          "de": "Überqueren Sie die Straße an der Ampel.",
+          "en": "Cross the street at the traffic light."
+        },
+        {
+          "de": "Wir überqueren die Brücke zu Fuß.",
+          "en": "We cross the bridge on foot."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Hier kann man die Straße sicher ___.",
+          "answer": "überqueren",
+          "en": "You can cross the street safely here."
+        }
+      ],
+      "notes": "Inseparable (stress on -quer-), so the participle has no ge-: hat überquert.",
+      "mnemonic": "über (over) + quer (across).",
+      "germany_context": null,
+      "emoji": "🚸",
+      "imageable": false,
+      "tags": [
+        "verb",
+        "movement",
+        "traffic"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "ampel",
+        "strasse"
+      ]
+    },
+    {
+      "id": "weitergehen",
+      "word": "weitergehen",
+      "lemma": "weitergehen",
+      "translation": "to go on",
+      "translations": [
+        "to go on",
+        "to keep walking"
+      ],
+      "level": "A1",
+      "category": "Directions & Position",
+      "partOfSpeech": "verb",
+      "frequency": 620,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "sein",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "gehe weiter",
+        "du": "gehst weiter",
+        "er": "geht weiter",
+        "wir": "gehen weiter",
+        "ihr": "geht weiter",
+        "sie": "gehen weiter",
+        "praeteritum": "ging weiter",
+        "perfekt": "ist weitergegangen",
+        "imperativ": "geh weiter!"
+      },
+      "example_sentences": [
+        {
+          "de": "Gehen Sie bis zur Kirche weiter.",
+          "en": "Keep going as far as the church."
+        },
+        {
+          "de": "Wir gehen noch hundert Meter weiter.",
+          "en": "We'll go another hundred metres."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Du ___ einfach geradeaus weiter, dann kommst du zum Markt.",
+          "answer": "gehst",
+          "en": "You just keep going straight ahead, then you'll reach the market."
+        }
+      ],
+      "notes": "Separable: the prefix weiter goes to the end of the sentence.",
+      "mnemonic": "weiter = further.",
+      "germany_context": null,
+      "emoji": "🚶",
+      "imageable": false,
+      "tags": [
+        "verb",
+        "movement",
+        "asking-directions"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "gehen",
+        "zurueckgehen",
+        "geradeaus"
+      ]
+    },
+    {
+      "id": "zurueckgehen",
+      "word": "zurückgehen",
+      "lemma": "zurückgehen",
+      "translation": "to go back",
+      "translations": [
+        "to go back",
+        "to walk back"
+      ],
+      "level": "A1",
+      "category": "Directions & Position",
+      "partOfSpeech": "verb",
+      "frequency": 700,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "sein",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "gehe zurück",
+        "du": "gehst zurück",
+        "er": "geht zurück",
+        "wir": "gehen zurück",
+        "ihr": "geht zurück",
+        "sie": "gehen zurück",
+        "praeteritum": "ging zurück",
+        "perfekt": "ist zurückgegangen",
+        "imperativ": "geh zurück!"
+      },
+      "example_sentences": [
+        {
+          "de": "Gehen Sie zwanzig Meter zurück.",
+          "en": "Go back twenty metres."
+        },
+        {
+          "de": "Wir gehen zum Auto zurück.",
+          "en": "We're walking back to the car."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Du bist zu weit gegangen, ___ bitte ein Stück zurück.",
+          "answer": "geh",
+          "en": "You've gone too far, please go back a bit."
+        }
+      ],
+      "notes": "Motion verb, so the Perfekt uses sein: ich bin zurückgegangen.",
+      "mnemonic": "zurück = back.",
+      "germany_context": null,
+      "emoji": "↩️",
+      "imageable": false,
+      "tags": [
+        "verb",
+        "movement"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "weitergehen"
+      ],
+      "related": [
+        "zurueck",
+        "weitergehen"
+      ]
+    },
+    {
+      "id": "entlanggehen",
+      "word": "entlanggehen",
+      "lemma": "entlanggehen",
+      "translation": "to walk along",
+      "translations": [
+        "to walk along",
+        "to go along"
+      ],
+      "level": "A2",
+      "category": "Directions & Position",
+      "partOfSpeech": "verb",
+      "frequency": 1400,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "sein",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "gehe entlang",
+        "du": "gehst entlang",
+        "er": "geht entlang",
+        "wir": "gehen entlang",
+        "ihr": "geht entlang",
+        "sie": "gehen entlang",
+        "praeteritum": "ging entlang",
+        "perfekt": "ist entlanggegangen",
+        "imperativ": "geh entlang!"
+      },
+      "example_sentences": [
+        {
+          "de": "Gehen Sie die Straße entlang.",
+          "en": "Walk along the street."
+        },
+        {
+          "de": "Wir gehen den Fluss entlang.",
+          "en": "We're walking along the river."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ Sie diesen Weg entlang, bis zur Brücke.",
+          "answer": "Gehen",
+          "en": "Walk along this path as far as the bridge."
+        }
+      ],
+      "notes": "entlang follows its noun in the accusative: die Straße entlang.",
+      "mnemonic": "entlang = along the length.",
+      "germany_context": null,
+      "emoji": "🚶",
+      "imageable": false,
+      "tags": [
+        "verb",
+        "movement",
+        "asking-directions"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "weitergehen",
+        "strasse"
+      ]
+    },
+    {
+      "id": "vorbeigehen",
+      "word": "vorbeigehen",
+      "lemma": "vorbeigehen",
+      "translation": "to go past",
+      "translations": [
+        "to go past",
+        "to pass by"
+      ],
+      "level": "A2",
+      "category": "Directions & Position",
+      "partOfSpeech": "verb",
+      "frequency": 1250,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "sein",
+      "reflexive": false,
+      "cases": [
+        "dat"
+      ],
+      "forms": {
+        "ich": "gehe vorbei",
+        "du": "gehst vorbei",
+        "er": "geht vorbei",
+        "wir": "gehen vorbei",
+        "ihr": "geht vorbei",
+        "sie": "gehen vorbei",
+        "praeteritum": "ging vorbei",
+        "perfekt": "ist vorbeigegangen",
+        "imperativ": "geh vorbei!"
+      },
+      "example_sentences": [
+        {
+          "de": "Gehen Sie an der Kirche vorbei.",
+          "en": "Go past the church."
+        },
+        {
+          "de": "Ich gehe jeden Tag am Park vorbei.",
+          "en": "I walk past the park every day."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Sie ___ an der Apotheke vorbei und dann links.",
+          "answer": "gehen",
+          "en": "You go past the pharmacy and then left."
+        }
+      ],
+      "notes": "Used with an + dative: an der Post vorbeigehen. Also means to drop by: Ich gehe bei dir vorbei.",
+      "mnemonic": "vorbei = past, over.",
+      "germany_context": null,
+      "emoji": "🚶",
+      "imageable": false,
+      "tags": [
+        "verb",
+        "movement",
+        "asking-directions"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "weitergehen",
+        "entlanggehen"
+      ]
+    },
+    {
+      "id": "sich-umdrehen",
+      "word": "sich umdrehen",
+      "lemma": "umdrehen",
+      "translation": "to turn around",
+      "translations": [
+        "to turn around",
+        "to turn round"
+      ],
+      "level": "A2",
+      "category": "Directions & Position",
+      "partOfSpeech": "verb",
+      "frequency": 1420,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "haben",
+      "reflexive": true,
+      "cases": [],
+      "forms": {
+        "ich": "drehe mich um",
+        "du": "drehst dich um",
+        "er": "dreht sich um",
+        "wir": "drehen uns um",
+        "ihr": "dreht euch um",
+        "sie": "drehen sich um",
+        "praeteritum": "drehte sich um",
+        "perfekt": "hat sich umgedreht",
+        "imperativ": "dreh dich um!"
+      },
+      "example_sentences": [
+        {
+          "de": "Dreh dich um, der Bus kommt.",
+          "en": "Turn around, the bus is coming."
+        },
+        {
+          "de": "Er drehte sich um und ging zurück.",
+          "en": "He turned around and walked back."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Du musst dich ___, das Museum ist hinter dir.",
+          "answer": "umdrehen",
+          "en": "You have to turn around, the museum is behind you."
+        }
+      ],
+      "notes": "Reflexive and separable: ich drehe mich um. Turning a car around is wenden.",
+      "mnemonic": "um = around, drehen = to turn.",
+      "germany_context": null,
+      "emoji": "🔄",
+      "imageable": false,
+      "tags": [
+        "verb",
+        "movement"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "zurueckgehen",
+        "hinter"
+      ]
+    },
+    {
+      "id": "erreichen",
+      "word": "erreichen",
+      "lemma": "erreichen",
+      "translation": "to reach",
+      "translations": [
+        "to reach",
+        "to get to"
+      ],
+      "level": "A2",
+      "category": "Directions & Position",
+      "partOfSpeech": "verb",
+      "frequency": 830,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "erreiche",
+        "du": "erreichst",
+        "er": "erreicht",
+        "wir": "erreichen",
+        "ihr": "erreicht",
+        "sie": "erreichen",
+        "praeteritum": "erreichte",
+        "perfekt": "hat erreicht",
+        "imperativ": "erreich(e)!"
+      },
+      "example_sentences": [
+        {
+          "de": "Wie erreiche ich den Flughafen?",
+          "en": "How do I get to the airport?"
+        },
+        {
+          "de": "Wir erreichen den Bahnhof in zehn Minuten.",
+          "en": "We'll reach the station in ten minutes."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Mit dem Bus ___ Sie das Zentrum in einer Viertelstunde.",
+          "answer": "erreichen",
+          "en": "By bus you reach the centre in a quarter of an hour."
+        }
+      ],
+      "notes": "Also used for reaching a person by phone: Sie erreichen mich unter dieser Nummer.",
+      "mnemonic": "er- + reichen (to extend) = to get all the way there.",
+      "germany_context": "Job ads and offices use gut erreichbar (easy to reach) about public transport links — a normal thing to ask when flat-hunting.",
+      "emoji": "🎯",
+      "imageable": false,
+      "tags": [
+        "verb",
+        "movement",
+        "transport"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "wie-komme-ich-zu",
+        "weg"
+      ]
+    }
+  ]
+}

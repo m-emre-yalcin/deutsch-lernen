@@ -1,0 +1,1172 @@
+{
+  "category": "Bank, Post & Phone",
+  "words": [
+    {
+      "id": "die-sparkasse",
+      "word": "die Sparkasse",
+      "lemma": "Sparkasse",
+      "translation": "savings bank",
+      "translations": [
+        "savings bank"
+      ],
+      "level": "A2",
+      "category": "Bank, Post & Phone",
+      "partOfSpeech": "noun",
+      "frequency": 1400,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Sparkassen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich habe mein Konto bei der Sparkasse.",
+          "en": "I have my account with the Sparkasse."
+        },
+        {
+          "de": "Die Sparkasse ist gleich um die Ecke.",
+          "en": "The Sparkasse is just around the corner."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Mein Konto ist bei der ___.",
+          "answer": "Sparkasse",
+          "en": "My account is with the Sparkasse."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Public regional banks with branches everywhere. Convenient and widely trusted, but online banks like DKB or N26 usually have far lower fees.",
+      "emoji": "🏦",
+      "imageable": false,
+      "tags": [
+        "bank"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "die-bank-geld"
+      ]
+    },
+    {
+      "id": "das-konto",
+      "word": "das Konto",
+      "lemma": "Konto",
+      "translation": "account",
+      "translations": [
+        "account",
+        "bank account"
+      ],
+      "level": "A1",
+      "category": "Bank, Post & Phone",
+      "partOfSpeech": "noun",
+      "frequency": 610,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Konten",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich möchte ein Konto eröffnen.",
+          "en": "I'd like to open an account."
+        },
+        {
+          "de": "Das Geld ist auf meinem Konto.",
+          "en": "The money is in my account."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich möchte ein ___ eröffnen.",
+          "answer": "Konto",
+          "en": "I'd like to open an account."
+        }
+      ],
+      "notes": "Irregular plural: die Konten.",
+      "mnemonic": null,
+      "germany_context": "To open one you'll normally need your Anmeldung, passport and often a Steuer-ID. Some online banks accept video identification, which is far easier than a branch visit.",
+      "emoji": "💳",
+      "imageable": false,
+      "tags": [
+        "bank",
+        "essential"
+      ],
+      "synonyms": [
+        "das Girokonto"
+      ],
+      "antonyms": [],
+      "related": [
+        "die-bank-geld",
+        "die-iban"
+      ]
+    },
+    {
+      "id": "die-iban",
+      "word": "die IBAN",
+      "lemma": "IBAN",
+      "translation": "IBAN",
+      "translations": [
+        "IBAN",
+        "account number"
+      ],
+      "level": "A2",
+      "category": "Bank, Post & Phone",
+      "partOfSpeech": "noun",
+      "frequency": 1300,
+      "gender": "f",
+      "article": "die",
+      "plural": "die IBANs",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Können Sie mir Ihre IBAN geben?",
+          "en": "Can you give me your IBAN?"
+        },
+        {
+          "de": "Die IBAN steht auf dem Kontoauszug.",
+          "en": "The IBAN is on the bank statement."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Bitte schicken Sie mir Ihre ___.",
+          "answer": "IBAN",
+          "en": "Please send me your IBAN."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "German IBANs start DE and are 22 characters. It's all anyone needs to pay you — sort codes and account numbers are long gone.",
+      "emoji": "🔢",
+      "imageable": false,
+      "tags": [
+        "bank",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "das-konto",
+        "die-ueberweisung"
+      ]
+    },
+    {
+      "id": "die-lastschrift",
+      "word": "die Lastschrift",
+      "lemma": "Lastschrift",
+      "translation": "direct debit",
+      "translations": [
+        "direct debit"
+      ],
+      "level": "A2",
+      "category": "Bank, Post & Phone",
+      "partOfSpeech": "noun",
+      "frequency": 1550,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Lastschriften",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Beitrag wird per Lastschrift abgebucht.",
+          "en": "The fee is taken by direct debit."
+        },
+        {
+          "de": "Ich habe die Lastschrift zurückgeholt.",
+          "en": "I reversed the direct debit."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Die Rechnung geht per ___ vom Konto ab.",
+          "answer": "Lastschrift",
+          "en": "The bill is taken from the account by direct debit."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Nearly every recurring bill in Germany uses SEPA-Lastschrift. You can reverse an unauthorised one for up to 8 weeks, no questions asked.",
+      "emoji": "📉",
+      "imageable": false,
+      "tags": [
+        "bank"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "der-dauerauftrag",
+        "die-ueberweisung"
+      ]
+    },
+    {
+      "id": "der-kontoauszug",
+      "word": "der Kontoauszug",
+      "lemma": "Kontoauszug",
+      "translation": "bank statement",
+      "translations": [
+        "bank statement"
+      ],
+      "level": "A2",
+      "category": "Bank, Post & Phone",
+      "partOfSpeech": "noun",
+      "frequency": 1600,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Kontoauszüge",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich brauche einen Kontoauszug für das Amt.",
+          "en": "I need a bank statement for the office."
+        },
+        {
+          "de": "Die Kontoauszüge sind online.",
+          "en": "The bank statements are online."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Bitte bringen Sie einen aktuellen ___ mit.",
+          "answer": "Kontoauszug",
+          "en": "Please bring a recent bank statement."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🧾",
+      "imageable": false,
+      "tags": [
+        "bank"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "das-konto"
+      ]
+    },
+    {
+      "id": "die-pin",
+      "word": "die PIN",
+      "lemma": "PIN",
+      "translation": "PIN",
+      "translations": [
+        "PIN",
+        "PIN code"
+      ],
+      "level": "A1",
+      "category": "Bank, Post & Phone",
+      "partOfSpeech": "noun",
+      "frequency": 1200,
+      "gender": "f",
+      "article": "die",
+      "plural": "die PINs",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Bitte geben Sie Ihre PIN ein.",
+          "en": "Please enter your PIN."
+        },
+        {
+          "de": "Ich habe meine PIN vergessen.",
+          "en": "I've forgotten my PIN."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Bitte geben Sie jetzt Ihre ___ ein.",
+          "answer": "PIN",
+          "en": "Please enter your PIN now."
+        }
+      ],
+      "notes": "Also called 'die Geheimzahl'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🔐",
+      "imageable": false,
+      "tags": [
+        "bank",
+        "essential"
+      ],
+      "synonyms": [
+        "die Geheimzahl"
+      ],
+      "antonyms": [],
+      "related": [
+        "die-ec-karte"
+      ]
+    },
+    {
+      "id": "der-brief-post",
+      "word": "der Brief",
+      "lemma": "Brief",
+      "translation": "letter",
+      "translations": [
+        "letter"
+      ],
+      "level": "A1",
+      "category": "Bank, Post & Phone",
+      "partOfSpeech": "noun",
+      "frequency": 490,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Briefe",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich habe einen Brief vom Amt bekommen.",
+          "en": "I received a letter from the office."
+        },
+        {
+          "de": "Der Brief ist noch nicht angekommen.",
+          "en": "The letter hasn't arrived yet."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Heute kam ein wichtiger ___ vom Finanzamt.",
+          "answer": "Brief",
+          "en": "An important letter from the tax office came today."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "German authorities communicate by paper letter. Make sure your surname is clearly on your Briefkasten or official mail gets returned.",
+      "emoji": "✉️",
+      "imageable": true,
+      "tags": [
+        "post",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "die-briefmarke",
+        "der-briefkasten"
+      ]
+    },
+    {
+      "id": "die-briefmarke",
+      "word": "die Briefmarke",
+      "lemma": "Briefmarke",
+      "translation": "stamp",
+      "translations": [
+        "stamp",
+        "postage stamp"
+      ],
+      "level": "A1",
+      "category": "Bank, Post & Phone",
+      "partOfSpeech": "noun",
+      "frequency": 1250,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Briefmarken",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich hätte gern fünf Briefmarken.",
+          "en": "I'd like five stamps, please."
+        },
+        {
+          "de": "Die Briefmarke kostet 95 Cent.",
+          "en": "The stamp costs 95 cents."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Für den Brief brauche ich eine ___.",
+          "answer": "Briefmarke",
+          "en": "I need a stamp for the letter."
+        }
+      ],
+      "notes": "Not 'der Stempel' — that's an official ink stamp.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "📮",
+      "imageable": true,
+      "tags": [
+        "post"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "der-brief-post"
+      ]
+    },
+    {
+      "id": "das-paket",
+      "word": "das Paket",
+      "lemma": "Paket",
+      "translation": "parcel",
+      "translations": [
+        "parcel",
+        "package"
+      ],
+      "level": "A1",
+      "category": "Bank, Post & Phone",
+      "partOfSpeech": "noun",
+      "frequency": 830,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Pakete",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ein Paket ist für dich angekommen.",
+          "en": "A parcel has arrived for you."
+        },
+        {
+          "de": "Ich hole das Paket morgen ab.",
+          "en": "I'll pick up the parcel tomorrow."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Mein ___ liegt beim Nachbarn.",
+          "answer": "Paket",
+          "en": "My parcel is at the neighbour's."
+        }
+      ],
+      "notes": "A smaller one is 'das Päckchen'.",
+      "mnemonic": null,
+      "germany_context": "If you're out, couriers routinely leave parcels with a neighbour or at a Paketshop and put a yellow note in your letterbox. A Packstation locker is the reliable alternative.",
+      "emoji": "📦",
+      "imageable": true,
+      "tags": [
+        "post",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "die-post-ort",
+        "abholen-post"
+      ]
+    },
+    {
+      "id": "die-adresse",
+      "word": "die Adresse",
+      "lemma": "Adresse",
+      "translation": "address",
+      "translations": [
+        "address"
+      ],
+      "level": "A1",
+      "category": "Bank, Post & Phone",
+      "partOfSpeech": "noun",
+      "frequency": 450,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Adressen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Wie ist Ihre Adresse?",
+          "en": "What is your address?"
+        },
+        {
+          "de": "Ich habe meine Adresse geändert.",
+          "en": "I've changed my address."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Können Sie mir Ihre ___ geben?",
+          "answer": "Adresse",
+          "en": "Can you give me your address?"
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "German addresses put the house number AFTER the street: 'Hauptstraße 12', then the postcode before the city: '10115 Berlin'.",
+      "emoji": "🏠",
+      "imageable": false,
+      "tags": [
+        "post",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "die-postleitzahl"
+      ]
+    },
+    {
+      "id": "die-postleitzahl",
+      "word": "die Postleitzahl",
+      "lemma": "Postleitzahl",
+      "translation": "postcode",
+      "translations": [
+        "postcode",
+        "zip code"
+      ],
+      "level": "A1",
+      "category": "Bank, Post & Phone",
+      "partOfSpeech": "noun",
+      "frequency": 1050,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Postleitzahlen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Wie ist die Postleitzahl von Köln?",
+          "en": "What's the postcode for Cologne?"
+        },
+        {
+          "de": "Vergiss die Postleitzahl nicht.",
+          "en": "Don't forget the postcode."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Bitte geben Sie auch die ___ an.",
+          "answer": "Postleitzahl",
+          "en": "Please also state the postcode."
+        }
+      ],
+      "notes": "Everyone abbreviates it to PLZ. Always five digits.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🔢",
+      "imageable": false,
+      "tags": [
+        "post"
+      ],
+      "synonyms": [
+        "die PLZ"
+      ],
+      "antonyms": [],
+      "related": [
+        "die-adresse"
+      ]
+    },
+    {
+      "id": "das-handy",
+      "word": "das Handy",
+      "lemma": "Handy",
+      "translation": "mobile phone",
+      "translations": [
+        "mobile phone",
+        "cell phone"
+      ],
+      "level": "A1",
+      "category": "Bank, Post & Phone",
+      "partOfSpeech": "noun",
+      "frequency": 410,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Handys",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Mein Handy ist fast leer.",
+          "en": "My phone is almost out of battery."
+        },
+        {
+          "de": "Ich habe mein Handy zu Hause vergessen.",
+          "en": "I forgot my phone at home."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Kann ich kurz dein ___ benutzen?",
+          "answer": "Handy",
+          "en": "Can I quickly use your phone?"
+        }
+      ],
+      "notes": "A German invention — English speakers do not call a phone a 'handy'.",
+      "mnemonic": "It's 'handy' to have in your hand — but only Germans say it.",
+      "germany_context": null,
+      "emoji": "📱",
+      "imageable": true,
+      "tags": [
+        "phone",
+        "essential"
+      ],
+      "synonyms": [
+        "das Smartphone"
+      ],
+      "antonyms": [],
+      "related": [
+        "die-handynummer",
+        "anrufen-telefon"
+      ]
+    },
+    {
+      "id": "die-handynummer",
+      "word": "die Handynummer",
+      "lemma": "Handynummer",
+      "translation": "mobile number",
+      "translations": [
+        "mobile number",
+        "phone number"
+      ],
+      "level": "A1",
+      "category": "Bank, Post & Phone",
+      "partOfSpeech": "noun",
+      "frequency": 1100,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Handynummern",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Gibst du mir deine Handynummer?",
+          "en": "Will you give me your mobile number?"
+        },
+        {
+          "de": "Meine Handynummer hat sich geändert.",
+          "en": "My mobile number has changed."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wie ist deine ___?",
+          "answer": "Handynummer",
+          "en": "What's your mobile number?"
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "📞",
+      "imageable": false,
+      "tags": [
+        "phone"
+      ],
+      "synonyms": [
+        "die Telefonnummer"
+      ],
+      "antonyms": [],
+      "related": [
+        "das-handy"
+      ]
+    },
+    {
+      "id": "der-anruf",
+      "word": "der Anruf",
+      "lemma": "Anruf",
+      "translation": "phone call",
+      "translations": [
+        "phone call"
+      ],
+      "level": "A2",
+      "category": "Bank, Post & Phone",
+      "partOfSpeech": "noun",
+      "frequency": 980,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Anrufe",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Danke für den Anruf.",
+          "en": "Thanks for the call."
+        },
+        {
+          "de": "Ich habe einen wichtigen Anruf verpasst.",
+          "en": "I missed an important call."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich erwarte einen wichtigen ___.",
+          "answer": "Anruf",
+          "en": "I'm expecting an important call."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "☎️",
+      "imageable": false,
+      "tags": [
+        "phone"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "anrufen-telefon"
+      ]
+    },
+    {
+      "id": "der-handyvertrag",
+      "word": "der Handyvertrag",
+      "lemma": "Handyvertrag",
+      "translation": "mobile phone contract",
+      "translations": [
+        "mobile phone contract"
+      ],
+      "level": "A2",
+      "category": "Bank, Post & Phone",
+      "partOfSpeech": "noun",
+      "frequency": 1450,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Handyverträge",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Mein Handyvertrag läuft zwei Jahre.",
+          "en": "My phone contract runs for two years."
+        },
+        {
+          "de": "Ich möchte meinen Handyvertrag kündigen.",
+          "en": "I'd like to cancel my phone contract."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der ___ hat eine Laufzeit von 24 Monaten.",
+          "answer": "Handyvertrag",
+          "en": "The phone contract has a 24-month term."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Standard contracts lock you in for 24 months and auto-renew unless cancelled 3 months before the end. A Prepaid SIM avoids all of that and needs no Anmeldung or Schufa.",
+      "emoji": "📄",
+      "imageable": false,
+      "tags": [
+        "phone",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "die-kuendigungsfrist",
+        "prepaid"
+      ]
+    },
+    {
+      "id": "prepaid",
+      "word": "die Prepaid-Karte",
+      "lemma": "Prepaid-Karte",
+      "translation": "prepaid SIM card",
+      "translations": [
+        "prepaid SIM card"
+      ],
+      "level": "A2",
+      "category": "Bank, Post & Phone",
+      "partOfSpeech": "noun",
+      "frequency": 1700,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Prepaid-Karten",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich habe eine Prepaid-Karte gekauft.",
+          "en": "I bought a prepaid SIM card."
+        },
+        {
+          "de": "Die Prepaid-Karte muss ich aufladen.",
+          "en": "I need to top up the prepaid card."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Am Anfang hatte ich nur eine ___.",
+          "answer": "Prepaid-Karte",
+          "en": "At the beginning I only had a prepaid card."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "The right first move on arrival: no contract, no credit check, no address needed. Aldi Talk and Lidl Connect are cheap and sold in supermarkets. You must register it with your passport by law.",
+      "emoji": "📶",
+      "imageable": false,
+      "tags": [
+        "phone",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "der-handyvertrag",
+        "die-sim-karte"
+      ]
+    },
+    {
+      "id": "die-sim-karte",
+      "word": "die SIM-Karte",
+      "lemma": "SIM-Karte",
+      "translation": "SIM card",
+      "translations": [
+        "SIM card"
+      ],
+      "level": "A2",
+      "category": "Bank, Post & Phone",
+      "partOfSpeech": "noun",
+      "frequency": 1650,
+      "gender": "f",
+      "article": "die",
+      "plural": "die SIM-Karten",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die SIM-Karte passt nicht in mein Handy.",
+          "en": "The SIM card doesn't fit in my phone."
+        },
+        {
+          "de": "Ich brauche eine neue SIM-Karte.",
+          "en": "I need a new SIM card."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Leg bitte die ___ ins Handy ein.",
+          "answer": "SIM-Karte",
+          "en": "Please put the SIM card in the phone."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "📱",
+      "imageable": true,
+      "tags": [
+        "phone"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "prepaid"
+      ]
+    },
+    {
+      "id": "das-wlan",
+      "word": "das WLAN",
+      "lemma": "WLAN",
+      "translation": "wifi",
+      "translations": [
+        "wifi",
+        "wireless network"
+      ],
+      "level": "A1",
+      "category": "Bank, Post & Phone",
+      "partOfSpeech": "noun",
+      "frequency": 690,
+      "gender": "n",
+      "article": "das",
+      "plural": "die WLANs",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Gibt es hier WLAN?",
+          "en": "Is there wifi here?"
+        },
+        {
+          "de": "Wie ist das WLAN-Passwort?",
+          "en": "What's the wifi password?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Entschuldigung, haben Sie hier ___?",
+          "answer": "WLAN",
+          "en": "Excuse me, do you have wifi here?"
+        }
+      ],
+      "notes": "Pronounced 'VEH-lahn'. Germans rarely say 'wifi'.",
+      "mnemonic": null,
+      "germany_context": "Free public wifi is much rarer than in most countries. Cafés often have it but ask at the counter for the password.",
+      "emoji": "📶",
+      "imageable": false,
+      "tags": [
+        "phone",
+        "internet",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "das-internet-tech",
+        "das-passwort"
+      ]
+    },
+    {
+      "id": "das-internet-tech",
+      "word": "das Internet",
+      "lemma": "Internet",
+      "translation": "internet",
+      "translations": [
+        "internet"
+      ],
+      "level": "A1",
+      "category": "Bank, Post & Phone",
+      "partOfSpeech": "noun",
+      "frequency": 460,
+      "gender": "n",
+      "article": "das",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich habe das im Internet gefunden.",
+          "en": "I found that on the internet."
+        },
+        {
+          "de": "Das Internet ist heute langsam.",
+          "en": "The internet is slow today."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich suche die Adresse im ___.",
+          "answer": "Internet",
+          "en": "I'm looking for the address on the internet."
+        }
+      ],
+      "notes": "Always 'im Internet', never 'auf dem Internet'.",
+      "mnemonic": null,
+      "germany_context": "Home internet installation can genuinely take 4-8 weeks after you sign up. Arrange it the day you get your flat.",
+      "emoji": "🌐",
+      "imageable": false,
+      "tags": [
+        "internet",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "das-wlan"
+      ]
+    },
+    {
+      "id": "das-passwort",
+      "word": "das Passwort",
+      "lemma": "Passwort",
+      "translation": "password",
+      "translations": [
+        "password"
+      ],
+      "level": "A1",
+      "category": "Bank, Post & Phone",
+      "partOfSpeech": "noun",
+      "frequency": 760,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Passwörter",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich habe mein Passwort vergessen.",
+          "en": "I've forgotten my password."
+        },
+        {
+          "de": "Wie ist das Passwort für das WLAN?",
+          "en": "What's the password for the wifi?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Können Sie mir das ___ sagen?",
+          "answer": "Passwort",
+          "en": "Can you tell me the password?"
+        }
+      ],
+      "notes": "Umlaut plural: die Passwörter.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🔑",
+      "imageable": false,
+      "tags": [
+        "internet",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "das-wlan"
+      ]
+    },
+    {
+      "id": "die-versicherung",
+      "word": "die Versicherung",
+      "lemma": "Versicherung",
+      "translation": "insurance",
+      "translations": [
+        "insurance"
+      ],
+      "level": "A2",
+      "category": "Bank, Post & Phone",
+      "partOfSpeech": "noun",
+      "frequency": 870,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Versicherungen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich brauche eine Versicherung.",
+          "en": "I need insurance."
+        },
+        {
+          "de": "Die Versicherung zahlt den Schaden.",
+          "en": "The insurance covers the damage."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Hast du schon eine ___ abgeschlossen?",
+          "answer": "Versicherung",
+          "en": "Have you taken out insurance yet?"
+        }
+      ],
+      "notes": "-ung, therefore die.",
+      "mnemonic": null,
+      "germany_context": "Health insurance is legally compulsory. Haftpflichtversicherung (personal liability, ~€5/month) isn't legally required but is close to socially expected — landlords sometimes ask about it.",
+      "emoji": "🛡️",
+      "imageable": false,
+      "tags": [
+        "bank",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "die-haftpflichtversicherung"
+      ]
+    },
+    {
+      "id": "die-schufa",
+      "word": "die Schufa",
+      "lemma": "Schufa",
+      "translation": "credit rating agency",
+      "translations": [
+        "credit rating agency",
+        "credit score"
+      ],
+      "level": "A2",
+      "category": "Bank, Post & Phone",
+      "partOfSpeech": "noun",
+      "frequency": 1900,
+      "gender": "f",
+      "article": "die",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Vermieter will eine Schufa-Auskunft.",
+          "en": "The landlord wants a Schufa report."
+        },
+        {
+          "de": "Meine Schufa ist in Ordnung.",
+          "en": "My Schufa record is fine."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Für die Wohnung brauche ich eine ___-Auskunft.",
+          "answer": "Schufa",
+          "en": "For the flat I need a Schufa report."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Germany's credit bureau. Landlords and phone providers routinely ask for a Schufa-Auskunft. You can request one free copy per year at meineschufa.de — new arrivals simply have no record, which is normal.",
+      "emoji": "📊",
+      "imageable": false,
+      "tags": [
+        "bank",
+        "essential",
+        "housing"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "das-konto"
+      ]
+    }
+  ]
+}

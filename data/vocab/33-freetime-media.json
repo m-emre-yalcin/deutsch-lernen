@@ -1,0 +1,1491 @@
+{
+  "category": "Free Time, Sport & Media",
+  "words": [
+    {
+      "id": "die-freizeit",
+      "word": "die Freizeit",
+      "lemma": "Freizeit",
+      "translation": "free time",
+      "translations": [
+        "free time",
+        "leisure"
+      ],
+      "level": "A1",
+      "category": "Free Time, Sport & Media",
+      "partOfSpeech": "noun",
+      "frequency": 620,
+      "gender": "f",
+      "article": "die",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Was machst du in deiner Freizeit?",
+          "en": "What do you do in your free time?"
+        },
+        {
+          "de": "Ich habe wenig Freizeit.",
+          "en": "I have little free time."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "In meiner ___ lese ich gern.",
+          "answer": "Freizeit",
+          "en": "In my free time I like reading."
+        }
+      ],
+      "notes": "No plural. 'Was machst du in deiner Freizeit?' is a standard small-talk question.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🎈",
+      "imageable": false,
+      "tags": [
+        "freetime",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "das-hobby"
+      ]
+    },
+    {
+      "id": "das-hobby",
+      "word": "das Hobby",
+      "lemma": "Hobby",
+      "translation": "hobby",
+      "translations": [
+        "hobby"
+      ],
+      "level": "A1",
+      "category": "Free Time, Sport & Media",
+      "partOfSpeech": "noun",
+      "frequency": 800,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Hobbys",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Mein Hobby ist Fotografie.",
+          "en": "My hobby is photography."
+        },
+        {
+          "de": "Hast du Hobbys?",
+          "en": "Do you have hobbies?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Kochen ist mein liebstes ___.",
+          "answer": "Hobby",
+          "en": "Cooking is my favourite hobby."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🎨",
+      "imageable": false,
+      "tags": [
+        "freetime",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "die-freizeit"
+      ]
+    },
+    {
+      "id": "der-sport",
+      "word": "der Sport",
+      "lemma": "Sport",
+      "translation": "sport",
+      "translations": [
+        "sport",
+        "exercise"
+      ],
+      "level": "A1",
+      "category": "Free Time, Sport & Media",
+      "partOfSpeech": "noun",
+      "frequency": 470,
+      "gender": "m",
+      "article": "der",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich mache dreimal pro Woche Sport.",
+          "en": "I do sport three times a week."
+        },
+        {
+          "de": "Sport ist gesund.",
+          "en": "Sport is healthy."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Machst du regelmäßig ___?",
+          "answer": "Sport",
+          "en": "Do you do sport regularly?"
+        }
+      ],
+      "notes": "'Sport machen' = to exercise. No plural.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "⚽",
+      "imageable": false,
+      "tags": [
+        "sport",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "der-fussball",
+        "das-fitnessstudio"
+      ]
+    },
+    {
+      "id": "der-fussball",
+      "word": "der Fußball",
+      "lemma": "Fußball",
+      "translation": "football",
+      "translations": [
+        "football",
+        "soccer"
+      ],
+      "level": "A1",
+      "category": "Free Time, Sport & Media",
+      "partOfSpeech": "noun",
+      "frequency": 700,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Fußbälle",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich spiele gern Fußball.",
+          "en": "I like playing football."
+        },
+        {
+          "de": "Schaust du heute das Fußballspiel?",
+          "en": "Are you watching the football match today?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Am Samstag spielen wir ___.",
+          "answer": "Fußball",
+          "en": "On Saturday we're playing football."
+        }
+      ],
+      "notes": "No article when playing a sport: 'Ich spiele Fußball', not 'den Fußball'.",
+      "mnemonic": null,
+      "germany_context": "Football is the default conversation topic with German men. Knowing your local Bundesliga club buys you a lot of goodwill.",
+      "emoji": "⚽",
+      "imageable": true,
+      "tags": [
+        "sport",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "der-sport",
+        "die-mannschaft"
+      ]
+    },
+    {
+      "id": "die-mannschaft",
+      "word": "die Mannschaft",
+      "lemma": "Mannschaft",
+      "translation": "team",
+      "translations": [
+        "team"
+      ],
+      "level": "A2",
+      "category": "Free Time, Sport & Media",
+      "partOfSpeech": "noun",
+      "frequency": 1050,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Mannschaften",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Unsere Mannschaft hat gewonnen.",
+          "en": "Our team won."
+        },
+        {
+          "de": "Er spielt in der ersten Mannschaft.",
+          "en": "He plays in the first team."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Welche ___ unterstützt du?",
+          "answer": "Mannschaft",
+          "en": "Which team do you support?"
+        }
+      ],
+      "notes": "-schaft ending, so it's die.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "👥",
+      "imageable": false,
+      "tags": [
+        "sport"
+      ],
+      "synonyms": [
+        "das Team"
+      ],
+      "antonyms": [],
+      "related": [
+        "der-fussball",
+        "der-verein"
+      ]
+    },
+    {
+      "id": "der-verein",
+      "word": "der Verein",
+      "lemma": "Verein",
+      "translation": "club",
+      "translations": [
+        "club",
+        "association"
+      ],
+      "level": "A2",
+      "category": "Free Time, Sport & Media",
+      "partOfSpeech": "noun",
+      "frequency": 880,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Vereine",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich bin in einem Sportverein.",
+          "en": "I'm in a sports club."
+        },
+        {
+          "de": "Der Verein trifft sich jeden Mittwoch.",
+          "en": "The club meets every Wednesday."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Sie ist Mitglied in einem ___.",
+          "answer": "Verein",
+          "en": "She's a member of a club."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Vereine are the backbone of German social life — sport, music, gardening, anything. Joining one is genuinely the most effective way to make German friends as a newcomer.",
+      "emoji": "🏛️",
+      "imageable": false,
+      "tags": [
+        "freetime",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "die-mannschaft"
+      ]
+    },
+    {
+      "id": "trainieren",
+      "word": "trainieren",
+      "lemma": "trainieren",
+      "translation": "to train",
+      "translations": [
+        "to train",
+        "to work out"
+      ],
+      "level": "A2",
+      "category": "Free Time, Sport & Media",
+      "partOfSpeech": "verb",
+      "frequency": 1150,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "trainiere",
+        "du": "trainierst",
+        "er": "trainiert",
+        "wir": "trainieren",
+        "ihr": "trainiert",
+        "sie": "trainieren",
+        "praeteritum": "trainierte",
+        "perfekt": "hat trainiert",
+        "imperativ": "trainiere!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich trainiere dreimal die Woche.",
+          "en": "I train three times a week."
+        },
+        {
+          "de": "Er hat gestern zwei Stunden trainiert.",
+          "en": "He trained for two hours yesterday."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wie oft ___ du in der Woche?",
+          "answer": "trainierst",
+          "en": "How often do you train per week?"
+        }
+      ],
+      "notes": "-ieren verbs take no ge- in the participle: 'hat trainiert'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "💪",
+      "imageable": false,
+      "tags": [
+        "sport",
+        "verb"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "das-fitnessstudio"
+      ]
+    },
+    {
+      "id": "schwimmen-sport",
+      "word": "schwimmen",
+      "lemma": "schwimmen",
+      "translation": "to swim",
+      "translations": [
+        "to swim"
+      ],
+      "level": "A1",
+      "category": "Free Time, Sport & Media",
+      "partOfSpeech": "verb",
+      "frequency": 810,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "sein",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "schwimme",
+        "du": "schwimmst",
+        "er": "schwimmt",
+        "wir": "schwimmen",
+        "ihr": "schwimmt",
+        "sie": "schwimmen",
+        "praeteritum": "schwamm",
+        "perfekt": "ist geschwommen",
+        "imperativ": "schwimm!"
+      },
+      "example_sentences": [
+        {
+          "de": "Im Sommer schwimme ich im See.",
+          "en": "In summer I swim in the lake."
+        },
+        {
+          "de": "Wir sind eine Stunde geschwommen.",
+          "en": "We swam for an hour."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Kannst du gut ___?",
+          "answer": "schwimmen",
+          "en": "Can you swim well?"
+        }
+      ],
+      "notes": "Strong verb: schwamm / ist geschwommen. Takes sein because it's movement.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🏊",
+      "imageable": false,
+      "tags": [
+        "sport",
+        "verb"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "das-schwimmbad"
+      ]
+    },
+    {
+      "id": "wandern",
+      "word": "wandern",
+      "lemma": "wandern",
+      "translation": "to hike",
+      "translations": [
+        "to hike",
+        "to go walking"
+      ],
+      "level": "A2",
+      "category": "Free Time, Sport & Media",
+      "partOfSpeech": "verb",
+      "frequency": 1000,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "sein",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "wandere",
+        "du": "wanderst",
+        "er": "wandert",
+        "wir": "wandern",
+        "ihr": "wandert",
+        "sie": "wandern",
+        "praeteritum": "wanderte",
+        "perfekt": "ist gewandert",
+        "imperativ": "wandere!"
+      },
+      "example_sentences": [
+        {
+          "de": "Am Wochenende wandern wir in den Bergen.",
+          "en": "At the weekend we hike in the mountains."
+        },
+        {
+          "de": "Wir sind fünf Stunden gewandert.",
+          "en": "We hiked for five hours."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Im Sommer ___ wir gern im Schwarzwald.",
+          "answer": "wandern",
+          "en": "In summer we like hiking in the Black Forest."
+        }
+      ],
+      "notes": "Takes sein — movement from A to B.",
+      "mnemonic": null,
+      "germany_context": "Wandern is close to a national hobby. Trails are superbly marked, and every region has its Wanderwege.",
+      "emoji": "🥾",
+      "imageable": false,
+      "tags": [
+        "sport",
+        "verb"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "der-spaziergang"
+      ]
+    },
+    {
+      "id": "der-spaziergang",
+      "word": "der Spaziergang",
+      "lemma": "Spaziergang",
+      "translation": "walk",
+      "translations": [
+        "walk",
+        "stroll"
+      ],
+      "level": "A2",
+      "category": "Free Time, Sport & Media",
+      "partOfSpeech": "noun",
+      "frequency": 1080,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Spaziergänge",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Machen wir einen Spaziergang?",
+          "en": "Shall we go for a walk?"
+        },
+        {
+          "de": "Nach dem Essen machen wir immer einen Spaziergang.",
+          "en": "After the meal we always go for a walk."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wir machen einen ___ im Park.",
+          "answer": "Spaziergang",
+          "en": "We're going for a walk in the park."
+        }
+      ],
+      "notes": "The verb form is 'spazieren gehen'. Umlaut plural: die Spaziergänge.",
+      "mnemonic": null,
+      "germany_context": "The Sunday walk is a real institution — expect parks and forests to be busy with families on Sunday afternoons.",
+      "emoji": "🚶",
+      "imageable": false,
+      "tags": [
+        "freetime"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "wandern"
+      ]
+    },
+    {
+      "id": "die-musik",
+      "word": "die Musik",
+      "lemma": "Musik",
+      "translation": "music",
+      "translations": [
+        "music"
+      ],
+      "level": "A1",
+      "category": "Free Time, Sport & Media",
+      "partOfSpeech": "noun",
+      "frequency": 380,
+      "gender": "f",
+      "article": "die",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich höre gern Musik.",
+          "en": "I like listening to music."
+        },
+        {
+          "de": "Die Musik ist zu laut.",
+          "en": "The music is too loud."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Welche ___ hörst du gern?",
+          "answer": "Musik",
+          "en": "What music do you like listening to?"
+        }
+      ],
+      "notes": "-ik ending, so it's die. No plural.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🎵",
+      "imageable": false,
+      "tags": [
+        "media",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "das-konzert"
+      ]
+    },
+    {
+      "id": "das-konzert",
+      "word": "das Konzert",
+      "lemma": "Konzert",
+      "translation": "concert",
+      "translations": [
+        "concert"
+      ],
+      "level": "A1",
+      "category": "Free Time, Sport & Media",
+      "partOfSpeech": "noun",
+      "frequency": 900,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Konzerte",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Wir gehen heute Abend ins Konzert.",
+          "en": "We're going to a concert this evening."
+        },
+        {
+          "de": "Das Konzert war fantastisch.",
+          "en": "The concert was fantastic."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Hast du Karten für das ___?",
+          "answer": "Konzert",
+          "en": "Do you have tickets for the concert?"
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🎤",
+      "imageable": true,
+      "tags": [
+        "media",
+        "freetime"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "die-musik",
+        "die-karte-ticket"
+      ]
+    },
+    {
+      "id": "der-film",
+      "word": "der Film",
+      "lemma": "Film",
+      "translation": "film",
+      "translations": [
+        "film",
+        "movie"
+      ],
+      "level": "A1",
+      "category": "Free Time, Sport & Media",
+      "partOfSpeech": "noun",
+      "frequency": 400,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Filme",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Film war sehr spannend.",
+          "en": "The film was very exciting."
+        },
+        {
+          "de": "Welchen Film willst du sehen?",
+          "en": "Which film do you want to see?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Hast du den ___ schon gesehen?",
+          "answer": "Film",
+          "en": "Have you seen the film yet?"
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Foreign films are usually dubbed into German. Look for 'OmU' (Original mit Untertiteln) if you want the original with subtitles.",
+      "emoji": "🎬",
+      "imageable": false,
+      "tags": [
+        "media",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "das-kino",
+        "die-serie"
+      ]
+    },
+    {
+      "id": "die-serie",
+      "word": "die Serie",
+      "lemma": "Serie",
+      "translation": "TV series",
+      "translations": [
+        "TV series",
+        "show"
+      ],
+      "level": "A2",
+      "category": "Free Time, Sport & Media",
+      "partOfSpeech": "noun",
+      "frequency": 950,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Serien",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich schaue gerade eine neue Serie.",
+          "en": "I'm watching a new series at the moment."
+        },
+        {
+          "de": "Die Serie hat vier Staffeln.",
+          "en": "The series has four seasons."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Kennst du diese ___ auf Netflix?",
+          "answer": "Serie",
+          "en": "Do you know this series on Netflix?"
+        }
+      ],
+      "notes": "-ie ending, feminine.",
+      "mnemonic": null,
+      "germany_context": "Watching a familiar series dubbed into German with German subtitles is one of the most effective ways to train your ear.",
+      "emoji": "📺",
+      "imageable": false,
+      "tags": [
+        "media"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "der-film",
+        "der-fernseher"
+      ]
+    },
+    {
+      "id": "die-zeitung",
+      "word": "die Zeitung",
+      "lemma": "Zeitung",
+      "translation": "newspaper",
+      "translations": [
+        "newspaper"
+      ],
+      "level": "A1",
+      "category": "Free Time, Sport & Media",
+      "partOfSpeech": "noun",
+      "frequency": 720,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Zeitungen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich lese jeden Morgen die Zeitung.",
+          "en": "I read the newspaper every morning."
+        },
+        {
+          "de": "Das stand in der Zeitung.",
+          "en": "That was in the newspaper."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Hast du die ___ von heute gelesen?",
+          "answer": "Zeitung",
+          "en": "Have you read today's newspaper?"
+        }
+      ],
+      "notes": "-ung, therefore die.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "📰",
+      "imageable": true,
+      "tags": [
+        "media"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "die-nachrichten"
+      ]
+    },
+    {
+      "id": "die-nachrichten",
+      "word": "die Nachrichten",
+      "lemma": "Nachrichten",
+      "translation": "the news",
+      "translations": [
+        "the news"
+      ],
+      "level": "A2",
+      "category": "Free Time, Sport & Media",
+      "partOfSpeech": "noun",
+      "frequency": 850,
+      "gender": null,
+      "article": "die",
+      "plural": "die Nachrichten",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich schaue jeden Abend die Nachrichten.",
+          "en": "I watch the news every evening."
+        },
+        {
+          "de": "In den Nachrichten war nichts davon.",
+          "en": "There was nothing about it in the news."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Um 20 Uhr kommen die ___.",
+          "answer": "Nachrichten",
+          "en": "The news is on at 8 pm."
+        }
+      ],
+      "notes": "Plural when it means the news broadcast. In the singular 'die Nachricht' means a single message.",
+      "mnemonic": null,
+      "germany_context": "'Die Tagesschau' at 20:00 is the classic German news programme — slow, clear German and excellent listening practice.",
+      "emoji": "📻",
+      "imageable": false,
+      "tags": [
+        "media"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "die-zeitung"
+      ]
+    },
+    {
+      "id": "das-spiel",
+      "word": "das Spiel",
+      "lemma": "Spiel",
+      "translation": "game",
+      "translations": [
+        "game",
+        "match"
+      ],
+      "level": "A1",
+      "category": "Free Time, Sport & Media",
+      "partOfSpeech": "noun",
+      "frequency": 350,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Spiele",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Das Spiel beginnt um acht.",
+          "en": "The game starts at eight."
+        },
+        {
+          "de": "Wir spielen ein Spiel.",
+          "en": "We're playing a game."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wer hat das ___ gewonnen?",
+          "answer": "Spiel",
+          "en": "Who won the game?"
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Board games (Brettspiele) are a big deal in Germany — 'Spieleabend' with friends is a normal way to spend an evening.",
+      "emoji": "🎲",
+      "imageable": true,
+      "tags": [
+        "freetime"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "spielen-freizeit"
+      ]
+    },
+    {
+      "id": "die-party",
+      "word": "die Party",
+      "lemma": "Party",
+      "translation": "party",
+      "translations": [
+        "party"
+      ],
+      "level": "A1",
+      "category": "Free Time, Sport & Media",
+      "partOfSpeech": "noun",
+      "frequency": 890,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Partys",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Am Samstag gibt es eine Party.",
+          "en": "There's a party on Saturday."
+        },
+        {
+          "de": "Die Party war sehr schön.",
+          "en": "The party was really nice."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Kommst du zu meiner ___?",
+          "answer": "Party",
+          "en": "Are you coming to my party?"
+        }
+      ],
+      "notes": "German plural: die Partys, not 'Parties'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🎉",
+      "imageable": false,
+      "tags": [
+        "freetime"
+      ],
+      "synonyms": [
+        "die Feier"
+      ],
+      "antonyms": [],
+      "related": [
+        "feiern"
+      ]
+    },
+    {
+      "id": "die-nachricht-tech",
+      "word": "die Nachricht",
+      "lemma": "Nachricht",
+      "translation": "message",
+      "translations": [
+        "message"
+      ],
+      "level": "A1",
+      "category": "Free Time, Sport & Media",
+      "partOfSpeech": "noun",
+      "frequency": 560,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Nachrichten",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich habe dir eine Nachricht geschickt.",
+          "en": "I sent you a message."
+        },
+        {
+          "de": "Danke für deine Nachricht.",
+          "en": "Thanks for your message."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich habe deine ___ gerade gelesen.",
+          "answer": "Nachricht",
+          "en": "I just read your message."
+        }
+      ],
+      "notes": "Singular = one message. Plural 'die Nachrichten' usually means the news.",
+      "mnemonic": null,
+      "germany_context": "WhatsApp is the default messaging app in Germany, by a wide margin.",
+      "emoji": "💬",
+      "imageable": false,
+      "tags": [
+        "tech",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "die-email",
+        "die-nachrichten"
+      ]
+    },
+    {
+      "id": "herunterladen",
+      "word": "herunterladen",
+      "lemma": "herunterladen",
+      "translation": "to download",
+      "translations": [
+        "to download"
+      ],
+      "level": "A2",
+      "category": "Free Time, Sport & Media",
+      "partOfSpeech": "verb",
+      "frequency": 1400,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "lade herunter",
+        "du": "lädst herunter",
+        "er": "lädt herunter",
+        "wir": "laden herunter",
+        "ihr": "ladet herunter",
+        "sie": "laden herunter",
+        "praeteritum": "lud herunter",
+        "perfekt": "hat heruntergeladen",
+        "imperativ": "lade herunter!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich lade die App herunter.",
+          "en": "I'm downloading the app."
+        },
+        {
+          "de": "Hast du das Formular heruntergeladen?",
+          "en": "Have you downloaded the form?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich lade das Dokument gerade ___.",
+          "answer": "herunter",
+          "en": "I'm downloading the document right now."
+        }
+      ],
+      "notes": "Separable with a stem change: du lädst, er lädt. Also just 'downloaden' in casual speech.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "⬇️",
+      "imageable": false,
+      "tags": [
+        "tech",
+        "verb"
+      ],
+      "synonyms": [
+        "downloaden"
+      ],
+      "antonyms": [
+        "hochladen"
+      ],
+      "related": [
+        "die-app"
+      ]
+    },
+    {
+      "id": "die-app",
+      "word": "die App",
+      "lemma": "App",
+      "translation": "app",
+      "translations": [
+        "app"
+      ],
+      "level": "A1",
+      "category": "Free Time, Sport & Media",
+      "partOfSpeech": "noun",
+      "frequency": 680,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Apps",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Diese App ist sehr praktisch.",
+          "en": "This app is very handy."
+        },
+        {
+          "de": "Ich habe die App gelöscht.",
+          "en": "I deleted the app."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Lade dir die ___ herunter.",
+          "answer": "App",
+          "en": "Download the app."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Useful ones on arrival: DB Navigator (trains), the local transport app, and Kleinanzeigen for second-hand furniture.",
+      "emoji": "📱",
+      "imageable": false,
+      "tags": [
+        "tech"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "herunterladen"
+      ]
+    },
+    {
+      "id": "speichern",
+      "word": "speichern",
+      "lemma": "speichern",
+      "translation": "to save",
+      "translations": [
+        "to save",
+        "to store"
+      ],
+      "level": "A2",
+      "category": "Free Time, Sport & Media",
+      "partOfSpeech": "verb",
+      "frequency": 1300,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "speichere",
+        "du": "speicherst",
+        "er": "speichert",
+        "wir": "speichern",
+        "ihr": "speichert",
+        "sie": "speichern",
+        "praeteritum": "speicherte",
+        "perfekt": "hat gespeichert",
+        "imperativ": "speichere!"
+      },
+      "example_sentences": [
+        {
+          "de": "Hast du die Datei gespeichert?",
+          "en": "Have you saved the file?"
+        },
+        {
+          "de": "Ich speichere die Nummer in meinem Handy.",
+          "en": "I'm saving the number in my phone."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Vergiss nicht, das Dokument zu ___.",
+          "answer": "speichern",
+          "en": "Don't forget to save the document."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "💾",
+      "imageable": false,
+      "tags": [
+        "tech",
+        "verb"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "löschen"
+      ],
+      "related": [
+        "die-datei"
+      ]
+    },
+    {
+      "id": "die-datei",
+      "word": "die Datei",
+      "lemma": "Datei",
+      "translation": "file",
+      "translations": [
+        "file"
+      ],
+      "level": "A2",
+      "category": "Free Time, Sport & Media",
+      "partOfSpeech": "noun",
+      "frequency": 1250,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Dateien",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Datei ist zu groß.",
+          "en": "The file is too big."
+        },
+        {
+          "de": "Kannst du mir die Datei schicken?",
+          "en": "Can you send me the file?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich kann die ___ nicht öffnen.",
+          "answer": "Datei",
+          "en": "I can't open the file."
+        }
+      ],
+      "notes": "-ei ending, so it's die. Not to be confused with 'die Daten' (data).",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "📁",
+      "imageable": false,
+      "tags": [
+        "tech"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "speichern"
+      ]
+    },
+    {
+      "id": "googeln",
+      "word": "googeln",
+      "lemma": "googeln",
+      "translation": "to google",
+      "translations": [
+        "to google"
+      ],
+      "level": "A2",
+      "category": "Free Time, Sport & Media",
+      "partOfSpeech": "verb",
+      "frequency": 1600,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "google",
+        "du": "googelst",
+        "er": "googelt",
+        "wir": "googeln",
+        "ihr": "googelt",
+        "sie": "googeln",
+        "praeteritum": "googelte",
+        "perfekt": "hat gegoogelt",
+        "imperativ": "google!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich google das schnell.",
+          "en": "I'll quickly google that."
+        },
+        {
+          "de": "Das habe ich gegoogelt.",
+          "en": "I googled that."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Warte, ich ___ das mal.",
+          "answer": "google",
+          "en": "Wait, I'll google that."
+        }
+      ],
+      "notes": "A fully naturalised German verb, complete with a regular participle: gegoogelt.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🔍",
+      "imageable": false,
+      "tags": [
+        "tech",
+        "verb"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "das-internet-tech"
+      ]
+    },
+    {
+      "id": "das-foto",
+      "word": "das Foto",
+      "lemma": "Foto",
+      "translation": "photo",
+      "translations": [
+        "photo",
+        "picture"
+      ],
+      "level": "A1",
+      "category": "Free Time, Sport & Media",
+      "partOfSpeech": "noun",
+      "frequency": 640,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Fotos",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Darf ich ein Foto machen?",
+          "en": "May I take a photo?"
+        },
+        {
+          "de": "Schick mir bitte die Fotos.",
+          "en": "Please send me the photos."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Kannst du ein ___ von uns machen?",
+          "answer": "Foto",
+          "en": "Can you take a photo of us?"
+        }
+      ],
+      "notes": "'ein Foto machen' — make a photo, not take one.",
+      "mnemonic": null,
+      "germany_context": "German privacy norms are strict. Photographing identifiable strangers and posting it can genuinely be a legal problem — ask first.",
+      "emoji": "📷",
+      "imageable": true,
+      "tags": [
+        "media",
+        "tech"
+      ],
+      "synonyms": [
+        "das Bild"
+      ],
+      "antonyms": [],
+      "related": [
+        "die-kamera"
+      ]
+    },
+    {
+      "id": "die-kamera",
+      "word": "die Kamera",
+      "lemma": "Kamera",
+      "translation": "camera",
+      "translations": [
+        "camera"
+      ],
+      "level": "A2",
+      "category": "Free Time, Sport & Media",
+      "partOfSpeech": "noun",
+      "frequency": 1150,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Kameras",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Kamera vom Handy ist gut.",
+          "en": "The phone's camera is good."
+        },
+        {
+          "de": "Ich habe meine Kamera vergessen.",
+          "en": "I forgot my camera."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Nimm die ___ mit in den Urlaub.",
+          "answer": "Kamera",
+          "en": "Take the camera on holiday."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "📸",
+      "imageable": true,
+      "tags": [
+        "tech"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "das-foto"
+      ]
+    },
+    {
+      "id": "der-urlaub-freizeit",
+      "word": "der Urlaub",
+      "lemma": "Urlaub",
+      "translation": "holiday",
+      "translations": [
+        "holiday",
+        "vacation"
+      ],
+      "level": "A1",
+      "category": "Free Time, Sport & Media",
+      "partOfSpeech": "noun",
+      "frequency": 460,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Urlaube",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich fahre nächste Woche in Urlaub.",
+          "en": "I'm going on holiday next week."
+        },
+        {
+          "de": "Wir waren im Urlaub in Italien.",
+          "en": "We were on holiday in Italy."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wo fährst du dieses Jahr in ___?",
+          "answer": "Urlaub",
+          "en": "Where are you going on holiday this year?"
+        }
+      ],
+      "notes": "'in Urlaub fahren' = go on holiday. 'die Ferien' is used for school holidays.",
+      "mnemonic": null,
+      "germany_context": "Full-time employees get a legal minimum of 20 days, but 28-30 is normal. Taking it all is expected, not frowned upon.",
+      "emoji": "🏖️",
+      "imageable": false,
+      "tags": [
+        "freetime",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "die-freizeit"
+      ]
+    }
+  ]
+}

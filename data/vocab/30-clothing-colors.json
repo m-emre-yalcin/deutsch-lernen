@@ -1,0 +1,2107 @@
+{
+  "category": "Clothing & Colours",
+  "words": [
+    {
+      "id": "die-kleidung",
+      "word": "die Kleidung",
+      "lemma": "Kleidung",
+      "translation": "clothing",
+      "translations": [
+        "clothing",
+        "clothes"
+      ],
+      "level": "A1",
+      "category": "Clothing & Colours",
+      "partOfSpeech": "noun",
+      "frequency": 540,
+      "gender": "f",
+      "article": "die",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich brauche warme Kleidung für den Winter.",
+          "en": "I need warm clothing for the winter."
+        },
+        {
+          "de": "Die Kleidung ist im Schrank.",
+          "en": "The clothes are in the wardrobe."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Nimm bitte warme ___ mit.",
+          "answer": "Kleidung",
+          "en": "Please bring warm clothing."
+        }
+      ],
+      "notes": "Uncountable — there is no plural. For individual items say 'die Kleidungsstücke'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "👕",
+      "imageable": true,
+      "tags": [
+        "clothing"
+      ],
+      "synonyms": [
+        "die Klamotten"
+      ],
+      "antonyms": [],
+      "related": [
+        "anziehen-kleidung"
+      ]
+    },
+    {
+      "id": "das-hemd",
+      "word": "das Hemd",
+      "lemma": "Hemd",
+      "translation": "shirt",
+      "translations": [
+        "shirt"
+      ],
+      "level": "A1",
+      "category": "Clothing & Colours",
+      "partOfSpeech": "noun",
+      "frequency": 900,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Hemden",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Er trägt ein weißes Hemd.",
+          "en": "He's wearing a white shirt."
+        },
+        {
+          "de": "Das Hemd muss gebügelt werden.",
+          "en": "The shirt needs ironing."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Zum Anzug trage ich ein blaues ___.",
+          "answer": "Hemd",
+          "en": "With the suit I wear a blue shirt."
+        }
+      ],
+      "notes": "A formal button-up shirt. A T-shirt is 'das T-Shirt'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "👔",
+      "imageable": true,
+      "tags": [
+        "clothing"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "das-t-shirt",
+        "der-anzug"
+      ]
+    },
+    {
+      "id": "das-t-shirt",
+      "word": "das T-Shirt",
+      "lemma": "T-Shirt",
+      "translation": "T-shirt",
+      "translations": [
+        "T-shirt"
+      ],
+      "level": "A1",
+      "category": "Clothing & Colours",
+      "partOfSpeech": "noun",
+      "frequency": 860,
+      "gender": "n",
+      "article": "das",
+      "plural": "die T-Shirts",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Im Sommer trage ich meistens T-Shirts.",
+          "en": "In summer I mostly wear T-shirts."
+        },
+        {
+          "de": "Das T-Shirt ist zu klein.",
+          "en": "The T-shirt is too small."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Er hat ein schwarzes ___ an.",
+          "answer": "T-Shirt",
+          "en": "He's wearing a black T-shirt."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "👕",
+      "imageable": true,
+      "tags": [
+        "clothing"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "das-hemd"
+      ]
+    },
+    {
+      "id": "der-pullover",
+      "word": "der Pullover",
+      "lemma": "Pullover",
+      "translation": "jumper",
+      "translations": [
+        "jumper",
+        "sweater"
+      ],
+      "level": "A1",
+      "category": "Clothing & Colours",
+      "partOfSpeech": "noun",
+      "frequency": 880,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Pullover",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Zieh einen Pullover an, es ist kalt.",
+          "en": "Put on a jumper, it's cold."
+        },
+        {
+          "de": "Der Pullover ist aus Wolle.",
+          "en": "The jumper is made of wool."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Es ist kalt, nimm einen ___ mit.",
+          "answer": "Pullover",
+          "en": "It's cold, take a jumper."
+        }
+      ],
+      "notes": "Everyone says 'Pulli' in everyday speech. -er ending, masculine.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🧥",
+      "imageable": true,
+      "tags": [
+        "clothing"
+      ],
+      "synonyms": [
+        "der Pulli"
+      ],
+      "antonyms": [],
+      "related": [
+        "die-jacke"
+      ]
+    },
+    {
+      "id": "die-jacke",
+      "word": "die Jacke",
+      "lemma": "Jacke",
+      "translation": "jacket",
+      "translations": [
+        "jacket"
+      ],
+      "level": "A1",
+      "category": "Clothing & Colours",
+      "partOfSpeech": "noun",
+      "frequency": 750,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Jacken",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Hängen Sie Ihre Jacke bitte dorthin.",
+          "en": "Please hang your jacket over there."
+        },
+        {
+          "de": "Ich habe meine Jacke vergessen.",
+          "en": "I forgot my jacket."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Es regnet — vergiss die ___ nicht!",
+          "answer": "Jacke",
+          "en": "It's raining — don't forget your jacket!"
+        }
+      ],
+      "notes": "-e ending, feminine.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🧥",
+      "imageable": true,
+      "tags": [
+        "clothing"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "der-mantel",
+        "der-pullover"
+      ]
+    },
+    {
+      "id": "der-mantel",
+      "word": "der Mantel",
+      "lemma": "Mantel",
+      "translation": "coat",
+      "translations": [
+        "coat"
+      ],
+      "level": "A1",
+      "category": "Clothing & Colours",
+      "partOfSpeech": "noun",
+      "frequency": 950,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Mäntel",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Im Winter brauche ich einen dicken Mantel.",
+          "en": "In winter I need a thick coat."
+        },
+        {
+          "de": "Der Mantel hängt an der Garderobe.",
+          "en": "The coat is hanging in the cloakroom."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Zieh deinen ___ an, es schneit.",
+          "answer": "Mantel",
+          "en": "Put your coat on, it's snowing."
+        }
+      ],
+      "notes": "Umlaut in the plural: der Mantel → die Mäntel.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🧥",
+      "imageable": true,
+      "tags": [
+        "clothing"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "die-jacke"
+      ]
+    },
+    {
+      "id": "die-hose",
+      "word": "die Hose",
+      "lemma": "Hose",
+      "translation": "trousers",
+      "translations": [
+        "trousers",
+        "pants"
+      ],
+      "level": "A1",
+      "category": "Clothing & Colours",
+      "partOfSpeech": "noun",
+      "frequency": 800,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Hosen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Hose ist zu lang.",
+          "en": "The trousers are too long."
+        },
+        {
+          "de": "Ich kaufe mir eine neue Hose.",
+          "en": "I'm buying myself new trousers."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Diese ___ passt mir nicht mehr.",
+          "answer": "Hose",
+          "en": "These trousers don't fit me any more."
+        }
+      ],
+      "notes": "Careful: singular in German ('eine Hose'), plural in English ('trousers').",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "👖",
+      "imageable": true,
+      "tags": [
+        "clothing"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "die-jeans",
+        "der-rock"
+      ]
+    },
+    {
+      "id": "die-jeans",
+      "word": "die Jeans",
+      "lemma": "Jeans",
+      "translation": "jeans",
+      "translations": [
+        "jeans"
+      ],
+      "level": "A1",
+      "category": "Clothing & Colours",
+      "partOfSpeech": "noun",
+      "frequency": 920,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Jeans",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich trage fast immer Jeans.",
+          "en": "I wear jeans almost all the time."
+        },
+        {
+          "de": "Die Jeans ist mir zu eng.",
+          "en": "The jeans are too tight for me."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Meine neue ___ war ziemlich teuer.",
+          "answer": "Jeans",
+          "en": "My new jeans were quite expensive."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "👖",
+      "imageable": true,
+      "tags": [
+        "clothing"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "die-hose"
+      ]
+    },
+    {
+      "id": "der-rock",
+      "word": "der Rock",
+      "lemma": "Rock",
+      "translation": "skirt",
+      "translations": [
+        "skirt"
+      ],
+      "level": "A1",
+      "category": "Clothing & Colours",
+      "partOfSpeech": "noun",
+      "frequency": 1000,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Röcke",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Sie trägt einen roten Rock.",
+          "en": "She's wearing a red skirt."
+        },
+        {
+          "de": "Der Rock ist zu kurz.",
+          "en": "The skirt is too short."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der ___ passt gut zu der Bluse.",
+          "answer": "Rock",
+          "en": "The skirt goes well with the blouse."
+        }
+      ],
+      "notes": "Also means rock music — 'die Rockmusik'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "👗",
+      "imageable": true,
+      "tags": [
+        "clothing"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "das-kleid",
+        "die-bluse"
+      ]
+    },
+    {
+      "id": "das-kleid",
+      "word": "das Kleid",
+      "lemma": "Kleid",
+      "translation": "dress",
+      "translations": [
+        "dress"
+      ],
+      "level": "A1",
+      "category": "Clothing & Colours",
+      "partOfSpeech": "noun",
+      "frequency": 830,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Kleider",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Das Kleid steht dir gut.",
+          "en": "The dress suits you."
+        },
+        {
+          "de": "Sie kauft ein Kleid für die Hochzeit.",
+          "en": "She's buying a dress for the wedding."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Sie trägt ein schönes blaues ___.",
+          "answer": "Kleid",
+          "en": "She's wearing a beautiful blue dress."
+        }
+      ],
+      "notes": "The plural 'die Kleider' can also mean clothes in general.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "👗",
+      "imageable": true,
+      "tags": [
+        "clothing"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "der-rock"
+      ]
+    },
+    {
+      "id": "die-bluse",
+      "word": "die Bluse",
+      "lemma": "Bluse",
+      "translation": "blouse",
+      "translations": [
+        "blouse"
+      ],
+      "level": "A2",
+      "category": "Clothing & Colours",
+      "partOfSpeech": "noun",
+      "frequency": 1250,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Blusen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die weiße Bluse ist elegant.",
+          "en": "The white blouse is elegant."
+        },
+        {
+          "de": "Ich bügle noch schnell die Bluse.",
+          "en": "I'll quickly iron the blouse."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Zu dem Rock passt die weiße ___.",
+          "answer": "Bluse",
+          "en": "The white blouse goes with the skirt."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "👚",
+      "imageable": true,
+      "tags": [
+        "clothing"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "das-hemd",
+        "der-rock"
+      ]
+    },
+    {
+      "id": "der-anzug",
+      "word": "der Anzug",
+      "lemma": "Anzug",
+      "translation": "suit",
+      "translations": [
+        "suit"
+      ],
+      "level": "A2",
+      "category": "Clothing & Colours",
+      "partOfSpeech": "noun",
+      "frequency": 1150,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Anzüge",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Zum Vorstellungsgespräch trage ich einen Anzug.",
+          "en": "I'll wear a suit to the job interview."
+        },
+        {
+          "de": "Der Anzug sitzt perfekt.",
+          "en": "The suit fits perfectly."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Für die Hochzeit brauche ich einen ___.",
+          "answer": "Anzug",
+          "en": "I need a suit for the wedding."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "German offices are less formal than you might expect — outside banking and law, a suit is unusual even for interviews at tech companies.",
+      "emoji": "🤵",
+      "imageable": true,
+      "tags": [
+        "clothing",
+        "work"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "das-hemd",
+        "die-krawatte"
+      ]
+    },
+    {
+      "id": "die-krawatte",
+      "word": "die Krawatte",
+      "lemma": "Krawatte",
+      "translation": "tie",
+      "translations": [
+        "tie",
+        "necktie"
+      ],
+      "level": "A2",
+      "category": "Clothing & Colours",
+      "partOfSpeech": "noun",
+      "frequency": 1500,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Krawatten",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Er trägt eine blaue Krawatte.",
+          "en": "He's wearing a blue tie."
+        },
+        {
+          "de": "Ich kann keine Krawatte binden.",
+          "en": "I can't tie a tie."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Zum Anzug gehört eine ___.",
+          "answer": "Krawatte",
+          "en": "A tie goes with the suit."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "👔",
+      "imageable": true,
+      "tags": [
+        "clothing"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "der-anzug"
+      ]
+    },
+    {
+      "id": "die-socke",
+      "word": "die Socke",
+      "lemma": "Socke",
+      "translation": "sock",
+      "translations": [
+        "sock"
+      ],
+      "level": "A1",
+      "category": "Clothing & Colours",
+      "partOfSpeech": "noun",
+      "frequency": 1100,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Socken",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Wo sind meine Socken?",
+          "en": "Where are my socks?"
+        },
+        {
+          "de": "Diese Socken haben ein Loch.",
+          "en": "These socks have a hole."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich brauche neue ___ für den Winter.",
+          "answer": "Socken",
+          "en": "I need new socks for the winter."
+        }
+      ],
+      "notes": "Almost always used in the plural: die Socken.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🧦",
+      "imageable": true,
+      "tags": [
+        "clothing"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "der-schuh"
+      ]
+    },
+    {
+      "id": "der-schuh",
+      "word": "der Schuh",
+      "lemma": "Schuh",
+      "translation": "shoe",
+      "translations": [
+        "shoe"
+      ],
+      "level": "A1",
+      "category": "Clothing & Colours",
+      "partOfSpeech": "noun",
+      "frequency": 700,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Schuhe",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Diese Schuhe sind sehr bequem.",
+          "en": "These shoes are very comfortable."
+        },
+        {
+          "de": "Zieh bitte die Schuhe aus.",
+          "en": "Please take your shoes off."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Welche Größe haben diese ___?",
+          "answer": "Schuhe",
+          "en": "What size are these shoes?"
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Taking your shoes off when entering someone's home is normal and expected in Germany. Wait to be told otherwise.",
+      "emoji": "👟",
+      "imageable": true,
+      "tags": [
+        "clothing"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "der-stiefel",
+        "die-socke"
+      ]
+    },
+    {
+      "id": "der-stiefel",
+      "word": "der Stiefel",
+      "lemma": "Stiefel",
+      "translation": "boot",
+      "translations": [
+        "boot"
+      ],
+      "level": "A2",
+      "category": "Clothing & Colours",
+      "partOfSpeech": "noun",
+      "frequency": 1300,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Stiefel",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Im Winter trage ich warme Stiefel.",
+          "en": "In winter I wear warm boots."
+        },
+        {
+          "de": "Die Stiefel sind wasserdicht.",
+          "en": "The boots are waterproof."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Bei Schnee brauchst du ___.",
+          "answer": "Stiefel",
+          "en": "You need boots when it snows."
+        }
+      ],
+      "notes": "-el ending, masculine. Same form in the plural.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "👢",
+      "imageable": true,
+      "tags": [
+        "clothing"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "der-schuh"
+      ]
+    },
+    {
+      "id": "die-muetze",
+      "word": "die Mütze",
+      "lemma": "Mütze",
+      "translation": "hat",
+      "translations": [
+        "hat",
+        "beanie",
+        "cap"
+      ],
+      "level": "A2",
+      "category": "Clothing & Colours",
+      "partOfSpeech": "noun",
+      "frequency": 1350,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Mützen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Setz eine Mütze auf, es ist kalt!",
+          "en": "Put a hat on, it's cold!"
+        },
+        {
+          "de": "Ich habe meine Mütze verloren.",
+          "en": "I've lost my hat."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Bei minus fünf Grad brauchst du eine ___.",
+          "answer": "Mütze",
+          "en": "At minus five degrees you need a hat."
+        }
+      ],
+      "notes": "A soft warm hat. A formal hat with a brim is 'der Hut'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🧢",
+      "imageable": true,
+      "tags": [
+        "clothing"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "der-schal",
+        "der-handschuh"
+      ]
+    },
+    {
+      "id": "der-schal",
+      "word": "der Schal",
+      "lemma": "Schal",
+      "translation": "scarf",
+      "translations": [
+        "scarf"
+      ],
+      "level": "A2",
+      "category": "Clothing & Colours",
+      "partOfSpeech": "noun",
+      "frequency": 1400,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Schals",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Schal hält mich warm.",
+          "en": "The scarf keeps me warm."
+        },
+        {
+          "de": "Sie hat mir einen Schal gestrickt.",
+          "en": "She knitted me a scarf."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Vergiss deinen ___ nicht, es ist eisig.",
+          "answer": "Schal",
+          "en": "Don't forget your scarf, it's freezing."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🧣",
+      "imageable": true,
+      "tags": [
+        "clothing"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "die-muetze",
+        "der-handschuh"
+      ]
+    },
+    {
+      "id": "der-handschuh",
+      "word": "der Handschuh",
+      "lemma": "Handschuh",
+      "translation": "glove",
+      "translations": [
+        "glove"
+      ],
+      "level": "A2",
+      "category": "Clothing & Colours",
+      "partOfSpeech": "noun",
+      "frequency": 1450,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Handschuhe",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Zieh die Handschuhe an!",
+          "en": "Put your gloves on!"
+        },
+        {
+          "de": "Ich habe einen Handschuh verloren.",
+          "en": "I lost one glove."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Meine Hände frieren — wo sind die ___?",
+          "answer": "Handschuhe",
+          "en": "My hands are freezing — where are the gloves?"
+        }
+      ],
+      "notes": "Literally 'hand shoe' — a nicely logical compound.",
+      "mnemonic": "Hand + Schuh = a shoe for your hand.",
+      "germany_context": null,
+      "emoji": "🧤",
+      "imageable": true,
+      "tags": [
+        "clothing"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "die-muetze",
+        "der-schal"
+      ]
+    },
+    {
+      "id": "die-tasche-kleidung",
+      "word": "die Tasche",
+      "lemma": "Tasche",
+      "translation": "bag",
+      "translations": [
+        "bag",
+        "pocket"
+      ],
+      "level": "A1",
+      "category": "Clothing & Colours",
+      "partOfSpeech": "noun",
+      "frequency": 640,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Taschen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Meine Tasche ist sehr schwer.",
+          "en": "My bag is very heavy."
+        },
+        {
+          "de": "Der Schlüssel ist in der Tasche.",
+          "en": "The key is in the bag."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich habe mein Handy in der ___.",
+          "answer": "Tasche",
+          "en": "I have my phone in my bag."
+        }
+      ],
+      "notes": "Means both a bag and a pocket in clothing.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "👜",
+      "imageable": true,
+      "tags": [
+        "clothing"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "der-geldbeutel"
+      ]
+    },
+    {
+      "id": "die-brille",
+      "word": "die Brille",
+      "lemma": "Brille",
+      "translation": "glasses",
+      "translations": [
+        "glasses",
+        "spectacles"
+      ],
+      "level": "A1",
+      "category": "Clothing & Colours",
+      "partOfSpeech": "noun",
+      "frequency": 890,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Brillen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ohne Brille sehe ich nichts.",
+          "en": "I can't see anything without my glasses."
+        },
+        {
+          "de": "Wo ist meine Brille?",
+          "en": "Where are my glasses?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich brauche eine neue ___ zum Lesen.",
+          "answer": "Brille",
+          "en": "I need new glasses for reading."
+        }
+      ],
+      "notes": "Singular in German ('eine Brille'), plural in English ('glasses').",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "👓",
+      "imageable": true,
+      "tags": [
+        "clothing"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "die-sonnenbrille"
+      ]
+    },
+    {
+      "id": "die-sonnenbrille",
+      "word": "die Sonnenbrille",
+      "lemma": "Sonnenbrille",
+      "translation": "sunglasses",
+      "translations": [
+        "sunglasses"
+      ],
+      "level": "A2",
+      "category": "Clothing & Colours",
+      "partOfSpeech": "noun",
+      "frequency": 1280,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Sonnenbrillen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Nimm deine Sonnenbrille mit an den Strand.",
+          "en": "Take your sunglasses to the beach."
+        },
+        {
+          "de": "Die Sonnenbrille war teuer.",
+          "en": "The sunglasses were expensive."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Die Sonne blendet — wo ist meine ___?",
+          "answer": "Sonnenbrille",
+          "en": "The sun is blinding — where are my sunglasses?"
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🕶️",
+      "imageable": true,
+      "tags": [
+        "clothing"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "die-brille"
+      ]
+    },
+    {
+      "id": "der-regenschirm",
+      "word": "der Regenschirm",
+      "lemma": "Regenschirm",
+      "translation": "umbrella",
+      "translations": [
+        "umbrella"
+      ],
+      "level": "A1",
+      "category": "Clothing & Colours",
+      "partOfSpeech": "noun",
+      "frequency": 1180,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Regenschirme",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Nimm einen Regenschirm mit!",
+          "en": "Take an umbrella with you!"
+        },
+        {
+          "de": "Mein Regenschirm ist kaputt.",
+          "en": "My umbrella is broken."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Es regnet — hast du einen ___?",
+          "answer": "Regenschirm",
+          "en": "It's raining — do you have an umbrella?"
+        }
+      ],
+      "notes": "Usually shortened to 'der Schirm'.",
+      "mnemonic": null,
+      "germany_context": "German weather changes fast. A folding umbrella in your bag from October to April is standard practice.",
+      "emoji": "☂️",
+      "imageable": true,
+      "tags": [
+        "clothing",
+        "weather"
+      ],
+      "synonyms": [
+        "der Schirm"
+      ],
+      "antonyms": [],
+      "related": []
+    },
+    {
+      "id": "stehen-kleidung",
+      "word": "stehen (gut stehen)",
+      "lemma": "stehen",
+      "translation": "to suit someone",
+      "translations": [
+        "to suit someone"
+      ],
+      "level": "A2",
+      "category": "Clothing & Colours",
+      "partOfSpeech": "verb",
+      "frequency": 1050,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [
+        "dat"
+      ],
+      "forms": {
+        "ich": "stehe",
+        "du": "stehst",
+        "er": "steht",
+        "wir": "stehen",
+        "ihr": "steht",
+        "sie": "stehen",
+        "praeteritum": "stand",
+        "perfekt": "hat gestanden",
+        "imperativ": "steh!"
+      },
+      "example_sentences": [
+        {
+          "de": "Das Kleid steht dir sehr gut.",
+          "en": "The dress really suits you."
+        },
+        {
+          "de": "Diese Farbe steht mir nicht.",
+          "en": "This colour doesn't suit me."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der neue Mantel ___ dir gut!",
+          "answer": "steht",
+          "en": "The new coat suits you!"
+        }
+      ],
+      "notes": "With the dative it means 'to suit'. 'Das steht dir gut' is the standard compliment about clothes.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "✨",
+      "imageable": false,
+      "tags": [
+        "clothing",
+        "verb"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "passen-kleidung"
+      ]
+    },
+    {
+      "id": "die-baumwolle",
+      "word": "die Baumwolle",
+      "lemma": "Baumwolle",
+      "translation": "cotton",
+      "translations": [
+        "cotton"
+      ],
+      "level": "A2",
+      "category": "Clothing & Colours",
+      "partOfSpeech": "noun",
+      "frequency": 1700,
+      "gender": "f",
+      "article": "die",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Das T-Shirt ist aus Baumwolle.",
+          "en": "The T-shirt is made of cotton."
+        },
+        {
+          "de": "Baumwolle ist angenehm auf der Haut.",
+          "en": "Cotton is pleasant on the skin."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Dieses Hemd ist aus reiner ___.",
+          "answer": "Baumwolle",
+          "en": "This shirt is made of pure cotton."
+        }
+      ],
+      "notes": "Literally 'tree wool'.",
+      "mnemonic": "Baum (tree) + Wolle (wool) → cotton grows on a plant.",
+      "germany_context": null,
+      "emoji": "🧵",
+      "imageable": false,
+      "tags": [
+        "clothing",
+        "material"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "die-wolle",
+        "das-leder"
+      ]
+    },
+    {
+      "id": "die-wolle",
+      "word": "die Wolle",
+      "lemma": "Wolle",
+      "translation": "wool",
+      "translations": [
+        "wool"
+      ],
+      "level": "A2",
+      "category": "Clothing & Colours",
+      "partOfSpeech": "noun",
+      "frequency": 1750,
+      "gender": "f",
+      "article": "die",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Pullover ist aus Wolle.",
+          "en": "The jumper is made of wool."
+        },
+        {
+          "de": "Wolle wärmt sehr gut.",
+          "en": "Wool keeps you very warm."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Dieser Schal ist aus weicher ___.",
+          "answer": "Wolle",
+          "en": "This scarf is made of soft wool."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🧶",
+      "imageable": true,
+      "tags": [
+        "clothing",
+        "material"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "die-baumwolle"
+      ]
+    },
+    {
+      "id": "das-leder",
+      "word": "das Leder",
+      "lemma": "Leder",
+      "translation": "leather",
+      "translations": [
+        "leather"
+      ],
+      "level": "A2",
+      "category": "Clothing & Colours",
+      "partOfSpeech": "noun",
+      "frequency": 1650,
+      "gender": "n",
+      "article": "das",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Jacke ist aus echtem Leder.",
+          "en": "The jacket is made of real leather."
+        },
+        {
+          "de": "Leder ist teuer, aber haltbar.",
+          "en": "Leather is expensive but durable."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Diese Schuhe sind aus ___.",
+          "answer": "Leder",
+          "en": "These shoes are made of leather."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🧳",
+      "imageable": false,
+      "tags": [
+        "clothing",
+        "material"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "die-baumwolle"
+      ]
+    },
+    {
+      "id": "hell-farbe",
+      "word": "hell-",
+      "lemma": "hell",
+      "translation": "light (colour)",
+      "translations": [
+        "light"
+      ],
+      "level": "A2",
+      "category": "Clothing & Colours",
+      "partOfSpeech": "adjective",
+      "frequency": 1080,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "komparativ": "heller",
+        "superlativ": "am hellsten"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich mag hellblaue Hemden.",
+          "en": "I like light blue shirts."
+        },
+        {
+          "de": "Das Zimmer ist sehr hell.",
+          "en": "The room is very bright."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Sie trägt ein ___grünes Kleid.",
+          "answer": "hell",
+          "en": "She's wearing a light green dress."
+        }
+      ],
+      "notes": "Attaches directly to a colour with no space: hellblau, hellgrün, hellgrau.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🔆",
+      "imageable": false,
+      "tags": [
+        "colour"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "dunkel"
+      ],
+      "related": [
+        "dunkel-farbe"
+      ]
+    },
+    {
+      "id": "dunkel-farbe",
+      "word": "dunkel-",
+      "lemma": "dunkel",
+      "translation": "dark (colour)",
+      "translations": [
+        "dark"
+      ],
+      "level": "A2",
+      "category": "Clothing & Colours",
+      "partOfSpeech": "adjective",
+      "frequency": 1090,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "komparativ": "dunkler",
+        "superlativ": "am dunkelsten"
+      },
+      "example_sentences": [
+        {
+          "de": "Er trägt einen dunkelblauen Anzug.",
+          "en": "He's wearing a dark blue suit."
+        },
+        {
+          "de": "Draußen wird es dunkel.",
+          "en": "It's getting dark outside."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich hätte gern die ___graue Jacke.",
+          "answer": "dunkel",
+          "en": "I'd like the dark grey jacket."
+        }
+      ],
+      "notes": "Also joins directly: dunkelblau, dunkelrot. Note the comparative drops the e: dunkel → dunkler.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🌑",
+      "imageable": false,
+      "tags": [
+        "colour"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "hell"
+      ],
+      "related": [
+        "hell-farbe"
+      ]
+    },
+    {
+      "id": "bunt",
+      "word": "bunt",
+      "lemma": "bunt",
+      "translation": "colourful",
+      "translations": [
+        "colourful",
+        "multicoloured"
+      ],
+      "level": "A2",
+      "category": "Clothing & Colours",
+      "partOfSpeech": "adjective",
+      "frequency": 1380,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "komparativ": "bunter",
+        "superlativ": "am buntesten"
+      },
+      "example_sentences": [
+        {
+          "de": "Sie trägt ein buntes Kleid.",
+          "en": "She's wearing a colourful dress."
+        },
+        {
+          "de": "Der Markt ist schön bunt.",
+          "en": "The market is nice and colourful."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Im Herbst sind die Blätter sehr ___.",
+          "answer": "bunt",
+          "en": "In autumn the leaves are very colourful."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🌈",
+      "imageable": false,
+      "tags": [
+        "colour"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "die-farbe-kleidung"
+      ]
+    },
+    {
+      "id": "die-farbe-kleidung",
+      "word": "die Farbe",
+      "lemma": "Farbe",
+      "translation": "colour",
+      "translations": [
+        "colour",
+        "paint"
+      ],
+      "level": "A1",
+      "category": "Clothing & Colours",
+      "partOfSpeech": "noun",
+      "frequency": 480,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Farben",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Welche Farbe magst du am liebsten?",
+          "en": "Which colour do you like best?"
+        },
+        {
+          "de": "Die Farbe gefällt mir nicht.",
+          "en": "I don't like the colour."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Haben Sie das auch in einer anderen ___?",
+          "answer": "Farbe",
+          "en": "Do you have this in another colour too?"
+        }
+      ],
+      "notes": "Also means paint.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🎨",
+      "imageable": false,
+      "tags": [
+        "colour"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "bunt"
+      ]
+    },
+    {
+      "id": "tuerkis",
+      "word": "türkis",
+      "lemma": "türkis",
+      "translation": "turquoise",
+      "translations": [
+        "turquoise"
+      ],
+      "level": "A2",
+      "category": "Clothing & Colours",
+      "partOfSpeech": "adjective",
+      "frequency": 2200,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Das Meer ist türkis.",
+          "en": "The sea is turquoise."
+        },
+        {
+          "de": "Sie hat eine türkise Tasche.",
+          "en": "She has a turquoise bag."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Das Wasser hier ist fast ___.",
+          "answer": "türkis",
+          "en": "The water here is almost turquoise."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🩵",
+      "imageable": false,
+      "tags": [
+        "colour"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "die-farbe-kleidung"
+      ]
+    },
+    {
+      "id": "beige",
+      "word": "beige",
+      "lemma": "beige",
+      "translation": "beige",
+      "translations": [
+        "beige"
+      ],
+      "level": "A2",
+      "category": "Clothing & Colours",
+      "partOfSpeech": "adjective",
+      "frequency": 2300,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Mantel ist beige.",
+          "en": "The coat is beige."
+        },
+        {
+          "de": "Beige passt zu fast allem.",
+          "en": "Beige goes with almost everything."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich suche einen ___n Mantel.",
+          "answer": "beige",
+          "en": "I'm looking for a beige coat."
+        }
+      ],
+      "notes": "Pronounced the French way, roughly 'besch'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🟤",
+      "imageable": false,
+      "tags": [
+        "colour"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "die-farbe-kleidung"
+      ]
+    },
+    {
+      "id": "lila",
+      "word": "lila",
+      "lemma": "lila",
+      "translation": "purple",
+      "translations": [
+        "purple",
+        "lilac"
+      ],
+      "level": "A1",
+      "category": "Clothing & Colours",
+      "partOfSpeech": "adjective",
+      "frequency": 1550,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Sie trägt einen lila Schal.",
+          "en": "She's wearing a purple scarf."
+        },
+        {
+          "de": "Lila ist meine Lieblingsfarbe.",
+          "en": "Purple is my favourite colour."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Die Blumen im Garten sind ___.",
+          "answer": "lila",
+          "en": "The flowers in the garden are purple."
+        }
+      ],
+      "notes": "Never takes an adjective ending — 'ein lila Kleid', not 'ein lilanes Kleid'. Same for rosa and orange.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🟣",
+      "imageable": false,
+      "tags": [
+        "colour"
+      ],
+      "synonyms": [
+        "violett"
+      ],
+      "antonyms": [],
+      "related": [
+        "rosa"
+      ]
+    },
+    {
+      "id": "rosa",
+      "word": "rosa",
+      "lemma": "rosa",
+      "translation": "pink",
+      "translations": [
+        "pink"
+      ],
+      "level": "A1",
+      "category": "Clothing & Colours",
+      "partOfSpeech": "adjective",
+      "frequency": 1480,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Das Baby hat eine rosa Mütze.",
+          "en": "The baby has a pink hat."
+        },
+        {
+          "de": "Ich mag rosa nicht besonders.",
+          "en": "I don't especially like pink."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Sie hat ein ___ Kleid gekauft.",
+          "answer": "rosa",
+          "en": "She bought a pink dress."
+        }
+      ],
+      "notes": "Like lila, it never takes an ending.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🩷",
+      "imageable": false,
+      "tags": [
+        "colour"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "lila"
+      ]
+    },
+    {
+      "id": "die-waesche",
+      "word": "die Wäsche",
+      "lemma": "Wäsche",
+      "translation": "laundry",
+      "translations": [
+        "laundry",
+        "washing"
+      ],
+      "level": "A2",
+      "category": "Clothing & Colours",
+      "partOfSpeech": "noun",
+      "frequency": 1140,
+      "gender": "f",
+      "article": "die",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich muss noch die Wäsche waschen.",
+          "en": "I still have to do the laundry."
+        },
+        {
+          "de": "Die Wäsche hängt auf dem Balkon.",
+          "en": "The washing is hanging on the balcony."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Am Samstag mache ich die ___.",
+          "answer": "Wäsche",
+          "en": "On Saturday I do the laundry."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Many German flats have no dryer — clothes are hung on a Wäscheständer. Note also the Ruhezeiten: running a washing machine after 22:00 or on a Sunday will annoy your neighbours.",
+      "emoji": "🧺",
+      "imageable": true,
+      "tags": [
+        "clothing",
+        "home"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "die-unterwaesche"
+      ]
+    },
+    {
+      "id": "die-unterwaesche",
+      "word": "die Unterwäsche",
+      "lemma": "Unterwäsche",
+      "translation": "underwear",
+      "translations": [
+        "underwear"
+      ],
+      "level": "A2",
+      "category": "Clothing & Colours",
+      "partOfSpeech": "noun",
+      "frequency": 1620,
+      "gender": "f",
+      "article": "die",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich brauche neue Unterwäsche.",
+          "en": "I need new underwear."
+        },
+        {
+          "de": "Die Unterwäsche ist im Schrank.",
+          "en": "The underwear is in the wardrobe."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Pack genug ___ für die Reise ein.",
+          "answer": "Unterwäsche",
+          "en": "Pack enough underwear for the trip."
+        }
+      ],
+      "notes": "Uncountable, no plural.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🩲",
+      "imageable": false,
+      "tags": [
+        "clothing"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "die-waesche"
+      ]
+    },
+    {
+      "id": "der-schmuck",
+      "word": "der Schmuck",
+      "lemma": "Schmuck",
+      "translation": "jewellery",
+      "translations": [
+        "jewellery"
+      ],
+      "level": "A2",
+      "category": "Clothing & Colours",
+      "partOfSpeech": "noun",
+      "frequency": 1520,
+      "gender": "m",
+      "article": "der",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Sie trägt sehr schönen Schmuck.",
+          "en": "She's wearing very beautiful jewellery."
+        },
+        {
+          "de": "Der Schmuck war ein Geschenk.",
+          "en": "The jewellery was a gift."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Sie trägt fast nie ___.",
+          "answer": "Schmuck",
+          "en": "She almost never wears jewellery."
+        }
+      ],
+      "notes": "Uncountable — no plural.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "💍",
+      "imageable": true,
+      "tags": [
+        "clothing"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "der-ring"
+      ]
+    },
+    {
+      "id": "der-ring",
+      "word": "der Ring",
+      "lemma": "Ring",
+      "translation": "ring",
+      "translations": [
+        "ring"
+      ],
+      "level": "A1",
+      "category": "Clothing & Colours",
+      "partOfSpeech": "noun",
+      "frequency": 1160,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Ringe",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Sie trägt einen goldenen Ring.",
+          "en": "She's wearing a gold ring."
+        },
+        {
+          "de": "Der Ring ist zu groß.",
+          "en": "The ring is too big."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Er hat ihr einen ___ geschenkt.",
+          "answer": "Ring",
+          "en": "He gave her a ring."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Germans wear the wedding ring on the RIGHT hand, not the left.",
+      "emoji": "💍",
+      "imageable": true,
+      "tags": [
+        "clothing"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "der-schmuck",
+        "die-uhr-kleidung"
+      ]
+    },
+    {
+      "id": "der-guertel",
+      "word": "der Gürtel",
+      "lemma": "Gürtel",
+      "translation": "belt",
+      "translations": [
+        "belt"
+      ],
+      "level": "A2",
+      "category": "Clothing & Colours",
+      "partOfSpeech": "noun",
+      "frequency": 1580,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Gürtel",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich brauche einen neuen Gürtel.",
+          "en": "I need a new belt."
+        },
+        {
+          "de": "Der Gürtel ist aus Leder.",
+          "en": "The belt is made of leather."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Die Hose rutscht — ich brauche einen ___.",
+          "answer": "Gürtel",
+          "en": "The trousers are slipping — I need a belt."
+        }
+      ],
+      "notes": "-el ending, masculine, same in the plural.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🎗️",
+      "imageable": true,
+      "tags": [
+        "clothing"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "die-hose"
+      ]
+    }
+  ]
+}

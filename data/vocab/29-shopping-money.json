@@ -1,0 +1,3679 @@
+{
+  "category": "Shopping & Money",
+  "words": [
+    {
+      "id": "geld",
+      "word": "das Geld",
+      "lemma": "Geld",
+      "translation": "money",
+      "translations": [
+        "money",
+        "cash"
+      ],
+      "level": "A0",
+      "category": "Shopping & Money",
+      "partOfSpeech": "noun",
+      "frequency": 55,
+      "gender": "n",
+      "article": "das",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich habe kein Geld dabei.",
+          "en": "I don't have any money on me."
+        },
+        {
+          "de": "Wo kann ich hier Geld abheben?",
+          "en": "Where can I withdraw money here?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Hast du genug ___ für den Einkauf?",
+          "answer": "Geld",
+          "en": "Do you have enough money for the shopping?"
+        }
+      ],
+      "notes": "Uncountable in everyday German — no plural. 'Geld abheben' = withdraw, 'Geld überweisen' = transfer.",
+      "mnemonic": "GELD sounds like 'gold' — gold is money.",
+      "germany_context": "Germany is still much more cash-based than most of Europe. Always carry 20-50 euros in cash, even in big cities.",
+      "emoji": "💶",
+      "imageable": true,
+      "tags": [
+        "money",
+        "essential"
+      ],
+      "synonyms": [
+        "Bargeld"
+      ],
+      "antonyms": [],
+      "related": [
+        "euro",
+        "kleingeld",
+        "bar-adv"
+      ]
+    },
+    {
+      "id": "euro",
+      "word": "der Euro",
+      "lemma": "Euro",
+      "translation": "euro",
+      "translations": [
+        "euro"
+      ],
+      "level": "A0",
+      "category": "Shopping & Money",
+      "partOfSpeech": "noun",
+      "frequency": 85,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Euro",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Das Brot kostet drei Euro.",
+          "en": "The bread costs three euros."
+        },
+        {
+          "de": "Hast du einen Euro für den Einkaufswagen?",
+          "en": "Do you have a euro for the shopping trolley?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Kaffee kostet zwei ___ fünfzig.",
+          "answer": "Euro",
+          "en": "The coffee costs two euros fifty."
+        }
+      ],
+      "notes": "After a number the plural stays 'Euro': 'zehn Euro', never 'zehn Euros'.",
+      "mnemonic": null,
+      "germany_context": "Prices are written 3,50 € with a comma, and said 'drei Euro fünfzig' or just 'drei fünfzig'.",
+      "emoji": "€",
+      "imageable": true,
+      "tags": [
+        "money",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "cent",
+        "geld",
+        "preis"
+      ]
+    },
+    {
+      "id": "cent",
+      "word": "der Cent",
+      "lemma": "Cent",
+      "translation": "cent",
+      "translations": [
+        "cent"
+      ],
+      "level": "A1",
+      "category": "Shopping & Money",
+      "partOfSpeech": "noun",
+      "frequency": 300,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Cent",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Tüte kostet fünfzig Cent.",
+          "en": "The bag costs fifty cents."
+        },
+        {
+          "de": "Ich habe nur noch zwanzig Cent im Portemonnaie.",
+          "en": "I only have twenty cents left in my wallet."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Für das Pfand bekommst du fünfundzwanzig ___ zurück.",
+          "answer": "Cent",
+          "en": "You get twenty-five cents back for the deposit."
+        }
+      ],
+      "notes": "Like Euro, the plural after a number stays 'Cent'.",
+      "mnemonic": null,
+      "germany_context": "1- and 2-cent coins are still in circulation, so tills give exact change and cashiers often ask if you have the small coins.",
+      "emoji": "🪙",
+      "imageable": true,
+      "tags": [
+        "money",
+        "numbers"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "euro",
+        "kleingeld",
+        "muenze"
+      ]
+    },
+    {
+      "id": "preis",
+      "word": "der Preis",
+      "lemma": "Preis",
+      "translation": "price",
+      "translations": [
+        "price",
+        "prize"
+      ],
+      "level": "A1",
+      "category": "Shopping & Money",
+      "partOfSpeech": "noun",
+      "frequency": 210,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Preise",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Preis steht direkt am Regal.",
+          "en": "The price is right there on the shelf."
+        },
+        {
+          "de": "Die Preise sind dieses Jahr wieder gestiegen.",
+          "en": "Prices have gone up again this year."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich vergleiche immer die ___ im Internet.",
+          "answer": "Preise",
+          "en": "I always compare the prices online."
+        }
+      ],
+      "notes": "'Preis' also means 'prize' (einen Preis gewinnen).",
+      "mnemonic": null,
+      "germany_context": "Shelf prices always include VAT, so the number you see is exactly what you pay at the till.",
+      "emoji": "🏷️",
+      "imageable": false,
+      "tags": [
+        "money",
+        "shopping"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "mehrwertsteuer",
+        "rabatt",
+        "angebot"
+      ]
+    },
+    {
+      "id": "geschaeft",
+      "word": "das Geschäft",
+      "lemma": "Geschäft",
+      "translation": "shop",
+      "translations": [
+        "shop",
+        "store",
+        "business"
+      ],
+      "level": "A1",
+      "category": "Shopping & Money",
+      "partOfSpeech": "noun",
+      "frequency": 240,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Geschäfte",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Das Geschäft macht um 20 Uhr zu.",
+          "en": "The shop closes at 8 p.m."
+        },
+        {
+          "de": "In diesem Geschäft ist alles ziemlich teuer.",
+          "en": "Everything in this shop is quite expensive."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Am Sonntag sind fast alle ___ geschlossen.",
+          "answer": "Geschäfte",
+          "en": "Almost all shops are closed on Sunday."
+        }
+      ],
+      "notes": "'Geschäft' also means 'business' or 'deal'.",
+      "mnemonic": null,
+      "germany_context": "Shops are closed on Sundays and public holidays by law. Only bakeries, petrol stations and shops in main train stations open — plan your weekend shopping for Saturday.",
+      "emoji": "🏬",
+      "imageable": true,
+      "tags": [
+        "shopping",
+        "places"
+      ],
+      "synonyms": [
+        "Laden"
+      ],
+      "antonyms": [],
+      "related": [
+        "laden",
+        "kaufhaus",
+        "discounter"
+      ]
+    },
+    {
+      "id": "laden",
+      "word": "der Laden",
+      "lemma": "Laden",
+      "translation": "shop",
+      "translations": [
+        "shop",
+        "store"
+      ],
+      "level": "A1",
+      "category": "Shopping & Money",
+      "partOfSpeech": "noun",
+      "frequency": 420,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Läden",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Laden an der Ecke hat bis 22 Uhr auf.",
+          "en": "The shop on the corner is open until 10 p.m."
+        },
+        {
+          "de": "In der Straße gibt es viele kleine Läden.",
+          "en": "There are lots of small shops on that street."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Dieser ___ nimmt leider keine Karten.",
+          "answer": "Laden",
+          "en": "Unfortunately this shop doesn't take cards."
+        }
+      ],
+      "notes": "'Laden' is the everyday, slightly more casual word for a small shop; 'Geschäft' is neutral.",
+      "mnemonic": null,
+      "germany_context": "Small owner-run shops (Bäcker, Kiosk, Imbiss, Späti) very often take cash only, even in 2026.",
+      "emoji": "🏪",
+      "imageable": true,
+      "tags": [
+        "shopping",
+        "places"
+      ],
+      "synonyms": [
+        "Geschäft"
+      ],
+      "antonyms": [],
+      "related": [
+        "geschaeft",
+        "discounter"
+      ]
+    },
+    {
+      "id": "discounter",
+      "word": "der Discounter",
+      "lemma": "Discounter",
+      "translation": "discount supermarket",
+      "translations": [
+        "discount supermarket",
+        "discounter"
+      ],
+      "level": "A2",
+      "category": "Shopping & Money",
+      "partOfSpeech": "noun",
+      "frequency": 780,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Discounter",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Beim Discounter ist das Obst viel billiger.",
+          "en": "Fruit is much cheaper at the discount supermarket."
+        },
+        {
+          "de": "Wir kaufen fast alles beim Discounter.",
+          "en": "We buy almost everything at the discount supermarket."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Aldi und Lidl sind die bekanntesten ___ in Deutschland.",
+          "answer": "Discounter",
+          "en": "Aldi and Lidl are the best-known discount supermarkets in Germany."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Aldi, Lidl, Penny and Netto are the discounters. Cashiers scan extremely fast — throw everything back in the trolley, pay, and pack at the shelf behind the till. Blocking the belt is the classic newcomer mistake.",
+      "emoji": "🛒",
+      "imageable": true,
+      "tags": [
+        "shopping",
+        "places"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "geschaeft",
+        "einkaufswagen",
+        "kassierer"
+      ]
+    },
+    {
+      "id": "kaufhaus",
+      "word": "das Kaufhaus",
+      "lemma": "Kaufhaus",
+      "translation": "department store",
+      "translations": [
+        "department store"
+      ],
+      "level": "A2",
+      "category": "Shopping & Money",
+      "partOfSpeech": "noun",
+      "frequency": 950,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Kaufhäuser",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Im Kaufhaus gibt es fünf Etagen.",
+          "en": "The department store has five floors."
+        },
+        {
+          "de": "Das Kaufhaus in der Innenstadt schließt bald.",
+          "en": "The department store in the city centre is closing soon."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Schuhe findest du im ___ im zweiten Stock.",
+          "answer": "Kaufhaus",
+          "en": "You'll find shoes on the second floor in the department store."
+        }
+      ],
+      "notes": null,
+      "mnemonic": "Kauf + Haus = a whole house for buying.",
+      "germany_context": null,
+      "emoji": "🏬",
+      "imageable": true,
+      "tags": [
+        "shopping",
+        "places"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "geschaeft",
+        "abteilung-hinweis"
+      ]
+    },
+    {
+      "id": "wochenmarkt",
+      "word": "der Wochenmarkt",
+      "lemma": "Wochenmarkt",
+      "translation": "weekly market",
+      "translations": [
+        "weekly market",
+        "farmers' market"
+      ],
+      "level": "A2",
+      "category": "Shopping & Money",
+      "partOfSpeech": "noun",
+      "frequency": 900,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Wochenmärkte",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Samstags gehen wir immer auf den Wochenmarkt.",
+          "en": "We always go to the weekly market on Saturdays."
+        },
+        {
+          "de": "Auf dem Wochenmarkt ist das Gemüse frischer.",
+          "en": "The vegetables are fresher at the weekly market."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der ___ auf dem Platz findet dienstags und freitags statt.",
+          "answer": "Wochenmarkt",
+          "en": "The weekly market on the square takes place on Tuesdays and Fridays."
+        }
+      ],
+      "notes": "You go 'auf den Markt' (motion) and buy 'auf dem Markt' (location).",
+      "mnemonic": null,
+      "germany_context": "Almost every district has a Wochenmarkt one or two days a week. Most stalls take cash only, so bring coins and small notes.",
+      "emoji": "🥕",
+      "imageable": true,
+      "tags": [
+        "shopping",
+        "places",
+        "food"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "kilo",
+        "bar-adv"
+      ]
+    },
+    {
+      "id": "buchhandlung",
+      "word": "die Buchhandlung",
+      "lemma": "Buchhandlung",
+      "translation": "bookshop",
+      "translations": [
+        "bookshop",
+        "bookstore"
+      ],
+      "level": "A2",
+      "category": "Shopping & Money",
+      "partOfSpeech": "noun",
+      "frequency": 1100,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Buchhandlungen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "In der Buchhandlung gibt es auch deutsche Lernbücher.",
+          "en": "The bookshop also has German learning books."
+        },
+        {
+          "de": "Die Buchhandlung bestellt das Buch bis morgen.",
+          "en": "The bookshop will order the book by tomorrow."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich hole mein Wörterbuch in der ___ ab.",
+          "answer": "Buchhandlung",
+          "en": "I'm picking up my dictionary at the bookshop."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Book prices are fixed by law (Buchpreisbindung), so a new book costs exactly the same in a small shop as on Amazon — buy locally, it's not more expensive.",
+      "emoji": "📚",
+      "imageable": true,
+      "tags": [
+        "shopping",
+        "places"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "geschaeft",
+        "online-shop"
+      ]
+    },
+    {
+      "id": "moebelhaus",
+      "word": "das Möbelhaus",
+      "lemma": "Möbelhaus",
+      "translation": "furniture store",
+      "translations": [
+        "furniture store"
+      ],
+      "level": "A2",
+      "category": "Shopping & Money",
+      "partOfSpeech": "noun",
+      "frequency": 1400,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Möbelhäuser",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Wir fahren am Samstag ins Möbelhaus.",
+          "en": "We're driving to the furniture store on Saturday."
+        },
+        {
+          "de": "Das Möbelhaus liefert erst in vier Wochen.",
+          "en": "The furniture store won't deliver for four weeks."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Im ___ haben wir ein günstiges Sofa gefunden.",
+          "answer": "Möbelhaus",
+          "en": "We found a cheap sofa at the furniture store."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "German flats are usually rented completely empty — no lamps, no kitchen — so a trip to a Möbelhaus or Baumarkt is one of the first things you do after moving in.",
+      "emoji": "🛋️",
+      "imageable": true,
+      "tags": [
+        "shopping",
+        "places",
+        "home"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "lieferung",
+        "geschaeft"
+      ]
+    },
+    {
+      "id": "online-shop",
+      "word": "der Online-Shop",
+      "lemma": "Online-Shop",
+      "translation": "online shop",
+      "translations": [
+        "online shop",
+        "online store"
+      ],
+      "level": "A2",
+      "category": "Shopping & Money",
+      "partOfSpeech": "noun",
+      "frequency": 850,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Online-Shops",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich bestelle fast alles im Online-Shop.",
+          "en": "I order almost everything from the online shop."
+        },
+        {
+          "de": "Der Online-Shop schickt die Ware in zwei Tagen.",
+          "en": "The online shop sends the goods within two days."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "In diesem ___ ist der Versand kostenlos.",
+          "answer": "Online-Shop",
+          "en": "Shipping is free in this online shop."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "German online shops often offer 'Kauf auf Rechnung': the goods come first and you transfer the money within 14 days. Very normal here, unusual elsewhere.",
+      "emoji": "💻",
+      "imageable": false,
+      "tags": [
+        "shopping",
+        "internet"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "versand",
+        "retoure",
+        "paket"
+      ]
+    },
+    {
+      "id": "schaufenster",
+      "word": "das Schaufenster",
+      "lemma": "Schaufenster",
+      "translation": "shop window",
+      "translations": [
+        "shop window",
+        "display window"
+      ],
+      "level": "A2",
+      "category": "Shopping & Money",
+      "partOfSpeech": "noun",
+      "frequency": 1600,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Schaufenster",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Jacke im Schaufenster gefällt mir.",
+          "en": "I like the jacket in the shop window."
+        },
+        {
+          "de": "Im Schaufenster steht ein großes Schild: Ausverkauf.",
+          "en": "There's a big sign in the shop window: clearance sale."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wir schauen nur die ___ an, wir kaufen nichts.",
+          "answer": "Schaufenster",
+          "en": "We're just looking at the shop windows, we're not buying anything."
+        }
+      ],
+      "notes": "'Schaufensterbummel machen' = to go window shopping.",
+      "mnemonic": "schauen + Fenster = a window for looking.",
+      "germany_context": null,
+      "emoji": "🪟",
+      "imageable": true,
+      "tags": [
+        "shopping"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "ich-schaue-nur",
+        "geschaeft"
+      ]
+    },
+    {
+      "id": "umkleidekabine",
+      "word": "die Umkleidekabine",
+      "lemma": "Umkleidekabine",
+      "translation": "fitting room",
+      "translations": [
+        "fitting room",
+        "changing room"
+      ],
+      "level": "A2",
+      "category": "Shopping & Money",
+      "partOfSpeech": "noun",
+      "frequency": 1500,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Umkleidekabinen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Wo ist die Umkleidekabine, bitte?",
+          "en": "Where is the fitting room, please?"
+        },
+        {
+          "de": "Alle Umkleidekabinen sind gerade besetzt.",
+          "en": "All the fitting rooms are occupied right now."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Kann ich die Hose in der ___ anprobieren?",
+          "answer": "Umkleidekabine",
+          "en": "Can I try the trousers on in the fitting room?"
+        }
+      ],
+      "notes": "Short form: 'die Kabine'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🚪",
+      "imageable": true,
+      "tags": [
+        "shopping",
+        "clothes"
+      ],
+      "synonyms": [
+        "Kabine"
+      ],
+      "antonyms": [],
+      "related": [
+        "groesse",
+        "haben-sie-das-in-groesse-m"
+      ]
+    },
+    {
+      "id": "muenze",
+      "word": "die Münze",
+      "lemma": "Münze",
+      "translation": "coin",
+      "translations": [
+        "coin"
+      ],
+      "level": "A2",
+      "category": "Shopping & Money",
+      "partOfSpeech": "noun",
+      "frequency": 1200,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Münzen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Automat nimmt nur Münzen.",
+          "en": "The machine only takes coins."
+        },
+        {
+          "de": "Ich habe keine Münze für den Einkaufswagen.",
+          "en": "I don't have a coin for the shopping trolley."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Für die Toilette am Bahnhof brauchst du ___.",
+          "answer": "Münzen",
+          "en": "You need coins for the toilet at the station."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Keep a 1-euro or 50-cent coin in your jacket: you need one for supermarket trolleys and often for station toilets.",
+      "emoji": "🪙",
+      "imageable": true,
+      "tags": [
+        "money"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "Geldschein"
+      ],
+      "related": [
+        "kleingeld",
+        "geldschein",
+        "einkaufswagen"
+      ]
+    },
+    {
+      "id": "geldschein",
+      "word": "der Geldschein",
+      "lemma": "Geldschein",
+      "translation": "banknote",
+      "translations": [
+        "banknote",
+        "bill",
+        "note"
+      ],
+      "level": "A2",
+      "category": "Shopping & Money",
+      "partOfSpeech": "noun",
+      "frequency": 1300,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Geldscheine",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich habe nur einen großen Geldschein.",
+          "en": "I only have a large banknote."
+        },
+        {
+          "de": "Der Kiosk nimmt keine Geldscheine über fünfzig Euro.",
+          "en": "The kiosk doesn't take banknotes over fifty euros."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Automat gibt nur ___ aus, kein Kleingeld.",
+          "answer": "Geldscheine",
+          "en": "The machine only dispenses banknotes, no small change."
+        }
+      ],
+      "notes": "Also just 'der Schein': 'ein Zwanziger' = a twenty-euro note.",
+      "mnemonic": null,
+      "germany_context": "Small shops and bakeries dislike 50- and 100-euro notes for a small purchase and may simply refuse them.",
+      "emoji": "💵",
+      "imageable": true,
+      "tags": [
+        "money"
+      ],
+      "synonyms": [
+        "Schein"
+      ],
+      "antonyms": [
+        "Münze"
+      ],
+      "related": [
+        "muenze",
+        "bargeld-hinweis",
+        "haben-sie-es-passend"
+      ]
+    },
+    {
+      "id": "kleingeld",
+      "word": "das Kleingeld",
+      "lemma": "Kleingeld",
+      "translation": "small change",
+      "translations": [
+        "small change",
+        "coins"
+      ],
+      "level": "A2",
+      "category": "Shopping & Money",
+      "partOfSpeech": "noun",
+      "frequency": 700,
+      "gender": "n",
+      "article": "das",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Haben Sie Kleingeld?",
+          "en": "Do you have small change?"
+        },
+        {
+          "de": "Mein Kleingeld ist alle.",
+          "en": "I'm out of small change."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Für den Bäcker brauche ich immer etwas ___.",
+          "answer": "Kleingeld",
+          "en": "I always need some small change for the bakery."
+        }
+      ],
+      "notes": "Uncountable — no plural.",
+      "mnemonic": null,
+      "germany_context": "Bakeries, markets and public toilets often want coins. Cashiers regularly ask 'Haben Sie es klein?' — meaning: any small change?",
+      "emoji": "🪙",
+      "imageable": true,
+      "tags": [
+        "money",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "muenze",
+        "haben-sie-es-passend",
+        "geld"
+      ]
+    },
+    {
+      "id": "geldbeutel",
+      "word": "der Geldbeutel",
+      "lemma": "Geldbeutel",
+      "translation": "wallet",
+      "translations": [
+        "wallet",
+        "purse"
+      ],
+      "level": "A2",
+      "category": "Shopping & Money",
+      "partOfSpeech": "noun",
+      "frequency": 800,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Geldbeutel",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Mein Geldbeutel ist in der Jackentasche.",
+          "en": "My wallet is in my jacket pocket."
+        },
+        {
+          "de": "Ich habe meinen Geldbeutel zu Hause vergessen.",
+          "en": "I forgot my wallet at home."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Pass auf deinen ___ auf, hier gibt es Taschendiebe.",
+          "answer": "Geldbeutel",
+          "en": "Watch your wallet, there are pickpockets here."
+        }
+      ],
+      "notes": "Regional: Geldbeutel (south), Portemonnaie (west), Geldbörse (formal/written).",
+      "mnemonic": "Geld + Beutel = a little bag for money.",
+      "germany_context": null,
+      "emoji": "👛",
+      "imageable": true,
+      "tags": [
+        "money",
+        "objects"
+      ],
+      "synonyms": [
+        "Portemonnaie",
+        "Geldbörse"
+      ],
+      "antonyms": [],
+      "related": [
+        "geld",
+        "kreditkarte"
+      ]
+    },
+    {
+      "id": "kreditkarte",
+      "word": "die Kreditkarte",
+      "lemma": "Kreditkarte",
+      "translation": "credit card",
+      "translations": [
+        "credit card"
+      ],
+      "level": "A2",
+      "category": "Shopping & Money",
+      "partOfSpeech": "noun",
+      "frequency": 600,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Kreditkarten",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Nehmen Sie auch Kreditkarte?",
+          "en": "Do you take credit cards too?"
+        },
+        {
+          "de": "Meine Kreditkarte funktioniert hier leider nicht.",
+          "en": "Unfortunately my credit card doesn't work here."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich habe das Hotel mit ___ bezahlt.",
+          "answer": "Kreditkarte",
+          "en": "I paid for the hotel by credit card."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Many German shops accept only the Girocard (EC-Karte), not Visa or Mastercard. Ask 'Nehmen Sie Kreditkarte?' before you fill your trolley.",
+      "emoji": "💳",
+      "imageable": true,
+      "tags": [
+        "money",
+        "payment"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "kann-ich-mit-karte-zahlen",
+        "konto",
+        "bar-adv"
+      ]
+    },
+    {
+      "id": "rabatt",
+      "word": "der Rabatt",
+      "lemma": "Rabatt",
+      "translation": "discount",
+      "translations": [
+        "discount",
+        "reduction"
+      ],
+      "level": "A2",
+      "category": "Shopping & Money",
+      "partOfSpeech": "noun",
+      "frequency": 900,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Rabatte",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Auf diese Jacke gibt es zwanzig Prozent Rabatt.",
+          "en": "There's twenty percent off this jacket."
+        },
+        {
+          "de": "Mit der Kundenkarte bekommst du einen kleinen Rabatt.",
+          "en": "You get a small discount with the loyalty card."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Gibt es einen ___ für Studenten?",
+          "answer": "Rabatt",
+          "en": "Is there a discount for students?"
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🏷️",
+      "imageable": false,
+      "tags": [
+        "shopping",
+        "money"
+      ],
+      "synonyms": [
+        "Ermäßigung"
+      ],
+      "antonyms": [],
+      "related": [
+        "angebot",
+        "reduziert",
+        "kundenkarte"
+      ]
+    },
+    {
+      "id": "angebot",
+      "word": "das Angebot",
+      "lemma": "Angebot",
+      "translation": "offer",
+      "translations": [
+        "offer",
+        "deal",
+        "special"
+      ],
+      "level": "A2",
+      "category": "Shopping & Money",
+      "partOfSpeech": "noun",
+      "frequency": 450,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Angebote",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Kaffee ist diese Woche im Angebot.",
+          "en": "The coffee is on offer this week."
+        },
+        {
+          "de": "Die Angebote stehen im Prospekt.",
+          "en": "The offers are in the leaflet."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Diese Schuhe sind im ___ — nur noch heute.",
+          "answer": "Angebot",
+          "en": "These shoes are on offer — only today."
+        }
+      ],
+      "notes": "'im Angebot sein' = to be on offer / on sale.",
+      "mnemonic": null,
+      "germany_context": "Supermarket offers change every Monday and are advertised in the free Prospekt in your letterbox or in the app.",
+      "emoji": "📣",
+      "imageable": false,
+      "tags": [
+        "shopping",
+        "money"
+      ],
+      "synonyms": [
+        "Sonderangebot"
+      ],
+      "antonyms": [],
+      "related": [
+        "sonderangebot",
+        "rabatt",
+        "anbieten"
+      ]
+    },
+    {
+      "id": "sonderangebot",
+      "word": "das Sonderangebot",
+      "lemma": "Sonderangebot",
+      "translation": "special offer",
+      "translations": [
+        "special offer",
+        "sale item"
+      ],
+      "level": "A2",
+      "category": "Shopping & Money",
+      "partOfSpeech": "noun",
+      "frequency": 700,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Sonderangebote",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Heute gibt es viele Sonderangebote im Supermarkt.",
+          "en": "There are lots of special offers in the supermarket today."
+        },
+        {
+          "de": "Das war ein Sonderangebot, nur zwei Euro.",
+          "en": "That was a special offer, only two euros."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Die Butter ist ein ___ und kostet nur einen Euro.",
+          "answer": "Sonderangebot",
+          "en": "The butter is a special offer and costs only one euro."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🔖",
+      "imageable": false,
+      "tags": [
+        "shopping",
+        "money"
+      ],
+      "synonyms": [
+        "Angebot"
+      ],
+      "antonyms": [],
+      "related": [
+        "angebot",
+        "schnaeppchen"
+      ]
+    },
+    {
+      "id": "ausverkauf",
+      "word": "der Ausverkauf",
+      "lemma": "Ausverkauf",
+      "translation": "clearance sale",
+      "translations": [
+        "clearance sale",
+        "sale"
+      ],
+      "level": "A2",
+      "category": "Shopping & Money",
+      "partOfSpeech": "noun",
+      "frequency": 1300,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Ausverkäufe",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Laden macht zu, es ist Ausverkauf.",
+          "en": "The shop is closing down, it's a clearance sale."
+        },
+        {
+          "de": "Im Ausverkauf war alles fünfzig Prozent billiger.",
+          "en": "Everything was fifty percent cheaper in the clearance sale."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Nach Weihnachten beginnt der große ___.",
+          "answer": "Ausverkauf",
+          "en": "The big clearance sale starts after Christmas."
+        }
+      ],
+      "notes": "For seasonal sales Germans usually say 'Schlussverkauf' or simply 'Sale'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🛍️",
+      "imageable": false,
+      "tags": [
+        "shopping"
+      ],
+      "synonyms": [
+        "Schlussverkauf"
+      ],
+      "antonyms": [],
+      "related": [
+        "ausverkauft",
+        "reduziert"
+      ]
+    },
+    {
+      "id": "schnaeppchen",
+      "word": "das Schnäppchen",
+      "lemma": "Schnäppchen",
+      "translation": "bargain",
+      "translations": [
+        "bargain",
+        "good deal"
+      ],
+      "level": "A2",
+      "category": "Shopping & Money",
+      "partOfSpeech": "noun",
+      "frequency": 1500,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Schnäppchen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Jacke für zehn Euro war ein echtes Schnäppchen.",
+          "en": "The jacket for ten euros was a real bargain."
+        },
+        {
+          "de": "Auf dem Flohmarkt findet man oft Schnäppchen.",
+          "en": "You often find bargains at the flea market."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Das Fahrrad war ein ___, nur achtzig Euro.",
+          "answer": "Schnäppchen",
+          "en": "The bike was a bargain, only eighty euros."
+        }
+      ],
+      "notes": "All nouns ending in -chen are neuter.",
+      "mnemonic": "-chen ending → always das.",
+      "germany_context": null,
+      "emoji": "💰",
+      "imageable": false,
+      "tags": [
+        "shopping",
+        "money"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "guenstig-hinweis",
+        "sonderangebot"
+      ]
+    },
+    {
+      "id": "mehrwertsteuer",
+      "word": "die Mehrwertsteuer",
+      "lemma": "Mehrwertsteuer",
+      "translation": "VAT",
+      "translations": [
+        "VAT",
+        "value added tax",
+        "sales tax"
+      ],
+      "level": "A2",
+      "category": "Shopping & Money",
+      "partOfSpeech": "noun",
+      "frequency": 1700,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Mehrwertsteuern",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Preis ist inklusive Mehrwertsteuer.",
+          "en": "The price includes VAT."
+        },
+        {
+          "de": "Auf der Rechnung steht die Mehrwertsteuer extra.",
+          "en": "The VAT is listed separately on the invoice."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "In Deutschland beträgt die ___ neunzehn Prozent.",
+          "answer": "Mehrwertsteuer",
+          "en": "VAT in Germany is nineteen percent."
+        }
+      ],
+      "notes": "Short form on receipts: MwSt.",
+      "mnemonic": null,
+      "germany_context": "VAT is 19%, or 7% on food, books and public transport. It is always already included in the shelf price — the number you see is what you pay.",
+      "emoji": "🧾",
+      "imageable": false,
+      "tags": [
+        "money",
+        "tax"
+      ],
+      "synonyms": [
+        "MwSt."
+      ],
+      "antonyms": [],
+      "related": [
+        "preis",
+        "kassenbon"
+      ]
+    },
+    {
+      "id": "kassenbon",
+      "word": "der Kassenbon",
+      "lemma": "Kassenbon",
+      "translation": "receipt",
+      "translations": [
+        "receipt",
+        "till receipt"
+      ],
+      "level": "A2",
+      "category": "Shopping & Money",
+      "partOfSpeech": "noun",
+      "frequency": 650,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Kassenbons",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Möchten Sie den Kassenbon?",
+          "en": "Would you like the receipt?"
+        },
+        {
+          "de": "Ohne Kassenbon kann ich nichts umtauschen.",
+          "en": "I can't exchange anything without the receipt."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Heb den ___ auf, die Garantie gilt zwei Jahre.",
+          "answer": "Kassenbon",
+          "en": "Keep the receipt, the warranty lasts two years."
+        }
+      ],
+      "notes": "Also: der Bon, der Kassenzettel. 'Quittung' is the more formal word.",
+      "mnemonic": null,
+      "germany_context": "Since 2020 shops must print a receipt for every purchase (Bonpflicht). Keep it — without a Kassenbon an exchange or complaint is usually refused.",
+      "emoji": "🧾",
+      "imageable": true,
+      "tags": [
+        "shopping",
+        "money"
+      ],
+      "synonyms": [
+        "Bon",
+        "Kassenzettel"
+      ],
+      "antonyms": [],
+      "related": [
+        "umtausch",
+        "garantie",
+        "kassierer"
+      ]
+    },
+    {
+      "id": "kassierer",
+      "word": "der Kassierer",
+      "lemma": "Kassierer",
+      "translation": "cashier",
+      "translations": [
+        "cashier",
+        "checkout assistant"
+      ],
+      "level": "A2",
+      "category": "Shopping & Money",
+      "partOfSpeech": "noun",
+      "frequency": 1400,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Kassierer",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Kassierer fragt, ob ich eine Tüte brauche.",
+          "en": "The cashier is asking whether I need a bag."
+        },
+        {
+          "de": "Die Kassiererin war sehr freundlich.",
+          "en": "The cashier was very friendly."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Frag den ___, wo das Mehl steht.",
+          "answer": "Kassierer",
+          "en": "Ask the cashier where the flour is."
+        }
+      ],
+      "notes": "Female form: die Kassiererin.",
+      "mnemonic": null,
+      "germany_context": "German cashiers sit down and scan very fast — the pressure to pack quickly is real, and everyone bags their own groceries.",
+      "emoji": "🧑‍💼",
+      "imageable": true,
+      "tags": [
+        "shopping",
+        "people"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "kassieren",
+        "kassenbon",
+        "discounter"
+      ]
+    },
+    {
+      "id": "kundenkarte",
+      "word": "die Kundenkarte",
+      "lemma": "Kundenkarte",
+      "translation": "loyalty card",
+      "translations": [
+        "loyalty card",
+        "customer card"
+      ],
+      "level": "A2",
+      "category": "Shopping & Money",
+      "partOfSpeech": "noun",
+      "frequency": 1100,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Kundenkarten",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Haben Sie eine Kundenkarte?",
+          "en": "Do you have a loyalty card?"
+        },
+        {
+          "de": "Mit der Kundenkarte sammle ich Punkte.",
+          "en": "I collect points with the loyalty card."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Meine ___ ist in der App auf dem Handy.",
+          "answer": "Kundenkarte",
+          "en": "My loyalty card is in the app on my phone."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Payback (Rewe, dm) and Deutschlandcard (Netto, Edeka) are the two big loyalty schemes. At the till you'll hear 'Sammeln Sie Punkte?'",
+      "emoji": "💳",
+      "imageable": true,
+      "tags": [
+        "shopping",
+        "money"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "rabatt",
+        "kassenbon"
+      ]
+    },
+    {
+      "id": "einkaufswagen",
+      "word": "der Einkaufswagen",
+      "lemma": "Einkaufswagen",
+      "translation": "shopping trolley",
+      "translations": [
+        "shopping trolley",
+        "shopping cart"
+      ],
+      "level": "A1",
+      "category": "Shopping & Money",
+      "partOfSpeech": "noun",
+      "frequency": 520,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Einkaufswagen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Einkaufswagen ist schon voll.",
+          "en": "The shopping trolley is already full."
+        },
+        {
+          "de": "Ich hole schnell einen Einkaufswagen.",
+          "en": "I'll quickly get a shopping trolley."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Für den ___ brauchst du eine Euromünze.",
+          "answer": "Einkaufswagen",
+          "en": "You need a one-euro coin for the shopping trolley."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Trolleys are chained together. You insert a 1-euro or 50-cent coin to unlock one and get it back when you chain it up again — many people carry a plastic Einkaufschip instead.",
+      "emoji": "🛒",
+      "imageable": true,
+      "tags": [
+        "shopping",
+        "objects"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "einkaufskorb",
+        "muenze",
+        "discounter"
+      ]
+    },
+    {
+      "id": "einkaufskorb",
+      "word": "der Einkaufskorb",
+      "lemma": "Einkaufskorb",
+      "translation": "shopping basket",
+      "translations": [
+        "shopping basket"
+      ],
+      "level": "A2",
+      "category": "Shopping & Money",
+      "partOfSpeech": "noun",
+      "frequency": 1200,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Einkaufskörbe",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Nimm lieber einen Einkaufskorb, wir kaufen nur wenig.",
+          "en": "Better take a shopping basket, we're only buying a few things."
+        },
+        {
+          "de": "Die Einkaufskörbe stehen am Eingang.",
+          "en": "The shopping baskets are at the entrance."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Mein ___ ist zu schwer, ich hole einen Wagen.",
+          "answer": "Einkaufskorb",
+          "en": "My shopping basket is too heavy, I'll get a trolley."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🧺",
+      "imageable": true,
+      "tags": [
+        "shopping",
+        "objects"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "einkaufswagen",
+        "einkauf"
+      ]
+    },
+    {
+      "id": "tuete",
+      "word": "die Tüte",
+      "lemma": "Tüte",
+      "translation": "bag",
+      "translations": [
+        "bag",
+        "carrier bag"
+      ],
+      "level": "A1",
+      "category": "Shopping & Money",
+      "partOfSpeech": "noun",
+      "frequency": 480,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Tüten",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Brauchen Sie eine Tüte?",
+          "en": "Do you need a bag?"
+        },
+        {
+          "de": "Die Tüte kostet dreißig Cent.",
+          "en": "The bag costs thirty cents."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Nein danke, ich habe eine eigene ___ dabei.",
+          "answer": "Tüte",
+          "en": "No thanks, I've brought my own bag."
+        }
+      ],
+      "notes": "'eine Tüte Chips' = a bag of crisps.",
+      "mnemonic": null,
+      "germany_context": "Plastic bags are banned. A paper or fabric bag costs 20 cents to 1 euro at the till, so almost everyone brings their own Stoffbeutel or Rucksack.",
+      "emoji": "🛍️",
+      "imageable": true,
+      "tags": [
+        "shopping",
+        "objects",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "beutel",
+        "brauchen-sie-eine-tuete"
+      ]
+    },
+    {
+      "id": "beutel",
+      "word": "der Beutel",
+      "lemma": "Beutel",
+      "translation": "cloth bag",
+      "translations": [
+        "cloth bag",
+        "pouch",
+        "tote bag"
+      ],
+      "level": "A2",
+      "category": "Shopping & Money",
+      "partOfSpeech": "noun",
+      "frequency": 1250,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Beutel",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich nehme immer einen Beutel zum Einkaufen mit.",
+          "en": "I always take a cloth bag along when I go shopping."
+        },
+        {
+          "de": "In dem Beutel ist noch Platz für das Brot.",
+          "en": "There's still room in the bag for the bread."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Hast du einen ___ dabei? Ich will keine Tüte kaufen.",
+          "answer": "Beutel",
+          "en": "Have you got a cloth bag with you? I don't want to buy a bag."
+        }
+      ],
+      "notes": "Usually 'Stoffbeutel' (fabric) or 'Jutebeutel'.",
+      "mnemonic": null,
+      "germany_context": "The Stoffbeutel is standard equipment in Germany — keep one folded in your jacket or backpack.",
+      "emoji": "👜",
+      "imageable": true,
+      "tags": [
+        "shopping",
+        "objects"
+      ],
+      "synonyms": [
+        "Stoffbeutel"
+      ],
+      "antonyms": [],
+      "related": [
+        "tuete",
+        "einkauf"
+      ]
+    },
+    {
+      "id": "pfandautomat",
+      "word": "der Pfandautomat",
+      "lemma": "Pfandautomat",
+      "translation": "bottle return machine",
+      "translations": [
+        "bottle return machine",
+        "deposit machine"
+      ],
+      "level": "A2",
+      "category": "Shopping & Money",
+      "partOfSpeech": "noun",
+      "frequency": 750,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Pfandautomaten",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Pfandautomat ist gleich neben dem Eingang.",
+          "en": "The bottle return machine is right next to the entrance."
+        },
+        {
+          "de": "Der Pfandautomat nimmt diese Flasche nicht an.",
+          "en": "The bottle return machine won't accept this bottle."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich bringe die leeren Flaschen zum ___.",
+          "answer": "Pfandautomaten",
+          "en": "I'm taking the empty bottles to the bottle return machine."
+        }
+      ],
+      "notes": "N-declension: dem/den Pfandautomaten.",
+      "mnemonic": null,
+      "germany_context": "Put your empties in the Pfandautomat at the supermarket entrance one by one, label facing up. It prints a voucher (Pfandbon) that you hand in at the till or use against your shopping.",
+      "emoji": "♻️",
+      "imageable": true,
+      "tags": [
+        "shopping",
+        "recycling"
+      ],
+      "synonyms": [
+        "Leergutautomat"
+      ],
+      "antonyms": [],
+      "related": [
+        "kassenbon",
+        "geschaeft"
+      ]
+    },
+    {
+      "id": "groesse",
+      "word": "die Größe",
+      "lemma": "Größe",
+      "translation": "size",
+      "translations": [
+        "size"
+      ],
+      "level": "A1",
+      "category": "Shopping & Money",
+      "partOfSpeech": "noun",
+      "frequency": 400,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Größen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Welche Größe brauchen Sie?",
+          "en": "What size do you need?"
+        },
+        {
+          "de": "Diese Größe ist mir zu klein.",
+          "en": "This size is too small for me."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Haben Sie den Pullover auch in ___ 40?",
+          "answer": "Größe",
+          "en": "Do you have the jumper in size 40 as well?"
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Clothing and shoe sizes use the EU system: shoe 42, shirt 40. Turkish and EU shoe sizes are the same, so no conversion needed.",
+      "emoji": "📏",
+      "imageable": false,
+      "tags": [
+        "shopping",
+        "clothes"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "haben-sie-das-in-groesse-m",
+        "umkleidekabine"
+      ]
+    },
+    {
+      "id": "umtausch",
+      "word": "der Umtausch",
+      "lemma": "Umtausch",
+      "translation": "exchange",
+      "translations": [
+        "exchange",
+        "return"
+      ],
+      "level": "A2",
+      "category": "Shopping & Money",
+      "partOfSpeech": "noun",
+      "frequency": 1350,
+      "gender": "m",
+      "article": "der",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Umtausch ist nur mit Kassenbon möglich.",
+          "en": "Exchange is only possible with the receipt."
+        },
+        {
+          "de": "Beim Umtausch bekommen Sie einen Gutschein.",
+          "en": "You'll get a voucher when you exchange it."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ein ___ ist bei reduzierter Ware oft ausgeschlossen.",
+          "answer": "Umtausch",
+          "en": "Exchange is often excluded for reduced goods."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "There is no legal right to return goods bought in a shop just because you changed your mind — it's pure goodwill. Online purchases are different: 14 days to return, no reason needed.",
+      "emoji": "🔄",
+      "imageable": false,
+      "tags": [
+        "shopping"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "umtauschen",
+        "retoure",
+        "kassenbon"
+      ]
+    },
+    {
+      "id": "garantie",
+      "word": "die Garantie",
+      "lemma": "Garantie",
+      "translation": "warranty",
+      "translations": [
+        "warranty",
+        "guarantee"
+      ],
+      "level": "A2",
+      "category": "Shopping & Money",
+      "partOfSpeech": "noun",
+      "frequency": 900,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Garantien",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Auf das Handy gibt es zwei Jahre Garantie.",
+          "en": "There's a two-year warranty on the phone."
+        },
+        {
+          "de": "Die Garantie ist leider schon abgelaufen.",
+          "en": "Unfortunately the warranty has already expired."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ist der Laptop noch in der ___?",
+          "answer": "Garantie",
+          "en": "Is the laptop still under warranty?"
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Separate from any Garantie from the maker, the seller owes you a 2-year Gewährleistung by law for faulty goods. Keep the Kassenbon as proof.",
+      "emoji": "🛡️",
+      "imageable": false,
+      "tags": [
+        "shopping",
+        "rights"
+      ],
+      "synonyms": [
+        "Gewährleistung"
+      ],
+      "antonyms": [],
+      "related": [
+        "reklamation",
+        "kassenbon"
+      ]
+    },
+    {
+      "id": "reklamation",
+      "word": "die Reklamation",
+      "lemma": "Reklamation",
+      "translation": "complaint",
+      "translations": [
+        "complaint",
+        "claim"
+      ],
+      "level": "A2",
+      "category": "Shopping & Money",
+      "partOfSpeech": "noun",
+      "frequency": 1600,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Reklamationen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich habe eine Reklamation: Das Gerät geht nicht.",
+          "en": "I have a complaint: the device doesn't work."
+        },
+        {
+          "de": "Für Reklamationen gehen Sie bitte zur Information.",
+          "en": "For complaints please go to the information desk."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Die ___ dauert etwa zwei Wochen.",
+          "answer": "Reklamation",
+          "en": "The complaint takes about two weeks to process."
+        }
+      ],
+      "notes": "About a faulty product. For general complaints use 'sich beschweren'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "⚠️",
+      "imageable": false,
+      "tags": [
+        "shopping",
+        "rights"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "garantie",
+        "umtausch"
+      ]
+    },
+    {
+      "id": "lieferung",
+      "word": "die Lieferung",
+      "lemma": "Lieferung",
+      "translation": "delivery",
+      "translations": [
+        "delivery"
+      ],
+      "level": "A2",
+      "category": "Shopping & Money",
+      "partOfSpeech": "noun",
+      "frequency": 950,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Lieferungen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Lieferung kommt am Donnerstag.",
+          "en": "The delivery is coming on Thursday."
+        },
+        {
+          "de": "Die Lieferung ist ab fünfzig Euro kostenlos.",
+          "en": "Delivery is free from fifty euros."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Meine ___ hat sich um drei Tage verspätet.",
+          "answer": "Lieferung",
+          "en": "My delivery was three days late."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "If nobody is home, parcels are often left with a neighbour and a note (Benachrichtigung) goes in your letterbox.",
+      "emoji": "🚚",
+      "imageable": false,
+      "tags": [
+        "shopping",
+        "online"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "liefern",
+        "versand",
+        "paket"
+      ]
+    },
+    {
+      "id": "versand",
+      "word": "der Versand",
+      "lemma": "Versand",
+      "translation": "shipping",
+      "translations": [
+        "shipping",
+        "postage"
+      ],
+      "level": "A2",
+      "category": "Shopping & Money",
+      "partOfSpeech": "noun",
+      "frequency": 1450,
+      "gender": "m",
+      "article": "der",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Versand kostet vier Euro neunzig.",
+          "en": "Shipping costs four euros ninety."
+        },
+        {
+          "de": "Der Versand ist bei dieser Bestellung gratis.",
+          "en": "Shipping is free with this order."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Preis: 29 Euro plus ___.",
+          "answer": "Versand",
+          "en": "Price: 29 euros plus shipping."
+        }
+      ],
+      "notes": "Uncountable in practice — no plural.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "📦",
+      "imageable": false,
+      "tags": [
+        "shopping",
+        "online"
+      ],
+      "synonyms": [
+        "Versandkosten"
+      ],
+      "antonyms": [],
+      "related": [
+        "lieferung",
+        "online-shop",
+        "paket"
+      ]
+    },
+    {
+      "id": "packstation",
+      "word": "die Packstation",
+      "lemma": "Packstation",
+      "translation": "parcel locker",
+      "translations": [
+        "parcel locker",
+        "pickup station"
+      ],
+      "level": "A2",
+      "category": "Shopping & Money",
+      "partOfSpeech": "noun",
+      "frequency": 1250,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Packstationen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Mein Paket liegt in der Packstation.",
+          "en": "My parcel is in the parcel locker."
+        },
+        {
+          "de": "Die Packstation ist rund um die Uhr offen.",
+          "en": "The parcel locker is open around the clock."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Schick es lieber an die ___, ich bin tagsüber nicht zu Hause.",
+          "answer": "Packstation",
+          "en": "Better send it to the parcel locker, I'm not home during the day."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "DHL Packstation lockers are everywhere and open 24/7. You need a free DHL account and the Post & DHL app to send or collect.",
+      "emoji": "🔐",
+      "imageable": true,
+      "tags": [
+        "shopping",
+        "post"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "paket",
+        "lieferung"
+      ]
+    },
+    {
+      "id": "retoure",
+      "word": "die Retoure",
+      "lemma": "Retoure",
+      "translation": "return",
+      "translations": [
+        "return",
+        "returned goods"
+      ],
+      "level": "A2",
+      "category": "Shopping & Money",
+      "partOfSpeech": "noun",
+      "frequency": 1550,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Retouren",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Retoure ist bei diesem Shop kostenlos.",
+          "en": "Returns are free at this shop."
+        },
+        {
+          "de": "Ich habe das Retourenlabel schon ausgedruckt.",
+          "en": "I've already printed the return label."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Die ___ muss innerhalb von 14 Tagen zurückgehen.",
+          "answer": "Retoure",
+          "en": "The return has to go back within 14 days."
+        }
+      ],
+      "notes": "Online-shopping word; in a shop you say 'zurückgeben' or 'umtauschen'.",
+      "mnemonic": null,
+      "germany_context": "By law you have 14 days to return anything bought online, no reason needed (Widerrufsrecht). Most large shops include a free return label.",
+      "emoji": "↩️",
+      "imageable": false,
+      "tags": [
+        "shopping",
+        "online",
+        "rights"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "zurueckschicken",
+        "umtausch",
+        "online-shop"
+      ]
+    },
+    {
+      "id": "schlange",
+      "word": "die Schlange",
+      "lemma": "Schlange",
+      "translation": "queue",
+      "translations": [
+        "queue",
+        "line",
+        "snake"
+      ],
+      "level": "A2",
+      "category": "Shopping & Money",
+      "partOfSpeech": "noun",
+      "frequency": 1000,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Schlangen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "An der Kasse ist eine lange Schlange.",
+          "en": "There's a long queue at the till."
+        },
+        {
+          "de": "Wir mussten zwanzig Minuten in der Schlange warten.",
+          "en": "We had to wait twenty minutes in the queue."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Samstags gibt es überall lange ___.",
+          "answer": "Schlangen",
+          "en": "There are long queues everywhere on Saturdays."
+        }
+      ],
+      "notes": "Also means 'snake'. 'Schlange stehen' = to queue.",
+      "mnemonic": "A queue winds like a snake.",
+      "germany_context": null,
+      "emoji": "🚶",
+      "imageable": false,
+      "tags": [
+        "shopping"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "anstehen",
+        "kassierer"
+      ]
+    },
+    {
+      "id": "stueck",
+      "word": "das Stück",
+      "lemma": "Stück",
+      "translation": "piece",
+      "translations": [
+        "piece",
+        "item"
+      ],
+      "level": "A1",
+      "category": "Shopping & Money",
+      "partOfSpeech": "noun",
+      "frequency": 350,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Stücke",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich hätte gern drei Stück, bitte.",
+          "en": "I'd like three, please."
+        },
+        {
+          "de": "Ein Stück Kuchen kostet zwei Euro achtzig.",
+          "en": "A piece of cake costs two euros eighty."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Die Brötchen kosten vierzig Cent pro ___.",
+          "answer": "Stück",
+          "en": "The bread rolls cost forty cents each."
+        }
+      ],
+      "notes": "After a number it stays singular: 'drei Stück', not 'drei Stücke'.",
+      "mnemonic": null,
+      "germany_context": "At the bakery you order by number: 'Drei Brötchen und ein Stück Kuchen, bitte.'",
+      "emoji": "🍰",
+      "imageable": false,
+      "tags": [
+        "shopping",
+        "quantity"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "kilo",
+        "preis"
+      ]
+    },
+    {
+      "id": "kilo",
+      "word": "das Kilo",
+      "lemma": "Kilo",
+      "translation": "kilo",
+      "translations": [
+        "kilo",
+        "kilogram"
+      ],
+      "level": "A1",
+      "category": "Shopping & Money",
+      "partOfSpeech": "noun",
+      "frequency": 430,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Kilo",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ein Kilo Tomaten, bitte.",
+          "en": "A kilo of tomatoes, please."
+        },
+        {
+          "de": "Das Fleisch kostet zwölf Euro pro Kilo.",
+          "en": "The meat costs twelve euros per kilo."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich nehme zwei ___ Kartoffeln.",
+          "answer": "Kilo",
+          "en": "I'll take two kilos of potatoes."
+        }
+      ],
+      "notes": "Full form: das Kilogramm. After a number the plural stays 'Kilo'. Half a kilo = 'ein Pfund'.",
+      "mnemonic": null,
+      "germany_context": "At the market and the Metzgerei, 'ein Pfund' means 500 g and is used constantly.",
+      "emoji": "⚖️",
+      "imageable": false,
+      "tags": [
+        "shopping",
+        "quantity"
+      ],
+      "synonyms": [
+        "Kilogramm"
+      ],
+      "antonyms": [],
+      "related": [
+        "wiegen",
+        "stueck",
+        "wochenmarkt"
+      ]
+    },
+    {
+      "id": "einkauf",
+      "word": "der Einkauf",
+      "lemma": "Einkauf",
+      "translation": "shopping",
+      "translations": [
+        "shopping",
+        "purchase"
+      ],
+      "level": "A2",
+      "category": "Shopping & Money",
+      "partOfSpeech": "noun",
+      "frequency": 680,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Einkäufe",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Einkauf hat sechzig Euro gekostet.",
+          "en": "The shopping cost sixty euros."
+        },
+        {
+          "de": "Hilfst du mir mit den Einkäufen?",
+          "en": "Will you help me with the shopping?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Nach dem ___ trage ich alles in den vierten Stock.",
+          "answer": "Einkauf",
+          "en": "After the shopping I carry everything up to the fourth floor."
+        }
+      ],
+      "notes": "'Einkäufe' (plural) = the bought goods you carry home.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🛍️",
+      "imageable": false,
+      "tags": [
+        "shopping"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "einkaufskorb",
+        "beutel"
+      ]
+    },
+    {
+      "id": "umtauschen",
+      "word": "umtauschen",
+      "lemma": "umtauschen",
+      "translation": "to exchange",
+      "translations": [
+        "to exchange",
+        "to swap"
+      ],
+      "level": "A2",
+      "category": "Shopping & Money",
+      "partOfSpeech": "verb",
+      "frequency": 1300,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "tausche um",
+        "du": "tauschst um",
+        "er": "tauscht um",
+        "wir": "tauschen um",
+        "ihr": "tauscht um",
+        "sie": "tauschen um",
+        "praeteritum": "tauschte um",
+        "perfekt": "hat umgetauscht",
+        "imperativ": "tausch um!"
+      },
+      "example_sentences": [
+        {
+          "de": "Kann ich das Hemd umtauschen?",
+          "en": "Can I exchange the shirt?"
+        },
+        {
+          "de": "Ich habe die Schuhe gegen eine größere Größe umgetauscht.",
+          "en": "I exchanged the shoes for a bigger size."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wenn die Hose nicht passt, ___ du sie einfach um.",
+          "answer": "tauschst",
+          "en": "If the trousers don't fit, you just exchange them."
+        }
+      ],
+      "notes": "Separable: 'Ich tausche das Hemd um.'",
+      "mnemonic": null,
+      "germany_context": "Ask 'Kann ich das umtauschen?' before you buy — many shops only give a Gutschein, not your money back.",
+      "emoji": "🔄",
+      "imageable": false,
+      "tags": [
+        "shopping",
+        "verbs"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "umtausch",
+        "kassenbon"
+      ]
+    },
+    {
+      "id": "liefern",
+      "word": "liefern",
+      "lemma": "liefern",
+      "translation": "to deliver",
+      "translations": [
+        "to deliver"
+      ],
+      "level": "A2",
+      "category": "Shopping & Money",
+      "partOfSpeech": "verb",
+      "frequency": 900,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [
+        "akk",
+        "dat"
+      ],
+      "forms": {
+        "ich": "liefere",
+        "du": "lieferst",
+        "er": "liefert",
+        "wir": "liefern",
+        "ihr": "liefert",
+        "sie": "liefern",
+        "praeteritum": "lieferte",
+        "perfekt": "hat geliefert",
+        "imperativ": "liefer(e)!"
+      },
+      "example_sentences": [
+        {
+          "de": "Liefern Sie auch nach Hause?",
+          "en": "Do you deliver to people's homes too?"
+        },
+        {
+          "de": "Das Möbelhaus liefert erst in vier Wochen.",
+          "en": "The furniture store won't deliver for another four weeks."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Supermarkt ___ ab fünfzig Euro kostenlos.",
+          "answer": "liefert",
+          "en": "The supermarket delivers free of charge from fifty euros."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🚚",
+      "imageable": false,
+      "tags": [
+        "shopping",
+        "verbs"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "lieferung",
+        "versand"
+      ]
+    },
+    {
+      "id": "anstehen",
+      "word": "anstehen",
+      "lemma": "anstehen",
+      "translation": "to queue",
+      "translations": [
+        "to queue",
+        "to stand in line"
+      ],
+      "level": "A2",
+      "category": "Shopping & Money",
+      "partOfSpeech": "verb",
+      "frequency": 1250,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "stehe an",
+        "du": "stehst an",
+        "er": "steht an",
+        "wir": "stehen an",
+        "ihr": "steht an",
+        "sie": "stehen an",
+        "praeteritum": "stand an",
+        "perfekt": "hat angestanden",
+        "imperativ": "steh an!"
+      },
+      "example_sentences": [
+        {
+          "de": "Wir stehen schon zehn Minuten an.",
+          "en": "We've been queuing for ten minutes already."
+        },
+        {
+          "de": "An der Kasse musste ich lange anstehen.",
+          "en": "I had to queue for a long time at the till."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Du ___ hier falsch, diese Kasse ist zu.",
+          "answer": "stehst an",
+          "en": "You're queuing in the wrong place, this till is closed."
+        }
+      ],
+      "notes": "Also 'Schlange stehen'. Southern Germany often says 'hat angestanden' with haben; that is standard.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🧍",
+      "imageable": false,
+      "tags": [
+        "shopping",
+        "verbs"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "schlange",
+        "kassierer"
+      ]
+    },
+    {
+      "id": "aussuchen",
+      "word": "aussuchen",
+      "lemma": "aussuchen",
+      "translation": "to pick out",
+      "translations": [
+        "to pick out",
+        "to choose"
+      ],
+      "level": "A2",
+      "category": "Shopping & Money",
+      "partOfSpeech": "verb",
+      "frequency": 1000,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "suche aus",
+        "du": "suchst aus",
+        "er": "sucht aus",
+        "wir": "suchen aus",
+        "ihr": "sucht aus",
+        "sie": "suchen aus",
+        "praeteritum": "suchte aus",
+        "perfekt": "hat ausgesucht",
+        "imperativ": "such aus!"
+      },
+      "example_sentences": [
+        {
+          "de": "Such dir etwas aus, ich bezahle.",
+          "en": "Pick something out, I'll pay."
+        },
+        {
+          "de": "Wir haben zusammen einen Tisch ausgesucht.",
+          "en": "We picked out a table together."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Er ___ immer die teuersten Sachen aus.",
+          "answer": "sucht",
+          "en": "He always picks out the most expensive things."
+        }
+      ],
+      "notes": "Often reflexive in the dative: 'sich etwas aussuchen'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "👉",
+      "imageable": false,
+      "tags": [
+        "shopping",
+        "verbs"
+      ],
+      "synonyms": [
+        "auswählen"
+      ],
+      "antonyms": [],
+      "related": [
+        "vergleichen",
+        "einkauf"
+      ]
+    },
+    {
+      "id": "vergleichen",
+      "word": "vergleichen",
+      "lemma": "vergleichen",
+      "translation": "to compare",
+      "translations": [
+        "to compare"
+      ],
+      "level": "A2",
+      "category": "Shopping & Money",
+      "partOfSpeech": "verb",
+      "frequency": 850,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "vergleiche",
+        "du": "vergleichst",
+        "er": "vergleicht",
+        "wir": "vergleichen",
+        "ihr": "vergleicht",
+        "sie": "vergleichen",
+        "praeteritum": "verglich",
+        "perfekt": "hat verglichen",
+        "imperativ": "vergleich(e)!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich vergleiche immer die Preise im Internet.",
+          "en": "I always compare prices online."
+        },
+        {
+          "de": "Hast du die beiden Angebote verglichen?",
+          "en": "Have you compared the two offers?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Bevor ich etwas kaufe, ___ ich die Preise.",
+          "answer": "vergleiche",
+          "en": "Before I buy anything, I compare the prices."
+        }
+      ],
+      "notes": "Irregular: verglich, verglichen.",
+      "mnemonic": null,
+      "germany_context": "Vergleichsportale (Check24, Verivox, Idealo) are the standard way to compare prices, tariffs and insurance in Germany.",
+      "emoji": "⚖️",
+      "imageable": false,
+      "tags": [
+        "shopping",
+        "verbs"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "preis",
+        "angebot"
+      ]
+    },
+    {
+      "id": "wiegen",
+      "word": "wiegen",
+      "lemma": "wiegen",
+      "translation": "to weigh",
+      "translations": [
+        "to weigh"
+      ],
+      "level": "A2",
+      "category": "Shopping & Money",
+      "partOfSpeech": "verb",
+      "frequency": 1150,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "wiege",
+        "du": "wiegst",
+        "er": "wiegt",
+        "wir": "wiegen",
+        "ihr": "wiegt",
+        "sie": "wiegen",
+        "praeteritum": "wog",
+        "perfekt": "hat gewogen",
+        "imperativ": "wieg(e)!"
+      },
+      "example_sentences": [
+        {
+          "de": "Das Paket wiegt fast fünf Kilo.",
+          "en": "The parcel weighs almost five kilos."
+        },
+        {
+          "de": "Können Sie mir bitte 200 Gramm Käse wiegen?",
+          "en": "Could you weigh me 200 grams of cheese, please?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Du musst das Obst selbst ___ und den Aufkleber aufkleben.",
+          "answer": "wiegen",
+          "en": "You have to weigh the fruit yourself and stick the label on."
+        }
+      ],
+      "notes": "Irregular: wog, gewogen.",
+      "mnemonic": null,
+      "germany_context": "In many supermarkets you weigh loose fruit and vegetables yourself on a scale in the aisle and stick the printed price label on the bag.",
+      "emoji": "⚖️",
+      "imageable": false,
+      "tags": [
+        "shopping",
+        "verbs"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "kilo",
+        "wochenmarkt"
+      ]
+    },
+    {
+      "id": "kassieren",
+      "word": "kassieren",
+      "lemma": "kassieren",
+      "translation": "to take payment",
+      "translations": [
+        "to take payment",
+        "to cash up"
+      ],
+      "level": "A2",
+      "category": "Shopping & Money",
+      "partOfSpeech": "verb",
+      "frequency": 1500,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "kassiere",
+        "du": "kassierst",
+        "er": "kassiert",
+        "wir": "kassieren",
+        "ihr": "kassiert",
+        "sie": "kassieren",
+        "praeteritum": "kassierte",
+        "perfekt": "hat kassiert",
+        "imperativ": "kassier(e)!"
+      },
+      "example_sentences": [
+        {
+          "de": "Darf ich schon kassieren?",
+          "en": "May I take your payment now?"
+        },
+        {
+          "de": "An Kasse zwei wird gerade kassiert.",
+          "en": "They're taking payments at till two right now."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Kellner ___ am Tisch, nicht an der Kasse.",
+          "answer": "kassiert",
+          "en": "The waiter takes payment at the table, not at the till."
+        }
+      ],
+      "notes": "Said by staff, not customers. As a customer you say 'zahlen' or 'bezahlen'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "💰",
+      "imageable": false,
+      "tags": [
+        "shopping",
+        "verbs"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "kassierer",
+        "kassenbon"
+      ]
+    },
+    {
+      "id": "zurueckschicken",
+      "word": "zurückschicken",
+      "lemma": "zurückschicken",
+      "translation": "to send back",
+      "translations": [
+        "to send back",
+        "to return"
+      ],
+      "level": "A2",
+      "category": "Shopping & Money",
+      "partOfSpeech": "verb",
+      "frequency": 1200,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "schicke zurück",
+        "du": "schickst zurück",
+        "er": "schickt zurück",
+        "wir": "schicken zurück",
+        "ihr": "schickt zurück",
+        "sie": "schicken zurück",
+        "praeteritum": "schickte zurück",
+        "perfekt": "hat zurückgeschickt",
+        "imperativ": "schick zurück!"
+      },
+      "example_sentences": [
+        {
+          "de": "Die Hose ist zu klein, ich schicke sie zurück.",
+          "en": "The trousers are too small, I'm sending them back."
+        },
+        {
+          "de": "Hast du das Paket schon zurückgeschickt?",
+          "en": "Have you already sent the parcel back?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Du kannst die Schuhe innerhalb von 14 Tagen ___.",
+          "answer": "zurückschicken",
+          "en": "You can send the shoes back within 14 days."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "↩️",
+      "imageable": false,
+      "tags": [
+        "shopping",
+        "verbs",
+        "online"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "retoure",
+        "paket"
+      ]
+    },
+    {
+      "id": "anbieten",
+      "word": "anbieten",
+      "lemma": "anbieten",
+      "translation": "to offer",
+      "translations": [
+        "to offer"
+      ],
+      "level": "A2",
+      "category": "Shopping & Money",
+      "partOfSpeech": "verb",
+      "frequency": 800,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [
+        "akk",
+        "dat"
+      ],
+      "forms": {
+        "ich": "biete an",
+        "du": "bietest an",
+        "er": "bietet an",
+        "wir": "bieten an",
+        "ihr": "bietet an",
+        "sie": "bieten an",
+        "praeteritum": "bot an",
+        "perfekt": "hat angeboten",
+        "imperativ": "biete an!"
+      },
+      "example_sentences": [
+        {
+          "de": "Der Laden bietet auch türkische Produkte an.",
+          "en": "The shop also offers Turkish products."
+        },
+        {
+          "de": "Man hat mir einen Gutschein angeboten.",
+          "en": "They offered me a voucher."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Welche Größen ___ Sie an?",
+          "answer": "bieten",
+          "en": "Which sizes do you offer?"
+        }
+      ],
+      "notes": "Irregular: bot an, angeboten.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🤝",
+      "imageable": false,
+      "tags": [
+        "shopping",
+        "verbs"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "angebot",
+        "sonderangebot"
+      ]
+    },
+    {
+      "id": "reduziert",
+      "word": "reduziert",
+      "lemma": "reduziert",
+      "translation": "reduced",
+      "translations": [
+        "reduced",
+        "marked down"
+      ],
+      "level": "A2",
+      "category": "Shopping & Money",
+      "partOfSpeech": "adjective",
+      "frequency": 1100,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Alle Winterjacken sind stark reduziert.",
+          "en": "All winter jackets are heavily reduced."
+        },
+        {
+          "de": "Reduzierte Ware kann man nicht umtauschen.",
+          "en": "Reduced goods can't be exchanged."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Das Brot vom Vortag ist um 50 Prozent ___.",
+          "answer": "reduziert",
+          "en": "Yesterday's bread is reduced by 50 percent."
+        }
+      ],
+      "notes": "Not gradable — no comparative form.",
+      "mnemonic": null,
+      "germany_context": "Supermarkets put a yellow sticker on food close to its Mindesthaltbarkeitsdatum, usually 30-50% off, mostly in the evening.",
+      "emoji": "🔻",
+      "imageable": false,
+      "tags": [
+        "shopping",
+        "adjectives"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "rabatt",
+        "angebot",
+        "ausverkauf"
+      ]
+    },
+    {
+      "id": "preiswert",
+      "word": "preiswert",
+      "lemma": "preiswert",
+      "translation": "good value",
+      "translations": [
+        "good value",
+        "reasonably priced"
+      ],
+      "level": "A2",
+      "category": "Shopping & Money",
+      "partOfSpeech": "adjective",
+      "frequency": 1250,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "komparativ": "preiswerter",
+        "superlativ": "am preiswertesten"
+      },
+      "example_sentences": [
+        {
+          "de": "Das Hotel war sauber und preiswert.",
+          "en": "The hotel was clean and good value."
+        },
+        {
+          "de": "Hier isst man richtig preiswert.",
+          "en": "You can eat really cheaply here."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Mittagstisch ist sehr ___.",
+          "answer": "preiswert",
+          "en": "The lunch special is very good value."
+        }
+      ],
+      "notes": "'preiswert' = worth the price (positive); 'billig' can sound cheap and low quality.",
+      "mnemonic": "Preis + wert = worth the price.",
+      "germany_context": null,
+      "emoji": "👍",
+      "imageable": false,
+      "tags": [
+        "shopping",
+        "adjectives"
+      ],
+      "synonyms": [
+        "günstig"
+      ],
+      "antonyms": [
+        "teuer"
+      ],
+      "related": [
+        "schnaeppchen",
+        "preis"
+      ]
+    },
+    {
+      "id": "ausverkauft",
+      "word": "ausverkauft",
+      "lemma": "ausverkauft",
+      "translation": "sold out",
+      "translations": [
+        "sold out"
+      ],
+      "level": "A2",
+      "category": "Shopping & Money",
+      "partOfSpeech": "adjective",
+      "frequency": 1050,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Größe ist leider ausverkauft.",
+          "en": "That size is unfortunately sold out."
+        },
+        {
+          "de": "Das Konzert war schon nach einer Stunde ausverkauft.",
+          "en": "The concert was sold out after just an hour."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Das Angebot war um zwölf Uhr schon ___.",
+          "answer": "ausverkauft",
+          "en": "The special offer was already sold out by twelve o'clock."
+        }
+      ],
+      "notes": "Not gradable — no comparative form.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🚫",
+      "imageable": false,
+      "tags": [
+        "shopping",
+        "adjectives"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "ausverkauf",
+        "angebot"
+      ]
+    },
+    {
+      "id": "gratis",
+      "word": "gratis",
+      "lemma": "gratis",
+      "translation": "free of charge",
+      "translations": [
+        "free of charge",
+        "free"
+      ],
+      "level": "A1",
+      "category": "Shopping & Money",
+      "partOfSpeech": "adjective",
+      "frequency": 750,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Kaffee ist heute gratis.",
+          "en": "The coffee is free today."
+        },
+        {
+          "de": "Ab dreißig Euro ist der Versand gratis.",
+          "en": "Shipping is free from thirty euros."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Diese Zeitung bekommt man im Supermarkt ___.",
+          "answer": "gratis",
+          "en": "You get this newspaper free at the supermarket."
+        }
+      ],
+      "notes": "Indeclinable — never 'ein gratiser Kaffee'. Same meaning as 'kostenlos'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🆓",
+      "imageable": false,
+      "tags": [
+        "shopping",
+        "money"
+      ],
+      "synonyms": [
+        "kostenlos",
+        "umsonst"
+      ],
+      "antonyms": [],
+      "related": [
+        "versand",
+        "angebot"
+      ]
+    },
+    {
+      "id": "passend",
+      "word": "passend",
+      "lemma": "passend",
+      "translation": "exact (change)",
+      "translations": [
+        "exact (change)",
+        "matching",
+        "suitable"
+      ],
+      "level": "A2",
+      "category": "Shopping & Money",
+      "partOfSpeech": "adjective",
+      "frequency": 900,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich habe es leider nicht passend.",
+          "en": "Unfortunately I don't have the exact change."
+        },
+        {
+          "de": "Bitte den Betrag passend bereithalten.",
+          "en": "Please have the exact amount ready."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Moment, ich glaube, ich habe es ___.",
+          "answer": "passend",
+          "en": "One moment, I think I have the exact change."
+        }
+      ],
+      "notes": "'Haben Sie es passend?' = Do you have the exact money? Also means 'matching / suitable'.",
+      "mnemonic": null,
+      "germany_context": "Cashiers and bus drivers regularly ask 'Haben Sie es passend?' — having exact coins speeds everything up and is genuinely appreciated.",
+      "emoji": "🪙",
+      "imageable": false,
+      "tags": [
+        "money",
+        "adjectives"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "haben-sie-es-passend",
+        "kleingeld"
+      ]
+    },
+    {
+      "id": "bar-adv",
+      "word": "bar",
+      "lemma": "bar",
+      "translation": "in cash",
+      "translations": [
+        "in cash",
+        "cash"
+      ],
+      "level": "A1",
+      "category": "Shopping & Money",
+      "partOfSpeech": "adverb",
+      "frequency": 600,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich zahle bar.",
+          "en": "I'll pay cash."
+        },
+        {
+          "de": "Kann ich auch bar bezahlen?",
+          "en": "Can I pay in cash as well?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Hier musst du leider ___ zahlen.",
+          "answer": "bar",
+          "en": "Unfortunately you have to pay cash here."
+        }
+      ],
+      "notes": "Used with zahlen/bezahlen. Don't confuse with 'die Bar' (a bar).",
+      "mnemonic": null,
+      "germany_context": "Many bakeries, kiosks, doctors' surgeries and small restaurants are still 'nur Bargeld'. Look for the sign at the door before you order.",
+      "emoji": "💶",
+      "imageable": false,
+      "tags": [
+        "money",
+        "payment",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "nur-bargeld",
+        "zahlen-sie-bar-oder-mit-karte",
+        "kreditkarte"
+      ]
+    },
+    {
+      "id": "ich-schaue-nur",
+      "word": "Ich schaue nur.",
+      "lemma": "Ich schaue nur.",
+      "translation": "i'm just looking",
+      "translations": [
+        "i'm just looking",
+        "just browsing"
+      ],
+      "level": "A1",
+      "category": "Shopping & Money",
+      "partOfSpeech": "phrase",
+      "frequency": 700,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Kann ich Ihnen helfen? – Danke, ich schaue nur.",
+          "en": "Can I help you? – Thanks, I'm just looking."
+        },
+        {
+          "de": "Ich schaue nur, ich brauche keine Beratung.",
+          "en": "I'm just looking, I don't need any advice."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Nein danke, ___ nur.",
+          "answer": "ich schaue",
+          "en": "No thanks, I'm just looking."
+        }
+      ],
+      "notes": "Polite and completely normal. 'Ich gucke nur' is the casual version.",
+      "mnemonic": null,
+      "germany_context": "German shop staff usually leave you alone; a friendly 'Danke, ich schaue nur' ends the conversation and nobody follows you around.",
+      "emoji": "👀",
+      "imageable": false,
+      "tags": [
+        "phrases",
+        "shopping"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "schaufenster",
+        "geschaeft"
+      ]
+    },
+    {
+      "id": "haben-sie-das-in-groesse-m",
+      "word": "Haben Sie das in Größe M?",
+      "lemma": "Haben Sie das in Größe M?",
+      "translation": "do you have this in size m?",
+      "translations": [
+        "do you have this in size m?"
+      ],
+      "level": "A2",
+      "category": "Shopping & Money",
+      "partOfSpeech": "phrase",
+      "frequency": 950,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Entschuldigung, haben Sie das in Größe M?",
+          "en": "Excuse me, do you have this in size M?"
+        },
+        {
+          "de": "Haben Sie das in Größe M oder L?",
+          "en": "Do you have this in size M or L?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Das ist mir zu klein. ___ Sie das in Größe M?",
+          "answer": "Haben",
+          "en": "This is too small for me. Do you have it in size M?"
+        }
+      ],
+      "notes": "Swap in any size: 'in Größe 42', 'eine Nummer größer'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "👕",
+      "imageable": false,
+      "tags": [
+        "phrases",
+        "shopping",
+        "clothes"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "groesse",
+        "umkleidekabine"
+      ]
+    },
+    {
+      "id": "brauchen-sie-eine-tuete",
+      "word": "Brauchen Sie eine Tüte?",
+      "lemma": "Brauchen Sie eine Tüte?",
+      "translation": "do you need a bag?",
+      "translations": [
+        "do you need a bag?"
+      ],
+      "level": "A1",
+      "category": "Shopping & Money",
+      "partOfSpeech": "phrase",
+      "frequency": 550,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Brauchen Sie eine Tüte? – Nein danke.",
+          "en": "Do you need a bag? – No thanks."
+        },
+        {
+          "de": "Brauchen Sie eine Tüte oder haben Sie einen Beutel dabei?",
+          "en": "Do you need a bag or have you brought a cloth bag?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Die Kassiererin fragt: ___ Sie eine Tüte?",
+          "answer": "Brauchen",
+          "en": "The cashier asks: do you need a bag?"
+        }
+      ],
+      "notes": "The answer is usually 'Nein danke' or 'Ja, bitte'. The bag costs extra.",
+      "mnemonic": null,
+      "germany_context": "This is one of the first questions you'll hear at a German till. Bags cost 20 cents to 1 euro, so bringing your own Beutel is standard.",
+      "emoji": "🛍️",
+      "imageable": false,
+      "tags": [
+        "phrases",
+        "shopping",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "tuete",
+        "beutel",
+        "kassierer"
+      ]
+    },
+    {
+      "id": "zahlen-sie-bar-oder-mit-karte",
+      "word": "Zahlen Sie bar oder mit Karte?",
+      "lemma": "Zahlen Sie bar oder mit Karte?",
+      "translation": "are you paying cash or by card?",
+      "translations": [
+        "are you paying cash or by card?"
+      ],
+      "level": "A1",
+      "category": "Shopping & Money",
+      "partOfSpeech": "phrase",
+      "frequency": 350,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Zahlen Sie bar oder mit Karte? – Mit Karte, bitte.",
+          "en": "Are you paying cash or by card? – By card, please."
+        },
+        {
+          "de": "Zahlen Sie bar oder mit Karte? – Bar.",
+          "en": "Are you paying cash or by card? – Cash."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "An der Kasse fragt man dich: ___ Sie bar oder mit Karte?",
+          "answer": "Zahlen",
+          "en": "At the till they ask you: are you paying cash or by card?"
+        }
+      ],
+      "notes": "Answer short: 'Bar, bitte' or 'Mit Karte, bitte'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "💳",
+      "imageable": false,
+      "tags": [
+        "phrases",
+        "payment",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "bar-adv",
+        "kann-ich-mit-karte-zahlen"
+      ]
+    },
+    {
+      "id": "haben-sie-es-passend",
+      "word": "Haben Sie es passend?",
+      "lemma": "Haben Sie es passend?",
+      "translation": "do you have the exact change?",
+      "translations": [
+        "do you have the exact change?"
+      ],
+      "level": "A2",
+      "category": "Shopping & Money",
+      "partOfSpeech": "phrase",
+      "frequency": 600,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Haben Sie es passend? – Leider nicht.",
+          "en": "Do you have the exact change? – Unfortunately not."
+        },
+        {
+          "de": "Das macht 7,20 Euro. Haben Sie es passend?",
+          "en": "That's 7.20 euros. Do you have the exact change?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Verkäufer fragt: Haben Sie es ___?",
+          "answer": "passend",
+          "en": "The seller asks: do you have the exact change?"
+        }
+      ],
+      "notes": "Related question: 'Haben Sie es klein?' — do you have anything smaller than that note?",
+      "mnemonic": null,
+      "germany_context": "Small shops genuinely run short of change. Handing over coins instead of a 50-euro note earns you an instant smile.",
+      "emoji": "🪙",
+      "imageable": false,
+      "tags": [
+        "phrases",
+        "payment"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "passend",
+        "kleingeld",
+        "geldschein"
+      ]
+    }
+  ]
+}

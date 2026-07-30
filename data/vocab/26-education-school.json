@@ -1,0 +1,4121 @@
+{
+  "category": "Education & Learning",
+  "words": [
+    {
+      "id": "beispiel",
+      "word": "das Beispiel",
+      "lemma": "Beispiel",
+      "translation": "example",
+      "translations": [
+        "example"
+      ],
+      "level": "A1",
+      "category": "Education & Learning",
+      "partOfSpeech": "noun",
+      "frequency": 420,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Beispiele",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Können Sie mir ein Beispiel geben?",
+          "en": "Can you give me an example?"
+        },
+        {
+          "de": "Das ist ein gutes Beispiel für den Dativ.",
+          "en": "That is a good example of the dative."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Nenn mir bitte ein ___ für dieses Wort.",
+          "answer": "Beispiel",
+          "en": "Please give me an example for this word."
+        }
+      ],
+      "notes": "'zum Beispiel' (abbreviated z. B.) is the everyday phrase for 'for example'.",
+      "mnemonic": "bei + Spiel -> 'alongside play' = an illustration",
+      "germany_context": null,
+      "emoji": "💡",
+      "imageable": false,
+      "tags": [
+        "education",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "uebung",
+        "erklaeren"
+      ]
+    },
+    {
+      "id": "kindergarten",
+      "word": "der Kindergarten",
+      "lemma": "Kindergarten",
+      "translation": "kindergarten",
+      "translations": [
+        "kindergarten",
+        "nursery school"
+      ],
+      "level": "A1",
+      "category": "Education & Learning",
+      "partOfSpeech": "noun",
+      "frequency": 900,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Kindergärten",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Mein Sohn geht seit einem Jahr in den Kindergarten.",
+          "en": "My son has been going to kindergarten for a year."
+        },
+        {
+          "de": "Der Kindergarten ist bis 16 Uhr offen.",
+          "en": "The kindergarten is open until 4 p.m."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wir holen die Kinder um drei aus dem ___ ab.",
+          "answer": "Kindergarten",
+          "en": "We pick the children up from kindergarten at three."
+        }
+      ],
+      "notes": "For children roughly 3-6. Younger children go to a Krippe.",
+      "mnemonic": "The English word 'kindergarten' is borrowed straight from German.",
+      "germany_context": "Places are scarce in big cities — register your child on waiting lists as early as possible, often right after birth.",
+      "emoji": "🧸",
+      "imageable": true,
+      "tags": [
+        "education",
+        "children"
+      ],
+      "synonyms": [
+        "Kita"
+      ],
+      "antonyms": [],
+      "related": [
+        "kita",
+        "grundschule"
+      ]
+    },
+    {
+      "id": "kita",
+      "word": "die Kita",
+      "lemma": "Kita",
+      "translation": "daycare centre",
+      "translations": [
+        "daycare centre",
+        "nursery"
+      ],
+      "level": "A1",
+      "category": "Education & Learning",
+      "partOfSpeech": "noun",
+      "frequency": 1000,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Kitas",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Wir suchen einen Platz in der Kita.",
+          "en": "We are looking for a place at the daycare centre."
+        },
+        {
+          "de": "Die Kita ist gleich um die Ecke.",
+          "en": "The daycare centre is just around the corner."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Unsere Kleine ist seit August in der ___.",
+          "answer": "Kita",
+          "en": "Our little one has been at the daycare centre since August."
+        }
+      ],
+      "notes": "Short for 'Kindertagesstätte'. Everyone says Kita, almost nobody says the long form.",
+      "mnemonic": "KIndertagesstätte -> KI-TA",
+      "germany_context": "You apply for a Kita-Platz at the Jugendamt or directly at the Kita; many cities require a Kita-Gutschein (voucher) first.",
+      "emoji": "👶",
+      "imageable": true,
+      "tags": [
+        "education",
+        "children"
+      ],
+      "synonyms": [
+        "Kindergarten"
+      ],
+      "antonyms": [],
+      "related": [
+        "kindergarten"
+      ]
+    },
+    {
+      "id": "grundschule",
+      "word": "die Grundschule",
+      "lemma": "Grundschule",
+      "translation": "primary school",
+      "translations": [
+        "primary school",
+        "elementary school"
+      ],
+      "level": "A2",
+      "category": "Education & Learning",
+      "partOfSpeech": "noun",
+      "frequency": 1200,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Grundschulen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Grundschule ist nur fünf Minuten zu Fuß.",
+          "en": "The primary school is only five minutes on foot."
+        },
+        {
+          "de": "In der Grundschule lernt man lesen und schreiben.",
+          "en": "In primary school you learn to read and write."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Mit sechs Jahren kommen die Kinder in die ___.",
+          "answer": "Grundschule",
+          "en": "At six years old the children start primary school."
+        }
+      ],
+      "notes": null,
+      "mnemonic": "Grund = 'basic/foundation' + Schule",
+      "germany_context": "Grundschule lasts four years (six in Berlin and Brandenburg). After it, a recommendation decides whether a child goes on to Gymnasium, Realschule or Hauptschule.",
+      "emoji": "✏️",
+      "imageable": true,
+      "tags": [
+        "education",
+        "children"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "schule",
+        "gymnasium"
+      ]
+    },
+    {
+      "id": "gymnasium",
+      "word": "das Gymnasium",
+      "lemma": "Gymnasium",
+      "translation": "academic secondary school",
+      "translations": [
+        "academic secondary school",
+        "grammar school"
+      ],
+      "level": "A2",
+      "category": "Education & Learning",
+      "partOfSpeech": "noun",
+      "frequency": 1400,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Gymnasien",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Meine Nichte geht aufs Gymnasium.",
+          "en": "My niece goes to the academic secondary school."
+        },
+        {
+          "de": "Das Gymnasium endet mit dem Abitur.",
+          "en": "The academic secondary school ends with the Abitur."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Er hat sein ___ in München besucht.",
+          "answer": "Gymnasium",
+          "en": "He attended his academic secondary school in Munich."
+        }
+      ],
+      "notes": "False friend: it is a school, not a gym. A gym is 'das Fitnessstudio' or 'die Turnhalle'.",
+      "mnemonic": "Gymnasium looks like 'gym' but it is the school for the Abitur.",
+      "germany_context": "The Gymnasium is the track that leads to the Abitur and thus to university.",
+      "emoji": "🎓",
+      "imageable": true,
+      "tags": [
+        "education",
+        "false-friend"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "abitur",
+        "schule"
+      ]
+    },
+    {
+      "id": "realschule",
+      "word": "die Realschule",
+      "lemma": "Realschule",
+      "translation": "intermediate secondary school",
+      "translations": [
+        "intermediate secondary school"
+      ],
+      "level": "A2",
+      "category": "Education & Learning",
+      "partOfSpeech": "noun",
+      "frequency": 2100,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Realschulen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Nach der Realschule macht er eine Ausbildung.",
+          "en": "After intermediate school he is doing an apprenticeship."
+        },
+        {
+          "de": "Die Realschule geht bis zur zehnten Klasse.",
+          "en": "The intermediate school goes up to tenth grade."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Sie hat einen Abschluss von der ___.",
+          "answer": "Realschule",
+          "en": "She has a diploma from the intermediate secondary school."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Ends after grade 10 with the Mittlere Reife, the usual entry ticket for an Ausbildung.",
+      "emoji": "🏫",
+      "imageable": true,
+      "tags": [
+        "education"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "schule",
+        "ausbildung"
+      ]
+    },
+    {
+      "id": "hauptschule",
+      "word": "die Hauptschule",
+      "lemma": "Hauptschule",
+      "translation": "lower secondary school",
+      "translations": [
+        "lower secondary school"
+      ],
+      "level": "A2",
+      "category": "Education & Learning",
+      "partOfSpeech": "noun",
+      "frequency": 2400,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Hauptschulen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Hauptschule gibt es nicht mehr in jedem Bundesland.",
+          "en": "The lower secondary school no longer exists in every federal state."
+        },
+        {
+          "de": "Er hat die Hauptschule mit gutem Zeugnis beendet.",
+          "en": "He finished lower secondary school with a good report card."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Nach der ___ hat er direkt angefangen zu arbeiten.",
+          "answer": "Hauptschule",
+          "en": "After lower secondary school he started working right away."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "The traditional third school track; several federal states have merged it into other school types.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "education"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "realschule",
+        "schule"
+      ]
+    },
+    {
+      "id": "volkshochschule",
+      "word": "die Volkshochschule",
+      "lemma": "Volkshochschule",
+      "translation": "adult education centre",
+      "translations": [
+        "adult education centre",
+        "community college"
+      ],
+      "level": "A2",
+      "category": "Education & Learning",
+      "partOfSpeech": "noun",
+      "frequency": 1500,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Volkshochschulen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich mache einen Deutschkurs an der Volkshochschule.",
+          "en": "I am doing a German course at the adult education centre."
+        },
+        {
+          "de": "Die Volkshochschule bietet auch Kochkurse an.",
+          "en": "The adult education centre also offers cooking courses."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Kurse an der ___ sind ziemlich günstig.",
+          "answer": "Volkshochschule",
+          "en": "Courses at the adult education centre are quite cheap."
+        }
+      ],
+      "notes": "Almost always shortened to 'VHS' in speech.",
+      "mnemonic": "Volk (people) + Hochschule -> the people's college.",
+      "germany_context": "Every German town has a VHS. It is the cheapest place to take German courses, and many Integrationskurse run there.",
+      "emoji": "🏫",
+      "imageable": true,
+      "tags": [
+        "education",
+        "language-learning",
+        "essential"
+      ],
+      "synonyms": [
+        "VHS"
+      ],
+      "antonyms": [],
+      "related": [
+        "sprachkurs",
+        "integrationskurs"
+      ]
+    },
+    {
+      "id": "berufsschule",
+      "word": "die Berufsschule",
+      "lemma": "Berufsschule",
+      "translation": "vocational school",
+      "translations": [
+        "vocational school",
+        "trade school"
+      ],
+      "level": "A2",
+      "category": "Education & Learning",
+      "partOfSpeech": "noun",
+      "frequency": 1900,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Berufsschulen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Zweimal pro Woche geht er in die Berufsschule.",
+          "en": "Twice a week he goes to vocational school."
+        },
+        {
+          "de": "Die Berufsschule gehört zur Ausbildung.",
+          "en": "Vocational school is part of the apprenticeship."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "In der ___ lernt man die Theorie zum Beruf.",
+          "answer": "Berufsschule",
+          "en": "At vocational school you learn the theory for the job."
+        }
+      ],
+      "notes": null,
+      "mnemonic": "Beruf (job) + Schule",
+      "germany_context": "Part of Germany's dual system: apprentices work in a company and attend Berufsschule one or two days a week.",
+      "emoji": "🔧",
+      "imageable": true,
+      "tags": [
+        "education",
+        "work"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "ausbildung"
+      ]
+    },
+    {
+      "id": "ausbildung",
+      "word": "die Ausbildung",
+      "lemma": "Ausbildung",
+      "translation": "vocational training",
+      "translations": [
+        "vocational training",
+        "apprenticeship"
+      ],
+      "level": "A2",
+      "category": "Education & Learning",
+      "partOfSpeech": "noun",
+      "frequency": 800,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Ausbildungen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Sie macht eine Ausbildung als Krankenschwester.",
+          "en": "She is doing training as a nurse."
+        },
+        {
+          "de": "Die Ausbildung dauert drei Jahre.",
+          "en": "The training takes three years."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ohne ___ ist es schwer, hier einen Job zu finden.",
+          "answer": "Ausbildung",
+          "en": "Without vocational training it is hard to find a job here."
+        }
+      ],
+      "notes": "Say 'eine Ausbildung machen', not 'eine Ausbildung tun'.",
+      "mnemonic": null,
+      "germany_context": "The German dual Ausbildung combines paid company work with school. It is a respected alternative to university, not a fallback.",
+      "emoji": "🛠️",
+      "imageable": false,
+      "tags": [
+        "education",
+        "work",
+        "essential"
+      ],
+      "synonyms": [
+        "Lehre"
+      ],
+      "antonyms": [],
+      "related": [
+        "berufsschule",
+        "praktikum"
+      ]
+    },
+    {
+      "id": "weiterbildung",
+      "word": "die Weiterbildung",
+      "lemma": "Weiterbildung",
+      "translation": "further training",
+      "translations": [
+        "further training",
+        "professional development"
+      ],
+      "level": "A2",
+      "category": "Education & Learning",
+      "partOfSpeech": "noun",
+      "frequency": 1750,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Weiterbildungen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Meine Firma bezahlt die Weiterbildung.",
+          "en": "My company pays for the further training."
+        },
+        {
+          "de": "Er macht eine Weiterbildung im Bereich IT-Sicherheit.",
+          "en": "He is doing further training in the field of IT security."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Für eine ___ bekommst du oft Bildungsurlaub.",
+          "answer": "Weiterbildung",
+          "en": "For further training you often get educational leave."
+        }
+      ],
+      "notes": null,
+      "mnemonic": "weiter (further) + Bildung (education)",
+      "germany_context": "Most federal states give employees around five days of paid Bildungsurlaub per year for approved courses, including German language courses.",
+      "emoji": "📈",
+      "imageable": false,
+      "tags": [
+        "education",
+        "work",
+        "essential"
+      ],
+      "synonyms": [
+        "Fortbildung"
+      ],
+      "antonyms": [],
+      "related": [
+        "kurs",
+        "zertifikat"
+      ]
+    },
+    {
+      "id": "uni",
+      "word": "die Uni",
+      "lemma": "Uni",
+      "translation": "uni",
+      "translations": [
+        "uni",
+        "university"
+      ],
+      "level": "A1",
+      "category": "Education & Learning",
+      "partOfSpeech": "noun",
+      "frequency": 620,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Unis",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich muss morgen früh zur Uni.",
+          "en": "I have to go to uni early tomorrow."
+        },
+        {
+          "de": "An unserer Uni gibt es viele internationale Studenten.",
+          "en": "At our uni there are many international students."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Nach der ___ treffen wir uns im Café.",
+          "answer": "Uni",
+          "en": "After uni we are meeting at the café."
+        }
+      ],
+      "notes": "The everyday short form. In conversation people almost always say 'Uni'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🎓",
+      "imageable": true,
+      "tags": [
+        "education",
+        "spoken",
+        "essential"
+      ],
+      "synonyms": [
+        "Universität"
+      ],
+      "antonyms": [],
+      "related": [
+        "universitaet"
+      ]
+    },
+    {
+      "id": "hochschule",
+      "word": "die Hochschule",
+      "lemma": "Hochschule",
+      "translation": "higher education institution",
+      "translations": [
+        "higher education institution",
+        "college"
+      ],
+      "level": "A2",
+      "category": "Education & Learning",
+      "partOfSpeech": "noun",
+      "frequency": 1600,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Hochschulen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Hochschule liegt am Stadtrand.",
+          "en": "The higher education institution is on the edge of town."
+        },
+        {
+          "de": "Er unterrichtet an einer Hochschule in Köln.",
+          "en": "He teaches at a college in Cologne."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Sie hat sich an einer privaten ___ beworben.",
+          "answer": "Hochschule",
+          "en": "She applied to a private college."
+        }
+      ],
+      "notes": "Umbrella term for all higher education, including universities. It does NOT mean 'high school'.",
+      "mnemonic": "Hoch = high, but 'Hochschule' is university level, not high school.",
+      "germany_context": null,
+      "emoji": "🏫",
+      "imageable": true,
+      "tags": [
+        "education",
+        "false-friend"
+      ],
+      "synonyms": [
+        "Universität"
+      ],
+      "antonyms": [],
+      "related": [
+        "fachhochschule",
+        "universitaet"
+      ]
+    },
+    {
+      "id": "fachhochschule",
+      "word": "die Fachhochschule",
+      "lemma": "Fachhochschule",
+      "translation": "university of applied sciences",
+      "translations": [
+        "university of applied sciences"
+      ],
+      "level": "A2",
+      "category": "Education & Learning",
+      "partOfSpeech": "noun",
+      "frequency": 2000,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Fachhochschulen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Er hat Informatik an einer Fachhochschule studiert.",
+          "en": "He studied computer science at a university of applied sciences."
+        },
+        {
+          "de": "Die Fachhochschule arbeitet eng mit Firmen zusammen.",
+          "en": "The university of applied sciences works closely with companies."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "An der ___ gibt es viele Praxisprojekte.",
+          "answer": "Fachhochschule",
+          "en": "At the university of applied sciences there are many practical projects."
+        }
+      ],
+      "notes": "Often abbreviated 'FH'; many now call themselves 'Hochschule für Angewandte Wissenschaften (HAW)'.",
+      "mnemonic": "Fach (subject/field) + Hochschule",
+      "germany_context": "FH degrees are practice-oriented and very well regarded by German employers, especially in engineering and IT.",
+      "emoji": "🖥️",
+      "imageable": true,
+      "tags": [
+        "education",
+        "work"
+      ],
+      "synonyms": [
+        "FH",
+        "Hochschule"
+      ],
+      "antonyms": [],
+      "related": [
+        "hochschule"
+      ]
+    },
+    {
+      "id": "studium",
+      "word": "das Studium",
+      "lemma": "Studium",
+      "translation": "degree studies",
+      "translations": [
+        "degree studies",
+        "course of study"
+      ],
+      "level": "A2",
+      "category": "Education & Learning",
+      "partOfSpeech": "noun",
+      "frequency": 700,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Studien",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Mein Studium dauert noch zwei Jahre.",
+          "en": "My degree studies will take another two years."
+        },
+        {
+          "de": "Wie finanzierst du dein Studium?",
+          "en": "How are you financing your studies?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Nach dem ___ möchte er in Berlin arbeiten.",
+          "answer": "Studium",
+          "en": "After his studies he would like to work in Berlin."
+        }
+      ],
+      "notes": "'das Studium' = the whole degree programme; 'der Kurs' is a single course.",
+      "mnemonic": null,
+      "germany_context": "You must enrol (sich immatrikulieren) each semester and pay the Semesterbeitrag, otherwise you lose your student status.",
+      "emoji": "📚",
+      "imageable": false,
+      "tags": [
+        "education"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "universitaet",
+        "semester"
+      ]
+    },
+    {
+      "id": "semester",
+      "word": "das Semester",
+      "lemma": "Semester",
+      "translation": "semester",
+      "translations": [
+        "semester",
+        "term"
+      ],
+      "level": "A2",
+      "category": "Education & Learning",
+      "partOfSpeech": "noun",
+      "frequency": 1300,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Semester",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich bin im dritten Semester.",
+          "en": "I am in my third semester."
+        },
+        {
+          "de": "Das Semester fängt im Oktober an.",
+          "en": "The semester starts in October."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Nächstes ___ mache ich ein Praktikum.",
+          "answer": "Semester",
+          "en": "Next semester I am doing an internship."
+        }
+      ],
+      "notes": "Plural is identical to the singular: ein Semester, zwei Semester.",
+      "mnemonic": null,
+      "germany_context": "The Wintersemester runs roughly October to March, the Sommersemester April to September.",
+      "emoji": "📅",
+      "imageable": false,
+      "tags": [
+        "education",
+        "time"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "studium",
+        "vorlesung"
+      ]
+    },
+    {
+      "id": "vorlesung",
+      "word": "die Vorlesung",
+      "lemma": "Vorlesung",
+      "translation": "lecture",
+      "translations": [
+        "lecture"
+      ],
+      "level": "A2",
+      "category": "Education & Learning",
+      "partOfSpeech": "noun",
+      "frequency": 1500,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Vorlesungen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Vorlesung beginnt um zehn.",
+          "en": "The lecture starts at ten."
+        },
+        {
+          "de": "Ich war heute nicht in der Vorlesung.",
+          "en": "I wasn't at the lecture today."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Diese ___ ist wirklich interessant.",
+          "answer": "Vorlesung",
+          "en": "This lecture is really interesting."
+        }
+      ],
+      "notes": "A Vorlesung is the big lecture; a Seminar is the small discussion class.",
+      "mnemonic": "vor + lesen = 'to read out (in front of people)'",
+      "germany_context": null,
+      "emoji": "🎙️",
+      "imageable": false,
+      "tags": [
+        "education"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "seminar",
+        "dozent"
+      ]
+    },
+    {
+      "id": "seminar",
+      "word": "das Seminar",
+      "lemma": "Seminar",
+      "translation": "seminar",
+      "translations": [
+        "seminar",
+        "workshop"
+      ],
+      "level": "A2",
+      "category": "Education & Learning",
+      "partOfSpeech": "noun",
+      "frequency": 1700,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Seminare",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Im Seminar müssen wir ein Referat halten.",
+          "en": "In the seminar we have to give a presentation."
+        },
+        {
+          "de": "Das Seminar findet jeden Dienstag statt.",
+          "en": "The seminar takes place every Tuesday."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Für das ___ musst du dich online anmelden.",
+          "answer": "Seminar",
+          "en": "You have to register online for the seminar."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "📝",
+      "imageable": false,
+      "tags": [
+        "education",
+        "work"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "vorlesung",
+        "kurs"
+      ]
+    },
+    {
+      "id": "kurs",
+      "word": "der Kurs",
+      "lemma": "Kurs",
+      "translation": "course",
+      "translations": [
+        "course",
+        "class"
+      ],
+      "level": "A1",
+      "category": "Education & Learning",
+      "partOfSpeech": "noun",
+      "frequency": 600,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Kurse",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Kurs kostet 200 Euro.",
+          "en": "The course costs 200 euros."
+        },
+        {
+          "de": "Ich habe mich für einen Kurs angemeldet.",
+          "en": "I have signed up for a course."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Mein ___ findet zweimal pro Woche abends statt.",
+          "answer": "Kurs",
+          "en": "My course takes place twice a week in the evening."
+        }
+      ],
+      "notes": "'einen Kurs machen' or 'einen Kurs besuchen' = to take a course.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "📖",
+      "imageable": false,
+      "tags": [
+        "education",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "sprachkurs",
+        "seminar"
+      ]
+    },
+    {
+      "id": "sprachkurs",
+      "word": "der Sprachkurs",
+      "lemma": "Sprachkurs",
+      "translation": "language course",
+      "translations": [
+        "language course"
+      ],
+      "level": "A1",
+      "category": "Education & Learning",
+      "partOfSpeech": "noun",
+      "frequency": 750,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Sprachkurse",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich besuche einen Sprachkurs auf Niveau B1.",
+          "en": "I attend a language course at level B1."
+        },
+        {
+          "de": "Der Sprachkurs ist dreimal die Woche.",
+          "en": "The language course is three times a week."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ohne ___ lernt man die Grammatik nur schwer.",
+          "answer": "Sprachkurs",
+          "en": "Without a language course it is hard to learn the grammar."
+        }
+      ],
+      "notes": null,
+      "mnemonic": "Sprache + Kurs",
+      "germany_context": "Levels follow the CEFR (A1-C2). Goethe-Institut, telc and VHS courses are the most widely recognised; B1 is the level required for German citizenship.",
+      "emoji": "🗣️",
+      "imageable": false,
+      "tags": [
+        "language-learning",
+        "essential"
+      ],
+      "synonyms": [
+        "Deutschkurs"
+      ],
+      "antonyms": [],
+      "related": [
+        "integrationskurs",
+        "volkshochschule"
+      ]
+    },
+    {
+      "id": "integrationskurs",
+      "word": "der Integrationskurs",
+      "lemma": "Integrationskurs",
+      "translation": "integration course",
+      "translations": [
+        "integration course"
+      ],
+      "level": "A2",
+      "category": "Education & Learning",
+      "partOfSpeech": "noun",
+      "frequency": 1100,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Integrationskurse",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Mein Integrationskurs dauert sechs Monate.",
+          "en": "My integration course lasts six months."
+        },
+        {
+          "de": "Im Integrationskurs lernen wir auch etwas über Politik.",
+          "en": "In the integration course we also learn something about politics."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Sie hat den ___ letzte Woche abgeschlossen.",
+          "answer": "Integrationskurs",
+          "en": "She finished the integration course last week."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Run by the BAMF: 600 hours of German up to B1 plus a 100-hour Orientierungskurs on history, law and society. It ends with the DTZ exam and the 'Leben in Deutschland' test.",
+      "emoji": "🇩🇪",
+      "imageable": false,
+      "tags": [
+        "language-learning",
+        "bureaucracy",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "sprachkurs",
+        "zertifikat"
+      ]
+    },
+    {
+      "id": "klasse",
+      "word": "die Klasse",
+      "lemma": "Klasse",
+      "translation": "class",
+      "translations": [
+        "class",
+        "grade",
+        "classroom"
+      ],
+      "level": "A1",
+      "category": "Education & Learning",
+      "partOfSpeech": "noun",
+      "frequency": 550,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Klassen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Meine Tochter ist in der vierten Klasse.",
+          "en": "My daughter is in fourth grade."
+        },
+        {
+          "de": "In der Klasse sind 25 Kinder.",
+          "en": "There are 25 children in the class."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wir sind in derselben ___.",
+          "answer": "Klasse",
+          "en": "We are in the same class."
+        }
+      ],
+      "notes": "Means both the group of pupils and the grade level. As an exclamation 'Klasse!' means 'Great!'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "👨‍🏫",
+      "imageable": false,
+      "tags": [
+        "education"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "schule",
+        "unterricht"
+      ]
+    },
+    {
+      "id": "unterricht",
+      "word": "der Unterricht",
+      "lemma": "Unterricht",
+      "translation": "lessons",
+      "translations": [
+        "lessons",
+        "class",
+        "instruction"
+      ],
+      "level": "A2",
+      "category": "Education & Learning",
+      "partOfSpeech": "noun",
+      "frequency": 950,
+      "gender": "m",
+      "article": "der",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Unterricht fällt heute aus.",
+          "en": "The lesson is cancelled today."
+        },
+        {
+          "de": "Im Unterricht sprechen wir nur Deutsch.",
+          "en": "In class we only speak German."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Nach dem ___ gehe ich einkaufen.",
+          "answer": "Unterricht",
+          "en": "After class I go shopping."
+        }
+      ],
+      "notes": "Uncountable — there is no normal plural. For one single lesson say 'die Stunde'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "📋",
+      "imageable": false,
+      "tags": [
+        "education"
+      ],
+      "synonyms": [
+        "Stunde"
+      ],
+      "antonyms": [],
+      "related": [
+        "unterrichten",
+        "klasse"
+      ]
+    },
+    {
+      "id": "fach",
+      "word": "das Fach",
+      "lemma": "Fach",
+      "translation": "subject",
+      "translations": [
+        "subject",
+        "compartment"
+      ],
+      "level": "A2",
+      "category": "Education & Learning",
+      "partOfSpeech": "noun",
+      "frequency": 1050,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Fächer",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Mathe ist mein Lieblingsfach.",
+          "en": "Maths is my favourite subject."
+        },
+        {
+          "de": "Welches Fach magst du am liebsten?",
+          "en": "Which subject do you like best?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "In diesem ___ habe ich eine gute Note.",
+          "answer": "Fach",
+          "en": "In this subject I have a good grade."
+        }
+      ],
+      "notes": "Also means a shelf compartment or pigeonhole, e.g. 'das Fach im Schrank'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "📐",
+      "imageable": false,
+      "tags": [
+        "education"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "stundenplan",
+        "note"
+      ]
+    },
+    {
+      "id": "stundenplan",
+      "word": "der Stundenplan",
+      "lemma": "Stundenplan",
+      "translation": "timetable",
+      "translations": [
+        "timetable",
+        "schedule"
+      ],
+      "level": "A2",
+      "category": "Education & Learning",
+      "partOfSpeech": "noun",
+      "frequency": 1750,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Stundenpläne",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der neue Stundenplan hängt an der Tür.",
+          "en": "The new timetable is hanging on the door."
+        },
+        {
+          "de": "Am Freitag steht Sport auf dem Stundenplan.",
+          "en": "On Friday sports is on the timetable."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Hast du schon deinen ___ für das Semester?",
+          "answer": "Stundenplan",
+          "en": "Do you already have your timetable for the semester?"
+        }
+      ],
+      "notes": null,
+      "mnemonic": "Stunde (hour/lesson) + Plan",
+      "germany_context": null,
+      "emoji": "🗓️",
+      "imageable": true,
+      "tags": [
+        "education",
+        "time"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "unterricht",
+        "fach"
+      ]
+    },
+    {
+      "id": "hausaufgabe",
+      "word": "die Hausaufgabe",
+      "lemma": "Hausaufgabe",
+      "translation": "homework",
+      "translations": [
+        "homework",
+        "assignment"
+      ],
+      "level": "A1",
+      "category": "Education & Learning",
+      "partOfSpeech": "noun",
+      "frequency": 850,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Hausaufgaben",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Hast du deine Hausaufgaben schon gemacht?",
+          "en": "Have you done your homework yet?"
+        },
+        {
+          "de": "Die Hausaufgabe war ziemlich schwer.",
+          "en": "The homework was quite hard."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich mache meine ___ immer am Nachmittag.",
+          "answer": "Hausaufgaben",
+          "en": "I always do my homework in the afternoon."
+        }
+      ],
+      "notes": "Usually used in the plural: 'die Hausaufgaben machen'.",
+      "mnemonic": "Haus + Aufgabe = 'house task'",
+      "germany_context": null,
+      "emoji": "📝",
+      "imageable": false,
+      "tags": [
+        "education",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "uebung",
+        "schule"
+      ]
+    },
+    {
+      "id": "pruefung",
+      "word": "die Prüfung",
+      "lemma": "Prüfung",
+      "translation": "exam",
+      "translations": [
+        "exam",
+        "test"
+      ],
+      "level": "A1",
+      "category": "Education & Learning",
+      "partOfSpeech": "noun",
+      "frequency": 480,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Prüfungen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich habe morgen eine wichtige Prüfung.",
+          "en": "I have an important exam tomorrow."
+        },
+        {
+          "de": "Die Prüfung war einfacher als gedacht.",
+          "en": "The exam was easier than expected."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Er hat die ___ leider nicht geschafft.",
+          "answer": "Prüfung",
+          "en": "Unfortunately he did not pass the exam."
+        }
+      ],
+      "notes": "'eine Prüfung machen' = to take an exam, 'bestehen' = to pass it.",
+      "mnemonic": "prüfen = to check -> Prüfung",
+      "germany_context": "For most language certificates (telc, Goethe, TestDaF) you must register and pay several weeks before the exam date.",
+      "emoji": "📄",
+      "imageable": false,
+      "tags": [
+        "education",
+        "essential"
+      ],
+      "synonyms": [
+        "Examen"
+      ],
+      "antonyms": [],
+      "related": [
+        "klausur",
+        "zertifikat"
+      ]
+    },
+    {
+      "id": "klausur",
+      "word": "die Klausur",
+      "lemma": "Klausur",
+      "translation": "written exam",
+      "translations": [
+        "written exam",
+        "test paper"
+      ],
+      "level": "A2",
+      "category": "Education & Learning",
+      "partOfSpeech": "noun",
+      "frequency": 1850,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Klausuren",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Klausur dauert zwei Stunden.",
+          "en": "The written exam lasts two hours."
+        },
+        {
+          "de": "Wir schreiben nächste Woche eine Klausur.",
+          "en": "We are writing an exam next week."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Für die ___ muss ich das ganze Wochenende lernen.",
+          "answer": "Klausur",
+          "en": "For the written exam I have to study the whole weekend."
+        }
+      ],
+      "notes": "Specifically a written exam at school or university. Germans say 'eine Klausur schreiben'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "✍️",
+      "imageable": false,
+      "tags": [
+        "education"
+      ],
+      "synonyms": [
+        "Prüfung"
+      ],
+      "antonyms": [],
+      "related": [
+        "pruefung",
+        "test"
+      ]
+    },
+    {
+      "id": "test",
+      "word": "der Test",
+      "lemma": "Test",
+      "translation": "test",
+      "translations": [
+        "test",
+        "quiz"
+      ],
+      "level": "A1",
+      "category": "Education & Learning",
+      "partOfSpeech": "noun",
+      "frequency": 700,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Tests",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Test war nur zehn Minuten lang.",
+          "en": "The test was only ten minutes long."
+        },
+        {
+          "de": "Wir haben jeden Freitag einen kleinen Test.",
+          "en": "We have a small test every Friday."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich habe den ___ mit einer Zwei bestanden.",
+          "answer": "Test",
+          "en": "I passed the test with a two."
+        }
+      ],
+      "notes": "Pronounced like English 'test'. Smaller and shorter than a Klausur.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "📝",
+      "imageable": false,
+      "tags": [
+        "education"
+      ],
+      "synonyms": [
+        "Prüfung"
+      ],
+      "antonyms": [],
+      "related": [
+        "pruefung",
+        "klausur"
+      ]
+    },
+    {
+      "id": "note",
+      "word": "die Note",
+      "lemma": "Note",
+      "translation": "grade",
+      "translations": [
+        "grade",
+        "mark"
+      ],
+      "level": "A2",
+      "category": "Education & Learning",
+      "partOfSpeech": "noun",
+      "frequency": 900,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Noten",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich habe eine gute Note bekommen.",
+          "en": "I got a good grade."
+        },
+        {
+          "de": "Seine Noten sind dieses Jahr besser geworden.",
+          "en": "His grades have got better this year."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Welche ___ hast du in Mathe?",
+          "answer": "Note",
+          "en": "What grade do you have in maths?"
+        }
+      ],
+      "notes": "Also means a musical note or a short written note.",
+      "mnemonic": null,
+      "germany_context": "German grades run from 1 (sehr gut) to 6 (ungenügend) — 1 is the BEST, the opposite of many other systems. Anything below 4 is a fail.",
+      "emoji": "📊",
+      "imageable": false,
+      "tags": [
+        "education",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "zeugnis",
+        "pruefung"
+      ]
+    },
+    {
+      "id": "zeugnis",
+      "word": "das Zeugnis",
+      "lemma": "Zeugnis",
+      "translation": "report card",
+      "translations": [
+        "report card",
+        "certificate",
+        "reference"
+      ],
+      "level": "A2",
+      "category": "Education & Learning",
+      "partOfSpeech": "noun",
+      "frequency": 1400,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Zeugnisse",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Am Freitag bekommen die Kinder ihr Zeugnis.",
+          "en": "On Friday the children get their report cards."
+        },
+        {
+          "de": "Mein Zeugnis war dieses Jahr wirklich gut.",
+          "en": "My report card was really good this year."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Bitte schicken Sie uns eine Kopie von Ihrem ___.",
+          "answer": "Zeugnis",
+          "en": "Please send us a copy of your certificate."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "When you leave a German job you receive an Arbeitszeugnis (written reference). It is written in coded language and employers read it carefully — always check yours.",
+      "emoji": "📜",
+      "imageable": true,
+      "tags": [
+        "education",
+        "work"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "note",
+        "abschluss"
+      ]
+    },
+    {
+      "id": "abschluss",
+      "word": "der Abschluss",
+      "lemma": "Abschluss",
+      "translation": "degree",
+      "translations": [
+        "degree",
+        "qualification",
+        "completion"
+      ],
+      "level": "A2",
+      "category": "Education & Learning",
+      "partOfSpeech": "noun",
+      "frequency": 1250,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Abschlüsse",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Sie hat einen Abschluss in Informatik.",
+          "en": "She has a degree in computer science."
+        },
+        {
+          "de": "Nach dem Abschluss suche ich einen Job.",
+          "en": "After graduation I will look for a job."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ohne ___ ist die Bewerbung schwierig.",
+          "answer": "Abschluss",
+          "en": "Without a degree the application is difficult."
+        }
+      ],
+      "notes": null,
+      "mnemonic": "ab + schließen = to close off -> completion",
+      "germany_context": null,
+      "emoji": "🎓",
+      "imageable": false,
+      "tags": [
+        "education",
+        "work"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "anerkennung",
+        "bachelor"
+      ]
+    },
+    {
+      "id": "abitur",
+      "word": "das Abitur",
+      "lemma": "Abitur",
+      "translation": "school leaving exam",
+      "translations": [
+        "school leaving exam",
+        "A-levels"
+      ],
+      "level": "A2",
+      "category": "Education & Learning",
+      "partOfSpeech": "noun",
+      "frequency": 1600,
+      "gender": "n",
+      "article": "das",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Er macht nächstes Jahr sein Abitur.",
+          "en": "He is taking his school leaving exam next year."
+        },
+        {
+          "de": "Mit dem Abitur kann man studieren.",
+          "en": "With the Abitur you can go to university."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Sie hat ihr ___ mit 1,8 bestanden.",
+          "answer": "Abitur",
+          "en": "She passed her school leaving exam with a 1.8."
+        }
+      ],
+      "notes": "Colloquially shortened to 'Abi'.",
+      "mnemonic": null,
+      "germany_context": "The Abitur is the general university entrance qualification. Foreign school certificates often need to be checked against the anabin database first.",
+      "emoji": "🎓",
+      "imageable": false,
+      "tags": [
+        "education"
+      ],
+      "synonyms": [
+        "Abi"
+      ],
+      "antonyms": [],
+      "related": [
+        "gymnasium",
+        "anerkennung"
+      ]
+    },
+    {
+      "id": "bachelor",
+      "word": "der Bachelor",
+      "lemma": "Bachelor",
+      "translation": "bachelor's degree",
+      "translations": [
+        "bachelor's degree"
+      ],
+      "level": "A2",
+      "category": "Education & Learning",
+      "partOfSpeech": "noun",
+      "frequency": 1450,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Bachelors",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich habe einen Bachelor in Informatik.",
+          "en": "I have a bachelor's degree in computer science."
+        },
+        {
+          "de": "Der Bachelor dauert normalerweise sechs Semester.",
+          "en": "The bachelor's degree normally takes six semesters."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Nach dem ___ hat er direkt angefangen zu arbeiten.",
+          "answer": "Bachelor",
+          "en": "After his bachelor's he started working right away."
+        }
+      ],
+      "notes": "Pronounced roughly as in English. 'Bachelorarbeit' is the thesis.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🎓",
+      "imageable": false,
+      "tags": [
+        "education",
+        "work"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "master",
+        "abschluss"
+      ]
+    },
+    {
+      "id": "master",
+      "word": "der Master",
+      "lemma": "Master",
+      "translation": "master's degree",
+      "translations": [
+        "master's degree"
+      ],
+      "level": "A2",
+      "category": "Education & Learning",
+      "partOfSpeech": "noun",
+      "frequency": 1500,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Master",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Sie macht gerade ihren Master in Berlin.",
+          "en": "She is currently doing her master's in Berlin."
+        },
+        {
+          "de": "Für diese Stelle braucht man einen Master.",
+          "en": "For this position you need a master's degree."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Mein ___ dauert noch drei Semester.",
+          "answer": "Master",
+          "en": "My master's degree will take another three semesters."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🎓",
+      "imageable": false,
+      "tags": [
+        "education",
+        "work"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "bachelor",
+        "studium"
+      ]
+    },
+    {
+      "id": "zertifikat",
+      "word": "das Zertifikat",
+      "lemma": "Zertifikat",
+      "translation": "certificate",
+      "translations": [
+        "certificate"
+      ],
+      "level": "A2",
+      "category": "Education & Learning",
+      "partOfSpeech": "noun",
+      "frequency": 1350,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Zertifikate",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Am Ende des Kurses bekommt man ein Zertifikat.",
+          "en": "At the end of the course you get a certificate."
+        },
+        {
+          "de": "Mein Zertifikat ist auf Niveau B1.",
+          "en": "My certificate is at level B1."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Für das Visum brauche ich ein ___ auf Deutsch.",
+          "answer": "Zertifikat",
+          "en": "For the visa I need a certificate in German."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Goethe-Zertifikat, telc Deutsch and TestDaF are the certificates authorities and universities accept. Keep the original — offices often want to see it, not a copy.",
+      "emoji": "🏅",
+      "imageable": true,
+      "tags": [
+        "education",
+        "bureaucracy",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "pruefung",
+        "sprachkurs"
+      ]
+    },
+    {
+      "id": "lehrer",
+      "word": "der Lehrer",
+      "lemma": "Lehrer",
+      "translation": "teacher",
+      "translations": [
+        "teacher"
+      ],
+      "level": "A1",
+      "category": "Education & Learning",
+      "partOfSpeech": "noun",
+      "frequency": 400,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Lehrer",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Unser Lehrer erklärt das sehr gut.",
+          "en": "Our teacher explains that very well."
+        },
+        {
+          "de": "Der Lehrer kommt gleich in die Klasse.",
+          "en": "The teacher is coming to the classroom in a moment."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Frag doch den ___, wenn du etwas nicht verstehst.",
+          "answer": "Lehrer",
+          "en": "Just ask the teacher if you don't understand something."
+        }
+      ],
+      "notes": "Female form: die Lehrerin, plural die Lehrerinnen.",
+      "mnemonic": "lehren = to teach -> Lehrer",
+      "germany_context": null,
+      "emoji": "👨‍🏫",
+      "imageable": true,
+      "tags": [
+        "education",
+        "people",
+        "essential"
+      ],
+      "synonyms": [
+        "Lehrerin"
+      ],
+      "antonyms": [
+        "Schüler"
+      ],
+      "related": [
+        "schueler",
+        "unterrichten"
+      ]
+    },
+    {
+      "id": "professor",
+      "word": "der Professor",
+      "lemma": "Professor",
+      "translation": "professor",
+      "translations": [
+        "professor"
+      ],
+      "level": "A2",
+      "category": "Education & Learning",
+      "partOfSpeech": "noun",
+      "frequency": 1300,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Professoren",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Professor hält heute die Vorlesung.",
+          "en": "The professor is giving the lecture today."
+        },
+        {
+          "de": "Unser Professor ist sehr freundlich.",
+          "en": "Our professor is very friendly."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich habe eine E-Mail an den ___ geschrieben.",
+          "answer": "Professor",
+          "en": "I wrote an email to the professor."
+        }
+      ],
+      "notes": "Stress moves in the plural: Proféssor, but Professóren.",
+      "mnemonic": null,
+      "germany_context": "Titles matter in German academia: address a professor as 'Herr Professor Müller' or at least 'Herr Müller', not by first name.",
+      "emoji": "🧑‍🏫",
+      "imageable": true,
+      "tags": [
+        "education",
+        "people"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "dozent",
+        "vorlesung"
+      ]
+    },
+    {
+      "id": "dozent",
+      "word": "der Dozent",
+      "lemma": "Dozent",
+      "translation": "lecturer",
+      "translations": [
+        "lecturer",
+        "instructor"
+      ],
+      "level": "A2",
+      "category": "Education & Learning",
+      "partOfSpeech": "noun",
+      "frequency": 1800,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Dozenten",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Dozent hat den Kurs sehr gut vorbereitet.",
+          "en": "The lecturer prepared the course very well."
+        },
+        {
+          "de": "Unsere Dozentin spricht langsam und deutlich.",
+          "en": "Our lecturer speaks slowly and clearly."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Frag den ___ nach den Folien.",
+          "answer": "Dozenten",
+          "en": "Ask the lecturer for the slides."
+        }
+      ],
+      "notes": "Weak masculine noun: den/dem Dozenten in the accusative and dative.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🧑‍🏫",
+      "imageable": true,
+      "tags": [
+        "education",
+        "people"
+      ],
+      "synonyms": [
+        "Lehrer"
+      ],
+      "antonyms": [],
+      "related": [
+        "professor",
+        "seminar"
+      ]
+    },
+    {
+      "id": "schueler",
+      "word": "der Schüler",
+      "lemma": "Schüler",
+      "translation": "pupil",
+      "translations": [
+        "pupil",
+        "student"
+      ],
+      "level": "A1",
+      "category": "Education & Learning",
+      "partOfSpeech": "noun",
+      "frequency": 650,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Schüler",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Schüler hat eine Frage.",
+          "en": "The pupil has a question."
+        },
+        {
+          "de": "In dieser Klasse sind 22 Schüler.",
+          "en": "There are 22 pupils in this class."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Jeder ___ bekommt ein eigenes Heft.",
+          "answer": "Schüler",
+          "en": "Every pupil gets their own notebook."
+        }
+      ],
+      "notes": "Schüler = school pupil; Student = university student. Do not mix them up.",
+      "mnemonic": "Schule -> Schüler",
+      "germany_context": null,
+      "emoji": "🧒",
+      "imageable": true,
+      "tags": [
+        "education",
+        "people"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "Lehrer"
+      ],
+      "related": [
+        "student",
+        "schule"
+      ]
+    },
+    {
+      "id": "student",
+      "word": "der Student",
+      "lemma": "Student",
+      "translation": "student",
+      "translations": [
+        "student"
+      ],
+      "level": "A1",
+      "category": "Education & Learning",
+      "partOfSpeech": "noun",
+      "frequency": 520,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Studenten",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich bin Student an der TU München.",
+          "en": "I am a student at TU Munich."
+        },
+        {
+          "de": "Studenten bekommen oft Rabatt.",
+          "en": "Students often get a discount."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Als ___ zahlst du im Museum weniger.",
+          "answer": "Student",
+          "en": "As a student you pay less at the museum."
+        }
+      ],
+      "notes": "Weak masculine noun: den Studenten, dem Studenten. Female: die Studentin.",
+      "mnemonic": null,
+      "germany_context": "A Studentenausweis gets you discounts on transport, museums, cinemas and software licences.",
+      "emoji": "🧑‍🎓",
+      "imageable": true,
+      "tags": [
+        "education",
+        "people",
+        "essential"
+      ],
+      "synonyms": [
+        "Studentin"
+      ],
+      "antonyms": [],
+      "related": [
+        "schueler",
+        "universitaet"
+      ]
+    },
+    {
+      "id": "kommilitone",
+      "word": "der Kommilitone",
+      "lemma": "Kommilitone",
+      "translation": "fellow student",
+      "translations": [
+        "fellow student",
+        "classmate"
+      ],
+      "level": "A2",
+      "category": "Education & Learning",
+      "partOfSpeech": "noun",
+      "frequency": 2300,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Kommilitonen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Meine Kommilitonen sind sehr nett.",
+          "en": "My fellow students are very nice."
+        },
+        {
+          "de": "Ein Kommilitone hat mir seine Notizen geliehen.",
+          "en": "A fellow student lent me his notes."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich lerne oft mit meinen ___ zusammen.",
+          "answer": "Kommilitonen",
+          "en": "I often study together with my fellow students."
+        }
+      ],
+      "notes": "Weak masculine noun. Only used for university, not school — at school it is 'Mitschüler'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "👫",
+      "imageable": true,
+      "tags": [
+        "education",
+        "people"
+      ],
+      "synonyms": [
+        "Mitstudent"
+      ],
+      "antonyms": [],
+      "related": [
+        "student"
+      ]
+    },
+    {
+      "id": "aufgabe",
+      "word": "die Aufgabe",
+      "lemma": "Aufgabe",
+      "translation": "task",
+      "translations": [
+        "task",
+        "exercise",
+        "assignment"
+      ],
+      "level": "A2",
+      "category": "Education & Learning",
+      "partOfSpeech": "noun",
+      "frequency": 750,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Aufgaben",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Diese Aufgabe verstehe ich nicht.",
+          "en": "I don't understand this task."
+        },
+        {
+          "de": "Wir haben noch drei Aufgaben zu machen.",
+          "en": "We still have three exercises to do."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Die letzte ___ war wirklich schwer.",
+          "answer": "Aufgabe",
+          "en": "The last task was really hard."
+        }
+      ],
+      "notes": "Also means a duty or responsibility at work: 'Das ist nicht meine Aufgabe.'",
+      "mnemonic": "auf + geben -> something 'given out' to do",
+      "germany_context": null,
+      "emoji": "📋",
+      "imageable": false,
+      "tags": [
+        "education",
+        "work",
+        "essential"
+      ],
+      "synonyms": [
+        "Übung"
+      ],
+      "antonyms": [],
+      "related": [
+        "hausaufgabe",
+        "uebung"
+      ]
+    },
+    {
+      "id": "woerterbuch",
+      "word": "das Wörterbuch",
+      "lemma": "Wörterbuch",
+      "translation": "dictionary",
+      "translations": [
+        "dictionary"
+      ],
+      "level": "A1",
+      "category": "Education & Learning",
+      "partOfSpeech": "noun",
+      "frequency": 1150,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Wörterbücher",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich schlage das Wort im Wörterbuch nach.",
+          "en": "I look the word up in the dictionary."
+        },
+        {
+          "de": "Mein Wörterbuch ist ziemlich alt.",
+          "en": "My dictionary is quite old."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Hast du ein ___ Deutsch-Türkisch?",
+          "answer": "Wörterbuch",
+          "en": "Do you have a German-Turkish dictionary?"
+        }
+      ],
+      "notes": null,
+      "mnemonic": "Wörter (words) + Buch (book)",
+      "germany_context": null,
+      "emoji": "📕",
+      "imageable": true,
+      "tags": [
+        "language-learning",
+        "objects"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "wort",
+        "uebersetzen"
+      ]
+    },
+    {
+      "id": "buch",
+      "word": "das Buch",
+      "lemma": "Buch",
+      "translation": "book",
+      "translations": [
+        "book"
+      ],
+      "level": "A1",
+      "category": "Education & Learning",
+      "partOfSpeech": "noun",
+      "frequency": 280,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Bücher",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Das Buch ist sehr spannend.",
+          "en": "The book is very exciting."
+        },
+        {
+          "de": "Ich lese jeden Abend ein bisschen im Buch.",
+          "en": "I read a bit in the book every evening."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Kannst du mir dein ___ leihen?",
+          "answer": "Buch",
+          "en": "Can you lend me your book?"
+        }
+      ],
+      "notes": "Plural has an umlaut: Bücher.",
+      "mnemonic": "Buch ~ 'book'",
+      "germany_context": null,
+      "emoji": "📖",
+      "imageable": true,
+      "tags": [
+        "objects",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "bibliothek",
+        "heft"
+      ]
+    },
+    {
+      "id": "heft",
+      "word": "das Heft",
+      "lemma": "Heft",
+      "translation": "exercise book",
+      "translations": [
+        "exercise book",
+        "notebook"
+      ],
+      "level": "A1",
+      "category": "Education & Learning",
+      "partOfSpeech": "noun",
+      "frequency": 1500,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Hefte",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Schreib das bitte in dein Heft.",
+          "en": "Please write that in your exercise book."
+        },
+        {
+          "de": "Ich habe mein Heft zu Hause vergessen.",
+          "en": "I forgot my exercise book at home."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Mein ___ ist schon fast voll.",
+          "answer": "Heft",
+          "en": "My exercise book is almost full already."
+        }
+      ],
+      "notes": "A thin school exercise book. A ring binder is 'der Ordner'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "📓",
+      "imageable": true,
+      "tags": [
+        "objects",
+        "education"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "papier",
+        "buch"
+      ]
+    },
+    {
+      "id": "stift",
+      "word": "der Stift",
+      "lemma": "Stift",
+      "translation": "pen",
+      "translations": [
+        "pen",
+        "pencil"
+      ],
+      "level": "A1",
+      "category": "Education & Learning",
+      "partOfSpeech": "noun",
+      "frequency": 950,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Stifte",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Hast du einen Stift für mich?",
+          "en": "Do you have a pen for me?"
+        },
+        {
+          "de": "Der Stift schreibt nicht mehr.",
+          "en": "The pen doesn't write any more."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich brauche einen ___ und ein Blatt Papier.",
+          "answer": "Stift",
+          "en": "I need a pen and a sheet of paper."
+        }
+      ],
+      "notes": "General word for any writing stick — pen, pencil or marker.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🖊️",
+      "imageable": true,
+      "tags": [
+        "objects",
+        "essential"
+      ],
+      "synonyms": [
+        "Kugelschreiber"
+      ],
+      "antonyms": [],
+      "related": [
+        "kugelschreiber",
+        "bleistift"
+      ]
+    },
+    {
+      "id": "kugelschreiber",
+      "word": "der Kugelschreiber",
+      "lemma": "Kugelschreiber",
+      "translation": "ballpoint pen",
+      "translations": [
+        "ballpoint pen",
+        "biro"
+      ],
+      "level": "A2",
+      "category": "Education & Learning",
+      "partOfSpeech": "noun",
+      "frequency": 2400,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Kugelschreiber",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Bitte unterschreiben Sie mit einem Kugelschreiber.",
+          "en": "Please sign with a ballpoint pen."
+        },
+        {
+          "de": "Mein Kugelschreiber ist leer.",
+          "en": "My ballpoint pen is empty."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Kann ich kurz Ihren ___ haben?",
+          "answer": "Kugelschreiber",
+          "en": "Can I borrow your ballpoint pen for a moment?"
+        }
+      ],
+      "notes": "Everyone says the short form 'Kuli' in daily life.",
+      "mnemonic": "Kugel (ball) + schreiben (write) = ball-writer",
+      "germany_context": "German offices insist on blue or black ballpoint for official forms — pencil is not accepted.",
+      "emoji": "🖊️",
+      "imageable": true,
+      "tags": [
+        "objects",
+        "office"
+      ],
+      "synonyms": [
+        "Kuli",
+        "Stift"
+      ],
+      "antonyms": [],
+      "related": [
+        "stift",
+        "bleistift"
+      ]
+    },
+    {
+      "id": "bleistift",
+      "word": "der Bleistift",
+      "lemma": "Bleistift",
+      "translation": "pencil",
+      "translations": [
+        "pencil"
+      ],
+      "level": "A2",
+      "category": "Education & Learning",
+      "partOfSpeech": "noun",
+      "frequency": 2200,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Bleistifte",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Zeichne die Linie mit einem Bleistift.",
+          "en": "Draw the line with a pencil."
+        },
+        {
+          "de": "Der Bleistift ist zu stumpf.",
+          "en": "The pencil is too blunt."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Kinder schreiben in der ersten Klasse mit ___.",
+          "answer": "Bleistift",
+          "en": "Children write with a pencil in first grade."
+        }
+      ],
+      "notes": null,
+      "mnemonic": "Blei (lead) + Stift = 'lead pen'",
+      "germany_context": null,
+      "emoji": "✏️",
+      "imageable": true,
+      "tags": [
+        "objects",
+        "education"
+      ],
+      "synonyms": [
+        "Stift"
+      ],
+      "antonyms": [],
+      "related": [
+        "stift",
+        "radiergummi"
+      ]
+    },
+    {
+      "id": "radiergummi",
+      "word": "der Radiergummi",
+      "lemma": "Radiergummi",
+      "translation": "eraser",
+      "translations": [
+        "eraser",
+        "rubber"
+      ],
+      "level": "A2",
+      "category": "Education & Learning",
+      "partOfSpeech": "noun",
+      "frequency": 2700,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Radiergummis",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Wo ist mein Radiergummi?",
+          "en": "Where is my eraser?"
+        },
+        {
+          "de": "Der Radiergummi funktioniert nicht gut.",
+          "en": "The eraser doesn't work well."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Leih mir mal deinen ___, bitte.",
+          "answer": "Radiergummi",
+          "en": "Lend me your eraser, please."
+        }
+      ],
+      "notes": null,
+      "mnemonic": "radieren (to erase) + Gummi (rubber)",
+      "germany_context": null,
+      "emoji": "📐",
+      "imageable": true,
+      "tags": [
+        "objects",
+        "education"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "bleistift"
+      ]
+    },
+    {
+      "id": "papier",
+      "word": "das Papier",
+      "lemma": "Papier",
+      "translation": "paper",
+      "translations": [
+        "paper",
+        "documents"
+      ],
+      "level": "A1",
+      "category": "Education & Learning",
+      "partOfSpeech": "noun",
+      "frequency": 800,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Papiere",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich brauche ein Blatt Papier.",
+          "en": "I need a sheet of paper."
+        },
+        {
+          "de": "Das Papier kommt in die blaue Tonne.",
+          "en": "The paper goes in the blue bin."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Schreib die Adresse auf ein Stück ___.",
+          "answer": "Papier",
+          "en": "Write the address on a piece of paper."
+        }
+      ],
+      "notes": "In the plural 'die Papiere' usually means official documents or ID papers.",
+      "mnemonic": null,
+      "germany_context": "Paper is recycled separately in the blue Papiertonne — putting it in the normal rubbish can get your building fined.",
+      "emoji": "📄",
+      "imageable": true,
+      "tags": [
+        "objects",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "heft",
+        "stift"
+      ]
+    },
+    {
+      "id": "tafel",
+      "word": "die Tafel",
+      "lemma": "Tafel",
+      "translation": "blackboard",
+      "translations": [
+        "blackboard",
+        "board",
+        "bar (of chocolate)"
+      ],
+      "level": "A2",
+      "category": "Education & Learning",
+      "partOfSpeech": "noun",
+      "frequency": 1700,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Tafeln",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Lehrer schreibt das Wort an die Tafel.",
+          "en": "The teacher writes the word on the board."
+        },
+        {
+          "de": "An der Tafel steht die Hausaufgabe.",
+          "en": "The homework is on the board."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Bitte wisch die ___ ab.",
+          "answer": "Tafel",
+          "en": "Please wipe the board."
+        }
+      ],
+      "notes": "Also 'eine Tafel Schokolade' = a bar of chocolate.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "📋",
+      "imageable": true,
+      "tags": [
+        "objects",
+        "education"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "unterricht",
+        "klasse"
+      ]
+    },
+    {
+      "id": "sprachniveau",
+      "word": "das Sprachniveau",
+      "lemma": "Sprachniveau",
+      "translation": "language level",
+      "translations": [
+        "language level"
+      ],
+      "level": "A2",
+      "category": "Education & Learning",
+      "partOfSpeech": "noun",
+      "frequency": 1650,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Sprachniveaus",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Mein Sprachniveau ist im Moment A2.",
+          "en": "My language level is A2 at the moment."
+        },
+        {
+          "de": "Welches Sprachniveau brauche ich für diesen Job?",
+          "en": "Which language level do I need for this job?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Für das Studium ist ein ___ von C1 nötig.",
+          "answer": "Sprachniveau",
+          "en": "For the degree programme a language level of C1 is required."
+        }
+      ],
+      "notes": "Pronounced 'Sprach-nivo' — the French 'Niveau' keeps its French sound.",
+      "mnemonic": null,
+      "germany_context": "Levels A1-C2 come from the CEFR. B1 is required for citizenship, B2-C1 for most university programmes and regulated professions.",
+      "emoji": "📏",
+      "imageable": false,
+      "tags": [
+        "language-learning",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "sprachkurs",
+        "zertifikat"
+      ]
+    },
+    {
+      "id": "sprache",
+      "word": "die Sprache",
+      "lemma": "Sprache",
+      "translation": "language",
+      "translations": [
+        "language"
+      ],
+      "level": "A1",
+      "category": "Education & Learning",
+      "partOfSpeech": "noun",
+      "frequency": 380,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Sprachen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Deutsch ist keine leichte Sprache.",
+          "en": "German is not an easy language."
+        },
+        {
+          "de": "Wie viele Sprachen sprichst du?",
+          "en": "How many languages do you speak?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Türkisch ist eine sehr schöne ___.",
+          "answer": "Sprache",
+          "en": "Turkish is a very beautiful language."
+        }
+      ],
+      "notes": null,
+      "mnemonic": "sprechen -> Sprache",
+      "germany_context": null,
+      "emoji": "🗣️",
+      "imageable": false,
+      "tags": [
+        "language-learning",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "muttersprache",
+        "fremdsprache"
+      ]
+    },
+    {
+      "id": "muttersprache",
+      "word": "die Muttersprache",
+      "lemma": "Muttersprache",
+      "translation": "native language",
+      "translations": [
+        "native language",
+        "mother tongue"
+      ],
+      "level": "A2",
+      "category": "Education & Learning",
+      "partOfSpeech": "noun",
+      "frequency": 1400,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Muttersprachen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Meine Muttersprache ist Türkisch.",
+          "en": "My native language is Turkish."
+        },
+        {
+          "de": "Er spricht Deutsch fast wie seine Muttersprache.",
+          "en": "He speaks German almost like his native language."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Welche ___ sprichst du zu Hause?",
+          "answer": "Muttersprache",
+          "en": "Which native language do you speak at home?"
+        }
+      ],
+      "notes": null,
+      "mnemonic": "Mutter (mother) + Sprache = mother tongue",
+      "germany_context": null,
+      "emoji": "👪",
+      "imageable": false,
+      "tags": [
+        "language-learning"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "Fremdsprache"
+      ],
+      "related": [
+        "sprache",
+        "fremdsprache"
+      ]
+    },
+    {
+      "id": "fremdsprache",
+      "word": "die Fremdsprache",
+      "lemma": "Fremdsprache",
+      "translation": "foreign language",
+      "translations": [
+        "foreign language"
+      ],
+      "level": "A2",
+      "category": "Education & Learning",
+      "partOfSpeech": "noun",
+      "frequency": 1550,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Fremdsprachen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Englisch war meine erste Fremdsprache.",
+          "en": "English was my first foreign language."
+        },
+        {
+          "de": "Eine Fremdsprache lernt man nicht in drei Monaten.",
+          "en": "You don't learn a foreign language in three months."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "In der Schule hatte ich zwei ___.",
+          "answer": "Fremdsprachen",
+          "en": "At school I had two foreign languages."
+        }
+      ],
+      "notes": null,
+      "mnemonic": "fremd (foreign) + Sprache",
+      "germany_context": null,
+      "emoji": "🌐",
+      "imageable": false,
+      "tags": [
+        "language-learning"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "Muttersprache"
+      ],
+      "related": [
+        "sprache",
+        "muttersprache"
+      ]
+    },
+    {
+      "id": "grammatik",
+      "word": "die Grammatik",
+      "lemma": "Grammatik",
+      "translation": "grammar",
+      "translations": [
+        "grammar"
+      ],
+      "level": "A2",
+      "category": "Education & Learning",
+      "partOfSpeech": "noun",
+      "frequency": 1000,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Grammatiken",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die deutsche Grammatik ist am Anfang schwer.",
+          "en": "German grammar is hard at the beginning."
+        },
+        {
+          "de": "Wir wiederholen heute die Grammatik.",
+          "en": "Today we are revising the grammar."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ohne ___ kann man keine Sätze bilden.",
+          "answer": "Grammatik",
+          "en": "Without grammar you cannot form sentences."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "📘",
+      "imageable": false,
+      "tags": [
+        "language-learning"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "satz",
+        "wortschatz"
+      ]
+    },
+    {
+      "id": "wortschatz",
+      "word": "der Wortschatz",
+      "lemma": "Wortschatz",
+      "translation": "vocabulary",
+      "translations": [
+        "vocabulary"
+      ],
+      "level": "A2",
+      "category": "Education & Learning",
+      "partOfSpeech": "noun",
+      "frequency": 1600,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Wortschätze",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Mein Wortschatz wird jeden Tag größer.",
+          "en": "My vocabulary gets bigger every day."
+        },
+        {
+          "de": "Für die Prüfung brauchst du einen guten Wortschatz.",
+          "en": "For the exam you need a good vocabulary."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Lesen hilft sehr beim ___.",
+          "answer": "Wortschatz",
+          "en": "Reading helps a lot with vocabulary."
+        }
+      ],
+      "notes": null,
+      "mnemonic": "Wort (word) + Schatz (treasure) = 'word treasure'",
+      "germany_context": null,
+      "emoji": "💬",
+      "imageable": false,
+      "tags": [
+        "language-learning"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "vokabel",
+        "wort"
+      ]
+    },
+    {
+      "id": "vokabel",
+      "word": "die Vokabel",
+      "lemma": "Vokabel",
+      "translation": "vocabulary word",
+      "translations": [
+        "vocabulary word",
+        "vocab item"
+      ],
+      "level": "A2",
+      "category": "Education & Learning",
+      "partOfSpeech": "noun",
+      "frequency": 1750,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Vokabeln",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich lerne jeden Tag zwanzig Vokabeln.",
+          "en": "I learn twenty vocabulary words every day."
+        },
+        {
+          "de": "Diese Vokabel kenne ich noch nicht.",
+          "en": "I don't know this word yet."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Schreib die neuen ___ in dein Heft.",
+          "answer": "Vokabeln",
+          "en": "Write the new vocabulary words in your exercise book."
+        }
+      ],
+      "notes": "Almost always used in the plural: 'Vokabeln lernen'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "📒",
+      "imageable": false,
+      "tags": [
+        "language-learning"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "wortschatz",
+        "auswendig-lernen"
+      ]
+    },
+    {
+      "id": "aussprache",
+      "word": "die Aussprache",
+      "lemma": "Aussprache",
+      "translation": "pronunciation",
+      "translations": [
+        "pronunciation"
+      ],
+      "level": "A2",
+      "category": "Education & Learning",
+      "partOfSpeech": "noun",
+      "frequency": 1300,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Aussprachen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Deine Aussprache ist wirklich gut.",
+          "en": "Your pronunciation is really good."
+        },
+        {
+          "de": "Ich übe die Aussprache mit Videos.",
+          "en": "I practise pronunciation with videos."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Bei diesem Wort ist die ___ schwierig.",
+          "answer": "Aussprache",
+          "en": "The pronunciation of this word is difficult."
+        }
+      ],
+      "notes": null,
+      "mnemonic": "aus + sprechen = to speak out -> pronunciation",
+      "germany_context": null,
+      "emoji": "👄",
+      "imageable": false,
+      "tags": [
+        "language-learning"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "akzent",
+        "buchstabieren"
+      ]
+    },
+    {
+      "id": "akzent",
+      "word": "der Akzent",
+      "lemma": "Akzent",
+      "translation": "accent",
+      "translations": [
+        "accent"
+      ],
+      "level": "A2",
+      "category": "Education & Learning",
+      "partOfSpeech": "noun",
+      "frequency": 1650,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Akzente",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Man hört deinen Akzent kaum.",
+          "en": "You can hardly hear your accent."
+        },
+        {
+          "de": "Er spricht Deutsch mit einem leichten Akzent.",
+          "en": "He speaks German with a slight accent."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich habe noch einen starken ___.",
+          "answer": "Akzent",
+          "en": "I still have a strong accent."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Nobody expects you to lose your accent. Germans generally react well to any effort to speak German at all.",
+      "emoji": "🗣️",
+      "imageable": false,
+      "tags": [
+        "language-learning"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "aussprache",
+        "sprache"
+      ]
+    },
+    {
+      "id": "satz",
+      "word": "der Satz",
+      "lemma": "Satz",
+      "translation": "sentence",
+      "translations": [
+        "sentence",
+        "clause"
+      ],
+      "level": "A1",
+      "category": "Education & Learning",
+      "partOfSpeech": "noun",
+      "frequency": 600,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Sätze",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Bilden Sie bitte einen Satz mit diesem Wort.",
+          "en": "Please form a sentence with this word."
+        },
+        {
+          "de": "Der Satz ist zu lang.",
+          "en": "The sentence is too long."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich verstehe den letzten ___ nicht.",
+          "answer": "Satz",
+          "en": "I don't understand the last sentence."
+        }
+      ],
+      "notes": "Plural takes an umlaut: die Sätze.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "📝",
+      "imageable": false,
+      "tags": [
+        "language-learning",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "wort",
+        "grammatik"
+      ]
+    },
+    {
+      "id": "wort",
+      "word": "das Wort",
+      "lemma": "Wort",
+      "translation": "word",
+      "translations": [
+        "word"
+      ],
+      "level": "A1",
+      "category": "Education & Learning",
+      "partOfSpeech": "noun",
+      "frequency": 300,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Wörter",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Was bedeutet dieses Wort?",
+          "en": "What does this word mean?"
+        },
+        {
+          "de": "Ich kenne das Wort nicht.",
+          "en": "I don't know the word."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wie schreibt man dieses ___?",
+          "answer": "Wort",
+          "en": "How do you write this word?"
+        }
+      ],
+      "notes": "Two plurals: 'Wörter' for single words, 'Worte' for connected speech ('seine letzten Worte').",
+      "mnemonic": "Wort ~ 'word'",
+      "germany_context": null,
+      "emoji": "🔤",
+      "imageable": false,
+      "tags": [
+        "language-learning",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "satz",
+        "buchstabe"
+      ]
+    },
+    {
+      "id": "buchstabe",
+      "word": "der Buchstabe",
+      "lemma": "Buchstabe",
+      "translation": "letter",
+      "translations": [
+        "letter",
+        "character"
+      ],
+      "level": "A2",
+      "category": "Education & Learning",
+      "partOfSpeech": "noun",
+      "frequency": 1450,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Buchstaben",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Das Wort hat acht Buchstaben.",
+          "en": "The word has eight letters."
+        },
+        {
+          "de": "Welcher Buchstabe kommt nach dem P?",
+          "en": "Which letter comes after P?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der erste ___ wird immer großgeschrieben.",
+          "answer": "Buchstabe",
+          "en": "The first letter is always capitalised."
+        }
+      ],
+      "notes": "Weak masculine noun: den Buchstaben, dem Buchstaben.",
+      "mnemonic": "Buch + Stabe -> the 'staves' in a book",
+      "germany_context": "German adds ä, ö, ü and ß to the alphabet. On official forms you often have to spell your name letter by letter.",
+      "emoji": "🔡",
+      "imageable": false,
+      "tags": [
+        "language-learning"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "buchstabieren",
+        "wort"
+      ]
+    },
+    {
+      "id": "unterrichten",
+      "word": "unterrichten",
+      "lemma": "unterrichten",
+      "translation": "to teach",
+      "translations": [
+        "to teach",
+        "to give lessons"
+      ],
+      "level": "A2",
+      "category": "Education & Learning",
+      "partOfSpeech": "verb",
+      "frequency": 1400,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "unterrichte",
+        "du": "unterrichtest",
+        "er": "unterrichtet",
+        "wir": "unterrichten",
+        "ihr": "unterrichtet",
+        "sie": "unterrichten",
+        "praeteritum": "unterrichtete",
+        "perfekt": "hat unterrichtet",
+        "imperativ": "unterrichte!"
+      },
+      "example_sentences": [
+        {
+          "de": "Sie unterrichtet Deutsch als Fremdsprache.",
+          "en": "She teaches German as a foreign language."
+        },
+        {
+          "de": "Er unterrichtet seit zehn Jahren an der Schule.",
+          "en": "He has been teaching at the school for ten years."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wer ___ bei euch Mathe?",
+          "answer": "unterrichtet",
+          "en": "Who teaches maths at your place?"
+        }
+      ],
+      "notes": "Inseparable despite the prefix 'unter-'. Not to be confused with 'unterrichten über' = to inform about.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "👨‍🏫",
+      "imageable": false,
+      "tags": [
+        "education",
+        "verbs"
+      ],
+      "synonyms": [
+        "lehren"
+      ],
+      "antonyms": [],
+      "related": [
+        "lehrer",
+        "unterricht"
+      ]
+    },
+    {
+      "id": "uebersetzen",
+      "word": "übersetzen",
+      "lemma": "übersetzen",
+      "translation": "to translate",
+      "translations": [
+        "to translate"
+      ],
+      "level": "A2",
+      "category": "Education & Learning",
+      "partOfSpeech": "verb",
+      "frequency": 1100,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "übersetze",
+        "du": "übersetzt",
+        "er": "übersetzt",
+        "wir": "übersetzen",
+        "ihr": "übersetzt",
+        "sie": "übersetzen",
+        "praeteritum": "übersetzte",
+        "perfekt": "hat übersetzt",
+        "imperativ": "übersetz(e)!"
+      },
+      "example_sentences": [
+        {
+          "de": "Kannst du mir diesen Satz übersetzen?",
+          "en": "Can you translate this sentence for me?"
+        },
+        {
+          "de": "Die App übersetzt sofort ins Türkische.",
+          "en": "The app translates into Turkish immediately."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich ___ den Brief für meine Mutter.",
+          "answer": "übersetze",
+          "en": "I am translating the letter for my mother."
+        }
+      ],
+      "notes": "Stress on 'setzen' when it means to translate. There is a separable 'übersetzen' (to ferry across) with stress on 'über'.",
+      "mnemonic": null,
+      "germany_context": "Official documents for German authorities usually need a beglaubigte Übersetzung by a court-sworn translator (vereidigter Übersetzer).",
+      "emoji": "🔄",
+      "imageable": false,
+      "tags": [
+        "language-learning",
+        "verbs"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "woerterbuch",
+        "sprache"
+      ]
+    },
+    {
+      "id": "buchstabieren",
+      "word": "buchstabieren",
+      "lemma": "buchstabieren",
+      "translation": "to spell",
+      "translations": [
+        "to spell"
+      ],
+      "level": "A1",
+      "category": "Education & Learning",
+      "partOfSpeech": "verb",
+      "frequency": 900,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "buchstabiere",
+        "du": "buchstabierst",
+        "er": "buchstabiert",
+        "wir": "buchstabieren",
+        "ihr": "buchstabiert",
+        "sie": "buchstabieren",
+        "praeteritum": "buchstabierte",
+        "perfekt": "hat buchstabiert",
+        "imperativ": "buchstabiere!"
+      },
+      "example_sentences": [
+        {
+          "de": "Können Sie das bitte buchstabieren?",
+          "en": "Could you spell that, please?"
+        },
+        {
+          "de": "Ich buchstabiere meinen Nachnamen immer zweimal.",
+          "en": "I always spell my surname twice."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wie ___ man Ihren Vornamen?",
+          "answer": "buchstabiert",
+          "en": "How do you spell your first name?"
+        }
+      ],
+      "notes": "'Wie schreibt man das?' is the more casual way to ask the same thing.",
+      "mnemonic": "Buchstabe (letter) -> buchstabieren",
+      "germany_context": "You will need this at every Amt, bank and doctor's office — non-German names are almost never understood the first time.",
+      "emoji": "🔤",
+      "imageable": false,
+      "tags": [
+        "language-learning",
+        "verbs",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "buchstabe",
+        "wort"
+      ]
+    },
+    {
+      "id": "durchfallen",
+      "word": "durchfallen",
+      "lemma": "durchfallen",
+      "translation": "to fail (an exam)",
+      "translations": [
+        "to fail (an exam)",
+        "to flunk"
+      ],
+      "level": "A2",
+      "category": "Education & Learning",
+      "partOfSpeech": "verb",
+      "frequency": 1900,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "sein",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "falle durch",
+        "du": "fällst durch",
+        "er": "fällt durch",
+        "wir": "fallen durch",
+        "ihr": "fallt durch",
+        "sie": "fallen durch",
+        "praeteritum": "fiel durch",
+        "perfekt": "ist durchgefallen",
+        "imperativ": "fall durch!"
+      },
+      "example_sentences": [
+        {
+          "de": "Er ist in der Prüfung durchgefallen.",
+          "en": "He failed the exam."
+        },
+        {
+          "de": "Wenn du nicht lernst, fällst du durch.",
+          "en": "If you don't study, you will fail."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Sie ist zweimal durch die Fahrprüfung ___.",
+          "answer": "gefallen",
+          "en": "She failed the driving test twice."
+        }
+      ],
+      "notes": "Separable, takes 'sein'. Used with 'in' or 'durch': 'in der Prüfung durchfallen'.",
+      "mnemonic": "durch + fallen = to fall through",
+      "germany_context": null,
+      "emoji": "❌",
+      "imageable": false,
+      "tags": [
+        "education",
+        "verbs"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "pruefung",
+        "note"
+      ]
+    },
+    {
+      "id": "auswendig-lernen",
+      "word": "auswendig lernen",
+      "lemma": "auswendig lernen",
+      "translation": "to memorise",
+      "translations": [
+        "to memorise",
+        "to learn by heart"
+      ],
+      "level": "A2",
+      "category": "Education & Learning",
+      "partOfSpeech": "phrase",
+      "frequency": 1800,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich muss diese Vokabeln auswendig lernen.",
+          "en": "I have to memorise these vocabulary words."
+        },
+        {
+          "de": "Sie hat den ganzen Text auswendig gelernt.",
+          "en": "She learned the whole text by heart."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Man muss die Zahlen nicht ___ lernen.",
+          "answer": "auswendig",
+          "en": "You don't have to memorise the numbers."
+        }
+      ],
+      "notes": "'auswendig' alone means 'by heart'; 'auswendig können' = to know it by heart.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🧠",
+      "imageable": false,
+      "tags": [
+        "language-learning",
+        "phrases"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "vokabel",
+        "uebung"
+      ]
+    },
+    {
+      "id": "frage",
+      "word": "die Frage",
+      "lemma": "Frage",
+      "translation": "question",
+      "translations": [
+        "question"
+      ],
+      "level": "A1",
+      "category": "Education & Learning",
+      "partOfSpeech": "noun",
+      "frequency": 260,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Fragen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich habe eine Frage.",
+          "en": "I have a question."
+        },
+        {
+          "de": "Das ist eine gute Frage.",
+          "en": "That is a good question."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Darf ich Ihnen eine kurze ___ stellen?",
+          "answer": "Frage",
+          "en": "May I ask you a short question?"
+        }
+      ],
+      "notes": "You 'stellen' a question in German, you don't 'ask' it: eine Frage stellen.",
+      "mnemonic": "fragen -> Frage",
+      "germany_context": null,
+      "emoji": "❓",
+      "imageable": false,
+      "tags": [
+        "essential",
+        "communication"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "Antwort"
+      ],
+      "related": [
+        "antwort"
+      ]
+    },
+    {
+      "id": "antwort",
+      "word": "die Antwort",
+      "lemma": "Antwort",
+      "translation": "answer",
+      "translations": [
+        "answer",
+        "reply"
+      ],
+      "level": "A1",
+      "category": "Education & Learning",
+      "partOfSpeech": "noun",
+      "frequency": 340,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Antworten",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Deine Antwort war richtig.",
+          "en": "Your answer was correct."
+        },
+        {
+          "de": "Ich warte noch auf eine Antwort.",
+          "en": "I am still waiting for an answer."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Kennst du die ___ auf diese Frage?",
+          "answer": "Antwort",
+          "en": "Do you know the answer to this question?"
+        }
+      ],
+      "notes": "'die Antwort auf etwas', not 'zu etwas'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "💬",
+      "imageable": false,
+      "tags": [
+        "essential",
+        "communication"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "Frage"
+      ],
+      "related": [
+        "frage"
+      ]
+    },
+    {
+      "id": "fehler",
+      "word": "der Fehler",
+      "lemma": "Fehler",
+      "translation": "mistake",
+      "translations": [
+        "mistake",
+        "error"
+      ],
+      "level": "A1",
+      "category": "Education & Learning",
+      "partOfSpeech": "noun",
+      "frequency": 520,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Fehler",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich habe nur zwei Fehler gemacht.",
+          "en": "I only made two mistakes."
+        },
+        {
+          "de": "Das ist kein großer Fehler.",
+          "en": "That is not a big mistake."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Aus jedem ___ lernt man etwas.",
+          "answer": "Fehler",
+          "en": "You learn something from every mistake."
+        }
+      ],
+      "notes": "Plural is identical to the singular. 'einen Fehler machen' = to make a mistake.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "⚠️",
+      "imageable": false,
+      "tags": [
+        "essential",
+        "language-learning"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "uebung",
+        "grammatik"
+      ]
+    },
+    {
+      "id": "uebung",
+      "word": "die Übung",
+      "lemma": "Übung",
+      "translation": "exercise",
+      "translations": [
+        "exercise",
+        "practice"
+      ],
+      "level": "A2",
+      "category": "Education & Learning",
+      "partOfSpeech": "noun",
+      "frequency": 1000,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Übungen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Diese Übung ist ziemlich einfach.",
+          "en": "This exercise is quite easy."
+        },
+        {
+          "de": "Übung macht den Meister.",
+          "en": "Practice makes perfect."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Machen Sie bitte ___ drei auf Seite zwölf.",
+          "answer": "Übung",
+          "en": "Please do exercise three on page twelve."
+        }
+      ],
+      "notes": "'Übung macht den Meister' is the standard German proverb for 'practice makes perfect'.",
+      "mnemonic": "üben (to practise) -> Übung",
+      "germany_context": null,
+      "emoji": "💪",
+      "imageable": false,
+      "tags": [
+        "language-learning",
+        "education"
+      ],
+      "synonyms": [
+        "Aufgabe"
+      ],
+      "antonyms": [],
+      "related": [
+        "hausaufgabe",
+        "grammatik"
+      ]
+    },
+    {
+      "id": "praktikum",
+      "word": "das Praktikum",
+      "lemma": "Praktikum",
+      "translation": "internship",
+      "translations": [
+        "internship",
+        "work placement"
+      ],
+      "level": "A2",
+      "category": "Education & Learning",
+      "partOfSpeech": "noun",
+      "frequency": 1500,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Praktika",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich mache ein Praktikum bei einer IT-Firma.",
+          "en": "I am doing an internship at an IT company."
+        },
+        {
+          "de": "Das Praktikum dauert drei Monate.",
+          "en": "The internship lasts three months."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Nach dem ___ hat er einen festen Vertrag bekommen.",
+          "answer": "Praktikum",
+          "en": "After the internship he got a permanent contract."
+        }
+      ],
+      "notes": "Irregular Latin plural: die Praktika.",
+      "mnemonic": null,
+      "germany_context": "A voluntary Praktikum longer than three months must be paid at least the Mindestlohn; mandatory study internships are exempt.",
+      "emoji": "💼",
+      "imageable": false,
+      "tags": [
+        "education",
+        "work"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "ausbildung",
+        "studium"
+      ]
+    },
+    {
+      "id": "anerkennung",
+      "word": "die Anerkennung",
+      "lemma": "Anerkennung",
+      "translation": "recognition",
+      "translations": [
+        "recognition",
+        "accreditation"
+      ],
+      "level": "A2",
+      "category": "Education & Learning",
+      "partOfSpeech": "noun",
+      "frequency": 1900,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Anerkennungen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Anerkennung meines Diploms dauert lange.",
+          "en": "The recognition of my diploma takes a long time."
+        },
+        {
+          "de": "Ohne Anerkennung darf sie hier nicht als Ärztin arbeiten.",
+          "en": "Without recognition she is not allowed to work as a doctor here."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich habe die ___ meines Abschlusses beantragt.",
+          "answer": "Anerkennung",
+          "en": "I applied for the recognition of my degree."
+        }
+      ],
+      "notes": null,
+      "mnemonic": "an + erkennen (to recognise) -> Anerkennung",
+      "germany_context": "Foreign degrees are checked in the anabin database and by the ZAB. Regulated jobs (doctor, teacher, engineer) require formal Anerkennung; IT jobs usually do not.",
+      "emoji": "📋",
+      "imageable": false,
+      "tags": [
+        "bureaucracy",
+        "work",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "abschluss",
+        "zeugnis"
+      ]
+    }
+  ]
+}

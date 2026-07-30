@@ -1,0 +1,1519 @@
+{
+  "category": "Animals",
+  "words": [
+    {
+      "id": "das-tier",
+      "word": "das Tier",
+      "lemma": "Tier",
+      "translation": "animal",
+      "translations": [
+        "animal"
+      ],
+      "level": "A1",
+      "category": "Animals",
+      "partOfSpeech": "noun",
+      "frequency": 580,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Tiere",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich mag Tiere sehr.",
+          "en": "I like animals a lot."
+        },
+        {
+          "de": "Im Zoo gibt es viele Tiere.",
+          "en": "There are many animals in the zoo."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Welches ___ magst du am liebsten?",
+          "answer": "Tier",
+          "en": "Which animal do you like best?"
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🐾",
+      "imageable": true,
+      "tags": [
+        "animals"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "das-haustier"
+      ]
+    },
+    {
+      "id": "das-haustier",
+      "word": "das Haustier",
+      "lemma": "Haustier",
+      "translation": "pet",
+      "translations": [
+        "pet"
+      ],
+      "level": "A2",
+      "category": "Animals",
+      "partOfSpeech": "noun",
+      "frequency": 1300,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Haustiere",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Haben Sie Haustiere?",
+          "en": "Do you have pets?"
+        },
+        {
+          "de": "Haustiere sind in dieser Wohnung erlaubt.",
+          "en": "Pets are allowed in this flat."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Sind ___ in der Wohnung erlaubt?",
+          "answer": "Haustiere",
+          "en": "Are pets allowed in the flat?"
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Always check the Mietvertrag — many landlords require written permission for cats and dogs, though small caged animals are usually fine.",
+      "emoji": "🐕",
+      "imageable": true,
+      "tags": [
+        "animals"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "das-tier",
+        "der-hund"
+      ]
+    },
+    {
+      "id": "der-hund",
+      "word": "der Hund",
+      "lemma": "Hund",
+      "translation": "dog",
+      "translations": [
+        "dog"
+      ],
+      "level": "A1",
+      "category": "Animals",
+      "partOfSpeech": "noun",
+      "frequency": 440,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Hunde",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Hund heißt Max.",
+          "en": "The dog is called Max."
+        },
+        {
+          "de": "Ich gehe mit dem Hund spazieren.",
+          "en": "I'm going for a walk with the dog."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Mein ___ schläft den ganzen Tag.",
+          "answer": "Hund",
+          "en": "My dog sleeps all day."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Dogs are welcome almost everywhere — restaurants, shops, trains. But there's a Hundesteuer (dog tax) of €90-180 a year, and a Leinenpflicht (leash requirement) in most cities.",
+      "emoji": "🐕",
+      "imageable": true,
+      "tags": [
+        "animals",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "die-katze",
+        "das-haustier"
+      ]
+    },
+    {
+      "id": "die-katze",
+      "word": "die Katze",
+      "lemma": "Katze",
+      "translation": "cat",
+      "translations": [
+        "cat"
+      ],
+      "level": "A1",
+      "category": "Animals",
+      "partOfSpeech": "noun",
+      "frequency": 450,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Katzen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Katze schläft auf dem Sofa.",
+          "en": "The cat is sleeping on the sofa."
+        },
+        {
+          "de": "Wir haben zwei Katzen.",
+          "en": "We have two cats."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Die ___ sitzt am Fenster.",
+          "answer": "Katze",
+          "en": "The cat is sitting at the window."
+        }
+      ],
+      "notes": "-e ending, feminine.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🐈",
+      "imageable": true,
+      "tags": [
+        "animals",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "der-hund"
+      ]
+    },
+    {
+      "id": "der-vogel",
+      "word": "der Vogel",
+      "lemma": "Vogel",
+      "translation": "bird",
+      "translations": [
+        "bird"
+      ],
+      "level": "A1",
+      "category": "Animals",
+      "partOfSpeech": "noun",
+      "frequency": 760,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Vögel",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Vogel singt am Morgen.",
+          "en": "The bird sings in the morning."
+        },
+        {
+          "de": "Im Garten sind viele Vögel.",
+          "en": "There are many birds in the garden."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ein ___ sitzt auf dem Dach.",
+          "answer": "Vogel",
+          "en": "A bird is sitting on the roof."
+        }
+      ],
+      "notes": "Umlaut plural: die Vögel.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🐦",
+      "imageable": true,
+      "tags": [
+        "animals"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "das-tier"
+      ]
+    },
+    {
+      "id": "das-pferd",
+      "word": "das Pferd",
+      "lemma": "Pferd",
+      "translation": "horse",
+      "translations": [
+        "horse"
+      ],
+      "level": "A1",
+      "category": "Animals",
+      "partOfSpeech": "noun",
+      "frequency": 850,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Pferde",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Das Pferd läuft über die Wiese.",
+          "en": "The horse runs across the meadow."
+        },
+        {
+          "de": "Sie reitet gern Pferde.",
+          "en": "She likes riding horses."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Auf dem Bauernhof steht ein ___.",
+          "answer": "Pferd",
+          "en": "There's a horse on the farm."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🐎",
+      "imageable": true,
+      "tags": [
+        "animals"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "die-kuh"
+      ]
+    },
+    {
+      "id": "die-kuh",
+      "word": "die Kuh",
+      "lemma": "Kuh",
+      "translation": "cow",
+      "translations": [
+        "cow"
+      ],
+      "level": "A1",
+      "category": "Animals",
+      "partOfSpeech": "noun",
+      "frequency": 1100,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Kühe",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Kuh gibt Milch.",
+          "en": "The cow gives milk."
+        },
+        {
+          "de": "Auf der Wiese stehen Kühe.",
+          "en": "There are cows in the meadow."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Die ___ frisst Gras.",
+          "answer": "Kuh",
+          "en": "The cow eats grass."
+        }
+      ],
+      "notes": "Umlaut plural: die Kühe.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🐄",
+      "imageable": true,
+      "tags": [
+        "animals"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "das-schwein",
+        "das-pferd"
+      ]
+    },
+    {
+      "id": "das-schwein",
+      "word": "das Schwein",
+      "lemma": "Schwein",
+      "translation": "pig",
+      "translations": [
+        "pig"
+      ],
+      "level": "A2",
+      "category": "Animals",
+      "partOfSpeech": "noun",
+      "frequency": 1200,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Schweine",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Das Schwein liegt im Schlamm.",
+          "en": "The pig is lying in the mud."
+        },
+        {
+          "de": "Ich esse kein Schweinefleisch.",
+          "en": "I don't eat pork."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Auf dem Hof gibt es ein ___.",
+          "answer": "Schwein",
+          "en": "There's a pig on the farm."
+        }
+      ],
+      "notes": "'Schwein haben' idiomatically means to be lucky.",
+      "mnemonic": null,
+      "germany_context": "Pork is in a great deal of German food. If you don't eat it, 'Ich esse kein Schweinefleisch' is a sentence worth knowing well.",
+      "emoji": "🐖",
+      "imageable": true,
+      "tags": [
+        "animals"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "die-kuh"
+      ]
+    },
+    {
+      "id": "das-schaf",
+      "word": "das Schaf",
+      "lemma": "Schaf",
+      "translation": "sheep",
+      "translations": [
+        "sheep"
+      ],
+      "level": "A2",
+      "category": "Animals",
+      "partOfSpeech": "noun",
+      "frequency": 1500,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Schafe",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Schafe fressen Gras.",
+          "en": "The sheep are eating grass."
+        },
+        {
+          "de": "Ein Schaf ist weggelaufen.",
+          "en": "A sheep ran away."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Auf der Wiese sind viele ___.",
+          "answer": "Schafe",
+          "en": "There are many sheep in the meadow."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🐑",
+      "imageable": true,
+      "tags": [
+        "animals"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "die-kuh"
+      ]
+    },
+    {
+      "id": "das-huhn",
+      "word": "das Huhn",
+      "lemma": "Huhn",
+      "translation": "chicken",
+      "translations": [
+        "chicken",
+        "hen"
+      ],
+      "level": "A2",
+      "category": "Animals",
+      "partOfSpeech": "noun",
+      "frequency": 1250,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Hühner",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Hühner legen Eier.",
+          "en": "The hens lay eggs."
+        },
+        {
+          "de": "Wir haben Hühner im Garten.",
+          "en": "We have chickens in the garden."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Das ___ legt jeden Tag ein Ei.",
+          "answer": "Huhn",
+          "en": "The hen lays an egg every day."
+        }
+      ],
+      "notes": "Umlaut plural: die Hühner. The meat is 'das Hähnchen'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🐔",
+      "imageable": true,
+      "tags": [
+        "animals"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "das-schaf"
+      ]
+    },
+    {
+      "id": "die-maus",
+      "word": "die Maus",
+      "lemma": "Maus",
+      "translation": "mouse",
+      "translations": [
+        "mouse"
+      ],
+      "level": "A2",
+      "category": "Animals",
+      "partOfSpeech": "noun",
+      "frequency": 1050,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Mäuse",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Eine Maus läuft durch den Keller.",
+          "en": "A mouse is running through the cellar."
+        },
+        {
+          "de": "Die Katze hat eine Maus gefangen.",
+          "en": "The cat caught a mouse."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Im Keller habe ich eine ___ gesehen.",
+          "answer": "Maus",
+          "en": "I saw a mouse in the cellar."
+        }
+      ],
+      "notes": "Also the computer mouse. Umlaut plural: die Mäuse.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🐁",
+      "imageable": true,
+      "tags": [
+        "animals"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "die-katze"
+      ]
+    },
+    {
+      "id": "der-baer",
+      "word": "der Bär",
+      "lemma": "Bär",
+      "translation": "bear",
+      "translations": [
+        "bear"
+      ],
+      "level": "A2",
+      "category": "Animals",
+      "partOfSpeech": "noun",
+      "frequency": 1450,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Bären",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Bär schläft im Winter.",
+          "en": "The bear sleeps in winter."
+        },
+        {
+          "de": "Im Zoo haben wir einen Bären gesehen.",
+          "en": "We saw a bear at the zoo."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der ___ ist ein großes Tier.",
+          "answer": "Bär",
+          "en": "The bear is a big animal."
+        }
+      ],
+      "notes": "A weak masculine noun — it takes -n in every case except the nominative: den Bären, dem Bären.",
+      "mnemonic": "The bear is Berlin's city symbol — 'Bär' in Berlin.",
+      "germany_context": null,
+      "emoji": "🐻",
+      "imageable": true,
+      "tags": [
+        "animals"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "der-wolf"
+      ]
+    },
+    {
+      "id": "der-wolf",
+      "word": "der Wolf",
+      "lemma": "Wolf",
+      "translation": "wolf",
+      "translations": [
+        "wolf"
+      ],
+      "level": "A2",
+      "category": "Animals",
+      "partOfSpeech": "noun",
+      "frequency": 1600,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Wölfe",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "In Deutschland gibt es wieder Wölfe.",
+          "en": "There are wolves in Germany again."
+        },
+        {
+          "de": "Der Wolf lebt im Wald.",
+          "en": "The wolf lives in the forest."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der ___ ist ein wildes Tier.",
+          "answer": "Wolf",
+          "en": "The wolf is a wild animal."
+        }
+      ],
+      "notes": "Umlaut plural: die Wölfe.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🐺",
+      "imageable": true,
+      "tags": [
+        "animals"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "der-baer",
+        "der-fuchs"
+      ]
+    },
+    {
+      "id": "der-fuchs",
+      "word": "der Fuchs",
+      "lemma": "Fuchs",
+      "translation": "fox",
+      "translations": [
+        "fox"
+      ],
+      "level": "A2",
+      "category": "Animals",
+      "partOfSpeech": "noun",
+      "frequency": 1550,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Füchse",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ein Fuchs läuft über die Straße.",
+          "en": "A fox is running across the road."
+        },
+        {
+          "de": "Füchse leben auch in der Stadt.",
+          "en": "Foxes live in the city too."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der ___ hat einen buschigen Schwanz.",
+          "answer": "Fuchs",
+          "en": "The fox has a bushy tail."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🦊",
+      "imageable": true,
+      "tags": [
+        "animals"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "der-wolf"
+      ]
+    },
+    {
+      "id": "das-kaninchen",
+      "word": "das Kaninchen",
+      "lemma": "Kaninchen",
+      "translation": "rabbit",
+      "translations": [
+        "rabbit"
+      ],
+      "level": "A2",
+      "category": "Animals",
+      "partOfSpeech": "noun",
+      "frequency": 1400,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Kaninchen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Das Kaninchen frisst eine Karotte.",
+          "en": "The rabbit is eating a carrot."
+        },
+        {
+          "de": "Wir haben zwei Kaninchen.",
+          "en": "We have two rabbits."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Mein ___ wohnt im Garten.",
+          "answer": "Kaninchen",
+          "en": "My rabbit lives in the garden."
+        }
+      ],
+      "notes": "-chen ending, so it's das — regardless of the animal's sex.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🐰",
+      "imageable": true,
+      "tags": [
+        "animals"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "das-haustier"
+      ]
+    },
+    {
+      "id": "die-biene",
+      "word": "die Biene",
+      "lemma": "Biene",
+      "translation": "bee",
+      "translations": [
+        "bee"
+      ],
+      "level": "A2",
+      "category": "Animals",
+      "partOfSpeech": "noun",
+      "frequency": 1350,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Bienen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Biene macht Honig.",
+          "en": "The bee makes honey."
+        },
+        {
+          "de": "Im Garten summen viele Bienen.",
+          "en": "Many bees are buzzing in the garden."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Eine ___ ist auf die Blume geflogen.",
+          "answer": "Biene",
+          "en": "A bee flew onto the flower."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🐝",
+      "imageable": true,
+      "tags": [
+        "animals"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "die-wespe",
+        "die-muecke"
+      ]
+    },
+    {
+      "id": "die-wespe",
+      "word": "die Wespe",
+      "lemma": "Wespe",
+      "translation": "wasp",
+      "translations": [
+        "wasp"
+      ],
+      "level": "A2",
+      "category": "Animals",
+      "partOfSpeech": "noun",
+      "frequency": 1900,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Wespen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Eine Wespe hat mich gestochen.",
+          "en": "A wasp stung me."
+        },
+        {
+          "de": "Im Sommer gibt es viele Wespen.",
+          "en": "There are lots of wasps in summer."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Pass auf, da ist eine ___!",
+          "answer": "Wespe",
+          "en": "Watch out, there's a wasp!"
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "German beer gardens in late summer are full of them. 'Ich bin allergisch gegen Wespenstiche' is worth knowing if that applies to you.",
+      "emoji": "🐝",
+      "imageable": true,
+      "tags": [
+        "animals"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "die-biene"
+      ]
+    },
+    {
+      "id": "die-muecke",
+      "word": "die Mücke",
+      "lemma": "Mücke",
+      "translation": "mosquito",
+      "translations": [
+        "mosquito",
+        "midge"
+      ],
+      "level": "A2",
+      "category": "Animals",
+      "partOfSpeech": "noun",
+      "frequency": 1800,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Mücken",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Mücken sind heute schlimm.",
+          "en": "The mosquitoes are bad today."
+        },
+        {
+          "de": "Eine Mücke hat mich gestochen.",
+          "en": "A mosquito bit me."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Mach das Fenster zu, sonst kommen ___ rein.",
+          "answer": "Mücken",
+          "en": "Close the window or mosquitoes will get in."
+        }
+      ],
+      "notes": "Note German says 'stechen' (to sting) where English says 'bite'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🦟",
+      "imageable": true,
+      "tags": [
+        "animals"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "die-biene",
+        "die-fliege"
+      ]
+    },
+    {
+      "id": "die-fliege",
+      "word": "die Fliege",
+      "lemma": "Fliege",
+      "translation": "fly",
+      "translations": [
+        "fly"
+      ],
+      "level": "A2",
+      "category": "Animals",
+      "partOfSpeech": "noun",
+      "frequency": 1700,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Fliegen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Eine Fliege sitzt auf dem Tisch.",
+          "en": "A fly is sitting on the table."
+        },
+        {
+          "de": "Die Fliegen nerven im Sommer.",
+          "en": "The flies are annoying in summer."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Da ist eine ___ in der Küche.",
+          "answer": "Fliege",
+          "en": "There's a fly in the kitchen."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🪰",
+      "imageable": true,
+      "tags": [
+        "animals"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "die-muecke"
+      ]
+    },
+    {
+      "id": "die-spinne",
+      "word": "die Spinne",
+      "lemma": "Spinne",
+      "translation": "spider",
+      "translations": [
+        "spider"
+      ],
+      "level": "A2",
+      "category": "Animals",
+      "partOfSpeech": "noun",
+      "frequency": 1650,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Spinnen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Eine Spinne sitzt in der Ecke.",
+          "en": "A spider is sitting in the corner."
+        },
+        {
+          "de": "Ich habe Angst vor Spinnen.",
+          "en": "I'm afraid of spiders."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Da ist eine ___ an der Wand!",
+          "answer": "Spinne",
+          "en": "There's a spider on the wall!"
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🕷️",
+      "imageable": true,
+      "tags": [
+        "animals"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "die-fliege"
+      ]
+    },
+    {
+      "id": "der-elefant",
+      "word": "der Elefant",
+      "lemma": "Elefant",
+      "translation": "elephant",
+      "translations": [
+        "elephant"
+      ],
+      "level": "A2",
+      "category": "Animals",
+      "partOfSpeech": "noun",
+      "frequency": 1750,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Elefanten",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Elefant ist sehr groß.",
+          "en": "The elephant is very big."
+        },
+        {
+          "de": "Im Zoo gibt es zwei Elefanten.",
+          "en": "There are two elephants at the zoo."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der ___ hat einen langen Rüssel.",
+          "answer": "Elefant",
+          "en": "The elephant has a long trunk."
+        }
+      ],
+      "notes": "A weak masculine noun: den Elefanten, dem Elefanten.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🐘",
+      "imageable": true,
+      "tags": [
+        "animals"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "der-loewe",
+        "der-zoo"
+      ]
+    },
+    {
+      "id": "der-loewe",
+      "word": "der Löwe",
+      "lemma": "Löwe",
+      "translation": "lion",
+      "translations": [
+        "lion"
+      ],
+      "level": "A2",
+      "category": "Animals",
+      "partOfSpeech": "noun",
+      "frequency": 1850,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Löwen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Löwe schläft in der Sonne.",
+          "en": "The lion is sleeping in the sun."
+        },
+        {
+          "de": "Löwen leben in Afrika.",
+          "en": "Lions live in Africa."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der ___ ist der König der Tiere.",
+          "answer": "Löwe",
+          "en": "The lion is the king of the animals."
+        }
+      ],
+      "notes": "Another weak masculine noun: den Löwen.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🦁",
+      "imageable": true,
+      "tags": [
+        "animals"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "der-elefant"
+      ]
+    },
+    {
+      "id": "der-tierarzt",
+      "word": "der Tierarzt",
+      "lemma": "Tierarzt",
+      "translation": "vet",
+      "translations": [
+        "vet",
+        "veterinarian"
+      ],
+      "level": "A2",
+      "category": "Animals",
+      "partOfSpeech": "noun",
+      "frequency": 1500,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Tierärzte",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich muss mit dem Hund zum Tierarzt.",
+          "en": "I have to take the dog to the vet."
+        },
+        {
+          "de": "Der Tierarzt hat heute keinen Termin frei.",
+          "en": "The vet has no appointment free today."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Die Katze ist krank — wir gehen zum ___.",
+          "answer": "Tierarzt",
+          "en": "The cat is ill — we're going to the vet."
+        }
+      ],
+      "notes": "Umlaut plural: die Tierärzte.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🩺",
+      "imageable": false,
+      "tags": [
+        "animals"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "das-haustier"
+      ]
+    },
+    {
+      "id": "das-futter",
+      "word": "das Futter",
+      "lemma": "Futter",
+      "translation": "animal food",
+      "translations": [
+        "animal food",
+        "feed"
+      ],
+      "level": "A2",
+      "category": "Animals",
+      "partOfSpeech": "noun",
+      "frequency": 1700,
+      "gender": "n",
+      "article": "das",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Hund bekommt sein Futter um sechs.",
+          "en": "The dog gets his food at six."
+        },
+        {
+          "de": "Wir brauchen neues Katzenfutter.",
+          "en": "We need new cat food."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Das ___ für den Hund ist alle.",
+          "answer": "Futter",
+          "en": "The dog food has run out."
+        }
+      ],
+      "notes": "German uses a different word for animal food than human food (das Essen).",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🥫",
+      "imageable": false,
+      "tags": [
+        "animals"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "fuettern"
+      ]
+    },
+    {
+      "id": "fuettern",
+      "word": "füttern",
+      "lemma": "füttern",
+      "translation": "to feed",
+      "translations": [
+        "to feed"
+      ],
+      "level": "A2",
+      "category": "Animals",
+      "partOfSpeech": "verb",
+      "frequency": 1550,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "füttere",
+        "du": "fütterst",
+        "er": "füttert",
+        "wir": "füttern",
+        "ihr": "füttert",
+        "sie": "füttern",
+        "praeteritum": "fütterte",
+        "perfekt": "hat gefüttert",
+        "imperativ": "füttere!"
+      },
+      "example_sentences": [
+        {
+          "de": "Kannst du die Katze füttern?",
+          "en": "Can you feed the cat?"
+        },
+        {
+          "de": "Bitte die Tiere nicht füttern!",
+          "en": "Please do not feed the animals!"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Hast du den Hund schon ___?",
+          "answer": "gefüttert",
+          "en": "Have you fed the dog yet?"
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🍖",
+      "imageable": false,
+      "tags": [
+        "animals",
+        "verb"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "das-futter"
+      ]
+    },
+    {
+      "id": "gassi-gehen",
+      "word": "Gassi gehen",
+      "lemma": "Gassi gehen",
+      "translation": "to walk the dog",
+      "translations": [
+        "to walk the dog"
+      ],
+      "level": "A2",
+      "category": "Animals",
+      "partOfSpeech": "phrase",
+      "frequency": 1950,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich gehe mit dem Hund Gassi.",
+          "en": "I'm taking the dog for a walk."
+        },
+        {
+          "de": "Warst du schon Gassi?",
+          "en": "Have you walked the dog yet?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich muss noch mit dem Hund ___ gehen.",
+          "answer": "Gassi",
+          "en": "I still have to walk the dog."
+        }
+      ],
+      "notes": "A fixed idiom — 'Gassi' isn't used on its own.",
+      "mnemonic": null,
+      "germany_context": "Very common phrase. Dog owners are legally required to pick up after their dogs, and fines are enforced.",
+      "emoji": "🦮",
+      "imageable": false,
+      "tags": [
+        "animals"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "der-hund"
+      ]
+    },
+    {
+      "id": "bellen",
+      "word": "bellen",
+      "lemma": "bellen",
+      "translation": "to bark",
+      "translations": [
+        "to bark"
+      ],
+      "level": "A2",
+      "category": "Animals",
+      "partOfSpeech": "verb",
+      "frequency": 1980,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "belle",
+        "du": "bellst",
+        "er": "bellt",
+        "wir": "bellen",
+        "ihr": "bellt",
+        "sie": "bellen",
+        "praeteritum": "bellte",
+        "perfekt": "hat gebellt",
+        "imperativ": "belle!"
+      },
+      "example_sentences": [
+        {
+          "de": "Der Hund bellt die ganze Nacht.",
+          "en": "The dog barks all night."
+        },
+        {
+          "de": "Warum bellt dein Hund so viel?",
+          "en": "Why does your dog bark so much?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Nachbarshund ___ ständig.",
+          "answer": "bellt",
+          "en": "The neighbour's dog barks constantly."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Persistent barking during Ruhezeiten is a genuine and frequent source of neighbour complaints in Germany.",
+      "emoji": "🐕",
+      "imageable": false,
+      "tags": [
+        "animals",
+        "verb"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "der-hund"
+      ]
+    },
+    {
+      "id": "der-schwanz",
+      "word": "der Schwanz",
+      "lemma": "Schwanz",
+      "translation": "tail",
+      "translations": [
+        "tail"
+      ],
+      "level": "A2",
+      "category": "Animals",
+      "partOfSpeech": "noun",
+      "frequency": 1600,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Schwänze",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Hund wedelt mit dem Schwanz.",
+          "en": "The dog is wagging its tail."
+        },
+        {
+          "de": "Die Katze hat einen langen Schwanz.",
+          "en": "The cat has a long tail."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Fuchs hat einen buschigen ___.",
+          "answer": "Schwanz",
+          "en": "The fox has a bushy tail."
+        }
+      ],
+      "notes": "Umlaut plural: die Schwänze.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🐈",
+      "imageable": false,
+      "tags": [
+        "animals"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "die-pfote"
+      ]
+    },
+    {
+      "id": "die-pfote",
+      "word": "die Pfote",
+      "lemma": "Pfote",
+      "translation": "paw",
+      "translations": [
+        "paw"
+      ],
+      "level": "A2",
+      "category": "Animals",
+      "partOfSpeech": "noun",
+      "frequency": 2000,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Pfoten",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Hund gibt Pfote.",
+          "en": "The dog gives its paw."
+        },
+        {
+          "de": "Die Katze hat weiße Pfoten.",
+          "en": "The cat has white paws."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Hund hat sich an der ___ verletzt.",
+          "answer": "Pfote",
+          "en": "The dog hurt its paw."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🐾",
+      "imageable": true,
+      "tags": [
+        "animals"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "der-schwanz"
+      ]
+    }
+  ]
+}

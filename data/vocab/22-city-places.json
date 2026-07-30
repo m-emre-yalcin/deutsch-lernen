@@ -1,0 +1,3498 @@
+{
+  "category": "City & Places",
+  "words": [
+    {
+      "id": "stadt",
+      "word": "die Stadt",
+      "lemma": "Stadt",
+      "translation": "city",
+      "translations": [
+        "city",
+        "town"
+      ],
+      "level": "A0",
+      "category": "City & Places",
+      "partOfSpeech": "noun",
+      "frequency": 150,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Städte",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Berlin ist eine große Stadt.",
+          "en": "Berlin is a big city."
+        },
+        {
+          "de": "Ich wohne seit einem Jahr in dieser Stadt.",
+          "en": "I have been living in this city for a year."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "In welcher ___ wohnst du?",
+          "answer": "Stadt",
+          "en": "Which city do you live in?"
+        }
+      ],
+      "notes": "'in die Stadt gehen' heißt im Alltag: ins Zentrum zum Einkaufen gehen.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🏙️",
+      "imageable": true,
+      "tags": [
+        "city",
+        "stadt",
+        "essential"
+      ],
+      "synonyms": [
+        "die Großstadt"
+      ],
+      "antonyms": [
+        "das Dorf"
+      ],
+      "related": [
+        "dorf",
+        "hauptstadt",
+        "innenstadt"
+      ]
+    },
+    {
+      "id": "dorf",
+      "word": "das Dorf",
+      "lemma": "Dorf",
+      "translation": "village",
+      "translations": [
+        "village"
+      ],
+      "level": "A1",
+      "category": "City & Places",
+      "partOfSpeech": "noun",
+      "frequency": 660,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Dörfer",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Meine Großeltern leben in einem kleinen Dorf.",
+          "en": "My grandparents live in a small village."
+        },
+        {
+          "de": "Das Dorf hat nur einen Supermarkt.",
+          "en": "The village has only one supermarket."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Im ___ kennt jeder jeden.",
+          "answer": "Dorf",
+          "en": "In the village everyone knows everyone."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Auf dem Dorf fahren Busse oft nur ein paar Mal am Tag – ohne Auto wird der Alltag schnell schwierig.",
+      "emoji": "🏡",
+      "imageable": true,
+      "tags": [
+        "city",
+        "dorf",
+        "land"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "die Stadt"
+      ],
+      "related": [
+        "stadt",
+        "land"
+      ]
+    },
+    {
+      "id": "hauptstadt",
+      "word": "die Hauptstadt",
+      "lemma": "Hauptstadt",
+      "translation": "capital city",
+      "translations": [
+        "capital city",
+        "capital"
+      ],
+      "level": "A1",
+      "category": "City & Places",
+      "partOfSpeech": "noun",
+      "frequency": 700,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Hauptstädte",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Berlin ist die Hauptstadt von Deutschland.",
+          "en": "Berlin is the capital of Germany."
+        },
+        {
+          "de": "Ankara ist die Hauptstadt der Türkei.",
+          "en": "Ankara is the capital of Turkey."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wie heißt die ___ von Österreich?",
+          "answer": "Hauptstadt",
+          "en": "What is the capital of Austria?"
+        }
+      ],
+      "notes": "Haupt- heißt 'main': der Hauptbahnhof, die Hauptstraße, die Hauptstadt.",
+      "mnemonic": "Haupt (head) + Stadt = the head city.",
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "city",
+        "stadt"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "stadt"
+      ]
+    },
+    {
+      "id": "stadtzentrum",
+      "word": "das Stadtzentrum",
+      "lemma": "Stadtzentrum",
+      "translation": "city centre",
+      "translations": [
+        "city centre",
+        "downtown"
+      ],
+      "level": "A1",
+      "category": "City & Places",
+      "partOfSpeech": "noun",
+      "frequency": 810,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Stadtzentren",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Das Hotel liegt direkt im Stadtzentrum.",
+          "en": "The hotel is right in the city centre."
+        },
+        {
+          "de": "Vom Bahnhof bis zum Stadtzentrum sind es zehn Minuten.",
+          "en": "It is ten minutes from the station to the city centre."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wir treffen uns um sechs im ___.",
+          "answer": "Stadtzentrum",
+          "en": "We are meeting at six in the city centre."
+        }
+      ],
+      "notes": "Im Alltag sagt man öfter 'die Innenstadt' oder einfach 'die City'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": true,
+      "tags": [
+        "city",
+        "stadt"
+      ],
+      "synonyms": [
+        "die Innenstadt",
+        "das Zentrum"
+      ],
+      "antonyms": [
+        "der Vorort"
+      ],
+      "related": [
+        "innenstadt",
+        "altstadt"
+      ]
+    },
+    {
+      "id": "innenstadt",
+      "word": "die Innenstadt",
+      "lemma": "Innenstadt",
+      "translation": "city centre",
+      "translations": [
+        "city centre",
+        "downtown"
+      ],
+      "level": "A1",
+      "category": "City & Places",
+      "partOfSpeech": "noun",
+      "frequency": 540,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Innenstädte",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "In der Innenstadt gibt es viele Geschäfte.",
+          "en": "There are a lot of shops in the city centre."
+        },
+        {
+          "de": "Am Samstag ist die Innenstadt sehr voll.",
+          "en": "On Saturday the city centre is very crowded."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich fahre mit dem Bus in die ___.",
+          "answer": "Innenstadt",
+          "en": "I take the bus into the city centre."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "In vielen Innenstädten gilt eine Umweltzone: Autos brauchen eine grüne Umweltplakette an der Windschutzscheibe.",
+      "emoji": null,
+      "imageable": true,
+      "tags": [
+        "city",
+        "stadt"
+      ],
+      "synonyms": [
+        "das Stadtzentrum"
+      ],
+      "antonyms": [
+        "der Vorort"
+      ],
+      "related": [
+        "stadtzentrum",
+        "fussgaengerzone"
+      ]
+    },
+    {
+      "id": "altstadt",
+      "word": "die Altstadt",
+      "lemma": "Altstadt",
+      "translation": "old town",
+      "translations": [
+        "old town"
+      ],
+      "level": "A2",
+      "category": "City & Places",
+      "partOfSpeech": "noun",
+      "frequency": 920,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Altstädte",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Altstadt von Heidelberg ist sehr schön.",
+          "en": "The old town of Heidelberg is very beautiful."
+        },
+        {
+          "de": "In der Altstadt sind die Gassen sehr eng.",
+          "en": "In the old town the lanes are very narrow."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Am Sonntag machen wir einen Spaziergang durch die ___.",
+          "answer": "Altstadt",
+          "en": "On Sunday we go for a walk through the old town."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🏘️",
+      "imageable": true,
+      "tags": [
+        "city",
+        "stadt",
+        "tourismus"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "gasse",
+        "marktplatz"
+      ]
+    },
+    {
+      "id": "stadtteil",
+      "word": "der Stadtteil",
+      "lemma": "Stadtteil",
+      "translation": "district",
+      "translations": [
+        "district",
+        "part of town"
+      ],
+      "level": "A1",
+      "category": "City & Places",
+      "partOfSpeech": "noun",
+      "frequency": 820,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Stadtteile",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Kreuzberg ist ein bekannter Stadtteil von Berlin.",
+          "en": "Kreuzberg is a well-known district of Berlin."
+        },
+        {
+          "de": "In welchem Stadtteil wohnst du?",
+          "en": "Which district do you live in?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Unser ___ ist ruhig und sehr grün.",
+          "answer": "Stadtteil",
+          "en": "Our district is quiet and very green."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "city",
+        "stadt",
+        "wohnen"
+      ],
+      "synonyms": [
+        "das Viertel",
+        "das Stadtviertel"
+      ],
+      "antonyms": [],
+      "related": [
+        "stadtviertel",
+        "vorort"
+      ]
+    },
+    {
+      "id": "stadtviertel",
+      "word": "das Stadtviertel",
+      "lemma": "Stadtviertel",
+      "translation": "neighbourhood",
+      "translations": [
+        "neighbourhood",
+        "quarter"
+      ],
+      "level": "A2",
+      "category": "City & Places",
+      "partOfSpeech": "noun",
+      "frequency": 980,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Stadtviertel",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Wir sind in ein neues Stadtviertel gezogen.",
+          "en": "We moved to a new neighbourhood."
+        },
+        {
+          "de": "Das Stadtviertel hat viele kleine Cafés.",
+          "en": "The neighbourhood has a lot of small cafés."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "In diesem ___ wohnen viele Studenten.",
+          "answer": "Stadtviertel",
+          "en": "A lot of students live in this neighbourhood."
+        }
+      ],
+      "notes": "Kurz sagt man meist nur 'das Viertel'; in Berlin auch 'der Kiez'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "city",
+        "stadt",
+        "wohnen"
+      ],
+      "synonyms": [
+        "das Viertel",
+        "der Kiez"
+      ],
+      "antonyms": [],
+      "related": [
+        "stadtteil",
+        "nachbarschaft"
+      ]
+    },
+    {
+      "id": "vorort",
+      "word": "der Vorort",
+      "lemma": "Vorort",
+      "translation": "suburb",
+      "translations": [
+        "suburb"
+      ],
+      "level": "A2",
+      "category": "City & Places",
+      "partOfSpeech": "noun",
+      "frequency": 1000,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Vororte",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Sie wohnt in einem Vorort von München.",
+          "en": "She lives in a suburb of Munich."
+        },
+        {
+          "de": "Im Vorort sind die Mieten günstiger.",
+          "en": "Rents are cheaper in the suburbs."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Vom ___ fährt die S-Bahn zwanzig Minuten ins Zentrum.",
+          "answer": "Vorort",
+          "en": "From the suburb the commuter train takes twenty minutes to the centre."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Wohnen im Vorort ist deutlich billiger, dafür brauchst du ein Monatsticket für S-Bahn oder Regionalzug.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "city",
+        "wohnen"
+      ],
+      "synonyms": [
+        "der Stadtrand"
+      ],
+      "antonyms": [
+        "die Innenstadt"
+      ],
+      "related": [
+        "innenstadt",
+        "bahnhof"
+      ]
+    },
+    {
+      "id": "land",
+      "word": "das Land",
+      "lemma": "Land",
+      "translation": "countryside",
+      "translations": [
+        "countryside",
+        "country",
+        "state"
+      ],
+      "level": "A1",
+      "category": "City & Places",
+      "partOfSpeech": "noun",
+      "frequency": 360,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Länder",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Wir wohnen auf dem Land, nicht in der Stadt.",
+          "en": "We live in the countryside, not in the city."
+        },
+        {
+          "de": "Deutschland ist ein schönes Land.",
+          "en": "Germany is a beautiful country."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Am Wochenende fahren wir aufs ___.",
+          "answer": "Land",
+          "en": "At the weekend we drive out to the countryside."
+        }
+      ],
+      "notes": "'auf dem Land' = im Dorf. 'das Land' heißt auch Bundesland (z. B. Bayern) und Staat.",
+      "mnemonic": null,
+      "germany_context": "Deutschland hat 16 Bundesländer. Feiertage, Schulferien und sogar Ladenöffnungszeiten sind in jedem Land etwas anders.",
+      "emoji": "🌾",
+      "imageable": false,
+      "tags": [
+        "city",
+        "land",
+        "geografie"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "die Stadt"
+      ],
+      "related": [
+        "dorf",
+        "stadt"
+      ]
+    },
+    {
+      "id": "strasse",
+      "word": "die Straße",
+      "lemma": "Straße",
+      "translation": "street",
+      "translations": [
+        "street",
+        "road"
+      ],
+      "level": "A0",
+      "category": "City & Places",
+      "partOfSpeech": "noun",
+      "frequency": 170,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Straßen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Meine Wohnung ist in der Goethestraße.",
+          "en": "My flat is on Goethe Street."
+        },
+        {
+          "de": "Die Straße ist heute gesperrt.",
+          "en": "The street is closed today."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "In welcher ___ wohnen Sie?",
+          "answer": "Straße",
+          "en": "Which street do you live on?"
+        }
+      ],
+      "notes": "In Adressen steht die Hausnummer nach dem Straßennamen: Goethestraße 12. Abkürzung: Str.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🛣️",
+      "imageable": true,
+      "tags": [
+        "city",
+        "strasse",
+        "essential"
+      ],
+      "synonyms": [
+        "der Weg"
+      ],
+      "antonyms": [],
+      "related": [
+        "ecke",
+        "kreuzung",
+        "ampel"
+      ]
+    },
+    {
+      "id": "gasse",
+      "word": "die Gasse",
+      "lemma": "Gasse",
+      "translation": "lane",
+      "translations": [
+        "lane",
+        "alley"
+      ],
+      "level": "A2",
+      "category": "City & Places",
+      "partOfSpeech": "noun",
+      "frequency": 1450,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Gassen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "In der Altstadt gibt es viele enge Gassen.",
+          "en": "There are many narrow lanes in the old town."
+        },
+        {
+          "de": "Die Gasse ist zu schmal für Autos.",
+          "en": "The lane is too narrow for cars."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Das Restaurant liegt in einer kleinen ___ hinter dem Dom.",
+          "answer": "Gasse",
+          "en": "The restaurant is in a small lane behind the cathedral."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": true,
+      "tags": [
+        "city",
+        "strasse"
+      ],
+      "synonyms": [
+        "die Seitenstraße"
+      ],
+      "antonyms": [],
+      "related": [
+        "altstadt",
+        "strasse"
+      ]
+    },
+    {
+      "id": "allee",
+      "word": "die Allee",
+      "lemma": "Allee",
+      "translation": "avenue",
+      "translations": [
+        "avenue",
+        "tree-lined road"
+      ],
+      "level": "A2",
+      "category": "City & Places",
+      "partOfSpeech": "noun",
+      "frequency": 1550,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Alleen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Auf beiden Seiten der Allee stehen alte Bäume.",
+          "en": "There are old trees on both sides of the avenue."
+        },
+        {
+          "de": "Wir gehen die Allee entlang bis zum Park.",
+          "en": "We walk along the avenue to the park."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Diese ___ ist im Frühling besonders schön.",
+          "answer": "Allee",
+          "en": "This avenue is especially beautiful in spring."
+        }
+      ],
+      "notes": "Viele Straßennamen enden auf -allee: die Kastanienallee, die Schlossallee.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": true,
+      "tags": [
+        "city",
+        "strasse"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "strasse",
+        "park"
+      ]
+    },
+    {
+      "id": "ecke",
+      "word": "die Ecke",
+      "lemma": "Ecke",
+      "translation": "corner",
+      "translations": [
+        "corner"
+      ],
+      "level": "A1",
+      "category": "City & Places",
+      "partOfSpeech": "noun",
+      "frequency": 580,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Ecken",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Bäcker ist gleich um die Ecke.",
+          "en": "The bakery is just around the corner."
+        },
+        {
+          "de": "An der Ecke steht eine Apotheke.",
+          "en": "There is a pharmacy on the corner."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Geh bis zur nächsten ___ und dann nach links.",
+          "answer": "Ecke",
+          "en": "Walk to the next corner and then go left."
+        }
+      ],
+      "notes": "'um die Ecke' heißt im Alltag einfach 'ganz in der Nähe'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "city",
+        "strasse",
+        "richtung"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "strasse",
+        "kreuzung"
+      ]
+    },
+    {
+      "id": "kreuzung",
+      "word": "die Kreuzung",
+      "lemma": "Kreuzung",
+      "translation": "intersection",
+      "translations": [
+        "intersection",
+        "crossroads"
+      ],
+      "level": "A1",
+      "category": "City & Places",
+      "partOfSpeech": "noun",
+      "frequency": 780,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Kreuzungen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "An der Kreuzung müssen Sie rechts abbiegen.",
+          "en": "At the intersection you have to turn right."
+        },
+        {
+          "de": "Diese Kreuzung ist ziemlich gefährlich.",
+          "en": "This intersection is quite dangerous."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Vor der ___ steht eine Ampel.",
+          "answer": "Kreuzung",
+          "en": "There is a traffic light before the intersection."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": true,
+      "tags": [
+        "city",
+        "strasse",
+        "verkehr"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "ampel",
+        "strasse",
+        "abbiegen"
+      ]
+    },
+    {
+      "id": "bruecke",
+      "word": "die Brücke",
+      "lemma": "Brücke",
+      "translation": "bridge",
+      "translations": [
+        "bridge"
+      ],
+      "level": "A1",
+      "category": "City & Places",
+      "partOfSpeech": "noun",
+      "frequency": 800,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Brücken",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Wir gehen über die Brücke.",
+          "en": "We walk across the bridge."
+        },
+        {
+          "de": "Die Brücke über den Fluss ist neu.",
+          "en": "The bridge over the river is new."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Die ___ ist wegen Bauarbeiten gesperrt.",
+          "answer": "Brücke",
+          "en": "The bridge is closed because of construction work."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🌉",
+      "imageable": true,
+      "tags": [
+        "city",
+        "verkehr"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "strasse"
+      ]
+    },
+    {
+      "id": "park",
+      "word": "der Park",
+      "lemma": "Park",
+      "translation": "park",
+      "translations": [
+        "park"
+      ],
+      "level": "A1",
+      "category": "City & Places",
+      "partOfSpeech": "noun",
+      "frequency": 430,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Parks",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Im Park spielen viele Kinder.",
+          "en": "A lot of children are playing in the park."
+        },
+        {
+          "de": "Wir gehen jeden Abend im Park spazieren.",
+          "en": "We go for a walk in the park every evening."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der ___ liegt direkt hinter unserem Haus.",
+          "answer": "Park",
+          "en": "The park is right behind our house."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Grillen ist in vielen Parks nur auf ausgewiesenen Grillflächen erlaubt – sonst kann es teuer werden.",
+      "emoji": "🌳",
+      "imageable": true,
+      "tags": [
+        "city",
+        "freizeit"
+      ],
+      "synonyms": [
+        "die Grünanlage"
+      ],
+      "antonyms": [],
+      "related": [
+        "spielplatz",
+        "spazieren"
+      ]
+    },
+    {
+      "id": "spielplatz",
+      "word": "der Spielplatz",
+      "lemma": "Spielplatz",
+      "translation": "playground",
+      "translations": [
+        "playground"
+      ],
+      "level": "A1",
+      "category": "City & Places",
+      "partOfSpeech": "noun",
+      "frequency": 960,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Spielplätze",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Spielplatz ist gleich hinter dem Haus.",
+          "en": "The playground is right behind the house."
+        },
+        {
+          "de": "Meine Tochter will jeden Tag auf den Spielplatz.",
+          "en": "My daughter wants to go to the playground every day."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Auf dem ___ gibt es eine Rutsche und eine Schaukel.",
+          "answer": "Spielplatz",
+          "en": "There is a slide and a swing on the playground."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Hunde müssen draußen bleiben: Spielplätze sind in Deutschland fast überall hundefrei.",
+      "emoji": "🛝",
+      "imageable": true,
+      "tags": [
+        "city",
+        "kinder",
+        "freizeit"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "park",
+        "kind"
+      ]
+    },
+    {
+      "id": "markt",
+      "word": "der Markt",
+      "lemma": "Markt",
+      "translation": "market",
+      "translations": [
+        "market"
+      ],
+      "level": "A1",
+      "category": "City & Places",
+      "partOfSpeech": "noun",
+      "frequency": 450,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Märkte",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Samstags kaufe ich Obst auf dem Markt.",
+          "en": "On Saturdays I buy fruit at the market."
+        },
+        {
+          "de": "Der Markt ist bis 14 Uhr geöffnet.",
+          "en": "The market is open until 2 p.m."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Auf dem ___ ist das Gemüse frischer als im Supermarkt.",
+          "answer": "Markt",
+          "en": "At the market the vegetables are fresher than in the supermarket."
+        }
+      ],
+      "notes": "Der Wochenmarkt findet meistens ein- oder zweimal pro Woche auf dem Marktplatz statt.",
+      "mnemonic": null,
+      "germany_context": "Auf dem Wochenmarkt zahlt man fast immer bar – die meisten Stände nehmen keine Karte.",
+      "emoji": "🥕",
+      "imageable": true,
+      "tags": [
+        "city",
+        "einkaufen"
+      ],
+      "synonyms": [
+        "der Wochenmarkt"
+      ],
+      "antonyms": [],
+      "related": [
+        "marktplatz",
+        "supermarkt",
+        "flohmarkt"
+      ]
+    },
+    {
+      "id": "marktplatz",
+      "word": "der Marktplatz",
+      "lemma": "Marktplatz",
+      "translation": "market square",
+      "translations": [
+        "market square"
+      ],
+      "level": "A2",
+      "category": "City & Places",
+      "partOfSpeech": "noun",
+      "frequency": 1330,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Marktplätze",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Marktplatz liegt direkt vor dem Rathaus.",
+          "en": "The market square is right in front of the town hall."
+        },
+        {
+          "de": "Auf dem Marktplatz ist heute ein Konzert.",
+          "en": "There is a concert on the market square today."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wir treffen uns am ___ neben der Kirche.",
+          "answer": "Marktplatz",
+          "en": "We are meeting at the market square next to the church."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": true,
+      "tags": [
+        "city",
+        "stadt"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "markt",
+        "rathaus"
+      ]
+    },
+    {
+      "id": "fussgaengerzone",
+      "word": "die Fußgängerzone",
+      "lemma": "Fußgängerzone",
+      "translation": "pedestrian zone",
+      "translations": [
+        "pedestrian zone",
+        "pedestrian area"
+      ],
+      "level": "A2",
+      "category": "City & Places",
+      "partOfSpeech": "noun",
+      "frequency": 1120,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Fußgängerzonen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "In der Fußgängerzone darf man nicht Auto fahren.",
+          "en": "You are not allowed to drive in the pedestrian zone."
+        },
+        {
+          "de": "Die Fußgängerzone ist voller Geschäfte.",
+          "en": "The pedestrian zone is full of shops."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Radfahren ist in der ___ oft verboten.",
+          "answer": "Fußgängerzone",
+          "en": "Cycling is often forbidden in the pedestrian zone."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🚶",
+      "imageable": true,
+      "tags": [
+        "city",
+        "einkaufen",
+        "verkehr"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "innenstadt",
+        "einkaufszentrum"
+      ]
+    },
+    {
+      "id": "gebaeude",
+      "word": "das Gebäude",
+      "lemma": "Gebäude",
+      "translation": "building",
+      "translations": [
+        "building"
+      ],
+      "level": "A1",
+      "category": "City & Places",
+      "partOfSpeech": "noun",
+      "frequency": 620,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Gebäude",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Das Gebäude ist über hundert Jahre alt.",
+          "en": "The building is over a hundred years old."
+        },
+        {
+          "de": "Mein Büro ist im nächsten Gebäude.",
+          "en": "My office is in the next building."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "In welchem ___ ist die Prüfung?",
+          "answer": "Gebäude",
+          "en": "Which building is the exam in?"
+        }
+      ],
+      "notes": "Plural und Singular sind gleich: das Gebäude – die Gebäude.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🏢",
+      "imageable": true,
+      "tags": [
+        "city",
+        "haus"
+      ],
+      "synonyms": [
+        "das Haus"
+      ],
+      "antonyms": [],
+      "related": [
+        "rathaus",
+        "hotel"
+      ]
+    },
+    {
+      "id": "rathaus",
+      "word": "das Rathaus",
+      "lemma": "Rathaus",
+      "translation": "town hall",
+      "translations": [
+        "town hall",
+        "city hall"
+      ],
+      "level": "A1",
+      "category": "City & Places",
+      "partOfSpeech": "noun",
+      "frequency": 680,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Rathäuser",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Das Rathaus steht am Marktplatz.",
+          "en": "The town hall is on the market square."
+        },
+        {
+          "de": "Wir heiraten im Rathaus.",
+          "en": "We are getting married at the town hall."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Meinen Ausweis bekomme ich im ___.",
+          "answer": "Rathaus",
+          "en": "I get my ID card at the town hall."
+        }
+      ],
+      "notes": "'Rat' = council, nicht 'rat' (die Ratte).",
+      "mnemonic": "Rat (council) + Haus = the council house.",
+      "germany_context": "Im Rathaus sitzt oft das Bürgeramt – dort meldest du deine Adresse an. Ohne Termin geht meistens nichts.",
+      "emoji": "🏛️",
+      "imageable": true,
+      "tags": [
+        "city",
+        "amt",
+        "buerokratie"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "buergeramt",
+        "marktplatz"
+      ]
+    },
+    {
+      "id": "kirche",
+      "word": "die Kirche",
+      "lemma": "Kirche",
+      "translation": "church",
+      "translations": [
+        "church"
+      ],
+      "level": "A1",
+      "category": "City & Places",
+      "partOfSpeech": "noun",
+      "frequency": 560,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Kirchen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Kirche im Dorf ist sehr alt.",
+          "en": "The church in the village is very old."
+        },
+        {
+          "de": "Sonntags läuten die Glocken der Kirche.",
+          "en": "On Sundays the church bells ring."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Neben der ___ ist ein kleiner Friedhof.",
+          "answer": "Kirche",
+          "en": "There is a small cemetery next to the church."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Wer bei der Anmeldung eine Religion angibt, zahlt Kirchensteuer (8–9 % der Lohnsteuer). Das steht später auf jeder Gehaltsabrechnung.",
+      "emoji": "⛪",
+      "imageable": true,
+      "tags": [
+        "city",
+        "religion"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "dom",
+        "moschee",
+        "friedhof"
+      ]
+    },
+    {
+      "id": "dom",
+      "word": "der Dom",
+      "lemma": "Dom",
+      "translation": "cathedral",
+      "translations": [
+        "cathedral"
+      ],
+      "level": "A2",
+      "category": "City & Places",
+      "partOfSpeech": "noun",
+      "frequency": 1350,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Dome",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Kölner Dom ist weltberühmt.",
+          "en": "Cologne Cathedral is world-famous."
+        },
+        {
+          "de": "Vom Dom aus sieht man die ganze Stadt.",
+          "en": "From the cathedral you can see the whole city."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der ___ steht direkt neben dem Hauptbahnhof.",
+          "answer": "Dom",
+          "en": "The cathedral is right next to the main station."
+        }
+      ],
+      "notes": "Ein Dom ist eine große Hauptkirche; man sagt auch 'die Kathedrale'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": true,
+      "tags": [
+        "city",
+        "religion",
+        "tourismus"
+      ],
+      "synonyms": [
+        "die Kathedrale"
+      ],
+      "antonyms": [],
+      "related": [
+        "kirche",
+        "altstadt"
+      ]
+    },
+    {
+      "id": "moschee",
+      "word": "die Moschee",
+      "lemma": "Moschee",
+      "translation": "mosque",
+      "translations": [
+        "mosque"
+      ],
+      "level": "A2",
+      "category": "City & Places",
+      "partOfSpeech": "noun",
+      "frequency": 1420,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Moscheen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Moschee ist zehn Minuten von hier.",
+          "en": "The mosque is ten minutes from here."
+        },
+        {
+          "de": "Freitags gehen viele Leute in die Moschee.",
+          "en": "On Fridays a lot of people go to the mosque."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "In unserem Stadtteil gibt es eine große ___.",
+          "answer": "Moschee",
+          "en": "There is a big mosque in our district."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "In fast jeder größeren Stadt gibt es Moscheen; viele DITIB-Gemeinden sind türkischsprachig.",
+      "emoji": "🕌",
+      "imageable": true,
+      "tags": [
+        "city",
+        "religion"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "kirche",
+        "synagoge"
+      ]
+    },
+    {
+      "id": "synagoge",
+      "word": "die Synagoge",
+      "lemma": "Synagoge",
+      "translation": "synagogue",
+      "translations": [
+        "synagogue"
+      ],
+      "level": "A2",
+      "category": "City & Places",
+      "partOfSpeech": "noun",
+      "frequency": 1600,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Synagogen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Synagoge ist ein wichtiges Gebäude in der Altstadt.",
+          "en": "The synagogue is an important building in the old town."
+        },
+        {
+          "de": "Am Samstag besuchen wir die alte Synagoge.",
+          "en": "On Saturday we are visiting the old synagogue."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Vor der ___ steht fast immer Polizei.",
+          "answer": "Synagoge",
+          "en": "There are almost always police in front of the synagogue."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Synagogen in Deutschland werden aus historischen Gründen dauerhaft von der Polizei bewacht.",
+      "emoji": "🕍",
+      "imageable": true,
+      "tags": [
+        "city",
+        "religion"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "kirche",
+        "moschee"
+      ]
+    },
+    {
+      "id": "museum",
+      "word": "das Museum",
+      "lemma": "Museum",
+      "translation": "museum",
+      "translations": [
+        "museum"
+      ],
+      "level": "A1",
+      "category": "City & Places",
+      "partOfSpeech": "noun",
+      "frequency": 720,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Museen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Das Museum ist montags geschlossen.",
+          "en": "The museum is closed on Mondays."
+        },
+        {
+          "de": "Am Sonntag gehen wir ins Museum.",
+          "en": "On Sunday we are going to the museum."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Eintritt ins ___ kostet acht Euro.",
+          "answer": "Museum",
+          "en": "Admission to the museum costs eight euros."
+        }
+      ],
+      "notes": "Plural: die Museen (nicht 'Museums').",
+      "mnemonic": null,
+      "germany_context": "Museen sind meistens montags zu, dafür sonntags offen – ein guter Plan für den Sonntag, wenn alle Läden geschlossen sind.",
+      "emoji": "🖼️",
+      "imageable": true,
+      "tags": [
+        "city",
+        "kultur",
+        "freizeit"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "theater",
+        "kino"
+      ]
+    },
+    {
+      "id": "theater",
+      "word": "das Theater",
+      "lemma": "Theater",
+      "translation": "theatre",
+      "translations": [
+        "theatre",
+        "theater"
+      ],
+      "level": "A1",
+      "category": "City & Places",
+      "partOfSpeech": "noun",
+      "frequency": 860,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Theater",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Wir gehen heute Abend ins Theater.",
+          "en": "We are going to the theatre this evening."
+        },
+        {
+          "de": "Das Theater zeigt ein neues Stück.",
+          "en": "The theatre is showing a new play."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Die Karten fürs ___ waren gar nicht teuer.",
+          "answer": "Theater",
+          "en": "The tickets for the theatre were not expensive at all."
+        }
+      ],
+      "notes": "'Theater machen' heißt umgangssprachlich: Ärger oder Drama machen.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🎭",
+      "imageable": true,
+      "tags": [
+        "city",
+        "kultur",
+        "freizeit"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "kino",
+        "museum"
+      ]
+    },
+    {
+      "id": "kino",
+      "word": "das Kino",
+      "lemma": "Kino",
+      "translation": "cinema",
+      "translations": [
+        "cinema",
+        "movie theater"
+      ],
+      "level": "A1",
+      "category": "City & Places",
+      "partOfSpeech": "noun",
+      "frequency": 500,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Kinos",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Wollen wir heute ins Kino gehen?",
+          "en": "Shall we go to the cinema today?"
+        },
+        {
+          "de": "Das Kino ist gleich neben dem Einkaufszentrum.",
+          "en": "The cinema is right next to the shopping centre."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Im ___ läuft ein neuer Film aus der Türkei.",
+          "answer": "Kino",
+          "en": "A new film from Turkey is playing at the cinema."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Filme laufen meist auf Deutsch synchronisiert. Achte auf 'OV' oder 'OmU' – dann läuft der Film im Original mit Untertiteln.",
+      "emoji": "🎬",
+      "imageable": true,
+      "tags": [
+        "city",
+        "freizeit"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "theater",
+        "film"
+      ]
+    },
+    {
+      "id": "bibliothek",
+      "word": "die Bibliothek",
+      "lemma": "Bibliothek",
+      "translation": "library",
+      "translations": [
+        "library"
+      ],
+      "level": "A1",
+      "category": "City & Places",
+      "partOfSpeech": "noun",
+      "frequency": 840,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Bibliotheken",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich lerne oft in der Bibliothek.",
+          "en": "I often study in the library."
+        },
+        {
+          "de": "Die Bibliothek schließt um 20 Uhr.",
+          "en": "The library closes at 8 p.m."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich habe drei Bücher aus der ___ geliehen.",
+          "answer": "Bibliothek",
+          "en": "I borrowed three books from the library."
+        }
+      ],
+      "notes": "Umgangssprachlich auch 'die Bücherei' (kleinere Stadtbücherei).",
+      "mnemonic": null,
+      "germany_context": "Der Ausweis der Stadtbibliothek kostet meist 10–20 € im Jahr; du brauchst Ausweis und Anmeldebestätigung.",
+      "emoji": "📚",
+      "imageable": true,
+      "tags": [
+        "city",
+        "kultur",
+        "lernen"
+      ],
+      "synonyms": [
+        "die Bücherei"
+      ],
+      "antonyms": [],
+      "related": [
+        "universitaet",
+        "buch"
+      ]
+    },
+    {
+      "id": "schwimmbad",
+      "word": "das Schwimmbad",
+      "lemma": "Schwimmbad",
+      "translation": "swimming pool",
+      "translations": [
+        "swimming pool",
+        "public baths"
+      ],
+      "level": "A1",
+      "category": "City & Places",
+      "partOfSpeech": "noun",
+      "frequency": 940,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Schwimmbäder",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Im Sommer gehen wir oft ins Schwimmbad.",
+          "en": "In summer we often go to the swimming pool."
+        },
+        {
+          "de": "Das Schwimmbad ist heute geschlossen.",
+          "en": "The swimming pool is closed today."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Eintritt ins ___ kostet fünf Euro.",
+          "answer": "Schwimmbad",
+          "en": "Admission to the swimming pool costs five euros."
+        }
+      ],
+      "notes": "Freibad = draußen, Hallenbad = drinnen.",
+      "mnemonic": null,
+      "germany_context": "Freibäder haben nur im Sommer auf, Hallenbäder das ganze Jahr. Vor dem Schwimmen duschen ist Pflicht.",
+      "emoji": "🏊",
+      "imageable": true,
+      "tags": [
+        "city",
+        "sport",
+        "freizeit"
+      ],
+      "synonyms": [
+        "das Freibad",
+        "das Hallenbad"
+      ],
+      "antonyms": [],
+      "related": [
+        "sporthalle",
+        "fitnessstudio"
+      ]
+    },
+    {
+      "id": "stadion",
+      "word": "das Stadion",
+      "lemma": "Stadion",
+      "translation": "stadium",
+      "translations": [
+        "stadium"
+      ],
+      "level": "A2",
+      "category": "City & Places",
+      "partOfSpeech": "noun",
+      "frequency": 1180,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Stadien",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Das Stadion hat fünfzigtausend Plätze.",
+          "en": "The stadium has fifty thousand seats."
+        },
+        {
+          "de": "Am Samstag gehen wir ins Stadion.",
+          "en": "On Saturday we are going to the stadium."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Vor dem ___ ist es vor dem Spiel sehr voll.",
+          "answer": "Stadion",
+          "en": "It is very crowded in front of the stadium before the match."
+        }
+      ],
+      "notes": "Plural: die Stadien.",
+      "mnemonic": null,
+      "germany_context": "In der Bundesliga gibt es noch Stehplätze – sie sind billig, aber schnell ausverkauft.",
+      "emoji": "🏟️",
+      "imageable": true,
+      "tags": [
+        "city",
+        "sport"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "sporthalle",
+        "spielen"
+      ]
+    },
+    {
+      "id": "sporthalle",
+      "word": "die Sporthalle",
+      "lemma": "Sporthalle",
+      "translation": "sports hall",
+      "translations": [
+        "sports hall",
+        "gym hall"
+      ],
+      "level": "A2",
+      "category": "City & Places",
+      "partOfSpeech": "noun",
+      "frequency": 1400,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Sporthallen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Kurs findet in der Sporthalle statt.",
+          "en": "The course takes place in the sports hall."
+        },
+        {
+          "de": "Die Sporthalle ist direkt neben der Schule.",
+          "en": "The sports hall is right next to the school."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "In der ___ braucht man saubere Hallenschuhe.",
+          "answer": "Sporthalle",
+          "en": "In the sports hall you need clean indoor shoes."
+        }
+      ],
+      "notes": "Auch 'die Turnhalle', besonders in der Schule.",
+      "mnemonic": null,
+      "germany_context": "In Sporthallen sind Hallenschuhe mit heller Sohle Pflicht; mit Straßenschuhen darf man nicht auf den Boden.",
+      "emoji": "🏐",
+      "imageable": true,
+      "tags": [
+        "city",
+        "sport"
+      ],
+      "synonyms": [
+        "die Turnhalle"
+      ],
+      "antonyms": [],
+      "related": [
+        "stadion",
+        "fitnessstudio",
+        "schule"
+      ]
+    },
+    {
+      "id": "schule",
+      "word": "die Schule",
+      "lemma": "Schule",
+      "translation": "school",
+      "translations": [
+        "school"
+      ],
+      "level": "A1",
+      "category": "City & Places",
+      "partOfSpeech": "noun",
+      "frequency": 300,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Schulen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Meine Kinder gehen hier in die Schule.",
+          "en": "My children go to school here."
+        },
+        {
+          "de": "Die Schule beginnt um acht Uhr.",
+          "en": "School starts at eight o'clock."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Nach der ___ spielen die Kinder im Park.",
+          "answer": "Schule",
+          "en": "After school the children play in the park."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "In Deutschland gilt Schulpflicht ab sechs Jahren. Der Unterricht beginnt oft schon um 8 Uhr und endet mittags.",
+      "emoji": "🏫",
+      "imageable": true,
+      "tags": [
+        "city",
+        "bildung"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "universitaet",
+        "kind"
+      ]
+    },
+    {
+      "id": "universitaet",
+      "word": "die Universität",
+      "lemma": "Universität",
+      "translation": "university",
+      "translations": [
+        "university"
+      ],
+      "level": "A1",
+      "category": "City & Places",
+      "partOfSpeech": "noun",
+      "frequency": 600,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Universitäten",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Sie studiert an der Universität Hamburg.",
+          "en": "She studies at the University of Hamburg."
+        },
+        {
+          "de": "Die Universität hat eine große Bibliothek.",
+          "en": "The university has a big library."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Mein Bruder arbeitet an der ___.",
+          "answer": "Universität",
+          "en": "My brother works at the university."
+        }
+      ],
+      "notes": "Im Alltag sagt fast jeder 'die Uni': Ich gehe zur Uni.",
+      "mnemonic": null,
+      "germany_context": "Studieren an staatlichen Unis ist fast kostenlos; man zahlt nur den Semesterbeitrag, meist inklusive Semesterticket für den Nahverkehr.",
+      "emoji": "🎓",
+      "imageable": true,
+      "tags": [
+        "city",
+        "bildung"
+      ],
+      "synonyms": [
+        "die Uni",
+        "die Hochschule"
+      ],
+      "antonyms": [],
+      "related": [
+        "schule",
+        "bibliothek",
+        "studieren"
+      ]
+    },
+    {
+      "id": "bank",
+      "word": "die Bank",
+      "lemma": "Bank",
+      "translation": "bank",
+      "translations": [
+        "bank"
+      ],
+      "level": "A0",
+      "category": "City & Places",
+      "partOfSpeech": "noun",
+      "frequency": 340,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Banken",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich muss heute noch zur Bank gehen.",
+          "en": "I still have to go to the bank today."
+        },
+        {
+          "de": "Die Bank ist nur bis 16 Uhr geöffnet.",
+          "en": "The bank is only open until 4 p.m."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wo ist hier die nächste ___?",
+          "answer": "Bank",
+          "en": "Where is the nearest bank around here?"
+        }
+      ],
+      "notes": "Zwei Pluralformen: die Banken (Geldinstitut), die Bänke (Sitzbank im Park).",
+      "mnemonic": null,
+      "germany_context": "Für ein Girokonto brauchst du Ausweis, Anmeldebestätigung und meist die Steuer-ID. Filialen haben oft nur vormittags offen.",
+      "emoji": "🏦",
+      "imageable": true,
+      "tags": [
+        "city",
+        "geld",
+        "essential"
+      ],
+      "synonyms": [
+        "das Kreditinstitut"
+      ],
+      "antonyms": [],
+      "related": [
+        "geldautomat",
+        "post"
+      ]
+    },
+    {
+      "id": "post",
+      "word": "die Post",
+      "lemma": "Post",
+      "translation": "post office",
+      "translations": [
+        "post office",
+        "mail"
+      ],
+      "level": "A1",
+      "category": "City & Places",
+      "partOfSpeech": "noun",
+      "frequency": 380,
+      "gender": "f",
+      "article": "die",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich bringe das Paket zur Post.",
+          "en": "I am taking the parcel to the post office."
+        },
+        {
+          "de": "Die Post ist heute geschlossen.",
+          "en": "The post office is closed today."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Kannst du den Brief bei der ___ abgeben?",
+          "answer": "Post",
+          "en": "Can you drop the letter off at the post office?"
+        }
+      ],
+      "notes": "'die Post' ist das Gebäude und auch die Sendungen: Ist Post für mich da?",
+      "mnemonic": null,
+      "germany_context": "Viele Postfilialen sind heute in Supermärkten oder Kiosken. Pakete kannst du rund um die Uhr an einer Packstation abholen.",
+      "emoji": "📮",
+      "imageable": true,
+      "tags": [
+        "city",
+        "amt",
+        "alltag"
+      ],
+      "synonyms": [
+        "die Postfiliale"
+      ],
+      "antonyms": [],
+      "related": [
+        "bank",
+        "kiosk"
+      ]
+    },
+    {
+      "id": "bahnhof",
+      "word": "der Bahnhof",
+      "lemma": "Bahnhof",
+      "translation": "train station",
+      "translations": [
+        "train station",
+        "railway station"
+      ],
+      "level": "A0",
+      "category": "City & Places",
+      "partOfSpeech": "noun",
+      "frequency": 260,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Bahnhöfe",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Bahnhof ist zehn Minuten zu Fuß.",
+          "en": "The train station is ten minutes on foot."
+        },
+        {
+          "de": "Wir treffen uns am Bahnhof.",
+          "en": "We are meeting at the train station."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wie komme ich zum ___?",
+          "answer": "Bahnhof",
+          "en": "How do I get to the train station?"
+        }
+      ],
+      "notes": "Der große Bahnhof einer Stadt heißt 'der Hauptbahnhof' (Hbf).",
+      "mnemonic": null,
+      "germany_context": "Am Sonntag sind fast alle Läden zu – nur Geschäfte im Bahnhof, am Flughafen und Tankstellen dürfen öffnen.",
+      "emoji": "🚉",
+      "imageable": true,
+      "tags": [
+        "city",
+        "verkehr",
+        "essential"
+      ],
+      "synonyms": [
+        "der Hauptbahnhof"
+      ],
+      "antonyms": [],
+      "related": [
+        "flughafen",
+        "kiosk"
+      ]
+    },
+    {
+      "id": "flughafen",
+      "word": "der Flughafen",
+      "lemma": "Flughafen",
+      "translation": "airport",
+      "translations": [
+        "airport"
+      ],
+      "level": "A0",
+      "category": "City & Places",
+      "partOfSpeech": "noun",
+      "frequency": 480,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Flughäfen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Flug geht vom Flughafen München.",
+          "en": "The flight leaves from Munich airport."
+        },
+        {
+          "de": "Ich fahre mit der S-Bahn zum Flughafen.",
+          "en": "I take the commuter train to the airport."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wir sind zwei Stunden vor dem Abflug am ___.",
+          "answer": "Flughafen",
+          "en": "We are at the airport two hours before departure."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "✈️",
+      "imageable": true,
+      "tags": [
+        "city",
+        "verkehr",
+        "reise"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "bahnhof",
+        "hotel"
+      ]
+    },
+    {
+      "id": "hotel",
+      "word": "das Hotel",
+      "lemma": "Hotel",
+      "translation": "hotel",
+      "translations": [
+        "hotel"
+      ],
+      "level": "A0",
+      "category": "City & Places",
+      "partOfSpeech": "noun",
+      "frequency": 400,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Hotels",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Wir übernachten drei Nächte im Hotel.",
+          "en": "We are staying three nights at the hotel."
+        },
+        {
+          "de": "Das Hotel liegt in der Nähe vom Bahnhof.",
+          "en": "The hotel is near the train station."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich habe ein Zimmer im ___ reserviert.",
+          "answer": "Hotel",
+          "en": "I have reserved a room at the hotel."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "In vielen Städten kommt zur Rechnung noch die Kurtaxe (City-Tax) pro Person und Nacht dazu.",
+      "emoji": "🏨",
+      "imageable": true,
+      "tags": [
+        "city",
+        "reise"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "jugendherberge",
+        "flughafen"
+      ]
+    },
+    {
+      "id": "jugendherberge",
+      "word": "die Jugendherberge",
+      "lemma": "Jugendherberge",
+      "translation": "youth hostel",
+      "translations": [
+        "youth hostel",
+        "hostel"
+      ],
+      "level": "A2",
+      "category": "City & Places",
+      "partOfSpeech": "noun",
+      "frequency": 1280,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Jugendherbergen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Jugendherberge ist viel billiger als ein Hotel.",
+          "en": "The youth hostel is much cheaper than a hotel."
+        },
+        {
+          "de": "Wir schlafen zwei Nächte in der Jugendherberge.",
+          "en": "We are sleeping two nights at the youth hostel."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "In der ___ teilt man sich oft ein Zimmer.",
+          "answer": "Jugendherberge",
+          "en": "At the youth hostel you often share a room."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Für die klassischen DJH-Jugendherbergen braucht man eine Mitgliedskarte; sie kostet rund 25 € im Jahr.",
+      "emoji": "🛏️",
+      "imageable": true,
+      "tags": [
+        "city",
+        "reise"
+      ],
+      "synonyms": [
+        "das Hostel"
+      ],
+      "antonyms": [],
+      "related": [
+        "hotel"
+      ]
+    },
+    {
+      "id": "tankstelle",
+      "word": "die Tankstelle",
+      "lemma": "Tankstelle",
+      "translation": "petrol station",
+      "translations": [
+        "petrol station",
+        "gas station"
+      ],
+      "level": "A1",
+      "category": "City & Places",
+      "partOfSpeech": "noun",
+      "frequency": 740,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Tankstellen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Vor der Autobahn ist eine Tankstelle.",
+          "en": "There is a petrol station before the motorway."
+        },
+        {
+          "de": "An der Tankstelle kann man auch Brot kaufen.",
+          "en": "At the petrol station you can also buy bread."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wir halten kurz an der ___.",
+          "answer": "Tankstelle",
+          "en": "We are stopping briefly at the petrol station."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Tankstellen haben nachts und sonntags offen. Deshalb kauft man dort – teuer – Getränke und Snacks, wenn alles andere zu ist.",
+      "emoji": "⛽",
+      "imageable": true,
+      "tags": [
+        "city",
+        "auto",
+        "verkehr"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "parkplatz",
+        "supermarkt"
+      ]
+    },
+    {
+      "id": "parkplatz",
+      "word": "der Parkplatz",
+      "lemma": "Parkplatz",
+      "translation": "parking space",
+      "translations": [
+        "parking space",
+        "car park"
+      ],
+      "level": "A1",
+      "category": "City & Places",
+      "partOfSpeech": "noun",
+      "frequency": 640,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Parkplätze",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich finde hier keinen Parkplatz.",
+          "en": "I cannot find a parking space here."
+        },
+        {
+          "de": "Der Parkplatz hinter dem Haus ist frei.",
+          "en": "The parking space behind the house is free."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Vor dem Supermarkt gibt es einen großen ___.",
+          "answer": "Parkplatz",
+          "en": "There is a big car park in front of the supermarket."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Auf vielen Parkplätzen darf man nur mit Parkscheibe parken: Ankunftszeit einstellen, sonst gibt es ein Knöllchen.",
+      "emoji": "🅿️",
+      "imageable": true,
+      "tags": [
+        "city",
+        "auto",
+        "verkehr"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "parkhaus",
+        "auto"
+      ]
+    },
+    {
+      "id": "parkhaus",
+      "word": "das Parkhaus",
+      "lemma": "Parkhaus",
+      "translation": "multi-storey car park",
+      "translations": [
+        "multi-storey car park",
+        "parking garage"
+      ],
+      "level": "A2",
+      "category": "City & Places",
+      "partOfSpeech": "noun",
+      "frequency": 1200,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Parkhäuser",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Wir stellen das Auto ins Parkhaus.",
+          "en": "We are putting the car in the multi-storey car park."
+        },
+        {
+          "de": "Das Parkhaus ist rund um die Uhr geöffnet.",
+          "en": "The parking garage is open around the clock."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Im ___ kostet die Stunde zwei Euro.",
+          "answer": "Parkhaus",
+          "en": "In the parking garage an hour costs two euros."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Im Parkhaus zahlst du am Kassenautomaten, bevor du zum Auto zurückgehst – erst dann öffnet sich die Schranke.",
+      "emoji": "🚗",
+      "imageable": true,
+      "tags": [
+        "city",
+        "auto",
+        "verkehr"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "parkplatz"
+      ]
+    },
+    {
+      "id": "einkaufszentrum",
+      "word": "das Einkaufszentrum",
+      "lemma": "Einkaufszentrum",
+      "translation": "shopping centre",
+      "translations": [
+        "shopping centre",
+        "mall"
+      ],
+      "level": "A1",
+      "category": "City & Places",
+      "partOfSpeech": "noun",
+      "frequency": 880,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Einkaufszentren",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Das Einkaufszentrum hat über hundert Geschäfte.",
+          "en": "The shopping centre has more than a hundred shops."
+        },
+        {
+          "de": "Am Samstag gehen wir ins Einkaufszentrum.",
+          "en": "On Saturday we are going to the shopping centre."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Im ___ gibt es auch ein Kino.",
+          "answer": "Einkaufszentrum",
+          "en": "There is also a cinema in the shopping centre."
+        }
+      ],
+      "notes": "Man sagt auch 'das Center' oder 'die Mall'.",
+      "mnemonic": null,
+      "germany_context": "Auch Einkaufszentren sind sonntags komplett geschlossen – Ausnahme: die wenigen verkaufsoffenen Sonntage im Jahr.",
+      "emoji": "🏬",
+      "imageable": true,
+      "tags": [
+        "city",
+        "einkaufen"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "supermarkt",
+        "fussgaengerzone"
+      ]
+    },
+    {
+      "id": "gegend",
+      "word": "die Gegend",
+      "lemma": "Gegend",
+      "translation": "area",
+      "translations": [
+        "area",
+        "neighbourhood",
+        "region"
+      ],
+      "level": "A1",
+      "category": "City & Places",
+      "partOfSpeech": "noun",
+      "frequency": 590,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Gegenden",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Gegend hier ist ruhig und sicher.",
+          "en": "The area here is quiet and safe."
+        },
+        {
+          "de": "Kennst du eine gute Bäckerei in dieser Gegend?",
+          "en": "Do you know a good bakery in this area?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "In welcher ___ möchtest du wohnen?",
+          "answer": "Gegend",
+          "en": "Which area would you like to live in?"
+        }
+      ],
+      "notes": "'hier in der Gegend' heißt einfach 'hier in der Nähe'.",
+      "mnemonic": null,
+      "germany_context": "Bei der Wohnungssuche fragt man immer zuerst nach der Gegend: Anbindung, Lärm und Einkaufsmöglichkeiten stehen selten im Inserat.",
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "city",
+        "wohnen",
+        "stadt"
+      ],
+      "synonyms": [
+        "die Umgebung"
+      ],
+      "antonyms": [],
+      "related": [
+        "stadtteil",
+        "nachbarschaft",
+        "supermarkt"
+      ]
+    },
+    {
+      "id": "kiosk",
+      "word": "der Kiosk",
+      "lemma": "Kiosk",
+      "translation": "kiosk",
+      "translations": [
+        "kiosk",
+        "newsstand"
+      ],
+      "level": "A1",
+      "category": "City & Places",
+      "partOfSpeech": "noun",
+      "frequency": 760,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Kioske",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Am Kiosk kaufe ich eine Zeitung.",
+          "en": "I buy a newspaper at the kiosk."
+        },
+        {
+          "de": "Der Kiosk vor dem Bahnhof hat lange offen.",
+          "en": "The kiosk in front of the station is open late."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Zigaretten bekommst du am ___.",
+          "answer": "Kiosk",
+          "en": "You can get cigarettes at the kiosk."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Kioske heißen im Ruhrgebiet 'Büdchen' und in Berlin 'Späti'. Sie haben oft abends und sonntags offen.",
+      "emoji": "🏪",
+      "imageable": true,
+      "tags": [
+        "city",
+        "einkaufen"
+      ],
+      "synonyms": [
+        "der Späti",
+        "das Büdchen"
+      ],
+      "antonyms": [],
+      "related": [
+        "spaeti",
+        "bahnhof"
+      ]
+    },
+    {
+      "id": "spaeti",
+      "word": "der Späti",
+      "lemma": "Späti",
+      "translation": "late-night corner shop",
+      "translations": [
+        "late-night corner shop",
+        "convenience store"
+      ],
+      "level": "A2",
+      "category": "City & Places",
+      "partOfSpeech": "noun",
+      "frequency": 990,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Spätis",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Späti hat bis zwei Uhr nachts offen.",
+          "en": "The late-night shop is open until two in the morning."
+        },
+        {
+          "de": "Wir holen noch schnell Getränke beim Späti.",
+          "en": "We are quickly getting drinks at the late-night shop."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Sonntags kaufen wir die Milch im ___.",
+          "answer": "Späti",
+          "en": "On Sundays we buy the milk at the late-night shop."
+        }
+      ],
+      "notes": "Kurz für 'der Spätkauf'. Vor allem in Berlin; anderswo sagt man Kiosk oder Büdchen.",
+      "mnemonic": "spät = late → Späti = the late shop.",
+      "germany_context": "Spätis sind in Berlin oft die einzigen Läden, die sonntags und nachts offen haben – und sie nehmen auch Pfandflaschen zurück.",
+      "emoji": "🌃",
+      "imageable": true,
+      "tags": [
+        "city",
+        "einkaufen",
+        "berlin"
+      ],
+      "synonyms": [
+        "der Kiosk"
+      ],
+      "antonyms": [],
+      "related": [
+        "kiosk",
+        "supermarkt"
+      ]
+    },
+    {
+      "id": "friedhof",
+      "word": "der Friedhof",
+      "lemma": "Friedhof",
+      "translation": "cemetery",
+      "translations": [
+        "cemetery",
+        "graveyard"
+      ],
+      "level": "A2",
+      "category": "City & Places",
+      "partOfSpeech": "noun",
+      "frequency": 1300,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Friedhöfe",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Friedhof liegt hinter der Kirche.",
+          "en": "The cemetery is behind the church."
+        },
+        {
+          "de": "Auf dem Friedhof ist es sehr ruhig.",
+          "en": "It is very quiet at the cemetery."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Sie bringt jeden Sonntag Blumen auf den ___.",
+          "answer": "Friedhof",
+          "en": "She brings flowers to the cemetery every Sunday."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🪦",
+      "imageable": true,
+      "tags": [
+        "city",
+        "religion"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "kirche"
+      ]
+    },
+    {
+      "id": "zoo",
+      "word": "der Zoo",
+      "lemma": "Zoo",
+      "translation": "zoo",
+      "translations": [
+        "zoo"
+      ],
+      "level": "A1",
+      "category": "City & Places",
+      "partOfSpeech": "noun",
+      "frequency": 1150,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Zoos",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Am Wochenende gehen wir in den Zoo.",
+          "en": "At the weekend we are going to the zoo."
+        },
+        {
+          "de": "Der Zoo in Berlin ist sehr groß.",
+          "en": "The zoo in Berlin is very big."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Im ___ haben die Kinder Elefanten gesehen.",
+          "answer": "Zoo",
+          "en": "At the zoo the children saw elephants."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🦁",
+      "imageable": true,
+      "tags": [
+        "city",
+        "freizeit",
+        "kinder"
+      ],
+      "synonyms": [
+        "der Tierpark"
+      ],
+      "antonyms": [],
+      "related": [
+        "park",
+        "spielplatz"
+      ]
+    },
+    {
+      "id": "friseur",
+      "word": "der Friseur",
+      "lemma": "Friseur",
+      "translation": "hairdresser",
+      "translations": [
+        "hairdresser",
+        "barber"
+      ],
+      "level": "A1",
+      "category": "City & Places",
+      "partOfSpeech": "noun",
+      "frequency": 950,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Friseure",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich gehe morgen zum Friseur.",
+          "en": "I am going to the hairdresser tomorrow."
+        },
+        {
+          "de": "Der Friseur ist gleich um die Ecke.",
+          "en": "The hairdresser is just around the corner."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Beim ___ muss man meistens einen Termin machen.",
+          "answer": "Friseur",
+          "en": "At the hairdresser you usually have to make an appointment."
+        }
+      ],
+      "notes": "Weiblich: die Friseurin. Der Laden heißt auch 'der Friseursalon'.",
+      "mnemonic": null,
+      "germany_context": "Ohne Termin wird es schwierig, und man gibt etwa 10 % Trinkgeld – am besten passend in bar.",
+      "emoji": "💇",
+      "imageable": true,
+      "tags": [
+        "city",
+        "dienstleistung"
+      ],
+      "synonyms": [
+        "der Friseursalon"
+      ],
+      "antonyms": [],
+      "related": [
+        "termin",
+        "trinkgeld"
+      ]
+    },
+    {
+      "id": "waschsalon",
+      "word": "der Waschsalon",
+      "lemma": "Waschsalon",
+      "translation": "laundromat",
+      "translations": [
+        "laundromat",
+        "launderette"
+      ],
+      "level": "A2",
+      "category": "City & Places",
+      "partOfSpeech": "noun",
+      "frequency": 1500,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Waschsalons",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "In der Nähe gibt es einen Waschsalon.",
+          "en": "There is a laundromat nearby."
+        },
+        {
+          "de": "Im Waschsalon kostet eine Maschine vier Euro.",
+          "en": "At the laundromat one machine costs four euros."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Meine Waschmaschine ist kaputt, ich gehe in den ___.",
+          "answer": "Waschsalon",
+          "en": "My washing machine is broken, I am going to the laundromat."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Waschsalons sind selten: Die meisten Wohnungen haben eine eigene Waschmaschine oder eine Waschküche im Keller.",
+      "emoji": "🧺",
+      "imageable": true,
+      "tags": [
+        "city",
+        "dienstleistung",
+        "wohnen"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "waschen"
+      ]
+    },
+    {
+      "id": "fitnessstudio",
+      "word": "das Fitnessstudio",
+      "lemma": "Fitnessstudio",
+      "translation": "gym",
+      "translations": [
+        "gym",
+        "fitness studio"
+      ],
+      "level": "A2",
+      "category": "City & Places",
+      "partOfSpeech": "noun",
+      "frequency": 1050,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Fitnessstudios",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich gehe dreimal pro Woche ins Fitnessstudio.",
+          "en": "I go to the gym three times a week."
+        },
+        {
+          "de": "Das Fitnessstudio hat rund um die Uhr geöffnet.",
+          "en": "The gym is open around the clock."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Vertrag im ___ läuft zwölf Monate.",
+          "answer": "Fitnessstudio",
+          "en": "The gym contract runs for twelve months."
+        }
+      ],
+      "notes": "Kurz: das Studio. 'Gym' sagt man auch, aber seltener.",
+      "mnemonic": null,
+      "germany_context": "Verträge laufen meist 12 oder 24 Monate und verlängern sich automatisch – rechtzeitig und schriftlich kündigen.",
+      "emoji": "🏋️",
+      "imageable": true,
+      "tags": [
+        "city",
+        "sport"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "sporthalle",
+        "schwimmbad",
+        "kuendigen"
+      ]
+    },
+    {
+      "id": "polizeiwache",
+      "word": "die Polizeiwache",
+      "lemma": "Polizeiwache",
+      "translation": "police station",
+      "translations": [
+        "police station"
+      ],
+      "level": "A2",
+      "category": "City & Places",
+      "partOfSpeech": "noun",
+      "frequency": 1080,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Polizeiwachen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Polizeiwache ist gleich neben dem Rathaus.",
+          "en": "The police station is right next to the town hall."
+        },
+        {
+          "de": "Wir gehen zur Polizeiwache und melden den Diebstahl.",
+          "en": "We are going to the police station to report the theft."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Er hat sein Fahrrad auf der ___ als gestohlen gemeldet.",
+          "answer": "Polizeiwache",
+          "en": "He reported his bicycle stolen at the police station."
+        }
+      ],
+      "notes": "Auch 'das Polizeirevier' oder kurz 'die Wache'.",
+      "mnemonic": null,
+      "germany_context": "Bei Diebstahl brauchst du für die Versicherung eine Anzeige – entweder auf der Wache oder online über die Internetwache.",
+      "emoji": "👮",
+      "imageable": true,
+      "tags": [
+        "city",
+        "amt",
+        "notfall"
+      ],
+      "synonyms": [
+        "das Polizeirevier"
+      ],
+      "antonyms": [],
+      "related": [
+        "polizei",
+        "buergeramt"
+      ]
+    },
+    {
+      "id": "geldautomat",
+      "word": "der Geldautomat",
+      "lemma": "Geldautomat",
+      "translation": "cash machine",
+      "translations": [
+        "cash machine",
+        "ATM"
+      ],
+      "level": "A1",
+      "category": "City & Places",
+      "partOfSpeech": "noun",
+      "frequency": 620,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Geldautomaten",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Wo ist hier ein Geldautomat?",
+          "en": "Where is a cash machine around here?"
+        },
+        {
+          "de": "Am Geldautomaten kann ich Geld abheben.",
+          "en": "I can withdraw money at the cash machine."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der ___ neben dem Supermarkt ist leider kaputt.",
+          "answer": "Geldautomat",
+          "en": "The cash machine next to the supermarket is unfortunately broken."
+        }
+      ],
+      "notes": "N-Deklination: am Geldautomaten, den Geldautomaten.",
+      "mnemonic": null,
+      "germany_context": "In Deutschland zahlt man noch viel bar. An fremden Automaten kostet das Abheben oft 4–6 € Gebühr – lieber den Automaten der eigenen Bank suchen.",
+      "emoji": "🏧",
+      "imageable": true,
+      "tags": [
+        "city",
+        "geld"
+      ],
+      "synonyms": [
+        "der Bankautomat"
+      ],
+      "antonyms": [],
+      "related": [
+        "bank",
+        "abheben",
+        "bargeld"
+      ]
+    },
+    {
+      "id": "drogerie",
+      "word": "die Drogerie",
+      "lemma": "Drogerie",
+      "translation": "drugstore",
+      "translations": [
+        "drugstore",
+        "chemist's"
+      ],
+      "level": "A1",
+      "category": "City & Places",
+      "partOfSpeech": "noun",
+      "frequency": 850,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Drogerien",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Zahnpasta kaufe ich in der Drogerie.",
+          "en": "I buy toothpaste at the drugstore."
+        },
+        {
+          "de": "Die Drogerie ist im Erdgeschoss.",
+          "en": "The drugstore is on the ground floor."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "In der ___ gibt es Shampoo, Windeln und Vitamine.",
+          "answer": "Drogerie",
+          "en": "At the drugstore there is shampoo, nappies and vitamins."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "dm und Rossmann sind Drogerien. Richtige Medikamente gibt es dort nicht – dafür musst du in die Apotheke.",
+      "emoji": "🧴",
+      "imageable": true,
+      "tags": [
+        "city",
+        "einkaufen"
+      ],
+      "synonyms": [
+        "der Drogeriemarkt"
+      ],
+      "antonyms": [],
+      "related": [
+        "apotheke",
+        "supermarkt"
+      ]
+    },
+    {
+      "id": "baumarkt",
+      "word": "der Baumarkt",
+      "lemma": "Baumarkt",
+      "translation": "DIY store",
+      "translations": [
+        "DIY store",
+        "hardware store"
+      ],
+      "level": "A2",
+      "category": "City & Places",
+      "partOfSpeech": "noun",
+      "frequency": 1100,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Baumärkte",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Im Baumarkt gibt es Farbe und Werkzeug.",
+          "en": "At the DIY store there is paint and tools."
+        },
+        {
+          "de": "Wir fahren am Samstag in den Baumarkt.",
+          "en": "We are driving to the DIY store on Saturday."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Lampen und Schrauben bekommst du im ___.",
+          "answer": "Baumarkt",
+          "en": "You can get lamps and screws at the DIY store."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Neue Wohnungen sind oft ohne Lampen und ohne Küche – nach dem Einzug führt der erste Weg meist in den Baumarkt.",
+      "emoji": "🔨",
+      "imageable": true,
+      "tags": [
+        "city",
+        "einkaufen",
+        "wohnen"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "einziehen",
+        "reparieren"
+      ]
+    },
+    {
+      "id": "flohmarkt",
+      "word": "der Flohmarkt",
+      "lemma": "Flohmarkt",
+      "translation": "flea market",
+      "translations": [
+        "flea market"
+      ],
+      "level": "A2",
+      "category": "City & Places",
+      "partOfSpeech": "noun",
+      "frequency": 1250,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Flohmärkte",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Sonntags gehen wir gern auf den Flohmarkt.",
+          "en": "On Sundays we like going to the flea market."
+        },
+        {
+          "de": "Auf dem Flohmarkt habe ich einen Tisch gekauft.",
+          "en": "I bought a table at the flea market."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Am Sonntag ist auf dem Parkplatz ein großer ___.",
+          "answer": "Flohmarkt",
+          "en": "On Sunday there is a big flea market in the car park."
+        }
+      ],
+      "notes": null,
+      "mnemonic": "der Floh = the flea.",
+      "germany_context": "Flohmärkte sind auch sonntags erlaubt und eine billige Art, die erste Wohnung einzurichten. Bargeld mitnehmen und ruhig handeln.",
+      "emoji": "🛍️",
+      "imageable": true,
+      "tags": [
+        "city",
+        "einkaufen",
+        "freizeit"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "markt",
+        "weihnachtsmarkt"
+      ]
+    },
+    {
+      "id": "weihnachtsmarkt",
+      "word": "der Weihnachtsmarkt",
+      "lemma": "Weihnachtsmarkt",
+      "translation": "Christmas market",
+      "translations": [
+        "Christmas market"
+      ],
+      "level": "A2",
+      "category": "City & Places",
+      "partOfSpeech": "noun",
+      "frequency": 1220,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Weihnachtsmärkte",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Im Dezember gehen wir auf den Weihnachtsmarkt.",
+          "en": "In December we go to the Christmas market."
+        },
+        {
+          "de": "Auf dem Weihnachtsmarkt trinken wir Glühwein.",
+          "en": "At the Christmas market we drink mulled wine."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der ___ öffnet schon Ende November.",
+          "answer": "Weihnachtsmarkt",
+          "en": "The Christmas market opens as early as the end of November."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Für den Glühweinbecher zahlst du 2–5 € Pfand: Becher zurückbringen oder als Souvenir behalten. Viele Stände nehmen nur Bargeld.",
+      "emoji": "🎄",
+      "imageable": true,
+      "tags": [
+        "city",
+        "kultur",
+        "winter"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "markt",
+        "flohmarkt",
+        "pfand"
+      ]
+    },
+    {
+      "id": "ampel",
+      "word": "die Ampel",
+      "lemma": "Ampel",
+      "translation": "traffic light",
+      "translations": [
+        "traffic light"
+      ],
+      "level": "A1",
+      "category": "City & Places",
+      "partOfSpeech": "noun",
+      "frequency": 770,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Ampeln",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "An der Ampel musst du warten.",
+          "en": "You have to wait at the traffic light."
+        },
+        {
+          "de": "Die Ampel ist rot.",
+          "en": "The traffic light is red."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Geh bis zur ___ und dann nach links.",
+          "answer": "Ampel",
+          "en": "Walk to the traffic light and then go left."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Bei Rot geht in Deutschland fast niemand über die Straße – besonders nicht, wenn Kinder dabei sind. Es kostet auch Bußgeld.",
+      "emoji": "🚦",
+      "imageable": true,
+      "tags": [
+        "city",
+        "verkehr",
+        "strasse"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "kreuzung",
+        "strasse"
+      ]
+    },
+    {
+      "id": "radweg",
+      "word": "der Radweg",
+      "lemma": "Radweg",
+      "translation": "bike lane",
+      "translations": [
+        "bike lane",
+        "cycle path"
+      ],
+      "level": "A2",
+      "category": "City & Places",
+      "partOfSpeech": "noun",
+      "frequency": 1150,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Radwege",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Radweg führt direkt am Fluss entlang.",
+          "en": "The bike lane runs right along the river."
+        },
+        {
+          "de": "Fahr bitte auf dem Radweg, nicht auf der Straße.",
+          "en": "Please ride on the bike lane, not on the road."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Bleib nicht auf dem ___ stehen, hier kommen viele Fahrräder.",
+          "answer": "Radweg",
+          "en": "Do not stand on the bike lane, a lot of bicycles come through here."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Radwege sind oft rot markiert und gehören nur den Fahrrädern. Wer dort als Fußgänger läuft, wird sofort angeklingelt.",
+      "emoji": "🚲",
+      "imageable": true,
+      "tags": [
+        "city",
+        "verkehr",
+        "fahrrad"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "strasse",
+        "fussgaengerzone"
+      ]
+    },
+    {
+      "id": "ort",
+      "word": "der Ort",
+      "lemma": "Ort",
+      "translation": "place",
+      "translations": [
+        "place",
+        "spot",
+        "small town"
+      ],
+      "level": "A1",
+      "category": "City & Places",
+      "partOfSpeech": "noun",
+      "frequency": 520,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Orte",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Wie heißt der Ort, in dem du wohnst?",
+          "en": "What is the name of the place where you live?"
+        },
+        {
+          "de": "Das ist ein schöner Ort für ein Picknick.",
+          "en": "That is a nice spot for a picnic."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wir suchen einen ruhigen ___ zum Lernen.",
+          "answer": "Ort",
+          "en": "We are looking for a quiet place to study."
+        }
+      ],
+      "notes": "'der Ort' ist Stelle/Platz, aber auch eine kleine Stadt oder Gemeinde.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "city",
+        "stadt"
+      ],
+      "synonyms": [
+        "die Stelle"
+      ],
+      "antonyms": [],
+      "related": [
+        "stadt",
+        "dorf"
+      ]
+    }
+  ]
+}
