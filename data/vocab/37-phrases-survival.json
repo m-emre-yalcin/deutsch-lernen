@@ -1,0 +1,2220 @@
+{
+  "category": "Survival Phrases",
+  "words": [
+    {
+      "id": "ja",
+      "word": "ja",
+      "lemma": "ja",
+      "translation": "yes",
+      "translations": [
+        "yes"
+      ],
+      "level": "A0",
+      "category": "Survival Phrases",
+      "partOfSpeech": "phrase",
+      "frequency": 3,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ja, das stimmt.",
+          "en": "Yes, that's right."
+        },
+        {
+          "de": "Ja, bitte.",
+          "en": "Yes, please."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "— Kommst du mit? — ___, gerne!",
+          "answer": "Ja",
+          "en": "— Are you coming? — Yes, gladly!"
+        }
+      ],
+      "notes": "To agree with a negative question, Germans use doch instead of ja: 'Hast du keinen Hunger?' — 'Doch!' (Yes, I am hungry).",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "✅",
+      "imageable": false,
+      "tags": [
+        "survival",
+        "essential"
+      ],
+      "synonyms": [
+        "jawohl"
+      ],
+      "antonyms": [
+        "nein"
+      ],
+      "related": [
+        "nein",
+        "doch"
+      ]
+    },
+    {
+      "id": "nein",
+      "word": "nein",
+      "lemma": "nein",
+      "translation": "no",
+      "translations": [
+        "no"
+      ],
+      "level": "A0",
+      "category": "Survival Phrases",
+      "partOfSpeech": "phrase",
+      "frequency": 4,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Nein, danke.",
+          "en": "No, thank you."
+        },
+        {
+          "de": "Nein, das ist nicht richtig.",
+          "en": "No, that is not correct."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "— Möchten Sie noch etwas? — ___, danke.",
+          "answer": "Nein",
+          "en": "— Would you like anything else? — No, thank you."
+        }
+      ],
+      "notes": "'Nein, danke' is the polite way to decline anything. Just 'nein' on its own can sound blunt.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "❌",
+      "imageable": false,
+      "tags": [
+        "survival",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "ja"
+      ],
+      "related": [
+        "ja"
+      ]
+    },
+    {
+      "id": "ich-verstehe-nicht",
+      "word": "Ich verstehe nicht.",
+      "lemma": "Ich verstehe nicht",
+      "translation": "I don't understand.",
+      "translations": [
+        "I don't understand."
+      ],
+      "level": "A0",
+      "category": "Survival Phrases",
+      "partOfSpeech": "phrase",
+      "frequency": 25,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Entschuldigung, ich verstehe nicht.",
+          "en": "Sorry, I don't understand."
+        },
+        {
+          "de": "Ich verstehe nicht, was Sie meinen.",
+          "en": "I don't understand what you mean."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Tut mir leid, ich ___ nicht. Können Sie das wiederholen?",
+          "answer": "verstehe",
+          "en": "Sorry, I don't understand. Can you repeat that?"
+        }
+      ],
+      "notes": "Possibly the most useful sentence you will learn. Follow it with 'Können Sie das bitte wiederholen?'",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🤷",
+      "imageable": false,
+      "tags": [
+        "survival",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "ich-verstehe",
+        "wie-bitte"
+      ]
+    },
+    {
+      "id": "ich-verstehe",
+      "word": "Ich verstehe.",
+      "lemma": "Ich verstehe",
+      "translation": "I understand.",
+      "translations": [
+        "I understand.",
+        "I see."
+      ],
+      "level": "A0",
+      "category": "Survival Phrases",
+      "partOfSpeech": "phrase",
+      "frequency": 60,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ah, jetzt verstehe ich.",
+          "en": "Ah, now I understand."
+        },
+        {
+          "de": "Ich verstehe, danke.",
+          "en": "I see, thank you."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Alles klar, ich ___ jetzt.",
+          "answer": "verstehe",
+          "en": "All right, I understand now."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "💡",
+      "imageable": false,
+      "tags": [
+        "survival"
+      ],
+      "synonyms": [
+        "alles klar"
+      ],
+      "antonyms": [],
+      "related": [
+        "ich-verstehe-nicht"
+      ]
+    },
+    {
+      "id": "koennen-sie-wiederholen",
+      "word": "Können Sie das bitte wiederholen?",
+      "lemma": "Können Sie das bitte wiederholen",
+      "translation": "Could you repeat that, please?",
+      "translations": [
+        "Could you repeat that, please?"
+      ],
+      "level": "A0",
+      "category": "Survival Phrases",
+      "partOfSpeech": "phrase",
+      "frequency": 40,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Entschuldigung, können Sie das bitte wiederholen?",
+          "en": "Sorry, could you repeat that, please?"
+        },
+        {
+          "de": "Können Sie das bitte noch einmal wiederholen?",
+          "en": "Could you please repeat that once more?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Das ging zu schnell. Können Sie das bitte ___?",
+          "answer": "wiederholen",
+          "en": "That was too fast. Could you repeat that, please?"
+        }
+      ],
+      "notes": "With friends use the du form: 'Kannst du das bitte wiederholen?'",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🔁",
+      "imageable": false,
+      "tags": [
+        "survival",
+        "essential"
+      ],
+      "synonyms": [
+        "Wie bitte?"
+      ],
+      "antonyms": [],
+      "related": [
+        "wie-bitte",
+        "langsamer-sprechen"
+      ]
+    },
+    {
+      "id": "langsamer-sprechen",
+      "word": "Können Sie bitte langsamer sprechen?",
+      "lemma": "Können Sie bitte langsamer sprechen",
+      "translation": "Could you speak more slowly, please?",
+      "translations": [
+        "Could you speak more slowly, please?"
+      ],
+      "level": "A0",
+      "category": "Survival Phrases",
+      "partOfSpeech": "phrase",
+      "frequency": 45,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Können Sie bitte langsamer sprechen? Ich lerne noch Deutsch.",
+          "en": "Could you speak more slowly, please? I'm still learning German."
+        },
+        {
+          "de": "Bitte sprechen Sie etwas langsamer.",
+          "en": "Please speak a little more slowly."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Können Sie bitte ___ sprechen?",
+          "answer": "langsamer",
+          "en": "Could you speak more slowly, please?"
+        }
+      ],
+      "notes": "Germans genuinely speak fast. Saying this early in a conversation saves a lot of confusion later.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🐢",
+      "imageable": false,
+      "tags": [
+        "survival",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "koennen-sie-wiederholen"
+      ]
+    },
+    {
+      "id": "sprechen-sie-englisch",
+      "word": "Sprechen Sie Englisch?",
+      "lemma": "Sprechen Sie Englisch",
+      "translation": "Do you speak English?",
+      "translations": [
+        "Do you speak English?"
+      ],
+      "level": "A0",
+      "category": "Survival Phrases",
+      "partOfSpeech": "phrase",
+      "frequency": 35,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Entschuldigung, sprechen Sie Englisch?",
+          "en": "Excuse me, do you speak English?"
+        },
+        {
+          "de": "Spricht hier jemand Englisch?",
+          "en": "Does anyone here speak English?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Entschuldigung, ___ Sie Englisch?",
+          "answer": "sprechen",
+          "en": "Excuse me, do you speak English?"
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Most Germans under 40 speak decent English, but at the Bürgeramt, with older tradespeople and in rural areas, expect German only. Trying in German first is always appreciated.",
+      "emoji": "🇬🇧",
+      "imageable": false,
+      "tags": [
+        "survival",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "ich-spreche-wenig-deutsch"
+      ]
+    },
+    {
+      "id": "ich-spreche-wenig-deutsch",
+      "word": "Ich spreche nur wenig Deutsch.",
+      "lemma": "Ich spreche nur wenig Deutsch",
+      "translation": "I only speak a little German.",
+      "translations": [
+        "I only speak a little German."
+      ],
+      "level": "A0",
+      "category": "Survival Phrases",
+      "partOfSpeech": "phrase",
+      "frequency": 38,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich spreche nur wenig Deutsch, bitte langsam.",
+          "en": "I only speak a little German, slowly please."
+        },
+        {
+          "de": "Mein Deutsch ist noch nicht gut.",
+          "en": "My German isn't good yet."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich spreche nur ___ Deutsch.",
+          "answer": "wenig",
+          "en": "I only speak a little German."
+        }
+      ],
+      "notes": "Saying this up front makes people slow down and simplify. It works far better than staying silent.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🗣️",
+      "imageable": false,
+      "tags": [
+        "survival",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "ich-lerne-deutsch"
+      ]
+    },
+    {
+      "id": "ich-lerne-deutsch",
+      "word": "Ich lerne Deutsch.",
+      "lemma": "Ich lerne Deutsch",
+      "translation": "I'm learning German.",
+      "translations": [
+        "I'm learning German."
+      ],
+      "level": "A0",
+      "category": "Survival Phrases",
+      "partOfSpeech": "phrase",
+      "frequency": 80,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich lerne seit drei Monaten Deutsch.",
+          "en": "I've been learning German for three months."
+        },
+        {
+          "de": "Ich lerne Deutsch, aber es ist schwer.",
+          "en": "I'm learning German, but it's hard."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich ___ seit einem Jahr Deutsch.",
+          "answer": "lerne",
+          "en": "I've been learning German for a year."
+        }
+      ],
+      "notes": "Note German uses the present tense with seit for something still going on: 'Ich lerne seit drei Monaten' = 'I have been learning for three months'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "📚",
+      "imageable": false,
+      "tags": [
+        "survival"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "ich-spreche-wenig-deutsch"
+      ]
+    },
+    {
+      "id": "wie-bitte",
+      "word": "Wie bitte?",
+      "lemma": "Wie bitte",
+      "translation": "Sorry?",
+      "translations": [
+        "Sorry?",
+        "Pardon?"
+      ],
+      "level": "A0",
+      "category": "Survival Phrases",
+      "partOfSpeech": "phrase",
+      "frequency": 30,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Wie bitte? Das habe ich nicht verstanden.",
+          "en": "Sorry? I didn't catch that."
+        },
+        {
+          "de": "Wie bitte? Können Sie lauter sprechen?",
+          "en": "Pardon? Could you speak up?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ bitte? Ich habe Sie nicht gehört.",
+          "answer": "Wie",
+          "en": "Pardon? I didn't hear you."
+        }
+      ],
+      "notes": "The standard polite 'I didn't catch that'. Saying just 'Was?' sounds rude to strangers.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "❓",
+      "imageable": false,
+      "tags": [
+        "survival",
+        "essential"
+      ],
+      "synonyms": [
+        "Entschuldigung?"
+      ],
+      "antonyms": [],
+      "related": [
+        "koennen-sie-wiederholen"
+      ]
+    },
+    {
+      "id": "was-bedeutet",
+      "word": "Was bedeutet das?",
+      "lemma": "Was bedeutet das",
+      "translation": "What does that mean?",
+      "translations": [
+        "What does that mean?"
+      ],
+      "level": "A0",
+      "category": "Survival Phrases",
+      "partOfSpeech": "phrase",
+      "frequency": 55,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Was bedeutet dieses Wort?",
+          "en": "What does this word mean?"
+        },
+        {
+          "de": "Entschuldigung, was bedeutet 'Anmeldung'?",
+          "en": "Excuse me, what does 'Anmeldung' mean?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Was ___ dieses Wort?",
+          "answer": "bedeutet",
+          "en": "What does this word mean?"
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "📖",
+      "imageable": false,
+      "tags": [
+        "survival",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "wie-sagt-man"
+      ]
+    },
+    {
+      "id": "wie-sagt-man",
+      "word": "Wie sagt man das auf Deutsch?",
+      "lemma": "Wie sagt man das auf Deutsch",
+      "translation": "How do you say that in German?",
+      "translations": [
+        "How do you say that in German?"
+      ],
+      "level": "A0",
+      "category": "Survival Phrases",
+      "partOfSpeech": "phrase",
+      "frequency": 65,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Wie sagt man das auf Deutsch?",
+          "en": "How do you say that in German?"
+        },
+        {
+          "de": "Wie sagt man das noch mal?",
+          "en": "How do you say that again?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wie ___ man das auf Deutsch?",
+          "answer": "sagt",
+          "en": "How do you say that in German?"
+        }
+      ],
+      "notes": "'man' here means 'one / people in general' — it is not the word for a male person.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "💬",
+      "imageable": false,
+      "tags": [
+        "survival",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "was-bedeutet",
+        "wie-schreibt-man"
+      ]
+    },
+    {
+      "id": "wie-schreibt-man",
+      "word": "Wie schreibt man das?",
+      "lemma": "Wie schreibt man das",
+      "translation": "How do you spell that?",
+      "translations": [
+        "How do you spell that?",
+        "How is that written?"
+      ],
+      "level": "A0",
+      "category": "Survival Phrases",
+      "partOfSpeech": "phrase",
+      "frequency": 120,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Wie schreibt man Ihren Namen?",
+          "en": "How do you spell your name?"
+        },
+        {
+          "de": "Können Sie das buchstabieren?",
+          "en": "Can you spell that?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wie ___ man das?",
+          "answer": "schreibt",
+          "en": "How do you spell that?"
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "You will be asked to spell your name constantly. Learning the German alphabet pays for itself in the first week.",
+      "emoji": "✍️",
+      "imageable": false,
+      "tags": [
+        "survival"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "wie-sagt-man"
+      ]
+    },
+    {
+      "id": "ich-suche",
+      "word": "Ich suche …",
+      "lemma": "Ich suche",
+      "translation": "I'm looking for …",
+      "translations": [
+        "I'm looking for …"
+      ],
+      "level": "A0",
+      "category": "Survival Phrases",
+      "partOfSpeech": "phrase",
+      "frequency": 85,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich suche die Bushaltestelle.",
+          "en": "I'm looking for the bus stop."
+        },
+        {
+          "de": "Ich suche eine Wohnung in Berlin.",
+          "en": "I'm looking for a flat in Berlin."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich ___ den Hauptbahnhof.",
+          "answer": "suche",
+          "en": "I'm looking for the main station."
+        }
+      ],
+      "notes": "suchen takes a direct object with no preposition — 'Ich suche die Post', never 'suche für'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🔍",
+      "imageable": false,
+      "tags": [
+        "survival",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "wo-ist",
+        "ich-brauche"
+      ]
+    },
+    {
+      "id": "ich-brauche",
+      "word": "Ich brauche …",
+      "lemma": "Ich brauche",
+      "translation": "I need …",
+      "translations": [
+        "I need …"
+      ],
+      "level": "A0",
+      "category": "Survival Phrases",
+      "partOfSpeech": "phrase",
+      "frequency": 50,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich brauche einen Termin.",
+          "en": "I need an appointment."
+        },
+        {
+          "de": "Ich brauche Hilfe.",
+          "en": "I need help."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich ___ einen Arzt.",
+          "answer": "brauche",
+          "en": "I need a doctor."
+        }
+      ],
+      "notes": "brauchen takes the accusative: 'Ich brauche einen Termin' (not 'ein Termin').",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🙏",
+      "imageable": false,
+      "tags": [
+        "survival",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "ich-haette-gern",
+        "ich-moechte"
+      ]
+    },
+    {
+      "id": "ich-moechte",
+      "word": "Ich möchte …",
+      "lemma": "Ich möchte",
+      "translation": "I would like …",
+      "translations": [
+        "I would like …"
+      ],
+      "level": "A0",
+      "category": "Survival Phrases",
+      "partOfSpeech": "phrase",
+      "frequency": 26,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich möchte einen Termin vereinbaren.",
+          "en": "I would like to make an appointment."
+        },
+        {
+          "de": "Ich möchte bitte zahlen.",
+          "en": "I'd like to pay, please."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich ___ mich anmelden.",
+          "answer": "möchte",
+          "en": "I would like to register."
+        }
+      ],
+      "notes": "When a second verb follows, it goes to the end in the infinitive: 'Ich möchte einen Termin vereinbaren.'",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🙋",
+      "imageable": false,
+      "tags": [
+        "survival",
+        "essential",
+        "polite"
+      ],
+      "synonyms": [
+        "Ich hätte gern"
+      ],
+      "antonyms": [],
+      "related": [
+        "ich-haette-gern"
+      ]
+    },
+    {
+      "id": "was-kostet-das",
+      "word": "Was kostet das?",
+      "lemma": "Was kostet das",
+      "translation": "How much does that cost?",
+      "translations": [
+        "How much does that cost?"
+      ],
+      "level": "A0",
+      "category": "Survival Phrases",
+      "partOfSpeech": "phrase",
+      "frequency": 48,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Entschuldigung, was kostet das?",
+          "en": "Excuse me, how much is this?"
+        },
+        {
+          "de": "Wie viel kostet die Fahrkarte?",
+          "en": "How much does the ticket cost?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Was ___ das?",
+          "answer": "kostet",
+          "en": "How much does that cost?"
+        }
+      ],
+      "notes": "'Wie viel kostet das?' means the same thing and is equally common.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "💶",
+      "imageable": false,
+      "tags": [
+        "survival",
+        "essential",
+        "shopping"
+      ],
+      "synonyms": [
+        "Wie viel kostet das?"
+      ],
+      "antonyms": [],
+      "related": [
+        "ich-moechte-zahlen"
+      ]
+    },
+    {
+      "id": "rufen-sie-die-polizei",
+      "word": "Rufen Sie die Polizei!",
+      "lemma": "Rufen Sie die Polizei",
+      "translation": "Call the police!",
+      "translations": [
+        "Call the police!"
+      ],
+      "level": "A0",
+      "category": "Survival Phrases",
+      "partOfSpeech": "phrase",
+      "frequency": 200,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Rufen Sie bitte die Polizei!",
+          "en": "Please call the police!"
+        },
+        {
+          "de": "Ich habe die Polizei gerufen.",
+          "en": "I called the police."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Bitte ___ Sie die Polizei!",
+          "answer": "rufen",
+          "en": "Please call the police!"
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Police is 110. Never call 110 for a medical problem — that is 112.",
+      "emoji": "👮",
+      "imageable": false,
+      "tags": [
+        "survival",
+        "emergency"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "notfall",
+        "rufen-sie-einen-krankenwagen"
+      ]
+    },
+    {
+      "id": "ich-fuehle-mich-nicht-gut",
+      "word": "Ich fühle mich nicht gut.",
+      "lemma": "Ich fühle mich nicht gut",
+      "translation": "I don't feel well.",
+      "translations": [
+        "I don't feel well."
+      ],
+      "level": "A0",
+      "category": "Survival Phrases",
+      "partOfSpeech": "phrase",
+      "frequency": 160,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich fühle mich nicht gut, ich gehe nach Hause.",
+          "en": "I don't feel well, I'm going home."
+        },
+        {
+          "de": "Mir ist schlecht.",
+          "en": "I feel sick."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich ___ mich heute nicht gut.",
+          "answer": "fühle",
+          "en": "I don't feel well today."
+        }
+      ],
+      "notes": "'Mir ist schlecht' specifically means nauseous. 'Ich fühle mich nicht gut' is general.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🤒",
+      "imageable": false,
+      "tags": [
+        "survival",
+        "health"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "ich-bin-allergisch"
+      ]
+    },
+    {
+      "id": "ich-bin-allergisch",
+      "word": "Ich bin allergisch gegen …",
+      "lemma": "Ich bin allergisch gegen",
+      "translation": "I'm allergic to …",
+      "translations": [
+        "I'm allergic to …"
+      ],
+      "level": "A1",
+      "category": "Survival Phrases",
+      "partOfSpeech": "phrase",
+      "frequency": 230,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich bin allergisch gegen Nüsse.",
+          "en": "I'm allergic to nuts."
+        },
+        {
+          "de": "Mein Sohn ist allergisch gegen Milch.",
+          "en": "My son is allergic to milk."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich bin allergisch ___ Erdnüsse.",
+          "answer": "gegen",
+          "en": "I'm allergic to peanuts."
+        }
+      ],
+      "notes": "Always 'allergisch gegen' + accusative. Worth memorising before you eat out.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "⚠️",
+      "imageable": false,
+      "tags": [
+        "survival",
+        "health",
+        "restaurant"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "ich-fuehle-mich-nicht-gut"
+      ]
+    },
+    {
+      "id": "ich-habe-verloren",
+      "word": "Ich habe meinen Schlüssel verloren.",
+      "lemma": "Ich habe meinen Schlüssel verloren",
+      "translation": "I've lost my key.",
+      "translations": [
+        "I've lost my key."
+      ],
+      "level": "A1",
+      "category": "Survival Phrases",
+      "partOfSpeech": "phrase",
+      "frequency": 340,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich habe meinen Pass verloren.",
+          "en": "I've lost my passport."
+        },
+        {
+          "de": "Ich habe mein Handy im Zug verloren.",
+          "en": "I lost my phone on the train."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich habe meine Tasche ___.",
+          "answer": "verloren",
+          "en": "I've lost my bag."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Lost property is the Fundbüro. Public transport operators and the Deutsche Bahn each run their own, separate from the city one.",
+      "emoji": "🔑",
+      "imageable": false,
+      "tags": [
+        "survival"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "ich-habe-mich-verlaufen"
+      ]
+    },
+    {
+      "id": "entschuldigung",
+      "word": "Entschuldigung",
+      "lemma": "Entschuldigung",
+      "translation": "excuse me",
+      "translations": [
+        "excuse me",
+        "sorry"
+      ],
+      "level": "A0",
+      "category": "Survival Phrases",
+      "partOfSpeech": "phrase",
+      "frequency": 15,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Entschuldigung, wo ist der Bahnhof?",
+          "en": "Excuse me, where is the station?"
+        },
+        {
+          "de": "Entschuldigung, das war mein Fehler.",
+          "en": "Sorry, that was my mistake."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___, darf ich kurz vorbei?",
+          "answer": "Entschuldigung",
+          "en": "Excuse me, may I get past?"
+        }
+      ],
+      "notes": "Use it both to get someone's attention and to apologise. 'Entschuldigen Sie' is the slightly more formal version.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🙇",
+      "imageable": false,
+      "tags": [
+        "survival",
+        "essential",
+        "polite"
+      ],
+      "synonyms": [
+        "Verzeihung"
+      ],
+      "antonyms": [],
+      "related": [
+        "es-tut-mir-leid"
+      ]
+    },
+    {
+      "id": "es-tut-mir-leid",
+      "word": "Es tut mir leid.",
+      "lemma": "Es tut mir leid",
+      "translation": "I'm sorry.",
+      "translations": [
+        "I'm sorry."
+      ],
+      "level": "A0",
+      "category": "Survival Phrases",
+      "partOfSpeech": "phrase",
+      "frequency": 58,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Es tut mir leid, ich habe das nicht gewusst.",
+          "en": "I'm sorry, I didn't know that."
+        },
+        {
+          "de": "Das tut mir wirklich leid.",
+          "en": "I'm really sorry about that."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Es tut mir ___, ich komme zu spät.",
+          "answer": "leid",
+          "en": "I'm sorry, I'm late."
+        }
+      ],
+      "notes": "For a genuine apology. 'Entschuldigung' is lighter — for bumping into someone.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "😔",
+      "imageable": false,
+      "tags": [
+        "survival",
+        "polite"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "entschuldigung"
+      ]
+    },
+    {
+      "id": "moment-bitte",
+      "word": "Einen Moment, bitte.",
+      "lemma": "Einen Moment bitte",
+      "translation": "One moment, please.",
+      "translations": [
+        "One moment, please."
+      ],
+      "level": "A0",
+      "category": "Survival Phrases",
+      "partOfSpeech": "phrase",
+      "frequency": 150,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Einen Moment bitte, ich suche das Formular.",
+          "en": "One moment please, I'm looking for the form."
+        },
+        {
+          "de": "Moment, ich verstehe das nicht ganz.",
+          "en": "Hold on, I don't quite understand that."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Einen ___ bitte, ich komme sofort.",
+          "answer": "Moment",
+          "en": "One moment please, I'm coming right away."
+        }
+      ],
+      "notes": "Buys you time to think of the next German sentence. Extremely handy.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "⏳",
+      "imageable": false,
+      "tags": [
+        "survival"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    {
+      "id": "alles-klar",
+      "word": "Alles klar.",
+      "lemma": "Alles klar",
+      "translation": "Got it.",
+      "translations": [
+        "Got it.",
+        "All right."
+      ],
+      "level": "A0",
+      "category": "Survival Phrases",
+      "partOfSpeech": "phrase",
+      "frequency": 130,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Alles klar, bis morgen!",
+          "en": "All right, see you tomorrow!"
+        },
+        {
+          "de": "Alles klar? — Ja, alles gut.",
+          "en": "Everything OK? — Yes, all good."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ klar, ich mache das.",
+          "answer": "Alles",
+          "en": "All right, I'll do that."
+        }
+      ],
+      "notes": "Very common informal 'OK'. As a question it means 'Are you all right?'",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "👌",
+      "imageable": false,
+      "tags": [
+        "survival",
+        "informal"
+      ],
+      "synonyms": [
+        "okay"
+      ],
+      "antonyms": [],
+      "related": [
+        "kein-problem"
+      ]
+    },
+    {
+      "id": "kein-problem",
+      "word": "Kein Problem.",
+      "lemma": "Kein Problem",
+      "translation": "No problem.",
+      "translations": [
+        "No problem."
+      ],
+      "level": "A0",
+      "category": "Survival Phrases",
+      "partOfSpeech": "phrase",
+      "frequency": 135,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Kein Problem, das mache ich gern.",
+          "en": "No problem, I'm happy to do it."
+        },
+        {
+          "de": "Danke! — Kein Problem.",
+          "en": "Thanks! — No problem."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ Problem, ich helfe dir.",
+          "answer": "Kein",
+          "en": "No problem, I'll help you."
+        }
+      ],
+      "notes": "kein negates a noun. 'Problem' is neuter, so it's 'kein Problem'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "👍",
+      "imageable": false,
+      "tags": [
+        "survival"
+      ],
+      "synonyms": [
+        "Gern geschehen"
+      ],
+      "antonyms": [],
+      "related": [
+        "alles-klar"
+      ]
+    },
+    {
+      "id": "ich-weiss-nicht",
+      "word": "Ich weiß nicht.",
+      "lemma": "Ich weiß nicht",
+      "translation": "I don't know.",
+      "translations": [
+        "I don't know."
+      ],
+      "level": "A0",
+      "category": "Survival Phrases",
+      "partOfSpeech": "phrase",
+      "frequency": 62,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich weiß nicht, wo das ist.",
+          "en": "I don't know where that is."
+        },
+        {
+          "de": "Das weiß ich leider nicht.",
+          "en": "Unfortunately I don't know that."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich ___ nicht, wann der Bus kommt.",
+          "answer": "weiß",
+          "en": "I don't know when the bus comes."
+        }
+      ],
+      "notes": "wissen is for facts; kennen is for being familiar with a person or place.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🤔",
+      "imageable": false,
+      "tags": [
+        "survival",
+        "essential"
+      ],
+      "synonyms": [
+        "Keine Ahnung"
+      ],
+      "antonyms": [],
+      "related": [
+        "ich-verstehe-nicht"
+      ]
+    },
+    {
+      "id": "ist-hier-frei",
+      "word": "Ist hier frei?",
+      "lemma": "Ist hier frei",
+      "translation": "Is this seat taken?",
+      "translations": [
+        "Is this seat taken?",
+        "Is this free?"
+      ],
+      "level": "A1",
+      "category": "Survival Phrases",
+      "partOfSpeech": "phrase",
+      "frequency": 310,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Entschuldigung, ist hier noch frei?",
+          "en": "Excuse me, is this seat still free?"
+        },
+        {
+          "de": "Ist der Platz frei?",
+          "en": "Is this seat free?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Entschuldigung, ist hier noch ___?",
+          "answer": "frei",
+          "en": "Excuse me, is this still free?"
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Asked constantly on trains and in busy cafés, where sharing a table with strangers is completely normal.",
+      "emoji": "💺",
+      "imageable": false,
+      "tags": [
+        "survival",
+        "transport"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "darf-ich"
+      ]
+    },
+    {
+      "id": "darf-ich",
+      "word": "Darf ich …?",
+      "lemma": "Darf ich",
+      "translation": "May I …?",
+      "translations": [
+        "May I …?"
+      ],
+      "level": "A1",
+      "category": "Survival Phrases",
+      "partOfSpeech": "phrase",
+      "frequency": 180,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Darf ich hier sitzen?",
+          "en": "May I sit here?"
+        },
+        {
+          "de": "Darf ich Sie etwas fragen?",
+          "en": "May I ask you something?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ ich hier rauchen?",
+          "answer": "Darf",
+          "en": "May I smoke here?"
+        }
+      ],
+      "notes": "dürfen is about permission. kann is about ability — mixing them up is a classic error.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🙋",
+      "imageable": false,
+      "tags": [
+        "survival",
+        "polite"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "ist-hier-frei"
+      ]
+    },
+    {
+      "id": "haben-sie",
+      "word": "Haben Sie …?",
+      "lemma": "Haben Sie",
+      "translation": "Do you have …?",
+      "translations": [
+        "Do you have …?"
+      ],
+      "level": "A0",
+      "category": "Survival Phrases",
+      "partOfSpeech": "phrase",
+      "frequency": 95,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Haben Sie das auch in Größe M?",
+          "en": "Do you have this in size M too?"
+        },
+        {
+          "de": "Haben Sie einen Termin frei?",
+          "en": "Do you have an appointment available?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ Sie das auch in Blau?",
+          "answer": "Haben",
+          "en": "Do you have this in blue as well?"
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🛍️",
+      "imageable": false,
+      "tags": [
+        "survival",
+        "shopping"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "gibt-es-hier"
+      ]
+    },
+    {
+      "id": "gibt-es-hier",
+      "word": "Gibt es hier …?",
+      "lemma": "Gibt es hier",
+      "translation": "Is there … here?",
+      "translations": [
+        "Is there … here?"
+      ],
+      "level": "A1",
+      "category": "Survival Phrases",
+      "partOfSpeech": "phrase",
+      "frequency": 190,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Gibt es hier in der Nähe einen Supermarkt?",
+          "en": "Is there a supermarket nearby?"
+        },
+        {
+          "de": "Gibt es hier WLAN?",
+          "en": "Is there wifi here?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ es hier eine Apotheke?",
+          "answer": "Gibt",
+          "en": "Is there a pharmacy here?"
+        }
+      ],
+      "notes": "'es gibt' is always followed by the accusative: 'Gibt es hier einen Supermarkt?'",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🏪",
+      "imageable": false,
+      "tags": [
+        "survival"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "haben-sie",
+        "wo-ist"
+      ]
+    },
+    {
+      "id": "wo-kann-ich",
+      "word": "Wo kann ich …?",
+      "lemma": "Wo kann ich",
+      "translation": "Where can I …?",
+      "translations": [
+        "Where can I …?"
+      ],
+      "level": "A1",
+      "category": "Survival Phrases",
+      "partOfSpeech": "phrase",
+      "frequency": 220,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Wo kann ich eine Fahrkarte kaufen?",
+          "en": "Where can I buy a ticket?"
+        },
+        {
+          "de": "Wo kann ich hier Geld abheben?",
+          "en": "Where can I withdraw money here?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wo ___ ich hier parken?",
+          "answer": "kann",
+          "en": "Where can I park here?"
+        }
+      ],
+      "notes": "The second verb goes to the very end: 'Wo kann ich eine Fahrkarte kaufen?'",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "❓",
+      "imageable": false,
+      "tags": [
+        "survival"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "gibt-es-hier"
+      ]
+    },
+    {
+      "id": "ich-bin-neu-hier",
+      "word": "Ich bin neu hier.",
+      "lemma": "Ich bin neu hier",
+      "translation": "I'm new here.",
+      "translations": [
+        "I'm new here."
+      ],
+      "level": "A0",
+      "category": "Survival Phrases",
+      "partOfSpeech": "phrase",
+      "frequency": 280,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich bin neu hier und kenne die Stadt noch nicht.",
+          "en": "I'm new here and don't know the city yet."
+        },
+        {
+          "de": "Ich bin neu in Deutschland.",
+          "en": "I'm new to Germany."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich bin ___ hier, können Sie mir helfen?",
+          "answer": "neu",
+          "en": "I'm new here, can you help me?"
+        }
+      ],
+      "notes": "Explains your German and gets you more patience. Worth saying early.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🆕",
+      "imageable": false,
+      "tags": [
+        "survival"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "ich-spreche-wenig-deutsch"
+      ]
+    },
+    {
+      "id": "ich-komme-aus",
+      "word": "Ich komme aus der Türkei.",
+      "lemma": "Ich komme aus der Türkei",
+      "translation": "I'm from Turkey.",
+      "translations": [
+        "I'm from Turkey."
+      ],
+      "level": "A0",
+      "category": "Survival Phrases",
+      "partOfSpeech": "phrase",
+      "frequency": 100,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich komme aus der Türkei, aus Istanbul.",
+          "en": "I'm from Turkey, from Istanbul."
+        },
+        {
+          "de": "Woher kommen Sie? — Ich komme aus Deutschland.",
+          "en": "Where are you from? — I'm from Germany."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich ___ aus der Türkei.",
+          "answer": "komme",
+          "en": "I'm from Turkey."
+        }
+      ],
+      "notes": "Most countries take no article (aus Deutschland, aus Spanien), but a few do: aus der Türkei, aus der Schweiz, aus den USA.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🌍",
+      "imageable": false,
+      "tags": [
+        "survival",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "ich-heisse"
+      ]
+    },
+    {
+      "id": "ich-heisse",
+      "word": "Ich heiße …",
+      "lemma": "Ich heiße",
+      "translation": "My name is …",
+      "translations": [
+        "My name is …"
+      ],
+      "level": "A0",
+      "category": "Survival Phrases",
+      "partOfSpeech": "phrase",
+      "frequency": 33,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Guten Tag, ich heiße Emre.",
+          "en": "Hello, my name is Emre."
+        },
+        {
+          "de": "Wie heißen Sie? — Ich heiße Müller.",
+          "en": "What's your name? — My name is Müller."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich ___ Emre. Und Sie?",
+          "answer": "heiße",
+          "en": "My name is Emre. And you?"
+        }
+      ],
+      "notes": "'Mein Name ist…' is also correct and slightly more formal.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🪪",
+      "imageable": false,
+      "tags": [
+        "survival",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "ich-komme-aus"
+      ]
+    },
+    {
+      "id": "ich-moechte-zahlen",
+      "word": "Ich möchte zahlen, bitte.",
+      "lemma": "Ich möchte zahlen bitte",
+      "translation": "I'd like to pay, please.",
+      "translations": [
+        "I'd like to pay, please."
+      ],
+      "level": "A1",
+      "category": "Survival Phrases",
+      "partOfSpeech": "phrase",
+      "frequency": 170,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Entschuldigung, ich möchte zahlen.",
+          "en": "Excuse me, I'd like to pay."
+        },
+        {
+          "de": "Wir möchten bitte zahlen.",
+          "en": "We'd like to pay, please."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich möchte bitte ___.",
+          "answer": "zahlen",
+          "en": "I'd like to pay, please."
+        }
+      ],
+      "notes": "Just 'Zahlen, bitte!' also works and is very common.",
+      "mnemonic": null,
+      "germany_context": "In restaurants you pay at the table, not at a till. The waiter will ask 'Zusammen oder getrennt?' — together or separately. Splitting is completely normal.",
+      "emoji": "💳",
+      "imageable": false,
+      "tags": [
+        "survival",
+        "restaurant"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "was-kostet-das",
+        "nur-bargeld"
+      ]
+    },
+    {
+      "id": "nur-bargeld",
+      "word": "Kann ich mit Karte zahlen?",
+      "lemma": "Kann ich mit Karte zahlen",
+      "translation": "Can I pay by card?",
+      "translations": [
+        "Can I pay by card?"
+      ],
+      "level": "A1",
+      "category": "Survival Phrases",
+      "partOfSpeech": "phrase",
+      "frequency": 195,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Kann ich mit Karte zahlen? — Nein, nur Bargeld.",
+          "en": "Can I pay by card? — No, cash only."
+        },
+        {
+          "de": "Nehmen Sie Kreditkarten?",
+          "en": "Do you take credit cards?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Kann ich mit ___ zahlen?",
+          "answer": "Karte",
+          "en": "Can I pay by card?"
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Germany is still surprisingly cash-heavy. Many bakeries, bars, small restaurants and even doctors are 'nur Bargeld'. Always carry some cash, and note that a German EC-Karte is accepted far more widely than a foreign credit card.",
+      "emoji": "💶",
+      "imageable": false,
+      "tags": [
+        "survival",
+        "shopping",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "ich-moechte-zahlen"
+      ]
+    },
+    {
+      "id": "ich-habe-einen-termin",
+      "word": "Ich habe einen Termin.",
+      "lemma": "Ich habe einen Termin",
+      "translation": "I have an appointment.",
+      "translations": [
+        "I have an appointment."
+      ],
+      "level": "A1",
+      "category": "Survival Phrases",
+      "partOfSpeech": "phrase",
+      "frequency": 175,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Guten Tag, ich habe einen Termin um zehn Uhr.",
+          "en": "Hello, I have an appointment at ten o'clock."
+        },
+        {
+          "de": "Ich möchte einen Termin vereinbaren.",
+          "en": "I'd like to make an appointment."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich habe einen ___ um 14 Uhr.",
+          "answer": "Termin",
+          "en": "I have an appointment at 2 pm."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "'Haben Sie einen Termin?' is the first thing you'll be asked at almost any German office, doctor or bank. Walk-ins are often refused outright — book online well in advance.",
+      "emoji": "📅",
+      "imageable": false,
+      "tags": [
+        "survival",
+        "bureaucracy",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "ich-moechte"
+      ]
+    },
+    {
+      "id": "lassen-sie-mich-in-ruhe",
+      "word": "Lassen Sie mich bitte in Ruhe.",
+      "lemma": "Lassen Sie mich bitte in Ruhe",
+      "translation": "Please leave me alone.",
+      "translations": [
+        "Please leave me alone."
+      ],
+      "level": "A1",
+      "category": "Survival Phrases",
+      "partOfSpeech": "phrase",
+      "frequency": 400,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Lassen Sie mich bitte in Ruhe!",
+          "en": "Please leave me alone!"
+        },
+        {
+          "de": "Bitte gehen Sie weg.",
+          "en": "Please go away."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Lassen Sie mich bitte in ___!",
+          "answer": "Ruhe",
+          "en": "Please leave me alone!"
+        }
+      ],
+      "notes": "Said firmly, this is understood immediately. Worth knowing even if you hope never to use it.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🛑",
+      "imageable": false,
+      "tags": [
+        "survival",
+        "emergency"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "hilfe"
+      ]
+    },
+    {
+      "id": "das-ist-alles",
+      "word": "Das ist alles, danke.",
+      "lemma": "Das ist alles danke",
+      "translation": "That's all, thank you.",
+      "translations": [
+        "That's all, thank you."
+      ],
+      "level": "A0",
+      "category": "Survival Phrases",
+      "partOfSpeech": "phrase",
+      "frequency": 240,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Das ist alles, danke schön.",
+          "en": "That's all, thank you."
+        },
+        {
+          "de": "Sonst noch etwas? — Nein, das ist alles.",
+          "en": "Anything else? — No, that's all."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Nein danke, das ist ___.",
+          "answer": "alles",
+          "en": "No thanks, that's all."
+        }
+      ],
+      "notes": "The natural answer to 'Sonst noch etwas?' at any counter.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🧾",
+      "imageable": false,
+      "tags": [
+        "survival",
+        "shopping"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "was-kostet-das"
+      ]
+    },
+    {
+      "id": "koennen-sie-das-aufschreiben",
+      "word": "Können Sie das bitte aufschreiben?",
+      "lemma": "Können Sie das bitte aufschreiben",
+      "translation": "Could you write that down, please?",
+      "translations": [
+        "Could you write that down, please?"
+      ],
+      "level": "A1",
+      "category": "Survival Phrases",
+      "partOfSpeech": "phrase",
+      "frequency": 380,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Können Sie mir das bitte aufschreiben?",
+          "en": "Could you write that down for me, please?"
+        },
+        {
+          "de": "Schreiben Sie bitte die Adresse auf.",
+          "en": "Please write down the address."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Können Sie das bitte ___?",
+          "answer": "aufschreiben",
+          "en": "Could you write that down, please?"
+        }
+      ],
+      "notes": "aufschreiben is separable: 'Schreiben Sie das bitte auf.' Reading German is much easier than hearing it, so this rescues a lot of conversations.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "📝",
+      "imageable": false,
+      "tags": [
+        "survival"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "wie-schreibt-man"
+      ]
+    },
+    {
+      "id": "wie-spaet-ist-es",
+      "word": "Wie spät ist es?",
+      "lemma": "Wie spät ist es",
+      "translation": "What time is it?",
+      "translations": [
+        "What time is it?"
+      ],
+      "level": "A0",
+      "category": "Survival Phrases",
+      "partOfSpeech": "phrase",
+      "frequency": 110,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Entschuldigung, wie spät ist es?",
+          "en": "Excuse me, what time is it?"
+        },
+        {
+          "de": "Wie viel Uhr ist es?",
+          "en": "What time is it?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Entschuldigung, wie ___ ist es?",
+          "answer": "spät",
+          "en": "Excuse me, what time is it?"
+        }
+      ],
+      "notes": "'Wie viel Uhr ist es?' means the same. Careful with the answer: 'halb drei' is 2:30, not 3:30.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🕐",
+      "imageable": false,
+      "tags": [
+        "survival",
+        "time"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    }
+  ]
+}

@@ -1,0 +1,455 @@
+{
+  "category": "Conjunctions & Connectors",
+  "words": [
+    {
+      "id": "seitdem",
+      "word": "seitdem",
+      "lemma": "seitdem",
+      "translation": "since then",
+      "translations": ["since then", "ever since", "since"],
+      "level": "A2",
+      "category": "Conjunctions & Connectors",
+      "partOfSpeech": "conjunction",
+      "frequency": 1150,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Seitdem ich in München wohne, fahre ich jeden Tag mit der U-Bahn.",
+          "en": "Since I have been living in Munich, I take the subway every day."
+        },
+        {
+          "de": "Wir haben uns letztes Jahr kennengelernt und seitdem schreiben wir uns fast täglich.",
+          "en": "We met last year and we have been writing to each other almost daily ever since."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ er den Sprachkurs besucht, versteht er die Briefe vom Amt.",
+          "answer": "Seitdem",
+          "en": "Since he has been attending the language course, he understands the letters from the authorities."
+        }
+      ],
+      "notes": "Two jobs, two word orders. As a subordinating conjunction it sends the conjugated verb to the end of its clause: 'Seitdem ich hier arbeite, ...'. As an adverb in first position it causes inversion: 'Seitdem verstehe ich mehr.' Use 'seit' with a bare time phrase (seit zwei Jahren), 'seitdem' when a whole clause follows.",
+      "mnemonic": "seit + dem = 'since that moment'.",
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": ["connector", "subordinating", "time"],
+      "synonyms": ["seit"],
+      "antonyms": [],
+      "related": ["seit", "sobald", "nachdem", "bevor"]
+    },
+    {
+      "id": "sodass",
+      "word": "sodass",
+      "lemma": "sodass",
+      "translation": "so that",
+      "translations": ["so that", "with the result that"],
+      "level": "A2",
+      "category": "Conjunctions & Connectors",
+      "partOfSpeech": "conjunction",
+      "frequency": 1300,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Zug hatte Verspätung, sodass ich zu spät zur Arbeit kam.",
+          "en": "The train was delayed, so that I got to work late."
+        },
+        {
+          "de": "Bitte sprich langsam, sodass ich dich verstehen kann.",
+          "en": "Please speak slowly so that I can understand you."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Die Wohnung liegt sehr zentral, ___ wir kein Auto brauchen.",
+          "answer": "sodass",
+          "en": "The apartment is very central, so that we do not need a car."
+        }
+      ],
+      "notes": "Subordinating — the conjugated verb goes to the very end of the clause. It gives the result of something ('and as a result'), while 'damit' gives the intention behind it. Both spellings 'sodass' and 'so dass' are correct.",
+      "mnemonic": "so + dass = 'so … that'.",
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": ["connector", "subordinating", "cause"],
+      "synonyms": [],
+      "antonyms": [],
+      "related": ["damit", "deshalb", "also", "dass"]
+    },
+    {
+      "id": "indem",
+      "word": "indem",
+      "lemma": "indem",
+      "translation": "by doing",
+      "translations": ["by doing", "by", "in that"],
+      "level": "A2",
+      "category": "Conjunctions & Connectors",
+      "partOfSpeech": "conjunction",
+      "frequency": 1500,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Man spart viel Geld, indem man selbst kocht.",
+          "en": "You save a lot of money by cooking yourself."
+        },
+        {
+          "de": "Ich lerne Deutsch, indem ich jeden Abend Nachrichten höre.",
+          "en": "I learn German by listening to the news every evening."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Sie hat den Termin bekommen, ___ sie früh am Morgen die Seite aktualisiert hat.",
+          "answer": "indem",
+          "en": "She got the appointment by refreshing the page early in the morning."
+        }
+      ],
+      "notes": "Subordinating — verb to the end. It answers the question 'how?' and matches English 'by doing something'. Written apart, 'in dem' is something else entirely ('in which'), so keep it as one word here.",
+      "mnemonic": "'indem' = 'in the way that' → the method.",
+      "germany_context": "Almost every official step here works exactly this way: you get an appointment by booking online. Bürgeramt and Ausländerbehörde slots are usually released at a fixed time in the morning, so refreshing early is the real method.",
+      "emoji": null,
+      "imageable": false,
+      "tags": ["connector", "subordinating", "manner"],
+      "synonyms": [],
+      "antonyms": [],
+      "related": ["damit", "dass", "um-zu"]
+    },
+    {
+      "id": "als-ob",
+      "word": "als ob",
+      "lemma": "als ob",
+      "translation": "as if",
+      "translations": ["as if", "as though"],
+      "level": "A2",
+      "category": "Conjunctions & Connectors",
+      "partOfSpeech": "conjunction",
+      "frequency": 1600,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Er tut so, als ob er alles verstanden hätte.",
+          "en": "He acts as if he had understood everything."
+        },
+        {
+          "de": "Es sieht aus, als ob es gleich regnen würde.",
+          "en": "It looks as if it were going to rain any moment."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Sie spricht Deutsch, ___ sie hier aufgewachsen wäre.",
+          "answer": "als ob",
+          "en": "She speaks German as if she had grown up here."
+        }
+      ],
+      "notes": "Subordinating — the verb goes right to the end of the clause, normally in Konjunktiv II (wäre, hätte, würde). If you drop 'ob', the verb jumps forward instead: 'als wäre sie hier aufgewachsen.' Often paired with 'so tun': 'Er tut so, als ob …'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": ["connector", "subordinating", "comparison"],
+      "synonyms": ["als wenn"],
+      "antonyms": [],
+      "related": ["als", "ob", "wenn"]
+    },
+    {
+      "id": "dennoch",
+      "word": "dennoch",
+      "lemma": "dennoch",
+      "translation": "nevertheless",
+      "translations": ["nevertheless", "nonetheless", "still"],
+      "level": "A2",
+      "category": "Conjunctions & Connectors",
+      "partOfSpeech": "adverb",
+      "frequency": 1250,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Das Wetter war schlecht, dennoch sind wir spazieren gegangen.",
+          "en": "The weather was bad; nevertheless we went for a walk."
+        },
+        {
+          "de": "Die Wohnung ist klein und teuer, dennoch haben wir sie genommen.",
+          "en": "The apartment is small and expensive; we took it anyway."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Er hatte wenig gelernt und hat die Prüfung ___ bestanden.",
+          "answer": "dennoch",
+          "en": "He had studied little and passed the exam nevertheless."
+        }
+      ],
+      "notes": "An adverbial connector, not a real conjunction: in first position it pulls the verb straight after it (inversion) — 'Dennoch bleibe ich hier.' — and it can also sit in the middle of the sentence, where nothing changes. Same meaning as 'trotzdem', but a shade more formal and more written.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": ["connector", "contrast", "formal"],
+      "synonyms": ["trotzdem"],
+      "antonyms": [],
+      "related": ["trotzdem", "obwohl", "jedoch", "allerdings"]
+    },
+    {
+      "id": "zumindest",
+      "word": "zumindest",
+      "lemma": "zumindest",
+      "translation": "at least",
+      "translations": ["at least", "at any rate"],
+      "level": "A2",
+      "category": "Conjunctions & Connectors",
+      "partOfSpeech": "adverb",
+      "frequency": 1050,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich habe die E-Mail nicht bekommen, zumindest nicht heute.",
+          "en": "I did not get the email, at least not today."
+        },
+        {
+          "de": "Zumindest der Kühlschrank bleibt in der Wohnung.",
+          "en": "At least the fridge stays in the apartment."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Termin hat lange gedauert, aber ___ ist die Anmeldung jetzt fertig.",
+          "answer": "zumindest",
+          "en": "The appointment took a long time, but at least the registration is done now."
+        }
+      ],
+      "notes": "Adverb that limits what you just said. Standing alone in first position it forces inversion ('Zumindest ist es warm.'); when it simply leans on the next word or phrase, the word order does not change at all. For numbers use 'mindestens' instead: 'mindestens zwei Stunden'.",
+      "mnemonic": "zu + mindest = 'to the minimum'.",
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": ["connector", "restriction"],
+      "synonyms": ["wenigstens"],
+      "antonyms": [],
+      "related": ["allerdings", "jedoch"]
+    },
+    {
+      "id": "immerhin",
+      "word": "immerhin",
+      "lemma": "immerhin",
+      "translation": "at least",
+      "translations": ["at least", "after all", "still"],
+      "level": "A2",
+      "category": "Conjunctions & Connectors",
+      "partOfSpeech": "adverb",
+      "frequency": 1450,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Wohnung hat keinen Balkon, aber immerhin einen großen Keller.",
+          "en": "The apartment has no balcony, but at least a big cellar."
+        },
+        {
+          "de": "Es hat lange gedauert, aber immerhin hat es am Ende funktioniert.",
+          "en": "It took a long time, but at least it worked in the end."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Zug war völlig voll, ___ hatte ich einen Sitzplatz.",
+          "answer": "immerhin",
+          "en": "The train was completely full; at least I had a seat."
+        }
+      ],
+      "notes": "Softens bad news: 'at least there is this much'. In first position it triggers inversion ('Immerhin hat es geklappt.'); inside the sentence the word order stays untouched. It can also mean 'after all, don't forget': 'Er ist immerhin dein Chef.'",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": ["connector", "restriction", "spoken"],
+      "synonyms": ["wenigstens", "zumindest"],
+      "antonyms": [],
+      "related": ["trotzdem", "allerdings"]
+    },
+    {
+      "id": "beziehungsweise",
+      "word": "beziehungsweise",
+      "lemma": "beziehungsweise",
+      "translation": "or rather",
+      "translations": ["or rather", "or alternatively", "respectively"],
+      "level": "A2",
+      "category": "Conjunctions & Connectors",
+      "partOfSpeech": "conjunction",
+      "frequency": 1550,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Vertrag gilt für drei Jahre beziehungsweise bis zum Auszug.",
+          "en": "The contract is valid for three years, or rather until you move out."
+        },
+        {
+          "de": "Schreiben Sie uns eine E-Mail beziehungsweise rufen Sie uns an.",
+          "en": "Write us an email or alternatively give us a call."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Die Miete wird monatlich ___ quartalsweise bezahlt.",
+          "answer": "beziehungsweise",
+          "en": "The rent is paid monthly or, alternatively, quarterly."
+        }
+      ],
+      "notes": "Coordinating connector — the word order does not change at all, it just links two items. It means 'or more precisely' or 'or alternatively' and is almost always written as the abbreviation 'bzw.', but read aloud in full.",
+      "mnemonic": "bzw. = 'beziehungsweise' — the abbreviation you will see far more often than the word.",
+      "germany_context": "You will meet 'bzw.' constantly in Behörden letters, rental contracts and job ads. When it separates two options, both usually count as acceptable, so read the whole sentence before you assume something applies to you.",
+      "emoji": null,
+      "imageable": false,
+      "tags": ["connector", "coordinating", "formal", "written"],
+      "synonyms": ["oder"],
+      "antonyms": [],
+      "related": ["oder", "und", "naemlich"]
+    },
+    {
+      "id": "andernfalls",
+      "word": "andernfalls",
+      "lemma": "andernfalls",
+      "translation": "otherwise",
+      "translations": ["otherwise", "if not", "failing that"],
+      "level": "A2",
+      "category": "Conjunctions & Connectors",
+      "partOfSpeech": "adverb",
+      "frequency": 1900,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Bitte zahlen Sie bis Freitag, andernfalls fallen Mahngebühren an.",
+          "en": "Please pay by Friday, otherwise late fees will be charged."
+        },
+        {
+          "de": "Wir brauchen Ihre Unterschrift, andernfalls können wir den Antrag nicht bearbeiten.",
+          "en": "We need your signature, otherwise we cannot process the application."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Kündigen Sie rechtzeitig, ___ verlängert sich der Vertrag automatisch.",
+          "answer": "andernfalls",
+          "en": "Cancel in time, otherwise the contract renews automatically."
+        }
+      ],
+      "notes": "Adverbial connector: in first position the verb follows straight after it ('Andernfalls müssen Sie zahlen.'). It is the formal written twin of 'sonst', which is what people actually say out loud.",
+      "mnemonic": "anderer Fall = 'the other case' → otherwise.",
+      "germany_context": "A warning word in German letters: 'andernfalls' almost always introduces the penalty — a Mahngebühr, an automatic contract renewal or a cancelled appointment. When you see it, note the date and act before it.",
+      "emoji": "⚠️",
+      "imageable": false,
+      "tags": ["connector", "condition", "formal", "bureaucracy"],
+      "synonyms": ["sonst"],
+      "antonyms": [],
+      "related": ["sonst", "falls", "wenn"]
+    },
+    {
+      "id": "es-sei-denn",
+      "word": "es sei denn",
+      "lemma": "es sei denn",
+      "translation": "unless",
+      "translations": ["unless", "except if"],
+      "level": "A2",
+      "category": "Conjunctions & Connectors",
+      "partOfSpeech": "conjunction",
+      "frequency": 1700,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Wir treffen uns um acht, es sei denn, du musst länger arbeiten.",
+          "en": "We will meet at eight, unless you have to work longer."
+        },
+        {
+          "de": "Der Vertrag läuft weiter, es sei denn, Sie kündigen schriftlich.",
+          "en": "The contract continues unless you cancel in writing."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Termin bleibt, ___, Sie sagen ihn rechtzeitig ab.",
+          "answer": "es sei denn",
+          "en": "The appointment stands unless you cancel it in time."
+        }
+      ],
+      "notes": "Word order after it stays like a main clause — verb in second position: 'es sei denn, du kommst später.' It never sends the verb to the end, and it is always set off by commas. The alternative 'außer wenn' does send the verb to the end: 'außer wenn du später kommst'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": ["connector", "condition", "phrase"],
+      "synonyms": ["außer wenn"],
+      "antonyms": [],
+      "related": ["wenn", "falls", "sonst"]
+    }
+  ]
+}

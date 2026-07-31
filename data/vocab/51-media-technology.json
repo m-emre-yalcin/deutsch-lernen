@@ -1,0 +1,3223 @@
+{
+  "category": "Media & Technology",
+  "words": [
+    {
+      "id": "geraet",
+      "word": "das Gerät",
+      "lemma": "Gerät",
+      "translation": "device",
+      "translations": [
+        "device",
+        "appliance",
+        "gadget"
+      ],
+      "level": "A2",
+      "category": "Media & Technology",
+      "partOfSpeech": "noun",
+      "frequency": 780,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Geräte",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Das Gerät ist kaputt und geht nicht mehr an.",
+          "en": "The device is broken and doesn't turn on any more."
+        },
+        {
+          "de": "Wie viele Geräte sind mit deinem WLAN verbunden?",
+          "en": "How many devices are connected to your wifi?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Bitte schalten Sie alle elektronischen ___ aus.",
+          "answer": "Geräte",
+          "en": "Please switch off all electronic devices."
+        }
+      ],
+      "notes": "The umbrella word for anything electrical: phone, laptop, washing machine. Compounds: das Elektrogerät, das Haushaltsgerät.",
+      "mnemonic": null,
+      "germany_context": "Old electrical devices must not go in the household bin. Large electronics shops and the Wertstoffhof take them back for free.",
+      "emoji": "📟",
+      "imageable": true,
+      "tags": [
+        "technik",
+        "geraet"
+      ],
+      "synonyms": [
+        "Apparat"
+      ],
+      "antonyms": [],
+      "related": [
+        "akku",
+        "kabel",
+        "der-computer"
+      ]
+    },
+    {
+      "id": "bildschirm",
+      "word": "der Bildschirm",
+      "lemma": "Bildschirm",
+      "translation": "screen",
+      "translations": [
+        "screen",
+        "display"
+      ],
+      "level": "A2",
+      "category": "Media & Technology",
+      "partOfSpeech": "noun",
+      "frequency": 1150,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Bildschirme",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Mein Bildschirm ist plötzlich schwarz geworden.",
+          "en": "My screen suddenly went black."
+        },
+        {
+          "de": "Sie arbeitet den ganzen Tag vor dem Bildschirm.",
+          "en": "She works in front of a screen all day."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Text auf dem ___ ist viel zu klein.",
+          "answer": "Bildschirm",
+          "en": "The text on the screen is much too small."
+        }
+      ],
+      "notes": "Bildschirm is the display surface, Monitor is the separate device. In everyday speech people use both for the same thing.",
+      "mnemonic": "Bild + Schirm — a 'screen' that pictures appear on.",
+      "germany_context": null,
+      "emoji": "🖥️",
+      "imageable": true,
+      "tags": [
+        "technik",
+        "hardware"
+      ],
+      "synonyms": [
+        "Monitor"
+      ],
+      "antonyms": [],
+      "related": [
+        "monitor",
+        "tastatur",
+        "der-laptop"
+      ]
+    },
+    {
+      "id": "monitor",
+      "word": "der Monitor",
+      "lemma": "Monitor",
+      "translation": "monitor",
+      "translations": [
+        "monitor",
+        "screen"
+      ],
+      "level": "A2",
+      "category": "Media & Technology",
+      "partOfSpeech": "noun",
+      "frequency": 1500,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Monitore",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Im Homeoffice habe ich zwei Monitore.",
+          "en": "I have two monitors in my home office."
+        },
+        {
+          "de": "Der Monitor ist über ein Kabel mit dem Laptop verbunden.",
+          "en": "The monitor is connected to the laptop with a cable."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Können Sie mir bitte einen zweiten ___ bestellen?",
+          "answer": "Monitor",
+          "en": "Could you order me a second monitor, please?"
+        }
+      ],
+      "notes": "Plural: die Monitore. Stress on the first syllable: MO-ni-tor.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🖥️",
+      "imageable": true,
+      "tags": [
+        "technik",
+        "hardware",
+        "buero"
+      ],
+      "synonyms": [
+        "Bildschirm"
+      ],
+      "antonyms": [],
+      "related": [
+        "bildschirm",
+        "kabel"
+      ]
+    },
+    {
+      "id": "tastatur",
+      "word": "die Tastatur",
+      "lemma": "Tastatur",
+      "translation": "keyboard",
+      "translations": [
+        "keyboard"
+      ],
+      "level": "A2",
+      "category": "Media & Technology",
+      "partOfSpeech": "noun",
+      "frequency": 1250,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Tastaturen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Meine Tastatur hat ein deutsches Layout.",
+          "en": "My keyboard has a German layout."
+        },
+        {
+          "de": "An der Tastatur fehlt eine Taste.",
+          "en": "One key is missing from the keyboard."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich suche eine ___ mit türkischen Buchstaben.",
+          "answer": "Tastatur",
+          "en": "I'm looking for a keyboard with Turkish letters."
+        }
+      ],
+      "notes": "From 'die Taste' (key). A single key is die Taste, the whole thing is die Tastatur.",
+      "mnemonic": null,
+      "germany_context": "German keyboards are QWERTZ, not QWERTY: Y and Z are swapped, there are ä, ö, ü and ß keys, and @ is AltGr + Q.",
+      "emoji": "⌨️",
+      "imageable": true,
+      "tags": [
+        "technik",
+        "hardware"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "bildschirm",
+        "eingeben",
+        "klicken"
+      ]
+    },
+    {
+      "id": "kopfhoerer",
+      "word": "der Kopfhörer",
+      "lemma": "Kopfhörer",
+      "translation": "headphones",
+      "translations": [
+        "headphones",
+        "earphones"
+      ],
+      "level": "A2",
+      "category": "Media & Technology",
+      "partOfSpeech": "noun",
+      "frequency": 1350,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Kopfhörer",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich höre den Podcast mit Kopfhörern.",
+          "en": "I listen to the podcast with headphones."
+        },
+        {
+          "de": "Meine Kopfhörer sind schon wieder leer.",
+          "en": "My headphones are out of battery again."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Hast du deinen ___ dabei?",
+          "answer": "Kopfhörer",
+          "en": "Have you got your headphones with you?"
+        }
+      ],
+      "notes": "Usually used in the plural (die Kopfhörer), but the singular der Kopfhörer also means one pair.",
+      "mnemonic": "Kopf + hören — something on your head for hearing.",
+      "germany_context": null,
+      "emoji": "🎧",
+      "imageable": true,
+      "tags": [
+        "technik",
+        "audio"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "lautsprecher",
+        "podcast",
+        "akku"
+      ]
+    },
+    {
+      "id": "lautsprecher",
+      "word": "der Lautsprecher",
+      "lemma": "Lautsprecher",
+      "translation": "loudspeaker",
+      "translations": [
+        "loudspeaker",
+        "speaker"
+      ],
+      "level": "A2",
+      "category": "Media & Technology",
+      "partOfSpeech": "noun",
+      "frequency": 1750,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Lautsprecher",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Lautsprecher ist viel zu leise.",
+          "en": "The speaker is much too quiet."
+        },
+        {
+          "de": "Stell den Lautsprecher bitte auf den Tisch.",
+          "en": "Please put the speaker on the table."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Aus dem ___ kommt kein Ton.",
+          "answer": "Lautsprecher",
+          "en": "No sound is coming out of the speaker."
+        }
+      ],
+      "notes": "From laut (loud) + Sprecher (speaker). Station announcements come 'aus dem Lautsprecher'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🔊",
+      "imageable": true,
+      "tags": [
+        "technik",
+        "audio"
+      ],
+      "synonyms": [
+        "Box"
+      ],
+      "antonyms": [],
+      "related": [
+        "kopfhoerer",
+        "radio"
+      ]
+    },
+    {
+      "id": "ladegeraet",
+      "word": "das Ladegerät",
+      "lemma": "Ladegerät",
+      "translation": "charger",
+      "translations": [
+        "charger",
+        "power adapter"
+      ],
+      "level": "A2",
+      "category": "Media & Technology",
+      "partOfSpeech": "noun",
+      "frequency": 1300,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Ladegeräte",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich habe mein Ladegerät zu Hause vergessen.",
+          "en": "I forgot my charger at home."
+        },
+        {
+          "de": "Das Ladegerät passt nicht in diese Steckdose.",
+          "en": "The charger doesn't fit in this socket."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Kannst du mir kurz dein ___ leihen?",
+          "answer": "Ladegerät",
+          "en": "Can you lend me your charger for a moment?"
+        }
+      ],
+      "notes": "In everyday speech people often just say 'das Ladekabel' or 'das Kabel'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🔌",
+      "imageable": true,
+      "tags": [
+        "technik",
+        "hardware"
+      ],
+      "synonyms": [
+        "Ladekabel"
+      ],
+      "antonyms": [],
+      "related": [
+        "kabel",
+        "akku",
+        "stecker"
+      ]
+    },
+    {
+      "id": "kabel",
+      "word": "das Kabel",
+      "lemma": "Kabel",
+      "translation": "cable",
+      "translations": [
+        "cable",
+        "cord",
+        "wire"
+      ],
+      "level": "A1",
+      "category": "Media & Technology",
+      "partOfSpeech": "noun",
+      "frequency": 1200,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Kabel",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Das Kabel ist leider zu kurz.",
+          "en": "Unfortunately the cable is too short."
+        },
+        {
+          "de": "Wo ist das Kabel für den Drucker?",
+          "en": "Where is the cable for the printer?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Steck bitte das ___ in die Steckdose.",
+          "answer": "Kabel",
+          "en": "Please put the cable in the socket."
+        }
+      ],
+      "notes": "Plural is unchanged: die Kabel. 'kabellos' means wireless.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🔌",
+      "imageable": true,
+      "tags": [
+        "technik",
+        "hardware"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "stecker",
+        "ladegeraet",
+        "anschliessen"
+      ]
+    },
+    {
+      "id": "akku",
+      "word": "der Akku",
+      "lemma": "Akku",
+      "translation": "battery",
+      "translations": [
+        "battery",
+        "rechargeable battery"
+      ],
+      "level": "A2",
+      "category": "Media & Technology",
+      "partOfSpeech": "noun",
+      "frequency": 1150,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Akkus",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Mein Akku ist fast leer.",
+          "en": "My battery is almost empty."
+        },
+        {
+          "de": "Der Akku hält nur noch zwei Stunden.",
+          "en": "The battery only lasts two hours now."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich muss den ___ heute Abend laden.",
+          "answer": "Akku",
+          "en": "I have to charge the battery this evening."
+        }
+      ],
+      "notes": "Short for 'Akkumulator'. A rechargeable battery is der Akku; a single-use one is die Batterie.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🔋",
+      "imageable": true,
+      "tags": [
+        "technik",
+        "hardware"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "batterie",
+        "ladegeraet"
+      ]
+    },
+    {
+      "id": "batterie",
+      "word": "die Batterie",
+      "lemma": "Batterie",
+      "translation": "battery",
+      "translations": [
+        "battery"
+      ],
+      "level": "A1",
+      "category": "Media & Technology",
+      "partOfSpeech": "noun",
+      "frequency": 1400,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Batterien",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Batterie in der Fernbedienung ist leer.",
+          "en": "The battery in the remote control is dead."
+        },
+        {
+          "de": "Ich brauche zwei neue Batterien.",
+          "en": "I need two new batteries."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wo kann ich alte ___ abgeben?",
+          "answer": "Batterien",
+          "en": "Where can I hand in old batteries?"
+        }
+      ],
+      "notes": "Not rechargeable — for that use der Akku.",
+      "mnemonic": null,
+      "germany_context": "Shops that sell batteries must take old ones back free of charge. Look for the collection box near the supermarket entrance — batteries never go in the household bin.",
+      "emoji": "🔋",
+      "imageable": true,
+      "tags": [
+        "technik",
+        "haushalt"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "akku",
+        "fernbedienung"
+      ]
+    },
+    {
+      "id": "stecker",
+      "word": "der Stecker",
+      "lemma": "Stecker",
+      "translation": "plug",
+      "translations": [
+        "plug"
+      ],
+      "level": "A2",
+      "category": "Media & Technology",
+      "partOfSpeech": "noun",
+      "frequency": 1800,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Stecker",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Stecker passt nicht in die Steckdose.",
+          "en": "The plug doesn't fit in the socket."
+        },
+        {
+          "de": "Zieh bitte den Stecker heraus.",
+          "en": "Please pull out the plug."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der ___ ist locker, deshalb lädt das Handy nicht.",
+          "answer": "Stecker",
+          "en": "The plug is loose, that's why the phone isn't charging."
+        }
+      ],
+      "notes": "der Stecker = plug, die Steckdose = socket. Both from 'stecken' (to put in).",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🔌",
+      "imageable": true,
+      "tags": [
+        "technik",
+        "haushalt"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "kabel",
+        "ladegeraet"
+      ]
+    },
+    {
+      "id": "festplatte",
+      "word": "die Festplatte",
+      "lemma": "Festplatte",
+      "translation": "hard drive",
+      "translations": [
+        "hard drive",
+        "hard disk"
+      ],
+      "level": "A2",
+      "category": "Media & Technology",
+      "partOfSpeech": "noun",
+      "frequency": 2100,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Festplatten",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Meine Festplatte ist voll.",
+          "en": "My hard drive is full."
+        },
+        {
+          "de": "Ich sichere die Fotos auf einer externen Festplatte.",
+          "en": "I back up the photos on an external hard drive."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Auf der ___ ist kein Platz mehr.",
+          "answer": "Festplatte",
+          "en": "There's no space left on the hard drive."
+        }
+      ],
+      "notes": "fest (solid) + Platte (disc). 'die externe Festplatte' is the everyday term for a backup drive.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "💽",
+      "imageable": true,
+      "tags": [
+        "technik",
+        "hardware"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "speicher",
+        "usb-stick",
+        "cloud"
+      ]
+    },
+    {
+      "id": "speicher",
+      "word": "der Speicher",
+      "lemma": "Speicher",
+      "translation": "storage",
+      "translations": [
+        "storage",
+        "memory"
+      ],
+      "level": "A2",
+      "category": "Media & Technology",
+      "partOfSpeech": "noun",
+      "frequency": 1700,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Speicher",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Speicher meines Handys ist voll.",
+          "en": "My phone's storage is full."
+        },
+        {
+          "de": "Dieses Tablet hat wenig Speicher.",
+          "en": "This tablet has little storage."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich brauche mehr ___ für meine Fotos.",
+          "answer": "Speicher",
+          "en": "I need more storage for my photos."
+        }
+      ],
+      "notes": "From the verb 'speichern'. In older houses der Speicher can also mean the attic.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "technik",
+        "software"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "festplatte",
+        "cloud",
+        "speichern"
+      ]
+    },
+    {
+      "id": "usb-stick",
+      "word": "der USB-Stick",
+      "lemma": "USB-Stick",
+      "translation": "usb stick",
+      "translations": [
+        "usb stick",
+        "flash drive"
+      ],
+      "level": "A2",
+      "category": "Media & Technology",
+      "partOfSpeech": "noun",
+      "frequency": 1900,
+      "gender": "m",
+      "article": "der",
+      "plural": "die USB-Sticks",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Präsentation ist auf dem USB-Stick.",
+          "en": "The presentation is on the usb stick."
+        },
+        {
+          "de": "Ich habe meinen USB-Stick im Büro verloren.",
+          "en": "I lost my usb stick at the office."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Steck den ___ bitte in den Laptop.",
+          "answer": "USB-Stick",
+          "en": "Please put the usb stick in the laptop."
+        }
+      ],
+      "notes": "The letters are said with German names: u-es-be. Plural: die USB-Sticks.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "💾",
+      "imageable": true,
+      "tags": [
+        "technik",
+        "hardware"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "festplatte",
+        "die-datei"
+      ]
+    },
+    {
+      "id": "tablet",
+      "word": "das Tablet",
+      "lemma": "Tablet",
+      "translation": "tablet",
+      "translations": [
+        "tablet"
+      ],
+      "level": "A1",
+      "category": "Media & Technology",
+      "partOfSpeech": "noun",
+      "frequency": 1250,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Tablets",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Meine Tochter lernt mit dem Tablet.",
+          "en": "My daughter learns with the tablet."
+        },
+        {
+          "de": "Das Tablet ist leichter als ein Laptop.",
+          "en": "The tablet is lighter than a laptop."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich lese die Zeitung morgens auf dem ___.",
+          "answer": "Tablet",
+          "en": "I read the newspaper on the tablet in the mornings."
+        }
+      ],
+      "notes": "Don't confuse it with 'die Tablette' — that's a pill.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "📱",
+      "imageable": true,
+      "tags": [
+        "technik",
+        "geraet"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "der-laptop",
+        "das-handy",
+        "bildschirm"
+      ]
+    },
+    {
+      "id": "fernbedienung",
+      "word": "die Fernbedienung",
+      "lemma": "Fernbedienung",
+      "translation": "remote control",
+      "translations": [
+        "remote control",
+        "remote"
+      ],
+      "level": "A2",
+      "category": "Media & Technology",
+      "partOfSpeech": "noun",
+      "frequency": 1650,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Fernbedienungen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Wo ist die Fernbedienung?",
+          "en": "Where is the remote control?"
+        },
+        {
+          "de": "Die Fernbedienung funktioniert nicht mehr.",
+          "en": "The remote control doesn't work any more."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Gib mir bitte die ___ für den Fernseher.",
+          "answer": "Fernbedienung",
+          "en": "Please pass me the remote control for the television."
+        }
+      ],
+      "notes": "fern (far) + bedienen (to operate). Casual short form: die Fernbedienung stays, but people also say 'die Fernbedienung' only.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "📺",
+      "imageable": true,
+      "tags": [
+        "technik",
+        "haushalt"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "der-fernseher",
+        "batterie",
+        "sender"
+      ]
+    },
+    {
+      "id": "website",
+      "word": "die Website",
+      "lemma": "Website",
+      "translation": "website",
+      "translations": [
+        "website",
+        "web page"
+      ],
+      "level": "A2",
+      "category": "Media & Technology",
+      "partOfSpeech": "noun",
+      "frequency": 1050,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Websites",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Website der Behörde gibt es nur auf Deutsch.",
+          "en": "The authority's website only exists in German."
+        },
+        {
+          "de": "Auf unserer Website finden Sie alle Preise.",
+          "en": "You'll find all the prices on our website."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Diese ___ lädt sehr langsam.",
+          "answer": "Website",
+          "en": "This website loads very slowly."
+        }
+      ],
+      "notes": "Also die Webseite or die Internetseite — all feminine and all fine in everyday German.",
+      "mnemonic": null,
+      "germany_context": "Every German business website must have an 'Impressum' with the owner's name, address and phone number. It is usually the fastest way to find a company's real contact details.",
+      "emoji": "🌐",
+      "imageable": false,
+      "tags": [
+        "internet",
+        "online"
+      ],
+      "synonyms": [
+        "Webseite",
+        "Internetseite"
+      ],
+      "antonyms": [],
+      "related": [
+        "link",
+        "browser",
+        "suchmaschine"
+      ]
+    },
+    {
+      "id": "link",
+      "word": "der Link",
+      "lemma": "Link",
+      "translation": "link",
+      "translations": [
+        "link"
+      ],
+      "level": "A2",
+      "category": "Media & Technology",
+      "partOfSpeech": "noun",
+      "frequency": 1100,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Links",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich schicke dir den Link per E-Mail.",
+          "en": "I'll send you the link by email."
+        },
+        {
+          "de": "Der Link funktioniert leider nicht mehr.",
+          "en": "Unfortunately the link doesn't work any more."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Klick bitte auf den ___ in der Nachricht.",
+          "answer": "Link",
+          "en": "Please click on the link in the message."
+        }
+      ],
+      "notes": "Masculine: der Link, plural die Links. Don't confuse it with 'links' (on the left).",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🔗",
+      "imageable": false,
+      "tags": [
+        "internet",
+        "online"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "website",
+        "klicken",
+        "teilen"
+      ]
+    },
+    {
+      "id": "suchmaschine",
+      "word": "die Suchmaschine",
+      "lemma": "Suchmaschine",
+      "translation": "search engine",
+      "translations": [
+        "search engine"
+      ],
+      "level": "A2",
+      "category": "Media & Technology",
+      "partOfSpeech": "noun",
+      "frequency": 1850,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Suchmaschinen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Google ist die bekannteste Suchmaschine.",
+          "en": "Google is the best-known search engine."
+        },
+        {
+          "de": "Ich habe das Wort in die Suchmaschine eingegeben.",
+          "en": "I typed the word into the search engine."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Welche ___ benutzt du am liebsten?",
+          "answer": "Suchmaschine",
+          "en": "Which search engine do you like using most?"
+        }
+      ],
+      "notes": "suchen + Maschine. The verb 'googeln' is used for searching with any engine.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🔍",
+      "imageable": false,
+      "tags": [
+        "internet",
+        "online"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "browser",
+        "website",
+        "eingeben"
+      ]
+    },
+    {
+      "id": "browser",
+      "word": "der Browser",
+      "lemma": "Browser",
+      "translation": "browser",
+      "translations": [
+        "browser",
+        "web browser"
+      ],
+      "level": "A2",
+      "category": "Media & Technology",
+      "partOfSpeech": "noun",
+      "frequency": 1400,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Browser",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Öffne die Seite bitte in einem anderen Browser.",
+          "en": "Please open the page in a different browser."
+        },
+        {
+          "de": "Mein Browser speichert keine Passwörter.",
+          "en": "My browser doesn't save any passwords."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der ___ ist schon wieder abgestürzt.",
+          "answer": "Browser",
+          "en": "The browser has crashed again."
+        }
+      ],
+      "notes": "Pronounced as in English. Plural unchanged: die Browser.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🌐",
+      "imageable": false,
+      "tags": [
+        "internet",
+        "software"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "website",
+        "cookie",
+        "programm"
+      ]
+    },
+    {
+      "id": "programm",
+      "word": "das Programm",
+      "lemma": "Programm",
+      "translation": "program",
+      "translations": [
+        "program",
+        "software",
+        "programme"
+      ],
+      "level": "A1",
+      "category": "Media & Technology",
+      "partOfSpeech": "noun",
+      "frequency": 900,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Programme",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich muss dieses Programm noch installieren.",
+          "en": "I still have to install this program."
+        },
+        {
+          "de": "Welches Programm benutzt du für Videos?",
+          "en": "Which program do you use for videos?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Das ___ stürzt jedes Mal ab.",
+          "answer": "Programm",
+          "en": "The program crashes every time."
+        }
+      ],
+      "notes": "Also means a TV schedule or an event programme: 'Was läuft heute im Programm?'",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "💻",
+      "imageable": false,
+      "tags": [
+        "software",
+        "technik"
+      ],
+      "synonyms": [
+        "Anwendung"
+      ],
+      "antonyms": [],
+      "related": [
+        "software",
+        "installieren",
+        "die-app"
+      ]
+    },
+    {
+      "id": "software",
+      "word": "die Software",
+      "lemma": "Software",
+      "translation": "software",
+      "translations": [
+        "software"
+      ],
+      "level": "A2",
+      "category": "Media & Technology",
+      "partOfSpeech": "noun",
+      "frequency": 1200,
+      "gender": "f",
+      "article": "die",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Software ist kostenlos.",
+          "en": "The software is free of charge."
+        },
+        {
+          "de": "Wir entwickeln Software für Banken.",
+          "en": "We develop software for banks."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Bei uns wird die ___ jeden Monat aktualisiert.",
+          "answer": "Software",
+          "en": "Where I work the software is updated every month."
+        }
+      ],
+      "notes": "Feminine and almost always used in the singular. The opposite is 'die Hardware'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "💻",
+      "imageable": false,
+      "tags": [
+        "software",
+        "arbeit"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "Hardware"
+      ],
+      "related": [
+        "programm",
+        "installieren",
+        "update"
+      ]
+    },
+    {
+      "id": "ordner",
+      "word": "der Ordner",
+      "lemma": "Ordner",
+      "translation": "folder",
+      "translations": [
+        "folder",
+        "ring binder"
+      ],
+      "level": "A2",
+      "category": "Media & Technology",
+      "partOfSpeech": "noun",
+      "frequency": 1450,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Ordner",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Datei liegt in meinem Ordner für Rechnungen.",
+          "en": "The file is in my folder for invoices."
+        },
+        {
+          "de": "Ich habe einen neuen Ordner erstellt.",
+          "en": "I created a new folder."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "In welchem ___ hast du das Foto gespeichert?",
+          "answer": "Ordner",
+          "en": "Which folder did you save the photo in?"
+        }
+      ],
+      "notes": "The same word for a folder on the computer and a physical ring binder.",
+      "mnemonic": "From 'ordnen' (to put in order).",
+      "germany_context": "German households keep paper Ordner for Mietvertrag, Gehaltsabrechnungen, insurance and tax papers. Ämter often still want the original document, so file everything.",
+      "emoji": "📁",
+      "imageable": true,
+      "tags": [
+        "software",
+        "buero"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "die-datei",
+        "speicher"
+      ]
+    },
+    {
+      "id": "benutzername",
+      "word": "der Benutzername",
+      "lemma": "Benutzername",
+      "translation": "username",
+      "translations": [
+        "username",
+        "user name"
+      ],
+      "level": "A2",
+      "category": "Media & Technology",
+      "partOfSpeech": "noun",
+      "frequency": 1350,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Benutzernamen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "genitiv": "des Benutzernamens"
+      },
+      "example_sentences": [
+        {
+          "de": "Mein Benutzername ist meine E-Mail-Adresse.",
+          "en": "My username is my email address."
+        },
+        {
+          "de": "Bitte geben Sie Benutzername und Passwort ein.",
+          "en": "Please enter your username and password."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich habe meinen ___ vergessen.",
+          "answer": "Benutzernamen",
+          "en": "I've forgotten my username."
+        }
+      ],
+      "notes": "N-declension like 'der Name': den/dem Benutzernamen. Also 'der Nutzername'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": null,
+      "imageable": false,
+      "tags": [
+        "internet",
+        "konto"
+      ],
+      "synonyms": [
+        "Nutzername"
+      ],
+      "antonyms": [],
+      "related": [
+        "einloggen",
+        "das-passwort"
+      ]
+    },
+    {
+      "id": "einstellung",
+      "word": "die Einstellung",
+      "lemma": "Einstellung",
+      "translation": "setting",
+      "translations": [
+        "setting",
+        "attitude"
+      ],
+      "level": "A2",
+      "category": "Media & Technology",
+      "partOfSpeech": "noun",
+      "frequency": 1250,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Einstellungen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Diese Einstellung kannst du später ändern.",
+          "en": "You can change this setting later."
+        },
+        {
+          "de": "Geh in die Einstellungen und schalte das WLAN an.",
+          "en": "Go into the settings and turn on the wifi."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Die ___ für die Sprache findest du ganz oben.",
+          "answer": "Einstellung",
+          "en": "You'll find the setting for the language right at the top."
+        }
+      ],
+      "notes": "In the plural 'die Einstellungen' means the settings menu. It can also mean someone's personal attitude.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "⚙️",
+      "imageable": false,
+      "tags": [
+        "software",
+        "handy"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "programm",
+        "update"
+      ]
+    },
+    {
+      "id": "update",
+      "word": "das Update",
+      "lemma": "Update",
+      "translation": "update",
+      "translations": [
+        "update"
+      ],
+      "level": "A2",
+      "category": "Media & Technology",
+      "partOfSpeech": "noun",
+      "frequency": 1150,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Updates",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Das Update dauert etwa zehn Minuten.",
+          "en": "The update takes about ten minutes."
+        },
+        {
+          "de": "Mach bitte das Update, bevor du losfährst.",
+          "en": "Please do the update before you leave."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Für dieses Handy gibt es kein ___ mehr.",
+          "answer": "Update",
+          "en": "There are no more updates for this phone."
+        }
+      ],
+      "notes": "Neuter: das Update, plural die Updates. The verb is 'aktualisieren'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🔄",
+      "imageable": false,
+      "tags": [
+        "software",
+        "handy"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "aktualisieren",
+        "software",
+        "installieren"
+      ]
+    },
+    {
+      "id": "cloud",
+      "word": "die Cloud",
+      "lemma": "Cloud",
+      "translation": "cloud",
+      "translations": [
+        "cloud"
+      ],
+      "level": "A2",
+      "category": "Media & Technology",
+      "partOfSpeech": "noun",
+      "frequency": 1550,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Clouds",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Meine Fotos sind alle in der Cloud.",
+          "en": "All my photos are in the cloud."
+        },
+        {
+          "de": "Wir speichern die Dokumente in der Cloud.",
+          "en": "We store the documents in the cloud."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Lade die Datei bitte in die ___ hoch.",
+          "answer": "Cloud",
+          "en": "Please upload the file to the cloud."
+        }
+      ],
+      "notes": "Feminine, pronounced as in English. 'in der Cloud' (where) but 'in die Cloud' (where to).",
+      "mnemonic": null,
+      "germany_context": "Because of the DSGVO many German employers only allow cloud services with servers inside the EU. Check the rules before you upload work files.",
+      "emoji": "☁️",
+      "imageable": false,
+      "tags": [
+        "internet",
+        "software"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "hochladen",
+        "speicher",
+        "festplatte"
+      ]
+    },
+    {
+      "id": "cookie",
+      "word": "das Cookie",
+      "lemma": "Cookie",
+      "translation": "cookie",
+      "translations": [
+        "cookie"
+      ],
+      "level": "A2",
+      "category": "Media & Technology",
+      "partOfSpeech": "noun",
+      "frequency": 1700,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Cookies",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Diese Website fragt nach Cookies.",
+          "en": "This website asks about cookies."
+        },
+        {
+          "de": "Ich habe alle Cookies gelöscht.",
+          "en": "I deleted all the cookies."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Auf jeder Seite muss man die ___ akzeptieren oder ablehnen.",
+          "answer": "Cookies",
+          "en": "On every page you have to accept or reject the cookies."
+        }
+      ],
+      "notes": "Usually das Cookie (der Cookie also occurs). The plural die Cookies is what you see on every banner.",
+      "mnemonic": null,
+      "germany_context": "Thanks to the DSGVO every German site shows a cookie banner. 'Alle akzeptieren' takes everything, 'Nur notwendige' is the privacy-friendly choice.",
+      "emoji": "🍪",
+      "imageable": false,
+      "tags": [
+        "internet",
+        "datenschutz"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "browser",
+        "website",
+        "datenschutz"
+      ]
+    },
+    {
+      "id": "virus",
+      "word": "der Virus",
+      "lemma": "Virus",
+      "translation": "virus",
+      "translations": [
+        "virus"
+      ],
+      "level": "A2",
+      "category": "Media & Technology",
+      "partOfSpeech": "noun",
+      "frequency": 1500,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Viren",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Mein Computer hat einen Virus.",
+          "en": "My computer has a virus."
+        },
+        {
+          "de": "Das Programm schützt vor Viren.",
+          "en": "The program protects against viruses."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Öffne den Anhang nicht, da ist vielleicht ein ___ drin.",
+          "answer": "Virus",
+          "en": "Don't open the attachment, there might be a virus in it."
+        }
+      ],
+      "notes": "Everyday German says der Virus; scientific texts use das Virus. Plural: die Viren.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🦠",
+      "imageable": false,
+      "tags": [
+        "technik",
+        "sicherheit"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "programm",
+        "loeschen"
+      ]
+    },
+    {
+      "id": "sms",
+      "word": "die SMS",
+      "lemma": "SMS",
+      "translation": "text message",
+      "translations": [
+        "text message",
+        "sms"
+      ],
+      "level": "A1",
+      "category": "Media & Technology",
+      "partOfSpeech": "noun",
+      "frequency": 1200,
+      "gender": "f",
+      "article": "die",
+      "plural": "die SMS",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich habe dir gestern eine SMS geschickt.",
+          "en": "I sent you a text message yesterday."
+        },
+        {
+          "de": "Die Bank schickt den Code per SMS.",
+          "en": "The bank sends the code by text message."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Schreib mir bitte kurz eine ___.",
+          "answer": "SMS",
+          "en": "Please write me a quick text message."
+        }
+      ],
+      "notes": "Feminine: die SMS. Plural unchanged. Said with German letter names: es-em-es.",
+      "mnemonic": null,
+      "germany_context": "German banks still send TAN codes by SMS, and doctors or Behörden often confirm appointments the same way. Keep an active German number.",
+      "emoji": "💬",
+      "imageable": false,
+      "tags": [
+        "kommunikation",
+        "handy"
+      ],
+      "synonyms": [
+        "Textnachricht"
+      ],
+      "antonyms": [],
+      "related": [
+        "das-handy",
+        "die-nachricht-tech",
+        "chat"
+      ]
+    },
+    {
+      "id": "videoanruf",
+      "word": "der Videoanruf",
+      "lemma": "Videoanruf",
+      "translation": "video call",
+      "translations": [
+        "video call"
+      ],
+      "level": "A2",
+      "category": "Media & Technology",
+      "partOfSpeech": "noun",
+      "frequency": 1600,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Videoanrufe",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Wir machen heute Abend einen Videoanruf.",
+          "en": "We're having a video call this evening."
+        },
+        {
+          "de": "Der Videoanruf mit meiner Familie war sehr schön.",
+          "en": "The video call with my family was really nice."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Hast du Zeit für einen kurzen ___?",
+          "answer": "Videoanruf",
+          "en": "Do you have time for a short video call?"
+        }
+      ],
+      "notes": "Also 'der Videocall'. Verb phrase: 'jemanden per Video anrufen'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "📹",
+      "imageable": false,
+      "tags": [
+        "kommunikation",
+        "arbeit"
+      ],
+      "synonyms": [
+        "Videocall"
+      ],
+      "antonyms": [],
+      "related": [
+        "chat",
+        "das-handy"
+      ]
+    },
+    {
+      "id": "chat",
+      "word": "der Chat",
+      "lemma": "Chat",
+      "translation": "chat",
+      "translations": [
+        "chat"
+      ],
+      "level": "A2",
+      "category": "Media & Technology",
+      "partOfSpeech": "noun",
+      "frequency": 1300,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Chats",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Wir schreiben lieber im Chat.",
+          "en": "We prefer writing in the chat."
+        },
+        {
+          "de": "Der Chat mit dem Kundendienst hat geholfen.",
+          "en": "The chat with customer service helped."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Schick mir das Bild einfach im ___.",
+          "answer": "Chat",
+          "en": "Just send me the picture in the chat."
+        }
+      ],
+      "notes": "Pronounced like the English word. The verb is 'chatten': ich chatte, hat gechattet.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "💬",
+      "imageable": false,
+      "tags": [
+        "kommunikation",
+        "internet"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "sms",
+        "videoanruf",
+        "posten"
+      ]
+    },
+    {
+      "id": "podcast",
+      "word": "der Podcast",
+      "lemma": "Podcast",
+      "translation": "podcast",
+      "translations": [
+        "podcast"
+      ],
+      "level": "A2",
+      "category": "Media & Technology",
+      "partOfSpeech": "noun",
+      "frequency": 1550,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Podcasts",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich höre jeden Morgen einen Podcast auf Deutsch.",
+          "en": "I listen to a podcast in German every morning."
+        },
+        {
+          "de": "Dieser Podcast hilft mir beim Lernen.",
+          "en": "This podcast helps me with learning."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Kennst du einen guten ___ für Anfänger?",
+          "answer": "Podcast",
+          "en": "Do you know a good podcast for beginners?"
+        }
+      ],
+      "notes": "Plural: die Podcasts. One episode is 'eine Folge'.",
+      "mnemonic": null,
+      "germany_context": "Public broadcasters put out free podcasts in slow, clear German. 'Langsam gesprochene Nachrichten' from the Deutsche Welle is a classic for learners.",
+      "emoji": "🎙️",
+      "imageable": false,
+      "tags": [
+        "medien",
+        "lernen"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "radio",
+        "kopfhoerer",
+        "streamen"
+      ]
+    },
+    {
+      "id": "radio",
+      "word": "das Radio",
+      "lemma": "Radio",
+      "translation": "radio",
+      "translations": [
+        "radio"
+      ],
+      "level": "A1",
+      "category": "Media & Technology",
+      "partOfSpeech": "noun",
+      "frequency": 900,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Radios",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Im Radio läuft gerade gute Musik.",
+          "en": "There's good music on the radio right now."
+        },
+        {
+          "de": "Mach bitte das Radio leiser.",
+          "en": "Please turn the radio down."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich höre morgens im Auto immer ___.",
+          "answer": "Radio",
+          "en": "In the mornings I always listen to the radio in the car."
+        }
+      ],
+      "notes": "das Radio is both the device and the medium. 'Radio hören' is used without an article.",
+      "mnemonic": null,
+      "germany_context": "Every household pays the Rundfunkbeitrag of about 18 euros a month for public radio and TV — even if you own neither. The letter arrives soon after your Anmeldung.",
+      "emoji": "📻",
+      "imageable": true,
+      "tags": [
+        "medien",
+        "haushalt"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "sender",
+        "lautsprecher",
+        "podcast"
+      ]
+    },
+    {
+      "id": "untertitel",
+      "word": "der Untertitel",
+      "lemma": "Untertitel",
+      "translation": "subtitle",
+      "translations": [
+        "subtitle",
+        "subtitles"
+      ],
+      "level": "A2",
+      "category": "Media & Technology",
+      "partOfSpeech": "noun",
+      "frequency": 1600,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Untertitel",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich schaue Filme mit deutschen Untertiteln.",
+          "en": "I watch films with German subtitles."
+        },
+        {
+          "de": "Kannst du die Untertitel anmachen?",
+          "en": "Can you turn on the subtitles?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ohne ___ verstehe ich den Film nicht.",
+          "answer": "Untertitel",
+          "en": "Without subtitles I don't understand the film."
+        }
+      ],
+      "notes": "unter + Titel. Usually used in the plural: die Untertitel.",
+      "mnemonic": null,
+      "germany_context": "German cinemas dub almost every foreign film. Look for 'OmU' (Original mit Untertiteln) or 'OV' in the listings if you want the original version.",
+      "emoji": "💬",
+      "imageable": false,
+      "tags": [
+        "medien",
+        "film",
+        "lernen"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "der-film",
+        "sender",
+        "streamen"
+      ]
+    },
+    {
+      "id": "abo",
+      "word": "das Abo",
+      "lemma": "Abo",
+      "translation": "subscription",
+      "translations": [
+        "subscription"
+      ],
+      "level": "A2",
+      "category": "Media & Technology",
+      "partOfSpeech": "noun",
+      "frequency": 1250,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Abos",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Mein Abo läuft noch bis Dezember.",
+          "en": "My subscription runs until December."
+        },
+        {
+          "de": "Ich habe das Abo letzte Woche gekündigt.",
+          "en": "I cancelled the subscription last week."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Das ___ kostet zehn Euro im Monat.",
+          "answer": "Abo",
+          "en": "The subscription costs ten euros a month."
+        }
+      ],
+      "notes": "Short for 'das Abonnement'. Plural: die Abos.",
+      "mnemonic": null,
+      "germany_context": "Since 2022 every German website selling subscriptions must offer a 'Kündigungsbutton', so you can cancel online without a letter. Watch the Kündigungsfrist — many Abos renew automatically.",
+      "emoji": "🧾",
+      "imageable": false,
+      "tags": [
+        "medien",
+        "geld"
+      ],
+      "synonyms": [
+        "Abonnement"
+      ],
+      "antonyms": [],
+      "related": [
+        "streamen",
+        "werbung",
+        "artikel"
+      ]
+    },
+    {
+      "id": "artikel",
+      "word": "der Artikel",
+      "lemma": "Artikel",
+      "translation": "article",
+      "translations": [
+        "article",
+        "item"
+      ],
+      "level": "A2",
+      "category": "Media & Technology",
+      "partOfSpeech": "noun",
+      "frequency": 950,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Artikel",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich habe den Artikel in der Zeitung gelesen.",
+          "en": "I read the article in the newspaper."
+        },
+        {
+          "de": "Dieser Artikel ist wirklich interessant.",
+          "en": "This article is really interesting."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der ___ über die neuen Mieten steht online.",
+          "answer": "Artikel",
+          "en": "The article about the new rents is online."
+        }
+      ],
+      "notes": "Also means a product in a shop, and the grammatical article (der, die, das). Plural unchanged.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "📰",
+      "imageable": false,
+      "tags": [
+        "medien",
+        "nachrichten"
+      ],
+      "synonyms": [
+        "Bericht"
+      ],
+      "antonyms": [],
+      "related": [
+        "die-zeitung",
+        "die-nachrichten",
+        "online"
+      ]
+    },
+    {
+      "id": "online",
+      "word": "online",
+      "lemma": "online",
+      "translation": "online",
+      "translations": [
+        "online"
+      ],
+      "level": "A1",
+      "category": "Media & Technology",
+      "partOfSpeech": "adverb",
+      "frequency": 800,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich habe den Termin online gebucht.",
+          "en": "I booked the appointment online."
+        },
+        {
+          "de": "Bist du gerade online?",
+          "en": "Are you online right now?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Man kann das Formular auch ___ ausfüllen.",
+          "answer": "online",
+          "en": "You can also fill in the form online."
+        }
+      ],
+      "notes": "Used as an adverb, and before a noun with a hyphen: der Online-Termin, das Online-Banking.",
+      "mnemonic": null,
+      "germany_context": "More and more Ämter offer Online-Termine, and tax returns go through the ELSTER portal. Even so, many offices still want a printed and signed form on top.",
+      "emoji": "🌐",
+      "imageable": false,
+      "tags": [
+        "internet",
+        "alltag"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "offline"
+      ],
+      "related": [
+        "website",
+        "einloggen",
+        "ausdrucken"
+      ]
+    },
+    {
+      "id": "hochladen",
+      "word": "hochladen",
+      "lemma": "hochladen",
+      "translation": "to upload",
+      "translations": [
+        "to upload"
+      ],
+      "level": "A2",
+      "category": "Media & Technology",
+      "partOfSpeech": "verb",
+      "frequency": 1450,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "lade hoch",
+        "du": "lädst hoch",
+        "er": "lädt hoch",
+        "wir": "laden hoch",
+        "ihr": "ladet hoch",
+        "sie": "laden hoch",
+        "praeteritum": "lud hoch",
+        "perfekt": "hat hochgeladen",
+        "imperativ": "lade hoch!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich lade die Fotos gerade hoch.",
+          "en": "I'm uploading the photos right now."
+        },
+        {
+          "de": "Hast du das Dokument schon hochgeladen?",
+          "en": "Have you already uploaded the document?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Kannst du das Video auf die Website ___?",
+          "answer": "hochladen",
+          "en": "Can you upload the video to the website?"
+        }
+      ],
+      "notes": "Separable with a stem change: du lädst hoch, er lädt hoch. The opposite is 'herunterladen'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "⬆️",
+      "imageable": false,
+      "tags": [
+        "verb",
+        "separable",
+        "internet"
+      ],
+      "synonyms": [
+        "uploaden"
+      ],
+      "antonyms": [
+        "herunterladen"
+      ],
+      "related": [
+        "herunterladen",
+        "cloud",
+        "die-datei"
+      ]
+    },
+    {
+      "id": "installieren",
+      "word": "installieren",
+      "lemma": "installieren",
+      "translation": "to install",
+      "translations": [
+        "to install"
+      ],
+      "level": "A2",
+      "category": "Media & Technology",
+      "partOfSpeech": "verb",
+      "frequency": 1300,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "installiere",
+        "du": "installierst",
+        "er": "installiert",
+        "wir": "installieren",
+        "ihr": "installiert",
+        "sie": "installieren",
+        "praeteritum": "installierte",
+        "perfekt": "hat installiert",
+        "imperativ": "installiere!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich installiere gerade ein neues Programm.",
+          "en": "I'm installing a new program right now."
+        },
+        {
+          "de": "Der Techniker hat das Internet installiert.",
+          "en": "The technician installed the internet."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Du musst die App zuerst ___.",
+          "answer": "installieren",
+          "en": "You have to install the app first."
+        }
+      ],
+      "notes": "Verbs ending in -ieren take no ge- in the Perfekt: hat installiert.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "⚙️",
+      "imageable": false,
+      "tags": [
+        "verb",
+        "software"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "programm",
+        "software",
+        "update"
+      ]
+    },
+    {
+      "id": "aktualisieren",
+      "word": "aktualisieren",
+      "lemma": "aktualisieren",
+      "translation": "to update",
+      "translations": [
+        "to update",
+        "to refresh"
+      ],
+      "level": "A2",
+      "category": "Media & Technology",
+      "partOfSpeech": "verb",
+      "frequency": 1600,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "aktualisiere",
+        "du": "aktualisierst",
+        "er": "aktualisiert",
+        "wir": "aktualisieren",
+        "ihr": "aktualisiert",
+        "sie": "aktualisieren",
+        "praeteritum": "aktualisierte",
+        "perfekt": "hat aktualisiert",
+        "imperativ": "aktualisiere!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich aktualisiere die App jede Woche.",
+          "en": "I update the app every week."
+        },
+        {
+          "de": "Die Seite wird automatisch aktualisiert.",
+          "en": "The page is refreshed automatically."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Bitte ___ Sie Ihre Daten im Formular.",
+          "answer": "aktualisieren",
+          "en": "Please update your details in the form."
+        }
+      ],
+      "notes": "From 'aktuell' (current). Like all -ieren verbs, no ge- in the Perfekt.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🔄",
+      "imageable": false,
+      "tags": [
+        "verb",
+        "software"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "update",
+        "installieren"
+      ]
+    },
+    {
+      "id": "loeschen",
+      "word": "löschen",
+      "lemma": "löschen",
+      "translation": "to delete",
+      "translations": [
+        "to delete",
+        "to erase",
+        "to put out"
+      ],
+      "level": "A1",
+      "category": "Media & Technology",
+      "partOfSpeech": "verb",
+      "frequency": 1100,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "lösche",
+        "du": "löschst",
+        "er": "löscht",
+        "wir": "löschen",
+        "ihr": "löscht",
+        "sie": "löschen",
+        "praeteritum": "löschte",
+        "perfekt": "hat gelöscht",
+        "imperativ": "lösch!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich habe die E-Mail aus Versehen gelöscht.",
+          "en": "I deleted the email by accident."
+        },
+        {
+          "de": "Lösch bitte die alten Fotos vom Handy.",
+          "en": "Please delete the old photos from the phone."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Kannst du diese Datei für mich ___?",
+          "answer": "löschen",
+          "en": "Can you delete this file for me?"
+        }
+      ],
+      "notes": "Also used for putting out a fire: 'das Feuer löschen'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🗑️",
+      "imageable": false,
+      "tags": [
+        "verb",
+        "software"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "speichern"
+      ],
+      "related": [
+        "speichern",
+        "die-datei",
+        "cookie"
+      ]
+    },
+    {
+      "id": "kopieren",
+      "word": "kopieren",
+      "lemma": "kopieren",
+      "translation": "to copy",
+      "translations": [
+        "to copy"
+      ],
+      "level": "A2",
+      "category": "Media & Technology",
+      "partOfSpeech": "verb",
+      "frequency": 1250,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "kopiere",
+        "du": "kopierst",
+        "er": "kopiert",
+        "wir": "kopieren",
+        "ihr": "kopiert",
+        "sie": "kopieren",
+        "praeteritum": "kopierte",
+        "perfekt": "hat kopiert",
+        "imperativ": "kopiere!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich kopiere den Text und füge ihn unten ein.",
+          "en": "I'm copying the text and pasting it below."
+        },
+        {
+          "de": "Können Sie mir bitte den Ausweis kopieren?",
+          "en": "Could you copy my ID card for me, please?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ Sie bitte den Link aus der E-Mail.",
+          "answer": "Kopieren",
+          "en": "Please copy the link from the email."
+        }
+      ],
+      "notes": "On a German keyboard copy is Strg + C and paste is Strg + V — the key is labelled 'Strg', not 'Ctrl'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "📋",
+      "imageable": false,
+      "tags": [
+        "verb",
+        "software",
+        "buero"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "einfuegen",
+        "ausdrucken"
+      ]
+    },
+    {
+      "id": "einfuegen",
+      "word": "einfügen",
+      "lemma": "einfügen",
+      "translation": "to paste",
+      "translations": [
+        "to paste",
+        "to insert"
+      ],
+      "level": "A2",
+      "category": "Media & Technology",
+      "partOfSpeech": "verb",
+      "frequency": 1700,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "füge ein",
+        "du": "fügst ein",
+        "er": "fügt ein",
+        "wir": "fügen ein",
+        "ihr": "fügt ein",
+        "sie": "fügen ein",
+        "praeteritum": "fügte ein",
+        "perfekt": "hat eingefügt",
+        "imperativ": "füg ein!"
+      },
+      "example_sentences": [
+        {
+          "de": "Füge den Text bitte hier ein.",
+          "en": "Please paste the text here."
+        },
+        {
+          "de": "Ich habe ein Bild in das Dokument eingefügt.",
+          "en": "I inserted a picture into the document."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Kopieren und ___ geht am schnellsten mit der Tastatur.",
+          "answer": "einfügen",
+          "en": "Copying and pasting is fastest with the keyboard."
+        }
+      ],
+      "notes": "Separable: ich füge ein. For adding something to a list use 'hinzufügen'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "📋",
+      "imageable": false,
+      "tags": [
+        "verb",
+        "separable",
+        "software"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "kopieren",
+        "tastatur"
+      ]
+    },
+    {
+      "id": "ausdrucken",
+      "word": "ausdrucken",
+      "lemma": "ausdrucken",
+      "translation": "to print out",
+      "translations": [
+        "to print out",
+        "to print"
+      ],
+      "level": "A2",
+      "category": "Media & Technology",
+      "partOfSpeech": "verb",
+      "frequency": 1200,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "drucke aus",
+        "du": "druckst aus",
+        "er": "druckt aus",
+        "wir": "drucken aus",
+        "ihr": "druckt aus",
+        "sie": "drucken aus",
+        "praeteritum": "druckte aus",
+        "perfekt": "hat ausgedruckt",
+        "imperativ": "druck aus!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich drucke den Vertrag gleich aus.",
+          "en": "I'll print out the contract in a moment."
+        },
+        {
+          "de": "Können Sie mir das Ticket ausdrucken?",
+          "en": "Could you print out the ticket for me?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich muss die Bordkarte noch ___.",
+          "answer": "ausdrucken",
+          "en": "I still have to print out the boarding pass."
+        }
+      ],
+      "notes": "'drucken' is what a printer does; 'ausdrucken' means producing a paper copy of a file.",
+      "mnemonic": null,
+      "germany_context": "German offices and Ämter still run on paper. Keep printed copies of your Mietvertrag, Anmeldung and insurance letters — a PDF on your phone is often not accepted.",
+      "emoji": "🖨️",
+      "imageable": false,
+      "tags": [
+        "verb",
+        "separable",
+        "buero"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "drucker",
+        "drucken",
+        "kopieren"
+      ]
+    },
+    {
+      "id": "einloggen",
+      "word": "sich einloggen",
+      "lemma": "einloggen",
+      "translation": "to log in",
+      "translations": [
+        "to log in",
+        "to sign in"
+      ],
+      "level": "A2",
+      "category": "Media & Technology",
+      "partOfSpeech": "verb",
+      "frequency": 1350,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "haben",
+      "reflexive": true,
+      "cases": [
+        "akk"
+      ],
+      "forms": {
+        "ich": "logge mich ein",
+        "du": "loggst dich ein",
+        "er": "loggt sich ein",
+        "wir": "loggen uns ein",
+        "ihr": "loggt euch ein",
+        "sie": "loggen sich ein",
+        "praeteritum": "loggte sich ein",
+        "perfekt": "hat sich eingeloggt",
+        "imperativ": "logg dich ein!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich logge mich in mein Konto ein.",
+          "en": "I'm logging in to my account."
+        },
+        {
+          "de": "Hast du dich schon eingeloggt?",
+          "en": "Have you logged in yet?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Bitte ___ Sie sich mit Ihrem Benutzernamen ein.",
+          "answer": "loggen",
+          "en": "Please log in with your username."
+        }
+      ],
+      "notes": "Reflexive and separable: 'Ich logge mich ein.' The opposite is 'sich ausloggen' or 'sich abmelden'.",
+      "mnemonic": null,
+      "germany_context": "Tax returns go through the ELSTER portal, where you log in with a certificate file instead of a normal password. Request it early — the activation code comes by post.",
+      "emoji": "🔐",
+      "imageable": false,
+      "tags": [
+        "verb",
+        "separable",
+        "reflexive",
+        "internet"
+      ],
+      "synonyms": [
+        "sich anmelden"
+      ],
+      "antonyms": [
+        "sich ausloggen"
+      ],
+      "related": [
+        "benutzername",
+        "das-passwort",
+        "online"
+      ]
+    },
+    {
+      "id": "klicken",
+      "word": "klicken",
+      "lemma": "klicken",
+      "translation": "to click",
+      "translations": [
+        "to click"
+      ],
+      "level": "A1",
+      "category": "Media & Technology",
+      "partOfSpeech": "verb",
+      "frequency": 1300,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "klicke",
+        "du": "klickst",
+        "er": "klickt",
+        "wir": "klicken",
+        "ihr": "klickt",
+        "sie": "klicken",
+        "praeteritum": "klickte",
+        "perfekt": "hat geklickt",
+        "imperativ": "klick!"
+      },
+      "example_sentences": [
+        {
+          "de": "Klick bitte auf den grünen Knopf.",
+          "en": "Please click on the green button."
+        },
+        {
+          "de": "Ich habe zweimal geklickt, aber nichts ist passiert.",
+          "en": "I clicked twice, but nothing happened."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Sie müssen auf das Feld ___, um es zu öffnen.",
+          "answer": "klicken",
+          "en": "You have to click on the field to open it."
+        }
+      ],
+      "notes": "Takes 'auf' + Akkusativ: auf den Link klicken.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🖱️",
+      "imageable": false,
+      "tags": [
+        "verb",
+        "internet"
+      ],
+      "synonyms": [
+        "anklicken"
+      ],
+      "antonyms": [],
+      "related": [
+        "link",
+        "tastatur"
+      ]
+    },
+    {
+      "id": "anschliessen",
+      "word": "anschließen",
+      "lemma": "anschließen",
+      "translation": "to connect",
+      "translations": [
+        "to connect",
+        "to plug in"
+      ],
+      "level": "A2",
+      "category": "Media & Technology",
+      "partOfSpeech": "verb",
+      "frequency": 1500,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "schließe an",
+        "du": "schließt an",
+        "er": "schließt an",
+        "wir": "schließen an",
+        "ihr": "schließt an",
+        "sie": "schließen an",
+        "praeteritum": "schloss an",
+        "perfekt": "hat angeschlossen",
+        "imperativ": "schließ an!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich schließe den Monitor an den Laptop an.",
+          "en": "I'm connecting the monitor to the laptop."
+        },
+        {
+          "de": "Der Handwerker hat die Waschmaschine angeschlossen.",
+          "en": "The workman connected the washing machine."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Kannst du den Drucker ans WLAN ___?",
+          "answer": "anschließen",
+          "en": "Can you connect the printer to the wifi?"
+        }
+      ],
+      "notes": "Separable and irregular: schloss an, hat angeschlossen. The noun is 'der Anschluss'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🔌",
+      "imageable": false,
+      "tags": [
+        "verb",
+        "separable",
+        "hardware"
+      ],
+      "synonyms": [
+        "verbinden"
+      ],
+      "antonyms": [],
+      "related": [
+        "kabel",
+        "stecker",
+        "monitor"
+      ]
+    },
+    {
+      "id": "funktionieren",
+      "word": "funktionieren",
+      "lemma": "funktionieren",
+      "translation": "to work",
+      "translations": [
+        "to work",
+        "to function"
+      ],
+      "level": "A1",
+      "category": "Media & Technology",
+      "partOfSpeech": "verb",
+      "frequency": 950,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "funktioniere",
+        "du": "funktionierst",
+        "er": "funktioniert",
+        "wir": "funktionieren",
+        "ihr": "funktioniert",
+        "sie": "funktionieren",
+        "praeteritum": "funktionierte",
+        "perfekt": "hat funktioniert",
+        "imperativ": null
+      },
+      "example_sentences": [
+        {
+          "de": "Der Aufzug funktioniert heute nicht.",
+          "en": "The lift isn't working today."
+        },
+        {
+          "de": "Hat das Update funktioniert?",
+          "en": "Did the update work?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Mein Internet ___ seit gestern nicht mehr.",
+          "answer": "funktioniert",
+          "en": "My internet hasn't been working since yesterday."
+        }
+      ],
+      "notes": "Used for machines and systems, not for people. For 'it worked out' say 'es hat geklappt'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "⚙️",
+      "imageable": false,
+      "tags": [
+        "verb",
+        "technik",
+        "essential"
+      ],
+      "synonyms": [
+        "klappen"
+      ],
+      "antonyms": [],
+      "related": [
+        "geraet",
+        "programm"
+      ]
+    },
+    {
+      "id": "eingeben",
+      "word": "eingeben",
+      "lemma": "eingeben",
+      "translation": "to enter",
+      "translations": [
+        "to enter",
+        "to type in",
+        "to input"
+      ],
+      "level": "A2",
+      "category": "Media & Technology",
+      "partOfSpeech": "verb",
+      "frequency": 1250,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "gebe ein",
+        "du": "gibst ein",
+        "er": "gibt ein",
+        "wir": "geben ein",
+        "ihr": "gebt ein",
+        "sie": "geben ein",
+        "praeteritum": "gab ein",
+        "perfekt": "hat eingegeben",
+        "imperativ": "gib ein!"
+      },
+      "example_sentences": [
+        {
+          "de": "Geben Sie bitte Ihre PIN ein.",
+          "en": "Please enter your PIN."
+        },
+        {
+          "de": "Ich habe die Adresse falsch eingegeben.",
+          "en": "I entered the address incorrectly."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Du musst den Code hier ___.",
+          "answer": "eingeben",
+          "en": "You have to enter the code here."
+        }
+      ],
+      "notes": "Separable with a stem change: du gibst ein, er gibt ein. Imperative: gib ein!",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "⌨️",
+      "imageable": false,
+      "tags": [
+        "verb",
+        "separable",
+        "internet"
+      ],
+      "synonyms": [
+        "eintippen"
+      ],
+      "antonyms": [],
+      "related": [
+        "tastatur",
+        "benutzername",
+        "suchmaschine"
+      ]
+    },
+    {
+      "id": "teilen",
+      "word": "teilen",
+      "lemma": "teilen",
+      "translation": "to share",
+      "translations": [
+        "to share",
+        "to divide"
+      ],
+      "level": "A1",
+      "category": "Media & Technology",
+      "partOfSpeech": "verb",
+      "frequency": 1050,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "teile",
+        "du": "teilst",
+        "er": "teilt",
+        "wir": "teilen",
+        "ihr": "teilt",
+        "sie": "teilen",
+        "praeteritum": "teilte",
+        "perfekt": "hat geteilt",
+        "imperativ": "teil!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich teile den Link mit dem Team.",
+          "en": "I'm sharing the link with the team."
+        },
+        {
+          "de": "Wir teilen die Rechnung.",
+          "en": "We're splitting the bill."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Darf ich das Foto in der Gruppe ___?",
+          "answer": "teilen",
+          "en": "May I share the photo in the group?"
+        }
+      ],
+      "notes": "Also means to divide: 'Zehn geteilt durch zwei ist fünf.'",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "📤",
+      "imageable": false,
+      "tags": [
+        "verb",
+        "internet"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "link",
+        "posten",
+        "chat"
+      ]
+    },
+    {
+      "id": "streamen",
+      "word": "streamen",
+      "lemma": "streamen",
+      "translation": "to stream",
+      "translations": [
+        "to stream"
+      ],
+      "level": "A2",
+      "category": "Media & Technology",
+      "partOfSpeech": "verb",
+      "frequency": 1500,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "streame",
+        "du": "streamst",
+        "er": "streamt",
+        "wir": "streamen",
+        "ihr": "streamt",
+        "sie": "streamen",
+        "praeteritum": "streamte",
+        "perfekt": "hat gestreamt",
+        "imperativ": "streame!"
+      },
+      "example_sentences": [
+        {
+          "de": "Wir streamen den Film heute Abend.",
+          "en": "We're streaming the film this evening."
+        },
+        {
+          "de": "Ich habe die ganze Serie an einem Wochenende gestreamt.",
+          "en": "I streamed the whole series in one weekend."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Mit langsamem Internet kann man keine Filme ___.",
+          "answer": "streamen",
+          "en": "You can't stream films with slow internet."
+        }
+      ],
+      "notes": "Regular: hat gestreamt. The noun is 'der Stream', the service 'der Streamingdienst'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "📺",
+      "imageable": false,
+      "tags": [
+        "verb",
+        "medien"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "abo",
+        "untertitel",
+        "der-film"
+      ]
+    },
+    {
+      "id": "posten",
+      "word": "posten",
+      "lemma": "posten",
+      "translation": "to post",
+      "translations": [
+        "to post"
+      ],
+      "level": "A2",
+      "category": "Media & Technology",
+      "partOfSpeech": "verb",
+      "frequency": 1750,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "poste",
+        "du": "postest",
+        "er": "postet",
+        "wir": "posten",
+        "ihr": "postet",
+        "sie": "posten",
+        "praeteritum": "postete",
+        "perfekt": "hat gepostet",
+        "imperativ": "poste!"
+      },
+      "example_sentences": [
+        {
+          "de": "Sie postet jeden Tag ein Foto.",
+          "en": "She posts a photo every day."
+        },
+        {
+          "de": "Ich habe den Link in der Gruppe gepostet.",
+          "en": "I posted the link in the group."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Was hast du gestern in den sozialen Medien ___?",
+          "answer": "gepostet",
+          "en": "What did you post on social media yesterday?"
+        }
+      ],
+      "notes": "Regular, but the stem ends in -t, so it takes a linking -e-: du postest, hat gepostet.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "📱",
+      "imageable": false,
+      "tags": [
+        "verb",
+        "internet",
+        "medien"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "teilen",
+        "chat",
+        "link"
+      ]
+    },
+    {
+      "id": "anhang",
+      "word": "der Anhang",
+      "lemma": "Anhang",
+      "translation": "attachment",
+      "translations": [
+        "attachment",
+        "appendix"
+      ],
+      "level": "A2",
+      "category": "Media & Technology",
+      "partOfSpeech": "noun",
+      "frequency": 1400,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Anhänge",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Anhang ist zu groß für die E-Mail.",
+          "en": "The attachment is too big for the email."
+        },
+        {
+          "de": "Ich habe die Rechnung im Anhang geschickt.",
+          "en": "I sent the invoice as an attachment."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Öffne den ___ nur, wenn du den Absender kennst.",
+          "answer": "Anhang",
+          "en": "Only open the attachment if you know the sender."
+        }
+      ],
+      "notes": "From 'anhängen' (to attach). In emails 'im Anhang' means attached; in a document it means the appendix.",
+      "mnemonic": null,
+      "germany_context": "German job applications are normally sent as one single PDF im Anhang, containing Anschreiben, Lebenslauf and Zeugnisse in that order.",
+      "emoji": "📎",
+      "imageable": false,
+      "tags": [
+        "internet",
+        "buero",
+        "kommunikation"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "die-datei",
+        "hochladen",
+        "virus"
+      ]
+    },
+    {
+      "id": "abstuerzen",
+      "word": "abstürzen",
+      "lemma": "abstürzen",
+      "translation": "to crash",
+      "translations": [
+        "to crash",
+        "to freeze"
+      ],
+      "level": "A2",
+      "category": "Media & Technology",
+      "partOfSpeech": "verb",
+      "frequency": 1650,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "sein",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "stürze ab",
+        "du": "stürzt ab",
+        "er": "stürzt ab",
+        "wir": "stürzen ab",
+        "ihr": "stürzt ab",
+        "sie": "stürzen ab",
+        "praeteritum": "stürzte ab",
+        "perfekt": "ist abgestürzt",
+        "imperativ": null
+      },
+      "example_sentences": [
+        {
+          "de": "Mein Laptop ist gestern zweimal abgestürzt.",
+          "en": "My laptop crashed twice yesterday."
+        },
+        {
+          "de": "Die App stürzt beim Speichern immer ab.",
+          "en": "The app always crashes when saving."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wenn der Computer wieder ___, starte ihn bitte neu.",
+          "answer": "abstürzt",
+          "en": "If the computer crashes again, please restart it."
+        }
+      ],
+      "notes": "Separable, and the Perfekt takes sein: ist abgestürzt. Also used for a plane crashing.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "💥",
+      "imageable": false,
+      "tags": [
+        "verb",
+        "separable",
+        "technik"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "funktionieren"
+      ],
+      "related": [
+        "programm",
+        "browser",
+        "funktionieren"
+      ]
+    }
+  ]
+}

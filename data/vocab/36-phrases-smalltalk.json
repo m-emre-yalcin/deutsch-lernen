@@ -1,0 +1,1521 @@
+{
+  "category": "Small Talk & Conversation",
+  "words": [
+    {
+      "id": "was-machst-du-beruflich",
+      "word": "Was machst du beruflich?",
+      "lemma": "Was machst du beruflich",
+      "translation": "What do you do for a living?",
+      "translations": [
+        "What do you do for a living?"
+      ],
+      "level": "A2",
+      "category": "Small Talk & Conversation",
+      "partOfSpeech": "phrase",
+      "frequency": 520,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Und was machst du beruflich?",
+          "en": "And what do you do for a living?"
+        },
+        {
+          "de": "Was machen Sie beruflich?",
+          "en": "What do you do for a living? (formal)"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Was machst du ___?",
+          "answer": "beruflich",
+          "en": "What do you do for a living?"
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Asked early in almost any German conversation. Unlike in some cultures it isn't considered nosy — work is a normal opening topic.",
+      "emoji": "💼",
+      "imageable": false,
+      "tags": [
+        "smalltalk",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "ich-arbeite-als"
+      ]
+    },
+    {
+      "id": "ich-arbeite-als",
+      "word": "Ich arbeite als …",
+      "lemma": "Ich arbeite als",
+      "translation": "I work as …",
+      "translations": [
+        "I work as …"
+      ],
+      "level": "A1",
+      "category": "Small Talk & Conversation",
+      "partOfSpeech": "phrase",
+      "frequency": 530,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich arbeite als Softwareentwickler.",
+          "en": "I work as a software developer."
+        },
+        {
+          "de": "Sie arbeitet als Lehrerin.",
+          "en": "She works as a teacher."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich arbeite ___ Ingenieur bei einer Firma.",
+          "answer": "als",
+          "en": "I work as an engineer at a company."
+        }
+      ],
+      "notes": "No article after 'als': 'Ich arbeite als Entwickler', not 'als ein Entwickler'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "👨‍💻",
+      "imageable": false,
+      "tags": [
+        "smalltalk",
+        "work",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "was-machst-du-beruflich"
+      ]
+    },
+    {
+      "id": "wie-lange-schon-hier",
+      "word": "Wie lange sind Sie schon hier?",
+      "lemma": "Wie lange sind Sie schon hier",
+      "translation": "How long have you been here?",
+      "translations": [
+        "How long have you been here?"
+      ],
+      "level": "A2",
+      "category": "Small Talk & Conversation",
+      "partOfSpeech": "phrase",
+      "frequency": 900,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Wie lange sind Sie schon in Deutschland?",
+          "en": "How long have you been in Germany?"
+        },
+        {
+          "de": "Wie lange wohnst du schon hier?",
+          "en": "How long have you been living here?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wie ___ wohnst du schon in Berlin?",
+          "answer": "lange",
+          "en": "How long have you been living in Berlin?"
+        }
+      ],
+      "notes": "German uses the PRESENT tense with 'schon' for something still ongoing, where English uses the perfect.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "⏳",
+      "imageable": false,
+      "tags": [
+        "smalltalk"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "ich-wohne-seit"
+      ]
+    },
+    {
+      "id": "ich-wohne-seit",
+      "word": "Ich wohne seit … in …",
+      "lemma": "Ich wohne seit in",
+      "translation": "I've been living in … since …",
+      "translations": [
+        "I've been living in … since …"
+      ],
+      "level": "A2",
+      "category": "Small Talk & Conversation",
+      "partOfSpeech": "phrase",
+      "frequency": 910,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich wohne seit einem Jahr in München.",
+          "en": "I've been living in Munich for a year."
+        },
+        {
+          "de": "Wir wohnen seit 2024 hier.",
+          "en": "We've been living here since 2024."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich wohne ___ drei Monaten in Hamburg.",
+          "answer": "seit",
+          "en": "I've been living in Hamburg for three months."
+        }
+      ],
+      "notes": "'seit' always takes the DATIVE: seit einem Jahr, seit drei Monaten.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🏠",
+      "imageable": false,
+      "tags": [
+        "smalltalk",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "wie-lange-schon-hier"
+      ]
+    },
+    {
+      "id": "gefaellt-es-dir-hier",
+      "word": "Gefällt es dir hier?",
+      "lemma": "Gefällt es dir hier",
+      "translation": "Do you like it here?",
+      "translations": [
+        "Do you like it here?"
+      ],
+      "level": "A2",
+      "category": "Small Talk & Conversation",
+      "partOfSpeech": "phrase",
+      "frequency": 950,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Und, gefällt es dir hier in Deutschland?",
+          "en": "So, do you like it here in Germany?"
+        },
+        {
+          "de": "Ja, es gefällt mir sehr gut.",
+          "en": "Yes, I like it a lot."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ es dir hier in der Stadt?",
+          "answer": "Gefällt",
+          "en": "Do you like it here in the city?"
+        }
+      ],
+      "notes": "Answer with 'Ja, sehr!' or 'Es gefällt mir gut.'",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "😊",
+      "imageable": false,
+      "tags": [
+        "smalltalk"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "ich-wohne-seit"
+      ]
+    },
+    {
+      "id": "wie-war-dein-wochenende",
+      "word": "Wie war dein Wochenende?",
+      "lemma": "Wie war dein Wochenende",
+      "translation": "How was your weekend?",
+      "translations": [
+        "How was your weekend?"
+      ],
+      "level": "A2",
+      "category": "Small Talk & Conversation",
+      "partOfSpeech": "phrase",
+      "frequency": 700,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Guten Morgen! Wie war dein Wochenende?",
+          "en": "Good morning! How was your weekend?"
+        },
+        {
+          "de": "Mein Wochenende war ruhig, danke.",
+          "en": "My weekend was quiet, thanks."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wie ___ dein Wochenende?",
+          "answer": "war",
+          "en": "How was your weekend?"
+        }
+      ],
+      "notes": "'war' is the Präteritum of sein — used in speech even though most verbs aren't.",
+      "mnemonic": null,
+      "germany_context": "The standard Monday-morning opener with colleagues.",
+      "emoji": "🗓️",
+      "imageable": false,
+      "tags": [
+        "smalltalk",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "hast-du-plaene"
+      ]
+    },
+    {
+      "id": "hast-du-plaene",
+      "word": "Hast du Pläne fürs Wochenende?",
+      "lemma": "Hast du Pläne fürs Wochenende",
+      "translation": "Do you have plans for the weekend?",
+      "translations": [
+        "Do you have plans for the weekend?"
+      ],
+      "level": "A2",
+      "category": "Small Talk & Conversation",
+      "partOfSpeech": "phrase",
+      "frequency": 850,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Hast du schon Pläne fürs Wochenende?",
+          "en": "Do you have plans for the weekend yet?"
+        },
+        {
+          "de": "Nein, noch nichts Konkretes.",
+          "en": "No, nothing concrete yet."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Hast du ___ für heute Abend?",
+          "answer": "Pläne",
+          "en": "Do you have plans for tonight?"
+        }
+      ],
+      "notes": "'fürs' is short for 'für das'.",
+      "mnemonic": null,
+      "germany_context": "The standard Friday-afternoon question.",
+      "emoji": "📅",
+      "imageable": false,
+      "tags": [
+        "smalltalk"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "wie-war-dein-wochenende"
+      ]
+    },
+    {
+      "id": "was-hast-du-gemacht",
+      "word": "Was hast du gemacht?",
+      "lemma": "Was hast du gemacht",
+      "translation": "What did you do?",
+      "translations": [
+        "What did you do?"
+      ],
+      "level": "A2",
+      "category": "Small Talk & Conversation",
+      "partOfSpeech": "phrase",
+      "frequency": 640,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Was hast du am Wochenende gemacht?",
+          "en": "What did you do at the weekend?"
+        },
+        {
+          "de": "Ich habe nur entspannt.",
+          "en": "I just relaxed."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Was hast du gestern ___?",
+          "answer": "gemacht",
+          "en": "What did you do yesterday?"
+        }
+      ],
+      "notes": "Perfekt tense — the participle goes to the very end.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "❓",
+      "imageable": false,
+      "tags": [
+        "smalltalk",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "wie-war-dein-wochenende"
+      ]
+    },
+    {
+      "id": "was-fuer-musik",
+      "word": "Was für Musik hörst du?",
+      "lemma": "Was für Musik hörst du",
+      "translation": "What kind of music do you listen to?",
+      "translations": [
+        "What kind of music do you listen to?"
+      ],
+      "level": "A2",
+      "category": "Small Talk & Conversation",
+      "partOfSpeech": "phrase",
+      "frequency": 1200,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Was für Musik hörst du gern?",
+          "en": "What kind of music do you like listening to?"
+        },
+        {
+          "de": "Was für Filme magst du?",
+          "en": "What kind of films do you like?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Was ___ Musik hörst du?",
+          "answer": "für",
+          "en": "What kind of music do you listen to?"
+        }
+      ],
+      "notes": "'Was für ein…?' = what kind of…? A very useful pattern for any topic.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🎵",
+      "imageable": false,
+      "tags": [
+        "smalltalk"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "ich-interessiere-mich"
+      ]
+    },
+    {
+      "id": "ach-so",
+      "word": "Ach so!",
+      "lemma": "Ach so",
+      "translation": "Oh I see!",
+      "translations": [
+        "Oh I see!",
+        "Ah, right!"
+      ],
+      "level": "A1",
+      "category": "Small Talk & Conversation",
+      "partOfSpeech": "phrase",
+      "frequency": 450,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ach so, jetzt verstehe ich!",
+          "en": "Oh I see, now I understand!"
+        },
+        {
+          "de": "Ach so, das wusste ich nicht.",
+          "en": "Ah right, I didn't know that."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ so! Danke für die Erklärung.",
+          "answer": "Ach",
+          "en": "Oh I see! Thanks for the explanation."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Extremely common. Saying 'Ach so' at the right moment makes you sound far more fluent than you are.",
+      "emoji": "💡",
+      "imageable": false,
+      "tags": [
+        "smalltalk",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "wirklich",
+        "alles-klar-sm"
+      ]
+    },
+    {
+      "id": "alles-klar-sm",
+      "word": "Alles klar?",
+      "lemma": "Alles klar",
+      "translation": "Everything OK?",
+      "translations": [
+        "Everything OK?",
+        "All good?"
+      ],
+      "level": "A1",
+      "category": "Small Talk & Conversation",
+      "partOfSpeech": "phrase",
+      "frequency": 460,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Alles klar bei dir?",
+          "en": "All good with you?"
+        },
+        {
+          "de": "Alles klar, ich habe verstanden.",
+          "en": "All right, I understood."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Hey! ___ klar bei dir?",
+          "answer": "Alles",
+          "en": "Hey! All good with you?"
+        }
+      ],
+      "notes": "As a question it's a casual greeting; as a statement it means 'got it'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "👌",
+      "imageable": false,
+      "tags": [
+        "smalltalk",
+        "informal"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "ach-so"
+      ]
+    },
+    {
+      "id": "schade",
+      "word": "Schade!",
+      "lemma": "Schade",
+      "translation": "That's a shame!",
+      "translations": [
+        "That's a shame!",
+        "What a pity!"
+      ],
+      "level": "A1",
+      "category": "Small Talk & Conversation",
+      "partOfSpeech": "phrase",
+      "frequency": 550,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Schade, dass du nicht kommen kannst.",
+          "en": "It's a shame you can't come."
+        },
+        {
+          "de": "Wie schade!",
+          "en": "What a pity!"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___, dass es nicht geklappt hat.",
+          "answer": "Schade",
+          "en": "It's a shame it didn't work out."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "😞",
+      "imageable": false,
+      "tags": [
+        "smalltalk",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "wie-schoen"
+      ]
+    },
+    {
+      "id": "wie-schoen",
+      "word": "Wie schön!",
+      "lemma": "Wie schön",
+      "translation": "How lovely!",
+      "translations": [
+        "How lovely!",
+        "That's great!"
+      ],
+      "level": "A1",
+      "category": "Small Talk & Conversation",
+      "partOfSpeech": "phrase",
+      "frequency": 620,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Wie schön, dass du da bist!",
+          "en": "How lovely that you're here!"
+        },
+        {
+          "de": "Das ist ja toll!",
+          "en": "That's great!"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wie ___, dass ihr gekommen seid!",
+          "answer": "schön",
+          "en": "How lovely that you came!"
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🥰",
+      "imageable": false,
+      "tags": [
+        "smalltalk"
+      ],
+      "synonyms": [
+        "Toll!"
+      ],
+      "antonyms": [
+        "Schade"
+      ],
+      "related": [
+        "schade"
+      ]
+    },
+    {
+      "id": "was-gibt-es-neues",
+      "word": "Was gibt's Neues?",
+      "lemma": "Was gibt's Neues",
+      "translation": "What's new?",
+      "translations": [
+        "What's new?"
+      ],
+      "level": "A2",
+      "category": "Small Talk & Conversation",
+      "partOfSpeech": "phrase",
+      "frequency": 980,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Hallo! Was gibt's Neues bei dir?",
+          "en": "Hello! What's new with you?"
+        },
+        {
+          "de": "Nicht viel, alles wie immer.",
+          "en": "Not much, same as always."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Was ___ es Neues bei euch?",
+          "answer": "gibt",
+          "en": "What's new with you all?"
+        }
+      ],
+      "notes": "'gibt's' is short for 'gibt es'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🗞️",
+      "imageable": false,
+      "tags": [
+        "smalltalk"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "wie-gehts-sm"
+      ]
+    },
+    {
+      "id": "wie-gehts-sm",
+      "word": "Wie läuft's?",
+      "lemma": "Wie läuft's",
+      "translation": "How's it going?",
+      "translations": [
+        "How's it going?"
+      ],
+      "level": "A2",
+      "category": "Small Talk & Conversation",
+      "partOfSpeech": "phrase",
+      "frequency": 1000,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Wie läuft's mit dem neuen Job?",
+          "en": "How's it going with the new job?"
+        },
+        {
+          "de": "Läuft gut, danke!",
+          "en": "Going well, thanks!"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wie ___'s bei der Arbeit?",
+          "answer": "läuft",
+          "en": "How's it going at work?"
+        }
+      ],
+      "notes": "Informal. Note the stem change: laufen → läuft.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🏃",
+      "imageable": false,
+      "tags": [
+        "smalltalk",
+        "informal"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "was-gibt-es-neues"
+      ]
+    },
+    {
+      "id": "kein-wunder",
+      "word": "Kein Wunder!",
+      "lemma": "Kein Wunder",
+      "translation": "No wonder!",
+      "translations": [
+        "No wonder!"
+      ],
+      "level": "A2",
+      "category": "Small Talk & Conversation",
+      "partOfSpeech": "phrase",
+      "frequency": 1300,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Kein Wunder, dass du müde bist!",
+          "en": "No wonder you're tired!"
+        },
+        {
+          "de": "Kein Wunder bei dem Wetter.",
+          "en": "No wonder, with this weather."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ Wunder, du hast ja kaum geschlafen!",
+          "answer": "Kein",
+          "en": "No wonder, you barely slept!"
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🤨",
+      "imageable": false,
+      "tags": [
+        "smalltalk"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "klar-sm"
+      ]
+    },
+    {
+      "id": "klar-sm",
+      "word": "Klar!",
+      "lemma": "Klar",
+      "translation": "Sure!",
+      "translations": [
+        "Sure!",
+        "Of course!"
+      ],
+      "level": "A1",
+      "category": "Small Talk & Conversation",
+      "partOfSpeech": "phrase",
+      "frequency": 380,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Klar, mache ich gern!",
+          "en": "Sure, happy to!"
+        },
+        {
+          "de": "Kommst du mit? — Klar!",
+          "en": "Are you coming? — Sure!"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Hilfst du mir? — ___!",
+          "answer": "Klar",
+          "en": "Will you help me? — Sure!"
+        }
+      ],
+      "notes": "'Na klar!' is even more emphatic.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "👍",
+      "imageable": false,
+      "tags": [
+        "smalltalk",
+        "essential"
+      ],
+      "synonyms": [
+        "Natürlich",
+        "Na klar"
+      ],
+      "antonyms": [],
+      "related": [
+        "natuerlich-sm"
+      ]
+    },
+    {
+      "id": "natuerlich-sm",
+      "word": "Natürlich!",
+      "lemma": "Natürlich",
+      "translation": "Of course!",
+      "translations": [
+        "Of course!",
+        "Naturally!"
+      ],
+      "level": "A1",
+      "category": "Small Talk & Conversation",
+      "partOfSpeech": "phrase",
+      "frequency": 410,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Natürlich helfe ich dir.",
+          "en": "Of course I'll help you."
+        },
+        {
+          "de": "Darf ich? — Natürlich!",
+          "en": "May I? — Of course!"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ kannst du mitkommen!",
+          "answer": "Natürlich",
+          "en": "Of course you can come along!"
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "✅",
+      "imageable": false,
+      "tags": [
+        "smalltalk",
+        "essential"
+      ],
+      "synonyms": [
+        "Klar"
+      ],
+      "antonyms": [],
+      "related": [
+        "klar-sm"
+      ]
+    },
+    {
+      "id": "vielleicht-sm",
+      "word": "Vielleicht.",
+      "lemma": "Vielleicht",
+      "translation": "Maybe.",
+      "translations": [
+        "Maybe.",
+        "Perhaps."
+      ],
+      "level": "A1",
+      "category": "Small Talk & Conversation",
+      "partOfSpeech": "adverb",
+      "frequency": 290,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Vielleicht komme ich später.",
+          "en": "Maybe I'll come later."
+        },
+        {
+          "de": "Vielleicht hast du recht.",
+          "en": "Maybe you're right."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ gehen wir morgen ins Kino.",
+          "answer": "Vielleicht",
+          "en": "Maybe we'll go to the cinema tomorrow."
+        }
+      ],
+      "notes": "In position 1 it causes inversion: 'Vielleicht KOMME ICH später.'",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🤷",
+      "imageable": false,
+      "tags": [
+        "smalltalk",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "ich-glaube-schon"
+      ]
+    },
+    {
+      "id": "ich-glaube-schon",
+      "word": "Ich glaube schon.",
+      "lemma": "Ich glaube schon",
+      "translation": "I think so.",
+      "translations": [
+        "I think so."
+      ],
+      "level": "A2",
+      "category": "Small Talk & Conversation",
+      "partOfSpeech": "phrase",
+      "frequency": 1050,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Kommt er auch? — Ich glaube schon.",
+          "en": "Is he coming too? — I think so."
+        },
+        {
+          "de": "Ich glaube nicht.",
+          "en": "I don't think so."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ist das Amt offen? — Ich glaube ___.",
+          "answer": "schon",
+          "en": "Is the office open? — I think so."
+        }
+      ],
+      "notes": "The opposite is 'Ich glaube nicht.'",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🤔",
+      "imageable": false,
+      "tags": [
+        "smalltalk"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "vielleicht-sm"
+      ]
+    },
+    {
+      "id": "das-sehe-ich-anders",
+      "word": "Das sehe ich anders.",
+      "lemma": "Das sehe ich anders",
+      "translation": "I see it differently.",
+      "translations": [
+        "I see it differently."
+      ],
+      "level": "A2",
+      "category": "Small Talk & Conversation",
+      "partOfSpeech": "phrase",
+      "frequency": 1250,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Da sehe ich das anders.",
+          "en": "I see that differently."
+        },
+        {
+          "de": "Das sehe ich genauso.",
+          "en": "I see it exactly the same way."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Das ___ ich ehrlich gesagt anders.",
+          "answer": "sehe",
+          "en": "Honestly, I see that differently."
+        }
+      ],
+      "notes": "A softer way to disagree than a flat 'nein'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "👀",
+      "imageable": false,
+      "tags": [
+        "smalltalk"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "stimmt-sm"
+      ]
+    },
+    {
+      "id": "stimmt-sm",
+      "word": "Stimmt.",
+      "lemma": "Stimmt",
+      "translation": "True.",
+      "translations": [
+        "True.",
+        "That's right."
+      ],
+      "level": "A1",
+      "category": "Small Talk & Conversation",
+      "partOfSpeech": "phrase",
+      "frequency": 490,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Stimmt, daran hatte ich nicht gedacht.",
+          "en": "True, I hadn't thought of that."
+        },
+        {
+          "de": "Stimmt genau!",
+          "en": "Exactly right!"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___, das ist ein guter Punkt.",
+          "answer": "Stimmt",
+          "en": "True, that's a good point."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "✔️",
+      "imageable": false,
+      "tags": [
+        "smalltalk",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "das-sehe-ich-anders"
+      ]
+    },
+    {
+      "id": "das-freut-mich",
+      "word": "Das freut mich!",
+      "lemma": "Das freut mich",
+      "translation": "I'm glad!",
+      "translations": [
+        "I'm glad!",
+        "That's good to hear!"
+      ],
+      "level": "A2",
+      "category": "Small Talk & Conversation",
+      "partOfSpeech": "phrase",
+      "frequency": 880,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Das freut mich für dich!",
+          "en": "I'm glad for you!"
+        },
+        {
+          "de": "Es hat geklappt! — Das freut mich!",
+          "en": "It worked out! — I'm glad!"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Du hast die Wohnung bekommen? Das ___ mich!",
+          "answer": "freut",
+          "en": "You got the flat? I'm glad!"
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "😄",
+      "imageable": false,
+      "tags": [
+        "smalltalk"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "wie-schoen"
+      ]
+    },
+    {
+      "id": "darf-ich-fragen",
+      "word": "Darf ich dich etwas fragen?",
+      "lemma": "Darf ich dich etwas fragen",
+      "translation": "May I ask you something?",
+      "translations": [
+        "May I ask you something?"
+      ],
+      "level": "A2",
+      "category": "Small Talk & Conversation",
+      "partOfSpeech": "phrase",
+      "frequency": 1100,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Darf ich Sie etwas fragen?",
+          "en": "May I ask you something?"
+        },
+        {
+          "de": "Darf ich dich kurz etwas fragen?",
+          "en": "May I quickly ask you something?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ ich Sie etwas fragen?",
+          "answer": "Darf",
+          "en": "May I ask you something?"
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🙋",
+      "imageable": false,
+      "tags": [
+        "smalltalk",
+        "polite"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "was-machst-du-beruflich"
+      ]
+    },
+    {
+      "id": "wie-findest-du",
+      "word": "Wie findest du …?",
+      "lemma": "Wie findest du",
+      "translation": "What do you think of …?",
+      "translations": [
+        "What do you think of …?"
+      ],
+      "level": "A2",
+      "category": "Small Talk & Conversation",
+      "partOfSpeech": "phrase",
+      "frequency": 830,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Wie findest du die neue Wohnung?",
+          "en": "What do you think of the new flat?"
+        },
+        {
+          "de": "Wie finden Sie das Wetter hier?",
+          "en": "What do you think of the weather here?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wie ___ du diese Stadt?",
+          "answer": "findest",
+          "en": "What do you think of this city?"
+        }
+      ],
+      "notes": "Literally 'how do you find…' — the normal way to ask an opinion.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "💭",
+      "imageable": false,
+      "tags": [
+        "smalltalk",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "darf-ich-fragen"
+      ]
+    },
+    {
+      "id": "kennst-du-schon",
+      "word": "Kennst du schon …?",
+      "lemma": "Kennst du schon",
+      "translation": "Do you know … yet?",
+      "translations": [
+        "Do you know … yet?",
+        "Have you been to … yet?"
+      ],
+      "level": "A2",
+      "category": "Small Talk & Conversation",
+      "partOfSpeech": "phrase",
+      "frequency": 1150,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Kennst du schon das neue Café?",
+          "en": "Do you know the new café yet?"
+        },
+        {
+          "de": "Kennen Sie Berlin?",
+          "en": "Do you know Berlin?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ du schon meinen Kollegen?",
+          "answer": "Kennst",
+          "en": "Have you met my colleague yet?"
+        }
+      ],
+      "notes": "kennen = to be familiar with a person or place. wissen = to know a fact.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🤝",
+      "imageable": false,
+      "tags": [
+        "smalltalk"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "wie-findest-du"
+      ]
+    },
+    {
+      "id": "genau-so-ist-es",
+      "word": "So ist es.",
+      "lemma": "So ist es",
+      "translation": "That's how it is.",
+      "translations": [
+        "That's how it is."
+      ],
+      "level": "A2",
+      "category": "Small Talk & Conversation",
+      "partOfSpeech": "phrase",
+      "frequency": 1350,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ja, genau so ist es.",
+          "en": "Yes, that's exactly how it is."
+        },
+        {
+          "de": "So ist das Leben.",
+          "en": "That's life."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Genau ___ ist es!",
+          "answer": "so",
+          "en": "That's exactly how it is!"
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🤷",
+      "imageable": false,
+      "tags": [
+        "smalltalk"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "stimmt-sm"
+      ]
+    },
+    {
+      "id": "ich-muss-zugeben",
+      "word": "Ich muss zugeben, …",
+      "lemma": "Ich muss zugeben",
+      "translation": "I have to admit …",
+      "translations": [
+        "I have to admit …"
+      ],
+      "level": "A2",
+      "category": "Small Talk & Conversation",
+      "partOfSpeech": "phrase",
+      "frequency": 1400,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich muss zugeben, das war schwierig.",
+          "en": "I have to admit, that was difficult."
+        },
+        {
+          "de": "Ich muss zugeben, ich habe es vergessen.",
+          "en": "I have to admit, I forgot it."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich muss ___, ich verstehe das nicht.",
+          "answer": "zugeben",
+          "en": "I have to admit, I don't understand that."
+        }
+      ],
+      "notes": "zugeben is separable, but here it sits at the end anyway because of 'muss'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🙊",
+      "imageable": false,
+      "tags": [
+        "smalltalk"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "ehrlich-gesagt-sm"
+      ]
+    },
+    {
+      "id": "ehrlich-gesagt-sm",
+      "word": "Ehrlich gesagt …",
+      "lemma": "Ehrlich gesagt",
+      "translation": "Honestly …",
+      "translations": [
+        "Honestly …",
+        "To be honest …"
+      ],
+      "level": "A2",
+      "category": "Small Talk & Conversation",
+      "partOfSpeech": "phrase",
+      "frequency": 1080,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ehrlich gesagt, ich habe keine Lust.",
+          "en": "Honestly, I don't feel like it."
+        },
+        {
+          "de": "Ehrlich gesagt weiß ich es nicht.",
+          "en": "To be honest, I don't know."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ gesagt finde ich das zu teuer.",
+          "answer": "Ehrlich",
+          "en": "Honestly, I find that too expensive."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🫱",
+      "imageable": false,
+      "tags": [
+        "smalltalk"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "ich-muss-zugeben"
+      ]
+    }
+  ]
+}

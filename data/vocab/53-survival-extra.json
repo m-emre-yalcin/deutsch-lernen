@@ -1,0 +1,512 @@
+{
+  "category": "Survival Phrases",
+  "words": [
+    {
+      "id": "vorsicht",
+      "word": "Vorsicht!",
+      "lemma": "Vorsicht",
+      "translation": "careful!",
+      "translations": ["careful!", "watch out!", "caution"],
+      "level": "A0",
+      "category": "Survival Phrases",
+      "partOfSpeech": "phrase",
+      "frequency": 700,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        { "de": "Vorsicht, die Stufe ist glatt!", "en": "Careful, the step is slippery!" },
+        { "de": "Vorsicht! Da kommt ein Fahrrad.", "en": "Watch out! There's a bike coming." }
+      ],
+      "cloze": [
+        {
+          "de": "___, der Kaffee ist sehr heiß!",
+          "answer": "Vorsicht",
+          "en": "Careful, the coffee is very hot!"
+        }
+      ],
+      "notes": "Vorsicht is the shout of warning; vorsichtig is the adjective ('Sei vorsichtig!' = be careful). Achtung works the same way and is more common on signs.",
+      "mnemonic": "VOR-sicht = 'fore-sight': look ahead before something hits you.",
+      "germany_context": "On train platforms you hear 'Vorsicht an der Bahnsteigkante!' and on stairs you see 'Vorsicht Stufe'. It is the standard warning word everywhere.",
+      "emoji": "⚠️",
+      "imageable": false,
+      "tags": ["survival", "emergency", "warning", "essential"],
+      "synonyms": ["Achtung"],
+      "antonyms": [],
+      "related": ["vorsichtig", "aufpassen", "es-brennt"]
+    },
+    {
+      "id": "es-brennt",
+      "word": "Es brennt!",
+      "lemma": "Es brennt",
+      "translation": "there's a fire!",
+      "translations": ["there's a fire!", "it's burning"],
+      "level": "A0",
+      "category": "Survival Phrases",
+      "partOfSpeech": "phrase",
+      "frequency": 900,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        { "de": "Schnell raus, es brennt!", "en": "Get out quickly, there's a fire!" },
+        { "de": "Es brennt im dritten Stock.", "en": "There's a fire on the third floor." }
+      ],
+      "cloze": [
+        {
+          "de": "Im Keller ___ es. Rufen Sie die Feuerwehr!",
+          "answer": "brennt",
+          "en": "There's a fire in the basement. Call the fire brigade!"
+        }
+      ],
+      "notes": "Always impersonal: 'es brennt', never 'ich brenne' for a building fire. Add the place: 'Es brennt in der Küche.'",
+      "mnemonic": null,
+      "germany_context": "Emergency number for fire and ambulance is 112, free from any phone. Give the address first, then say 'Es brennt.' Smoke detectors (Rauchmelder) are mandatory in German flats.",
+      "emoji": "🔥",
+      "imageable": false,
+      "tags": ["survival", "emergency", "fire"],
+      "synonyms": [],
+      "antonyms": [],
+      "related": ["feuer", "feuerwehr", "es-ist-ein-notfall", "notausgang"]
+    },
+    {
+      "id": "ich-brauche-einen-dolmetscher",
+      "word": "Ich brauche einen Dolmetscher.",
+      "lemma": "Ich brauche einen Dolmetscher",
+      "translation": "I need an interpreter.",
+      "translations": ["I need an interpreter.", "I need a translator."],
+      "level": "A1",
+      "category": "Survival Phrases",
+      "partOfSpeech": "phrase",
+      "frequency": 1400,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        { "de": "Ich brauche einen Dolmetscher, bitte.", "en": "I need an interpreter, please." },
+        { "de": "Für den Termin brauche ich einen Dolmetscher für Türkisch.", "en": "For the appointment I need an interpreter for Turkish." }
+      ],
+      "cloze": [
+        {
+          "de": "Mein Deutsch reicht dafür nicht. Ich brauche einen ___.",
+          "answer": "Dolmetscher",
+          "en": "My German isn't good enough for that. I need an interpreter."
+        }
+      ],
+      "notes": "Der Dolmetscher interprets speech, der Übersetzer translates text. Female form: die Dolmetscherin.",
+      "mnemonic": null,
+      "germany_context": "Police and courts must provide an interpreter free of charge. At the Ausländerbehörde, a bank or a doctor's practice you normally have to bring your own person along.",
+      "emoji": "🗣️",
+      "imageable": false,
+      "tags": ["survival", "language", "bureaucracy"],
+      "synonyms": [],
+      "antonyms": [],
+      "related": ["uebersetzen", "koennen-sie-das-uebersetzen", "ich-spreche-wenig-deutsch"]
+    },
+    {
+      "id": "ich-nehme-medikamente",
+      "word": "Ich nehme Medikamente.",
+      "lemma": "Ich nehme Medikamente",
+      "translation": "I take medication.",
+      "translations": ["I take medication.", "I'm on medication."],
+      "level": "A1",
+      "category": "Survival Phrases",
+      "partOfSpeech": "phrase",
+      "frequency": 1500,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        { "de": "Ich nehme jeden Morgen Medikamente.", "en": "I take medication every morning." },
+        { "de": "Ich nehme Medikamente gegen hohen Blutdruck.", "en": "I take medication for high blood pressure." }
+      ],
+      "cloze": [
+        {
+          "de": "Der Arzt fragt: Nehmen Sie ___? — Ja, seit zwei Jahren.",
+          "answer": "Medikamente",
+          "en": "The doctor asks: Do you take any medication? — Yes, for two years now."
+        }
+      ],
+      "notes": "In medical German the separable verb einnehmen is used: 'Ich nehme die Tablette einmal täglich ein.'",
+      "mnemonic": null,
+      "germany_context": "Bring the boxes or a printed Medikamentenplan to every appointment. Brand names differ from Turkey, so the doctor needs the Wirkstoff (active ingredient) on the package.",
+      "emoji": "💊",
+      "imageable": false,
+      "tags": ["survival", "health", "doctor"],
+      "synonyms": [],
+      "antonyms": [],
+      "related": ["medikament", "tablette", "ich-habe-diabetes"]
+    },
+    {
+      "id": "ich-habe-diabetes",
+      "word": "Ich habe Diabetes.",
+      "lemma": "Ich habe Diabetes",
+      "translation": "I have diabetes.",
+      "translations": ["I have diabetes."],
+      "level": "A1",
+      "category": "Survival Phrases",
+      "partOfSpeech": "phrase",
+      "frequency": 1900,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        { "de": "Ich habe Diabetes und brauche Insulin.", "en": "I have diabetes and I need insulin." },
+        { "de": "Mein Vater hat auch Diabetes.", "en": "My father has diabetes too." }
+      ],
+      "cloze": [
+        {
+          "de": "Bitte keinen Zucker in den Tee, ich habe ___.",
+          "answer": "Diabetes",
+          "en": "No sugar in the tea, please, I have diabetes."
+        }
+      ],
+      "notes": "Grammatically der Diabetes, but it is almost always used without an article. In everyday speech people also say 'Zucker haben'.",
+      "mnemonic": null,
+      "germany_context": "Say it before any Blutabnahme or Operation. Carry a Diabetiker-Ausweis in your wallet — German paramedics look there first. Insulin needs a Rezept and is covered by the Krankenkasse.",
+      "emoji": "💉",
+      "imageable": false,
+      "tags": ["survival", "health", "emergency"],
+      "synonyms": [],
+      "antonyms": [],
+      "related": ["ich-nehme-medikamente", "arzt", "zucker"]
+    },
+    {
+      "id": "ich-habe-mich-verfahren",
+      "word": "Ich habe mich verfahren.",
+      "lemma": "Ich habe mich verfahren",
+      "translation": "I've taken a wrong turn.",
+      "translations": ["I've taken a wrong turn.", "I got lost driving."],
+      "level": "A1",
+      "category": "Survival Phrases",
+      "partOfSpeech": "phrase",
+      "frequency": 1600,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        { "de": "Ich habe mich verfahren und finde die Autobahn nicht.", "en": "I took a wrong turn and can't find the motorway." },
+        { "de": "Entschuldigung, ich habe mich verfahren. Wie komme ich nach Köln?", "en": "Sorry, I got lost driving. How do I get to Cologne?" }
+      ],
+      "cloze": [
+        {
+          "de": "Wir kommen zu spät, weil wir uns ___ haben.",
+          "answer": "verfahren",
+          "en": "We're late because we took a wrong turn."
+        }
+      ],
+      "notes": "sich verfahren = get lost in a vehicle, sich verlaufen = get lost on foot. Both are reflexive and both use haben in the Perfekt.",
+      "mnemonic": null,
+      "germany_context": "German motorway signs name the next big city rather than a compass direction, so learn the major city in your direction (e.g. 'Richtung Hannover') before you set off.",
+      "emoji": "🚗",
+      "imageable": false,
+      "tags": ["survival", "directions", "transport"],
+      "synonyms": [],
+      "antonyms": [],
+      "related": ["ich-habe-mich-verlaufen", "sich-verlaufen", "wie-komme-ich-zu"]
+    },
+    {
+      "id": "koennen-sie-das-auf-der-karte-zeigen",
+      "word": "Können Sie mir das auf der Karte zeigen?",
+      "lemma": "Können Sie mir das auf der Karte zeigen",
+      "translation": "Can you show me that on the map?",
+      "translations": ["Can you show me that on the map?"],
+      "level": "A1",
+      "category": "Survival Phrases",
+      "partOfSpeech": "phrase",
+      "frequency": 1300,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        { "de": "Ich verstehe den Weg nicht. Können Sie mir das auf der Karte zeigen?", "en": "I don't understand the way. Can you show me that on the map?" },
+        { "de": "Können Sie mir auf der Karte zeigen, wo wir gerade sind?", "en": "Can you show me on the map where we are right now?" }
+      ],
+      "cloze": [
+        {
+          "de": "Wo ist das Hotel? Können Sie es mir auf der ___ zeigen?",
+          "answer": "Karte",
+          "en": "Where is the hotel? Can you show it to me on the map?"
+        }
+      ],
+      "notes": "die Karte means map, ticket, bank card and menu — context decides. For a city map you can also say der Stadtplan.",
+      "mnemonic": null,
+      "germany_context": "Handy when your phone dies: every Bahnhof has a large Stadtplan, and Touristeninformation offices hand out paper maps for free.",
+      "emoji": "🗺️",
+      "imageable": false,
+      "tags": ["survival", "directions", "asking"],
+      "synonyms": [],
+      "antonyms": [],
+      "related": ["karte", "stadtplan", "wie-komme-ich-zu"]
+    },
+    {
+      "id": "wann-machen-sie-zu",
+      "word": "Wann machen Sie zu?",
+      "lemma": "Wann machen Sie zu",
+      "translation": "When do you close?",
+      "translations": ["When do you close?", "What time do you shut?"],
+      "level": "A1",
+      "category": "Survival Phrases",
+      "partOfSpeech": "phrase",
+      "frequency": 1200,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        { "de": "Entschuldigung, wann machen Sie zu?", "en": "Excuse me, when do you close?" },
+        { "de": "Wann machen Sie zu? — Um achtzehn Uhr.", "en": "When do you close? — At six p.m." }
+      ],
+      "cloze": [
+        {
+          "de": "Wir haben noch Zeit. Wann ___ Sie zu?",
+          "answer": "machen",
+          "en": "We still have time. When do you close?"
+        }
+      ],
+      "notes": "zumachen is the everyday word; on signs you read 'geschlossen' or 'Wir schließen um 20 Uhr'. The opposite question is 'Wann machen Sie auf?'",
+      "mnemonic": null,
+      "germany_context": "Supermarkets usually close at 20 or 22 Uhr and stay shut all Sunday. Bäckereien often open Sunday morning, and in Berlin a Späti sells basics late at night.",
+      "emoji": "🕗",
+      "imageable": false,
+      "tags": ["survival", "shopping", "time"],
+      "synonyms": ["schließen"],
+      "antonyms": ["aufmachen"],
+      "related": ["zumachen", "geoeffnet", "oeffnungszeit", "geschlossen"]
+    },
+    {
+      "id": "koennen-sie-das-uebersetzen",
+      "word": "Können Sie das bitte übersetzen?",
+      "lemma": "Können Sie das bitte übersetzen",
+      "translation": "Could you translate that, please?",
+      "translations": ["Could you translate that, please?"],
+      "level": "A1",
+      "category": "Survival Phrases",
+      "partOfSpeech": "phrase",
+      "frequency": 1450,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        { "de": "Der Brief ist auf Deutsch. Können Sie das bitte übersetzen?", "en": "The letter is in German. Could you translate it, please?" },
+        { "de": "Ich verstehe das Formular nicht. Können Sie das bitte übersetzen?", "en": "I don't understand the form. Could you translate it, please?" }
+      ],
+      "cloze": [
+        {
+          "de": "Den Vertrag verstehe ich nicht. Können Sie ihn mir bitte ___?",
+          "answer": "übersetzen",
+          "en": "I don't understand the contract. Could you translate it for me, please?"
+        }
+      ],
+      "notes": "The modal können stays in position two and the infinitive übersetzen goes to the end. übersetzen is inseparable here (er übersetzt, er hat übersetzt).",
+      "mnemonic": null,
+      "germany_context": "Official letters such as a Bescheid or a Mahnung come in German only and often carry a two-week deadline, so get them translated the same week they arrive.",
+      "emoji": "📄",
+      "imageable": false,
+      "tags": ["survival", "language", "bureaucracy"],
+      "synonyms": [],
+      "antonyms": [],
+      "related": ["uebersetzen", "ich-brauche-einen-dolmetscher", "was-bedeutet"]
+    },
+    {
+      "id": "die-verbindung-ist-schlecht",
+      "word": "Die Verbindung ist schlecht.",
+      "lemma": "Die Verbindung ist schlecht",
+      "translation": "The connection is bad.",
+      "translations": ["The connection is bad.", "You're breaking up."],
+      "level": "A1",
+      "category": "Survival Phrases",
+      "partOfSpeech": "phrase",
+      "frequency": 1700,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        { "de": "Ich höre Sie kaum, die Verbindung ist schlecht.", "en": "I can hardly hear you, the connection is bad." },
+        { "de": "Die Verbindung ist schlecht, ich melde mich gleich noch einmal.", "en": "The connection is bad, I'll get in touch again in a moment." }
+      ],
+      "cloze": [
+        {
+          "de": "Können Sie mich hören? Die ___ ist heute sehr schlecht.",
+          "answer": "Verbindung",
+          "en": "Can you hear me? The connection is very bad today."
+        }
+      ],
+      "notes": "die Verbindung means a phone connection and a train connection alike: 'eine gute Verbindung nach Hamburg'. 'Ich habe kein Netz' means you have no signal at all.",
+      "mnemonic": null,
+      "germany_context": "Mobile coverage still drops out on Regionalbahn routes and inside older concrete buildings, so German colleagues accept 'schlechte Verbindung' as a normal reason to call back.",
+      "emoji": "📶",
+      "imageable": false,
+      "tags": ["survival", "phone", "problem"],
+      "synonyms": [],
+      "antonyms": [],
+      "related": ["verbindung", "der-empfang", "ich-rufe-spaeter-zurueck"]
+    },
+    {
+      "id": "ich-habe-mich-verwaehlt",
+      "word": "Ich habe mich verwählt.",
+      "lemma": "Ich habe mich verwählt",
+      "translation": "I dialled the wrong number.",
+      "translations": ["I dialled the wrong number.", "Sorry, wrong number."],
+      "level": "A1",
+      "category": "Survival Phrases",
+      "partOfSpeech": "phrase",
+      "frequency": 2100,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        { "de": "Entschuldigung, ich habe mich verwählt.", "en": "Sorry, I dialled the wrong number." },
+        { "de": "Tut mir leid, ich habe mich verwählt. Auf Wiederhören!", "en": "Sorry, I dialled the wrong number. Goodbye!" }
+      ],
+      "cloze": [
+        {
+          "de": "Hier wohnt niemand mit diesem Namen. Sie haben sich bestimmt ___.",
+          "answer": "verwählt",
+          "en": "Nobody with that name lives here. You must have dialled the wrong number."
+        }
+      ],
+      "notes": "sich verwählen = to misdial. On the phone you say goodbye with 'Auf Wiederhören', not 'Auf Wiedersehen'.",
+      "mnemonic": "wählen = to dial, ver- = it went wrong.",
+      "germany_context": null,
+      "emoji": "☎️",
+      "imageable": false,
+      "tags": ["survival", "phone", "apology"],
+      "synonyms": [],
+      "antonyms": [],
+      "related": ["anrufen-telefon", "telefonieren", "die-verbindung-ist-schlecht"]
+    },
+    {
+      "id": "ich-rufe-spaeter-zurueck",
+      "word": "Ich rufe später zurück.",
+      "lemma": "Ich rufe später zurück",
+      "translation": "I'll call back later.",
+      "translations": ["I'll call back later.", "I'll ring you back later."],
+      "level": "A1",
+      "category": "Survival Phrases",
+      "partOfSpeech": "phrase",
+      "frequency": 1250,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        { "de": "Ich bin gerade in einem Meeting, ich rufe später zurück.", "en": "I'm in a meeting right now, I'll call back later." },
+        { "de": "Kein Problem, ich rufe später zurück.", "en": "No problem, I'll call back later." }
+      ],
+      "cloze": [
+        {
+          "de": "Jetzt passt es schlecht. Ich ___ später zurück.",
+          "answer": "rufe",
+          "en": "Now is a bad time. I'll call back later."
+        }
+      ],
+      "notes": "zurückrufen is separable: ich rufe zurück, ich habe zurückgerufen. 'Rufen Sie mich bitte zurück' asks the other person to call you.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "📞",
+      "imageable": false,
+      "tags": ["survival", "phone", "work"],
+      "synonyms": [],
+      "antonyms": [],
+      "related": ["zurueckrufen", "anrufen-telefon", "moment-bitte"]
+    },
+    {
+      "id": "koennen-sie-lauter-sprechen",
+      "word": "Können Sie bitte lauter sprechen?",
+      "lemma": "Können Sie bitte lauter sprechen",
+      "translation": "Could you speak louder, please?",
+      "translations": ["Could you speak louder, please?", "Can you speak up, please?"],
+      "level": "A1",
+      "category": "Survival Phrases",
+      "partOfSpeech": "phrase",
+      "frequency": 1350,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        { "de": "Ich verstehe Sie nicht gut. Können Sie bitte lauter sprechen?", "en": "I can't hear you well. Could you speak louder, please?" },
+        { "de": "Können Sie bitte lauter sprechen? Hier ist es sehr laut.", "en": "Could you speak louder, please? It's very noisy here." }
+      ],
+      "cloze": [
+        {
+          "de": "Am Telefon höre ich Sie kaum. Können Sie bitte ___ sprechen?",
+          "answer": "lauter",
+          "en": "I can barely hear you on the phone. Could you speak louder, please?"
+        }
+      ],
+      "notes": "lauter is the comparative of laut. The polite opposite is 'Können Sie bitte leiser sprechen?' Pair it with 'Können Sie bitte langsamer sprechen?'",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🔊",
+      "imageable": false,
+      "tags": ["survival", "language", "asking"],
+      "synonyms": [],
+      "antonyms": [],
+      "related": ["langsamer-sprechen", "laut-adj", "wie-bitte"]
+    }
+  ]
+}

@@ -1,0 +1,1906 @@
+{
+  "category": "Redemittel — Expressing Yourself",
+  "words": [
+    {
+      "id": "ich-denke-dass",
+      "word": "Ich denke, dass …",
+      "lemma": "Ich denke dass",
+      "translation": "I think that …",
+      "translations": [
+        "I think that …"
+      ],
+      "level": "A2",
+      "category": "Redemittel — Expressing Yourself",
+      "partOfSpeech": "phrase",
+      "frequency": 500,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich denke, dass das eine gute Idee ist.",
+          "en": "I think that's a good idea."
+        },
+        {
+          "de": "Ich denke, dass wir mehr Zeit brauchen.",
+          "en": "I think we need more time."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich denke, ___ das zu teuer ist.",
+          "answer": "dass",
+          "en": "I think that's too expensive."
+        }
+      ],
+      "notes": "After dass the verb moves to the very END: 'dass das eine gute Idee IST'. This is the single most important word-order pattern to master.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "💭",
+      "imageable": false,
+      "tags": [
+        "opinion",
+        "essential"
+      ],
+      "synonyms": [
+        "Ich glaube, dass"
+      ],
+      "antonyms": [],
+      "related": [
+        "ich-glaube-dass",
+        "meiner-meinung-nach"
+      ]
+    },
+    {
+      "id": "ich-glaube-dass",
+      "word": "Ich glaube, dass …",
+      "lemma": "Ich glaube dass",
+      "translation": "I believe that …",
+      "translations": [
+        "I believe that …"
+      ],
+      "level": "A2",
+      "category": "Redemittel — Expressing Yourself",
+      "partOfSpeech": "phrase",
+      "frequency": 510,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich glaube, dass er recht hat.",
+          "en": "I believe he's right."
+        },
+        {
+          "de": "Ich glaube nicht, dass das funktioniert.",
+          "en": "I don't believe that works."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich glaube, dass es morgen ___.",
+          "answer": "regnet",
+          "en": "I believe it will rain tomorrow."
+        }
+      ],
+      "notes": "You can drop 'dass' and keep normal word order: 'Ich glaube, er hat recht.' Both are correct.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🤔",
+      "imageable": false,
+      "tags": [
+        "opinion"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "ich-denke-dass"
+      ]
+    },
+    {
+      "id": "meiner-meinung-nach",
+      "word": "Meiner Meinung nach …",
+      "lemma": "Meiner Meinung nach",
+      "translation": "In my opinion …",
+      "translations": [
+        "In my opinion …"
+      ],
+      "level": "A2",
+      "category": "Redemittel — Expressing Yourself",
+      "partOfSpeech": "phrase",
+      "frequency": 620,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Meiner Meinung nach ist das falsch.",
+          "en": "In my opinion that's wrong."
+        },
+        {
+          "de": "Meiner Meinung nach sollten wir warten.",
+          "en": "In my opinion we should wait."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Meiner ___ nach ist die Miete zu hoch.",
+          "answer": "Meinung",
+          "en": "In my opinion the rent is too high."
+        }
+      ],
+      "notes": "Because this phrase fills position 1, the verb comes straight after it and the subject follows: 'Meiner Meinung nach IST das falsch.'",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "💬",
+      "imageable": false,
+      "tags": [
+        "opinion",
+        "essential"
+      ],
+      "synonyms": [
+        "Ich finde"
+      ],
+      "antonyms": [],
+      "related": [
+        "ich-finde",
+        "ich-denke-dass"
+      ]
+    },
+    {
+      "id": "ich-finde",
+      "word": "Ich finde …",
+      "lemma": "Ich finde",
+      "translation": "I find …",
+      "translations": [
+        "I find …",
+        "I think …"
+      ],
+      "level": "A1",
+      "category": "Redemittel — Expressing Yourself",
+      "partOfSpeech": "phrase",
+      "frequency": 430,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich finde das sehr interessant.",
+          "en": "I find that very interesting."
+        },
+        {
+          "de": "Wie findest du den Film?",
+          "en": "What do you think of the film?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich ___ diese Stadt wirklich schön.",
+          "answer": "finde",
+          "en": "I find this city really beautiful."
+        }
+      ],
+      "notes": "'Wie findest du…?' is the everyday way to ask someone's opinion.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "👌",
+      "imageable": false,
+      "tags": [
+        "opinion",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "meiner-meinung-nach"
+      ]
+    },
+    {
+      "id": "ich-mag-lieber",
+      "word": "Ich mag lieber …",
+      "lemma": "Ich mag lieber",
+      "translation": "I prefer …",
+      "translations": [
+        "I prefer …"
+      ],
+      "level": "A2",
+      "category": "Redemittel — Expressing Yourself",
+      "partOfSpeech": "phrase",
+      "frequency": 700,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich mag lieber Kaffee als Tee.",
+          "en": "I prefer coffee to tea."
+        },
+        {
+          "de": "Ich gehe lieber zu Fuß.",
+          "en": "I prefer to walk."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich trinke ___ Tee als Kaffee.",
+          "answer": "lieber",
+          "en": "I prefer tea to coffee."
+        }
+      ],
+      "notes": "lieber is the comparative of gern. Compare with 'als': 'lieber X als Y'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "❤️",
+      "imageable": false,
+      "tags": [
+        "preference"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "am-liebsten",
+        "mir-gefaellt"
+      ]
+    },
+    {
+      "id": "am-liebsten",
+      "word": "Am liebsten …",
+      "lemma": "Am liebsten",
+      "translation": "Most of all I'd like …",
+      "translations": [
+        "Most of all I'd like …"
+      ],
+      "level": "A2",
+      "category": "Redemittel — Expressing Yourself",
+      "partOfSpeech": "phrase",
+      "frequency": 780,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Am liebsten bleibe ich zu Hause.",
+          "en": "Most of all I'd like to stay home."
+        },
+        {
+          "de": "Am liebsten esse ich italienisch.",
+          "en": "My favourite food is Italian."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ liebsten würde ich jetzt schlafen.",
+          "answer": "Am",
+          "en": "Most of all I'd like to sleep now."
+        }
+      ],
+      "notes": "The superlative of gern: gern → lieber → am liebsten.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "⭐",
+      "imageable": false,
+      "tags": [
+        "preference"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "ich-mag-lieber"
+      ]
+    },
+    {
+      "id": "mir-gefaellt",
+      "word": "Mir gefällt …",
+      "lemma": "Mir gefällt",
+      "translation": "I like …",
+      "translations": [
+        "I like …"
+      ],
+      "level": "A2",
+      "category": "Redemittel — Expressing Yourself",
+      "partOfSpeech": "phrase",
+      "frequency": 660,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Mir gefällt die Wohnung sehr.",
+          "en": "I really like the flat."
+        },
+        {
+          "de": "Mir gefallen diese Schuhe nicht.",
+          "en": "I don't like these shoes."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ gefällt diese Stadt sehr gut.",
+          "answer": "Mir",
+          "en": "I really like this city."
+        }
+      ],
+      "notes": "Backwards from English: the THING is the subject, so it's 'gefällt' for one thing and 'gefallen' for several. Literally 'it pleases me'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "😊",
+      "imageable": false,
+      "tags": [
+        "preference",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "ich-mag-lieber"
+      ]
+    },
+    {
+      "id": "da-hast-du-recht",
+      "word": "Da hast du recht.",
+      "lemma": "Da hast du recht",
+      "translation": "You're right there.",
+      "translations": [
+        "You're right there."
+      ],
+      "level": "A2",
+      "category": "Redemittel — Expressing Yourself",
+      "partOfSpeech": "phrase",
+      "frequency": 750,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Da hast du recht, das ist zu teuer.",
+          "en": "You're right there, that's too expensive."
+        },
+        {
+          "de": "Da haben Sie völlig recht.",
+          "en": "You're completely right there."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Da hast du ___, das war keine gute Idee.",
+          "answer": "recht",
+          "en": "You're right there, that wasn't a good idea."
+        }
+      ],
+      "notes": "'recht haben' = to be right. Note it's HAVE right, not BE right.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "👍",
+      "imageable": false,
+      "tags": [
+        "agreement",
+        "essential"
+      ],
+      "synonyms": [
+        "Das stimmt"
+      ],
+      "antonyms": [],
+      "related": [
+        "das-stimmt",
+        "ich-bin-anderer-meinung"
+      ]
+    },
+    {
+      "id": "das-stimmt",
+      "word": "Das stimmt.",
+      "lemma": "Das stimmt",
+      "translation": "That's right.",
+      "translations": [
+        "That's right.",
+        "That's true."
+      ],
+      "level": "A1",
+      "category": "Redemittel — Expressing Yourself",
+      "partOfSpeech": "phrase",
+      "frequency": 480,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Das stimmt, da hast du recht.",
+          "en": "That's true, you're right."
+        },
+        {
+          "de": "Das stimmt nicht!",
+          "en": "That's not true!"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ja, das ___ genau.",
+          "answer": "stimmt",
+          "en": "Yes, that's exactly right."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "✅",
+      "imageable": false,
+      "tags": [
+        "agreement",
+        "essential"
+      ],
+      "synonyms": [
+        "Genau"
+      ],
+      "antonyms": [],
+      "related": [
+        "genau",
+        "da-hast-du-recht"
+      ]
+    },
+    {
+      "id": "genau",
+      "word": "Genau!",
+      "lemma": "Genau",
+      "translation": "Exactly!",
+      "translations": [
+        "Exactly!",
+        "Precisely!"
+      ],
+      "level": "A1",
+      "category": "Redemittel — Expressing Yourself",
+      "partOfSpeech": "phrase",
+      "frequency": 320,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Genau, das meine ich auch.",
+          "en": "Exactly, that's what I think too."
+        },
+        {
+          "de": "Genau! So ist es.",
+          "en": "Exactly! That's how it is."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___! Das habe ich auch gedacht.",
+          "answer": "Genau",
+          "en": "Exactly! I thought so too."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Germans say 'genau' constantly — as agreement, as a filler, and to signal they're following you. Using it makes you sound noticeably more native.",
+      "emoji": "💯",
+      "imageable": false,
+      "tags": [
+        "agreement",
+        "essential"
+      ],
+      "synonyms": [
+        "Stimmt"
+      ],
+      "antonyms": [],
+      "related": [
+        "das-stimmt"
+      ]
+    },
+    {
+      "id": "ich-bin-anderer-meinung",
+      "word": "Ich bin anderer Meinung.",
+      "lemma": "Ich bin anderer Meinung",
+      "translation": "I disagree.",
+      "translations": [
+        "I disagree.",
+        "I see it differently."
+      ],
+      "level": "A2",
+      "category": "Redemittel — Expressing Yourself",
+      "partOfSpeech": "phrase",
+      "frequency": 880,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Da bin ich anderer Meinung.",
+          "en": "I disagree there."
+        },
+        {
+          "de": "Ich sehe das anders.",
+          "en": "I see it differently."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Da bin ich leider ___ Meinung.",
+          "answer": "anderer",
+          "en": "I'm afraid I disagree there."
+        }
+      ],
+      "notes": "A polite way to disagree. 'Ich sehe das anders' is softer and very common.",
+      "mnemonic": null,
+      "germany_context": "Germans disagree directly and it isn't considered rude — expect frank pushback in meetings and don't read it as hostility.",
+      "emoji": "🙅",
+      "imageable": false,
+      "tags": [
+        "disagreement"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "Da hast du recht"
+      ],
+      "related": [
+        "da-hast-du-recht"
+      ]
+    },
+    {
+      "id": "koennten-sie-bitte",
+      "word": "Könnten Sie bitte …?",
+      "lemma": "Könnten Sie bitte",
+      "translation": "Could you please …?",
+      "translations": [
+        "Could you please …?"
+      ],
+      "level": "A2",
+      "category": "Redemittel — Expressing Yourself",
+      "partOfSpeech": "phrase",
+      "frequency": 400,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Könnten Sie bitte das Fenster öffnen?",
+          "en": "Could you please open the window?"
+        },
+        {
+          "de": "Könnten Sie mir kurz helfen?",
+          "en": "Could you help me for a moment?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ Sie mir bitte helfen?",
+          "answer": "Könnten",
+          "en": "Could you please help me?"
+        }
+      ],
+      "notes": "könnten is the polite Konjunktiv form of können. It's noticeably softer than 'Können Sie…?'",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🙏",
+      "imageable": false,
+      "tags": [
+        "request",
+        "polite",
+        "essential"
+      ],
+      "synonyms": [
+        "Würden Sie bitte"
+      ],
+      "antonyms": [],
+      "related": [
+        "waere-es-moeglich",
+        "ich-haette-eine-frage"
+      ]
+    },
+    {
+      "id": "waere-es-moeglich",
+      "word": "Wäre es möglich, …?",
+      "lemma": "Wäre es möglich",
+      "translation": "Would it be possible …?",
+      "translations": [
+        "Would it be possible …?"
+      ],
+      "level": "A2",
+      "category": "Redemittel — Expressing Yourself",
+      "partOfSpeech": "phrase",
+      "frequency": 1000,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Wäre es möglich, den Termin zu verschieben?",
+          "en": "Would it be possible to move the appointment?"
+        },
+        {
+          "de": "Wäre das für Sie möglich?",
+          "en": "Would that be possible for you?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ es möglich, morgen zu kommen?",
+          "answer": "Wäre",
+          "en": "Would it be possible to come tomorrow?"
+        }
+      ],
+      "notes": "The most polite way to ask for something awkward. Followed by 'zu' + infinitive at the end.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🤝",
+      "imageable": false,
+      "tags": [
+        "request",
+        "polite"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "koennten-sie-bitte"
+      ]
+    },
+    {
+      "id": "ich-haette-eine-frage",
+      "word": "Ich hätte eine Frage.",
+      "lemma": "Ich hätte eine Frage",
+      "translation": "I have a question.",
+      "translations": [
+        "I have a question."
+      ],
+      "level": "A2",
+      "category": "Redemittel — Expressing Yourself",
+      "partOfSpeech": "phrase",
+      "frequency": 850,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Entschuldigung, ich hätte eine Frage.",
+          "en": "Excuse me, I have a question."
+        },
+        {
+          "de": "Ich hätte da noch eine Frage.",
+          "en": "I have one more question."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich ___ eine Frage zum Vertrag.",
+          "answer": "hätte",
+          "en": "I have a question about the contract."
+        }
+      ],
+      "notes": "'Ich hätte' rather than 'Ich habe' — the Konjunktiv makes it politer.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "❓",
+      "imageable": false,
+      "tags": [
+        "request",
+        "polite"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "koennten-sie-bitte"
+      ]
+    },
+    {
+      "id": "es-tut-mir-leid-aber",
+      "word": "Es tut mir leid, aber …",
+      "lemma": "Es tut mir leid aber",
+      "translation": "I'm sorry, but …",
+      "translations": [
+        "I'm sorry, but …"
+      ],
+      "level": "A2",
+      "category": "Redemittel — Expressing Yourself",
+      "partOfSpeech": "phrase",
+      "frequency": 820,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Es tut mir leid, aber ich kann nicht kommen.",
+          "en": "I'm sorry, but I can't come."
+        },
+        {
+          "de": "Es tut mir leid, aber das geht nicht.",
+          "en": "I'm sorry, but that's not possible."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Es tut mir leid, ___ ich habe keine Zeit.",
+          "answer": "aber",
+          "en": "I'm sorry, but I don't have time."
+        }
+      ],
+      "notes": "aber does NOT change the word order — 'aber ich KANN nicht', normal order.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "😔",
+      "imageable": false,
+      "tags": [
+        "apology"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "leider"
+      ]
+    },
+    {
+      "id": "leider",
+      "word": "Leider …",
+      "lemma": "leider",
+      "translation": "Unfortunately …",
+      "translations": [
+        "Unfortunately …"
+      ],
+      "level": "A1",
+      "category": "Redemittel — Expressing Yourself",
+      "partOfSpeech": "adverb",
+      "frequency": 390,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Leider habe ich keine Zeit.",
+          "en": "Unfortunately I don't have time."
+        },
+        {
+          "de": "Das geht leider nicht.",
+          "en": "Unfortunately that's not possible."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ kann ich morgen nicht kommen.",
+          "answer": "Leider",
+          "en": "Unfortunately I can't come tomorrow."
+        }
+      ],
+      "notes": "In position 1 it pushes the subject behind the verb: 'Leider HABE ICH keine Zeit.'",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "😕",
+      "imageable": false,
+      "tags": [
+        "apology",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "es-tut-mir-leid-aber",
+        "das-problem-ist"
+      ]
+    },
+    {
+      "id": "das-problem-ist",
+      "word": "Das Problem ist, dass …",
+      "lemma": "Das Problem ist dass",
+      "translation": "The problem is that …",
+      "translations": [
+        "The problem is that …"
+      ],
+      "level": "A2",
+      "category": "Redemittel — Expressing Yourself",
+      "partOfSpeech": "phrase",
+      "frequency": 950,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Das Problem ist, dass ich kein Auto habe.",
+          "en": "The problem is that I don't have a car."
+        },
+        {
+          "de": "Das Problem ist die Zeit.",
+          "en": "The problem is the time."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Das Problem ist, dass ich kein Deutsch ___.",
+          "answer": "spreche",
+          "en": "The problem is that I don't speak German."
+        }
+      ],
+      "notes": "Again dass sends the verb to the end.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "⚠️",
+      "imageable": false,
+      "tags": [
+        "explaining"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "ich-denke-dass",
+        "weil-grund"
+      ]
+    },
+    {
+      "id": "weil-grund",
+      "word": "…, weil …",
+      "lemma": "weil",
+      "translation": "…, because …",
+      "translations": [
+        "because"
+      ],
+      "level": "A1",
+      "category": "Redemittel — Expressing Yourself",
+      "partOfSpeech": "conjunction",
+      "frequency": 200,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich bleibe zu Hause, weil ich krank bin.",
+          "en": "I'm staying home because I'm ill."
+        },
+        {
+          "de": "Weil es regnet, nehme ich den Bus.",
+          "en": "Because it's raining, I'm taking the bus."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich komme nicht, ___ ich arbeiten muss.",
+          "answer": "weil",
+          "en": "I'm not coming because I have to work."
+        }
+      ],
+      "notes": "weil sends the verb to the very END: 'weil ich krank BIN'. This is the highest-value word-order rule at A1.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "➡️",
+      "imageable": false,
+      "tags": [
+        "reason",
+        "essential"
+      ],
+      "synonyms": [
+        "da"
+      ],
+      "antonyms": [],
+      "related": [
+        "deshalb",
+        "das-problem-ist"
+      ]
+    },
+    {
+      "id": "das-heisst",
+      "word": "das heißt",
+      "lemma": "das heißt",
+      "translation": "that is to say",
+      "translations": [
+        "that is to say",
+        "in other words"
+      ],
+      "level": "A2",
+      "category": "Redemittel — Expressing Yourself",
+      "partOfSpeech": "phrase",
+      "frequency": 900,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich komme später, das heißt gegen acht.",
+          "en": "I'm coming later, that is to say around eight."
+        },
+        {
+          "de": "Das heißt, wir müssen warten.",
+          "en": "In other words, we have to wait."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Er ist Rentner, das ___ er arbeitet nicht mehr.",
+          "answer": "heißt",
+          "en": "He's retired, that is to say he no longer works."
+        }
+      ],
+      "notes": "Abbreviated 'd. h.' in writing.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "➡️",
+      "imageable": false,
+      "tags": [
+        "explaining"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "zum-beispiel"
+      ]
+    },
+    {
+      "id": "einerseits-andererseits",
+      "word": "einerseits … andererseits",
+      "lemma": "einerseits andererseits",
+      "translation": "on the one hand … on the other",
+      "translations": [
+        "on the one hand … on the other hand"
+      ],
+      "level": "A2",
+      "category": "Redemittel — Expressing Yourself",
+      "partOfSpeech": "phrase",
+      "frequency": 1200,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Einerseits ist es teuer, andererseits ist die Qualität gut.",
+          "en": "On the one hand it's expensive, on the other the quality is good."
+        },
+        {
+          "de": "Einerseits will ich bleiben, andererseits muss ich gehen.",
+          "en": "On the one hand I want to stay, on the other I have to go."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Einerseits ist es weit, ___ ist die Miete günstig.",
+          "answer": "andererseits",
+          "en": "On the one hand it's far, on the other the rent is cheap."
+        }
+      ],
+      "notes": "Both halves sit in position 1, so both trigger inversion.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "⚖️",
+      "imageable": false,
+      "tags": [
+        "structuring"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "erstens-zweitens"
+      ]
+    },
+    {
+      "id": "erstens-zweitens",
+      "word": "erstens, zweitens, drittens",
+      "lemma": "erstens zweitens drittens",
+      "translation": "firstly, secondly, thirdly",
+      "translations": [
+        "firstly, secondly, thirdly"
+      ],
+      "level": "A2",
+      "category": "Redemittel — Expressing Yourself",
+      "partOfSpeech": "adverb",
+      "frequency": 1300,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Erstens ist es zu teuer, zweitens zu weit.",
+          "en": "Firstly it's too expensive, secondly too far."
+        },
+        {
+          "de": "Drittens habe ich keine Zeit.",
+          "en": "Thirdly, I don't have time."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ ist es teuer und zweitens zu klein.",
+          "answer": "Erstens",
+          "en": "Firstly it's expensive and secondly too small."
+        }
+      ],
+      "notes": "Useful for structuring an argument at the Amt or in a meeting.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🔢",
+      "imageable": false,
+      "tags": [
+        "structuring"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "zuerst-dann",
+        "einerseits-andererseits"
+      ]
+    },
+    {
+      "id": "zuerst-dann",
+      "word": "zuerst … dann … schließlich",
+      "lemma": "zuerst dann schließlich",
+      "translation": "first … then … finally",
+      "translations": [
+        "first … then … finally"
+      ],
+      "level": "A2",
+      "category": "Redemittel — Expressing Yourself",
+      "partOfSpeech": "adverb",
+      "frequency": 750,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Zuerst gehe ich einkaufen, dann koche ich.",
+          "en": "First I go shopping, then I cook."
+        },
+        {
+          "de": "Schließlich sind wir nach Hause gegangen.",
+          "en": "Finally we went home."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ machen wir die Anmeldung, dann das Konto.",
+          "answer": "Zuerst",
+          "en": "First we do the registration, then the account."
+        }
+      ],
+      "notes": "All of these trigger inversion when they start the sentence.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "1️⃣",
+      "imageable": false,
+      "tags": [
+        "structuring",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "erstens-zweitens"
+      ]
+    },
+    {
+      "id": "wollen-wir",
+      "word": "Wollen wir …?",
+      "lemma": "Wollen wir",
+      "translation": "Shall we …?",
+      "translations": [
+        "Shall we …?"
+      ],
+      "level": "A2",
+      "category": "Redemittel — Expressing Yourself",
+      "partOfSpeech": "phrase",
+      "frequency": 730,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Wollen wir einen Kaffee trinken?",
+          "en": "Shall we have a coffee?"
+        },
+        {
+          "de": "Wollen wir uns morgen treffen?",
+          "en": "Shall we meet tomorrow?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ wir ins Kino gehen?",
+          "answer": "Wollen",
+          "en": "Shall we go to the cinema?"
+        }
+      ],
+      "notes": "The friendly way to suggest something. 'Sollen wir…?' works too.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🙋",
+      "imageable": false,
+      "tags": [
+        "suggestion",
+        "essential"
+      ],
+      "synonyms": [
+        "Sollen wir"
+      ],
+      "antonyms": [],
+      "related": [
+        "wie-waere-es-mit",
+        "lass-uns"
+      ]
+    },
+    {
+      "id": "wie-waere-es-mit",
+      "word": "Wie wäre es mit …?",
+      "lemma": "Wie wäre es mit",
+      "translation": "How about …?",
+      "translations": [
+        "How about …?"
+      ],
+      "level": "A2",
+      "category": "Redemittel — Expressing Yourself",
+      "partOfSpeech": "phrase",
+      "frequency": 920,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Wie wäre es mit einem Spaziergang?",
+          "en": "How about a walk?"
+        },
+        {
+          "de": "Wie wäre es mit Freitag?",
+          "en": "How about Friday?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wie ___ es mit einem Kaffee?",
+          "answer": "wäre",
+          "en": "How about a coffee?"
+        }
+      ],
+      "notes": "'mit' always takes the dative: mit EINEM Spaziergang.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "💡",
+      "imageable": false,
+      "tags": [
+        "suggestion"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "wollen-wir",
+        "lass-uns"
+      ]
+    },
+    {
+      "id": "lass-uns",
+      "word": "Lass uns …!",
+      "lemma": "Lass uns",
+      "translation": "Let's …!",
+      "translations": [
+        "Let's …!"
+      ],
+      "level": "A2",
+      "category": "Redemittel — Expressing Yourself",
+      "partOfSpeech": "phrase",
+      "frequency": 800,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Lass uns nach Hause gehen.",
+          "en": "Let's go home."
+        },
+        {
+          "de": "Lasst uns morgen weitermachen.",
+          "en": "Let's carry on tomorrow."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ uns einen Kaffee trinken!",
+          "answer": "Lass",
+          "en": "Let's have a coffee!"
+        }
+      ],
+      "notes": "'Lass uns' to one person, 'Lasst uns' to several.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "👉",
+      "imageable": false,
+      "tags": [
+        "suggestion"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "wollen-wir"
+      ]
+    },
+    {
+      "id": "ich-bin-mir-nicht-sicher",
+      "word": "Ich bin mir nicht sicher.",
+      "lemma": "Ich bin mir nicht sicher",
+      "translation": "I'm not sure.",
+      "translations": [
+        "I'm not sure."
+      ],
+      "level": "A2",
+      "category": "Redemittel — Expressing Yourself",
+      "partOfSpeech": "phrase",
+      "frequency": 870,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich bin mir nicht sicher, ob das stimmt.",
+          "en": "I'm not sure whether that's right."
+        },
+        {
+          "de": "Da bin ich mir nicht ganz sicher.",
+          "en": "I'm not entirely sure about that."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich bin mir nicht ___, ob er kommt.",
+          "answer": "sicher",
+          "en": "I'm not sure whether he's coming."
+        }
+      ],
+      "notes": "Followed by 'ob' (whether) — and ob sends the verb to the end.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🤷",
+      "imageable": false,
+      "tags": [
+        "uncertainty",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "keine-ahnung",
+        "soweit-ich-weiss"
+      ]
+    },
+    {
+      "id": "keine-ahnung",
+      "word": "Keine Ahnung.",
+      "lemma": "Keine Ahnung",
+      "translation": "No idea.",
+      "translations": [
+        "No idea."
+      ],
+      "level": "A2",
+      "category": "Redemittel — Expressing Yourself",
+      "partOfSpeech": "phrase",
+      "frequency": 690,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Keine Ahnung, frag mal jemand anderen.",
+          "en": "No idea, ask someone else."
+        },
+        {
+          "de": "Ich habe keine Ahnung, wo das ist.",
+          "en": "I have no idea where that is."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Keine ___, das weiß ich wirklich nicht.",
+          "answer": "Ahnung",
+          "en": "No idea, I really don't know."
+        }
+      ],
+      "notes": "Informal. Don't use it at the Bürgeramt.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🤷",
+      "imageable": false,
+      "tags": [
+        "uncertainty",
+        "informal"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "ich-bin-mir-nicht-sicher"
+      ]
+    },
+    {
+      "id": "soweit-ich-weiss",
+      "word": "Soweit ich weiß, …",
+      "lemma": "Soweit ich weiß",
+      "translation": "As far as I know …",
+      "translations": [
+        "As far as I know …"
+      ],
+      "level": "A2",
+      "category": "Redemittel — Expressing Yourself",
+      "partOfSpeech": "phrase",
+      "frequency": 1100,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Soweit ich weiß, ist das Amt heute zu.",
+          "en": "As far as I know, the office is closed today."
+        },
+        {
+          "de": "Soweit ich weiß, kommt er später.",
+          "en": "As far as I know, he's coming later."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Soweit ich ___, beginnt der Kurs im Mai.",
+          "answer": "weiß",
+          "en": "As far as I know, the course starts in May."
+        }
+      ],
+      "notes": "A useful hedge when you're not certain.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🧐",
+      "imageable": false,
+      "tags": [
+        "uncertainty"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "ich-bin-mir-nicht-sicher"
+      ]
+    },
+    {
+      "id": "das-kommt-darauf-an",
+      "word": "Das kommt darauf an.",
+      "lemma": "Das kommt darauf an",
+      "translation": "It depends.",
+      "translations": [
+        "It depends."
+      ],
+      "level": "A2",
+      "category": "Redemittel — Expressing Yourself",
+      "partOfSpeech": "phrase",
+      "frequency": 940,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Das kommt darauf an, wie viel es kostet.",
+          "en": "It depends how much it costs."
+        },
+        {
+          "de": "Kommt drauf an.",
+          "en": "Depends."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Das ___ darauf an, ob ich Zeit habe.",
+          "answer": "kommt",
+          "en": "It depends whether I have time."
+        }
+      ],
+      "notes": "Shortened to 'Kommt drauf an' in speech.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "⚖️",
+      "imageable": false,
+      "tags": [
+        "uncertainty"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "mal-sehen"
+      ]
+    },
+    {
+      "id": "mal-sehen",
+      "word": "Mal sehen.",
+      "lemma": "Mal sehen",
+      "translation": "We'll see.",
+      "translations": [
+        "We'll see."
+      ],
+      "level": "A2",
+      "category": "Redemittel — Expressing Yourself",
+      "partOfSpeech": "phrase",
+      "frequency": 960,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Mal sehen, ob das klappt.",
+          "en": "We'll see if that works."
+        },
+        {
+          "de": "Mal sehen, was morgen passiert.",
+          "en": "We'll see what happens tomorrow."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Mal ___, ob wir Zeit haben.",
+          "answer": "sehen",
+          "en": "We'll see whether we have time."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "👀",
+      "imageable": false,
+      "tags": [
+        "uncertainty"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "das-kommt-darauf-an"
+      ]
+    },
+    {
+      "id": "auf-jeden-fall",
+      "word": "Auf jeden Fall!",
+      "lemma": "Auf jeden Fall",
+      "translation": "Definitely!",
+      "translations": [
+        "Definitely!",
+        "Absolutely!"
+      ],
+      "level": "A2",
+      "category": "Redemittel — Expressing Yourself",
+      "partOfSpeech": "phrase",
+      "frequency": 610,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Auf jeden Fall! Ich komme mit.",
+          "en": "Definitely! I'm coming along."
+        },
+        {
+          "de": "Das machen wir auf jeden Fall.",
+          "en": "We'll definitely do that."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Auf jeden ___! Sehr gerne.",
+          "answer": "Fall",
+          "en": "Definitely! With pleasure."
+        }
+      ],
+      "notes": "The opposite is 'auf keinen Fall' — absolutely not.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "💪",
+      "imageable": false,
+      "tags": [
+        "agreement"
+      ],
+      "synonyms": [
+        "Klar",
+        "Natürlich"
+      ],
+      "antonyms": [
+        "Auf keinen Fall"
+      ],
+      "related": [
+        "genau"
+      ]
+    },
+    {
+      "id": "ich-wuerde-sagen",
+      "word": "Ich würde sagen, …",
+      "lemma": "Ich würde sagen",
+      "translation": "I would say …",
+      "translations": [
+        "I would say …"
+      ],
+      "level": "A2",
+      "category": "Redemittel — Expressing Yourself",
+      "partOfSpeech": "phrase",
+      "frequency": 1050,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich würde sagen, das ist zu teuer.",
+          "en": "I would say that's too expensive."
+        },
+        {
+          "de": "Ich würde eher warten.",
+          "en": "I would rather wait."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich ___ sagen, wir warten noch.",
+          "answer": "würde",
+          "en": "I would say we wait a bit longer."
+        }
+      ],
+      "notes": "würde + infinitive is the everyday way to say 'would'. Softer than stating it flatly.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "💬",
+      "imageable": false,
+      "tags": [
+        "opinion",
+        "polite"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "meiner-meinung-nach",
+        "koennten-sie-bitte"
+      ]
+    },
+    {
+      "id": "ich-habe-vergessen-zu",
+      "word": "Ich habe vergessen, … zu …",
+      "lemma": "Ich habe vergessen zu",
+      "translation": "I forgot to …",
+      "translations": [
+        "I forgot to …"
+      ],
+      "level": "A2",
+      "category": "Redemittel — Expressing Yourself",
+      "partOfSpeech": "phrase",
+      "frequency": 1150,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich habe vergessen, dir zu schreiben.",
+          "en": "I forgot to write to you."
+        },
+        {
+          "de": "Er hat vergessen, das Formular mitzubringen.",
+          "en": "He forgot to bring the form."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich habe vergessen, den Termin ___ machen.",
+          "answer": "zu",
+          "en": "I forgot to make the appointment."
+        }
+      ],
+      "notes": "The 'zu + infinitive' goes to the end. With separable verbs the zu goes INSIDE: mitzubringen, anzurufen.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🤦",
+      "imageable": false,
+      "tags": [
+        "explaining"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "es-tut-mir-leid-aber"
+      ]
+    },
+    {
+      "id": "ich-freue-mich-auf",
+      "word": "Ich freue mich auf …",
+      "lemma": "Ich freue mich auf",
+      "translation": "I'm looking forward to …",
+      "translations": [
+        "I'm looking forward to …"
+      ],
+      "level": "A2",
+      "category": "Redemittel — Expressing Yourself",
+      "partOfSpeech": "phrase",
+      "frequency": 720,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich freue mich auf das Wochenende.",
+          "en": "I'm looking forward to the weekend."
+        },
+        {
+          "de": "Wir freuen uns auf deinen Besuch.",
+          "en": "We're looking forward to your visit."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich freue mich ___ den Urlaub.",
+          "answer": "auf",
+          "en": "I'm looking forward to the holiday."
+        }
+      ],
+      "notes": "'sich freuen AUF' + accusative = looking forward to something future. 'sich freuen ÜBER' = pleased about something that already happened.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "😃",
+      "imageable": false,
+      "tags": [
+        "feelings",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "ich-interessiere-mich-fuer"
+      ]
+    },
+    {
+      "id": "ich-interessiere-mich-fuer",
+      "word": "Ich interessiere mich für …",
+      "lemma": "Ich interessiere mich für",
+      "translation": "I'm interested in …",
+      "translations": [
+        "I'm interested in …"
+      ],
+      "level": "A2",
+      "category": "Redemittel — Expressing Yourself",
+      "partOfSpeech": "phrase",
+      "frequency": 790,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich interessiere mich für Musik.",
+          "en": "I'm interested in music."
+        },
+        {
+          "de": "Interessierst du dich für Fußball?",
+          "en": "Are you interested in football?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich interessiere mich ___ Geschichte.",
+          "answer": "für",
+          "en": "I'm interested in history."
+        }
+      ],
+      "notes": "Always 'für' + accusative. Reflexive in German where English isn't.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🎯",
+      "imageable": false,
+      "tags": [
+        "smalltalk",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "ich-freue-mich-auf"
+      ]
+    },
+    {
+      "id": "wenn-ich-ehrlich-bin",
+      "word": "Wenn ich ehrlich bin, …",
+      "lemma": "Wenn ich ehrlich bin",
+      "translation": "To be honest …",
+      "translations": [
+        "To be honest …"
+      ],
+      "level": "A2",
+      "category": "Redemittel — Expressing Yourself",
+      "partOfSpeech": "phrase",
+      "frequency": 1250,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Wenn ich ehrlich bin, gefällt mir das nicht.",
+          "en": "To be honest, I don't like that."
+        },
+        {
+          "de": "Ehrlich gesagt, das ist zu teuer.",
+          "en": "Honestly, that's too expensive."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wenn ich ehrlich ___, habe ich keine Lust.",
+          "answer": "bin",
+          "en": "To be honest, I don't feel like it."
+        }
+      ],
+      "notes": "'Ehrlich gesagt' means the same and is shorter. Note wenn sends the verb to the end.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🫱",
+      "imageable": false,
+      "tags": [
+        "opinion"
+      ],
+      "synonyms": [
+        "Ehrlich gesagt"
+      ],
+      "antonyms": [],
+      "related": [
+        "meiner-meinung-nach"
+      ]
+    }
+  ]
+}

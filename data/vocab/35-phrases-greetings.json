@@ -1,0 +1,2586 @@
+{
+  "category": "Greetings & Politeness",
+  "words": [
+    {
+      "id": "hallo",
+      "word": "Hallo",
+      "lemma": "Hallo",
+      "translation": "hello",
+      "translations": [
+        "hello",
+        "hi"
+      ],
+      "level": "A0",
+      "category": "Greetings & Politeness",
+      "partOfSpeech": "phrase",
+      "frequency": 10,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Hallo, wie geht es dir?",
+          "en": "Hello, how are you?"
+        },
+        {
+          "de": "Hallo zusammen!",
+          "en": "Hello everyone!"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___, ich bin Emre. Freut mich!",
+          "answer": "Hallo",
+          "en": "Hello, I'm Emre. Nice to meet you!"
+        }
+      ],
+      "notes": "Works with anyone at any time of day, though 'Guten Tag' is safer with strangers and officials.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "👋",
+      "imageable": false,
+      "tags": [
+        "greeting",
+        "essential"
+      ],
+      "synonyms": [
+        "Hi"
+      ],
+      "antonyms": [
+        "Tschüss"
+      ],
+      "related": [
+        "guten-tag",
+        "tschuess"
+      ]
+    },
+    {
+      "id": "guten-morgen",
+      "word": "Guten Morgen",
+      "lemma": "Guten Morgen",
+      "translation": "good morning",
+      "translations": [
+        "good morning"
+      ],
+      "level": "A0",
+      "category": "Greetings & Politeness",
+      "partOfSpeech": "phrase",
+      "frequency": 22,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Guten Morgen, haben Sie gut geschlafen?",
+          "en": "Good morning, did you sleep well?"
+        },
+        {
+          "de": "Guten Morgen, Frau Schmidt!",
+          "en": "Good morning, Ms Schmidt!"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ Morgen! Möchten Sie einen Kaffee?",
+          "answer": "Guten",
+          "en": "Good morning! Would you like a coffee?"
+        }
+      ],
+      "notes": "Used until about 10 or 11 am. Often shortened to just 'Morgen!' among colleagues.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🌅",
+      "imageable": false,
+      "tags": [
+        "greeting",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "Gute Nacht"
+      ],
+      "related": [
+        "guten-tag",
+        "guten-abend"
+      ]
+    },
+    {
+      "id": "guten-tag",
+      "word": "Guten Tag",
+      "lemma": "Guten Tag",
+      "translation": "good day",
+      "translations": [
+        "good day",
+        "hello"
+      ],
+      "level": "A0",
+      "category": "Greetings & Politeness",
+      "partOfSpeech": "phrase",
+      "frequency": 12,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Guten Tag, ich habe einen Termin.",
+          "en": "Hello, I have an appointment."
+        },
+        {
+          "de": "Guten Tag, was kann ich für Sie tun?",
+          "en": "Hello, what can I do for you?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Guten ___, ich möchte mich anmelden.",
+          "answer": "Tag",
+          "en": "Hello, I'd like to register."
+        }
+      ],
+      "notes": "The safe, neutral greeting for any stranger, shop, office or doctor.",
+      "mnemonic": null,
+      "germany_context": "Germans greet on entering a small shop, a waiting room or a lift. Saying nothing reads as rude.",
+      "emoji": "☀️",
+      "imageable": false,
+      "tags": [
+        "greeting",
+        "essential",
+        "formal"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "hallo",
+        "auf-wiedersehen"
+      ]
+    },
+    {
+      "id": "guten-abend",
+      "word": "Guten Abend",
+      "lemma": "Guten Abend",
+      "translation": "good evening",
+      "translations": [
+        "good evening"
+      ],
+      "level": "A0",
+      "category": "Greetings & Politeness",
+      "partOfSpeech": "phrase",
+      "frequency": 105,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Guten Abend, ein Tisch für zwei bitte.",
+          "en": "Good evening, a table for two please."
+        },
+        {
+          "de": "Guten Abend, schön Sie zu sehen.",
+          "en": "Good evening, nice to see you."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Guten ___! Wie war Ihr Tag?",
+          "answer": "Abend",
+          "en": "Good evening! How was your day?"
+        }
+      ],
+      "notes": "From roughly 6 pm. A greeting, not a farewell.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🌆",
+      "imageable": false,
+      "tags": [
+        "greeting"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "guten-tag",
+        "gute-nacht"
+      ]
+    },
+    {
+      "id": "gute-nacht",
+      "word": "Gute Nacht",
+      "lemma": "Gute Nacht",
+      "translation": "good night",
+      "translations": [
+        "good night"
+      ],
+      "level": "A0",
+      "category": "Greetings & Politeness",
+      "partOfSpeech": "phrase",
+      "frequency": 200,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Gute Nacht, schlaf gut!",
+          "en": "Good night, sleep well!"
+        },
+        {
+          "de": "Ich gehe ins Bett. Gute Nacht!",
+          "en": "I'm going to bed. Good night!"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Gute ___, bis morgen!",
+          "answer": "Nacht",
+          "en": "Good night, see you tomorrow!"
+        }
+      ],
+      "notes": "Only when someone is going to bed — never as a general evening greeting.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🌙",
+      "imageable": false,
+      "tags": [
+        "greeting",
+        "farewell"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "Guten Morgen"
+      ],
+      "related": [
+        "guten-abend"
+      ]
+    },
+    {
+      "id": "moin",
+      "word": "Moin",
+      "lemma": "Moin",
+      "translation": "hi (northern Germany)",
+      "translations": [
+        "hi",
+        "hello"
+      ],
+      "level": "A1",
+      "category": "Greetings & Politeness",
+      "partOfSpeech": "phrase",
+      "frequency": 900,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Moin! Alles klar bei dir?",
+          "en": "Hi! All good with you?"
+        },
+        {
+          "de": "Moin moin, kommst du mit?",
+          "en": "Hi there, are you coming along?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___! Schön dich zu sehen.",
+          "answer": "Moin",
+          "en": "Hi! Nice to see you."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Hamburg, Bremen and the whole north. Despite sounding like 'Morgen' it's used all day long. Saying 'Moin moin' twice is considered chatty.",
+      "emoji": "⚓",
+      "imageable": false,
+      "tags": [
+        "greeting",
+        "regional"
+      ],
+      "synonyms": [
+        "Hallo"
+      ],
+      "antonyms": [],
+      "related": [
+        "gruess-gott",
+        "servus"
+      ]
+    },
+    {
+      "id": "gruess-gott",
+      "word": "Grüß Gott",
+      "lemma": "Grüß Gott",
+      "translation": "hello (southern Germany)",
+      "translations": [
+        "hello"
+      ],
+      "level": "A1",
+      "category": "Greetings & Politeness",
+      "partOfSpeech": "phrase",
+      "frequency": 950,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Grüß Gott, was darf es sein?",
+          "en": "Hello, what can I get you?"
+        },
+        {
+          "de": "Grüß Gott, Herr Doktor.",
+          "en": "Hello, doctor."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ Gott! Schönen Tag noch.",
+          "answer": "Grüß",
+          "en": "Hello! Have a nice day."
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Bavaria and Austria. Literally 'greet God', but it carries no religious weight at all — it is simply the normal hello there.",
+      "emoji": "🥨",
+      "imageable": false,
+      "tags": [
+        "greeting",
+        "regional"
+      ],
+      "synonyms": [
+        "Servus"
+      ],
+      "antonyms": [],
+      "related": [
+        "moin",
+        "servus"
+      ]
+    },
+    {
+      "id": "servus",
+      "word": "Servus",
+      "lemma": "Servus",
+      "translation": "hi",
+      "translations": [
+        "hi",
+        "bye"
+      ],
+      "level": "A1",
+      "category": "Greetings & Politeness",
+      "partOfSpeech": "phrase",
+      "frequency": 1000,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Servus, wie geht's dir?",
+          "en": "Hi, how are you?"
+        },
+        {
+          "de": "Servus, bis später!",
+          "en": "Bye, see you later!"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___! Lange nicht gesehen.",
+          "answer": "Servus",
+          "en": "Hi! Long time no see."
+        }
+      ],
+      "notes": "Works as both hello and goodbye, but only informally.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🍺",
+      "imageable": false,
+      "tags": [
+        "greeting",
+        "regional",
+        "informal"
+      ],
+      "synonyms": [
+        "Grüß Gott"
+      ],
+      "antonyms": [],
+      "related": [
+        "gruess-gott",
+        "moin"
+      ]
+    },
+    {
+      "id": "tschuess",
+      "word": "Tschüss",
+      "lemma": "Tschüss",
+      "translation": "bye",
+      "translations": [
+        "bye"
+      ],
+      "level": "A0",
+      "category": "Greetings & Politeness",
+      "partOfSpeech": "phrase",
+      "frequency": 18,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Tschüss, bis morgen!",
+          "en": "Bye, see you tomorrow!"
+        },
+        {
+          "de": "Tschüss und schönes Wochenende!",
+          "en": "Bye and have a nice weekend!"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___, wir sehen uns nächste Woche!",
+          "answer": "Tschüss",
+          "en": "Bye, see you next week!"
+        }
+      ],
+      "notes": "Informal but extremely common — even shop staff use it.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "👋",
+      "imageable": false,
+      "tags": [
+        "farewell",
+        "essential"
+      ],
+      "synonyms": [
+        "Ciao"
+      ],
+      "antonyms": [
+        "Hallo"
+      ],
+      "related": [
+        "auf-wiedersehen",
+        "bis-bald"
+      ]
+    },
+    {
+      "id": "auf-wiedersehen",
+      "word": "Auf Wiedersehen",
+      "lemma": "Auf Wiedersehen",
+      "translation": "goodbye",
+      "translations": [
+        "goodbye"
+      ],
+      "level": "A0",
+      "category": "Greetings & Politeness",
+      "partOfSpeech": "phrase",
+      "frequency": 68,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Auf Wiedersehen und vielen Dank!",
+          "en": "Goodbye and thank you very much!"
+        },
+        {
+          "de": "Auf Wiedersehen, Frau Doktor.",
+          "en": "Goodbye, doctor."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Vielen Dank, auf ___!",
+          "answer": "Wiedersehen",
+          "en": "Thank you very much, goodbye!"
+        }
+      ],
+      "notes": "The formal goodbye. On the phone Germans say 'Auf Wiederhören' instead — you'll hear again rather than see again.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🚪",
+      "imageable": false,
+      "tags": [
+        "farewell",
+        "formal",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "Guten Tag"
+      ],
+      "related": [
+        "tschuess"
+      ]
+    },
+    {
+      "id": "bis-bald",
+      "word": "Bis bald",
+      "lemma": "Bis bald",
+      "translation": "see you soon",
+      "translations": [
+        "see you soon"
+      ],
+      "level": "A0",
+      "category": "Greetings & Politeness",
+      "partOfSpeech": "phrase",
+      "frequency": 250,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Bis bald, war schön dich zu sehen!",
+          "en": "See you soon, it was nice to see you!"
+        },
+        {
+          "de": "Also dann, bis bald!",
+          "en": "Right then, see you soon!"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Tschüss, bis ___!",
+          "answer": "bald",
+          "en": "Bye, see you soon!"
+        }
+      ],
+      "notes": "The same pattern gives you bis später (see you later), bis morgen (see you tomorrow), bis nächste Woche.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "👋",
+      "imageable": false,
+      "tags": [
+        "farewell"
+      ],
+      "synonyms": [
+        "Bis später"
+      ],
+      "antonyms": [],
+      "related": [
+        "tschuess",
+        "bis-morgen"
+      ]
+    },
+    {
+      "id": "bis-morgen",
+      "word": "Bis morgen",
+      "lemma": "Bis morgen",
+      "translation": "see you tomorrow",
+      "translations": [
+        "see you tomorrow"
+      ],
+      "level": "A0",
+      "category": "Greetings & Politeness",
+      "partOfSpeech": "phrase",
+      "frequency": 270,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Bis morgen im Büro!",
+          "en": "See you tomorrow at the office!"
+        },
+        {
+          "de": "Gute Nacht, bis morgen.",
+          "en": "Good night, see you tomorrow."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Schönen Feierabend, bis ___!",
+          "answer": "morgen",
+          "en": "Have a nice evening, see you tomorrow!"
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "📅",
+      "imageable": false,
+      "tags": [
+        "farewell"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "bis-bald"
+      ]
+    },
+    {
+      "id": "schoenen-tag-noch",
+      "word": "Schönen Tag noch!",
+      "lemma": "Schönen Tag noch",
+      "translation": "have a nice day",
+      "translations": [
+        "have a nice day"
+      ],
+      "level": "A1",
+      "category": "Greetings & Politeness",
+      "partOfSpeech": "phrase",
+      "frequency": 290,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Danke, schönen Tag noch!",
+          "en": "Thanks, have a nice day!"
+        },
+        {
+          "de": "Schönen Tag noch, auf Wiedersehen.",
+          "en": "Have a nice day, goodbye."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Vielen Dank. — ___ Tag noch!",
+          "answer": "Schönen",
+          "en": "Thank you very much. — Have a nice day!"
+        }
+      ],
+      "notes": "The standard sign-off at any counter. The reply is 'Danke, ebenfalls!' or 'Gleichfalls!'",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🌞",
+      "imageable": false,
+      "tags": [
+        "farewell",
+        "polite"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "schoenes-wochenende",
+        "gleichfalls"
+      ]
+    },
+    {
+      "id": "schoenes-wochenende",
+      "word": "Schönes Wochenende!",
+      "lemma": "Schönes Wochenende",
+      "translation": "have a nice weekend",
+      "translations": [
+        "have a nice weekend"
+      ],
+      "level": "A1",
+      "category": "Greetings & Politeness",
+      "partOfSpeech": "phrase",
+      "frequency": 330,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Schönes Wochenende, bis Montag!",
+          "en": "Have a nice weekend, see you Monday!"
+        },
+        {
+          "de": "Ihnen auch ein schönes Wochenende!",
+          "en": "You have a nice weekend too!"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Bis Montag und schönes ___!",
+          "answer": "Wochenende",
+          "en": "See you Monday and have a nice weekend!"
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Said to everyone on a Friday — colleagues, the baker, the bus driver. Not saying it back feels cold.",
+      "emoji": "🎉",
+      "imageable": false,
+      "tags": [
+        "farewell",
+        "polite"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "schoenen-tag-noch",
+        "gleichfalls"
+      ]
+    },
+    {
+      "id": "gleichfalls",
+      "word": "Gleichfalls!",
+      "lemma": "Gleichfalls",
+      "translation": "you too",
+      "translations": [
+        "you too",
+        "likewise"
+      ],
+      "level": "A1",
+      "category": "Greetings & Politeness",
+      "partOfSpeech": "phrase",
+      "frequency": 350,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Schönes Wochenende! — Danke, gleichfalls!",
+          "en": "Have a nice weekend! — Thanks, you too!"
+        },
+        {
+          "de": "Guten Appetit! — Gleichfalls!",
+          "en": "Enjoy your meal! — You too!"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Schönen Tag noch! — Danke, ___!",
+          "answer": "gleichfalls",
+          "en": "Have a nice day! — Thanks, you too!"
+        }
+      ],
+      "notes": "'Ebenfalls' means exactly the same. Both are the standard reply to any good wish.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🔁",
+      "imageable": false,
+      "tags": [
+        "polite",
+        "essential"
+      ],
+      "synonyms": [
+        "Ebenfalls"
+      ],
+      "antonyms": [],
+      "related": [
+        "schoenen-tag-noch"
+      ]
+    },
+    {
+      "id": "bitte",
+      "word": "bitte",
+      "lemma": "bitte",
+      "translation": "please",
+      "translations": [
+        "please",
+        "you're welcome",
+        "here you go"
+      ],
+      "level": "A0",
+      "category": "Greetings & Politeness",
+      "partOfSpeech": "phrase",
+      "frequency": 8,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Einen Kaffee, bitte.",
+          "en": "A coffee, please."
+        },
+        {
+          "de": "Danke! — Bitte!",
+          "en": "Thanks! — You're welcome!"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Können Sie mir ___ helfen?",
+          "answer": "bitte",
+          "en": "Could you please help me?"
+        }
+      ],
+      "notes": "Does triple duty: 'please', 'you're welcome', and 'here you go' when handing something over.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🙏",
+      "imageable": false,
+      "tags": [
+        "polite",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "danke",
+        "bitte-schoen"
+      ]
+    },
+    {
+      "id": "danke",
+      "word": "danke",
+      "lemma": "danke",
+      "translation": "thank you",
+      "translations": [
+        "thank you",
+        "thanks"
+      ],
+      "level": "A0",
+      "category": "Greetings & Politeness",
+      "partOfSpeech": "phrase",
+      "frequency": 7,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Danke für deine Hilfe!",
+          "en": "Thanks for your help!"
+        },
+        {
+          "de": "Nein, danke.",
+          "en": "No, thank you."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Vielen ___ für alles!",
+          "answer": "Dank",
+          "en": "Many thanks for everything!"
+        }
+      ],
+      "notes": "Careful: after 'vielen' or 'herzlichen' it becomes 'Dank' — vielen Dank, herzlichen Dank.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🙏",
+      "imageable": false,
+      "tags": [
+        "polite",
+        "essential"
+      ],
+      "synonyms": [
+        "Vielen Dank"
+      ],
+      "antonyms": [],
+      "related": [
+        "vielen-dank",
+        "bitte"
+      ]
+    },
+    {
+      "id": "vielen-dank",
+      "word": "Vielen Dank",
+      "lemma": "Vielen Dank",
+      "translation": "thank you very much",
+      "translations": [
+        "thank you very much"
+      ],
+      "level": "A0",
+      "category": "Greetings & Politeness",
+      "partOfSpeech": "phrase",
+      "frequency": 44,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Vielen Dank für Ihre Hilfe!",
+          "en": "Thank you very much for your help!"
+        },
+        {
+          "de": "Vielen Dank, das ist sehr nett.",
+          "en": "Thank you very much, that's very kind."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ Dank, Sie haben mir sehr geholfen.",
+          "answer": "Vielen",
+          "en": "Thank you very much, you helped me a lot."
+        }
+      ],
+      "notes": "'Danke schön' and 'Herzlichen Dank' are equally good.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🙏",
+      "imageable": false,
+      "tags": [
+        "polite",
+        "essential"
+      ],
+      "synonyms": [
+        "Danke schön"
+      ],
+      "antonyms": [],
+      "related": [
+        "danke",
+        "gern-geschehen"
+      ]
+    },
+    {
+      "id": "gern-geschehen",
+      "word": "Gern geschehen!",
+      "lemma": "Gern geschehen",
+      "translation": "you're welcome",
+      "translations": [
+        "you're welcome",
+        "my pleasure"
+      ],
+      "level": "A1",
+      "category": "Greetings & Politeness",
+      "partOfSpeech": "phrase",
+      "frequency": 360,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Vielen Dank! — Gern geschehen!",
+          "en": "Thank you very much! — You're welcome!"
+        },
+        {
+          "de": "Gern geschehen, jederzeit wieder.",
+          "en": "My pleasure, any time."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Danke schön! — ___ geschehen!",
+          "answer": "Gern",
+          "en": "Thank you! — You're welcome!"
+        }
+      ],
+      "notes": "'Bitte', 'Kein Problem' and 'Gerne' all work as replies to thanks too.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "😊",
+      "imageable": false,
+      "tags": [
+        "polite"
+      ],
+      "synonyms": [
+        "Bitte",
+        "Gerne"
+      ],
+      "antonyms": [],
+      "related": [
+        "vielen-dank",
+        "bitte"
+      ]
+    },
+    {
+      "id": "bitte-schoen",
+      "word": "Bitte schön",
+      "lemma": "Bitte schön",
+      "translation": "here you go",
+      "translations": [
+        "here you go",
+        "you're welcome"
+      ],
+      "level": "A1",
+      "category": "Greetings & Politeness",
+      "partOfSpeech": "phrase",
+      "frequency": 370,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Bitte schön, hier ist Ihr Kaffee.",
+          "en": "Here you go, here's your coffee."
+        },
+        {
+          "de": "Danke schön! — Bitte schön!",
+          "en": "Thank you! — You're welcome!"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ schön, hier ist Ihre Quittung.",
+          "answer": "Bitte",
+          "en": "Here you go, here's your receipt."
+        }
+      ],
+      "notes": "Said as things are handed over. 'Danke schön' / 'Bitte schön' pair up naturally.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🤲",
+      "imageable": false,
+      "tags": [
+        "polite"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "bitte",
+        "gern-geschehen"
+      ]
+    },
+    {
+      "id": "wie-geht-es-ihnen",
+      "word": "Wie geht es Ihnen?",
+      "lemma": "Wie geht es Ihnen",
+      "translation": "How are you? (formal)",
+      "translations": [
+        "How are you?"
+      ],
+      "level": "A0",
+      "category": "Greetings & Politeness",
+      "partOfSpeech": "phrase",
+      "frequency": 46,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Guten Tag, wie geht es Ihnen?",
+          "en": "Hello, how are you?"
+        },
+        {
+          "de": "Wie geht es Ihrer Familie?",
+          "en": "How is your family?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Guten Tag! Wie geht es ___?",
+          "answer": "Ihnen",
+          "en": "Hello! How are you?"
+        }
+      ],
+      "notes": "Ihnen is the formal dative — always capitalised when it means 'you'.",
+      "mnemonic": null,
+      "germany_context": "Unlike in English, this is a real question, not a greeting. Germans give an honest answer, so be ready for more than 'fine'.",
+      "emoji": "🤝",
+      "imageable": false,
+      "tags": [
+        "greeting",
+        "formal",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "wie-gehts",
+        "mir-geht-es-gut"
+      ]
+    },
+    {
+      "id": "wie-gehts",
+      "word": "Wie geht's?",
+      "lemma": "Wie geht's",
+      "translation": "How are you? (informal)",
+      "translations": [
+        "How are you?",
+        "How's it going?"
+      ],
+      "level": "A0",
+      "category": "Greetings & Politeness",
+      "partOfSpeech": "phrase",
+      "frequency": 47,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Hallo! Wie geht's?",
+          "en": "Hi! How are you?"
+        },
+        {
+          "de": "Wie geht's dir denn so?",
+          "en": "So how are you doing?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Hey, wie ___'s?",
+          "answer": "geht",
+          "en": "Hey, how's it going?"
+        }
+      ],
+      "notes": "Short for 'Wie geht es dir?'. Only with people you say du to.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "😊",
+      "imageable": false,
+      "tags": [
+        "greeting",
+        "informal",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "wie-geht-es-ihnen",
+        "mir-geht-es-gut"
+      ]
+    },
+    {
+      "id": "mir-geht-es-gut",
+      "word": "Mir geht es gut, danke.",
+      "lemma": "Mir geht es gut danke",
+      "translation": "I'm fine, thanks.",
+      "translations": [
+        "I'm fine, thanks."
+      ],
+      "level": "A0",
+      "category": "Greetings & Politeness",
+      "partOfSpeech": "phrase",
+      "frequency": 72,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Mir geht es gut, danke. Und Ihnen?",
+          "en": "I'm fine, thanks. And you?"
+        },
+        {
+          "de": "Danke, gut. Und dir?",
+          "en": "Fine, thanks. And you?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ geht es gut, danke der Nachfrage.",
+          "answer": "Mir",
+          "en": "I'm fine, thanks for asking."
+        }
+      ],
+      "notes": "Literally 'to me it goes well' — this construction uses the dative 'mir', never 'ich'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "👍",
+      "imageable": false,
+      "tags": [
+        "greeting",
+        "essential"
+      ],
+      "synonyms": [
+        "Danke, gut"
+      ],
+      "antonyms": [],
+      "related": [
+        "wie-gehts",
+        "und-dir"
+      ]
+    },
+    {
+      "id": "und-dir",
+      "word": "Und dir?",
+      "lemma": "Und dir",
+      "translation": "And you?",
+      "translations": [
+        "And you?"
+      ],
+      "level": "A0",
+      "category": "Greetings & Politeness",
+      "partOfSpeech": "phrase",
+      "frequency": 140,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Mir geht's gut. Und dir?",
+          "en": "I'm fine. And you?"
+        },
+        {
+          "de": "Danke, gut. Und Ihnen?",
+          "en": "Fine, thanks. And you? (formal)"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Mir geht es gut. Und ___?",
+          "answer": "dir",
+          "en": "I'm fine. And you?"
+        }
+      ],
+      "notes": "Dative again: 'dir' informally, 'Ihnen' formally. Not 'du' or 'Sie'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🔄",
+      "imageable": false,
+      "tags": [
+        "greeting",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "mir-geht-es-gut"
+      ]
+    },
+    {
+      "id": "freut-mich",
+      "word": "Freut mich!",
+      "lemma": "Freut mich",
+      "translation": "Nice to meet you!",
+      "translations": [
+        "Nice to meet you!"
+      ],
+      "level": "A0",
+      "category": "Greetings & Politeness",
+      "partOfSpeech": "phrase",
+      "frequency": 175,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich heiße Anna. — Freut mich, Emre.",
+          "en": "My name is Anna. — Nice to meet you, I'm Emre."
+        },
+        {
+          "de": "Es freut mich, Sie kennenzulernen.",
+          "en": "It's a pleasure to meet you."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Das ist meine Kollegin. — ___ mich!",
+          "answer": "Freut",
+          "en": "This is my colleague. — Nice to meet you!"
+        }
+      ],
+      "notes": "Short for 'Es freut mich, Sie kennenzulernen'. Usually said with a handshake.",
+      "mnemonic": null,
+      "germany_context": "A firm handshake with eye contact is standard on first meeting, in both social and work settings.",
+      "emoji": "🤝",
+      "imageable": false,
+      "tags": [
+        "greeting",
+        "essential"
+      ],
+      "synonyms": [
+        "Angenehm"
+      ],
+      "antonyms": [],
+      "related": [
+        "wie-heissen-sie"
+      ]
+    },
+    {
+      "id": "wie-heissen-sie",
+      "word": "Wie heißen Sie?",
+      "lemma": "Wie heißen Sie",
+      "translation": "What's your name? (formal)",
+      "translations": [
+        "What's your name?"
+      ],
+      "level": "A0",
+      "category": "Greetings & Politeness",
+      "partOfSpeech": "phrase",
+      "frequency": 88,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Guten Tag, wie heißen Sie?",
+          "en": "Hello, what's your name?"
+        },
+        {
+          "de": "Wie heißt du?",
+          "en": "What's your name? (informal)"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wie ___ Sie, bitte?",
+          "answer": "heißen",
+          "en": "What's your name, please?"
+        }
+      ],
+      "notes": "Informally: 'Wie heißt du?'. 'Wie ist Ihr Name?' is also common in offices.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🪪",
+      "imageable": false,
+      "tags": [
+        "greeting",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "freut-mich",
+        "woher-kommen-sie"
+      ]
+    },
+    {
+      "id": "woher-kommen-sie",
+      "word": "Woher kommen Sie?",
+      "lemma": "Woher kommen Sie",
+      "translation": "Where are you from?",
+      "translations": [
+        "Where are you from?"
+      ],
+      "level": "A0",
+      "category": "Greetings & Politeness",
+      "partOfSpeech": "phrase",
+      "frequency": 155,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Woher kommen Sie? — Aus der Türkei.",
+          "en": "Where are you from? — From Turkey."
+        },
+        {
+          "de": "Woher kommst du denn?",
+          "en": "So where are you from?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ kommen Sie? — Aus Istanbul.",
+          "answer": "Woher",
+          "en": "Where are you from? — From Istanbul."
+        }
+      ],
+      "notes": "woher = where FROM. Don't confuse it with wo (where something is) or wohin (where to).",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🌍",
+      "imageable": false,
+      "tags": [
+        "greeting",
+        "smalltalk",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "wie-heissen-sie"
+      ]
+    },
+    {
+      "id": "herzlichen-glueckwunsch",
+      "word": "Herzlichen Glückwunsch!",
+      "lemma": "Herzlichen Glückwunsch",
+      "translation": "Congratulations!",
+      "translations": [
+        "Congratulations!"
+      ],
+      "level": "A1",
+      "category": "Greetings & Politeness",
+      "partOfSpeech": "phrase",
+      "frequency": 430,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Herzlichen Glückwunsch zum Geburtstag!",
+          "en": "Happy birthday!"
+        },
+        {
+          "de": "Herzlichen Glückwunsch zur neuen Stelle!",
+          "en": "Congratulations on the new job!"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ Glückwunsch zum Geburtstag!",
+          "answer": "Herzlichen",
+          "en": "Happy birthday!"
+        }
+      ],
+      "notes": "Always 'Glückwunsch zu' + dative: zum Geburtstag, zur Hochzeit.",
+      "mnemonic": null,
+      "germany_context": "Never congratulate a German on a birthday BEFORE the day — it's widely considered bad luck.",
+      "emoji": "🎉",
+      "imageable": false,
+      "tags": [
+        "polite"
+      ],
+      "synonyms": [
+        "Alles Gute"
+      ],
+      "antonyms": [],
+      "related": [
+        "alles-gute",
+        "viel-glueck"
+      ]
+    },
+    {
+      "id": "alles-gute",
+      "word": "Alles Gute!",
+      "lemma": "Alles Gute",
+      "translation": "All the best!",
+      "translations": [
+        "All the best!"
+      ],
+      "level": "A1",
+      "category": "Greetings & Politeness",
+      "partOfSpeech": "phrase",
+      "frequency": 440,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Alles Gute zum Geburtstag!",
+          "en": "All the best for your birthday!"
+        },
+        {
+          "de": "Alles Gute für die Zukunft!",
+          "en": "All the best for the future!"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ Gute und viel Erfolg!",
+          "answer": "Alles",
+          "en": "All the best and good luck!"
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🎁",
+      "imageable": false,
+      "tags": [
+        "polite"
+      ],
+      "synonyms": [
+        "Herzlichen Glückwunsch"
+      ],
+      "antonyms": [],
+      "related": [
+        "herzlichen-glueckwunsch",
+        "viel-glueck"
+      ]
+    },
+    {
+      "id": "viel-glueck",
+      "word": "Viel Glück!",
+      "lemma": "Viel Glück",
+      "translation": "Good luck!",
+      "translations": [
+        "Good luck!"
+      ],
+      "level": "A1",
+      "category": "Greetings & Politeness",
+      "partOfSpeech": "phrase",
+      "frequency": 410,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Viel Glück bei der Prüfung!",
+          "en": "Good luck in the exam!"
+        },
+        {
+          "de": "Viel Glück beim Vorstellungsgespräch!",
+          "en": "Good luck with the job interview!"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Viel ___ morgen beim Termin!",
+          "answer": "Glück",
+          "en": "Good luck with the appointment tomorrow!"
+        }
+      ],
+      "notes": "'Viel Erfolg!' is used where effort rather than luck decides — exams, interviews, presentations.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🍀",
+      "imageable": false,
+      "tags": [
+        "polite"
+      ],
+      "synonyms": [
+        "Viel Erfolg"
+      ],
+      "antonyms": [],
+      "related": [
+        "alles-gute",
+        "gute-besserung"
+      ]
+    },
+    {
+      "id": "gute-besserung",
+      "word": "Gute Besserung!",
+      "lemma": "Gute Besserung",
+      "translation": "Get well soon!",
+      "translations": [
+        "Get well soon!"
+      ],
+      "level": "A1",
+      "category": "Greetings & Politeness",
+      "partOfSpeech": "phrase",
+      "frequency": 450,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Gute Besserung, ruh dich aus!",
+          "en": "Get well soon, get some rest!"
+        },
+        {
+          "de": "Ich bin krank. — Oh, gute Besserung!",
+          "en": "I'm ill. — Oh, get well soon!"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Du bist krank? Gute ___!",
+          "answer": "Besserung",
+          "en": "You're ill? Get well soon!"
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🤒",
+      "imageable": false,
+      "tags": [
+        "polite",
+        "health"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "viel-glueck"
+      ]
+    },
+    {
+      "id": "gute-reise",
+      "word": "Gute Reise!",
+      "lemma": "Gute Reise",
+      "translation": "Have a good trip!",
+      "translations": [
+        "Have a good trip!"
+      ],
+      "level": "A1",
+      "category": "Greetings & Politeness",
+      "partOfSpeech": "phrase",
+      "frequency": 470,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Gute Reise und komm gut an!",
+          "en": "Have a good trip and arrive safely!"
+        },
+        {
+          "de": "Ich fliege morgen. — Gute Reise!",
+          "en": "I'm flying tomorrow. — Have a good trip!"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Gute ___ und bis bald!",
+          "answer": "Reise",
+          "en": "Have a good trip and see you soon!"
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "✈️",
+      "imageable": false,
+      "tags": [
+        "polite",
+        "travel"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "viel-glueck"
+      ]
+    },
+    {
+      "id": "frohe-weihnachten",
+      "word": "Frohe Weihnachten!",
+      "lemma": "Frohe Weihnachten",
+      "translation": "Merry Christmas!",
+      "translations": [
+        "Merry Christmas!"
+      ],
+      "level": "A1",
+      "category": "Greetings & Politeness",
+      "partOfSpeech": "phrase",
+      "frequency": 700,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Frohe Weihnachten und ein gutes neues Jahr!",
+          "en": "Merry Christmas and a happy new year!"
+        },
+        {
+          "de": "Frohe Weihnachten euch allen!",
+          "en": "Merry Christmas to you all!"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ Weihnachten und schöne Feiertage!",
+          "answer": "Frohe",
+          "en": "Merry Christmas and happy holidays!"
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Germans celebrate on the evening of the 24th (Heiligabend), not the morning of the 25th. Almost everything shuts from midday on the 24th.",
+      "emoji": "🎄",
+      "imageable": false,
+      "tags": [
+        "polite",
+        "seasonal"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "frohes-neues-jahr"
+      ]
+    },
+    {
+      "id": "frohes-neues-jahr",
+      "word": "Frohes neues Jahr!",
+      "lemma": "Frohes neues Jahr",
+      "translation": "Happy New Year!",
+      "translations": [
+        "Happy New Year!"
+      ],
+      "level": "A1",
+      "category": "Greetings & Politeness",
+      "partOfSpeech": "phrase",
+      "frequency": 710,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Frohes neues Jahr! Alles Gute für 2026!",
+          "en": "Happy New Year! All the best for 2026!"
+        },
+        {
+          "de": "Guten Rutsch ins neue Jahr!",
+          "en": "Have a good slide into the new year!"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Frohes ___ Jahr!",
+          "answer": "neues",
+          "en": "Happy New Year!"
+        }
+      ],
+      "notes": "Before New Year's Eve Germans say 'Guten Rutsch!' — literally 'good slide'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🎆",
+      "imageable": false,
+      "tags": [
+        "polite",
+        "seasonal"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "frohe-weihnachten"
+      ]
+    },
+    {
+      "id": "frau-anrede",
+      "word": "Frau",
+      "lemma": "Frau",
+      "translation": "Ms",
+      "translations": [
+        "Ms",
+        "Mrs"
+      ],
+      "level": "A0",
+      "category": "Greetings & Politeness",
+      "partOfSpeech": "phrase",
+      "frequency": 121,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Guten Tag, Frau Schneider.",
+          "en": "Hello, Ms Schneider."
+        },
+        {
+          "de": "Sehr geehrte Frau Klein,",
+          "en": "Dear Ms Klein,"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Auf Wiedersehen, ___ Fischer!",
+          "answer": "Frau",
+          "en": "Goodbye, Ms Fischer!"
+        }
+      ],
+      "notes": "Used for all adult women regardless of marital status. 'Fräulein' is long obsolete and sounds insulting.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "👩",
+      "imageable": false,
+      "tags": [
+        "polite",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "Herr"
+      ],
+      "related": [
+        "herr"
+      ]
+    },
+    {
+      "id": "entschuldigen-sie",
+      "word": "Entschuldigen Sie bitte",
+      "lemma": "Entschuldigen Sie bitte",
+      "translation": "Excuse me, please",
+      "translations": [
+        "Excuse me, please"
+      ],
+      "level": "A1",
+      "category": "Greetings & Politeness",
+      "partOfSpeech": "phrase",
+      "frequency": 165,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Entschuldigen Sie bitte, wo ist der Ausgang?",
+          "en": "Excuse me please, where is the exit?"
+        },
+        {
+          "de": "Entschuldigen Sie die Störung.",
+          "en": "Sorry to disturb you."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ Sie bitte, ist dieser Platz frei?",
+          "answer": "Entschuldigen",
+          "en": "Excuse me please, is this seat free?"
+        }
+      ],
+      "notes": "Slightly more formal than plain 'Entschuldigung'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🙇",
+      "imageable": false,
+      "tags": [
+        "polite",
+        "essential"
+      ],
+      "synonyms": [
+        "Verzeihung"
+      ],
+      "antonyms": [],
+      "related": []
+    },
+    {
+      "id": "darf-ich-vorstellen",
+      "word": "Darf ich vorstellen?",
+      "lemma": "Darf ich vorstellen",
+      "translation": "May I introduce …?",
+      "translations": [
+        "May I introduce …?"
+      ],
+      "level": "A2",
+      "category": "Greetings & Politeness",
+      "partOfSpeech": "phrase",
+      "frequency": 600,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Darf ich vorstellen: das ist meine Kollegin Anna.",
+          "en": "May I introduce: this is my colleague Anna."
+        },
+        {
+          "de": "Darf ich Ihnen Herrn Weber vorstellen?",
+          "en": "May I introduce Mr Weber to you?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Darf ich ___: das ist mein Bruder.",
+          "answer": "vorstellen",
+          "en": "May I introduce: this is my brother."
+        }
+      ],
+      "notes": "vorstellen is separable, but here it sits at the end already because of 'darf'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🤝",
+      "imageable": false,
+      "tags": [
+        "polite",
+        "social"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "freut-mich"
+      ]
+    },
+    {
+      "id": "schoenen-feierabend",
+      "word": "Schönen Feierabend!",
+      "lemma": "Schönen Feierabend",
+      "translation": "Have a nice evening after work!",
+      "translations": [
+        "Have a nice evening after work!"
+      ],
+      "level": "A2",
+      "category": "Greetings & Politeness",
+      "partOfSpeech": "phrase",
+      "frequency": 620,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Bis morgen, schönen Feierabend!",
+          "en": "See you tomorrow, have a nice evening!"
+        },
+        {
+          "de": "Ich mache jetzt Feierabend.",
+          "en": "I'm finishing work now."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Tschüss, schönen ___!",
+          "answer": "Feierabend",
+          "en": "Bye, have a nice evening after work!"
+        }
+      ],
+      "notes": "Feierabend is the time after work — there's no single English word for it.",
+      "mnemonic": null,
+      "germany_context": "Feierabend is close to sacred. Once the working day ends, colleagues genuinely stop contacting each other, and that is respected rather than resented.",
+      "emoji": "🌇",
+      "imageable": false,
+      "tags": [
+        "polite",
+        "work"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "schoenen-tag-noch"
+      ]
+    },
+    {
+      "id": "sehr-geehrte",
+      "word": "Sehr geehrte Damen und Herren",
+      "lemma": "Sehr geehrte Damen und Herren",
+      "translation": "Dear Sir or Madam",
+      "translations": [
+        "Dear Sir or Madam"
+      ],
+      "level": "A2",
+      "category": "Greetings & Politeness",
+      "partOfSpeech": "phrase",
+      "frequency": 680,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Sehr geehrte Damen und Herren, ich schreibe Ihnen wegen meiner Bewerbung.",
+          "en": "Dear Sir or Madam, I am writing regarding my application."
+        },
+        {
+          "de": "Sehr geehrte Frau Meyer, vielen Dank für Ihre Nachricht.",
+          "en": "Dear Ms Meyer, thank you for your message."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Sehr ___ Damen und Herren,",
+          "answer": "geehrte",
+          "en": "Dear Sir or Madam,"
+        }
+      ],
+      "notes": "The standard opening of any formal letter or email. Sign off with 'Mit freundlichen Grüßen'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "✉️",
+      "imageable": false,
+      "tags": [
+        "polite",
+        "formal",
+        "writing"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "mit-freundlichen-gruessen"
+      ]
+    },
+    {
+      "id": "mit-freundlichen-gruessen",
+      "word": "Mit freundlichen Grüßen",
+      "lemma": "Mit freundlichen Grüßen",
+      "translation": "Kind regards",
+      "translations": [
+        "Kind regards",
+        "Yours sincerely"
+      ],
+      "level": "A2",
+      "category": "Greetings & Politeness",
+      "partOfSpeech": "phrase",
+      "frequency": 690,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Mit freundlichen Grüßen, Emre Yalcin",
+          "en": "Kind regards, Emre Yalcin"
+        },
+        {
+          "de": "Viele Grüße und bis bald!",
+          "en": "Best wishes and see you soon!"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Mit freundlichen ___,",
+          "answer": "Grüßen",
+          "en": "Kind regards,"
+        }
+      ],
+      "notes": "Formal. Among colleagues and friends: 'Viele Grüße', 'Liebe Grüße' or just 'LG'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "📧",
+      "imageable": false,
+      "tags": [
+        "polite",
+        "formal",
+        "writing"
+      ],
+      "synonyms": [
+        "Viele Grüße"
+      ],
+      "antonyms": [],
+      "related": [
+        "sehr-geehrte"
+      ]
+    },
+    {
+      "id": "koennen-wir-uns-duzen",
+      "word": "Können wir uns duzen?",
+      "lemma": "Können wir uns duzen",
+      "translation": "Shall we use 'du'?",
+      "translations": [
+        "Shall we use 'du'?"
+      ],
+      "level": "A2",
+      "category": "Greetings & Politeness",
+      "partOfSpeech": "phrase",
+      "frequency": 850,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Wir arbeiten jetzt zusammen — können wir uns duzen?",
+          "en": "We work together now — shall we use 'du'?"
+        },
+        {
+          "de": "Gerne! Ich bin Thomas.",
+          "en": "Gladly! I'm Thomas."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Können wir uns ___?",
+          "answer": "duzen",
+          "en": "Shall we use 'du'?"
+        }
+      ],
+      "notes": "duzen = to say du. siezen = to say Sie.",
+      "mnemonic": null,
+      "germany_context": "The switch from Sie to du is offered by the older person, the woman, or the more senior colleague. Wait to be offered rather than assuming — but in startups and among under-30s, du is usually immediate.",
+      "emoji": "🤝",
+      "imageable": false,
+      "tags": [
+        "polite",
+        "social",
+        "essential"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "herr",
+        "frau-anrede"
+      ]
+    },
+    {
+      "id": "schoen-dich-zu-sehen",
+      "word": "Schön, dich zu sehen!",
+      "lemma": "Schön dich zu sehen",
+      "translation": "Good to see you!",
+      "translations": [
+        "Good to see you!"
+      ],
+      "level": "A2",
+      "category": "Greetings & Politeness",
+      "partOfSpeech": "phrase",
+      "frequency": 640,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Hallo! Schön, dich zu sehen!",
+          "en": "Hello! Good to see you!"
+        },
+        {
+          "de": "Schön, Sie wiederzusehen.",
+          "en": "Nice to see you again."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___, dich zu sehen!",
+          "answer": "Schön",
+          "en": "Good to see you!"
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "😊",
+      "imageable": false,
+      "tags": [
+        "greeting",
+        "social"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "freut-mich",
+        "lange-nicht-gesehen"
+      ]
+    },
+    {
+      "id": "lange-nicht-gesehen",
+      "word": "Lange nicht gesehen!",
+      "lemma": "Lange nicht gesehen",
+      "translation": "Long time no see!",
+      "translations": [
+        "Long time no see!"
+      ],
+      "level": "A2",
+      "category": "Greetings & Politeness",
+      "partOfSpeech": "phrase",
+      "frequency": 750,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Hey, lange nicht gesehen! Wie geht's?",
+          "en": "Hey, long time no see! How are you?"
+        },
+        {
+          "de": "Wir haben uns lange nicht gesehen.",
+          "en": "We haven't seen each other in a long time."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Hallo! ___ nicht gesehen!",
+          "answer": "Lange",
+          "en": "Hello! Long time no see!"
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "👀",
+      "imageable": false,
+      "tags": [
+        "greeting",
+        "social",
+        "informal"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "schoen-dich-zu-sehen"
+      ]
+    },
+    {
+      "id": "ich-muss-los",
+      "word": "Ich muss los.",
+      "lemma": "Ich muss los",
+      "translation": "I have to go.",
+      "translations": [
+        "I have to go.",
+        "I must be off."
+      ],
+      "level": "A2",
+      "category": "Greetings & Politeness",
+      "partOfSpeech": "phrase",
+      "frequency": 660,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Sorry, ich muss los — mein Zug fährt gleich.",
+          "en": "Sorry, I have to go — my train leaves shortly."
+        },
+        {
+          "de": "Es ist schon spät, ich muss langsam los.",
+          "en": "It's late, I should get going."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Es ist spät, ich muss ___.",
+          "answer": "los",
+          "en": "It's late, I have to go."
+        }
+      ],
+      "notes": "The natural, friendly way to leave a conversation.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🏃",
+      "imageable": false,
+      "tags": [
+        "farewell",
+        "informal"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "tschuess",
+        "bis-bald"
+      ]
+    },
+    {
+      "id": "melde-dich",
+      "word": "Melde dich mal!",
+      "lemma": "Melde dich mal",
+      "translation": "Get in touch!",
+      "translations": [
+        "Get in touch!",
+        "Let me hear from you!"
+      ],
+      "level": "A2",
+      "category": "Greetings & Politeness",
+      "partOfSpeech": "phrase",
+      "frequency": 780,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Tschüss, und melde dich mal!",
+          "en": "Bye, and get in touch!"
+        },
+        {
+          "de": "Melden Sie sich, wenn Sie Fragen haben.",
+          "en": "Get in touch if you have questions."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Bis bald und ___ dich mal!",
+          "answer": "melde",
+          "en": "See you soon and get in touch!"
+        }
+      ],
+      "notes": "sich melden = to get in touch. The 'mal' just softens it — it's very common and adds no real meaning.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "📞",
+      "imageable": false,
+      "tags": [
+        "farewell",
+        "social"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "bis-bald"
+      ]
+    },
+    {
+      "id": "wir-sollten-uns-treffen",
+      "word": "Wir sollten uns mal treffen.",
+      "lemma": "Wir sollten uns mal treffen",
+      "translation": "We should meet up sometime.",
+      "translations": [
+        "We should meet up sometime."
+      ],
+      "level": "A2",
+      "category": "Greetings & Politeness",
+      "partOfSpeech": "phrase",
+      "frequency": 820,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Wir sollten uns mal auf einen Kaffee treffen.",
+          "en": "We should meet up for a coffee sometime."
+        },
+        {
+          "de": "Lass uns nächste Woche treffen!",
+          "en": "Let's meet next week!"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wir sollten uns mal ___!",
+          "answer": "treffen",
+          "en": "We should meet up sometime!"
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": "Unlike the English version, a German usually means this literally — expect them to follow up and propose an actual date.",
+      "emoji": "☕",
+      "imageable": false,
+      "tags": [
+        "social"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "melde-dich"
+      ]
+    },
+    {
+      "id": "viel-spass",
+      "word": "Viel Spaß!",
+      "lemma": "Viel Spaß",
+      "translation": "Have fun!",
+      "translations": [
+        "Have fun!"
+      ],
+      "level": "A1",
+      "category": "Greetings & Politeness",
+      "partOfSpeech": "phrase",
+      "frequency": 390,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Viel Spaß beim Konzert!",
+          "en": "Have fun at the concert!"
+        },
+        {
+          "de": "Ich gehe ins Kino. — Viel Spaß!",
+          "en": "I'm going to the cinema. — Have fun!"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Viel ___ heute Abend!",
+          "answer": "Spaß",
+          "en": "Have fun tonight!"
+        }
+      ],
+      "notes": null,
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🎈",
+      "imageable": false,
+      "tags": [
+        "polite"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "schoenes-wochenende"
+      ]
+    },
+    {
+      "id": "willkommen",
+      "word": "Willkommen!",
+      "lemma": "Willkommen",
+      "translation": "Welcome!",
+      "translations": [
+        "Welcome!"
+      ],
+      "level": "A1",
+      "category": "Greetings & Politeness",
+      "partOfSpeech": "phrase",
+      "frequency": 500,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Herzlich willkommen in Deutschland!",
+          "en": "A warm welcome to Germany!"
+        },
+        {
+          "de": "Willkommen zu Hause!",
+          "en": "Welcome home!"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Herzlich ___ in Berlin!",
+          "answer": "willkommen",
+          "en": "A warm welcome to Berlin!"
+        }
+      ],
+      "notes": "'Herzlich willkommen' is the full, warmer form you'll see on signs.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🎊",
+      "imageable": false,
+      "tags": [
+        "greeting"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "hallo"
+      ]
+    }
+  ]
+}

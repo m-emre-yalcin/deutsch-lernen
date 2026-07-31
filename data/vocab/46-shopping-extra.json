@@ -1,0 +1,565 @@
+{
+  "category": "Shopping & Money",
+  "words": [
+    {
+      "id": "betrag",
+      "word": "der Betrag",
+      "lemma": "Betrag",
+      "translation": "amount",
+      "translations": ["amount", "sum"],
+      "level": "A2",
+      "category": "Shopping & Money",
+      "partOfSpeech": "noun",
+      "frequency": 1200,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Beträge",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Bitte überweisen Sie den Betrag bis Freitag.",
+          "en": "Please transfer the amount by Friday."
+        },
+        {
+          "de": "Der Betrag auf der Rechnung stimmt nicht.",
+          "en": "The amount on the invoice is not correct."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich habe den ___ schon bezahlt.",
+          "answer": "Betrag",
+          "en": "I have already paid the amount."
+        }
+      ],
+      "notes": "A sum of money on a bill or a transfer. Do not confuse it with 'der Beitrag' (membership fee, contribution) — one letter apart.",
+      "mnemonic": "The verb 'betragen' means 'to amount to': Der Betrag beträgt 50 Euro.",
+      "germany_context": "On German bills you constantly see Rechnungsbetrag (invoice total), Gesamtbetrag (grand total) and 'Betrag dankend erhalten' (paid, thank you).",
+      "emoji": "💶",
+      "imageable": false,
+      "tags": ["money", "shopping", "bank"],
+      "synonyms": ["Summe"],
+      "antonyms": [],
+      "related": ["rechnung", "preis", "ueberweisen"]
+    },
+    {
+      "id": "gutschein",
+      "word": "der Gutschein",
+      "lemma": "Gutschein",
+      "translation": "voucher",
+      "translations": ["voucher", "gift card", "coupon"],
+      "level": "A2",
+      "category": "Shopping & Money",
+      "partOfSpeech": "noun",
+      "frequency": 1300,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Gutscheine",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich habe einen Gutschein für zwanzig Euro bekommen.",
+          "en": "I got a voucher for twenty euros."
+        },
+        {
+          "de": "Der Gutschein gilt bis Ende des Jahres.",
+          "en": "The voucher is valid until the end of the year."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Kann ich den ___ auch online benutzen?",
+          "answer": "Gutschein",
+          "en": "Can I use the voucher online as well?"
+        }
+      ],
+      "notes": "The verb that goes with it is 'einlösen': einen Gutschein einlösen. A discount code in a web shop is 'der Gutscheincode'.",
+      "mnemonic": "gut + Schein = a 'good note' you can spend like money.",
+      "germany_context": "When a shop takes something back out of goodwill it usually offers a Gutschein rather than cash. By law a Gutschein stays valid for three years unless a longer date is printed on it.",
+      "emoji": "🎟️",
+      "imageable": true,
+      "tags": ["shopping", "money"],
+      "synonyms": [],
+      "antonyms": [],
+      "related": ["einloesen", "rabatt", "umtausch"]
+    },
+    {
+      "id": "gebraucht",
+      "word": "gebraucht",
+      "lemma": "gebraucht",
+      "translation": "second-hand",
+      "translations": ["second-hand", "used"],
+      "level": "A2",
+      "category": "Shopping & Money",
+      "partOfSpeech": "adjective",
+      "frequency": 1400,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich habe das Fahrrad gebraucht gekauft.",
+          "en": "I bought the bike second-hand."
+        },
+        {
+          "de": "Gebrauchte Möbel sind viel günstiger.",
+          "en": "Second-hand furniture is much cheaper."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Das Handy ist ___, aber wie neu.",
+          "answer": "gebraucht",
+          "en": "The phone is second-hand, but like new."
+        }
+      ],
+      "notes": "Past participle of 'brauchen' used as an adjective, so there is no comparative. A used car is 'der Gebrauchtwagen'.",
+      "mnemonic": "Already 'gebraucht' — used up by somebody else first.",
+      "germany_context": "The second-hand market here is huge and carries no stigma: Kleinanzeigen (formerly eBay Kleinanzeigen), Flohmärkte, and free 'zu verschenken' boxes left on the pavement. Furnishing a first flat this way saves hundreds of euros.",
+      "emoji": "♻️",
+      "imageable": false,
+      "tags": ["shopping", "adjective"],
+      "synonyms": [],
+      "antonyms": ["neu"],
+      "related": ["flohmarkt", "neu", "kaufen"]
+    },
+    {
+      "id": "einkaufszettel",
+      "word": "der Einkaufszettel",
+      "lemma": "Einkaufszettel",
+      "translation": "shopping list",
+      "translations": ["shopping list"],
+      "level": "A2",
+      "category": "Shopping & Money",
+      "partOfSpeech": "noun",
+      "frequency": 1500,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Einkaufszettel",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich schreibe schnell einen Einkaufszettel.",
+          "en": "I'll quickly write a shopping list."
+        },
+        {
+          "de": "Der Einkaufszettel liegt zu Hause auf dem Tisch.",
+          "en": "The shopping list is at home on the table."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Steht Milch auch auf dem ___?",
+          "answer": "Einkaufszettel",
+          "en": "Is milk on the shopping list too?"
+        }
+      ],
+      "notes": "'Die Einkaufsliste' means exactly the same and is the word people use for the list in an app.",
+      "mnemonic": "Einkauf + Zettel = a slip of paper for the shopping.",
+      "germany_context": null,
+      "emoji": "📝",
+      "imageable": true,
+      "tags": ["shopping", "everyday"],
+      "synonyms": ["Einkaufsliste"],
+      "antonyms": [],
+      "related": ["einkaufen", "einkauf", "supermarkt"]
+    },
+    {
+      "id": "warenkorb",
+      "word": "der Warenkorb",
+      "lemma": "Warenkorb",
+      "translation": "shopping cart",
+      "translations": ["shopping cart", "basket"],
+      "level": "A2",
+      "category": "Shopping & Money",
+      "partOfSpeech": "noun",
+      "frequency": 1600,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Warenkörbe",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Leg die Schuhe einfach in den Warenkorb.",
+          "en": "Just put the shoes in the shopping cart."
+        },
+        {
+          "de": "Mein Warenkorb ist noch leer.",
+          "en": "My shopping cart is still empty."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich habe das Buch in den ___ gelegt.",
+          "answer": "Warenkorb",
+          "en": "I put the book in the shopping cart."
+        }
+      ],
+      "notes": "Online shops only. The real basket you carry through a shop is 'der Einkaufskorb', the trolley is 'der Einkaufswagen'.",
+      "mnemonic": "Ware + Korb = a basket of goods.",
+      "germany_context": "On German shop sites the Warenkorb button sits top right; the checkout link is 'zur Kasse', and the final step is 'Kostenpflichtig bestellen' (order with obligation to pay).",
+      "emoji": "🛒",
+      "imageable": false,
+      "tags": ["shopping", "online"],
+      "synonyms": [],
+      "antonyms": [],
+      "related": ["einkaufskorb", "online-shop", "bestellen"]
+    },
+    {
+      "id": "versandkosten",
+      "word": "die Versandkosten",
+      "lemma": "Versandkosten",
+      "translation": "shipping costs",
+      "translations": ["shipping costs", "postage"],
+      "level": "A2",
+      "category": "Shopping & Money",
+      "partOfSpeech": "noun",
+      "frequency": 1700,
+      "gender": null,
+      "article": "die",
+      "plural": "die Versandkosten",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ab fünfzig Euro gibt es keine Versandkosten.",
+          "en": "From fifty euros there are no shipping costs."
+        },
+        {
+          "de": "Wie hoch sind die Versandkosten nach Österreich?",
+          "en": "How much are the shipping costs to Austria?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Pullover war günstig, aber die ___ waren teuer.",
+          "answer": "Versandkosten",
+          "en": "The pullover was cheap, but the shipping costs were expensive."
+        }
+      ],
+      "notes": "Plural only — always 'die Versandkosten', never a singular. 'versandkostenfrei' on a product page means free shipping.",
+      "mnemonic": "Versand (dispatch) + Kosten (costs).",
+      "germany_context": "Most German shops ship free above a threshold, usually 30-50 euros. Look for 'versandkostenfrei' and 'Kauf auf Rechnung' before you order — the second one lets you pay only after the parcel arrives.",
+      "emoji": "📦",
+      "imageable": false,
+      "tags": ["shopping", "online", "money"],
+      "synonyms": ["Porto"],
+      "antonyms": [],
+      "related": ["versand", "lieferung", "paket"]
+    },
+    {
+      "id": "stornieren",
+      "word": "stornieren",
+      "lemma": "stornieren",
+      "translation": "to cancel",
+      "translations": ["to cancel", "to cancel an order"],
+      "level": "A2",
+      "category": "Shopping & Money",
+      "partOfSpeech": "verb",
+      "frequency": 1800,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "storniere",
+        "du": "stornierst",
+        "er": "storniert",
+        "wir": "stornieren",
+        "ihr": "storniert",
+        "sie": "stornieren",
+        "praeteritum": "stornierte",
+        "perfekt": "hat storniert",
+        "imperativ": "storniere!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich möchte meine Bestellung stornieren.",
+          "en": "I would like to cancel my order."
+        },
+        {
+          "de": "Wir haben das Hotel gestern storniert.",
+          "en": "We cancelled the hotel yesterday."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Kann ich den Termin noch kostenlos ___?",
+          "answer": "stornieren",
+          "en": "Can I still cancel the appointment free of charge?"
+        }
+      ],
+      "notes": "Verbs in -ieren never take 'ge-' in the Perfekt: hat storniert. Use it for orders, bookings and tickets; an appointment is usually 'absagen', a contract 'kündigen'.",
+      "mnemonic": "The noun 'das Storno' is what booking sites and banks print on a cancelled item.",
+      "germany_context": "German shops normally let you stop an order only before it ships. Once the parcel is on its way you no longer cancel, you use your 14-day Widerrufsrecht and send it back.",
+      "emoji": "❌",
+      "imageable": false,
+      "tags": ["shopping", "online", "verb"],
+      "synonyms": ["absagen"],
+      "antonyms": ["bestellen"],
+      "related": ["bestellen", "absagen", "widerrufsrecht"]
+    },
+    {
+      "id": "bioladen",
+      "word": "der Bioladen",
+      "lemma": "Bioladen",
+      "translation": "organic food shop",
+      "translations": ["organic food shop", "health food store"],
+      "level": "A2",
+      "category": "Shopping & Money",
+      "partOfSpeech": "noun",
+      "frequency": 1900,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Bioläden",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Bioladen um die Ecke hat sehr gutes Brot.",
+          "en": "The organic shop around the corner has very good bread."
+        },
+        {
+          "de": "Im Bioladen ist alles etwas teurer.",
+          "en": "Everything is a bit more expensive in the organic shop."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Milch und Eier kaufe ich lieber im ___ als im Supermarkt.",
+          "answer": "Bioladen",
+          "en": "I prefer to buy milk and eggs at the organic shop rather than at the supermarket."
+        }
+      ],
+      "notes": "'Bio-' works as a prefix on almost anything: Biomilch, Biogemüse, Biofleisch, Bioladen.",
+      "mnemonic": "Bio + Laden = the shop for Bio.",
+      "germany_context": "Chains like Alnatura, denn's and Bio Company are in most cities, and normal supermarkets carry big organic ranges too. Only the green EU-Bio-Siegel on the pack is legally protected — words like 'natürlich' or 'aus der Region' mean nothing.",
+      "emoji": "🥕",
+      "imageable": true,
+      "tags": ["shopping", "food", "shop"],
+      "synonyms": ["Biomarkt"],
+      "antonyms": ["Discounter"],
+      "related": ["discounter", "supermarkt", "laden"]
+    },
+    {
+      "id": "einloesen",
+      "word": "einlösen",
+      "lemma": "einlösen",
+      "translation": "to redeem",
+      "translations": ["to redeem", "to cash in"],
+      "level": "A2",
+      "category": "Shopping & Money",
+      "partOfSpeech": "verb",
+      "frequency": 1900,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": true,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "löse ein",
+        "du": "löst ein",
+        "er": "löst ein",
+        "wir": "lösen ein",
+        "ihr": "löst ein",
+        "sie": "lösen ein",
+        "praeteritum": "löste ein",
+        "perfekt": "hat eingelöst",
+        "imperativ": "lös(e) ein!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich möchte diesen Gutschein einlösen.",
+          "en": "I would like to redeem this voucher."
+        },
+        {
+          "de": "Er löst den Pfandbon an der Kasse ein.",
+          "en": "He redeems the deposit voucher at the till."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Hast du den Gutschein schon ___?",
+          "answer": "eingelöst",
+          "en": "Have you already redeemed the voucher?"
+        }
+      ],
+      "notes": "Separable: Ich löse den Bon ein. Also used figuratively: 'ein Versprechen einlösen' = to keep a promise.",
+      "mnemonic": "ein + lösen — you 'release' the value out of a voucher.",
+      "germany_context": "The Pfandbon from the bottle machine is handed in at the till: say 'Bon einlösen, bitte'. You can take the money in cash or let it come off your shopping total.",
+      "emoji": "🎫",
+      "imageable": false,
+      "tags": ["shopping", "verb", "money"],
+      "synonyms": [],
+      "antonyms": [],
+      "related": ["gutschein", "pfandautomat", "kasse"]
+    },
+    {
+      "id": "selbstbedienung",
+      "word": "die Selbstbedienung",
+      "lemma": "Selbstbedienung",
+      "translation": "self-service",
+      "translations": ["self-service"],
+      "level": "A2",
+      "category": "Shopping & Money",
+      "partOfSpeech": "noun",
+      "frequency": 2100,
+      "gender": "f",
+      "article": "die",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "An der Tankstelle ist Selbstbedienung.",
+          "en": "At the petrol station it is self-service."
+        },
+        {
+          "de": "In deutschen Supermärkten ist Selbstbedienung ganz normal.",
+          "en": "Self-service is completely normal in German supermarkets."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Am Buffet gilt ___, du nimmst dir einfach einen Teller.",
+          "answer": "Selbstbedienung",
+          "en": "At the buffet it is self-service, you just take a plate."
+        }
+      ],
+      "notes": "Very often shortened to 'SB' on signs: SB-Kasse, SB-Waschanlage, SB-Bäckerei.",
+      "mnemonic": "selbst + Bedienung = you are your own waiter.",
+      "germany_context": "Nobody bags your groceries for you. The cashier scans very fast, so throw everything loose back into the trolley, pay, and repack calmly at the Packtisch behind the till — standing at the belt sorting your bags is the classic newcomer mistake.",
+      "emoji": "🙋",
+      "imageable": false,
+      "tags": ["shopping", "service"],
+      "synonyms": [],
+      "antonyms": ["Bedienung"],
+      "related": ["kasse", "kassierer", "einkaufswagen"]
+    },
+    {
+      "id": "mindesthaltbarkeitsdatum",
+      "word": "das Mindesthaltbarkeitsdatum",
+      "lemma": "Mindesthaltbarkeitsdatum",
+      "translation": "best-before date",
+      "translations": ["best-before date", "expiry date"],
+      "level": "A2",
+      "category": "Shopping & Money",
+      "partOfSpeech": "noun",
+      "frequency": 2200,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Mindesthaltbarkeitsdaten",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Das Mindesthaltbarkeitsdatum steht auf dem Deckel.",
+          "en": "The best-before date is on the lid."
+        },
+        {
+          "de": "Prüf mal das Mindesthaltbarkeitsdatum auf der Packung.",
+          "en": "Have a look at the best-before date on the packet."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Die Milch ist noch gut, das ___ ist erst nächste Woche.",
+          "answer": "Mindesthaltbarkeitsdatum",
+          "en": "The milk is still fine, the best-before date is not until next week."
+        }
+      ],
+      "notes": "Everyone says MHD. On packs it is printed as 'mindestens haltbar bis' — literally 'keeps at least until', not 'poison after'.",
+      "mnemonic": "mindestens haltbar bis = at least keeps until.",
+      "germany_context": "The MHD is a quality date, not a safety date: yoghurt, eggs, pasta and UHT milk are usually fine for days or weeks after it — smell and taste decide. Only raw meat and fish carry a real Verbrauchsdatum ('zu verbrauchen bis'), which you must respect. Supermarkets put yellow 30-50% stickers on food close to its MHD, mostly in the evening.",
+      "emoji": "📅",
+      "imageable": false,
+      "tags": ["shopping", "food", "label"],
+      "synonyms": [],
+      "antonyms": [],
+      "related": ["abgelaufen", "ablaufen", "frisch"]
+    },
+    {
+      "id": "widerrufsrecht",
+      "word": "das Widerrufsrecht",
+      "lemma": "Widerrufsrecht",
+      "translation": "right of withdrawal",
+      "translations": ["right of withdrawal", "right to cancel"],
+      "level": "A2",
+      "category": "Shopping & Money",
+      "partOfSpeech": "noun",
+      "frequency": 2400,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Widerrufsrechte",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Beim Online-Kauf hast du ein Widerrufsrecht von vierzehn Tagen.",
+          "en": "With an online purchase you have a fourteen-day right of withdrawal."
+        },
+        {
+          "de": "Das Widerrufsrecht gilt nicht für alle Waren.",
+          "en": "The right of withdrawal does not apply to all goods."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich schicke die Schuhe zurück, ich nutze mein ___.",
+          "answer": "Widerrufsrecht",
+          "en": "I am sending the shoes back, I am using my right of withdrawal."
+        }
+      ],
+      "notes": "'Der Widerruf' is the formal cancellation itself; in everyday speech people also say 'vom Kauf zurücktreten'.",
+      "mnemonic": "wider + rufen — you 'call back' your order.",
+      "germany_context": "By law you get 14 days to withdraw from anything bought online or by phone, with no reason given. The clock starts when the parcel arrives and a short e-mail is enough. It does not cover food, custom-made items or opened hygiene products — and it does not exist at all for things you bought in a physical shop.",
+      "emoji": "↩️",
+      "imageable": false,
+      "tags": ["shopping", "online", "law"],
+      "synonyms": ["Widerruf"],
+      "antonyms": [],
+      "related": ["retoure", "zurueckschicken", "online-shop"]
+    }
+  ]
+}

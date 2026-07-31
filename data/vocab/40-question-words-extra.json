@@ -1,0 +1,455 @@
+{
+  "category": "Articles & Question Words",
+  "words": [
+    {
+      "id": "wofuer",
+      "word": "wofür",
+      "lemma": "wofür",
+      "translation": "what for",
+      "translations": ["what for", "for what"],
+      "level": "A2",
+      "category": "Articles & Question Words",
+      "partOfSpeech": "adverb",
+      "frequency": 760,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Wofür brauchst du dieses Formular?",
+          "en": "What do you need this form for?"
+        },
+        {
+          "de": "Wofür ist dieser Knopf?",
+          "en": "What is this button for?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ interessierst du dich?",
+          "answer": "Wofür",
+          "en": "What are you interested in?"
+        }
+      ],
+      "notes": "The wo(r)- pattern, which has no English equivalent: German does not say 'für was', it glues the preposition onto wo-. für + was = wofür, mit + was = womit, zu + was = wozu. Before a vowel an r is inserted: auf + was = worauf. This only works for things — for people the preposition stays separate: 'Für wen ist das?'",
+      "mnemonic": "Flip 'für was' around and you get 'wo-für'.",
+      "germany_context": null,
+      "emoji": "❓",
+      "imageable": false,
+      "tags": ["question-word", "wo-compound"],
+      "synonyms": ["wozu"],
+      "antonyms": [],
+      "related": ["wozu", "womit", "was"]
+    },
+    {
+      "id": "womit",
+      "word": "womit",
+      "lemma": "womit",
+      "translation": "with what",
+      "translations": ["with what", "what with"],
+      "level": "A2",
+      "category": "Articles & Question Words",
+      "partOfSpeech": "adverb",
+      "frequency": 820,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Womit kann ich Ihnen helfen?",
+          "en": "What can I help you with?"
+        },
+        {
+          "de": "Womit fährst du zur Arbeit?",
+          "en": "What do you get to work with?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ hast du das Paket bezahlt?",
+          "answer": "Womit",
+          "en": "What did you pay for the parcel with?"
+        }
+      ],
+      "notes": "womit = 'mit was'. Sloppy spoken German does say 'mit was', but womit is the correct form. For people it stays split and takes the dative: 'Mit wem gehst du?'",
+      "mnemonic": "mit + was → wo-mit; the wo- always jumps to the front.",
+      "germany_context": "'Womit kann ich Ihnen helfen?' is the standard opening line at a Bürgeramt counter, a bank or a shop. Have your request ready in one short sentence.",
+      "emoji": "❓",
+      "imageable": false,
+      "tags": ["question-word", "wo-compound"],
+      "synonyms": [],
+      "antonyms": [],
+      "related": ["wofuer", "wozu", "was"]
+    },
+    {
+      "id": "worum",
+      "word": "worum",
+      "lemma": "worum",
+      "translation": "what about",
+      "translations": ["what about", "about what"],
+      "level": "A2",
+      "category": "Articles & Question Words",
+      "partOfSpeech": "adverb",
+      "frequency": 950,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Worum geht es in dem Brief?",
+          "en": "What is the letter about?"
+        },
+        {
+          "de": "Worum hat dich dein Chef gebeten?",
+          "en": "What did your boss ask you for?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ geht es bei diesem Termin?",
+          "answer": "Worum",
+          "en": "What is this appointment about?"
+        }
+      ],
+      "notes": "um + was becomes worum, with an r inserted because um starts with a vowel. 'Worum geht es?' is the everyday way to ask what a matter is about; the answer is 'Es geht um …'.",
+      "mnemonic": "wo + r + um — the r is only a bridge between two vowels.",
+      "germany_context": "On the phone with an office or a doctor's practice you will almost always be asked 'Worum geht es?' before you are put through. Reply with 'Es geht um einen Termin.' or 'Es geht um meine Anmeldung.'",
+      "emoji": "❓",
+      "imageable": false,
+      "tags": ["question-word", "wo-compound", "phone"],
+      "synonyms": [],
+      "antonyms": [],
+      "related": ["worueber", "wofuer", "was"]
+    },
+    {
+      "id": "worauf",
+      "word": "worauf",
+      "lemma": "worauf",
+      "translation": "what for",
+      "translations": ["what for", "what on", "on what"],
+      "level": "A2",
+      "category": "Articles & Question Words",
+      "partOfSpeech": "adverb",
+      "frequency": 1050,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Worauf wartest du noch?",
+          "en": "What are you still waiting for?"
+        },
+        {
+          "de": "Worauf muss ich beim Mietvertrag achten?",
+          "en": "What do I have to watch out for in the rental contract?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ freust du dich am meisten?",
+          "answer": "Worauf",
+          "en": "What are you looking forward to the most?"
+        }
+      ],
+      "notes": "auf + was becomes worauf, never 'auf was'. It belongs to verbs that take auf plus Akkusativ: warten auf, sich freuen auf, achten auf, antworten auf. For people: 'Auf wen wartest du?'",
+      "mnemonic": "Say 'wo-auf' quickly and the r appears by itself: worauf.",
+      "germany_context": null,
+      "emoji": "❓",
+      "imageable": false,
+      "tags": ["question-word", "wo-compound"],
+      "synonyms": [],
+      "antonyms": [],
+      "related": ["woran", "worueber", "warten"]
+    },
+    {
+      "id": "woran",
+      "word": "woran",
+      "lemma": "woran",
+      "translation": "what about",
+      "translations": ["what about", "on what", "by what"],
+      "level": "A2",
+      "category": "Articles & Question Words",
+      "partOfSpeech": "adverb",
+      "frequency": 1120,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Woran denkst du gerade?",
+          "en": "What are you thinking about right now?"
+        },
+        {
+          "de": "Woran liegt das?",
+          "en": "What is the reason for that?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ erkenne ich die richtige Haltestelle?",
+          "answer": "Woran",
+          "en": "How do I recognise the right stop?"
+        }
+      ],
+      "notes": "an + was becomes woran. Used with denken an, liegen an, erkennen an, sich erinnern an. 'Woran liegt das?' is the normal way to ask what is causing a problem — much more idiomatic than 'Was ist der Grund?'",
+      "mnemonic": "an → wor-an: the r slips in before the vowel.",
+      "germany_context": null,
+      "emoji": "❓",
+      "imageable": false,
+      "tags": ["question-word", "wo-compound"],
+      "synonyms": [],
+      "antonyms": [],
+      "related": ["worauf", "denken", "warum"]
+    },
+    {
+      "id": "worueber",
+      "word": "worüber",
+      "lemma": "worüber",
+      "translation": "about what",
+      "translations": ["about what", "what about"],
+      "level": "A2",
+      "category": "Articles & Question Words",
+      "partOfSpeech": "adverb",
+      "frequency": 1340,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Worüber habt ihr so lange gesprochen?",
+          "en": "What did you talk about for so long?"
+        },
+        {
+          "de": "Worüber ärgerst du dich?",
+          "en": "What are you annoyed about?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ schreibst du deine Hausarbeit?",
+          "answer": "Worüber",
+          "en": "What are you writing your term paper about?"
+        }
+      ],
+      "notes": "über + was becomes worüber. It goes with sprechen über, reden über, sich beschweren über, sich freuen über. Watch the pair: sich freuen ÜBER means about something that has happened, sich freuen AUF means looking forward to something.",
+      "mnemonic": "über keeps its Umlaut inside the compound: wor-über.",
+      "germany_context": null,
+      "emoji": "❓",
+      "imageable": false,
+      "tags": ["question-word", "wo-compound"],
+      "synonyms": [],
+      "antonyms": [],
+      "related": ["worum", "worauf", "sprechen"]
+    },
+    {
+      "id": "wozu",
+      "word": "wozu",
+      "lemma": "wozu",
+      "translation": "what for",
+      "translations": ["what for", "why", "to what end"],
+      "level": "A2",
+      "category": "Articles & Question Words",
+      "partOfSpeech": "adverb",
+      "frequency": 1180,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Wozu brauchst du so viele Kartons?",
+          "en": "What do you need so many boxes for?"
+        },
+        {
+          "de": "Wozu dient dieses Formular?",
+          "en": "What is this form used for?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ soll das gut sein?",
+          "answer": "Wozu",
+          "en": "What is that supposed to be good for?"
+        }
+      ],
+      "notes": "zu + was becomes wozu. Very close to wofür, but wozu asks about the purpose and wofür more about the target or beneficiary. Answer with 'Um … zu …': 'Wozu lernst du Deutsch?' — 'Um hier zu arbeiten.'",
+      "mnemonic": "wozu ~ 'to what' — like the old English 'whereto'.",
+      "germany_context": null,
+      "emoji": "❓",
+      "imageable": false,
+      "tags": ["question-word", "wo-compound"],
+      "synonyms": ["wofür"],
+      "antonyms": [],
+      "related": ["wofuer", "warum", "um-zu"]
+    },
+    {
+      "id": "weshalb",
+      "word": "weshalb",
+      "lemma": "weshalb",
+      "translation": "why",
+      "translations": ["why", "for what reason"],
+      "level": "A2",
+      "category": "Articles & Question Words",
+      "partOfSpeech": "adverb",
+      "frequency": 880,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Weshalb haben Sie den Termin abgesagt?",
+          "en": "Why did you cancel the appointment?"
+        },
+        {
+          "de": "Ich weiß nicht, weshalb der Brief nicht angekommen ist.",
+          "en": "I don't know why the letter didn't arrive."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ hast du dich nicht krankgemeldet?",
+          "answer": "Weshalb",
+          "en": "Why didn't you call in sick?"
+        }
+      ],
+      "notes": "The third word for 'why', a shade more formal than warum and wieso — common in letters, forms and news. Like the others it pushes the verb to the end of a subordinate clause: 'Er sagt nicht, weshalb er kündigt.'",
+      "mnemonic": "wes (old genitive of was) + halb ('because of') = 'because of what'.",
+      "germany_context": null,
+      "emoji": "❓",
+      "imageable": false,
+      "tags": ["question-word", "formal"],
+      "synonyms": ["warum", "wieso", "weswegen"],
+      "antonyms": [],
+      "related": ["warum", "wieso", "deshalb"]
+    },
+    {
+      "id": "seit-wann",
+      "word": "seit wann",
+      "lemma": "seit wann",
+      "translation": "since when",
+      "translations": ["since when", "how long"],
+      "level": "A2",
+      "category": "Articles & Question Words",
+      "partOfSpeech": "phrase",
+      "frequency": 900,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Seit wann wohnen Sie in Deutschland?",
+          "en": "How long have you been living in Germany?"
+        },
+        {
+          "de": "Seit wann haben Sie diese Schmerzen?",
+          "en": "How long have you had this pain?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ ist der Aufzug kaputt?",
+          "answer": "Seit wann",
+          "en": "How long has the lift been broken?"
+        }
+      ],
+      "notes": "Asks for the starting point of something that is still going on. The answer takes seit plus Dativ: 'Seit drei Tagen.' German uses the PRESENT tense here where English uses the perfect: 'Seit wann arbeitest du hier?'",
+      "mnemonic": "seit points backwards into the past, ab points forwards into the future.",
+      "germany_context": "A standard question at the doctor's: 'Seit wann haben Sie die Beschwerden?' Practise the answer as 'Seit drei Tagen.' — it is the first thing you will be asked.",
+      "emoji": "📅",
+      "imageable": false,
+      "tags": ["question-word", "time", "doctor"],
+      "synonyms": [],
+      "antonyms": ["ab wann"],
+      "related": ["ab-wann", "wie-lange", "seit"]
+    },
+    {
+      "id": "ab-wann",
+      "word": "ab wann",
+      "lemma": "ab wann",
+      "translation": "from when",
+      "translations": ["from when", "starting when"],
+      "level": "A2",
+      "category": "Articles & Question Words",
+      "partOfSpeech": "phrase",
+      "frequency": 1260,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ab wann ist die Wohnung frei?",
+          "en": "From when is the flat available?"
+        },
+        {
+          "de": "Ab wann haben Sie morgen geöffnet?",
+          "en": "From what time are you open tomorrow?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "___ gilt der neue Vertrag?",
+          "answer": "Ab wann",
+          "en": "From when is the new contract valid?"
+        }
+      ],
+      "notes": "The mirror image of seit wann: it asks for a starting point in the future. The answer takes ab plus Dativ: 'Ab Montag.', 'Ab dem ersten September.'",
+      "mnemonic": "ab = from now on; seit = ever since.",
+      "germany_context": "You will use this constantly when flat hunting. Ads answer it in advance with 'frei ab 01.09.', and at a viewing 'Ab wann kann ich einziehen?' is the question that matters most after the rent.",
+      "emoji": "📅",
+      "imageable": false,
+      "tags": ["question-word", "time", "wohnung"],
+      "synonyms": [],
+      "antonyms": ["seit wann"],
+      "related": ["seit-wann", "wann", "ab"]
+    }
+  ]
+}

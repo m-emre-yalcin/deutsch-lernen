@@ -1,0 +1,1621 @@
+{
+  "category": "Free Time, Sport & Media",
+  "words": [
+    {
+      "id": "ball",
+      "word": "der Ball",
+      "lemma": "Ball",
+      "translation": "ball",
+      "translations": [
+        "ball"
+      ],
+      "level": "A1",
+      "category": "Free Time, Sport & Media",
+      "partOfSpeech": "noun",
+      "frequency": 780,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Bälle",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Ball liegt auf dem Rasen.",
+          "en": "The ball is lying on the grass."
+        },
+        {
+          "de": "Die Kinder spielen mit einem bunten Ball.",
+          "en": "The children are playing with a colourful ball."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Im Verein bekommt jedes Kind einen eigenen ___.",
+          "answer": "Ball",
+          "en": "At the club every child gets their own ball."
+        }
+      ],
+      "notes": "Also means a formal dance ball (der Ball) – the context makes it clear.",
+      "mnemonic": "Ball = ball, almost the same word; der Ball like der Fußball.",
+      "germany_context": null,
+      "emoji": "⚽",
+      "imageable": true,
+      "tags": [
+        "sport",
+        "equipment",
+        "basics"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "der-fussball",
+        "das-spiel",
+        "tor"
+      ]
+    },
+    {
+      "id": "tor",
+      "word": "das Tor",
+      "lemma": "Tor",
+      "translation": "goal",
+      "translations": [
+        "goal",
+        "gate"
+      ],
+      "level": "A2",
+      "category": "Free Time, Sport & Media",
+      "partOfSpeech": "noun",
+      "frequency": 900,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Tore",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Er hat kurz vor der Pause ein Tor geschossen.",
+          "en": "He scored a goal shortly before the break."
+        },
+        {
+          "de": "Das Tor zum Garten steht offen.",
+          "en": "The gate to the garden is open."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "In der letzten Minute fiel noch ein ___ für die Gäste.",
+          "answer": "Tor",
+          "en": "In the last minute another goal was scored for the away team."
+        }
+      ],
+      "notes": "Two meanings: a goal in sport and a large gate. 'Ein Tor schießen' = to score a goal.",
+      "mnemonic": "Tor sounds like 'door' – you shoot the ball through it.",
+      "germany_context": null,
+      "emoji": "🥅",
+      "imageable": true,
+      "tags": [
+        "sport",
+        "football"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "der-fussball",
+        "ball",
+        "spieler"
+      ]
+    },
+    {
+      "id": "sieg",
+      "word": "der Sieg",
+      "lemma": "Sieg",
+      "translation": "victory",
+      "translations": [
+        "victory",
+        "win"
+      ],
+      "level": "A2",
+      "category": "Free Time, Sport & Media",
+      "partOfSpeech": "noun",
+      "frequency": 1150,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Siege",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Sieg gegen den Tabellenersten war eine Überraschung.",
+          "en": "The win against the league leader was a surprise."
+        },
+        {
+          "de": "Nach dem Sieg haben alle Fans gefeiert.",
+          "en": "After the victory all the fans celebrated."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Unsere Mannschaft braucht heute unbedingt einen ___.",
+          "answer": "Sieg",
+          "en": "Our team absolutely needs a win today."
+        }
+      ],
+      "notes": "The everyday verb is 'gewinnen'; 'siegen' sounds formal or journalistic.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🏆",
+      "imageable": false,
+      "tags": [
+        "sport",
+        "result"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "Niederlage"
+      ],
+      "related": [
+        "gewinnen",
+        "niederlage",
+        "ergebnis"
+      ]
+    },
+    {
+      "id": "niederlage",
+      "word": "die Niederlage",
+      "lemma": "Niederlage",
+      "translation": "defeat",
+      "translations": [
+        "defeat",
+        "loss"
+      ],
+      "level": "A2",
+      "category": "Free Time, Sport & Media",
+      "partOfSpeech": "noun",
+      "frequency": 1550,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Niederlagen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Nach der Niederlage war der Trainer sehr enttäuscht.",
+          "en": "After the defeat the coach was very disappointed."
+        },
+        {
+          "de": "Drei Niederlagen in Folge sind einfach zu viel.",
+          "en": "Three defeats in a row are simply too many."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Das Spiel endete mit einer klaren ___ für unser Team.",
+          "answer": "Niederlage",
+          "en": "The match ended in a clear defeat for our team."
+        }
+      ],
+      "notes": "Feminine because of '-lage'. The verb is 'verlieren'.",
+      "mnemonic": "NieDERLAGE – you lie (liegen) low after losing.",
+      "germany_context": null,
+      "emoji": "😞",
+      "imageable": false,
+      "tags": [
+        "sport",
+        "result"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "Sieg"
+      ],
+      "related": [
+        "sieg",
+        "verlieren",
+        "ergebnis"
+      ]
+    },
+    {
+      "id": "unentschieden",
+      "word": "das Unentschieden",
+      "lemma": "Unentschieden",
+      "translation": "draw",
+      "translations": [
+        "draw",
+        "tie"
+      ],
+      "level": "A2",
+      "category": "Free Time, Sport & Media",
+      "partOfSpeech": "noun",
+      "frequency": 2000,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Unentschieden",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Das Spiel endete eins zu eins, also mit einem Unentschieden.",
+          "en": "The match ended one all, so in a draw."
+        },
+        {
+          "de": "Ein Unentschieden bringt beiden Mannschaften einen Punkt.",
+          "en": "A draw gives both teams one point."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Der Trainer war mit dem ___ ganz zufrieden.",
+          "answer": "Unentschieden",
+          "en": "The coach was quite happy with the draw."
+        }
+      ],
+      "notes": "Also used as an adjective: 'Das Spiel steht unentschieden.'",
+      "mnemonic": "un-entschieden = 'not decided' – nobody won.",
+      "germany_context": null,
+      "emoji": "🤝",
+      "imageable": false,
+      "tags": [
+        "sport",
+        "result"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "sieg",
+        "niederlage",
+        "ergebnis"
+      ]
+    },
+    {
+      "id": "trainer",
+      "word": "der Trainer",
+      "lemma": "Trainer",
+      "translation": "coach",
+      "translations": [
+        "coach",
+        "trainer"
+      ],
+      "level": "A2",
+      "category": "Free Time, Sport & Media",
+      "partOfSpeech": "noun",
+      "frequency": 1050,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Trainer",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Unser Trainer kommt immer zehn Minuten früher.",
+          "en": "Our coach always arrives ten minutes early."
+        },
+        {
+          "de": "Der neue Trainer ist sehr streng, aber fair.",
+          "en": "The new coach is very strict, but fair."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Sprich bitte mit dem ___, wenn du nicht kommen kannst.",
+          "answer": "Trainer",
+          "en": "Please talk to the coach if you can't come."
+        }
+      ],
+      "notes": "Feminine form: die Trainerin. Plural die Trainer stays the same as the singular.",
+      "mnemonic": null,
+      "germany_context": "In a German Sportverein the Trainer is very often a volunteer (ehrenamtlich), not a paid professional – a short thank-you at the end of the season is normal.",
+      "emoji": "🧑‍🏫",
+      "imageable": true,
+      "tags": [
+        "sport",
+        "people",
+        "verein"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "trainieren",
+        "training",
+        "der-verein"
+      ]
+    },
+    {
+      "id": "spieler",
+      "word": "der Spieler",
+      "lemma": "Spieler",
+      "translation": "player",
+      "translations": [
+        "player"
+      ],
+      "level": "A2",
+      "category": "Free Time, Sport & Media",
+      "partOfSpeech": "noun",
+      "frequency": 950,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Spieler",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ein Spieler hat sich am Knie verletzt.",
+          "en": "One player injured his knee."
+        },
+        {
+          "de": "Die besten Spieler stehen in der ersten Reihe.",
+          "en": "The best players are standing in the front row."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Jede Mannschaft darf elf ___ auf den Platz schicken.",
+          "answer": "Spieler",
+          "en": "Each team may send eleven players onto the pitch."
+        }
+      ],
+      "notes": "Feminine: die Spielerin. Same -er pattern as Lehrer, Trainer, Fahrer.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🏃",
+      "imageable": true,
+      "tags": [
+        "sport",
+        "people"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "das-spiel",
+        "spielen-freizeit",
+        "die-mannschaft"
+      ]
+    },
+    {
+      "id": "ergebnis",
+      "word": "das Ergebnis",
+      "lemma": "Ergebnis",
+      "translation": "result",
+      "translations": [
+        "result",
+        "score",
+        "outcome"
+      ],
+      "level": "A2",
+      "category": "Free Time, Sport & Media",
+      "partOfSpeech": "noun",
+      "frequency": 1000,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Ergebnisse",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Wie war das Ergebnis vom Spiel gestern?",
+          "en": "What was the result of yesterday's match?"
+        },
+        {
+          "de": "Die Ergebnisse der Untersuchung kommen in drei Tagen.",
+          "en": "The results of the examination will come in three days."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Ich schaue kurz im Internet nach dem ___.",
+          "answer": "Ergebnis",
+          "en": "I'll quickly look up the result on the internet."
+        }
+      ],
+      "notes": "Not only sport: also used for exam results, lab results and survey findings.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "📊",
+      "imageable": false,
+      "tags": [
+        "sport",
+        "general"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "sieg",
+        "niederlage",
+        "unentschieden"
+      ]
+    },
+    {
+      "id": "training",
+      "word": "das Training",
+      "lemma": "Training",
+      "translation": "training",
+      "translations": [
+        "training",
+        "practice"
+      ],
+      "level": "A2",
+      "category": "Free Time, Sport & Media",
+      "partOfSpeech": "noun",
+      "frequency": 900,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Trainings",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Das Training beginnt dienstags um achtzehn Uhr.",
+          "en": "Training starts on Tuesdays at six p.m."
+        },
+        {
+          "de": "Ich gehe dreimal pro Woche zum Training.",
+          "en": "I go to training three times a week."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wegen des Regens fällt das ___ heute aus.",
+          "answer": "Training",
+          "en": "Because of the rain, training is cancelled today."
+        }
+      ],
+      "notes": "English loanword but neuter. The plural 'die Trainings' is rare in everyday speech.",
+      "mnemonic": null,
+      "germany_context": "Vereine have fixed Trainingszeiten every week; you join once and come regularly – dropping in whenever you feel like it is unusual.",
+      "emoji": "🏋️",
+      "imageable": false,
+      "tags": [
+        "sport",
+        "verein",
+        "routine"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "trainieren",
+        "trainer",
+        "fitnessstudio"
+      ]
+    },
+    {
+      "id": "bundesliga",
+      "word": "die Bundesliga",
+      "lemma": "Bundesliga",
+      "translation": "Bundesliga",
+      "translations": [
+        "Bundesliga",
+        "German football league"
+      ],
+      "level": "A2",
+      "category": "Free Time, Sport & Media",
+      "partOfSpeech": "noun",
+      "frequency": 1400,
+      "gender": "f",
+      "article": "die",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Am Samstag läuft die Bundesliga im Fernsehen.",
+          "en": "On Saturday the Bundesliga is on television."
+        },
+        {
+          "de": "Mein Kollege redet montags nur über die Bundesliga.",
+          "en": "On Mondays my colleague only talks about the Bundesliga."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Welcher Verein steht gerade in der ___ ganz oben?",
+          "answer": "Bundesliga",
+          "en": "Which club is currently top of the Bundesliga?"
+        }
+      ],
+      "notes": "A proper name, always used with 'die'. There is also a 2. Bundesliga and a Frauen-Bundesliga.",
+      "mnemonic": "Bund (federation) + Liga (league) = the national league.",
+      "germany_context": "Bundesliga results are standard Monday small talk at work. Matches run Friday to Sunday, and the highlights show 'Sportschau' is on Saturday around 18:00.",
+      "emoji": "⚽",
+      "imageable": false,
+      "tags": [
+        "sport",
+        "football",
+        "culture"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "der-fussball",
+        "der-verein",
+        "fan"
+      ]
+    },
+    {
+      "id": "fan",
+      "word": "der Fan",
+      "lemma": "Fan",
+      "translation": "fan",
+      "translations": [
+        "fan",
+        "supporter"
+      ],
+      "level": "A2",
+      "category": "Free Time, Sport & Media",
+      "partOfSpeech": "noun",
+      "frequency": 1250,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Fans",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Ich bin ein großer Fan von dieser Band.",
+          "en": "I'm a big fan of this band."
+        },
+        {
+          "de": "Die Fans singen das ganze Spiel lang.",
+          "en": "The fans sing for the whole match."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Mein Nachbar ist ___ von Borussia Dortmund.",
+          "answer": "Fan",
+          "en": "My neighbour is a supporter of Borussia Dortmund."
+        }
+      ],
+      "notes": "Used with 'von': ein Fan von etwas sein. Feminine form: die Fanin does not exist – 'sie ist ein Fan'.",
+      "mnemonic": null,
+      "germany_context": "Football fan culture is loud but family-friendly; standing terraces (Stehplätze) are cheap and typical for German stadiums.",
+      "emoji": "📣",
+      "imageable": true,
+      "tags": [
+        "sport",
+        "people",
+        "culture"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "bundesliga",
+        "der-fussball",
+        "der-verein"
+      ]
+    },
+    {
+      "id": "sportart",
+      "word": "die Sportart",
+      "lemma": "Sportart",
+      "translation": "type of sport",
+      "translations": [
+        "type of sport",
+        "sport",
+        "discipline"
+      ],
+      "level": "A2",
+      "category": "Free Time, Sport & Media",
+      "partOfSpeech": "noun",
+      "frequency": 1500,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Sportarten",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Welche Sportart machst du am liebsten?",
+          "en": "Which sport do you like doing most?"
+        },
+        {
+          "de": "Handball ist in Deutschland eine sehr beliebte Sportart.",
+          "en": "Handball is a very popular sport in Germany."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Im Verein kann man zwischen mehreren ___ wählen.",
+          "answer": "Sportarten",
+          "en": "At the club you can choose between several sports."
+        }
+      ],
+      "notes": "'Sport' is the general activity, a single discipline is a 'Sportart' (Fußball, Tennis, Klettern).",
+      "mnemonic": "Sport + Art (kind, type) = kind of sport.",
+      "germany_context": null,
+      "emoji": "🤸",
+      "imageable": false,
+      "tags": [
+        "sport",
+        "general"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "der-sport",
+        "der-verein",
+        "training"
+      ]
+    },
+    {
+      "id": "joggen",
+      "word": "joggen",
+      "lemma": "joggen",
+      "translation": "to jog",
+      "translations": [
+        "to jog",
+        "to go running"
+      ],
+      "level": "A2",
+      "category": "Free Time, Sport & Media",
+      "partOfSpeech": "verb",
+      "frequency": 1200,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "sein",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "jogge",
+        "du": "joggst",
+        "er": "joggt",
+        "wir": "joggen",
+        "ihr": "joggt",
+        "sie": "joggen",
+        "praeteritum": "joggte",
+        "perfekt": "ist gejoggt",
+        "imperativ": "jogg(e)!"
+      },
+      "example_sentences": [
+        {
+          "de": "Ich jogge jeden Morgen im Park.",
+          "en": "I jog in the park every morning."
+        },
+        {
+          "de": "Gestern ist sie zehn Kilometer gejoggt.",
+          "en": "Yesterday she jogged ten kilometres."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wollen wir am Sonntag zusammen ___?",
+          "answer": "joggen",
+          "en": "Shall we go jogging together on Sunday?"
+        }
+      ],
+      "notes": "Perfekt normally with 'sein' because it is movement; 'hat gejoggt' is also heard. Everyday alternative: laufen gehen.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🏃‍♀️",
+      "imageable": false,
+      "tags": [
+        "sport",
+        "activity"
+      ],
+      "synonyms": [
+        "laufen"
+      ],
+      "antonyms": [],
+      "related": [
+        "der-sport",
+        "training"
+      ]
+    },
+    {
+      "id": "klettern",
+      "word": "klettern",
+      "lemma": "klettern",
+      "translation": "to climb",
+      "translations": [
+        "to climb",
+        "to go climbing"
+      ],
+      "level": "A2",
+      "category": "Free Time, Sport & Media",
+      "partOfSpeech": "verb",
+      "frequency": 1450,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "sein",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "klettere",
+        "du": "kletterst",
+        "er": "klettert",
+        "wir": "klettern",
+        "ihr": "klettert",
+        "sie": "klettern",
+        "praeteritum": "kletterte",
+        "perfekt": "ist geklettert",
+        "imperativ": "kletter(e)!"
+      },
+      "example_sentences": [
+        {
+          "de": "Am Wochenende klettern wir in der Halle.",
+          "en": "At the weekend we climb in the indoor gym."
+        },
+        {
+          "de": "Das Kind ist auf den Baum geklettert.",
+          "en": "The child climbed up the tree."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "In den Alpen kann man wunderbar ___.",
+          "answer": "klettern",
+          "en": "You can climb wonderfully in the Alps."
+        }
+      ],
+      "notes": "Movement verb, so Perfekt with 'sein'. Climbing without ropes on low walls is 'bouldern'.",
+      "mnemonic": null,
+      "germany_context": "Kletterhallen and Boulderhallen are everywhere; for rope climbing most halls want a Kletterschein or a short safety course first.",
+      "emoji": "🧗",
+      "imageable": false,
+      "tags": [
+        "sport",
+        "activity"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "der-sport",
+        "berg",
+        "sportart"
+      ]
+    },
+    {
+      "id": "malen",
+      "word": "malen",
+      "lemma": "malen",
+      "translation": "to paint",
+      "translations": [
+        "to paint",
+        "to draw"
+      ],
+      "level": "A1",
+      "category": "Free Time, Sport & Media",
+      "partOfSpeech": "verb",
+      "frequency": 1300,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "male",
+        "du": "malst",
+        "er": "malt",
+        "wir": "malen",
+        "ihr": "malt",
+        "sie": "malen",
+        "praeteritum": "malte",
+        "perfekt": "hat gemalt",
+        "imperativ": "mal(e)!"
+      },
+      "example_sentences": [
+        {
+          "de": "Meine Tochter malt gern mit Wasserfarben.",
+          "en": "My daughter likes painting with watercolours."
+        },
+        {
+          "de": "Er hat ein Bild von seiner Familie gemalt.",
+          "en": "He painted a picture of his family."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Am Sonntag ___ ich manchmal im Garten.",
+          "answer": "male",
+          "en": "On Sundays I sometimes paint in the garden."
+        }
+      ],
+      "notes": "'malen' means painting pictures. Painting a wall in a flat is 'streichen'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "🎨",
+      "imageable": false,
+      "tags": [
+        "hobby",
+        "creative"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "zeichnen",
+        "ausstellung"
+      ]
+    },
+    {
+      "id": "zeichnen",
+      "word": "zeichnen",
+      "lemma": "zeichnen",
+      "translation": "to draw",
+      "translations": [
+        "to draw",
+        "to sketch"
+      ],
+      "level": "A2",
+      "category": "Free Time, Sport & Media",
+      "partOfSpeech": "verb",
+      "frequency": 1500,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "zeichne",
+        "du": "zeichnest",
+        "er": "zeichnet",
+        "wir": "zeichnen",
+        "ihr": "zeichnet",
+        "sie": "zeichnen",
+        "praeteritum": "zeichnete",
+        "perfekt": "hat gezeichnet",
+        "imperativ": "zeichne!"
+      },
+      "example_sentences": [
+        {
+          "de": "Er zeichnet jeden Abend ein paar Skizzen.",
+          "en": "He draws a few sketches every evening."
+        },
+        {
+          "de": "Kannst du mir den Weg auf ein Blatt zeichnen?",
+          "en": "Can you draw me the route on a piece of paper?"
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Im Kurs lernen wir, Gesichter zu ___.",
+          "answer": "zeichnen",
+          "en": "In the course we learn to draw faces."
+        }
+      ],
+      "notes": "zeichnen = with pencil or pen; malen = with paint. Signing a document is 'unterschreiben'.",
+      "mnemonic": null,
+      "germany_context": null,
+      "emoji": "✏️",
+      "imageable": false,
+      "tags": [
+        "hobby",
+        "creative"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "malen",
+        "ausstellung"
+      ]
+    },
+    {
+      "id": "fotografieren",
+      "word": "fotografieren",
+      "lemma": "fotografieren",
+      "translation": "to photograph",
+      "translations": [
+        "to photograph",
+        "to take photos"
+      ],
+      "level": "A2",
+      "category": "Free Time, Sport & Media",
+      "partOfSpeech": "verb",
+      "frequency": 1250,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "fotografiere",
+        "du": "fotografierst",
+        "er": "fotografiert",
+        "wir": "fotografieren",
+        "ihr": "fotografiert",
+        "sie": "fotografieren",
+        "praeteritum": "fotografierte",
+        "perfekt": "hat fotografiert",
+        "imperativ": "fotografier(e)!"
+      },
+      "example_sentences": [
+        {
+          "de": "Darf man hier im Museum fotografieren?",
+          "en": "Is it allowed to take photos here in the museum?"
+        },
+        {
+          "de": "Sie fotografiert am liebsten alte Gebäude.",
+          "en": "She likes photographing old buildings best."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Mit dem Handy ___ ich fast jeden Tag.",
+          "answer": "fotografiere",
+          "en": "I take photos with my phone almost every day."
+        }
+      ],
+      "notes": "Verbs on -ieren never take 'ge-' in the Perfekt: hat fotografiert.",
+      "mnemonic": null,
+      "germany_context": "Privacy rules are strict (Recht am eigenen Bild): ask before you photograph or post pictures where other people are clearly recognisable.",
+      "emoji": "📷",
+      "imageable": false,
+      "tags": [
+        "hobby",
+        "media"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "das-foto",
+        "die-kamera"
+      ]
+    },
+    {
+      "id": "zelten",
+      "word": "zelten",
+      "lemma": "zelten",
+      "translation": "to camp",
+      "translations": [
+        "to camp",
+        "to go camping"
+      ],
+      "level": "A2",
+      "category": "Free Time, Sport & Media",
+      "partOfSpeech": "verb",
+      "frequency": 1900,
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "reflexive": false,
+      "cases": [],
+      "forms": {
+        "ich": "zelte",
+        "du": "zeltest",
+        "er": "zeltet",
+        "wir": "zelten",
+        "ihr": "zeltet",
+        "sie": "zelten",
+        "praeteritum": "zeltete",
+        "perfekt": "hat gezeltet",
+        "imperativ": "zelte!"
+      },
+      "example_sentences": [
+        {
+          "de": "Im Sommer zelten wir gern am See.",
+          "en": "In summer we like camping at the lake."
+        },
+        {
+          "de": "Wir haben drei Nächte am Meer gezeltet.",
+          "en": "We camped by the sea for three nights."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wild ___ ist in Deutschland fast überall verboten.",
+          "answer": "zelten",
+          "en": "Wild camping is forbidden almost everywhere in Germany."
+        }
+      ],
+      "notes": "From 'das Zelt' (tent). 'campen' is used more for camper vans and caravans.",
+      "mnemonic": null,
+      "germany_context": "Wildes Zelten is illegal in nearly all Bundesländer – use an official Campingplatz or one of the marked Trekkingplätze you book online.",
+      "emoji": "⛺",
+      "imageable": false,
+      "tags": [
+        "hobby",
+        "outdoors",
+        "travel"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "grillen",
+        "ausflug",
+        "wanderung"
+      ]
+    },
+    {
+      "id": "brettspiel",
+      "word": "das Brettspiel",
+      "lemma": "Brettspiel",
+      "translation": "board game",
+      "translations": [
+        "board game"
+      ],
+      "level": "A2",
+      "category": "Free Time, Sport & Media",
+      "partOfSpeech": "noun",
+      "frequency": 1700,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Brettspiele",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "An Regentagen spielen wir ein Brettspiel.",
+          "en": "On rainy days we play a board game."
+        },
+        {
+          "de": "In diesem Café kann man viele Brettspiele ausleihen.",
+          "en": "In this café you can borrow lots of board games."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Zu Weihnachten schenken wir den Kindern ein ___.",
+          "answer": "Brettspiel",
+          "en": "For Christmas we give the children a board game."
+        }
+      ],
+      "notes": "Brett = board. Card games are 'Kartenspiele'.",
+      "mnemonic": null,
+      "germany_context": "Germany is the home of modern board games; the 'Spiel des Jahres' award every summer is a reliable buying guide, and many Kneipen keep a shelf of games.",
+      "emoji": "🎲",
+      "imageable": true,
+      "tags": [
+        "hobby",
+        "games",
+        "indoor"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "das-spiel",
+        "spielen-freizeit"
+      ]
+    },
+    {
+      "id": "wanderung",
+      "word": "die Wanderung",
+      "lemma": "Wanderung",
+      "translation": "hike",
+      "translations": [
+        "hike",
+        "walking tour"
+      ],
+      "level": "A2",
+      "category": "Free Time, Sport & Media",
+      "partOfSpeech": "noun",
+      "frequency": 1500,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Wanderungen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Die Wanderung dauert etwa vier Stunden.",
+          "en": "The hike takes about four hours."
+        },
+        {
+          "de": "Wir planen eine kleine Wanderung im Schwarzwald.",
+          "en": "We're planning a short hike in the Black Forest."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Nach der langen ___ taten mir die Füße weh.",
+          "answer": "Wanderung",
+          "en": "After the long hike my feet hurt."
+        }
+      ],
+      "notes": "Nouns on -ung are always feminine. The marked path itself is 'der Wanderweg'.",
+      "mnemonic": null,
+      "germany_context": "Wanderwege are marked with coloured symbols on trees and posts, and a Sunday hike ending with Kaffee und Kuchen is a classic German weekend.",
+      "emoji": "🥾",
+      "imageable": false,
+      "tags": [
+        "outdoors",
+        "activity"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "wandern",
+        "berg",
+        "wald"
+      ]
+    },
+    {
+      "id": "picknick",
+      "word": "das Picknick",
+      "lemma": "Picknick",
+      "translation": "picnic",
+      "translations": [
+        "picnic"
+      ],
+      "level": "A2",
+      "category": "Free Time, Sport & Media",
+      "partOfSpeech": "noun",
+      "frequency": 1800,
+      "gender": "n",
+      "article": "das",
+      "plural": "die Picknicks",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Wir machen ein Picknick im Park.",
+          "en": "We're having a picnic in the park."
+        },
+        {
+          "de": "Für das Picknick habe ich Brötchen und Obst eingepackt.",
+          "en": "For the picnic I packed rolls and fruit."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Bei diesem Wetter ist ein ___ am Fluss perfekt.",
+          "answer": "Picknick",
+          "en": "In this weather a picnic by the river is perfect."
+        }
+      ],
+      "notes": "Almost always with 'machen': ein Picknick machen.",
+      "mnemonic": null,
+      "germany_context": "Picnicking in public parks is normal and free, but disposable grills are banned in many parks – look for the signs marking a Grillzone.",
+      "emoji": "🧺",
+      "imageable": true,
+      "tags": [
+        "outdoors",
+        "food",
+        "activity"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "park",
+        "grillen",
+        "ausflug"
+      ]
+    },
+    {
+      "id": "mitgliedsbeitrag",
+      "word": "der Mitgliedsbeitrag",
+      "lemma": "Mitgliedsbeitrag",
+      "translation": "membership fee",
+      "translations": [
+        "membership fee",
+        "membership dues"
+      ],
+      "level": "A2",
+      "category": "Free Time, Sport & Media",
+      "partOfSpeech": "noun",
+      "frequency": 1900,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Mitgliedsbeiträge",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Mitgliedsbeitrag kostet zwölf Euro im Monat.",
+          "en": "The membership fee costs twelve euros a month."
+        },
+        {
+          "de": "Der Mitgliedsbeitrag wird einmal im Jahr abgebucht.",
+          "en": "The membership fee is debited once a year."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Hast du den ___ für den Sportverein schon bezahlt?",
+          "answer": "Mitgliedsbeitrag",
+          "en": "Have you already paid the membership fee for the sports club?"
+        }
+      ],
+      "notes": "Often shortened to 'der Beitrag'. A member is 'das Mitglied'.",
+      "mnemonic": null,
+      "germany_context": "Vereine and Fitnessstudios collect the Beitrag by Lastschrift and renew automatically – you normally have to cancel in writing months before the Vertragsende.",
+      "emoji": "💶",
+      "imageable": false,
+      "tags": [
+        "verein",
+        "money",
+        "sport"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "der-verein",
+        "fitnessstudio",
+        "training"
+      ]
+    },
+    {
+      "id": "schrebergarten",
+      "word": "der Schrebergarten",
+      "lemma": "Schrebergarten",
+      "translation": "allotment garden",
+      "translations": [
+        "allotment garden",
+        "community garden plot"
+      ],
+      "level": "A2",
+      "category": "Free Time, Sport & Media",
+      "partOfSpeech": "noun",
+      "frequency": 2400,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Schrebergärten",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Meine Nachbarn haben einen Schrebergarten am Stadtrand.",
+          "en": "My neighbours have an allotment garden on the edge of town."
+        },
+        {
+          "de": "Im Schrebergarten wachsen Tomaten und Erdbeeren.",
+          "en": "Tomatoes and strawberries grow in the allotment garden."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Am Wochenende arbeitet er im ___ und grillt danach.",
+          "answer": "Schrebergarten",
+          "en": "At the weekend he works in the allotment and grills afterwards."
+        }
+      ],
+      "notes": "Also called 'der Kleingarten'. A very typical German free-time institution.",
+      "mnemonic": null,
+      "germany_context": "Kleingartenvereine have long waiting lists and strict rules: part of the plot must be used for fruit and vegetables, hedges have a maximum height, and you may not live in the hut permanently.",
+      "emoji": "🌻",
+      "imageable": true,
+      "tags": [
+        "outdoors",
+        "culture",
+        "verein"
+      ],
+      "synonyms": [
+        "Kleingarten"
+      ],
+      "antonyms": [],
+      "related": [
+        "garten",
+        "grillen",
+        "der-verein"
+      ]
+    },
+    {
+      "id": "werbung",
+      "word": "die Werbung",
+      "lemma": "Werbung",
+      "translation": "advertising",
+      "translations": [
+        "advertising",
+        "adverts",
+        "commercials"
+      ],
+      "level": "A2",
+      "category": "Free Time, Sport & Media",
+      "partOfSpeech": "noun",
+      "frequency": 1300,
+      "gender": "f",
+      "article": "die",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Film wird alle zwanzig Minuten von Werbung unterbrochen.",
+          "en": "The film is interrupted by adverts every twenty minutes."
+        },
+        {
+          "de": "Ich bekomme jeden Tag Werbung in den Briefkasten.",
+          "en": "I get advertising in my letterbox every day."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Während der ___ hole ich mir schnell etwas zu trinken.",
+          "answer": "Werbung",
+          "en": "During the commercials I quickly get myself something to drink."
+        }
+      ],
+      "notes": "Uncountable in everyday use. A single advert is 'die Anzeige' or 'der Werbespot'.",
+      "mnemonic": null,
+      "germany_context": "A small 'Keine Werbung' sticker on your Briefkasten legally stops unaddressed advertising leaflets – you can get one at any Bürgeramt or stationery shop.",
+      "emoji": "📢",
+      "imageable": false,
+      "tags": [
+        "media",
+        "tv"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "der-fernseher",
+        "die-zeitung"
+      ]
+    },
+    {
+      "id": "sender",
+      "word": "der Sender",
+      "lemma": "Sender",
+      "translation": "channel",
+      "translations": [
+        "channel",
+        "station",
+        "broadcaster"
+      ],
+      "level": "A2",
+      "category": "Free Time, Sport & Media",
+      "partOfSpeech": "noun",
+      "frequency": 1450,
+      "gender": "m",
+      "article": "der",
+      "plural": "die Sender",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Auf welchem Sender läuft das Spiel?",
+          "en": "Which channel is the match on?"
+        },
+        {
+          "de": "Dieser Sender zeigt den ganzen Tag Nachrichten.",
+          "en": "This channel shows news all day long."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Kannst du bitte den ___ wechseln?",
+          "answer": "Sender",
+          "en": "Can you change the channel, please?"
+        }
+      ],
+      "notes": "der Sender = the TV or radio station; a single programme on it is 'die Sendung'.",
+      "mnemonic": "From 'senden' (to broadcast) – the thing that sends.",
+      "germany_context": "ARD, ZDF and the dritte Programme are öffentlich-rechtliche Sender, financed by the Rundfunkbeitrag that every household has to pay; the 'Tagesschau' at 20:00 is the classic news slot.",
+      "emoji": "📺",
+      "imageable": false,
+      "tags": [
+        "media",
+        "tv"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "die-serie",
+        "die-nachrichten",
+        "der-fernseher"
+      ]
+    },
+    {
+      "id": "zeitschrift",
+      "word": "die Zeitschrift",
+      "lemma": "Zeitschrift",
+      "translation": "magazine",
+      "translations": [
+        "magazine",
+        "journal"
+      ],
+      "level": "A2",
+      "category": "Free Time, Sport & Media",
+      "partOfSpeech": "noun",
+      "frequency": 1500,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Zeitschriften",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Beim Arzt lese ich immer alte Zeitschriften.",
+          "en": "At the doctor's I always read old magazines."
+        },
+        {
+          "de": "Diese Zeitschrift erscheint jeden Monat.",
+          "en": "This magazine comes out every month."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Am Kiosk habe ich mir eine ___ über Fahrräder gekauft.",
+          "answer": "Zeitschrift",
+          "en": "At the kiosk I bought myself a magazine about bicycles."
+        }
+      ],
+      "notes": "Zeitung = daily newspaper, Zeitschrift = weekly or monthly magazine.",
+      "mnemonic": "Zeit + Schrift (writing) – writing that appears at regular times.",
+      "germany_context": "Public Stadtbibliotheken stock current Zeitschriften and often give free digital access to them with your library card.",
+      "emoji": "🗞️",
+      "imageable": true,
+      "tags": [
+        "media",
+        "reading"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "die-zeitung",
+        "buch",
+        "lesen"
+      ]
+    },
+    {
+      "id": "eintritt",
+      "word": "der Eintritt",
+      "lemma": "Eintritt",
+      "translation": "admission",
+      "translations": [
+        "admission",
+        "entrance fee",
+        "entry"
+      ],
+      "level": "A2",
+      "category": "Free Time, Sport & Media",
+      "partOfSpeech": "noun",
+      "frequency": 1400,
+      "gender": "m",
+      "article": "der",
+      "plural": "—",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Der Eintritt kostet acht Euro.",
+          "en": "Admission costs eight euros."
+        },
+        {
+          "de": "Für Kinder unter sechs Jahren ist der Eintritt frei.",
+          "en": "For children under six, admission is free."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wie viel ___ müssen wir für das Museum bezahlen?",
+          "answer": "Eintritt",
+          "en": "How much admission do we have to pay for the museum?"
+        }
+      ],
+      "notes": "'Eintritt frei' = free entry. The ticket itself is 'die Eintrittskarte'.",
+      "mnemonic": "ein + treten (to step in) – the price of stepping in.",
+      "germany_context": "Many städtische Museen have one free or cheap evening per month, and Studenten plus people with a Schwerbehindertenausweis get ermäßigten Eintritt on showing the card.",
+      "emoji": "🎟️",
+      "imageable": false,
+      "tags": [
+        "culture",
+        "money",
+        "outing"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "museum",
+        "kino",
+        "theater",
+        "karte"
+      ]
+    },
+    {
+      "id": "ausstellung",
+      "word": "die Ausstellung",
+      "lemma": "Ausstellung",
+      "translation": "exhibition",
+      "translations": [
+        "exhibition",
+        "show",
+        "display"
+      ],
+      "level": "A2",
+      "category": "Free Time, Sport & Media",
+      "partOfSpeech": "noun",
+      "frequency": 1600,
+      "gender": "f",
+      "article": "die",
+      "plural": "die Ausstellungen",
+      "separable": false,
+      "auxiliary": null,
+      "reflexive": false,
+      "cases": [],
+      "forms": {},
+      "example_sentences": [
+        {
+          "de": "Im Museum gibt es eine neue Ausstellung über Fotografie.",
+          "en": "At the museum there's a new exhibition about photography."
+        },
+        {
+          "de": "Die Ausstellung läuft noch bis Ende Mai.",
+          "en": "The exhibition runs until the end of May."
+        }
+      ],
+      "cloze": [
+        {
+          "de": "Wollen wir am Samstag in die ___ gehen?",
+          "answer": "Ausstellung",
+          "en": "Shall we go to the exhibition on Saturday?"
+        }
+      ],
+      "notes": "From 'ausstellen' (to exhibit). A trade fair is 'die Messe'.",
+      "mnemonic": null,
+      "germany_context": "Popular Sonderausstellungen often need a Zeitfenster-Ticket booked online in advance, even when normal entry does not.",
+      "emoji": "🖼️",
+      "imageable": false,
+      "tags": [
+        "culture",
+        "outing"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        "museum",
+        "theater",
+        "eintritt"
+      ]
+    }
+  ]
+}

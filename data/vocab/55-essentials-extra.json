@@ -1,0 +1,229 @@
+{
+  "category": "Everyday Essentials",
+  "words": [
+    { "id": "nudeln", "word": "die Nudeln", "lemma": "Nudeln", "translation": "pasta", "translations": ["pasta", "noodles"], "level": "A1", "category": "Food & Groceries", "partOfSpeech": "noun", "frequency": 700, "gender": null, "article": "die", "plural": "die Nudeln", "separable": false, "auxiliary": null, "reflexive": false, "cases": [], "forms": {},
+      "example_sentences": [ { "de": "Heute Abend koche ich Nudeln.", "en": "Tonight I'm cooking pasta." }, { "de": "Die Nudeln sind noch nicht fertig.", "en": "The pasta isn't ready yet." } ],
+      "cloze": [{ "de": "Wir essen zweimal die Woche ___.", "answer": "Nudeln", "en": "We eat pasta twice a week." }],
+      "notes": "Almost always plural in German — 'die Nudeln', not 'die Nudel'.", "mnemonic": null, "germany_context": null, "emoji": "🍝", "imageable": true, "tags": ["food"], "synonyms": ["die Pasta"], "antonyms": [], "related": ["reis"] },
+
+    { "id": "das-bad", "word": "das Bad", "lemma": "Bad", "translation": "bathroom", "translations": ["bathroom", "bath"], "level": "A1", "category": "Home & Furniture", "partOfSpeech": "noun", "frequency": 480, "gender": "n", "article": "das", "plural": "die Bäder", "separable": false, "auxiliary": null, "reflexive": false, "cases": [], "forms": {},
+      "example_sentences": [ { "de": "Das Bad ist gleich rechts.", "en": "The bathroom is just on the right." }, { "de": "Ich nehme ein heißes Bad.", "en": "I'm taking a hot bath." } ],
+      "cloze": [{ "de": "Die Wohnung hat ein großes ___.", "answer": "Bad", "en": "The flat has a big bathroom." }],
+      "notes": "Shorter and far more common in speech than 'das Badezimmer'. Umlaut plural: die Bäder.", "mnemonic": null, "germany_context": null, "emoji": "🛁", "imageable": true, "tags": ["home"], "synonyms": ["das Badezimmer"], "antonyms": [], "related": ["die-badewanne"] },
+
+    { "id": "spaeter", "word": "später", "lemma": "später", "translation": "later", "translations": ["later"], "level": "A1", "category": "Adverbs", "partOfSpeech": "adverb", "frequency": 260, "gender": null, "article": null, "plural": null, "separable": false, "auxiliary": null, "reflexive": false, "cases": [], "forms": {},
+      "example_sentences": [ { "de": "Ich rufe dich später an.", "en": "I'll call you later." }, { "de": "Später wurde es kalt.", "en": "Later it got cold." } ],
+      "cloze": [{ "de": "Wir sehen uns ___!", "answer": "später", "en": "See you later!" }],
+      "notes": "Comparative of spät. 'Bis später!' is a very common goodbye.", "mnemonic": null, "germany_context": null, "emoji": "⏰", "imageable": false, "tags": ["time", "essential"], "synonyms": [], "antonyms": ["früher"], "related": ["frueher-adv"] },
+
+    { "id": "frueher-adv", "word": "früher", "lemma": "früher", "translation": "earlier", "translations": ["earlier", "in the past"], "level": "A2", "category": "Adverbs", "partOfSpeech": "adverb", "frequency": 420, "gender": null, "article": null, "plural": null, "separable": false, "auxiliary": null, "reflexive": false, "cases": [], "forms": {},
+      "example_sentences": [ { "de": "Früher habe ich in Istanbul gewohnt.", "en": "I used to live in Istanbul." }, { "de": "Können wir uns früher treffen?", "en": "Can we meet earlier?" } ],
+      "cloze": [{ "de": "___ war alles anders.", "answer": "Früher", "en": "Things used to be different." }],
+      "notes": "Also the everyday way to say 'used to' — 'Früher habe ich…' = 'I used to…'.", "mnemonic": null, "germany_context": null, "emoji": "⏪", "imageable": false, "tags": ["time"], "synonyms": [], "antonyms": ["später"], "related": ["spaeter"] },
+
+    { "id": "vorhin", "word": "vorhin", "lemma": "vorhin", "translation": "just now", "translations": ["just now", "a moment ago"], "level": "A2", "category": "Adverbs", "partOfSpeech": "adverb", "frequency": 1200, "gender": null, "article": null, "plural": null, "separable": false, "auxiliary": null, "reflexive": false, "cases": [], "forms": {},
+      "example_sentences": [ { "de": "Ich habe ihn vorhin gesehen.", "en": "I saw him just now." }, { "de": "Vorhin hat es noch geregnet.", "en": "It was still raining a moment ago." } ],
+      "cloze": [{ "de": "Sie hat ___ angerufen.", "answer": "vorhin", "en": "She called a moment ago." }],
+      "notes": "Earlier today, not yesterday. For yesterday use 'gestern'.", "mnemonic": null, "germany_context": null, "emoji": "🕐", "imageable": false, "tags": ["time"], "synonyms": [], "antonyms": [], "related": ["spaeter"] },
+
+    { "id": "ploetzlich", "word": "plötzlich", "lemma": "plötzlich", "translation": "suddenly", "translations": ["suddenly"], "level": "A2", "category": "Adverbs", "partOfSpeech": "adverb", "frequency": 800, "gender": null, "article": null, "plural": null, "separable": false, "auxiliary": null, "reflexive": false, "cases": [], "forms": {},
+      "example_sentences": [ { "de": "Plötzlich ging das Licht aus.", "en": "Suddenly the light went out." }, { "de": "Es fing plötzlich an zu regnen.", "en": "It suddenly started to rain." } ],
+      "cloze": [{ "de": "___ stand er vor der Tür.", "answer": "Plötzlich", "en": "Suddenly he was standing at the door." }],
+      "notes": "In position 1 it pushes the subject after the verb.", "mnemonic": null, "germany_context": null, "emoji": "⚡", "imageable": false, "tags": ["time"], "synonyms": [], "antonyms": [], "related": [] },
+
+    { "id": "wahrscheinlich", "word": "wahrscheinlich", "lemma": "wahrscheinlich", "translation": "probably", "translations": ["probably", "likely"], "level": "A2", "category": "Adverbs", "partOfSpeech": "adverb", "frequency": 620, "gender": null, "article": null, "plural": null, "separable": false, "auxiliary": null, "reflexive": false, "cases": [], "forms": {},
+      "example_sentences": [ { "de": "Er kommt wahrscheinlich später.", "en": "He'll probably come later." }, { "de": "Wahrscheinlich regnet es morgen.", "en": "It'll probably rain tomorrow." } ],
+      "cloze": [{ "de": "Das ist ___ die beste Lösung.", "answer": "wahrscheinlich", "en": "That's probably the best solution." }],
+      "notes": null, "mnemonic": null, "germany_context": null, "emoji": "🤔", "imageable": false, "tags": ["uncertainty"], "synonyms": ["vermutlich"], "antonyms": [], "related": ["etwa-ungefaehr"] },
+
+    { "id": "etwa-ungefaehr", "word": "etwa", "lemma": "etwa", "translation": "about", "translations": ["about", "roughly"], "level": "A2", "category": "Adverbs", "partOfSpeech": "adverb", "frequency": 660, "gender": null, "article": null, "plural": null, "separable": false, "auxiliary": null, "reflexive": false, "cases": [], "forms": {},
+      "example_sentences": [ { "de": "Es dauert etwa zwanzig Minuten.", "en": "It takes about twenty minutes." }, { "de": "Die Miete ist etwa 900 Euro.", "en": "The rent is roughly 900 euros." } ],
+      "cloze": [{ "de": "Der Weg ist ___ drei Kilometer lang.", "answer": "etwa", "en": "The route is about three kilometres long." }],
+      "notes": "'ungefähr' means exactly the same and is equally common.", "mnemonic": null, "germany_context": null, "emoji": "📏", "imageable": false, "tags": ["quantity"], "synonyms": ["ungefähr", "circa"], "antonyms": ["genau"], "related": ["beinahe"] },
+
+    { "id": "beinahe", "word": "beinahe", "lemma": "beinahe", "translation": "almost", "translations": ["almost", "nearly"], "level": "A2", "category": "Adverbs", "partOfSpeech": "adverb", "frequency": 1150, "gender": null, "article": null, "plural": null, "separable": false, "auxiliary": null, "reflexive": false, "cases": [], "forms": {},
+      "example_sentences": [ { "de": "Ich wäre beinahe zu spät gekommen.", "en": "I almost came too late." }, { "de": "Das Glas ist beinahe leer.", "en": "The glass is almost empty." } ],
+      "cloze": [{ "de": "Wir sind ___ da.", "answer": "beinahe", "en": "We're almost there." }],
+      "notes": "'fast' means the same and is more common in speech.", "mnemonic": null, "germany_context": null, "emoji": "〰️", "imageable": false, "tags": ["quantity"], "synonyms": ["fast"], "antonyms": [], "related": ["etwa-ungefaehr"] },
+
+    { "id": "sogar", "word": "sogar", "lemma": "sogar", "translation": "even", "translations": ["even"], "level": "A2", "category": "Adverbs", "partOfSpeech": "adverb", "frequency": 640, "gender": null, "article": null, "plural": null, "separable": false, "auxiliary": null, "reflexive": false, "cases": [], "forms": {},
+      "example_sentences": [ { "de": "Er spricht sogar Japanisch.", "en": "He even speaks Japanese." }, { "de": "Es war sogar noch billiger.", "en": "It was even cheaper." } ],
+      "cloze": [{ "de": "Sie hat mir ___ geholfen.", "answer": "sogar", "en": "She even helped me." }],
+      "notes": "Adds emphasis. Not the same as 'gleich' or 'auch'.", "mnemonic": null, "germany_context": null, "emoji": "❗", "imageable": false, "tags": ["emphasis"], "synonyms": [], "antonyms": [], "related": [] },
+
+    { "id": "darum-adv", "word": "darum", "lemma": "darum", "translation": "that's why", "translations": ["that's why", "therefore"], "level": "A2", "category": "Adverbs", "partOfSpeech": "adverb", "frequency": 720, "gender": null, "article": null, "plural": null, "separable": false, "auxiliary": null, "reflexive": false, "cases": [], "forms": {},
+      "example_sentences": [ { "de": "Es hat geregnet, darum bin ich zu Hause geblieben.", "en": "It rained, that's why I stayed home." }, { "de": "Darum frage ich dich.", "en": "That's why I'm asking you." } ],
+      "cloze": [{ "de": "Ich war krank, ___ bin ich nicht gekommen.", "answer": "darum", "en": "I was ill, that's why I didn't come." }],
+      "notes": "Triggers inversion: 'darum BIN ICH…'. Same as deshalb and deswegen.", "mnemonic": null, "germany_context": null, "emoji": "➡️", "imageable": false, "tags": ["reason"], "synonyms": ["deshalb", "deswegen"], "antonyms": [], "related": [] },
+
+    { "id": "der-keks", "word": "der Keks", "lemma": "Keks", "translation": "biscuit", "translations": ["biscuit", "cookie"], "level": "A1", "category": "Food & Groceries", "partOfSpeech": "noun", "frequency": 1250, "gender": "m", "article": "der", "plural": "die Kekse", "separable": false, "auxiliary": null, "reflexive": false, "cases": [], "forms": {},
+      "example_sentences": [ { "de": "Möchtest du einen Keks?", "en": "Would you like a biscuit?" }, { "de": "Die Kekse sind selbst gebacken.", "en": "The biscuits are homemade." } ],
+      "cloze": [{ "de": "Zum Kaffee gab es ___.", "answer": "Kekse", "en": "There were biscuits with the coffee." }],
+      "notes": null, "mnemonic": null, "germany_context": "Plätzchen are the specifically Christmas kind, and they're a big deal from late November.", "emoji": "🍪", "imageable": true, "tags": ["food"], "synonyms": [], "antonyms": [], "related": ["der-kuchen-essen"] },
+
+    { "id": "das-eis", "word": "das Eis", "lemma": "Eis", "translation": "ice cream", "translations": ["ice cream", "ice"], "level": "A1", "category": "Food & Groceries", "partOfSpeech": "noun", "frequency": 760, "gender": "n", "article": "das", "plural": "—", "separable": false, "auxiliary": null, "reflexive": false, "cases": [], "forms": {},
+      "example_sentences": [ { "de": "Im Sommer esse ich viel Eis.", "en": "In summer I eat a lot of ice cream." }, { "de": "Auf dem See liegt Eis.", "en": "There's ice on the lake." } ],
+      "cloze": [{ "de": "Wollen wir ein ___ essen gehen?", "answer": "Eis", "en": "Shall we go and have an ice cream?" }],
+      "notes": "Means both ice and ice cream. No plural.", "mnemonic": null, "germany_context": "An Eisdiele is an ice cream parlour, and one scoop is 'eine Kugel'.", "emoji": "🍦", "imageable": true, "tags": ["food"], "synonyms": [], "antonyms": [], "related": [] },
+
+    { "id": "die-sosse", "word": "die Soße", "lemma": "Soße", "translation": "sauce", "translations": ["sauce", "gravy"], "level": "A2", "category": "Food & Groceries", "partOfSpeech": "noun", "frequency": 1180, "gender": "f", "article": "die", "plural": "die Soßen", "separable": false, "auxiliary": null, "reflexive": false, "cases": [], "forms": {},
+      "example_sentences": [ { "de": "Die Soße schmeckt sehr gut.", "en": "The sauce tastes very good." }, { "de": "Möchtest du noch Soße dazu?", "en": "Would you like more sauce with that?" } ],
+      "cloze": [{ "de": "Zu den Nudeln gibt es eine scharfe ___.", "answer": "Soße", "en": "There's a spicy sauce with the pasta." }],
+      "notes": "Also spelled 'Sauce' on menus.", "mnemonic": null, "germany_context": null, "emoji": "🥫", "imageable": true, "tags": ["food"], "synonyms": [], "antonyms": [], "related": ["der-senf"] },
+
+    { "id": "der-senf", "word": "der Senf", "lemma": "Senf", "translation": "mustard", "translations": ["mustard"], "level": "A2", "category": "Food & Groceries", "partOfSpeech": "noun", "frequency": 1600, "gender": "m", "article": "der", "plural": "—", "separable": false, "auxiliary": null, "reflexive": false, "cases": [], "forms": {},
+      "example_sentences": [ { "de": "Möchten Sie Senf zur Wurst?", "en": "Would you like mustard with the sausage?" }, { "de": "Der Senf ist ziemlich scharf.", "en": "The mustard is quite hot." } ],
+      "cloze": [{ "de": "Zur Bratwurst gehört ___.", "answer": "Senf", "en": "Mustard goes with a Bratwurst." }],
+      "notes": null, "mnemonic": null, "germany_context": "Asked at every Imbiss: 'Mit Senf oder Ketchup?'", "emoji": "🌭", "imageable": true, "tags": ["food"], "synonyms": [], "antonyms": [], "related": ["das-ketchup"] },
+
+    { "id": "das-ketchup", "word": "das Ketchup", "lemma": "Ketchup", "translation": "ketchup", "translations": ["ketchup"], "level": "A2", "category": "Food & Groceries", "partOfSpeech": "noun", "frequency": 1900, "gender": "n", "article": "das", "plural": "—", "separable": false, "auxiliary": null, "reflexive": false, "cases": [], "forms": {},
+      "example_sentences": [ { "de": "Pommes mit Ketchup, bitte.", "en": "Chips with ketchup, please." }, { "de": "Das Ketchup ist alle.", "en": "The ketchup has run out." } ],
+      "cloze": [{ "de": "Möchtest du Senf oder ___?", "answer": "Ketchup", "en": "Would you like mustard or ketchup?" }],
+      "notes": "Both 'das' and 'der' are accepted; das is more common.", "mnemonic": null, "germany_context": null, "emoji": "🍅", "imageable": true, "tags": ["food"], "synonyms": [], "antonyms": [], "related": ["der-senf"] },
+
+    { "id": "die-pizza", "word": "die Pizza", "lemma": "Pizza", "translation": "pizza", "translations": ["pizza"], "level": "A1", "category": "Food & Groceries", "partOfSpeech": "noun", "frequency": 950, "gender": "f", "article": "die", "plural": "die Pizzen", "separable": false, "auxiliary": null, "reflexive": false, "cases": [], "forms": {},
+      "example_sentences": [ { "de": "Wir bestellen heute Pizza.", "en": "We're ordering pizza today." }, { "de": "Die Pizza ist noch im Ofen.", "en": "The pizza is still in the oven." } ],
+      "cloze": [{ "de": "Ich hätte gern eine ___ mit Pilzen.", "answer": "Pizza", "en": "I'd like a pizza with mushrooms." }],
+      "notes": "Plural: die Pizzen or die Pizzas — both are used.", "mnemonic": null, "germany_context": null, "emoji": "🍕", "imageable": true, "tags": ["food"], "synonyms": [], "antonyms": [], "related": ["nudeln"] },
+
+    { "id": "die-semmel", "word": "die Semmel", "lemma": "Semmel", "translation": "bread roll (southern)", "translations": ["bread roll"], "level": "A2", "category": "Food & Groceries", "partOfSpeech": "noun", "frequency": 2100, "gender": "f", "article": "die", "plural": "die Semmeln", "separable": false, "auxiliary": null, "reflexive": false, "cases": [], "forms": {},
+      "example_sentences": [ { "de": "Zwei Semmeln, bitte.", "en": "Two bread rolls, please." }, { "de": "Die Semmeln sind noch warm.", "en": "The rolls are still warm." } ],
+      "cloze": [{ "de": "Beim Bäcker kaufe ich frische ___.", "answer": "Semmeln", "en": "At the bakery I buy fresh rolls." }],
+      "notes": null, "mnemonic": null, "germany_context": "Regional: Semmel in Bavaria and Austria, Brötchen in the north and west, Schrippe in Berlin, Weck in the south-west. Same bread, four names.", "emoji": "🥖", "imageable": true, "tags": ["food", "regional"], "synonyms": ["das Brötchen"], "antonyms": [], "related": [] },
+
+    { "id": "die-badewanne", "word": "die Badewanne", "lemma": "Badewanne", "translation": "bathtub", "translations": ["bathtub"], "level": "A2", "category": "Home & Furniture", "partOfSpeech": "noun", "frequency": 1700, "gender": "f", "article": "die", "plural": "die Badewannen", "separable": false, "auxiliary": null, "reflexive": false, "cases": [], "forms": {},
+      "example_sentences": [ { "de": "Die Wohnung hat eine Badewanne.", "en": "The flat has a bathtub." }, { "de": "Die Badewanne ist verstopft.", "en": "The bathtub is blocked." } ],
+      "cloze": [{ "de": "Ich hätte gern eine Wohnung mit ___.", "answer": "Badewanne", "en": "I'd like a flat with a bathtub." }],
+      "notes": null, "mnemonic": null, "germany_context": "Flat listings say 'Wanne' or 'Dusche' — many German flats have only a shower.", "emoji": "🛁", "imageable": true, "tags": ["home"], "synonyms": [], "antonyms": [], "related": ["das-bad"] },
+
+    { "id": "die-seife", "word": "die Seife", "lemma": "Seife", "translation": "soap", "translations": ["soap"], "level": "A1", "category": "Home & Furniture", "partOfSpeech": "noun", "frequency": 1300, "gender": "f", "article": "die", "plural": "die Seifen", "separable": false, "auxiliary": null, "reflexive": false, "cases": [], "forms": {},
+      "example_sentences": [ { "de": "Die Seife ist alle.", "en": "The soap has run out." }, { "de": "Wasch dir die Hände mit Seife.", "en": "Wash your hands with soap." } ],
+      "cloze": [{ "de": "Wir brauchen neue ___.", "answer": "Seife", "en": "We need new soap." }],
+      "notes": null, "mnemonic": null, "germany_context": null, "emoji": "🧼", "imageable": true, "tags": ["home"], "synonyms": [], "antonyms": [], "related": ["das-shampoo"] },
+
+    { "id": "die-zahnbuerste", "word": "die Zahnbürste", "lemma": "Zahnbürste", "translation": "toothbrush", "translations": ["toothbrush"], "level": "A1", "category": "Home & Furniture", "partOfSpeech": "noun", "frequency": 1450, "gender": "f", "article": "die", "plural": "die Zahnbürsten", "separable": false, "auxiliary": null, "reflexive": false, "cases": [], "forms": {},
+      "example_sentences": [ { "de": "Ich habe meine Zahnbürste vergessen.", "en": "I forgot my toothbrush." }, { "de": "Die Zahnbürste sollte man alle drei Monate wechseln.", "en": "You should change your toothbrush every three months." } ],
+      "cloze": [{ "de": "Pack die ___ ein!", "answer": "Zahnbürste", "en": "Pack the toothbrush!" }],
+      "notes": null, "mnemonic": null, "germany_context": null, "emoji": "🪥", "imageable": true, "tags": ["home"], "synonyms": [], "antonyms": [], "related": ["die-zahnpasta"] },
+
+    { "id": "die-zahnpasta", "word": "die Zahnpasta", "lemma": "Zahnpasta", "translation": "toothpaste", "translations": ["toothpaste"], "level": "A1", "category": "Home & Furniture", "partOfSpeech": "noun", "frequency": 1550, "gender": "f", "article": "die", "plural": "die Zahnpasten", "separable": false, "auxiliary": null, "reflexive": false, "cases": [], "forms": {},
+      "example_sentences": [ { "de": "Die Zahnpasta ist fast leer.", "en": "The toothpaste is nearly empty." }, { "de": "Kaufst du bitte Zahnpasta?", "en": "Could you buy toothpaste?" } ],
+      "cloze": [{ "de": "Wir haben keine ___ mehr.", "answer": "Zahnpasta", "en": "We've run out of toothpaste." }],
+      "notes": null, "mnemonic": null, "germany_context": "Drogerie chains dm and Rossmann are where Germans buy this — not the supermarket.", "emoji": "🦷", "imageable": true, "tags": ["home"], "synonyms": [], "antonyms": [], "related": ["die-zahnbuerste"] },
+
+    { "id": "das-shampoo", "word": "das Shampoo", "lemma": "Shampoo", "translation": "shampoo", "translations": ["shampoo"], "level": "A1", "category": "Home & Furniture", "partOfSpeech": "noun", "frequency": 1650, "gender": "n", "article": "das", "plural": "die Shampoos", "separable": false, "auxiliary": null, "reflexive": false, "cases": [], "forms": {},
+      "example_sentences": [ { "de": "Das Shampoo riecht gut.", "en": "The shampoo smells good." }, { "de": "Ich brauche neues Shampoo.", "en": "I need new shampoo." } ],
+      "cloze": [{ "de": "Das ___ ist leer.", "answer": "Shampoo", "en": "The shampoo is empty." }],
+      "notes": null, "mnemonic": null, "germany_context": null, "emoji": "🧴", "imageable": true, "tags": ["home"], "synonyms": [], "antonyms": [], "related": ["die-seife"] },
+
+    { "id": "der-rasierer", "word": "der Rasierer", "lemma": "Rasierer", "translation": "razor", "translations": ["razor", "shaver"], "level": "A2", "category": "Home & Furniture", "partOfSpeech": "noun", "frequency": 2000, "gender": "m", "article": "der", "plural": "die Rasierer", "separable": false, "auxiliary": null, "reflexive": false, "cases": [], "forms": {},
+      "example_sentences": [ { "de": "Mein Rasierer ist kaputt.", "en": "My razor is broken." }, { "de": "Der Rasierer muss geladen werden.", "en": "The shaver needs charging." } ],
+      "cloze": [{ "de": "Ich habe meinen ___ zu Hause vergessen.", "answer": "Rasierer", "en": "I forgot my razor at home." }],
+      "notes": "-er ending, masculine, same in the plural.", "mnemonic": null, "germany_context": null, "emoji": "🪒", "imageable": true, "tags": ["home"], "synonyms": [], "antonyms": [], "related": [] },
+
+    { "id": "der-kamm", "word": "der Kamm", "lemma": "Kamm", "translation": "comb", "translations": ["comb"], "level": "A2", "category": "Home & Furniture", "partOfSpeech": "noun", "frequency": 2050, "gender": "m", "article": "der", "plural": "die Kämme", "separable": false, "auxiliary": null, "reflexive": false, "cases": [], "forms": {},
+      "example_sentences": [ { "de": "Hast du einen Kamm?", "en": "Do you have a comb?" }, { "de": "Der Kamm liegt im Bad.", "en": "The comb is in the bathroom." } ],
+      "cloze": [{ "de": "Ich suche meinen ___.", "answer": "Kamm", "en": "I'm looking for my comb." }],
+      "notes": "Umlaut plural: die Kämme.", "mnemonic": null, "germany_context": null, "emoji": "💈", "imageable": true, "tags": ["home"], "synonyms": [], "antonyms": [], "related": ["die-buerste"] },
+
+    { "id": "die-buerste", "word": "die Bürste", "lemma": "Bürste", "translation": "brush", "translations": ["brush"], "level": "A2", "category": "Home & Furniture", "partOfSpeech": "noun", "frequency": 2080, "gender": "f", "article": "die", "plural": "die Bürsten", "separable": false, "auxiliary": null, "reflexive": false, "cases": [], "forms": {},
+      "example_sentences": [ { "de": "Die Bürste liegt neben dem Spiegel.", "en": "The brush is next to the mirror." }, { "de": "Ich brauche eine neue Bürste.", "en": "I need a new brush." } ],
+      "cloze": [{ "de": "Gib mir bitte die ___.", "answer": "Bürste", "en": "Please pass me the brush." }],
+      "notes": null, "mnemonic": null, "germany_context": null, "emoji": "🧹", "imageable": true, "tags": ["home"], "synonyms": [], "antonyms": [], "related": ["der-kamm"] },
+
+    { "id": "das-toilettenpapier", "word": "das Toilettenpapier", "lemma": "Toilettenpapier", "translation": "toilet paper", "translations": ["toilet paper"], "level": "A1", "category": "Home & Furniture", "partOfSpeech": "noun", "frequency": 1400, "gender": "n", "article": "das", "plural": "—", "separable": false, "auxiliary": null, "reflexive": false, "cases": [], "forms": {},
+      "example_sentences": [ { "de": "Wir haben kein Toilettenpapier mehr.", "en": "We've run out of toilet paper." }, { "de": "Kauf bitte Toilettenpapier.", "en": "Please buy toilet paper." } ],
+      "cloze": [{ "de": "Vergiss das ___ nicht!", "answer": "Toilettenpapier", "en": "Don't forget the toilet paper!" }],
+      "notes": null, "mnemonic": null, "germany_context": null, "emoji": "🧻", "imageable": true, "tags": ["home"], "synonyms": ["das Klopapier"], "antonyms": [], "related": [] },
+
+    { "id": "der-foehn", "word": "der Föhn", "lemma": "Föhn", "translation": "hairdryer", "translations": ["hairdryer"], "level": "A2", "category": "Home & Furniture", "partOfSpeech": "noun", "frequency": 2150, "gender": "m", "article": "der", "plural": "die Föhne", "separable": false, "auxiliary": null, "reflexive": false, "cases": [], "forms": {},
+      "example_sentences": [ { "de": "Gibt es im Hotel einen Föhn?", "en": "Is there a hairdryer in the hotel?" }, { "de": "Der Föhn ist zu laut.", "en": "The hairdryer is too loud." } ],
+      "cloze": [{ "de": "Kann ich deinen ___ benutzen?", "answer": "Föhn", "en": "Can I use your hairdryer?" }],
+      "notes": "Also spelled 'Fön'. The same word is a warm alpine wind.", "mnemonic": null, "germany_context": null, "emoji": "💨", "imageable": true, "tags": ["home"], "synonyms": [], "antonyms": [], "related": [] },
+
+    { "id": "der-besen", "word": "der Besen", "lemma": "Besen", "translation": "broom", "translations": ["broom"], "level": "A2", "category": "Home & Furniture", "partOfSpeech": "noun", "frequency": 2200, "gender": "m", "article": "der", "plural": "die Besen", "separable": false, "auxiliary": null, "reflexive": false, "cases": [], "forms": {},
+      "example_sentences": [ { "de": "Der Besen steht in der Ecke.", "en": "The broom is in the corner." }, { "de": "Hol bitte den Besen.", "en": "Please get the broom." } ],
+      "cloze": [{ "de": "Wo ist der ___?", "answer": "Besen", "en": "Where is the broom?" }],
+      "notes": null, "mnemonic": null, "germany_context": null, "emoji": "🧹", "imageable": true, "tags": ["home"], "synonyms": [], "antonyms": [], "related": ["der-eimer"] },
+
+    { "id": "der-eimer", "word": "der Eimer", "lemma": "Eimer", "translation": "bucket", "translations": ["bucket"], "level": "A2", "category": "Home & Furniture", "partOfSpeech": "noun", "frequency": 1950, "gender": "m", "article": "der", "plural": "die Eimer", "separable": false, "auxiliary": null, "reflexive": false, "cases": [], "forms": {},
+      "example_sentences": [ { "de": "Der Eimer ist voll Wasser.", "en": "The bucket is full of water." }, { "de": "Stell den Eimer in den Keller.", "en": "Put the bucket in the cellar." } ],
+      "cloze": [{ "de": "Hol bitte einen ___ Wasser.", "answer": "Eimer", "en": "Please get a bucket of water." }],
+      "notes": null, "mnemonic": null, "germany_context": null, "emoji": "🪣", "imageable": true, "tags": ["home"], "synonyms": [], "antonyms": [], "related": ["der-besen", "der-lappen"] },
+
+    { "id": "der-lappen", "word": "der Lappen", "lemma": "Lappen", "translation": "cloth", "translations": ["cloth", "rag"], "level": "A2", "category": "Home & Furniture", "partOfSpeech": "noun", "frequency": 2250, "gender": "m", "article": "der", "plural": "die Lappen", "separable": false, "auxiliary": null, "reflexive": false, "cases": [], "forms": {},
+      "example_sentences": [ { "de": "Wisch das bitte mit einem Lappen auf.", "en": "Please wipe that up with a cloth." }, { "de": "Der Lappen ist schmutzig.", "en": "The cloth is dirty." } ],
+      "cloze": [{ "de": "Nimm einen feuchten ___.", "answer": "Lappen", "en": "Take a damp cloth." }],
+      "notes": null, "mnemonic": null, "germany_context": null, "emoji": "🧽", "imageable": true, "tags": ["home"], "synonyms": ["das Tuch"], "antonyms": [], "related": ["der-eimer"] },
+
+    { "id": "die-schere", "word": "die Schere", "lemma": "Schere", "translation": "scissors", "translations": ["scissors"], "level": "A1", "category": "Home & Furniture", "partOfSpeech": "noun", "frequency": 1500, "gender": "f", "article": "die", "plural": "die Scheren", "separable": false, "auxiliary": null, "reflexive": false, "cases": [], "forms": {},
+      "example_sentences": [ { "de": "Hast du eine Schere?", "en": "Do you have scissors?" }, { "de": "Die Schere schneidet nicht gut.", "en": "The scissors don't cut well." } ],
+      "cloze": [{ "de": "Gib mir bitte die ___.", "answer": "Schere", "en": "Please pass me the scissors." }],
+      "notes": "Singular in German ('eine Schere'), plural in English ('scissors').", "mnemonic": null, "germany_context": null, "emoji": "✂️", "imageable": true, "tags": ["home"], "synonyms": [], "antonyms": [], "related": ["das-klebeband"] },
+
+    { "id": "das-klebeband", "word": "das Klebeband", "lemma": "Klebeband", "translation": "adhesive tape", "translations": ["adhesive tape", "sticky tape"], "level": "A2", "category": "Home & Furniture", "partOfSpeech": "noun", "frequency": 2300, "gender": "n", "article": "das", "plural": "die Klebebänder", "separable": false, "auxiliary": null, "reflexive": false, "cases": [], "forms": {},
+      "example_sentences": [ { "de": "Ich brauche Klebeband für das Paket.", "en": "I need tape for the parcel." }, { "de": "Das Klebeband hält nicht.", "en": "The tape isn't holding." } ],
+      "cloze": [{ "de": "Hast du ___ für den Karton?", "answer": "Klebeband", "en": "Do you have tape for the box?" }],
+      "notes": "Umlaut plural: die Klebebänder.", "mnemonic": null, "germany_context": null, "emoji": "📦", "imageable": true, "tags": ["home"], "synonyms": ["das Tesafilm"], "antonyms": [], "related": ["der-kleber", "die-schere"] },
+
+    { "id": "der-kleber", "word": "der Kleber", "lemma": "Kleber", "translation": "glue", "translations": ["glue"], "level": "A2", "category": "Home & Furniture", "partOfSpeech": "noun", "frequency": 2350, "gender": "m", "article": "der", "plural": "die Kleber", "separable": false, "auxiliary": null, "reflexive": false, "cases": [], "forms": {},
+      "example_sentences": [ { "de": "Der Kleber ist eingetrocknet.", "en": "The glue has dried out." }, { "de": "Nimm etwas Kleber dafür.", "en": "Use some glue for that." } ],
+      "cloze": [{ "de": "Ich brauche ___ für die Reparatur.", "answer": "Kleber", "en": "I need glue for the repair." }],
+      "notes": null, "mnemonic": null, "germany_context": null, "emoji": "🧴", "imageable": true, "tags": ["home"], "synonyms": ["der Klebstoff"], "antonyms": [], "related": ["das-klebeband"] },
+
+    { "id": "die-gluehbirne", "word": "die Glühbirne", "lemma": "Glühbirne", "translation": "light bulb", "translations": ["light bulb"], "level": "A2", "category": "Home & Furniture", "partOfSpeech": "noun", "frequency": 1850, "gender": "f", "article": "die", "plural": "die Glühbirnen", "separable": false, "auxiliary": null, "reflexive": false, "cases": [], "forms": {},
+      "example_sentences": [ { "de": "Die Glühbirne ist kaputt.", "en": "The light bulb is broken." }, { "de": "Ich muss eine neue Glühbirne kaufen.", "en": "I have to buy a new light bulb." } ],
+      "cloze": [{ "de": "Kannst du die ___ wechseln?", "answer": "Glühbirne", "en": "Can you change the light bulb?" }],
+      "notes": "Literally 'glow pear'.", "mnemonic": "Glüh (glow) + Birne (pear) — it's pear-shaped.", "germany_context": "German flats are often rented without light fittings at all — just wires hanging from the ceiling. Budget for lamps.", "emoji": "💡", "imageable": true, "tags": ["home"], "synonyms": ["die Lampe"], "antonyms": [], "related": ["das-werkzeug"] },
+
+    { "id": "das-werkzeug", "word": "das Werkzeug", "lemma": "Werkzeug", "translation": "tool", "translations": ["tool", "tools"], "level": "A2", "category": "Home & Furniture", "partOfSpeech": "noun", "frequency": 1750, "gender": "n", "article": "das", "plural": "die Werkzeuge", "separable": false, "auxiliary": null, "reflexive": false, "cases": [], "forms": {},
+      "example_sentences": [ { "de": "Hast du Werkzeug im Keller?", "en": "Do you have tools in the cellar?" }, { "de": "Ich brauche das richtige Werkzeug.", "en": "I need the right tool." } ],
+      "cloze": [{ "de": "Für die Reparatur brauche ich ___.", "answer": "Werkzeug", "en": "I need tools for the repair." }],
+      "notes": "Often used uncountably for 'tools' in general.", "mnemonic": null, "germany_context": "A Baumarkt (OBI, Bauhaus, Hornbach) is where you get this — they're huge and closed on Sundays.", "emoji": "🧰", "imageable": true, "tags": ["home"], "synonyms": [], "antonyms": [], "related": ["der-hammer", "die-schraube"] },
+
+    { "id": "der-hammer", "word": "der Hammer", "lemma": "Hammer", "translation": "hammer", "translations": ["hammer"], "level": "A2", "category": "Home & Furniture", "partOfSpeech": "noun", "frequency": 1880, "gender": "m", "article": "der", "plural": "die Hämmer", "separable": false, "auxiliary": null, "reflexive": false, "cases": [], "forms": {},
+      "example_sentences": [ { "de": "Gib mir bitte den Hammer.", "en": "Please pass me the hammer." }, { "de": "Der Hammer liegt in der Werkzeugkiste.", "en": "The hammer is in the toolbox." } ],
+      "cloze": [{ "de": "Ich brauche einen ___ und einen Nagel.", "answer": "Hammer", "en": "I need a hammer and a nail." }],
+      "notes": "Colloquially 'Das ist der Hammer!' means 'That's amazing!'. Umlaut plural: die Hämmer.", "mnemonic": null, "germany_context": null, "emoji": "🔨", "imageable": true, "tags": ["home"], "synonyms": [], "antonyms": [], "related": ["der-nagel", "das-werkzeug"] },
+
+    { "id": "die-schraube", "word": "die Schraube", "lemma": "Schraube", "translation": "screw", "translations": ["screw"], "level": "A2", "category": "Home & Furniture", "partOfSpeech": "noun", "frequency": 1920, "gender": "f", "article": "die", "plural": "die Schrauben", "separable": false, "auxiliary": null, "reflexive": false, "cases": [], "forms": {},
+      "example_sentences": [ { "de": "Eine Schraube fehlt.", "en": "A screw is missing." }, { "de": "Die Schrauben sind zu kurz.", "en": "The screws are too short." } ],
+      "cloze": [{ "de": "Dreh die ___ fester.", "answer": "Schraube", "en": "Tighten the screw." }],
+      "notes": null, "mnemonic": null, "germany_context": null, "emoji": "🔩", "imageable": true, "tags": ["home"], "synonyms": [], "antonyms": [], "related": ["der-hammer", "die-bohrmaschine"] },
+
+    { "id": "der-nagel", "word": "der Nagel", "lemma": "Nagel", "translation": "nail", "translations": ["nail"], "level": "A2", "category": "Home & Furniture", "partOfSpeech": "noun", "frequency": 1970, "gender": "m", "article": "der", "plural": "die Nägel", "separable": false, "auxiliary": null, "reflexive": false, "cases": [], "forms": {},
+      "example_sentences": [ { "de": "Schlag den Nagel in die Wand.", "en": "Hammer the nail into the wall." }, { "de": "Meine Nägel sind zu lang.", "en": "My nails are too long." } ],
+      "cloze": [{ "de": "Das Bild hängt an einem ___.", "answer": "Nagel", "en": "The picture hangs on a nail." }],
+      "notes": "Means both a metal nail and a finger/toenail. Umlaut plural: die Nägel.", "mnemonic": null, "germany_context": null, "emoji": "🔨", "imageable": true, "tags": ["home"], "synonyms": [], "antonyms": [], "related": ["der-hammer"] },
+
+    { "id": "die-bohrmaschine", "word": "die Bohrmaschine", "lemma": "Bohrmaschine", "translation": "drill", "translations": ["drill"], "level": "A2", "category": "Home & Furniture", "partOfSpeech": "noun", "frequency": 2400, "gender": "f", "article": "die", "plural": "die Bohrmaschinen", "separable": false, "auxiliary": null, "reflexive": false, "cases": [], "forms": {},
+      "example_sentences": [ { "de": "Kann ich deine Bohrmaschine leihen?", "en": "Can I borrow your drill?" }, { "de": "Die Bohrmaschine ist sehr laut.", "en": "The drill is very loud." } ],
+      "cloze": [{ "de": "Für das Regal brauche ich eine ___.", "answer": "Bohrmaschine", "en": "I need a drill for the shelf." }],
+      "notes": null, "mnemonic": null, "germany_context": "Drilling is bound by Ruhezeiten — not before 7:00, not after 20:00, and never on a Sunday. Neighbours enforce this.", "emoji": "🛠️", "imageable": true, "tags": ["home"], "synonyms": [], "antonyms": [], "related": ["die-schraube", "das-werkzeug"] },
+
+    { "id": "die-leiter", "word": "die Leiter", "lemma": "Leiter", "translation": "ladder", "translations": ["ladder"], "level": "A2", "category": "Home & Furniture", "partOfSpeech": "noun", "frequency": 2280, "gender": "f", "article": "die", "plural": "die Leitern", "separable": false, "auxiliary": null, "reflexive": false, "cases": [], "forms": {},
+      "example_sentences": [ { "de": "Hol bitte die Leiter aus dem Keller.", "en": "Please get the ladder from the cellar." }, { "de": "Die Leiter steht am Fenster.", "en": "The ladder is by the window." } ],
+      "cloze": [{ "de": "Ohne ___ komme ich nicht an die Lampe.", "answer": "Leiter", "en": "Without a ladder I can't reach the lamp." }],
+      "notes": "Gender changes the meaning: DIE Leiter = ladder, DER Leiter = manager.", "mnemonic": "die Leiter you climb, der Leiter you report to.", "germany_context": null, "emoji": "🪜", "imageable": true, "tags": ["home"], "synonyms": [], "antonyms": [], "related": ["das-werkzeug"] },
+
+    { "id": "die-pause", "word": "die Pause", "lemma": "Pause", "translation": "break", "translations": ["break", "pause"], "level": "A1", "category": "Work & Office", "partOfSpeech": "noun", "frequency": 590, "gender": "f", "article": "die", "plural": "die Pausen", "separable": false, "auxiliary": null, "reflexive": false, "cases": [], "forms": {},
+      "example_sentences": [ { "de": "Wir machen eine kurze Pause.", "en": "We're taking a short break." }, { "de": "Die Mittagspause ist um zwölf.", "en": "The lunch break is at twelve." } ],
+      "cloze": [{ "de": "Machen wir eine ___?", "answer": "Pause", "en": "Shall we take a break?" }],
+      "notes": "'Pause machen' = to take a break.", "mnemonic": null, "germany_context": "Breaks are a legal right: 30 minutes after 6 hours' work, 45 after 9. Germans take them properly and away from the desk.", "emoji": "☕", "imageable": false, "tags": ["work"], "synonyms": [], "antonyms": [], "related": ["der-feierabend-work"] },
+
+    { "id": "der-vertrag-work", "word": "der Vertrag", "lemma": "Vertrag", "translation": "contract", "translations": ["contract"], "level": "A2", "category": "Work & Office", "partOfSpeech": "noun", "frequency": 620, "gender": "m", "article": "der", "plural": "die Verträge", "separable": false, "auxiliary": null, "reflexive": false, "cases": [], "forms": {},
+      "example_sentences": [ { "de": "Ich habe den Vertrag unterschrieben.", "en": "I signed the contract." }, { "de": "Der Vertrag läuft ein Jahr.", "en": "The contract runs for a year." } ],
+      "cloze": [{ "de": "Lies den ___ genau durch.", "answer": "Vertrag", "en": "Read the contract carefully." }],
+      "notes": "Umlaut plural: die Verträge.", "mnemonic": null, "germany_context": "Read every Vertrag for its Kündigungsfrist before signing — flats, gyms, phones and insurance all auto-renew if you miss it.", "emoji": "📄", "imageable": false, "tags": ["work", "essential"], "synonyms": [], "antonyms": [], "related": ["die-pause"] },
+
+    { "id": "der-beleg", "word": "der Beleg", "lemma": "Beleg", "translation": "receipt", "translations": ["receipt", "proof of payment"], "level": "A2", "category": "Work & Office", "partOfSpeech": "noun", "frequency": 1600, "gender": "m", "article": "der", "plural": "die Belege", "separable": false, "auxiliary": null, "reflexive": false, "cases": [], "forms": {},
+      "example_sentences": [ { "de": "Bewahren Sie den Beleg gut auf.", "en": "Keep the receipt safe." }, { "de": "Ohne Beleg gibt es kein Geld zurück.", "en": "Without a receipt there's no refund." } ],
+      "cloze": [{ "de": "Haben Sie noch den ___?", "answer": "Beleg", "en": "Do you still have the receipt?" }],
+      "notes": "'der Kassenbon' is the shop till receipt specifically.", "mnemonic": null, "germany_context": "Keep every Beleg — you can claim work expenses against tax, and German shops require one for any return.", "emoji": "🧾", "imageable": true, "tags": ["work", "money"], "synonyms": ["der Kassenbon", "die Quittung"], "antonyms": [], "related": ["der-auftrag"] },
+
+    { "id": "der-auftrag", "word": "der Auftrag", "lemma": "Auftrag", "translation": "order", "translations": ["order", "assignment"], "level": "A2", "category": "Work & Office", "partOfSpeech": "noun", "frequency": 1050, "gender": "m", "article": "der", "plural": "die Aufträge", "separable": false, "auxiliary": null, "reflexive": false, "cases": [], "forms": {},
+      "example_sentences": [ { "de": "Wir haben einen großen Auftrag bekommen.", "en": "We got a big order." }, { "de": "Der Auftrag ist erledigt.", "en": "The assignment is done." } ],
+      "cloze": [{ "de": "Der Kunde hat den ___ storniert.", "answer": "Auftrag", "en": "The customer cancelled the order." }],
+      "notes": "A work order or commission — not a restaurant order (that's 'die Bestellung'). Umlaut plural: die Aufträge.", "mnemonic": null, "germany_context": null, "emoji": "📋", "imageable": false, "tags": ["work"], "synonyms": [], "antonyms": [], "related": ["der-beleg"] }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "category": "Colours & Core Words",
+  "words": [
+    { "id": "rot", "word": "rot", "lemma": "rot", "translation": "red", "translations": ["red"], "level": "A0", "category": "Clothing & Colours", "partOfSpeech": "adjective", "frequency": 350, "gender": null, "article": null, "plural": null, "separable": false, "auxiliary": null, "reflexive": false, "cases": [], "forms": {},
+      "example_sentences": [ { "de": "Die Ampel ist rot.", "en": "The traffic light is red." }, { "de": "Ich hätte gern den roten Pullover.", "en": "I'd like the red jumper." } ],
+      "cloze": [{ "de": "Sie trägt ein ___es Kleid.", "answer": "rot", "en": "She's wearing a red dress." }],
+      "notes": "Colours take endings before a noun (ein rotes Kleid) but none after sein (Das Kleid ist rot).", "mnemonic": null, "germany_context": null, "emoji": "🔴", "imageable": false, "tags": ["colour", "essential"], "synonyms": [], "antonyms": [], "related": ["blau", "die-farbe-kleidung"] },
+
+    { "id": "blau", "word": "blau", "lemma": "blau", "translation": "blue", "translations": ["blue"], "level": "A0", "category": "Clothing & Colours", "partOfSpeech": "adjective", "frequency": 360, "gender": null, "article": null, "plural": null, "separable": false, "auxiliary": null, "reflexive": false, "cases": [], "forms": {},
+      "example_sentences": [ { "de": "Der Himmel ist heute blau.", "en": "The sky is blue today." }, { "de": "Er hat blaue Augen.", "en": "He has blue eyes." } ],
+      "cloze": [{ "de": "Ich suche eine ___e Jacke.", "answer": "blau", "en": "I'm looking for a blue jacket." }],
+      "notes": "Colloquially 'blau sein' means to be drunk — worth knowing before you use it about a person.", "mnemonic": null, "germany_context": null, "emoji": "🔵", "imageable": false, "tags": ["colour", "essential"], "synonyms": [], "antonyms": [], "related": ["rot"] },
+
+    { "id": "gelb", "word": "gelb", "lemma": "gelb", "translation": "yellow", "translations": ["yellow"], "level": "A0", "category": "Clothing & Colours", "partOfSpeech": "adjective", "frequency": 620, "gender": null, "article": null, "plural": null, "separable": false, "auxiliary": null, "reflexive": false, "cases": [], "forms": {},
+      "example_sentences": [ { "de": "Die Banane ist gelb.", "en": "The banana is yellow." }, { "de": "Die Ampel wird gerade gelb.", "en": "The traffic light is turning yellow." } ],
+      "cloze": [{ "de": "Verpackungen kommen in den ___en Sack.", "answer": "gelb", "en": "Packaging goes in the yellow bag." }],
+      "notes": null, "mnemonic": null, "germany_context": "The Gelber Sack is where all packaging waste goes — plastic, metal and cartons. Every household gets them free.", "emoji": "🟡", "imageable": false, "tags": ["colour", "essential"], "synonyms": [], "antonyms": [], "related": ["rot", "der-muell-natur"] },
+
+    { "id": "gruen", "word": "grün", "lemma": "grün", "translation": "green", "translations": ["green"], "level": "A0", "category": "Clothing & Colours", "partOfSpeech": "adjective", "frequency": 370, "gender": null, "article": null, "plural": null, "separable": false, "auxiliary": null, "reflexive": false, "cases": [], "forms": {},
+      "example_sentences": [ { "de": "Das Gras ist grün.", "en": "The grass is green." }, { "de": "Bei Grün darfst du gehen.", "en": "You may go on green." } ],
+      "cloze": [{ "de": "Im Frühling wird alles wieder ___.", "answer": "grün", "en": "In spring everything turns green again." }],
+      "notes": null, "mnemonic": null, "germany_context": null, "emoji": "🟢", "imageable": false, "tags": ["colour", "essential"], "synonyms": [], "antonyms": [], "related": ["rot"] },
+
+    { "id": "schwarz", "word": "schwarz", "lemma": "schwarz", "translation": "black", "translations": ["black"], "level": "A0", "category": "Clothing & Colours", "partOfSpeech": "adjective", "frequency": 340, "gender": null, "article": null, "plural": null, "separable": false, "auxiliary": null, "reflexive": false, "cases": [], "forms": {},
+      "example_sentences": [ { "de": "Ich trinke meinen Kaffee schwarz.", "en": "I drink my coffee black." }, { "de": "Er trägt einen schwarzen Anzug.", "en": "He's wearing a black suit." } ],
+      "cloze": [{ "de": "Ohne Ticket zu fahren heißt ___fahren.", "answer": "schwarz", "en": "Travelling without a ticket is called fare-dodging." }],
+      "notes": null, "mnemonic": null, "germany_context": "'Schwarzfahren' is riding public transport without a valid ticket — a €60 fine, and inspectors are in plain clothes.", "emoji": "⚫", "imageable": false, "tags": ["colour", "essential"], "synonyms": [], "antonyms": ["weiß"], "related": ["weiss"] },
+
+    { "id": "weiss", "word": "weiß", "lemma": "weiß", "translation": "white", "translations": ["white"], "level": "A0", "category": "Clothing & Colours", "partOfSpeech": "adjective", "frequency": 345, "gender": null, "article": null, "plural": null, "separable": false, "auxiliary": null, "reflexive": false, "cases": [], "forms": {},
+      "example_sentences": [ { "de": "Im Winter ist alles weiß.", "en": "In winter everything is white." }, { "de": "Ein weißes Hemd passt immer.", "en": "A white shirt always works." } ],
+      "cloze": [{ "de": "Er trägt ein ___es Hemd zum Anzug.", "answer": "weiß", "en": "He wears a white shirt with the suit." }],
+      "notes": "Careful: 'weiß' is also 'ich weiß' (I know) from wissen. Same spelling, different word.", "mnemonic": null, "germany_context": null, "emoji": "⚪", "imageable": false, "tags": ["colour", "essential"], "synonyms": [], "antonyms": ["schwarz"], "related": ["schwarz"] },
+
+    { "id": "grau", "word": "grau", "lemma": "grau", "translation": "grey", "translations": ["grey", "gray"], "level": "A1", "category": "Clothing & Colours", "partOfSpeech": "adjective", "frequency": 700, "gender": null, "article": null, "plural": null, "separable": false, "auxiliary": null, "reflexive": false, "cases": [], "forms": {},
+      "example_sentences": [ { "de": "Der Himmel ist grau.", "en": "The sky is grey." }, { "de": "Sie hat graue Haare.", "en": "She has grey hair." } ],
+      "cloze": [{ "de": "Im November ist der Himmel meistens ___.", "answer": "grau", "en": "In November the sky is mostly grey." }],
+      "notes": null, "mnemonic": null, "germany_context": "German winters are famously grey rather than snowy — this word comes up in small talk constantly.", "emoji": "⚪", "imageable": false, "tags": ["colour"], "synonyms": [], "antonyms": [], "related": ["bewoelkt"] },
+
+    { "id": "braun", "word": "braun", "lemma": "braun", "translation": "brown", "translations": ["brown"], "level": "A1", "category": "Clothing & Colours", "partOfSpeech": "adjective", "frequency": 780, "gender": null, "article": null, "plural": null, "separable": false, "auxiliary": null, "reflexive": false, "cases": [], "forms": {},
+      "example_sentences": [ { "de": "Sie hat braune Augen.", "en": "She has brown eyes." }, { "de": "Das Brot ist schön braun.", "en": "The bread is nicely browned." } ],
+      "cloze": [{ "de": "Bioabfall kommt in die ___e Tonne.", "answer": "braun", "en": "Organic waste goes in the brown bin." }],
+      "notes": null, "mnemonic": null, "germany_context": "The braune Tonne is the compost bin — food scraps and garden waste.", "emoji": "🟤", "imageable": false, "tags": ["colour"], "synonyms": [], "antonyms": [], "related": ["der-muell-natur"] },
+
+    { "id": "nicht", "word": "nicht", "lemma": "nicht", "translation": "not", "translations": ["not"], "level": "A0", "category": "Adverbs", "partOfSpeech": "adverb", "frequency": 12, "gender": null, "article": null, "plural": null, "separable": false, "auxiliary": null, "reflexive": false, "cases": [], "forms": {},
+      "example_sentences": [ { "de": "Ich verstehe das nicht.", "en": "I don't understand that." }, { "de": "Heute arbeite ich nicht.", "en": "I'm not working today." } ],
+      "cloze": [{ "de": "Das ist leider ___ möglich.", "answer": "nicht", "en": "Unfortunately that's not possible." }],
+      "notes": "nicht negates verbs, adjectives and whole sentences. To negate a NOUN you use kein: 'Ich habe kein Auto', not 'nicht ein Auto'. This is the single most common negation mistake.", "mnemonic": null, "germany_context": null, "emoji": "🚫", "imageable": false, "tags": ["essential", "grammar"], "synonyms": [], "antonyms": [], "related": ["kein"] },
+
+    { "id": "oder-frage", "word": "oder?", "lemma": "oder", "translation": "right?", "translations": ["right?", "isn't it?"], "level": "A1", "category": "Small Talk & Conversation", "partOfSpeech": "phrase", "frequency": 430, "gender": null, "article": null, "plural": null, "separable": false, "auxiliary": null, "reflexive": false, "cases": [], "forms": {},
+      "example_sentences": [ { "de": "Das ist schön, oder?", "en": "That's nice, isn't it?" }, { "de": "Du kommst morgen mit, oder?", "en": "You're coming along tomorrow, right?" } ],
+      "cloze": [{ "de": "Wir treffen uns um acht, ___?", "answer": "oder", "en": "We're meeting at eight, right?" }],
+      "notes": "Tacked onto the end of a sentence to invite agreement — German's equivalent of the English tag question, and it never changes form.", "mnemonic": null, "germany_context": null, "emoji": "❓", "imageable": false, "tags": ["smalltalk", "essential"], "synonyms": ["nicht wahr?"], "antonyms": [], "related": [] },
+
+    { "id": "der-hut", "word": "der Hut", "lemma": "Hut", "translation": "hat", "translations": ["hat"], "level": "A2", "category": "Clothing & Colours", "partOfSpeech": "noun", "frequency": 1500, "gender": "m", "article": "der", "plural": "die Hüte", "separable": false, "auxiliary": null, "reflexive": false, "cases": [], "forms": {},
+      "example_sentences": [ { "de": "Er trägt einen schwarzen Hut.", "en": "He's wearing a black hat." }, { "de": "Nimm den Hut ab, bitte.", "en": "Take your hat off, please." } ],
+      "cloze": [{ "de": "Bei der Sonne brauchst du einen ___.", "answer": "Hut", "en": "In this sun you need a hat." }],
+      "notes": "A hat with a brim. A warm woolly one is 'die Mütze'. Umlaut plural: die Hüte.", "mnemonic": null, "germany_context": null, "emoji": "🎩", "imageable": true, "tags": ["clothing"], "synonyms": [], "antonyms": [], "related": ["die-muetze"] },
+
+    { "id": "der-tisch", "word": "der Tisch", "lemma": "Tisch", "translation": "table", "translations": ["table"], "level": "A0", "category": "Home & Furniture", "partOfSpeech": "noun", "frequency": 300, "gender": "m", "article": "der", "plural": "die Tische", "separable": false, "auxiliary": null, "reflexive": false, "cases": [], "forms": {},
+      "example_sentences": [ { "de": "Das Essen steht auf dem Tisch.", "en": "The food is on the table." }, { "de": "Wir hätten gern einen Tisch für zwei.", "en": "We'd like a table for two." } ],
+      "cloze": [{ "de": "Stell die Teller bitte auf den ___.", "answer": "Tisch", "en": "Please put the plates on the table." }],
+      "notes": "'auf dem Tisch' = on the table (where it is), 'auf den Tisch' = onto the table (where it's going). A classic Wechselpräposition pair.", "mnemonic": null, "germany_context": null, "emoji": "🪑", "imageable": true, "tags": ["home", "essential"], "synonyms": [], "antonyms": [], "related": ["der-stuhl"] },
+
+    { "id": "das-bild", "word": "das Bild", "lemma": "Bild", "translation": "picture", "translations": ["picture", "image"], "level": "A1", "category": "Home & Furniture", "partOfSpeech": "noun", "frequency": 420, "gender": "n", "article": "das", "plural": "die Bilder", "separable": false, "auxiliary": null, "reflexive": false, "cases": [], "forms": {},
+      "example_sentences": [ { "de": "Das Bild hängt über dem Sofa.", "en": "The picture hangs above the sofa." }, { "de": "Kannst du mir ein Bild schicken?", "en": "Can you send me a picture?" } ],
+      "cloze": [{ "de": "An der Wand hängt ein schönes ___.", "answer": "Bild", "en": "There's a lovely picture on the wall." }],
+      "notes": "Umlaut plural: die Bilder.", "mnemonic": null, "germany_context": null, "emoji": "🖼️", "imageable": true, "tags": ["home"], "synonyms": ["das Foto"], "antonyms": [], "related": ["das-foto"] },
+
+    { "id": "das-zentrum", "word": "das Zentrum", "lemma": "Zentrum", "translation": "centre", "translations": ["centre", "center"], "level": "A2", "category": "City & Places", "partOfSpeech": "noun", "frequency": 900, "gender": "n", "article": "das", "plural": "die Zentren", "separable": false, "auxiliary": null, "reflexive": false, "cases": [], "forms": {},
+      "example_sentences": [ { "de": "Wir wohnen im Zentrum.", "en": "We live in the centre." }, { "de": "Wie komme ich ins Zentrum?", "en": "How do I get to the centre?" } ],
+      "cloze": [{ "de": "Vom Bahnhof sind es zehn Minuten ins ___.", "answer": "Zentrum", "en": "It's ten minutes from the station to the centre." }],
+      "notes": "-um ending, so it's das. Irregular plural: die Zentren. Germans more often say 'die Innenstadt'.", "mnemonic": null, "germany_context": null, "emoji": "🏙️", "imageable": false, "tags": ["places"], "synonyms": ["die Innenstadt"], "antonyms": [], "related": [] },
+
+    { "id": "die-erde", "word": "die Erde", "lemma": "Erde", "translation": "earth", "translations": ["earth", "soil", "ground"], "level": "A2", "category": "Nature & Weather", "partOfSpeech": "noun", "frequency": 800, "gender": "f", "article": "die", "plural": "die Erden", "separable": false, "auxiliary": null, "reflexive": false, "cases": [], "forms": {},
+      "example_sentences": [ { "de": "Die Erde dreht sich um die Sonne.", "en": "The Earth revolves around the sun." }, { "de": "Die Blumen brauchen frische Erde.", "en": "The flowers need fresh soil." } ],
+      "cloze": [{ "de": "Nach dem Regen war die ___ ganz weich.", "answer": "Erde", "en": "After the rain the ground was quite soft." }],
+      "notes": "Means both the planet and soil.", "mnemonic": null, "germany_context": null, "emoji": "🌍", "imageable": true, "tags": ["nature"], "synonyms": [], "antonyms": [], "related": ["die-pflanze"] },
+
+    { "id": "das-feuer", "word": "das Feuer", "lemma": "Feuer", "translation": "fire", "translations": ["fire"], "level": "A1", "category": "Nature & Weather", "partOfSpeech": "noun", "frequency": 750, "gender": "n", "article": "das", "plural": "die Feuer", "separable": false, "auxiliary": null, "reflexive": false, "cases": [], "forms": {},
+      "example_sentences": [ { "de": "Im Kamin brennt ein Feuer.", "en": "A fire is burning in the fireplace." }, { "de": "Feuer! Bitte alle raus!", "en": "Fire! Everyone out, please!" } ],
+      "cloze": [{ "de": "Bei ___ rufen Sie die 112.", "answer": "Feuer", "en": "In case of fire, call 112." }],
+      "notes": null, "mnemonic": null, "germany_context": "112 reaches the fire brigade (Feuerwehr) as well as the ambulance. Free from any phone.", "emoji": "🔥", "imageable": true, "tags": ["nature", "emergency"], "synonyms": [], "antonyms": [], "related": ["notfall"] },
+
+    { "id": "die-luft", "word": "die Luft", "lemma": "Luft", "translation": "air", "translations": ["air"], "level": "A2", "category": "Nature & Weather", "partOfSpeech": "noun", "frequency": 820, "gender": "f", "article": "die", "plural": "die Lüfte", "separable": false, "auxiliary": null, "reflexive": false, "cases": [], "forms": {},
+      "example_sentences": [ { "de": "Die Luft ist heute sehr frisch.", "en": "The air is very fresh today." }, { "de": "Mach das Fenster auf, wir brauchen Luft.", "en": "Open the window, we need air." } ],
+      "cloze": [{ "de": "Nach dem Gewitter war die ___ herrlich klar.", "answer": "Luft", "en": "After the thunderstorm the air was wonderfully clear." }],
+      "notes": null, "mnemonic": null, "germany_context": "Germans air rooms daily by opening windows wide for a few minutes — 'Stoßlüften'. It's how you keep Schimmel out of a rented flat, and landlords expect it.", "emoji": "💨", "imageable": false, "tags": ["nature"], "synonyms": [], "antonyms": [], "related": [] },
+
+    { "id": "holen", "word": "holen", "lemma": "holen", "translation": "to fetch", "translations": ["to fetch", "to get"], "level": "A1", "category": "Core Verbs II", "partOfSpeech": "verb", "frequency": 560, "gender": null, "article": null, "plural": null, "separable": false, "auxiliary": "haben", "reflexive": false, "cases": [],
+      "forms": { "ich": "hole", "du": "holst", "er": "holt", "wir": "holen", "ihr": "holt", "sie": "holen", "praeteritum": "holte", "perfekt": "hat geholt", "imperativ": "hol!" },
+      "example_sentences": [ { "de": "Ich hole schnell Brot.", "en": "I'll quickly fetch some bread." }, { "de": "Kannst du die Kinder von der Schule holen?", "en": "Can you pick the children up from school?" } ],
+      "cloze": [{ "de": "___ du bitte die Milch aus dem Kühlschrank?", "answer": "Holst", "en": "Would you get the milk from the fridge?" }],
+      "notes": "Weak verb. 'abholen' (separable) is the one you use for collecting a person or a parcel.", "mnemonic": null, "germany_context": null, "emoji": "🛒", "imageable": false, "tags": ["verb"], "synonyms": [], "antonyms": [], "related": ["abholen-post"] },
+
+    { "id": "singen", "word": "singen", "lemma": "singen", "translation": "to sing", "translations": ["to sing"], "level": "A1", "category": "Free Time, Sport & Media", "partOfSpeech": "verb", "frequency": 880, "gender": null, "article": null, "plural": null, "separable": false, "auxiliary": "haben", "reflexive": false, "cases": [],
+      "forms": { "ich": "singe", "du": "singst", "er": "singt", "wir": "singen", "ihr": "singt", "sie": "singen", "praeteritum": "sang", "perfekt": "hat gesungen", "imperativ": "sing!" },
+      "example_sentences": [ { "de": "Sie singt sehr schön.", "en": "She sings beautifully." }, { "de": "Wir haben zusammen gesungen.", "en": "We sang together." } ],
+      "cloze": [{ "de": "Im Chor ___ wir jeden Mittwoch.", "answer": "singen", "en": "We sing in the choir every Wednesday." }],
+      "notes": "Strong verb: sang / hat gesungen. Same i→a→u pattern as trinken and finden.", "mnemonic": null, "germany_context": null, "emoji": "🎤", "imageable": false, "tags": ["verb", "freetime"], "synonyms": [], "antonyms": [], "related": ["die-musik"] },
+
+    { "id": "tanzen", "word": "tanzen", "lemma": "tanzen", "translation": "to dance", "translations": ["to dance"], "level": "A1", "category": "Free Time, Sport & Media", "partOfSpeech": "verb", "frequency": 900, "gender": null, "article": null, "plural": null, "separable": false, "auxiliary": "haben", "reflexive": false, "cases": [],
+      "forms": { "ich": "tanze", "du": "tanzt", "er": "tanzt", "wir": "tanzen", "ihr": "tanzt", "sie": "tanzen", "praeteritum": "tanzte", "perfekt": "hat getanzt", "imperativ": "tanz!" },
+      "example_sentences": [ { "de": "Wir haben die ganze Nacht getanzt.", "en": "We danced all night." }, { "de": "Tanzt du gern?", "en": "Do you like dancing?" } ],
+      "cloze": [{ "de": "Auf der Hochzeit haben alle ___.", "answer": "getanzt", "en": "Everyone danced at the wedding." }],
+      "notes": "The stem ends in z, so the du form is 'tanzt', not 'tanzst'.", "mnemonic": null, "germany_context": null, "emoji": "💃", "imageable": false, "tags": ["verb", "freetime"], "synonyms": [], "antonyms": [], "related": ["singen"] }
+  ]
+}
