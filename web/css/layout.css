@@ -1,0 +1,324 @@
+/* ============================================================
+   LAYOUT — app shell
+   Desktop: sidebar + content. Phone: content + bottom tab bar.
+   Same markup, no JS — the nav simply relocates.
+   ============================================================ */
+
+#app {
+  display: grid;
+  height: 100dvh;
+  grid-template-columns: var(--sidebar-w) minmax(0, 1fr);
+  grid-template-areas: "nav main";
+  transition: grid-template-columns var(--med);
+}
+#app.collapsed { grid-template-columns: var(--sidebar-w-collapsed) minmax(0, 1fr); }
+
+/* ─── SIDEBAR (desktop) ────────────────────────────────── */
+
+#sidebar {
+  grid-area: nav;
+  background: var(--surface);
+  border-right: 1px solid var(--border);
+  display: flex;
+  flex-direction: column;
+  gap: var(--s1);
+  padding: var(--s4) var(--s3) var(--s4);
+  padding-top: max(var(--s4), var(--safe-t));
+  padding-left: max(var(--s3), var(--safe-l));
+  overflow: hidden;
+  min-width: 0;
+}
+
+.sidebar-top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--s2);
+  padding: 0 var(--s2) var(--s5);
+  min-width: 0;
+}
+.logo {
+  display: flex; align-items: center; gap: var(--s2);
+  font-weight: 660; letter-spacing: -.025em; font-size: 1.02rem;
+  min-width: 0;
+}
+.logo-flag { font-size: 1.15rem; flex-shrink: 0; }
+.logo-text { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+
+.icon-btn {
+  width: 30px; height: 30px;
+  flex-shrink: 0;
+  border-radius: var(--r-sm);
+  color: var(--text3);
+  display: grid; place-items: center;
+  font-size: 1.05rem;
+  transition: background var(--fast), color var(--fast), transform var(--fast);
+}
+@media (hover: hover) {
+  .icon-btn:hover { background: var(--surface2); color: var(--text); }
+}
+.icon-btn:active { transform: scale(.92); }
+
+.sidebar-nav { display: flex; flex-direction: column; gap: 2px; min-width: 0; }
+
+.nav-btn {
+  display: flex;
+  align-items: center;
+  gap: var(--s3);
+  padding: var(--s2) var(--s3);
+  min-height: var(--tap);
+  border-radius: var(--r-sm);
+  color: var(--text2);
+  font-size: .92rem;
+  font-weight: 520;
+  text-align: left;
+  position: relative;
+  min-width: 0;
+  transition: background var(--fast), color var(--fast);
+}
+@media (hover: hover) {
+  .nav-btn:hover { background: var(--surface2); color: var(--text); }
+}
+.nav-btn.active { background: var(--accent-bg); color: var(--accent2); font-weight: 620; }
+/* A quiet rail on the active item, so the state reads even at a glance. */
+.nav-btn.active::before {
+  content: '';
+  position: absolute; left: 0; top: 50%;
+  width: 3px; height: 18px;
+  margin-top: -9px;
+  border-radius: 0 3px 3px 0;
+  background: var(--accent);
+}
+.nav-icon { font-size: 1.02rem; width: 1.2rem; text-align: center; flex-shrink: 0; }
+.nav-label { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+
+.nav-badge {
+  margin-left: auto;
+  background: var(--accent);
+  color: #fff;
+  font-size: .68rem; font-weight: 700;
+  font-variant-numeric: tabular-nums;
+  padding: 1px 7px;
+  border-radius: var(--r-pill);
+  min-width: 22px; text-align: center;
+  flex-shrink: 0;
+}
+.nav-badge:empty { display: none; }
+
+.sidebar-spacer { flex: 1; min-height: var(--s4); }
+
+.sidebar-foot {
+  display: flex; flex-direction: column; gap: var(--s3);
+  padding: 0 var(--s2);
+  padding-bottom: var(--safe-b);
+}
+
+.streak-box {
+  display: flex; align-items: baseline; gap: var(--s2);
+  padding: var(--s2) var(--s3);
+  background: var(--amber-bg);
+  border-radius: var(--r-sm);
+  min-width: 0;
+}
+.streak-num { font-size: 1.2rem; font-weight: 720; color: var(--amber); line-height: 1; font-variant-numeric: tabular-nums; }
+.streak-label { font-size: .72rem; color: var(--text2); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+
+.mastery-mini { display: flex; flex-direction: column; gap: var(--s1); padding: 0 var(--s2); }
+.mastery-mini-track { height: 5px; background: var(--surface3); border-radius: var(--r-pill); overflow: hidden; }
+.mastery-mini-fill {
+  height: 100%; background: var(--green); border-radius: var(--r-pill);
+  transition: width .5s var(--ease);
+}
+.mastery-mini span { font-size: .72rem; color: var(--text3); font-variant-numeric: tabular-nums; }
+
+.save-state {
+  font-size: .7rem; color: var(--text3);
+  padding: 0 var(--s2);
+  display: flex; align-items: center; gap: var(--s1);
+}
+.save-state.offline { color: var(--amber); }
+
+/* ─── COLLAPSED SIDEBAR (desktop, manual) ──────────────── */
+/* Scoped to desktop widths: the .collapsed class survives a window resize, and
+   without the guard its higher specificity would hide the phone tab-bar labels. */
+
+@media (min-width: 861px) {
+  #app.collapsed .logo-text,
+  #app.collapsed .nav-label,
+  #app.collapsed .streak-label,
+  #app.collapsed .mastery-mini span,
+  #app.collapsed .save-state { display: none; }
+  #app.collapsed .sidebar-top { justify-content: center; }
+  #app.collapsed #sidebarToggle { transform: rotate(180deg); }
+  #app.collapsed .nav-btn { justify-content: center; padding-inline: 0; }
+  #app.collapsed .nav-icon { width: auto; }
+  #app.collapsed .streak-box { justify-content: center; padding-inline: 0; }
+  #app.collapsed .nav-badge {
+    position: absolute; top: 5px; right: 8px;
+    margin: 0; padding: 0;
+    min-width: 8px; height: 8px;
+    font-size: 0; border-radius: 50%;
+  }
+}
+
+/* ─── MAIN ─────────────────────────────────────────────── */
+
+#main {
+  grid-area: main;
+  overflow: hidden;
+  position: relative;
+  min-width: 0;
+}
+
+.view {
+  display: none;
+  height: 100%;
+  overflow-y: auto;
+  overflow-x: hidden;
+  overscroll-behavior: contain;
+  scrollbar-gutter: stable;
+}
+.view.active { display: block; }
+
+.view-pad {
+  padding: var(--s7) var(--s7) var(--s10);
+  padding-right: max(var(--s7), var(--safe-r));
+  max-width: 1080px;
+  margin: 0 auto;
+}
+.view-pad.wide { max-width: 1560px; }
+
+.view-head {
+  display: flex; align-items: flex-end; justify-content: space-between;
+  gap: var(--s4); margin-bottom: var(--s6); flex-wrap: wrap;
+}
+.view-head h1 { margin-bottom: 2px; }
+.view-head .sub { color: var(--text3); font-size: .88rem; }
+
+.section-title {
+  font-size: .715rem;
+  text-transform: uppercase;
+  letter-spacing: .08em;
+  color: var(--text3);
+  font-weight: 660;
+  margin: var(--s7) 0 var(--s3);
+}
+.section-title:first-child { margin-top: 0; }
+
+/* ============================================================
+   TABLET — narrower sidebar, labels kept
+   ============================================================ */
+
+@media (max-width: 1080px) and (min-width: 861px) {
+  #app { grid-template-columns: 210px minmax(0, 1fr); }
+  .view-pad { padding: var(--s6) var(--s5) var(--s9); }
+}
+
+/* ============================================================
+   PHONE — the nav becomes a bottom tab bar
+   Thumbs reach the bottom of a phone, not the side.
+   ============================================================ */
+
+@media (max-width: 860px) {
+  #app,
+  #app.collapsed {
+    grid-template-columns: minmax(0, 1fr);
+    grid-template-rows: minmax(0, 1fr) auto;
+    grid-template-areas: "main" "nav";
+  }
+
+  #sidebar {
+    flex-direction: row;
+    align-items: stretch;
+    border-right: none;
+    border-top: 1px solid var(--border);
+    padding: 0;
+    padding-bottom: var(--safe-b);
+    /* Sits above content and never scrolls away. */
+    background: color-mix(in srgb, var(--surface) 88%, transparent);
+    backdrop-filter: saturate(180%) blur(16px);
+    -webkit-backdrop-filter: saturate(180%) blur(16px);
+    z-index: 40;
+  }
+
+  /* The logo, streak and mastery bar are desktop furniture — on a phone the
+     bar is for navigation only. The same numbers live on the Progress tab. */
+  .sidebar-top,
+  .sidebar-spacer,
+  .sidebar-foot { display: none; }
+
+  .sidebar-nav {
+    flex-direction: row;
+    flex: 1;
+    gap: 0;
+    justify-content: space-around;
+    padding: var(--s1) var(--s1) 0;
+  }
+
+  .nav-btn {
+    flex: 1;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 2px;
+    padding: var(--s1) 2px;
+    min-height: var(--bottombar-h);
+    min-width: 0;
+    border-radius: var(--r-sm);
+    font-size: 11px;
+    font-weight: 560;
+    letter-spacing: -.01em;
+  }
+  .nav-btn.active { background: transparent; }
+  .nav-btn.active::before { display: none; }
+  /* The icon gets the highlight instead of the whole row — cleaner in a bar. */
+  .nav-btn.active .nav-icon {
+    background: var(--accent-bg);
+    color: var(--accent2);
+  }
+  .nav-icon {
+    font-size: 1.12rem;
+    width: 46px; height: 27px;
+    display: grid; place-items: center;
+    border-radius: var(--r-pill);
+    transition: background var(--fast);
+  }
+  .nav-label {
+    display: block;
+    max-width: 100%;
+    font-size: 11px;
+  }
+  .nav-badge {
+    position: absolute;
+    top: 2px; right: calc(50% - 26px);
+    margin: 0;
+    min-width: 17px;
+    padding: 0 5px;
+    font-size: .6rem;
+    line-height: 17px;
+    height: 17px;
+  }
+
+  #main { overflow: visible; }
+
+  .view-pad {
+    padding: var(--s5) var(--s4) var(--s8);
+    padding-left: max(var(--s4), var(--safe-l));
+    padding-right: max(var(--s4), var(--safe-r));
+  }
+  .view-head { gap: var(--s3); margin-bottom: var(--s5); }
+  .section-title { margin-top: var(--s6); }
+}
+
+/* Very small phones — SE and similar */
+@media (max-width: 380px) {
+  .nav-icon { width: 40px; }
+  .view-pad { padding-left: var(--s3); padding-right: var(--s3); }
+}
+
+/* Landscape phone — the bottom bar would eat half the screen */
+@media (max-height: 460px) and (max-width: 900px) {
+  #sidebar { --bottombar-h: 48px; }
+  .nav-btn { min-height: 48px; }
+  .nav-label { display: none; }
+}

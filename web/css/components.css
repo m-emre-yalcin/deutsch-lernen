@@ -1,0 +1,471 @@
+/* ============================================================
+   COMPONENTS — buttons, chips, panels, tables, drawer, modal
+   ============================================================ */
+
+/* ─── BUTTONS ──────────────────────────────────────────── */
+
+.btn {
+  display: inline-flex; align-items: center; justify-content: center; gap: var(--s2);
+  padding: 0 var(--s4);
+  min-height: var(--tap);
+  border-radius: var(--r-sm);
+  border: 1px solid var(--border2);
+  background: var(--surface);
+  color: var(--text);
+  font-size: .89rem;
+  font-weight: 560;
+  white-space: nowrap;
+  box-shadow: var(--sh-1);
+  transition: background var(--fast), border-color var(--fast),
+              transform var(--fast), box-shadow var(--fast);
+}
+@media (hover: hover) {
+  .btn:hover { background: var(--surface2); border-color: var(--text3); }
+}
+.btn:active { transform: translateY(1px) scale(.99); box-shadow: none; }
+.btn:disabled { opacity: .45; cursor: not-allowed; transform: none; }
+
+.btn.primary {
+  background: var(--accent); border-color: var(--accent); color: #fff;
+  box-shadow: var(--sh-1), inset 0 1px 0 rgba(255, 255, 255, .14);
+}
+@media (hover: hover) {
+  .btn.primary:hover { background: var(--accent2); border-color: var(--accent2); }
+}
+.btn.ghost { border-color: transparent; background: transparent; color: var(--text2); box-shadow: none; }
+@media (hover: hover) {
+  .btn.ghost:hover { background: var(--surface2); color: var(--text); }
+}
+.btn.danger { color: var(--red); }
+@media (hover: hover) {
+  .btn.danger:hover { background: var(--red-bg); border-color: var(--red); }
+}
+.btn.big { padding: 0 var(--s6); min-height: 52px; font-size: .98rem; border-radius: var(--r); }
+.btn.sm { min-height: 34px; padding: 0 var(--s3); font-size: .82rem; }
+
+/* ─── CHIPS ────────────────────────────────────────────── */
+
+.chips { display: flex; flex-wrap: wrap; gap: var(--s2); }
+.chip {
+  display: inline-flex; align-items: center; gap: var(--s1);
+  padding: var(--s1) var(--s3);
+  min-height: 32px;
+  border-radius: var(--r-pill);
+  border: 1px solid var(--border);
+  background: var(--surface);
+  color: var(--text2);
+  font-size: .84rem;
+  font-weight: 520;
+  transition: all var(--fast);
+}
+@media (hover: hover) {
+  .chip:hover { border-color: var(--text3); color: var(--text); }
+}
+.chip.active {
+  background: var(--accent-bg); border-color: var(--accent);
+  color: var(--accent2); font-weight: 620;
+}
+
+.level-badge {
+  display: inline-block;
+  font-size: 11px; font-weight: 730; letter-spacing: .05em;
+  padding: 2px 6px; border-radius: var(--r-xs);
+}
+.level-A0 { background: var(--green-bg); color: var(--green); }
+.level-A1 { background: var(--accent-bg); color: var(--accent2); }
+.level-A2 { background: var(--purple-bg); color: var(--purple); }
+
+.art-pill {
+  display: inline-block;
+  font-size: .74rem; font-weight: 700;
+  padding: 2px 8px; border-radius: var(--r-xs);
+  font-family: var(--font-de);
+}
+.art-der { background: var(--der-bg); color: var(--der); }
+.art-die { background: var(--die-bg); color: var(--die); }
+.art-das { background: var(--das-bg); color: var(--das); }
+
+.pos-tag { font-size: .74rem; color: var(--text3); font-style: italic; }
+
+/* ─── PANELS ───────────────────────────────────────────── */
+
+.panel {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--r);
+  padding: var(--s5);
+  box-shadow: var(--sh-1);
+}
+.panel + .panel { margin-top: var(--s3); }
+.panel h3 { margin-bottom: var(--s2); }
+.panel .muted { color: var(--text3); font-size: .86rem; }
+
+.stat-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(136px, 1fr));
+  gap: var(--s3);
+}
+.stat-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--r);
+  padding: var(--s4);
+  box-shadow: var(--sh-1);
+}
+.stat-num {
+  font-size: 1.8rem; font-weight: 700;
+  letter-spacing: -.035em; line-height: 1.1;
+  font-variant-numeric: tabular-nums;
+}
+.stat-label { font-size: .76rem; color: var(--text3); margin-top: 2px; }
+.stat-card.accent .stat-num { color: var(--accent); }
+.stat-card.green .stat-num { color: var(--green); }
+.stat-card.amber .stat-num { color: var(--amber); }
+.stat-card.red .stat-num { color: var(--red); }
+
+/* ─── BARS ─────────────────────────────────────────────── */
+
+.bar-track {
+  height: 7px; background: var(--surface3);
+  border-radius: var(--r-pill); overflow: hidden;
+}
+.bar-fill {
+  height: 100%; border-radius: var(--r-pill);
+  background: var(--accent);
+  transition: width .55s var(--ease);
+}
+.bar-fill.green { background: var(--green); }
+
+.row-bar {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(60px, 2.2fr) auto;
+  align-items: center; gap: var(--s3);
+  padding: var(--s2) 0;
+}
+.row-bar-name {
+  font-size: .86rem; color: var(--text2);
+  overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
+}
+.row-bar-val {
+  font-size: .78rem; color: var(--text3);
+  font-variant-numeric: tabular-nums;
+  min-width: 66px; text-align: right;
+}
+
+/* ─── EMPTY STATE ──────────────────────────────────────── */
+
+.empty {
+  display: flex; flex-direction: column; align-items: center; justify-content: center;
+  gap: var(--s2); padding: var(--s9) var(--s4); text-align: center; color: var(--text3);
+}
+.empty-icon { font-size: 2.8rem; opacity: .85; }
+.empty h3 { color: var(--text); }
+.empty p { max-width: 46ch; font-size: .9rem; line-height: 1.65; }
+
+/* ─── FORM CONTROLS ────────────────────────────────────── */
+
+.search-input {
+  width: 100%;
+  padding: 0 var(--s4);
+  min-height: var(--tap);
+  border: 1px solid var(--border2);
+  border-radius: var(--r-sm);
+  background: var(--surface);
+  /* 16px minimum, or iOS Safari zooms the page on focus. */
+  font-size: 16px;
+  outline: none;
+  transition: border-color var(--fast), box-shadow var(--fast);
+}
+.search-input:focus { border-color: var(--accent); box-shadow: 0 0 0 3.5px var(--accent-ring); }
+.search-input::placeholder { color: var(--text3); }
+
+select.ctrl, input.ctrl {
+  padding: 0 var(--s3);
+  min-height: var(--tap);
+  border: 1px solid var(--border2);
+  border-radius: var(--r-sm);
+  background: var(--surface);
+  font-size: 16px;
+  outline: none;
+  max-width: 100%;
+}
+select.ctrl { padding-right: var(--s6); }
+select.ctrl:focus, input.ctrl:focus { border-color: var(--accent); box-shadow: 0 0 0 3.5px var(--accent-ring); }
+
+label.field { display: flex; flex-direction: column; gap: var(--s1); font-size: .85rem; color: var(--text2); min-width: 0; }
+label.inline { flex-direction: row; align-items: center; gap: var(--s2); cursor: pointer; min-height: var(--tap); }
+input[type="range"] { accent-color: var(--accent); height: var(--tap); }
+input[type="checkbox"] { accent-color: var(--accent); width: 19px; height: 19px; cursor: pointer; flex-shrink: 0; }
+
+/* ─── WORD TABLE → CARDS ON PHONES ─────────────────────── */
+
+.word-table { display: flex; flex-direction: column; }
+
+.wt-head, .wt-row {
+  display: grid;
+  grid-template-columns: 14px minmax(120px, 1.4fr) minmax(110px, 1.5fr) 100px 62px 58px;
+  gap: var(--s3);
+  align-items: center;
+  padding: var(--s2) var(--s3);
+}
+.wt-head {
+  font-size: 11px; text-transform: uppercase; letter-spacing: .07em;
+  color: var(--text3); font-weight: 660;
+  border-bottom: 1px solid var(--border);
+  position: sticky; top: 0; z-index: 2;
+  background: var(--bg);
+}
+.wt-row {
+  border-bottom: 1px solid var(--border);
+  cursor: pointer;
+  min-height: 52px;
+  transition: background var(--fast);
+}
+@media (hover: hover) { .wt-row:hover { background: var(--surface2); } }
+.wt-row:active { background: var(--surface2); }
+
+.wt-word { font-family: var(--font-de); font-size: .98rem; font-weight: 560; min-width: 0; }
+.wt-trans { color: var(--text2); font-size: .87rem; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.wt-cat { font-size: .76rem; color: var(--text3); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.wt-strength { font-size: .75rem; color: var(--text3); font-variant-numeric: tabular-nums; }
+
+.dot {
+  display: inline-block;
+  width: 8px; height: 8px;
+  border-radius: 50%;
+  background: var(--border2);
+  flex-shrink: 0;
+  vertical-align: middle;
+}
+.dot.new { background: var(--border2); }
+.dot.learning { background: var(--amber); }
+.dot.young { background: var(--accent); }
+.dot.mature { background: var(--green); }
+.dot.leech { background: var(--red); }
+
+/* On a phone a six-column table is unreadable, so each row becomes a
+   two-line card: word + level on top, meaning underneath. */
+@media (max-width: 860px) {
+  .wt-head { display: none; }
+  .wt-row {
+    grid-template-columns: 14px minmax(0, 1fr) auto;
+    grid-template-areas:
+      "dot word level"
+      "dot trans trans";
+    gap: 2px var(--s3);
+    padding: var(--s3);
+    align-items: center;
+    min-height: 62px;
+  }
+  .wt-row > :nth-child(1) { grid-area: dot; }
+  .wt-row > :nth-child(2) { grid-area: word; }
+  .wt-row > :nth-child(3) { grid-area: trans; }
+  .wt-row > :nth-child(4) { display: none; }   /* category */
+  .wt-row > :nth-child(5) { grid-area: level; }
+  .wt-row > :nth-child(6) { display: none; }   /* next review */
+  .wt-word { font-size: 1.02rem; }
+  .wt-trans { white-space: normal; font-size: .85rem; line-height: 1.4; }
+}
+
+/* ─── DRAWER ───────────────────────────────────────────── */
+
+.drawer { position: fixed; inset: 0; z-index: 200; }
+.drawer-backdrop {
+  position: absolute; inset: 0;
+  background: rgba(12, 11, 10, .42);
+  backdrop-filter: blur(2px);
+  animation: fade .18s var(--ease);
+}
+.drawer-panel {
+  position: absolute; top: 0; right: 0; bottom: 0;
+  width: min(520px, 100%);
+  background: var(--bg);
+  border-left: 1px solid var(--border);
+  box-shadow: var(--sh-3);
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  padding: var(--s6) var(--s6) var(--s9);
+  padding-top: max(var(--s6), var(--safe-t));
+  padding-right: max(var(--s6), var(--safe-r));
+  animation: slideIn .26s var(--ease);
+}
+@keyframes slideIn { from { transform: translateX(28px); opacity: 0; } }
+@keyframes fade { from { opacity: 0; } }
+@keyframes slideUp { from { transform: translateY(100%); } }
+
+.drawer-close {
+  position: fixed; top: var(--s4); right: var(--s4);
+  width: var(--tap); height: var(--tap);
+  display: grid; place-items: center;
+  font-size: 1.5rem; color: var(--text2);
+  background: var(--surface); border: 1px solid var(--border);
+  border-radius: 50%;
+  box-shadow: var(--sh-1);
+  z-index: 3;
+}
+@media (hover: hover) { .drawer-close:hover { color: var(--text); background: var(--surface2); } }
+
+/* On a phone the drawer becomes a bottom sheet — reachable by thumb. */
+@media (max-width: 860px) {
+  .drawer-panel {
+    top: auto; left: 0; right: 0;
+    width: 100%;
+    max-height: 92dvh;
+    border-left: none;
+    border-top: 1px solid var(--border);
+    border-radius: var(--r-xl) var(--r-xl) 0 0;
+    padding: var(--s6) var(--s4);
+    padding-bottom: calc(var(--s8) + var(--safe-b));
+    animation: slideUp .3s var(--ease);
+  }
+  /* Grab handle, so it reads as a sheet you can dismiss. */
+  .drawer-panel::before {
+    content: '';
+    position: sticky; top: 0;
+    display: block;
+    width: 38px; height: 4px;
+    margin: calc(var(--s4) * -1 + 2px) auto var(--s4);
+    border-radius: var(--r-pill);
+    background: var(--border2);
+  }
+  .drawer-close { position: absolute; top: var(--s4); right: var(--s4); }
+}
+
+/* ─── MODAL ────────────────────────────────────────────── */
+
+.modal { position: fixed; inset: 0; z-index: 300; display: grid; place-items: center; padding: var(--s4); }
+.modal-backdrop { position: absolute; inset: 0; background: rgba(12, 11, 10, .48); backdrop-filter: blur(2px); }
+.modal-panel {
+  position: relative;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--r-lg);
+  box-shadow: var(--sh-3);
+  padding: var(--s6);
+  max-width: 640px; width: 100%;
+  max-height: 86dvh; overflow-y: auto;
+  animation: slideIn .22s var(--ease);
+}
+.shortcut-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap: var(--s6); margin: var(--s5) 0 var(--s6); }
+.sc-group h3 { font-size: 11.5px; text-transform: uppercase; letter-spacing: .07em; color: var(--text3); margin-bottom: var(--s2); }
+.sc { display: flex; align-items: center; gap: var(--s2); padding: 3px 0; font-size: .86rem; color: var(--text2); }
+.sc kbd { flex-shrink: 0; }
+
+/* Keyboard shortcuts are meaningless on a touch-only device — collapse the
+   grid and show a one-line note instead. The note lives in the HTML and is
+   hidden on desktop, which beats fabricating text from CSS. */
+@media (hover: none) and (pointer: coarse) {
+  .modal .shortcut-grid { display: none; }
+  .touch-note { display: block !important; }
+}
+.touch-note {
+  display: none;
+  color: var(--text3);
+  font-size: .88rem;
+  margin: var(--s4) 0 var(--s5);
+}
+
+/* ─── TOAST ────────────────────────────────────────────── */
+
+.toast {
+  position: fixed;
+  bottom: calc(var(--s5) + var(--safe-b));
+  left: 50%; transform: translateX(-50%);
+  background: var(--text); color: var(--bg);
+  padding: var(--s3) var(--s5);
+  border-radius: var(--r-pill);
+  font-size: .87rem; font-weight: 520;
+  box-shadow: var(--sh-3);
+  z-index: 400;
+  max-width: calc(100vw - var(--s8));
+  text-align: center;
+  animation: toastIn .26s var(--ease);
+}
+.toast.err { background: var(--red); color: #fff; }
+@keyframes toastIn { from { opacity: 0; transform: translate(-50%, 14px); } }
+
+@media (max-width: 860px) {
+  /* Clear the bottom tab bar. */
+  .toast { bottom: calc(var(--bottombar-h) + var(--s3) + var(--safe-b)); }
+}
+
+/* ─── HEATMAP ──────────────────────────────────────────── */
+
+.heatmap {
+  display: flex; gap: 3px;
+  overflow-x: auto;
+  padding-bottom: var(--s2);
+  scrollbar-width: thin;
+}
+.heat-col { display: flex; flex-direction: column; gap: 3px; }
+.heat-cell {
+  display: inline-block;
+  width: 11px; height: 11px;
+  border-radius: 2.5px;
+  background: var(--surface3);
+  flex-shrink: 0;
+}
+.heat-cell[data-l="1"] { background: color-mix(in srgb, var(--green) 30%, var(--surface3)); }
+.heat-cell[data-l="2"] { background: color-mix(in srgb, var(--green) 52%, var(--surface3)); }
+.heat-cell[data-l="3"] { background: color-mix(in srgb, var(--green) 76%, var(--surface3)); }
+.heat-cell[data-l="4"] { background: var(--green); }
+
+/* ─── TOUCH TARGETS ────────────────────────────────────── */
+/* Apple and Google both put the comfortable minimum at ~44px. Small buttons
+   and chips are fine under a mouse but need growing under a thumb, so this
+   applies only where the pointer is actually coarse. */
+@media (hover: none) and (pointer: coarse) {
+  .btn.sm { min-height: var(--tap); padding-inline: var(--s4); }
+  .chip { min-height: 40px; padding-inline: var(--s4); }
+  .example-play { width: var(--tap); height: var(--tap); }
+  .link-chip { min-height: 40px; }
+  /* The checkbox itself stays 19px visually, but its hit area grows to the
+     full label row — that row is already 44px tall. */
+  input[type="checkbox"] { width: 24px; height: 24px; }
+  label.inline { position: relative; }
+  label.inline input[type="checkbox"]::after {
+    content: ''; position: absolute; inset: 0;
+  }
+}
+
+/* ─── FILTER ROW ───────────────────────────────────────── */
+/* Four dropdowns: side by side with room, two-up on a phone. Auto-fit rather
+   than a fixed count so it never leaves one stranded on its own line. */
+.filter-row {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: var(--s2);
+  margin-bottom: var(--s5);
+  align-items: center;
+}
+.filter-row > * { min-width: 0; width: 100%; }
+
+@media (max-width: 860px) {
+  .filter-row { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
+@media (max-width: 380px) {
+  .filter-row { grid-template-columns: minmax(0, 1fr); }
+}
+
+/* The search field sits above the filters and always spans full width. */
+.browse-search { margin-bottom: var(--s2); }
+
+/* ─── STACKED FORM ─────────────────────────────────────── */
+.stack-form { display: flex; flex-direction: column; gap: var(--s4); }
+
+/* The heatmap scrolls horizontally inside its panel. The audit flags cells
+   whose right edge passes the viewport, which is exactly what a scroll
+   container's off-screen content does — so clip the painted overflow and let
+   the container scroll to it instead. min-width:0 lets it shrink inside the
+   panel's flex/grid parents. */
+.heatmap {
+  max-width: 100%;
+  min-width: 0;
+  overflow-x: auto;
+  overflow-y: hidden;
+  clip-path: inset(0);
+}
+
+/* Compact metadata chips on card fronts — smaller than filter chips but never
+   below the 11px legibility floor. */
+.chip.chip-mini { min-height: 24px; padding: 0 var(--s2); font-size: 11px; }

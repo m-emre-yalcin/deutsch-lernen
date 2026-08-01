@@ -1,0 +1,250 @@
+/* ============================================================
+   BASE — design tokens, reset, typography
+   ============================================================ */
+
+:root {
+  /* ── surfaces ────────────────────────────────────────────
+     Four layers rather than two: page, raised, sunken, and a
+     hairline. Depth comes from these plus a whisper of shadow,
+     never from heavy borders. */
+  --bg: #faf9f7;
+  --surface: #ffffff;
+  --surface2: #f4f2ee;
+  --surface3: #e9e6e0;
+  --border: #e7e4dd;
+  --border2: #d3cfc6;
+
+  --text: #171614;
+  --text2: #55524c;
+  --text3: #8e8a83;
+
+  /* ── accent ──────────────────────────────────────────── */
+  --accent: #2f5ce0;
+  --accent2: #1c3fb0;
+  --accent-bg: #eef1fe;
+  --accent-ring: rgba(47, 92, 224, .16);
+
+  --green: #17784a;
+  --green-bg: #e9f6ef;
+  --amber: #9a5a00;
+  --amber-bg: #fdf4e5;
+  --red: #b32828;
+  --red-bg: #fdeeee;
+  --purple: #6636aa;
+  --purple-bg: #f2ecfa;
+  --teal: #0d7573;
+  --teal-bg: #e7f4f4;
+
+  /* der / die / das keep one colour each, everywhere in the app.
+     This is a deliberate memory hook: gender becomes a colour you
+     recognise rather than a word you read. */
+  --der: #2f5ce0;  --der-bg: #eef1fe;
+  --die: #c0175a;  --die-bg: #fdedf3;
+  --das: #17784a;  --das-bg: #e9f6ef;
+
+  /* ── spacing scale ───────────────────────────────────── */
+  --s1: 4px;   --s2: 8px;   --s3: 12px;  --s4: 16px;
+  --s5: 20px;  --s6: 24px;  --s7: 32px;  --s8: 40px;
+  --s9: 56px;  --s10: 72px;
+
+  /* ── radii ───────────────────────────────────────────── */
+  --r-xs: 6px;  --r-sm: 9px;  --r: 13px;  --r-lg: 18px;  --r-xl: 24px;
+  --r-pill: 999px;
+
+  /* ── elevation ───────────────────────────────────────── */
+  --sh-1: 0 1px 2px rgba(23, 22, 20, .05), 0 1px 3px rgba(23, 22, 20, .04);
+  --sh-2: 0 2px 6px rgba(23, 22, 20, .06), 0 6px 16px rgba(23, 22, 20, .05);
+  --sh-3: 0 8px 24px rgba(23, 22, 20, .10), 0 24px 56px rgba(23, 22, 20, .10);
+
+  /* ── type ────────────────────────────────────────────── */
+  --font: ui-sans-serif, -apple-system, BlinkMacSystemFont, "SF Pro Text",
+          "Inter", "Segoe UI", system-ui, sans-serif;
+  --font-de: "Iowan Old Style", "Palatino Linotype", Palatino, Georgia,
+             "Times New Roman", serif;
+  --mono: ui-monospace, "SF Mono", "JetBrains Mono", Menlo, monospace;
+
+  /* ── layout ──────────────────────────────────────────── */
+  --sidebar-w: 244px;
+  --sidebar-w-collapsed: 68px;
+  --bottombar-h: 62px;
+  --tap: 44px;                 /* minimum comfortable touch target */
+
+  --ease: cubic-bezier(.32, .72, 0, 1);
+  --fast: .14s var(--ease);
+  --med: .24s var(--ease);
+
+  /* Safe areas — iPhone notch and home indicator. Zero elsewhere. */
+  --safe-t: env(safe-area-inset-top, 0px);
+  --safe-b: env(safe-area-inset-bottom, 0px);
+  --safe-l: env(safe-area-inset-left, 0px);
+  --safe-r: env(safe-area-inset-right, 0px);
+}
+
+:root[data-theme="dark"] {
+  --bg: #111110;
+  --surface: #1a1a18;
+  --surface2: #232320;
+  --surface3: #30302c;
+  --border: #2e2e2a;
+  --border2: #45443f;
+
+  --text: #f2f0eb;
+  --text2: #adaaa2;
+  --text3: #7a7770;
+
+  --accent: #7b9bfa;
+  --accent2: #a3bbff;
+  --accent-bg: #1a2340;
+  --accent-ring: rgba(123, 155, 250, .22);
+
+  --green: #4fc584;
+  --green-bg: #13291d;
+  --amber: #e0a441;
+  --amber-bg: #2b2314;
+  --red: #f07575;
+  --red-bg: #2e1a1a;
+  --purple: #ab89e3;
+  --purple-bg: #221b31;
+  --teal: #4cc0bc;
+  --teal-bg: #122726;
+
+  --der: #7b9bfa;  --der-bg: #1a2340;
+  --die: #f2769f;  --die-bg: #33192440;
+  --das: #4fc584;  --das-bg: #13291d;
+
+  --sh-1: 0 1px 2px rgba(0, 0, 0, .5);
+  --sh-2: 0 2px 8px rgba(0, 0, 0, .5), 0 8px 20px rgba(0, 0, 0, .35);
+  --sh-3: 0 10px 30px rgba(0, 0, 0, .6), 0 30px 60px rgba(0, 0, 0, .45);
+}
+
+/* ── reset ─────────────────────────────────────────────── */
+
+*, *::before, *::after { box-sizing: border-box; }
+* { margin: 0; padding: 0; }
+
+/* The `hidden` attribute only sets display:none at user-agent specificity, so
+   ANY class or id rule that sets display beats it. That silently breaks #boot
+   (.boot sets flex), #app (#app sets grid) and #shortcuts (.modal sets grid) —
+   the boot overlay would sit on top of the app forever. Must come first. */
+[hidden] { display: none !important; }
+
+html {
+  /* Never let a stray wide element sideways-scroll the whole page. */
+  overflow-x: hidden;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  font-family: var(--font);
+  background: var(--bg);
+  color: var(--text);
+  font-size: 15px;
+  line-height: 1.55;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-synthesis-weight: none;
+  /* dvh, not vh — iOS Safari's toolbar makes vh taller than the visible area,
+     which pushes the bottom nav off-screen. */
+  min-height: 100dvh;
+  overflow: hidden;
+  overscroll-behavior-y: none;
+}
+
+h1, h2, h3, h4 {
+  line-height: 1.2;
+  font-weight: 640;
+  letter-spacing: -.021em;
+  text-wrap: balance;
+}
+h1 { font-size: clamp(1.4rem, 1.1rem + 1.1vw, 1.75rem); }
+h2 { font-size: 1.28rem; }
+h3 { font-size: 1.02rem; }
+
+p { text-wrap: pretty; }
+
+button, input, select, textarea { font: inherit; color: inherit; }
+button { cursor: pointer; background: none; border: none; -webkit-tap-highlight-color: transparent; }
+a { color: var(--accent); text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+/* Visible focus for keyboard users, invisible for mouse users. */
+:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+  border-radius: var(--r-xs);
+}
+:focus:not(:focus-visible) { outline: none; }
+
+code {
+  font-family: var(--mono);
+  font-size: .88em;
+  background: var(--surface2);
+  padding: .1em .35em;
+  border-radius: var(--r-xs);
+}
+
+kbd {
+  font-family: var(--mono);
+  font-size: .74rem;
+  background: var(--surface);
+  border: 1px solid var(--border2);
+  border-bottom-width: 2px;
+  border-radius: var(--r-xs);
+  padding: 1px 6px;
+  color: var(--text2);
+  white-space: nowrap;
+}
+
+/* German text gets a serif — it visibly separates "the language" from "the UI",
+   so the word itself is what your eye lands on. */
+.de { font-family: var(--font-de); }
+
+::selection { background: var(--accent-ring); color: var(--text); }
+
+/* ── scrollbars ────────────────────────────────────────── */
+@media (hover: hover) {
+  ::-webkit-scrollbar { width: 12px; height: 12px; }
+  ::-webkit-scrollbar-track { background: transparent; }
+  ::-webkit-scrollbar-thumb {
+    background: var(--border2);
+    border-radius: var(--r-pill);
+    border: 3.5px solid transparent;
+    background-clip: content-box;
+  }
+  ::-webkit-scrollbar-thumb:hover { background-clip: content-box; background-color: var(--text3); }
+}
+
+/* ── boot screen ───────────────────────────────────────── */
+
+.boot {
+  position: fixed;
+  inset: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: var(--s2);
+  background: var(--bg);
+  z-index: 999;
+  padding: var(--s6);
+  text-align: center;
+}
+.boot-flag { font-size: 52px; animation: bob 2.2s var(--ease) infinite; }
+.boot-text { font-size: 1.3rem; font-weight: 650; letter-spacing: -.025em; }
+.boot-sub { color: var(--text3); font-size: .88rem; }
+.boot.error .boot-flag { animation: none; }
+.boot.error .boot-sub { color: var(--red); max-width: 44ch; line-height: 1.65; }
+
+@keyframes bob {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-10px); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: .01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: .01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
