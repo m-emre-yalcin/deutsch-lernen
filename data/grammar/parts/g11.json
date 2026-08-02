@@ -1,0 +1,475 @@
+{
+  "lessons": [
+    {
+      "id": "time-expressions",
+      "number": 31,
+      "title": "Saying when: time, manner, place",
+      "level": "A1",
+      "group": "Word order",
+      "summary": "German puts time before place — the exact opposite of English — and chooses between am, im, um and no preposition at all.",
+      "rule": "<p>A German sentence has one hard rule you already know: <strong>the verb sits in second position</strong>. Everything else — when, why, how, where — comes after it, and it comes in a fixed order. That order is this whole lesson. Germans remember it as <strong>TeKaMoLo</strong>:</p><ul><li><strong>Te</strong> = <em>temporal</em> — <strong>when?</strong> <code>morgen</code>, <code>um acht Uhr</code>, <code>jeden Tag</code></li><li><strong>Ka</strong> = <em>kausal</em> — <strong>why?</strong> <code>wegen der Arbeit</code></li><li><strong>Mo</strong> = <em>modal</em> — <strong>how?</strong> <code>mit dem Zug</code>, <code>zu Fuß</code>, <code>allein</code></li><li><strong>Lo</strong> = <em>lokal</em> — <strong>where?</strong> <code>nach Berlin</code>, <code>ins Büro</code></li></ul><p>So: <code>Ich fahre morgen mit dem Zug nach Berlin.</code> — when, how, where. English says exactly the same thing in almost the opposite order: <em>I'm going to Berlin by train tomorrow</em> — where, how, when. That reversal is why the time keeps sliding to the end of your German sentences for months. Burn in the short version: <strong>time first, place last.</strong> You will rarely need all four slots at once — two is normal, three is a long sentence.</p><p>You can also lift the time expression to the very front, and Germans do this constantly: <code>Morgen fahre ich nach Berlin.</code> But the verb still has to be the <strong>second element</strong>, so the subject jumps behind it. <code>Morgen fahre ich</code> — never <em>Morgen ich fahre</em>. The rest of the order (how, then where) stays exactly as it was.</p><p><strong>Which little word goes in front of the time?</strong> Three of them cover nearly everything. <code>um</code> for clock times: <code>um 8 Uhr</code>. <code>am</code> for days, dates and parts of the day: <code>am Montag</code>, <code>am Wochenende</code>, <code>am Abend</code>, <code>am 3. Mai</code>. <code>im</code> for months and seasons: <code>im Januar</code>, <code>im Sommer</code>. One oddity to memorise on its own: it is <code>in der Nacht</code>, not <em>am</em>.</p><p>And sometimes you use <strong>no preposition at all</strong>. Anything built with <em>next</em>, <em>last</em> or <em>every</em> stands completely bare: <code>nächste Woche</code>, <code>letzten Monat</code>, <code>jeden Tag</code>, <code>jeden Morgen</code>. So do <code>heute</code>, <code>morgen</code> and <code>gestern</code>. Turkish marks this with an ending and English adds <em>on</em> or <em>in</em>, so your instinct will be to put something there. Resist it — <em>in nächster Woche</em> is wrong, it is simply <code>nächste Woche</code>.</p>",
+      "tables": [
+        {
+          "title": "TeKaMoLo — the order of everything after the verb",
+          "headers": ["slot", "asks", "German", "English"],
+          "rows": [
+            ["Te — time", "when?", "morgen", "tomorrow"],
+            ["Ka — reason", "why?", "wegen der Arbeit", "because of work"],
+            ["Mo — manner", "how?", "mit dem Zug", "by train"],
+            ["Lo — place", "where?", "nach Berlin", "to Berlin"]
+          ],
+          "highlight": [[0, 2], [3, 2]]
+        },
+        {
+          "title": "One sentence, filled slot by slot",
+          "headers": ["first", "verb (2nd)", "when", "how", "where"],
+          "rows": [
+            ["Ich", "fahre", "morgen", "mit dem Zug", "nach Berlin"],
+            ["Anna", "geht", "jeden Tag", "zu Fuß", "ins Büro"]
+          ],
+          "highlight": [[0, 2], [0, 4]]
+        },
+        {
+          "title": "am / im / um / nothing",
+          "headers": ["use", "for", "example"],
+          "rows": [
+            ["um", "clock times", "um 8 Uhr, um halb neun"],
+            ["am", "days, dates, parts of the day", "am Montag, am Abend, am 3. Mai"],
+            ["im", "months and seasons", "im Januar, im Sommer"],
+            ["nothing", "next / last / every + time word", "nächste Woche, jeden Tag"],
+            ["nothing", "heute, morgen, gestern", "Ich komme morgen."]
+          ],
+          "highlight": [[3, 0], [4, 0]]
+        }
+      ],
+      "examples": [
+        {
+          "de": "Ich fahre morgen mit dem Zug nach Berlin.",
+          "en": "I'm going to Berlin by train tomorrow.",
+          "note": "When (morgen), how (mit dem Zug), where (nach Berlin) — the English sentence lists them backwards."
+        },
+        {
+          "de": "Wir treffen uns um acht Uhr vor dem Kino.",
+          "en": "We're meeting at eight in front of the cinema.",
+          "note": "Time before place. Putting vor dem Kino first would sound wrong to a German ear."
+        },
+        {
+          "de": "Sie fährt jeden Tag mit dem Fahrrad zur Arbeit.",
+          "en": "She rides her bike to work every day.",
+          "note": "jeden Tag takes no preposition, and it still comes before how and where."
+        },
+        {
+          "de": "Morgen fahre ich nach Hamburg.",
+          "en": "Tomorrow I'm going to Hamburg.",
+          "note": "Time moved to the front, so the verb stays second and ich lands behind it."
+        },
+        {
+          "de": "Im Januar bin ich nicht hier.",
+          "en": "In January I'm not here.",
+          "note": "Months take im — and again, fronting the time pushes the subject after the verb."
+        },
+        {
+          "de": "Ich gehe am Montag zum Arzt.",
+          "en": "I'm going to the doctor on Monday.",
+          "note": "Days of the week take am, never um."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "Ich fahre nach Berlin morgen.",
+          "right": "Ich fahre morgen nach Berlin.",
+          "why": "This is the number one word-order error, straight out of English. German is time first, place last — always."
+        },
+        {
+          "wrong": "Ich gehe um Montag ins Kino.",
+          "right": "Ich gehe am Montag ins Kino.",
+          "why": "um is only for the clock. Days of the week and parts of the day take am."
+        },
+        {
+          "wrong": "Ich fahre in nächster Woche nach Hamburg.",
+          "right": "Ich fahre nächste Woche nach Hamburg.",
+          "why": "Time phrases with nächste, letzte or jeden take no preposition at all. Adding one is a real overcorrection learners make."
+        },
+        {
+          "wrong": "Morgen ich fahre nach Berlin.",
+          "right": "Morgen fahre ich nach Berlin.",
+          "why": "Fronting the time does not buy you an extra slot. The verb must still be the second element, so the subject moves behind it."
+        }
+      ],
+      "drills": [
+        {
+          "type": "choice",
+          "question": "Ich gehe ___ Montag ins Kino.",
+          "options": ["am", "im", "um"],
+          "answer": "am",
+          "explain": "Days of the week always take am, even though English says on."
+        },
+        {
+          "type": "choice",
+          "question": "Der Film beginnt ___ 20 Uhr.",
+          "options": ["am", "im", "um"],
+          "answer": "um",
+          "explain": "um is reserved for an exact time on the clock."
+        },
+        {
+          "type": "fill",
+          "question": "___ Januar fahre ich nach Wien. (in January)",
+          "answer": "Im",
+          "accept": ["Im", "im"],
+          "explain": "Months take im, and putting it first is fine because the verb still follows in second place."
+        },
+        {
+          "type": "choice",
+          "question": "Which sentence is correct?",
+          "options": ["Ich fahre nach Berlin morgen.", "Ich fahre morgen nach Berlin.", "Ich morgen fahre nach Berlin."],
+          "answer": "Ich fahre morgen nach Berlin.",
+          "explain": "Time comes before place, and the verb has to stay in second position."
+        },
+        {
+          "type": "fill",
+          "question": "Ich gehe ___ Tag zu Fuß zur Arbeit. (every)",
+          "answer": "jeden",
+          "accept": ["jeden"],
+          "explain": "jeden Tag needs no preposition in front of it — the bare phrase is already complete."
+        },
+        {
+          "type": "order",
+          "words": ["Ich", "fahre", "morgen", "mit", "dem", "Zug", "nach", "Berlin"],
+          "answer": "Ich fahre morgen mit dem Zug nach Berlin",
+          "explain": "When, then how, then where — the reverse of the English sentence."
+        },
+        {
+          "type": "order",
+          "words": ["Morgen", "fahre", "ich", "nach", "Hamburg"],
+          "answer": "Morgen fahre ich nach Hamburg",
+          "explain": "The time expression takes first place, so the subject has to slide behind the verb."
+        },
+        {
+          "type": "order",
+          "words": ["Wir", "treffen", "uns", "um", "acht", "Uhr", "vor", "dem", "Kino"],
+          "answer": "Wir treffen uns um acht Uhr vor dem Kino",
+          "explain": "The clock time comes before the place, and clock times take um."
+        }
+      ],
+      "keyWords": ["am", "im", "um", "nach", "mit", "wann", "heute", "immer"]
+    },
+    {
+      "id": "numbers-time-dates",
+      "number": 32,
+      "title": "Numbers, telling the time, and dates",
+      "level": "A0",
+      "group": "Basics",
+      "summary": "German says numbers backwards above twenty, uses the 24-hour clock officially, and halb drei means 2:30 — not 3:30.",
+      "rule": "<p>Up to twelve you simply memorise: <code>null, eins, zwei, drei, vier, fünf, sechs, sieben, acht, neun, zehn, elf, zwölf</code>. From 13 to 19 you glue the digit onto <code>zehn</code>: <code>dreizehn</code>, <code>vierzehn</code>, <code>fünfzehn</code> — but <code>sechzehn</code> and <code>siebzehn</code> quietly drop a letter, and so do <code>sechzig</code> and <code>siebzig</code>.</p><p><strong>Then German goes backwards.</strong> From 21 upwards the small digit is said <em>first</em>, joined by <code>und</code>, and the whole thing is written as <strong>one word</strong>: <code>einundzwanzig</code> is literally <em>one-and-twenty</em>. <code>47</code> is <code>siebenundvierzig</code> — <em>seven-and-forty</em>. Hundreds go in front as normal: <code>134</code> is <code>hundertvierunddreißig</code>.</p><p>This is not a cute quirk, it is a daily problem. Someone reads you a phone number or an account number and you write <code>72</code> where they said <code>27</code>, because the <em>zwei</em> arrived first. Prices too: <code>3,50 €</code> is said <code>drei Euro fünfzig</code> — and note the <strong>comma</strong>. German uses a comma where English uses a decimal point, and a dot where English uses a thousands comma, so <code>1.500</code> means one thousand five hundred.</p><p><strong>The clock.</strong> Timetables, appointments, opening hours and anything official use the <strong>24-hour clock</strong>: <code>Der Zug fährt um 14:32 Uhr</code>, spoken <em>vierzehn Uhr zweiunddreißig</em>. In casual speech people use 1 to 12 — and here is the trap that catches everyone: <code>halb drei</code> means <strong>2:30</strong>, not 3:30. German <code>halb</code> looks <em>forward</em>: half-way <em>to</em> three. So 7:30 is <code>halb acht</code>. The rule of thumb is add one to the English hour.</p><p>The rest is friendly: <code>Viertel nach drei</code> is 3:15, <code>Viertel vor drei</code> is 2:45, <code>zehn nach vier</code> is 4:10, <code>zwanzig vor fünf</code> is 4:40. (In eastern and southern Germany you will also hear <code>viertel drei</code> for 2:15 — just know it exists.) Dates run <strong>day.month.year</strong>: <code>03.08.2026</code> is 3 August 2026, so an American-style <code>08.03</code> would be read as 8 March. The dot after a number means <em>3rd</em>, and <code>am 3. Mai</code> is spoken <em>am dritten Mai</em>.</p>",
+      "tables": [
+        {
+          "title": "The numbers you cannot avoid",
+          "headers": ["digit", "German", "number", "German"],
+          "rows": [
+            ["0", "null", "11", "elf"],
+            ["1", "eins", "12", "zwölf"],
+            ["2", "zwei", "13", "dreizehn"],
+            ["3", "drei", "16", "sechzehn"],
+            ["4", "vier", "17", "siebzehn"],
+            ["5", "fünf", "20", "zwanzig"],
+            ["6", "sechs", "30", "dreißig"],
+            ["7", "sieben", "40", "vierzig"],
+            ["8", "acht", "60", "sechzig"],
+            ["9", "neun", "70", "siebzig"],
+            ["10", "zehn", "100", "hundert"]
+          ],
+          "highlight": [[3, 3], [4, 3], [6, 3], [8, 3], [9, 3]]
+        },
+        {
+          "title": "Above twenty, German counts backwards",
+          "headers": ["number", "German", "literally"],
+          "rows": [
+            ["21", "einundzwanzig", "one-and-twenty"],
+            ["32", "zweiunddreißig", "two-and-thirty"],
+            ["47", "siebenundvierzig", "seven-and-forty"],
+            ["99", "neunundneunzig", "nine-and-ninety"],
+            ["134", "hundertvierunddreißig", "hundred-four-and-thirty"]
+          ],
+          "highlight": [[0, 1], [0, 2]]
+        },
+        {
+          "title": "Telling the time",
+          "headers": ["clock", "everyday German", "official German"],
+          "rows": [
+            ["14:00", "zwei Uhr", "vierzehn Uhr"],
+            ["14:15", "Viertel nach zwei", "vierzehn Uhr fünfzehn"],
+            ["14:30", "halb drei", "vierzehn Uhr dreißig"],
+            ["14:45", "Viertel vor drei", "vierzehn Uhr fünfundvierzig"],
+            ["14:50", "zehn vor drei", "vierzehn Uhr fünfzig"]
+          ],
+          "highlight": [[2, 1]]
+        }
+      ],
+      "examples": [
+        {
+          "de": "Ich bin einunddreißig Jahre alt.",
+          "en": "I'm thirty-one years old.",
+          "note": "One-and-thirty, written as a single word with no spaces."
+        },
+        {
+          "de": "Der Zug fährt um halb drei.",
+          "en": "The train leaves at 2:30.",
+          "note": "halb drei is half-way to three, so it is 2:30 — not 3:30."
+        },
+        {
+          "de": "Es ist Viertel vor acht.",
+          "en": "It's a quarter to eight.",
+          "note": "7:45. vor means before, so a quarter of an hour is still missing."
+        },
+        {
+          "de": "Das kostet drei Euro fünfzig.",
+          "en": "That costs three fifty.",
+          "note": "Written 3,50 € — the comma is the decimal point in German."
+        },
+        {
+          "de": "Der Bus kommt um 16:20 Uhr.",
+          "en": "The bus comes at 4:20 p.m.",
+          "note": "Spoken sechzehn Uhr zwanzig. Timetables are always 24-hour."
+        },
+        {
+          "de": "Mein Termin ist am 03.08.2026.",
+          "en": "My appointment is on 3 August 2026.",
+          "note": "Day first, then month, then year."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "Es ist halb drei. — I understand: 3:30",
+          "right": "Es ist halb drei. — It is 2:30.",
+          "why": "German halb points forward to the hour it names. For 3:30 you say halb vier."
+        },
+        {
+          "wrong": "Ich bin zwanzig und eins.",
+          "right": "Ich bin einundzwanzig.",
+          "why": "The small digit comes first, joined by und, and the whole number is one written word."
+        },
+        {
+          "wrong": "3. August 2026 = 08.03.2026",
+          "right": "3. August 2026 = 03.08.2026",
+          "why": "German dates are day.month.year. Writing it the American way puts you in the wrong month on real forms."
+        },
+        {
+          "wrong": "Das kostet drei Punkt fünfzig Euro.",
+          "right": "Das kostet drei Euro fünfzig.",
+          "why": "German writes 3,50 € with a comma and says the cents as a plain number after the euros."
+        }
+      ],
+      "drills": [
+        {
+          "type": "choice",
+          "question": "21 heißt auf Deutsch ___",
+          "options": ["zwanzigundeins", "einundzwanzig", "zwanzigeins"],
+          "answer": "einundzwanzig",
+          "explain": "German names the single digit first and joins it to the ten with und."
+        },
+        {
+          "type": "fill",
+          "question": "Schreib die Zahl als Wort: 45 = ___",
+          "answer": "fünfundvierzig",
+          "accept": ["fünfundvierzig", "fuenfundvierzig"],
+          "explain": "Five-and-forty, in that order and as one word with no spaces."
+        },
+        {
+          "type": "choice",
+          "question": "Es ist halb drei. Wie spät ist es?",
+          "options": ["2:30", "3:30", "2:00"],
+          "answer": "2:30",
+          "explain": "halb counts towards the hour that is named, so it is thirty minutes before three."
+        },
+        {
+          "type": "choice",
+          "question": "Es ist Viertel vor sechs. Wie spät ist es?",
+          "options": ["5:45", "6:15", "5:15"],
+          "answer": "5:45",
+          "explain": "vor means before, so a quarter of an hour is still missing until six."
+        },
+        {
+          "type": "fill",
+          "question": "15:15 sagt man: Viertel ___ drei. (nach oder vor)",
+          "answer": "nach",
+          "accept": ["nach"],
+          "explain": "The quarter hour has already passed three o'clock, so it is nach."
+        },
+        {
+          "type": "fill",
+          "question": "Das Datum 03.08.2026 ist der ___. August 2026.",
+          "answer": "3",
+          "accept": ["3", "3.", "dritte", "dritten"],
+          "explain": "German dates put the day before the month, so 03 is the day."
+        },
+        {
+          "type": "order",
+          "words": ["Der", "Zug", "fährt", "um", "halb", "acht"],
+          "answer": "Der Zug fährt um halb acht",
+          "explain": "Clock times take um, and halb acht is 7:30."
+        },
+        {
+          "type": "order",
+          "words": ["Ich", "bin", "einunddreißig", "Jahre", "alt"],
+          "answer": "Ich bin einunddreißig Jahre alt",
+          "explain": "Age uses the plain number, and 31 is one-and-thirty in German."
+        }
+      ],
+      "keyWords": ["um", "wann", "wie", "viel", "kosten", "beginnen", "dauern", "vor"]
+    },
+    {
+      "id": "es-gibt-man",
+      "number": 33,
+      "title": "es gibt and man — two phrases you need constantly",
+      "level": "A1",
+      "group": "Basics",
+      "summary": "es gibt means there is / there are and always takes the accusative; man means people in general and takes the er/sie/es verb form.",
+      "rule": "<p><code>es gibt</code> is how German says <strong>there is</strong> and <strong>there are</strong>. Word for word it means <em>it gives</em>, which is useless as a translation — so learn it as one frozen block and stop taking it apart.</p><p>Two facts about it, and neither ever changes. <strong>First, the form is always <code>es gibt</code></strong>, even when you are talking about a hundred things. <code>Es gibt einen Supermarkt.</code> <code>Es gibt viele Leute.</code> Never <em>es geben</em>, never <em>sie gibt</em> — the subject of the sentence is that little <code>es</code>, not the things that exist.</p><p><strong>Second, what follows it is in the accusative.</strong> The accusative is the form a noun takes when it is the thing a verb acts on — <em>I see <strong>the man</strong></em>, <em>I buy <strong>a coffee</strong></em>. In practice only masculine words visibly change, and they change like this: <code>ein → einen</code>, <code>der → den</code>, <code>kein → keinen</code>. So <code>Es gibt einen Supermarkt</code>, but <code>Es gibt eine Apotheke</code> (feminine) and <code>Es gibt ein Problem</code> (neuter) with no change at all. Questions behave the same: <code>Gibt es hier einen Bahnhof?</code></p><p>The second phrase is <code>man</code>. It means <strong>one / you / people in general</strong> — nobody specific. English has <em>one</em>, but it sounds so formal that people avoid it; German <code>man</code> is completely ordinary and you will meet it every day, above all in rules and on signs: <code>Hier darf man nicht parken.</code> <code>Wie sagt man das auf Deutsch?</code> <code>In Deutschland bezahlt man oft bar.</code></p><p>Two things to keep straight. <code>man</code> always takes the <strong>same verb form as er/sie/es</strong>: <code>man sagt</code>, <code>man kann</code>, <code>man darf</code> — never <em>man sagen</em>. And <code>man</code> (one n, small m) is not <code>der Mann</code> (two n, capital M, an adult male). They sound identical out loud, so only context tells them apart — but in writing the difference is visible and getting it wrong is noticed.</p>",
+      "tables": [
+        {
+          "title": "es gibt is always followed by the accusative",
+          "headers": ["gender", "normal form", "after es gibt"],
+          "rows": [
+            ["masculine", "ein Supermarkt", "Es gibt einen Supermarkt."],
+            ["feminine", "eine Apotheke", "Es gibt eine Apotheke."],
+            ["neuter", "ein Problem", "Es gibt ein Problem."],
+            ["plural", "viele Leute", "Es gibt viele Leute."],
+            ["negative", "kein Kaffee", "Es gibt keinen Kaffee."]
+          ],
+          "highlight": [[0, 2], [4, 2]]
+        },
+        {
+          "title": "man takes the er/sie/es verb form",
+          "headers": ["subject", "sagen", "können", "dürfen"],
+          "rows": [
+            ["ich", "sage", "kann", "darf"],
+            ["er / sie / es", "sagt", "kann", "darf"],
+            ["man", "sagt", "kann", "darf"],
+            ["wir", "sagen", "können", "dürfen"]
+          ],
+          "highlight": [[2, 1], [2, 2], [2, 3]]
+        },
+        {
+          "title": "man is not Mann",
+          "headers": ["word", "meaning", "example"],
+          "rows": [
+            ["man", "one, you, people in general", "Hier darf man nicht rauchen."],
+            ["der Mann", "the man, an adult male", "Der Mann ist mein Nachbar."]
+          ],
+          "highlight": [[0, 0]]
+        }
+      ],
+      "examples": [
+        {
+          "de": "Gibt es hier einen Supermarkt?",
+          "en": "Is there a supermarket here?",
+          "note": "Masculine ein turns into einen because everything after es gibt is accusative."
+        },
+        {
+          "de": "Es gibt viele Leute im Park.",
+          "en": "There are a lot of people in the park.",
+          "note": "English switches to there are; German keeps es gibt unchanged."
+        },
+        {
+          "de": "Es gibt keinen Kaffee mehr.",
+          "en": "There's no more coffee.",
+          "note": "kein follows the same pattern as ein, so masculine Kaffee gives keinen."
+        },
+        {
+          "de": "Wie sagt man das auf Deutsch?",
+          "en": "How do you say that in German?",
+          "note": "Probably the most useful sentence in your first month — and it uses man, not du."
+        },
+        {
+          "de": "Hier darf man nicht parken.",
+          "en": "You're not allowed to park here.",
+          "note": "Exactly what the sign means. man is how rules are written in German."
+        },
+        {
+          "de": "In Deutschland bezahlt man oft bar.",
+          "en": "In Germany people often pay cash.",
+          "note": "The place comes first, so the verb stays second and man follows it."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "Es gibt ein Supermarkt.",
+          "right": "Es gibt einen Supermarkt.",
+          "why": "Everything after es gibt is accusative, and masculine ein becomes einen there. This is the single most common es gibt error."
+        },
+        {
+          "wrong": "Es geben viele Leute.",
+          "right": "Es gibt viele Leute.",
+          "why": "The subject is es, not the people, so the verb never becomes plural. es gibt never changes shape."
+        },
+        {
+          "wrong": "Man dürfen hier nicht parken.",
+          "right": "Man darf hier nicht parken.",
+          "why": "man feels like it means many people, but grammatically it is a single he/she/it. Verb form: darf."
+        },
+        {
+          "wrong": "Wie sagt Mann das auf Deutsch?",
+          "right": "Wie sagt man das auf Deutsch?",
+          "why": "Mann with two n and a capital M is an adult male. The general word is man — one n, lowercase."
+        }
+      ],
+      "drills": [
+        {
+          "type": "choice",
+          "question": "Gibt es hier ___ Supermarkt?",
+          "options": ["ein", "einen", "einem"],
+          "answer": "einen",
+          "explain": "es gibt is always followed by the accusative, where masculine ein becomes einen."
+        },
+        {
+          "type": "choice",
+          "question": "Es ___ viele Restaurants in der Stadt.",
+          "options": ["gibt", "geben", "gibst"],
+          "answer": "gibt",
+          "explain": "es gibt keeps its singular form even when the thing that exists is plural."
+        },
+        {
+          "type": "fill",
+          "question": "Es gibt ___ Apotheke in der Nähe. (a — die Apotheke)",
+          "answer": "eine",
+          "accept": ["eine"],
+          "explain": "Feminine eine looks identical in the accusative, so nothing changes here."
+        },
+        {
+          "type": "choice",
+          "question": "Wie ___ man das auf Deutsch?",
+          "options": ["sage", "sagt", "sagen"],
+          "answer": "sagt",
+          "explain": "man always takes the same verb form as er, sie or es."
+        },
+        {
+          "type": "fill",
+          "question": "Hier darf ___ nicht parken. (people in general)",
+          "answer": "man",
+          "accept": ["man"],
+          "explain": "German uses man wherever English says a general you in a rule."
+        },
+        {
+          "type": "choice",
+          "question": "Which sentence is correct?",
+          "options": ["Es gibt ein Problem.", "Es gibt einen Problem.", "Es geben ein Problem."],
+          "answer": "Es gibt ein Problem.",
+          "explain": "Problem is neuter (das Problem), and neuter ein does not change in the accusative."
+        },
+        {
+          "type": "order",
+          "words": ["Es", "gibt", "keinen", "Kaffee", "mehr"],
+          "answer": "Es gibt keinen Kaffee mehr",
+          "explain": "kein takes the same accusative endings as ein, so masculine Kaffee becomes keinen."
+        },
+        {
+          "type": "order",
+          "words": ["Hier", "darf", "man", "nicht", "rauchen"],
+          "answer": "Hier darf man nicht rauchen",
+          "explain": "hier takes first place, so the verb stays second and man moves behind it."
+        }
+      ],
+      "keyWords": ["es", "geben", "man", "einen", "keine", "viele", "hier", "duerfen"]
+    }
+  ]
+}

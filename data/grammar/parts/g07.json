@@ -1,0 +1,489 @@
+{
+  "lessons": [
+    {
+      "id": "separable-verbs",
+      "number": 19,
+      "title": "Separable verbs — the prefix flies to the end",
+      "level": "A1",
+      "group": "Verbs",
+      "summary": "Half the verb breaks off and waits at the very end of the sentence — so you cannot know what a German verb means until you hear the last word.",
+      "rule": "<p>A <strong>prefix</strong> is a small piece stuck onto the front of a verb that changes what it means. <code>stehen</code> means <em>to stand</em>. Put <code>auf</code> in front and <code>aufstehen</code> means <em>to get up</em>. Same core verb, completely different action. <code>rufen</code> is <em>to shout</em>; <code>anrufen</code> is <em>to phone someone</em>.</p><p>Now the German twist. In a normal statement — a <strong>main clause</strong>, meaning a chunk that could stand alone as a complete sentence — that prefix <strong>does not stay attached</strong>. The verb splits in two. The conjugated half (the half that changed to match the person: <code>ich stehe</code>, <code>du stehst</code>) stays in position 2 where verbs always are, and the prefix flies all the way to the <strong>end of the sentence</strong>:<br><code>aufstehen</code> → <code>Ich stehe um sieben Uhr auf.</code><br><code>anrufen</code> → <code>Ich rufe dich heute Abend an.</code><br><code>einkaufen</code> → <code>Wir kaufen am Samstag ein.</code></p><p>This has a real consequence for listening: you cannot understand a German sentence until you have heard the last word. <code>Ich rufe meine Mutter…</code> is not finished — with <code>an</code> at the end it means I am phoning her, without it, I am shouting for her. Turkish speakers have an advantage here, because you are already used to waiting until the end of a sentence for the verb. Do exactly that in German: the final word is very often the half that carries the meaning.</p><p>Which prefixes split? A reliable rule of thumb: <strong>if the prefix is also a word you already know on its own, it splits.</strong> If it is a meaningless syllable, it never moves. Your ear can decide it too — separable prefixes are <em>stressed</em>: <em>AUF</em>stehen, <em>AN</em>rufen. Inseparable ones are not: be<em>SU</em>chen, ver<em>KAU</em>fen.</p><ul><li><strong>Separable</strong> (these fly to the end): <code>auf-</code> <code>an-</code> <code>aus-</code> <code>ein-</code> <code>mit-</code> <code>ab-</code> <code>zu-</code> <code>vor-</code> <code>nach-</code> <code>zurück-</code> <code>weg-</code></li><li><strong>Inseparable</strong> (these never move): <code>be-</code> <code>ge-</code> <code>er-</code> <code>ver-</code> <code>ent-</code> <code>emp-</code> <code>miss-</code> <code>zer-</code></li></ul><p>Two situations keep the verb in one piece. After a <strong>modal verb</strong> like <code>müssen</code> or <code>können</code>, the second verb goes to the end whole and unchanged: <code>Ich muss um sieben Uhr aufstehen.</code> And the dictionary form is always written joined. In the past tense the two halves grip a <code>ge</code> between them: <code>aufgestanden</code>, <code>angerufen</code>, <code>eingekauft</code>.</p>",
+      "tables": [
+        {
+          "title": "Separable prefixes — the ones that fly",
+          "headers": ["prefix", "verb", "means", "in a sentence"],
+          "rows": [
+            ["auf-", "aufstehen", "to get up", "Ich stehe um sieben auf."],
+            ["an-", "anrufen", "to phone", "Ich rufe dich später an."],
+            ["aus-", "ausmachen", "to switch off", "Mach bitte das Licht aus."],
+            ["ein-", "einkaufen", "to do the shopping", "Wir kaufen heute ein."],
+            ["mit-", "mitkommen", "to come along", "Kommst du mit?"],
+            ["ab-", "abholen", "to pick up", "Ich hole dich ab."],
+            ["zu-", "zumachen", "to close", "Ich mache das Fenster zu."],
+            ["vor-", "vorstellen", "to introduce", "Ich stelle dir Anna vor."],
+            ["nach-", "nachfragen", "to ask, to check", "Ich frage im Büro nach."],
+            ["zurück-", "zurückkommen", "to come back", "Er kommt morgen zurück."],
+            ["weg-", "weggehen", "to leave", "Sie geht um acht weg."]
+          ],
+          "highlight": [[0, 3], [1, 3], [5, 3]]
+        },
+        {
+          "title": "Inseparable prefixes — these never move",
+          "headers": ["prefix", "verb", "means", "in a sentence"],
+          "rows": [
+            ["be-", "besuchen", "to visit", "Ich besuche meine Oma."],
+            ["ge-", "gefallen", "to please, to like", "Das Zimmer gefällt mir."],
+            ["er-", "erzählen", "to tell", "Er erzählt viel."],
+            ["ver-", "verstehen", "to understand", "Ich verstehe das nicht."],
+            ["ent-", "entschuldigen", "to excuse", "Entschuldigen Sie bitte!"],
+            ["emp-", "empfehlen", "to recommend", "Ich empfehle die Suppe."],
+            ["miss-", "missverstehen", "to misunderstand", "Du missverstehst mich."],
+            ["zer-", "zerbrechen", "to break", "Das Glas zerbricht."]
+          ],
+          "highlight": [[0, 1], [3, 1]]
+        },
+        {
+          "title": "One verb, five sentence shapes",
+          "headers": ["Shape", "Sentence", "Where the prefix sits"],
+          "rows": [
+            ["Statement", "Ich stehe um sieben Uhr auf.", "the very last word"],
+            ["Question", "Stehst du immer früh auf?", "the very last word"],
+            ["Command", "Steh bitte auf!", "the very last word"],
+            ["After a modal", "Ich muss früh aufstehen.", "back on the verb, at the end"],
+            ["Past (Perfekt)", "Ich bin früh aufgestanden.", "in front, with ge in the middle"]
+          ],
+          "highlight": [[0, 1], [3, 1]]
+        }
+      ],
+      "examples": [
+        {
+          "de": "Ich stehe um sieben Uhr auf.",
+          "en": "I get up at seven.",
+          "note": "stehe is the conjugated half and sits in position 2; auf has to wait until the end."
+        },
+        {
+          "de": "Ich rufe dich heute Abend an.",
+          "en": "I'll call you this evening.",
+          "note": "Three words stand between the two halves of anrufen. The prefix is still the last thing said."
+        },
+        {
+          "de": "Kommst du heute Abend mit?",
+          "en": "Are you coming along this evening?",
+          "note": "In a yes/no question the verb starts the sentence, but the prefix still closes it."
+        },
+        {
+          "de": "Ich muss morgen früh aufstehen.",
+          "en": "I have to get up early tomorrow.",
+          "note": "After a modal verb the second verb goes to the end in one piece — no splitting at all."
+        },
+        {
+          "de": "Wir kaufen am Samstag im Supermarkt ein.",
+          "en": "We do the shopping at the supermarket on Saturday.",
+          "note": "Without the final ein this would mean we are buying something, not doing the weekly shop."
+        },
+        {
+          "de": "Ich besuche am Wochenende meine Eltern.",
+          "en": "I'm visiting my parents at the weekend.",
+          "note": "be- is not a word on its own, so besuchen never splits. Nothing goes to the end."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "Ich aufstehe um sieben Uhr.",
+          "right": "Ich stehe um sieben Uhr auf.",
+          "why": "You cannot conjugate the whole block. The personal ending goes on stehen, and the prefix is pushed out to the end of the sentence."
+        },
+        {
+          "wrong": "Ich rufe an dich morgen.",
+          "right": "Ich rufe dich morgen an.",
+          "why": "The prefix is not glued to the verb the way English keeps 'call up' together. It has to travel past everything else and be the final word."
+        },
+        {
+          "wrong": "Ich muss früh stehe auf.",
+          "right": "Ich muss früh aufstehen.",
+          "why": "Only one verb in the sentence gets a personal ending, and that is muss. The second verb goes to the end unchanged and unsplit."
+        },
+        {
+          "wrong": "Ich hole dich um acht Uhr.",
+          "right": "Ich hole dich um acht Uhr ab.",
+          "why": "Forgetting the prefix changes the meaning, it does not just sound odd — holen alone means to fetch something, abholen means to pick a person up."
+        }
+      ],
+      "drills": [
+        {
+          "type": "choice",
+          "question": "Ich stehe um sieben Uhr ___.",
+          "options": ["auf", "aufstehen", "aufsteht"],
+          "answer": "auf",
+          "explain": "The conjugated half stehe is already in position 2, so only the bare prefix is left over for the end."
+        },
+        {
+          "type": "choice",
+          "question": "Which sentence is correct?",
+          "options": ["Ich anrufe dich morgen.", "Ich rufe dich morgen an.", "Ich rufe an dich morgen."],
+          "answer": "Ich rufe dich morgen an.",
+          "explain": "The personal ending belongs on rufen, and the prefix has to move past the object and the time word to the last slot."
+        },
+        {
+          "type": "fill",
+          "question": "Der Film fängt um acht Uhr ___. (anfangen)",
+          "answer": "an",
+          "accept": ["an"],
+          "explain": "anfangen splits, and in a statement nothing at all may stand after the prefix."
+        },
+        {
+          "type": "choice",
+          "question": "Which of these verbs does NOT split?",
+          "options": ["anrufen", "besuchen", "einkaufen"],
+          "answer": "besuchen",
+          "explain": "be- is a meaningless syllable rather than a word of its own, and those prefixes stay attached forever."
+        },
+        {
+          "type": "fill",
+          "question": "Wir kaufen am Samstag im Supermarkt ___. (einkaufen)",
+          "answer": "ein",
+          "accept": ["ein"],
+          "explain": "Even with a time and a place in between, the prefix still lands after all of them."
+        },
+        {
+          "type": "choice",
+          "question": "Ich muss morgen früh ___.",
+          "options": ["aufstehen", "stehe auf", "auf stehen"],
+          "answer": "aufstehen",
+          "explain": "A modal verb sends the second verb to the end as one unsplit, unchanged word."
+        },
+        {
+          "type": "order",
+          "words": ["Ich", "hole", "dich", "um", "acht", "Uhr", "ab"],
+          "answer": "Ich hole dich um acht Uhr ab",
+          "explain": "abholen splits: hole takes position 2 and ab is squeezed out to the very last place."
+        },
+        {
+          "type": "order",
+          "words": ["Kommst", "du", "heute", "Abend", "mit"],
+          "answer": "Kommst du heute Abend mit",
+          "explain": "A yes/no question starts with the verb, but that does not rescue the prefix — it still finishes the sentence."
+        }
+      ],
+      "keyWords": ["aufstehen", "anrufen", "einkaufen", "mitkommen", "abholen", "anfangen", "besuchen"]
+    },
+    {
+      "id": "perfekt",
+      "number": 20,
+      "title": "Perfekt — how Germans talk about the past",
+      "level": "A1",
+      "group": "Verbs",
+      "summary": "Two pieces: haben or sein in position 2, and the frozen participle form at the very end of the sentence.",
+      "rule": "<p>When a German tells you what they did yesterday, they use the <strong>Perfekt</strong>. This is the everyday past tense of spoken German — for holidays, for work, for what you had for lunch. Turkish does this with one word and a suffix (<em>gittim</em>). German needs <strong>two pieces</strong>, and they end up at opposite ends of the sentence.</p><p>Piece one is a <strong>helper verb</strong> — a verb that carries no meaning of its own and is only there to hold the grammar. German has exactly two: <code>haben</code> or <code>sein</code>. It is conjugated normally and sits in position 2, where the verb always is. Piece two is the <strong>past participle</strong>: one fixed form of the real verb that never changes for person, and it is parked at the very <strong>end</strong> of the sentence. Everything you want to say gets sandwiched in between:<br><code>Ich <strong>habe</strong> gestern Abend einen Film <strong>gesehen</strong>.</code></p><p>Building the participle. <strong>Regular</strong> verbs take <code>ge</code> + the stem + <code>t</code>: <code>machen → gemacht</code>, <code>kaufen → gekauft</code>, <code>spielen → gespielt</code>. <strong>Irregular</strong> verbs take <code>ge</code> + the stem + <code>en</code>, usually with a vowel change inside: <code>gehen → gegangen</code>, <code>sehen → gesehen</code>, <code>trinken → getrunken</code>. There are around a hundred common irregular ones and they have to be learned one by one, like English <em>go / gone</em>.</p><p>Two groups take <strong>no <code>ge</code> at all</strong>: verbs ending in <code>-ieren</code> (<code>studieren → studiert</code>, <code>telefonieren → telefoniert</code>) and verbs with an inseparable prefix (<code>besuchen → besucht</code>, <code>verkaufen → verkauft</code>). Separable verbs are the opposite — the <code>ge</code> slots into the middle: <code>aufstehen → aufgestanden</code>, <code>einkaufen → eingekauft</code>.</p><p>Now the choice that worries everybody: <strong>haben or sein</strong>. About nine verbs in ten take <code>haben</code>, so make that your default. Use <code>sein</code> when the verb is <strong>movement from A to B</strong> (<code>gehen</code>, <code>fahren</code>, <code>kommen</code>, <code>fliegen</code>, <code>laufen</code>) or a <strong>change of state</strong>, where you are one thing before and something else after (<code>aufstehen</code>, <code>einschlafen</code>, <code>werden</code>, <code>sterben</code>) — plus the two odd ones you simply memorise, <code>sein</code> and <code>bleiben</code>. English gives you no help here at all, since English uses <em>have</em> for everything.</p>",
+      "tables": [
+        {
+          "title": "Building the past participle",
+          "headers": ["Verb type", "Recipe", "Examples"],
+          "rows": [
+            ["Regular", "ge + stem + t", "machen → gemacht, kaufen → gekauft"],
+            ["Irregular", "ge + stem + en", "sehen → gesehen, gehen → gegangen"],
+            ["Ends in -ieren", "stem + t, no ge", "studieren → studiert, telefonieren → telefoniert"],
+            ["Inseparable prefix", "no ge in front", "besuchen → besucht, verstehen → verstanden"],
+            ["Separable verb", "prefix + ge + rest", "aufstehen → aufgestanden, einkaufen → eingekauft"]
+          ],
+          "highlight": [[2, 1], [3, 1], [4, 1]]
+        },
+        {
+          "title": "haben or sein?",
+          "headers": ["Helper", "When", "Verbs"],
+          "rows": [
+            ["sein", "movement from A to B", "gehen, fahren, kommen, fliegen, laufen"],
+            ["sein", "a change of state", "aufstehen, einschlafen, aufwachen, werden, sterben"],
+            ["sein", "three to memorise", "sein, bleiben, passieren"],
+            ["haben", "everything else — about 90%", "machen, essen, sehen, kaufen, arbeiten, schlafen"]
+          ],
+          "highlight": [[0, 0], [1, 0], [3, 0]]
+        },
+        {
+          "title": "The bracket — helper second, participle last",
+          "headers": ["1", "2 (helper)", "the middle", "END (participle)"],
+          "rows": [
+            ["Ich", "habe", "einen Film", "gesehen."],
+            ["Ich", "habe", "gestern Abend einen Film", "gesehen."],
+            ["Wir", "sind", "mit dem Zug nach Köln", "gefahren."],
+            ["Gestern", "bin", "ich um sechs Uhr", "aufgestanden."]
+          ],
+          "highlight": [[1, 1], [1, 3], [3, 1], [3, 3]]
+        }
+      ],
+      "examples": [
+        {
+          "de": "Ich habe gestern einen Film gesehen.",
+          "en": "I watched a film yesterday.",
+          "note": "habe in position 2, gesehen as the final word, everything else in the gap between them."
+        },
+        {
+          "de": "Was hast du am Wochenende gemacht?",
+          "en": "What did you do at the weekend?",
+          "note": "The question you will hear every Monday. machen is regular: ge + mach + t."
+        },
+        {
+          "de": "Wir sind mit dem Zug nach Köln gefahren.",
+          "en": "We went to Cologne by train.",
+          "note": "fahren takes you from one place to another, so the helper is sein, not haben."
+        },
+        {
+          "de": "Ich bin um sechs Uhr aufgestanden.",
+          "en": "I got up at six.",
+          "note": "A separable verb puts ge in the middle, and getting up is a change of state, so sein."
+        },
+        {
+          "de": "Ich habe zwei Jahre in Istanbul studiert.",
+          "en": "I studied in Istanbul for two years.",
+          "note": "Verbs in -ieren never take ge. It is studiert, never gestudiert."
+        },
+        {
+          "de": "Hast du schon gegessen?",
+          "en": "Have you eaten already?",
+          "note": "Eating is not movement, so haben — and essen is irregular, giving gegessen."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "Ich habe nach Berlin gefahren.",
+          "right": "Ich bin nach Berlin gefahren.",
+          "why": "fahren moves you from one place to another, and movement verbs take sein. English 'have' is no guide, because English uses have for everything."
+        },
+        {
+          "wrong": "Ich habe gestern gesehen einen Film.",
+          "right": "Ich habe gestern einen Film gesehen.",
+          "why": "English keeps the verb and its object side by side. German throws the participle to the very end and stacks everything else in front of it."
+        },
+        {
+          "wrong": "Ich habe in München gestudiert.",
+          "right": "Ich habe in München studiert.",
+          "why": "Verbs ending in -ieren drop the ge completely. The same goes for besucht, verkauft and bezahlt."
+        },
+        {
+          "wrong": "Ich habe gestern zu Hause geblieben.",
+          "right": "Ich bin gestern zu Hause geblieben.",
+          "why": "bleiben means staying still, so it looks like a haben verb, but it is one of the fixed exceptions that take sein — just like sein itself."
+        }
+      ],
+      "drills": [
+        {
+          "type": "choice",
+          "question": "Ich ___ gestern einen Film gesehen.",
+          "options": ["habe", "bin", "hat"],
+          "answer": "habe",
+          "explain": "Watching is neither movement nor a change of state, so it falls into the big haben group."
+        },
+        {
+          "type": "choice",
+          "question": "Ich ___ nach Berlin gefahren.",
+          "options": ["habe", "bin", "war"],
+          "answer": "bin",
+          "explain": "fahren carries you from one place to another, and movement always picks sein as its helper."
+        },
+        {
+          "type": "fill",
+          "question": "Was hast du gestern ___? (machen)",
+          "answer": "gemacht",
+          "accept": ["gemacht"],
+          "explain": "machen is regular, so the recipe is ge in front and t at the end."
+        },
+        {
+          "type": "fill",
+          "question": "Ich habe zwei Jahre in Istanbul ___. (studieren)",
+          "answer": "studiert",
+          "accept": ["studiert"],
+          "explain": "Verbs ending in -ieren are the one group that never gets a ge in front."
+        },
+        {
+          "type": "choice",
+          "question": "Wir ___ um sechs Uhr aufgestanden.",
+          "options": ["haben", "sind", "seid"],
+          "answer": "sind",
+          "explain": "Getting up turns you from lying down into standing, and that change of state takes sein."
+        },
+        {
+          "type": "choice",
+          "question": "Which sentence is correct?",
+          "options": ["Ich habe gestern gekauft ein Buch.", "Ich habe gestern ein Buch gekauft.", "Ich habe gekauft gestern ein Buch."],
+          "answer": "Ich habe gestern ein Buch gekauft.",
+          "explain": "The participle has to be the last word, so the time and the object are both pushed in front of it."
+        },
+        {
+          "type": "order",
+          "words": ["Ich", "habe", "gestern", "Abend", "einen", "Film", "gesehen"],
+          "answer": "Ich habe gestern Abend einen Film gesehen",
+          "explain": "Helper in position 2, participle last, and all four words of detail sandwiched between them."
+        },
+        {
+          "type": "order",
+          "words": ["Wir", "sind", "mit", "dem", "Zug", "nach", "Köln", "gefahren"],
+          "answer": "Wir sind mit dem Zug nach Köln gefahren",
+          "explain": "sein is the helper because of the movement, and gefahren still has to close the sentence."
+        }
+      ],
+      "keyWords": ["haben", "sein", "machen", "gehen", "fahren", "sehen", "essen", "studieren"]
+    },
+    {
+      "id": "praeteritum",
+      "number": 21,
+      "title": "Präteritum — the written past",
+      "level": "A2",
+      "group": "Verbs",
+      "summary": "A one-word past you mostly need to recognise in writing — except for war, hatte and the modals, which you will say every single day.",
+      "rule": "<p>German has a second past tense: the <strong>Präteritum</strong>. It is one word instead of two — <code>ich ging</code> where the Perfekt says <code>ich bin gegangen</code>. Both mean exactly the same thing, <em>I went</em>. The difference is not meaning. It is <strong>where you are allowed to use them</strong>.</p><p>Präteritum lives in <strong>writing</strong>: novels, newspapers, reports, the news on television, fairy tales. Perfekt lives in <strong>speech</strong>. If you say <code>Ich ging gestern ins Kino</code> to a colleague at lunch, you sound like a man reading aloud from a book. Say <code>Ich bin gestern ins Kino gegangen.</code> So for most verbs, this lesson is a <em>recognise it</em> lesson — you need to understand <code>er sah</code>, <code>sie kam</code>, <code>er sagte</code> on a page, and never produce them yourself.</p><p>But there is a small group that goes the other way. These use the Präteritum <strong>even in conversation</strong>, and using the Perfekt for them sounds clumsy and foreign. This group you must produce, actively, from day one:</p><ul><li><code>sein</code> → <strong>war</strong>: <code>Ich war gestern nicht im Büro.</code></li><li><code>haben</code> → <strong>hatte</strong>: <code>Ich hatte keine Zeit.</code></li><li>the modals: <code>können → konnte</code>, <code>müssen → musste</code>, <code>wollen → wollte</code>, <code>dürfen → durfte</code>, <code>sollen → sollte</code></li><li><code>es gibt</code> → <strong>es gab</strong>: <code>Es gab ein Problem.</code></li></ul><p>How the forms are built, for reading. <strong>Regular</strong> verbs push <code>-te-</code> in before the ending: <code>machen → ich machte, du machtest, er machte</code>. <strong>Irregular</strong> verbs change the vowel and add nothing: <code>gehen → ging</code>, <code>kommen → kam</code>, <code>sehen → sah</code>, <code>fahren → fuhr</code>. The one thing that always gives it away: in the Präteritum, <strong>ich and er/sie/es are identical</strong> — <code>ich war</code> / <code>er war</code>, <code>ich ging</code> / <code>er ging</code>. There is no <code>-t</code> on the third person the way there is in the present.</p><p>One trap worth marking now. <code>konnte</code> and <code>könnte</code> are two different words, and so are <code>musste</code> and <code>müsste</code>. The plain vowel is the past: <em>I could / I had to</em>. The two dots make it a polite or hypothetical form: <em>I would be able to / I would have to</em>. In the past there is never an umlaut.</p>",
+      "tables": [
+        {
+          "title": "sein and haben — learn these cold",
+          "headers": ["", "sein → war", "haben → hatte"],
+          "rows": [
+            ["ich", "war", "hatte"],
+            ["du", "warst", "hattest"],
+            ["er / sie / es", "war", "hatte"],
+            ["wir", "waren", "hatten"],
+            ["ihr", "wart", "hattet"],
+            ["sie / Sie", "waren", "hatten"]
+          ],
+          "highlight": [[0, 1], [2, 1], [0, 2], [2, 2]]
+        },
+        {
+          "title": "The modals in the past — no umlaut",
+          "headers": ["Verb", "means", "ich / er form", "Example"],
+          "rows": [
+            ["können", "can, be able to", "konnte", "Ich konnte nicht kommen."],
+            ["müssen", "must, have to", "musste", "Ich musste arbeiten."],
+            ["wollen", "want to", "wollte", "Er wollte nach Hause."],
+            ["dürfen", "be allowed to", "durfte", "Wir durften hier nicht parken."],
+            ["sollen", "should", "sollte", "Ich sollte mehr lernen."],
+            ["mögen", "like", "mochte", "Sie mochte den Film."]
+          ],
+          "highlight": [[0, 2], [1, 2]]
+        },
+        {
+          "title": "Which past do Germans actually say?",
+          "headers": ["Verb", "In conversation", "In a book or the news"],
+          "rows": [
+            ["sein", "Ich war müde.", "Ich war müde."],
+            ["haben", "Ich hatte Zeit.", "Ich hatte Zeit."],
+            ["können", "Ich konnte nicht.", "Ich konnte nicht."],
+            ["es gibt", "Es gab ein Problem.", "Es gab ein Problem."],
+            ["gehen", "Ich bin gegangen.", "Ich ging."],
+            ["machen", "Ich habe gemacht.", "Ich machte."],
+            ["sehen", "Ich habe gesehen.", "Ich sah."]
+          ],
+          "highlight": [[4, 1], [4, 2], [5, 1], [5, 2]]
+        }
+      ],
+      "examples": [
+        {
+          "de": "Ich war gestern nicht im Büro.",
+          "en": "I wasn't at the office yesterday.",
+          "note": "The normal spoken past of sein. Ich bin gewesen exists, but almost nobody says it."
+        },
+        {
+          "de": "Hattest du gestern Zeit?",
+          "en": "Did you have time yesterday?",
+          "note": "haben also stays in the Präteritum in speech — hatte with the du ending -st."
+        },
+        {
+          "de": "Ich konnte gestern leider nicht kommen.",
+          "en": "Unfortunately I couldn't come yesterday.",
+          "note": "Modals in the past are always Präteritum in conversation. Note the plain o, not ö."
+        },
+        {
+          "de": "Es gab kein Brot mehr.",
+          "en": "There was no bread left.",
+          "note": "es gibt becomes es gab. You will need this in every shop and every office story."
+        },
+        {
+          "de": "Wir mussten eine Stunde warten.",
+          "en": "We had to wait for an hour.",
+          "note": "mussten, no umlaut. müssten would mean we would have to."
+        },
+        {
+          "de": "Er ging langsam nach Hause. Niemand sah ihn.",
+          "en": "He walked slowly home. Nobody saw him.",
+          "note": "Two Präteritum forms in a row — this is narration. Out loud you would say: Er ist nach Hause gegangen."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "Ich bin gestern sehr müde gewesen.",
+          "right": "Ich war gestern sehr müde.",
+          "why": "The Perfekt of sein is not broken grammar, it is just wrong for conversation. sein is one of the few verbs that stays in the Präteritum when you speak."
+        },
+        {
+          "wrong": "Ich ging gestern ins Kino.",
+          "right": "Ich bin gestern ins Kino gegangen.",
+          "why": "gehen is an ordinary verb, so its Präteritum belongs in books and news reports. In speech every ordinary verb uses the Perfekt."
+        },
+        {
+          "wrong": "Ich habe das nicht gekonnt.",
+          "right": "Ich konnte das nicht.",
+          "why": "Modals go the opposite way to normal verbs: the one-word past is what people say, and the Perfekt form sounds heavy and unnatural."
+        },
+        {
+          "wrong": "Ich könnte gestern nicht kommen.",
+          "right": "Ich konnte gestern nicht kommen.",
+          "why": "The two dots change the word. konnte is the past, könnte means 'I would be able to' and points at the future, so with gestern it contradicts itself."
+        }
+      ],
+      "drills": [
+        {
+          "type": "choice",
+          "question": "Gestern ___ ich sehr müde.",
+          "options": ["war", "bin", "habe"],
+          "answer": "war",
+          "explain": "sein is one of the handful of verbs whose one-word past is the normal spoken form."
+        },
+        {
+          "type": "fill",
+          "question": "___ du gestern Zeit? (haben, Präteritum)",
+          "answer": "Hattest",
+          "accept": ["Hattest", "hattest"],
+          "explain": "haben also stays in the Präteritum in speech, and du adds -st to the hatte stem."
+        },
+        {
+          "type": "choice",
+          "question": "Ich ___ gestern leider nicht kommen.",
+          "options": ["konnte", "könnte", "gekonnt"],
+          "answer": "konnte",
+          "explain": "gestern fixes this in the past, and the past form of können has no umlaut."
+        },
+        {
+          "type": "choice",
+          "question": "Which sentence would you actually say to a colleague?",
+          "options": ["Ich ging gestern ins Kino.", "Ich bin gestern ins Kino gegangen.", "Ich war gestern ins Kino gegangen."],
+          "answer": "Ich bin gestern ins Kino gegangen.",
+          "explain": "gehen is an ordinary verb, so spoken German reaches for the two-piece Perfekt, not the written one-word past."
+        },
+        {
+          "type": "fill",
+          "question": "Wir ___ eine Stunde warten. (müssen, Präteritum)",
+          "answer": "mussten",
+          "accept": ["mussten"],
+          "explain": "Modals use the one-word past in speech, and wir takes the plural ending -en on the musste stem."
+        },
+        {
+          "type": "choice",
+          "question": "Gestern ___ ein Problem mit dem Zug.",
+          "options": ["gab es", "es gab", "es gibt"],
+          "answer": "gab es",
+          "explain": "es gibt becomes es gab in the past, and because Gestern already fills position 1 the verb has to come before es."
+        },
+        {
+          "type": "order",
+          "words": ["Ich", "hatte", "gestern", "keine", "Zeit"],
+          "answer": "Ich hatte gestern keine Zeit",
+          "explain": "One word does the whole past here, so the verb sits alone in position 2 with nothing waiting at the end."
+        },
+        {
+          "type": "order",
+          "words": ["Wir", "waren", "letztes", "Jahr", "in", "Berlin"],
+          "answer": "Wir waren letztes Jahr in Berlin",
+          "explain": "The wir form of war adds -en, and no participle is needed because sein does not use the Perfekt in speech."
+        }
+      ],
+      "keyWords": ["sein", "haben", "koennen", "muessen", "wollen", "duerfen", "geben", "gestern"]
+    }
+  ]
+}

@@ -1,0 +1,473 @@
+{
+  "lessons": [
+    {
+      "id": "dativ",
+      "number": 13,
+      "title": "Dativ — the indirect object",
+      "level": "A1",
+      "group": "Cases",
+      "summary": "The person on the receiving end — and the everyday verbs that force it when English gives you no warning at all.",
+      "rule": "<p>A lot of German sentences have <strong>two</strong> things after the verb. Take <em>I give my friend the book</em>. There are two nouns there: <strong>the book</strong> (the thing that moves) and <strong>my friend</strong> (the person who ends up holding it).</p><p>The thing the action lands on directly — the book — is the <strong>direct object</strong>, and German marks it with the <strong>Akkusativ</strong>. The person who <em>receives</em> — my friend — is the <strong>indirect object</strong>, and German marks it with the <strong>Dativ</strong>. The English test: could you put <em>to</em> or <em>for</em> in front of it? <em>I give the book <strong>to</strong> my friend.</em> Yes → Dativ.</p><p>The German test question is <code>Wem?</code>, meaning <em>to whom?</em> Ask <em>Ich gebe wem das Buch?</em> The answer is <em>dem Freund</em> — and that answer is your Dativ.</p><p>The articles change like this: <code>der → dem</code>, <code>die → der</code>, <code>das → dem</code>, and plural <code>die → den</code>. In the plural the <strong>noun itself also gets an extra -n</strong>: <code>die Kinder → den Kindern</code>, <code>die Freunde → den Freunden</code>. If the plural already ends in -n or -s, leave it alone: <code>den Frauen</code>, <code>den Autos</code>.</p><p>The endings are the easy part. The hard part is that <strong>some very common German verbs demand the Dativ where English gives you no clue whatsoever</strong>. It is <em>Ich helfe dir</em>, never <em>Ich helfe dich</em>. Learn these seven as one block: <code>helfen</code>, <code>danken</code>, <code>gefallen</code>, <code>gehören</code>, <code>passen</code>, <code>schmecken</code>, <code>antworten</code>.</p>",
+      "tables": [
+        {
+          "title": "The definite article — Dativ added",
+          "headers": ["", "masculine", "feminine", "neuter", "plural"],
+          "rows": [
+            ["Nominativ", "der", "die", "das", "die"],
+            ["Akkusativ", "den", "die", "das", "die"],
+            ["Dativ", "dem", "der", "dem", "den (+n on noun)"]
+          ],
+          "highlight": [[2, 1], [2, 2], [2, 3], [2, 4]]
+        },
+        {
+          "title": "Dativ forms of ein, kein, mein",
+          "headers": ["Dativ", "masculine", "feminine", "neuter", "plural"],
+          "rows": [
+            ["ein", "einem", "einer", "einem", "—"],
+            ["kein", "keinem", "keiner", "keinem", "keinen"],
+            ["mein", "meinem", "meiner", "meinem", "meinen"]
+          ],
+          "highlight": [[0, 2], [1, 2], [2, 2]]
+        },
+        {
+          "title": "Personal pronouns in all three cases",
+          "headers": ["Nominativ", "Akkusativ", "Dativ", "meaning"],
+          "rows": [
+            ["ich", "mich", "mir", "I / me"],
+            ["du", "dich", "dir", "you (informal)"],
+            ["er", "ihn", "ihm", "he / him"],
+            ["sie", "sie", "ihr", "she / her"],
+            ["es", "es", "ihm", "it"],
+            ["wir", "uns", "uns", "we / us"],
+            ["ihr", "euch", "euch", "you (plural)"],
+            ["sie / Sie", "sie / Sie", "ihnen / Ihnen", "they / you (formal)"]
+          ],
+          "highlight": [[0, 2], [1, 2]]
+        }
+      ],
+      "examples": [
+        {
+          "de": "Kannst du mir bitte helfen?",
+          "en": "Can you help me, please?",
+          "note": "mir, not mich. Probably the single most useful Dativ sentence you will say in Germany."
+        },
+        {
+          "de": "Ich helfe meinem Bruder.",
+          "en": "I help my brother.",
+          "note": "helfen always takes the Dativ, so mein Bruder becomes meinem Bruder — even though English 'my brother' looks like a plain object."
+        },
+        {
+          "de": "Das Auto gehört meiner Schwester.",
+          "en": "The car belongs to my sister.",
+          "note": "gehören = Dativ. Feminine die → der, so meine → meiner."
+        },
+        {
+          "de": "Die Wohnung gefällt mir sehr.",
+          "en": "I like the flat a lot.",
+          "note": "Literally 'the flat pleases me'. The flat is the subject; the person doing the liking sits in the Dativ."
+        },
+        {
+          "de": "Ich kaufe den Kindern ein Eis.",
+          "en": "I'm buying the children an ice cream.",
+          "note": "Plural Dativ: die Kinder → den Kindern. The article changes and the noun picks up an -n."
+        },
+        {
+          "de": "Der Kaffee schmeckt uns gut.",
+          "en": "We like the coffee.",
+          "note": "schmecken = Dativ. uns is luckily the same in Akkusativ and Dativ, so nothing to get wrong here."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "Ich helfe dich.",
+          "right": "Ich helfe dir.",
+          "why": "helfen is a Dativ verb. English 'help me' feels like a direct object, but German treats it as giving help TO someone."
+        },
+        {
+          "wrong": "Ich danke dich für alles.",
+          "right": "Ich danke dir für alles.",
+          "why": "danken is also a Dativ verb — thanks go TO a person. Note that für afterwards is still Akkusativ, so the two cases sit side by side."
+        },
+        {
+          "wrong": "Ich helfe die Frau.",
+          "right": "Ich helfe der Frau.",
+          "why": "Feminine Dativ is der — the exact same word as the masculine Nominativ. It looks wrong, but der Frau here means 'to the woman'."
+        },
+        {
+          "wrong": "Ich spiele mit den Kinder.",
+          "right": "Ich spiele mit den Kindern.",
+          "why": "In the Dativ plural the noun itself takes an extra -n, not just the article."
+        }
+      ],
+      "drills": [
+        {
+          "type": "choice",
+          "question": "Ich helfe ___ Mann.",
+          "options": ["der", "den", "dem"],
+          "answer": "dem",
+          "explain": "helfen forces the Dativ no matter what the sentence looks like, and masculine Dativ is dem."
+        },
+        {
+          "type": "choice",
+          "question": "Das Handy gehört ___ Frau.",
+          "options": ["die", "der", "den"],
+          "answer": "der",
+          "explain": "gehören takes the Dativ, and feminine Dativ is der — the form that looks like a masculine article."
+        },
+        {
+          "type": "fill",
+          "question": "Kannst du ___ helfen? (ich)",
+          "answer": "mir",
+          "accept": ["mir"],
+          "explain": "The Dativ form of ich is mir, and helfen never accepts mich."
+        },
+        {
+          "type": "choice",
+          "question": "Die Suppe schmeckt ___ gut.",
+          "options": ["mich", "mir", "ich"],
+          "answer": "mir",
+          "explain": "With schmecken the food is the subject and the person tasting it is the receiver, so Dativ."
+        },
+        {
+          "type": "fill",
+          "question": "Ich spiele mit den ___. (die Kinder)",
+          "answer": "Kindern",
+          "accept": ["Kindern"],
+          "explain": "mit is a Dativ preposition, and Dativ plural nouns add -n."
+        },
+        {
+          "type": "choice",
+          "question": "___ gehört das Fahrrad?",
+          "options": ["Wer", "Wen", "Wem"],
+          "answer": "Wem",
+          "explain": "You are asking to whom the bike belongs, and the question word for the Dativ is wem."
+        },
+        {
+          "type": "order",
+          "words": ["Ich", "gebe", "dem", "Kind", "einen", "Apfel"],
+          "answer": "Ich gebe dem Kind einen Apfel",
+          "explain": "When both objects are nouns, the receiver in the Dativ comes before the thing in the Akkusativ."
+        },
+        {
+          "type": "order",
+          "words": ["Das", "Auto", "gefällt", "meinem", "Vater"],
+          "answer": "Das Auto gefällt meinem Vater",
+          "explain": "With gefallen the liked thing is the subject, so the person doing the liking is pushed into the Dativ: mein → meinem."
+        }
+      ],
+      "keyWords": ["dem", "der", "den", "mir", "dir", "ihm", "ihr-dativ", "uns", "euch", "ihnen", "helfen", "danken", "gefallen", "gehoeren", "antworten", "wem", "einem", "geben", "mit"]
+    },
+    {
+      "id": "genitiv",
+      "number": 14,
+      "title": "Genitiv — possession",
+      "level": "A2",
+      "group": "Cases",
+      "summary": "The case that says whose — the one you need to read on signs and contracts, but can almost always avoid speaking.",
+      "rule": "<p>The <strong>Genitiv</strong> is the case that answers <em>whose?</em> English does this two ways: <em>the man<strong>'s</strong> car</em> or <em>the roof <strong>of</strong> the house</em>. Turkish does it with <em>-in / -ın</em>. German does it by changing the article — and it puts the owner <strong>after</strong> the thing owned.</p><p>So <em>the man's car</em> is <code>das Auto des Mannes</code> — literally <em>the car of-the man</em>. Owner second. Always.</p><p>The articles: masculine <code>der → des</code>, feminine <code>die → der</code>, neuter <code>das → des</code>, plural <code>die → der</code>. On top of that, <strong>masculine and neuter nouns take an extra -s or -es</strong>: <code>des Autos</code>, <code>des Kindes</code>, <code>des Mannes</code>. Short one-syllable words usually take <code>-es</code>, longer ones just <code>-s</code>. Feminine and plural nouns never change at all.</p><p><strong>Now the good news.</strong> Spoken German is quietly dropping the Genitiv. Almost nobody in a café says <em>das Auto meines Bruders</em> — they say <code>das Auto von meinem Bruder</code>, using <strong>von + Dativ</strong>. So learn to <em>recognise</em> the Genitiv in rental contracts, signs and newspapers, but feel free to go months without ever producing one.</p><p>The place you cannot dodge it is after three very common little words: <code>wegen</code> (because of), <code>während</code> (during) and <code>trotz</code> (despite). Correct German wants the Genitiv after them — <em>wegen des Wetters</em>. In real speech you will constantly hear the Dativ instead — <em>wegen dem Wetter</em> — and nobody blinks.</p>",
+      "tables": [
+        {
+          "title": "The definite article — all four cases",
+          "headers": ["", "masculine", "feminine", "neuter", "plural"],
+          "rows": [
+            ["Nominativ", "der", "die", "das", "die"],
+            ["Akkusativ", "den", "die", "das", "die"],
+            ["Dativ", "dem", "der", "dem", "den"],
+            ["Genitiv", "des", "der", "des", "der"]
+          ],
+          "highlight": [[3, 1], [3, 2], [3, 3], [3, 4]]
+        },
+        {
+          "title": "The extra -s on the noun",
+          "headers": ["Gender", "Nominativ", "Genitiv"],
+          "rows": [
+            ["masculine", "der Mann", "des Mannes"],
+            ["masculine", "der Lehrer", "des Lehrers"],
+            ["neuter", "das Kind", "des Kindes"],
+            ["neuter", "das Auto", "des Autos"],
+            ["feminine", "die Frau", "der Frau"],
+            ["plural", "die Kinder", "der Kinder"]
+          ],
+          "highlight": [[4, 2], [5, 2]]
+        },
+        {
+          "title": "Written Genitiv → spoken von + Dativ",
+          "headers": ["Written / formal", "Spoken everyday", "English"],
+          "rows": [
+            ["das Auto meines Bruders", "das Auto von meinem Bruder", "my brother's car"],
+            ["die Tasche der Frau", "die Tasche von der Frau", "the woman's bag"],
+            ["das Zimmer des Kindes", "das Zimmer vom Kind", "the child's room"],
+            ["wegen des Regens", "wegen dem Regen", "because of the rain"]
+          ],
+          "highlight": [[0, 1], [3, 1]]
+        }
+      ],
+      "examples": [
+        {
+          "de": "Das ist das Auto meines Bruders.",
+          "en": "That's my brother's car.",
+          "note": "The owner comes second. Masculine, so mein → meines and Bruder picks up an -s."
+        },
+        {
+          "de": "Das ist das Auto von meinem Bruder.",
+          "en": "That's my brother's car.",
+          "note": "Same meaning, and this is what you will actually hear. von + Dativ, so mein → meinem."
+        },
+        {
+          "de": "Die Farbe der Tür gefällt mir nicht.",
+          "en": "I don't like the colour of the door.",
+          "note": "Tür is feminine, so die → der. The noun itself stays completely unchanged."
+        },
+        {
+          "de": "Wegen des Wetters bleiben wir zu Hause.",
+          "en": "Because of the weather we're staying home.",
+          "note": "wegen wants the Genitiv: das Wetter → des Wetters."
+        },
+        {
+          "de": "Während der Woche arbeite ich viel.",
+          "en": "During the week I work a lot.",
+          "note": "während + Genitiv. die Woche is feminine, so die → der and Woche is untouched."
+        },
+        {
+          "de": "Trotz des Regens gehen wir spazieren.",
+          "en": "Despite the rain we're going for a walk.",
+          "note": "trotz + Genitiv. der Regen is masculine → des Regens."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "Das ist meines Bruders Auto.",
+          "right": "Das ist das Auto meines Bruders.",
+          "why": "German does not copy the English owner-in-front order for normal nouns. Only bare first names go in front: Emres Auto."
+        },
+        {
+          "wrong": "Das ist das Auto von mein Bruder.",
+          "right": "Das ist das Auto von meinem Bruder.",
+          "why": "von always takes the Dativ, so mein becomes meinem. Escaping the Genitiv does not mean escaping cases."
+        },
+        {
+          "wrong": "die Farbe des Tür",
+          "right": "die Farbe der Tür",
+          "why": "Tür is feminine (die Tür), and feminine Genitiv is der. des only ever belongs to masculine and neuter."
+        },
+        {
+          "wrong": "Emre's Auto",
+          "right": "Emres Auto",
+          "why": "German has no apostrophe before the possessive -s. Write it straight onto the name."
+        }
+      ],
+      "drills": [
+        {
+          "type": "choice",
+          "question": "Das ist das Auto ___ Mannes.",
+          "options": ["der", "dem", "des"],
+          "answer": "des",
+          "explain": "Masculine Genitiv is des, and the -es already sitting on Mannes confirms it."
+        },
+        {
+          "type": "choice",
+          "question": "Die Farbe ___ Tür ist schön.",
+          "options": ["des", "der", "dem"],
+          "answer": "der",
+          "explain": "Tür is feminine, and feminine Genitiv is der — des only works for masculine and neuter."
+        },
+        {
+          "type": "fill",
+          "question": "Wegen ___ Wetters bleiben wir zu Hause. (das Wetter)",
+          "answer": "des",
+          "accept": ["des"],
+          "explain": "wegen forces the Genitiv, and neuter das becomes des."
+        },
+        {
+          "type": "fill",
+          "question": "Das ist das Zimmer des ___. (das Kind)",
+          "answer": "Kindes",
+          "accept": ["Kindes", "Kinds"],
+          "explain": "Masculine and neuter nouns add -s or -es in the Genitiv, and short words like Kind prefer -es."
+        },
+        {
+          "type": "choice",
+          "question": "Which is the normal spoken version of \"das Haus meiner Eltern\"?",
+          "options": ["das Haus von meinen Eltern", "das Haus von meine Eltern", "das Haus von meiner Eltern"],
+          "answer": "das Haus von meinen Eltern",
+          "explain": "von always takes the Dativ, and the Dativ plural of meine is meinen."
+        },
+        {
+          "type": "choice",
+          "question": "Trotz ___ Regens gehen wir spazieren.",
+          "options": ["der", "des", "dem"],
+          "answer": "des",
+          "explain": "trotz takes the Genitiv and der Regen is masculine, so the article becomes des."
+        },
+        {
+          "type": "order",
+          "words": ["Das", "ist", "die", "Tasche", "meiner", "Schwester"],
+          "answer": "Das ist die Tasche meiner Schwester",
+          "explain": "The owner always follows the thing owned, and feminine Genitiv turns meine into meiner."
+        },
+        {
+          "type": "order",
+          "words": ["Während", "der", "Woche", "arbeite", "ich", "viel"],
+          "answer": "Während der Woche arbeite ich viel",
+          "explain": "während takes the Genitiv (der Woche), and because that phrase opens the sentence the verb arbeite has to stay in position two."
+        }
+      ],
+      "keyWords": ["des", "der", "von", "vom", "wegen", "waehrend", "trotz", "innerhalb", "ausserhalb", "mein", "sein-possessiv"]
+    },
+    {
+      "id": "case-overview",
+      "number": 15,
+      "title": "All four cases side by side",
+      "level": "A2",
+      "group": "Cases",
+      "summary": "The complete article table plus a four-step procedure for picking the right case in any sentence.",
+      "rule": "<p>This is your reference page. Four cases, three genders, plus plural — and it really comes down to three tables you will end up knowing by heart.</p><p>What the four cases are for, in plain words:</p><ul><li><strong>Nominativ</strong> — the <em>doer</em>. Who or what is performing the verb. <code>Der Mann schläft.</code></li><li><strong>Akkusativ</strong> — the thing the verb lands on directly. <code>Ich sehe den Mann.</code></li><li><strong>Dativ</strong> — the <em>receiver</em>: to whom, for whom. <code>Ich gebe dem Mann das Buch.</code></li><li><strong>Genitiv</strong> — the <em>owner</em>: whose. <code>das Auto des Mannes</code></li></ul><p><strong>How to decide, every single time.</strong> Work through it in this order and stop as soon as you get an answer:</p><ul><li><strong>1. Is there a preposition in front of the noun?</strong> If yes, it decides and nothing else matters. <code>mit</code> is always Dativ, <code>für</code> is always Akkusativ. (A handful — <code>in, auf, an, unter, über</code> — go both ways: Dativ for <em>where something is</em>, Akkusativ for <em>where it is going</em>.)</li><li><strong>2. Find the verb.</strong> Then ask <code>wer?</code> — who is doing it? That noun is the <strong>Nominativ</strong>.</li><li><strong>3. Ask <code>wem?</code></strong> — who receives it, who is it for? That noun is the <strong>Dativ</strong>. Watch out for the Dativ verbs: helfen, danken, gefallen, gehören, passen, schmecken, antworten.</li><li><strong>4. Ask <code>wen?</code> or <code>was?</code></strong> — what is directly affected? That noun is the <strong>Akkusativ</strong>.</li></ul><p>Two shortcuts worth memorising instead of the whole grid: in the <strong>masculine</strong> column everything changes (<code>der / den / dem / des</code>), and <strong>feminine and neuter never change between Nominativ and Akkusativ</strong>. Most of the time your only real decision is what to do with a masculine noun.</p>",
+      "tables": [
+        {
+          "title": "Definite article — der, die, das",
+          "headers": ["", "masculine", "feminine", "neuter", "plural"],
+          "rows": [
+            ["Nominativ", "der", "die", "das", "die"],
+            ["Akkusativ", "den", "die", "das", "die"],
+            ["Dativ", "dem", "der", "dem", "den (+n)"],
+            ["Genitiv", "des (+s)", "der", "des (+s)", "der"]
+          ],
+          "highlight": [[1, 1], [2, 1], [2, 2], [2, 3], [2, 4]]
+        },
+        {
+          "title": "Indefinite article — ein (no plural form)",
+          "headers": ["", "masculine", "feminine", "neuter", "plural"],
+          "rows": [
+            ["Nominativ", "ein", "eine", "ein", "—"],
+            ["Akkusativ", "einen", "eine", "ein", "—"],
+            ["Dativ", "einem", "einer", "einem", "—"],
+            ["Genitiv", "eines", "einer", "eines", "—"]
+          ],
+          "highlight": [[1, 1]]
+        },
+        {
+          "title": "kein — and mein, dein, sein take exactly these endings",
+          "headers": ["", "masculine", "feminine", "neuter", "plural"],
+          "rows": [
+            ["Nominativ", "kein", "keine", "kein", "keine"],
+            ["Akkusativ", "keinen", "keine", "kein", "keine"],
+            ["Dativ", "keinem", "keiner", "keinem", "keinen (+n)"],
+            ["Genitiv", "keines", "keiner", "keines", "keiner"]
+          ],
+          "highlight": [[1, 1], [2, 4]]
+        }
+      ],
+      "examples": [
+        {
+          "de": "Der Mann kauft einen Kaffee.",
+          "en": "The man is buying a coffee.",
+          "note": "Der Mann does the buying → Nominativ. The coffee is what gets bought → Akkusativ → ein becomes einen."
+        },
+        {
+          "de": "Ich gebe dem Mann einen Kaffee.",
+          "en": "I'm giving the man a coffee.",
+          "note": "Two objects at once: the coffee is handed over (Akkusativ), the man receives it (Dativ) → dem Mann."
+        },
+        {
+          "de": "Das ist die Tasse des Mannes.",
+          "en": "That's the man's cup.",
+          "note": "Now the man owns something → Genitiv → des Mannes, sitting after the cup."
+        },
+        {
+          "de": "Ich fahre mit dem Bus zur Arbeit.",
+          "en": "I take the bus to work.",
+          "note": "mit is always Dativ, so you never have to analyse the sentence — der Bus simply becomes dem Bus."
+        },
+        {
+          "de": "Ohne meinen Schlüssel gehe ich nicht raus.",
+          "en": "I'm not going out without my key.",
+          "note": "ohne is always Akkusativ, and masculine is the gender that shows it: mein → meinen."
+        },
+        {
+          "de": "Ich habe heute keine Zeit.",
+          "en": "I have no time today.",
+          "note": "Zeit is feminine, and feminine never changes between Nominativ and Akkusativ, so keine stays keine."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "Ich sehe der Mann.",
+          "right": "Ich sehe den Mann.",
+          "why": "Masculine is the only gender that changes in the Akkusativ — but it changes every single time. der → den."
+        },
+        {
+          "wrong": "Ich fahre mit den Bus.",
+          "right": "Ich fahre mit dem Bus.",
+          "why": "A preposition beats everything else. mit is Dativ, so you need dem; den is the Akkusativ form."
+        },
+        {
+          "wrong": "Ich helfe meinen Freund.",
+          "right": "Ich helfe meinem Freund.",
+          "why": "helfen takes the Dativ even though English 'help my friend' looks like a plain object. Masculine Dativ ends in -em."
+        },
+        {
+          "wrong": "Für mir ist das kein Problem.",
+          "right": "Für mich ist das kein Problem.",
+          "why": "für is always Akkusativ, so the pronoun is mich. mir is the Dativ form and belongs after words like mit or bei."
+        }
+      ],
+      "drills": [
+        {
+          "type": "choice",
+          "question": "___ Frau trinkt Kaffee.",
+          "options": ["Die", "Der", "Den"],
+          "answer": "Die",
+          "explain": "The woman is doing the drinking, so she is the subject and the subject is always Nominativ."
+        },
+        {
+          "type": "choice",
+          "question": "Ich sehe ___ Hund.",
+          "options": ["der", "den", "dem"],
+          "answer": "den",
+          "explain": "The dog is what I see directly, so Akkusativ — and masculine is the one gender that visibly changes."
+        },
+        {
+          "type": "fill",
+          "question": "Ich fahre mit ___ Zug. (der Zug)",
+          "answer": "dem",
+          "accept": ["dem"],
+          "explain": "mit is a Dativ preposition, so it decides the case before you even look at the verb."
+        },
+        {
+          "type": "choice",
+          "question": "Ich schreibe ___ Freundin eine Nachricht.",
+          "options": ["meine", "meiner", "meinen"],
+          "answer": "meiner",
+          "explain": "The friend receives the message, so she is Dativ, and feminine Dativ takes the ending -er."
+        },
+        {
+          "type": "choice",
+          "question": "Ich habe ___ Auto.",
+          "options": ["kein", "keinen", "keinem"],
+          "answer": "kein",
+          "explain": "Auto is neuter, and neuter looks identical in Nominativ and Akkusativ, so no ending is added."
+        },
+        {
+          "type": "fill",
+          "question": "Das ist das Fahrrad ___ Kindes. (das Kind)",
+          "answer": "des",
+          "accept": ["des"],
+          "explain": "This says whose bike it is, so Genitiv, and neuter Genitiv is des."
+        },
+        {
+          "type": "order",
+          "words": ["Ich", "kaufe", "meinem", "Bruder", "ein", "Geschenk"],
+          "answer": "Ich kaufe meinem Bruder ein Geschenk",
+          "explain": "The receiver in the Dativ comes before the Akkusativ thing when both are nouns."
+        },
+        {
+          "type": "order",
+          "words": ["Ohne", "meinen", "Schlüssel", "kann", "ich", "nicht", "gehen"],
+          "answer": "Ohne meinen Schlüssel kann ich nicht gehen",
+          "explain": "ohne forces the Akkusativ (meinen), and starting with that phrase pushes the verb kann into position two."
+        }
+      ],
+      "keyWords": ["der", "die", "das", "den", "dem", "des", "ein", "eine", "einen", "einem", "kein", "keine", "keinen", "wer", "wen", "wem", "was", "mit", "fuer", "ohne"]
+    }
+  ]
+}

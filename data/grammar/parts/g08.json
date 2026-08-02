@@ -1,0 +1,484 @@
+{
+  "lessons": [
+    {
+      "id": "prepositions-akk",
+      "number": 22,
+      "title": "Prepositions that always take Akkusativ",
+      "level": "A1",
+      "group": "Cases",
+      "summary": "Seven little words that push the next noun into the Akkusativ automatically — the meaning is irrelevant, you just learn the list.",
+      "rule": "<p>A <strong>preposition</strong> is one of those small words that sits in front of a noun and states the relation: <em>for</em> you, <em>without</em> sugar, <em>through</em> the city. Turkish does this job with an ending glued onto the word (<em>şekersiz</em>) or with a word that follows it (<em>senin için</em>). German puts it in front, like English — but charges you one extra fee.</p><p>In German <strong>every preposition owns a case</strong>. A <em>case</em> is just the small change German makes to the article in front of a noun depending on the noun's job: <code>der Mann</code> can become <code>den Mann</code> or <code>dem Mann</code>. Normally you have to work the case out from the meaning. After a preposition you work out nothing — the preposition has already decided, and you obey.</p><p>Seven prepositions always demand the <strong>Akkusativ</strong>. Not usually. Not when something moves. Always. Learn them as one block: <strong>FUDGEBO</strong> — <code>für</code>, <code>um</code>, <code>durch</code>, <code>gegen</code>, <code>entlang</code>, <code>bis</code>, <code>ohne</code>.</p><p>Luckily the Akkusativ is the cheap case, because only the masculine visibly changes: <code>der</code> → <code>den</code>, <code>ein</code> → <code>einen</code>, <code>mein</code> → <code>meinen</code>. Feminine, neuter and plural look exactly like the dictionary form. Pronouns do change, though, and this is where people get caught: <code>ich</code> → <code>mich</code>, <code>du</code> → <code>dich</code>, <code>er</code> → <code>ihn</code>, <code>wir</code> → <code>uns</code>. You say <code>für dich</code>, never <em>für du</em>.</p><p>Two footnotes. <code>entlang</code> is the odd one out: it stands <strong>after</strong> its noun — <code>die Straße entlang</code>, not <em>entlang die Straße</em>. And <code>bis</code> usually appears bare in front of a time or a place — <code>bis morgen</code>, <code>bis Berlin</code>. If a second preposition follows, that second one takes over: <code>bis zum Bahnhof</code> is Dativ, because <code>zu</code> is in charge now.</p>",
+      "tables": [
+        {
+          "title": "FUDGEBO — the seven",
+          "headers": ["preposition", "means", "everyday example"],
+          "rows": [
+            ["für", "for", "Das ist für dich."],
+            ["um", "around / at (clock time)", "um die Ecke, um acht Uhr"],
+            ["durch", "through", "durch die Stadt"],
+            ["gegen", "against / around (time)", "gegen die Wand, gegen acht Uhr"],
+            ["entlang", "along — stands AFTER the noun", "die Straße entlang"],
+            ["bis", "until / as far as", "bis Freitag, bis Berlin"],
+            ["ohne", "without", "ohne mich, ohne Zucker"]
+          ],
+          "highlight": [[4, 1], [4, 2]]
+        },
+        {
+          "title": "What the Akkusativ actually changes",
+          "headers": ["", "masculine (der)", "feminine (die)", "neuter (das)", "plural (die)"],
+          "rows": [
+            ["Nominativ (normal form)", "der", "die", "das", "die"],
+            ["Akkusativ (after FUDGEBO)", "den", "die", "das", "die"],
+            ["with ein / mein", "einen / meinen", "eine / meine", "ein / mein", "— / meine"]
+          ],
+          "highlight": [[1, 1], [2, 1]]
+        },
+        {
+          "title": "Pronouns after these prepositions",
+          "headers": ["normal form", "Akkusativ form", "example"],
+          "rows": [
+            ["ich", "mich", "ohne mich"],
+            ["du", "dich", "für dich"],
+            ["er", "ihn", "gegen ihn"],
+            ["sie (she)", "sie", "für sie"],
+            ["wir", "uns", "ohne uns"],
+            ["ihr", "euch", "für euch"]
+          ],
+          "highlight": [[0, 1], [1, 1], [2, 1]]
+        }
+      ],
+      "examples": [
+        {
+          "de": "Das ist für dich.",
+          "en": "This is for you.",
+          "note": "für always takes the Akkusativ, so du has to turn into dich."
+        },
+        {
+          "de": "Ich gehe ohne meinen Bruder.",
+          "en": "I'm going without my brother.",
+          "note": "der Bruder is masculine, and masculine is the one thing the Akkusativ visibly changes: mein → meinen."
+        },
+        {
+          "de": "Wir fahren durch die Stadt.",
+          "en": "We're driving through the city.",
+          "note": "die Stadt is feminine, so it looks untouched — but it is still Akkusativ, not Nominativ."
+        },
+        {
+          "de": "Der Supermarkt ist um die Ecke.",
+          "en": "The supermarket is around the corner.",
+          "note": "Nothing moves at all here, and it is still Akkusativ. The preposition decides, not the meaning."
+        },
+        {
+          "de": "Ich habe nichts gegen ihn.",
+          "en": "I have nothing against him.",
+          "note": "gegen forces the Akkusativ, and er becomes ihn."
+        },
+        {
+          "de": "Wir gehen die Straße entlang.",
+          "en": "We're walking along the street.",
+          "note": "entlang comes after its noun, and die Straße is Akkusativ all the same."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "Das ist für du.",
+          "right": "Das ist für dich.",
+          "why": "Pronouns take the case too, not just articles. After für, du must become dich."
+        },
+        {
+          "wrong": "Ich gehe ohne mein Bruder.",
+          "right": "Ich gehe ohne meinen Bruder.",
+          "why": "der Bruder is masculine, and masculine after an Akkusativ preposition adds -en: mein → meinen."
+        },
+        {
+          "wrong": "Ich gehe durch dem Park.",
+          "right": "Ich gehe durch den Park.",
+          "why": "durch is fixed Akkusativ. It does not matter that you are walking around inside a place — the list wins, always."
+        },
+        {
+          "wrong": "Wir gehen entlang die Straße.",
+          "right": "Wir gehen die Straße entlang.",
+          "why": "entlang is the one preposition on this list that stands behind its noun, exactly like a Turkish postposition."
+        }
+      ],
+      "drills": [
+        {
+          "type": "choice",
+          "question": "Das Geschenk ist für ___.",
+          "options": ["du", "dich", "dir"],
+          "answer": "dich",
+          "explain": "für is on the Akkusativ list, and the Akkusativ form of du is dich."
+        },
+        {
+          "type": "choice",
+          "question": "Wir gehen durch ___ Park.",
+          "options": ["der", "den", "dem"],
+          "answer": "den",
+          "explain": "durch always takes the Akkusativ, and masculine is the only form that visibly changes: der → den."
+        },
+        {
+          "type": "fill",
+          "question": "Ich fahre ohne ___ Auto. (mein)",
+          "answer": "mein",
+          "accept": ["mein"],
+          "explain": "das Auto is neuter, and neuter looks identical in the Akkusativ, so there is no ending to add."
+        },
+        {
+          "type": "choice",
+          "question": "Der Bäcker ist um ___ Ecke.",
+          "options": ["die", "der", "dem"],
+          "answer": "die",
+          "explain": "Nothing is moving, but um demands the Akkusativ anyway; feminine simply looks the same as the Nominativ."
+        },
+        {
+          "type": "fill",
+          "question": "Ich habe nichts gegen ___. (er)",
+          "answer": "ihn",
+          "accept": ["ihn"],
+          "explain": "gegen takes the Akkusativ, and er is the pronoun that changes most obviously: er → ihn."
+        },
+        {
+          "type": "choice",
+          "question": "Ich kaufe ein Buch für ___ Vater.",
+          "options": ["mein", "meinen", "meinem"],
+          "answer": "meinen",
+          "explain": "der Vater is masculine and für is an Akkusativ preposition, so mein takes the -en ending."
+        },
+        {
+          "type": "order",
+          "words": ["Ich", "habe", "ein", "Geschenk", "für", "dich"],
+          "answer": "Ich habe ein Geschenk für dich",
+          "explain": "The verb stays in second position, the thing you have follows, and the für-phrase closes the sentence."
+        },
+        {
+          "type": "order",
+          "words": ["Wir", "gehen", "die", "Straße", "entlang"],
+          "answer": "Wir gehen die Straße entlang",
+          "explain": "entlang is the only one of the seven that stands behind its noun, and die Straße is still Akkusativ."
+        }
+      ],
+      "keyWords": ["fuer", "um", "durch", "gegen", "entlang", "bis", "ohne", "den", "die", "das", "einen", "mich", "dich", "ihn", "uns"]
+    },
+    {
+      "id": "prepositions-dat",
+      "number": 23,
+      "title": "Prepositions that always take Dativ",
+      "level": "A1",
+      "group": "Cases",
+      "summary": "The chant every German schoolchild knows — aus, bei, mit, nach, seit, von, zu — plus the contractions you cannot avoid and the nach/zu/in trap.",
+      "rule": "<p>Same deal as the last lesson, different case. These prepositions do not think either: whatever noun follows them goes into the <strong>Dativ</strong>, every single time, whatever the sentence means.</p><p>The core list is chanted in German schools as seven words in a row: <code>aus</code>, <code>bei</code>, <code>mit</code>, <code>nach</code>, <code>seit</code>, <code>von</code>, <code>zu</code>. Say it out loud until it sounds like one long word. Then add three quieter ones you will still meet weekly: <code>gegenüber</code> (opposite), <code>ab</code> (from … onwards), <code>außer</code> (except).</p><p>The Dativ changes more than the Akkusativ did, so there is more to see: <code>der</code> → <code>dem</code>, <code>die</code> → <code>der</code>, <code>das</code> → <code>dem</code>, and plural <code>die</code> → <code>den</code> <strong>with an extra -n on the noun itself</strong>, as in <code>mit den Kindern</code>. Pronouns: <code>ich</code> → <code>mir</code>, <code>du</code> → <code>dir</code>, <code>er</code> → <code>ihm</code>, <code>sie</code> → <code>ihr</code>, <code>wir</code> → <code>uns</code>.</p><p>Four of these fuse with the article in everyday speech, and the fused form is not optional — the long version sounds like you are pointing at one specific thing:</p><ul><li><code>zu dem</code> → <code>zum</code> — <code>zum Arzt</code></li><li><code>zu der</code> → <code>zur</code> — <code>zur Arbeit</code></li><li><code>von dem</code> → <code>vom</code> — <code>vom Bahnhof</code></li><li><code>bei dem</code> → <code>beim</code> — <code>beim Chef</code></li></ul><p>Now the part that trips up everybody living in Germany: how to say <em>to</em> a place. German splits it three ways. Use <code>nach</code> for towns and countries that have no article — <code>nach Berlin</code>, <code>nach Deutschland</code> — plus the fixed phrase <code>nach Hause</code>. Use <code>zu</code> for people, shops and institutions you are heading for — <code>zum Arzt</code>, <code>zur Arbeit</code>, <code>zu Anna</code>. Use <code>in</code> when you actually go inside something, and for countries that carry an article — <code>in die Stadt</code>, <code>in den Supermarkt</code>, <code>in die Türkei</code>. Watch out: that last <code>in</code> is <strong>not</strong> on this list and takes the Akkusativ instead. The next lesson is entirely about it.</p>",
+      "tables": [
+        {
+          "title": "The ten Dativ prepositions",
+          "headers": ["preposition", "means", "everyday example"],
+          "rows": [
+            ["aus", "out of / from (where you come from)", "Ich komme aus der Türkei."],
+            ["bei", "at (a person, a workplace)", "Ich bin beim Arzt."],
+            ["mit", "with / by (transport)", "mit dem Bus"],
+            ["nach", "after / to (city, country)", "nach der Arbeit, nach Berlin"],
+            ["seit", "since / for (time up to now)", "seit einem Jahr"],
+            ["von", "from / of", "vom Bahnhof"],
+            ["zu", "to (a person, a place)", "zum Arzt"],
+            ["gegenüber", "opposite", "gegenüber dem Park"],
+            ["ab", "from … onwards", "ab dem Sommer"],
+            ["außer", "except", "außer mir"]
+          ],
+          "highlight": [[0, 0], [1, 0], [2, 0], [3, 0], [4, 0], [5, 0], [6, 0]]
+        },
+        {
+          "title": "What the Dativ looks like",
+          "headers": ["", "masculine (der)", "feminine (die)", "neuter (das)", "plural (die)"],
+          "rows": [
+            ["Nominativ (normal form)", "der", "die", "das", "die"],
+            ["Dativ (after mit, zu, von …)", "dem", "der", "dem", "den + noun -n"],
+            ["with ein / mein", "einem / meinem", "einer / meiner", "einem / meinem", "— / meinen"]
+          ],
+          "highlight": [[1, 1], [1, 2], [1, 3], [1, 4]]
+        },
+        {
+          "title": "Going to a place: nach, zu or in?",
+          "headers": ["use", "when", "example"],
+          "rows": [
+            ["nach + Dativ", "towns and countries with no article, plus nach Hause", "Ich fahre nach Berlin."],
+            ["zu + Dativ", "people, shops, doctors, work — a destination as a point", "Ich gehe zum Arzt."],
+            ["in + Akkusativ", "when you go inside, and countries with an article", "Ich gehe in die Stadt."]
+          ],
+          "highlight": [[2, 0]]
+        }
+      ],
+      "examples": [
+        {
+          "de": "Ich fahre mit dem Bus zur Arbeit.",
+          "en": "I go to work by bus.",
+          "note": "mit is automatic Dativ (der Bus → dem Bus), and zu der Arbeit has to shrink to zur."
+        },
+        {
+          "de": "Ich komme aus der Türkei.",
+          "en": "I'm from Turkey.",
+          "note": "aus takes the Dativ, and the feminine Dativ is der — the same word as the masculine Nominativ."
+        },
+        {
+          "de": "Ich gehe morgen zum Arzt.",
+          "en": "I'm going to the doctor tomorrow.",
+          "note": "zu + dem = zum. Nobody says zu dem Arzt in normal speech."
+        },
+        {
+          "de": "Ich wohne seit einem Jahr in Berlin.",
+          "en": "I've been living in Berlin for a year.",
+          "note": "seit is Dativ, so ein Jahr becomes einem Jahr — and German uses the present tense here, not the past."
+        },
+        {
+          "de": "Ich spiele mit den Kindern.",
+          "en": "I'm playing with the children.",
+          "note": "In the Dativ plural the noun itself picks up an extra -n, not just the article."
+        },
+        {
+          "de": "Nach der Arbeit fahre ich nach Hause.",
+          "en": "After work I go home.",
+          "note": "The same word twice: nach der Arbeit means 'after', nach Hause is a fixed phrase for 'home' with no article at all."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "Ich fahre mit den Bus.",
+          "right": "Ich fahre mit dem Bus.",
+          "why": "den is the Akkusativ. mit is always Dativ, and masculine Dativ is dem."
+        },
+        {
+          "wrong": "Ich gehe zu Berlin.",
+          "right": "Ich fahre nach Berlin.",
+          "why": "Cities and countries without an article take nach. Keep zu for people and buildings: zum Arzt, zu Anna."
+        },
+        {
+          "wrong": "Ich gehe zu dem Supermarkt.",
+          "right": "Ich gehe zum Supermarkt.",
+          "why": "zu and dem must contract in ordinary speech. The long form sounds like you mean that one particular supermarket over there."
+        },
+        {
+          "wrong": "Ich spiele mit meine Freunde.",
+          "right": "Ich spiele mit meinen Freunden.",
+          "why": "The Dativ plural marks twice: -n on the article word and -n on the noun."
+        }
+      ],
+      "drills": [
+        {
+          "type": "choice",
+          "question": "Ich fahre mit ___ Bus.",
+          "options": ["der", "den", "dem"],
+          "answer": "dem",
+          "explain": "mit is always Dativ, and masculine Dativ is dem — den would be the Akkusativ."
+        },
+        {
+          "type": "choice",
+          "question": "Sie kommt aus ___ Türkei.",
+          "options": ["die", "der", "den"],
+          "answer": "der",
+          "explain": "aus takes the Dativ, and the feminine Dativ is der even though it looks like a masculine article."
+        },
+        {
+          "type": "fill",
+          "question": "Ich gehe morgen ___ Arzt. (zu + dem)",
+          "answer": "zum",
+          "accept": ["zum"],
+          "explain": "zu and dem fuse into zum in normal German; the long form would sound like one specific doctor."
+        },
+        {
+          "type": "fill",
+          "question": "Wir fahren im Sommer ___ Italien.",
+          "answer": "nach",
+          "accept": ["nach"],
+          "explain": "Countries and cities that carry no article take nach, never zu or in."
+        },
+        {
+          "type": "choice",
+          "question": "Ich wohne seit ___ Jahr in Hamburg.",
+          "options": ["ein", "einen", "einem"],
+          "answer": "einem",
+          "explain": "seit is a Dativ preposition, and das Jahr is neuter, so ein becomes einem."
+        },
+        {
+          "type": "choice",
+          "question": "Ich gehe jetzt ___ Arbeit.",
+          "options": ["zur", "zum", "nach"],
+          "answer": "zur",
+          "explain": "die Arbeit is feminine, so zu + der contracts to zur."
+        },
+        {
+          "type": "order",
+          "words": ["Ich", "fahre", "mit", "dem", "Zug", "nach", "Hamburg"],
+          "answer": "Ich fahre mit dem Zug nach Hamburg",
+          "explain": "The verb sits in position two, then how you travel, then where you are going — manner before place."
+        },
+        {
+          "type": "order",
+          "words": ["Nach", "der", "Arbeit", "gehe", "ich", "nach", "Hause"],
+          "answer": "Nach der Arbeit gehe ich nach Hause",
+          "explain": "When a time phrase opens the sentence the verb must still be the second element, so the subject slides in behind it."
+        }
+      ],
+      "keyWords": ["aus", "bei", "mit", "nach", "seit", "von", "zu", "gegenueber", "ab", "ausser", "zum", "zur", "vom", "beim", "dem", "der", "einem", "mir", "dir", "nach-hause"]
+    },
+    {
+      "id": "wechselpraepositionen",
+      "number": 24,
+      "title": "The two-way prepositions — in, an, auf, über, unter, vor, hinter, neben, zwischen",
+      "level": "A2",
+      "group": "Cases",
+      "summary": "Nine prepositions that take either case, and the single question — wohin? or wo? — that decides which one.",
+      "rule": "<p>Nine prepositions refuse to pick a side. They take the <strong>Akkusativ</strong> sometimes and the <strong>Dativ</strong> other times, and the very same words mean two different things depending on which one you choose. They are: <code>in</code>, <code>an</code>, <code>auf</code>, <code>über</code>, <code>unter</code>, <code>vor</code>, <code>hinter</code>, <code>neben</code>, <code>zwischen</code>.</p><p>There is exactly one test and it takes two seconds. Ask the sentence a question:</p><ul><li><strong>wohin?</strong> — <em>where to?</em> Something ends up in a new place. → <strong>Akkusativ</strong>: <code>Ich gehe in die Küche.</code></li><li><strong>wo?</strong> — <em>where?</em> You are only reporting a position. → <strong>Dativ</strong>: <code>Ich bin in der Küche.</code></li></ul><p>Read the next bit slowly, because it is the trap that catches everyone: the test is <strong>not</strong> \"is anything moving\". It is \"does something cross into a new place\". <code>Ich schwimme im See</code> is full of movement, but all of it happens inside the lake and I never enter the lake during the sentence — Dativ. <code>Ich springe in den See</code> — now I cross the edge and end up somewhere I was not before — Akkusativ.</p><p>The verb usually gives the answer away. <code>sein</code>, <code>bleiben</code>, <code>wohnen</code>, <code>arbeiten</code>, <code>stehen</code>, <code>liegen</code>, <code>sitzen</code>, <code>warten</code> describe a position → Dativ. <code>gehen</code>, <code>fahren</code>, <code>kommen</code>, <code>stellen</code>, <code>legen</code>, <code>setzen</code>, <code>hängen</code> put something somewhere new → Akkusativ. German even keeps two versions of the same idea: <code>Das Buch liegt auf dem Tisch</code> (it is lying there) against <code>Ich lege das Buch auf den Tisch</code> (I am putting it there).</p><p>Several of these fuse with the article, and the short form hands you the case for free: <code>ins</code> and <code>ans</code> are Akkusativ, <code>im</code> and <code>am</code> are Dativ. So <code>Ich gehe ins Kino</code> means you are on your way to the cinema, and <code>Ich bin im Kino</code> means you are already sitting inside it. One letter, a completely different sentence.</p>",
+      "tables": [
+        {
+          "title": "The one test",
+          "headers": ["", "wohin? — ends up somewhere new", "wo? — just a position"],
+          "rows": [
+            ["case", "Akkusativ", "Dativ"],
+            ["masculine", "in den Garten", "in dem / im Garten"],
+            ["feminine", "in die Küche", "in der Küche"],
+            ["neuter", "in das / ins Kino", "in dem / im Kino"],
+            ["plural", "zwischen die Autos", "zwischen den Autos"]
+          ],
+          "highlight": [[0, 1], [0, 2]]
+        },
+        {
+          "title": "The nine, both ways",
+          "headers": ["preposition", "means", "wohin? (Akkusativ)", "wo? (Dativ)"],
+          "rows": [
+            ["in", "in / into", "Ich gehe in die Küche.", "Ich bin in der Küche."],
+            ["an", "at / onto a vertical surface", "Ich gehe ans Fenster.", "Ich stehe am Fenster."],
+            ["auf", "on top of", "Ich lege es auf den Tisch.", "Es liegt auf dem Tisch."],
+            ["über", "over / above", "Ich gehe über die Straße.", "Die Lampe hängt über dem Tisch."],
+            ["unter", "under", "Die Katze läuft unter das Bett.", "Die Katze schläft unter dem Bett."],
+            ["vor", "in front of", "Ich stelle das Auto vor das Haus.", "Das Auto steht vor dem Haus."],
+            ["hinter", "behind", "Geh hinter das Haus!", "Der Garten ist hinter dem Haus."],
+            ["neben", "next to", "Ich stelle den Stuhl neben das Bett.", "Der Stuhl steht neben dem Bett."],
+            ["zwischen", "between", "Ich stelle den Stuhl zwischen die Betten.", "Der Stuhl steht zwischen den Betten."]
+          ],
+          "highlight": [[0, 2], [0, 3]]
+        },
+        {
+          "title": "The contractions give the case away",
+          "headers": ["long form", "short form", "case", "example"],
+          "rows": [
+            ["in das", "ins", "Akkusativ", "Ich gehe ins Kino."],
+            ["in dem", "im", "Dativ", "Ich bin im Kino."],
+            ["an das", "ans", "Akkusativ", "Ich gehe ans Fenster."],
+            ["an dem", "am", "Dativ", "Ich warte am Bahnhof."],
+            ["auf das", "aufs", "Akkusativ", "Leg es aufs Bett."]
+          ],
+          "highlight": [[0, 1], [1, 1]]
+        }
+      ],
+      "examples": [
+        {
+          "de": "Ich gehe in die Küche.",
+          "en": "I'm going into the kitchen.",
+          "note": "wohin? I end up in a room I was not in before, so in takes the Akkusativ: die."
+        },
+        {
+          "de": "Ich bin in der Küche.",
+          "en": "I'm in the kitchen.",
+          "note": "wo? Pure position, nothing changes place, so in takes the Dativ: der."
+        },
+        {
+          "de": "Ich lege das Handy auf den Tisch.",
+          "en": "I'm putting the phone on the table.",
+          "note": "The phone travels onto the table, so auf takes the Akkusativ: der Tisch → den Tisch."
+        },
+        {
+          "de": "Das Handy liegt auf dem Tisch.",
+          "en": "The phone is lying on the table.",
+          "note": "Same table, same preposition — but this is only a report of where it is, so dem."
+        },
+        {
+          "de": "Ich schwimme im See.",
+          "en": "I swim in the lake.",
+          "note": "Plenty of movement, but all of it inside the lake, so this is still wo? and stays Dativ."
+        },
+        {
+          "de": "Heute Abend gehen wir ins Kino.",
+          "en": "This evening we're going to the cinema.",
+          "note": "in + das = ins, and the form ins already tells you the case is Akkusativ."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "Ich gehe in der Küche.",
+          "right": "Ich gehe in die Küche.",
+          "why": "gehen takes you somewhere new — wohin? — so the Akkusativ is needed. in der Küche would mean you are wandering around inside it."
+        },
+        {
+          "wrong": "Ich bin in die Stadt.",
+          "right": "Ich bin in der Stadt.",
+          "why": "sein only states where you are — wo? — so it is Dativ. Learners overuse the Akkusativ because in die Stadt is such a common phrase."
+        },
+        {
+          "wrong": "Ich schwimme in den See.",
+          "right": "Ich schwimme im See.",
+          "why": "The test is not 'is there movement' but 'do you cross into a new place'. Swimming happens inside the lake, so it is Dativ."
+        },
+        {
+          "wrong": "Ich gehe in das Kino.",
+          "right": "Ich gehe ins Kino.",
+          "why": "in and das contract to ins in normal speech. The long form sounds like you are pointing at one particular cinema."
+        }
+      ],
+      "drills": [
+        {
+          "type": "choice",
+          "question": "Ich gehe in ___ Küche.",
+          "options": ["die", "der", "den"],
+          "answer": "die",
+          "explain": "Ask wohin? — you end up in a new room, so in takes the Akkusativ."
+        },
+        {
+          "type": "choice",
+          "question": "Ich bin in ___ Küche.",
+          "options": ["die", "der", "den"],
+          "answer": "der",
+          "explain": "Ask wo? — sein only reports a position, so in takes the Dativ."
+        },
+        {
+          "type": "fill",
+          "question": "Das Buch liegt auf ___ Tisch. (der Tisch)",
+          "answer": "dem",
+          "accept": ["dem"],
+          "explain": "liegen describes something resting where it already is, so this is wo? and auf takes the Dativ."
+        },
+        {
+          "type": "choice",
+          "question": "Heute Abend gehen wir ___ Kino.",
+          "options": ["im", "ins", "in der"],
+          "answer": "ins",
+          "explain": "You are travelling to the cinema, so it is wohin?, and in + das becomes ins."
+        },
+        {
+          "type": "fill",
+          "question": "Ich warte ___ Bahnhof. (an + dem)",
+          "answer": "am",
+          "accept": ["am"],
+          "explain": "Waiting is standing still, so an takes the Dativ dem, and the two contract to am."
+        },
+        {
+          "type": "choice",
+          "question": "Die Katze läuft unter ___ Bett.",
+          "options": ["das", "dem", "der"],
+          "answer": "das",
+          "explain": "The cat ends up somewhere new, so this is Akkusativ — neuter just happens to look unchanged."
+        },
+        {
+          "type": "order",
+          "words": ["Ich", "stelle", "die", "Flasche", "auf", "den", "Tisch"],
+          "answer": "Ich stelle die Flasche auf den Tisch",
+          "explain": "stellen puts something in a new place, so auf takes the Akkusativ den."
+        },
+        {
+          "type": "order",
+          "words": ["Das", "Auto", "steht", "vor", "dem", "Haus"],
+          "answer": "Das Auto steht vor dem Haus",
+          "explain": "stehen only reports a position, so vor takes the Dativ dem."
+        }
+      ],
+      "keyWords": ["in", "an", "auf", "ueber", "unter", "vor", "hinter", "neben", "zwischen", "im", "am", "ins", "ans", "aufs", "wo", "wohin", "stehen", "liegen", "den", "dem"]
+    }
+  ]
+}

@@ -1,0 +1,458 @@
+{
+  "lessons": [
+    {
+      "id": "nouns-capital",
+      "number": 1,
+      "title": "Every noun is capitalised — and every noun has a gender",
+      "level": "A0",
+      "group": "Basics",
+      "summary": "German writes every noun with a capital letter, and every noun is der, die or das — so learn the article as part of the word.",
+      "rule": "<p>A <strong>noun</strong> is a word that names something: a thing, a person, a place or an idea — <em>house, coffee, Berlin, work, love</em>. In German every single noun is written with a <strong>capital letter</strong>, not only at the start of a sentence and not only for names. <code>Ich trinke Kaffee.</code> Kaffee sits in the middle and still gets a big K. This is a gift when you read: the capitals show you instantly which words are the things. Verbs like <code>trinken</code> and describing words like <code>gut</code> stay lowercase.</p><p>Now the harder fact. Every German noun belongs to one of three groups, and the group decides which word you use for <em>the</em>: <code>der</code>, <code>die</code> or <code>das</code>. Books call the groups masculine, feminine and neuter, but <strong>this has almost nothing to do with male and female</strong>. It is just a label attached to the word, like a type on a variable. <code>der Tisch</code> (table), <code>die Lampe</code> (lamp), <code>das Fenster</code> (window) — no table is male, no lamp is female.</p><p>The proof everyone quotes: <code>das Mädchen</code> means <em>the girl</em>, and it is neuter. A real girl, a neuter word. So stop trying to guess the article from the meaning. It will not work.</p><p><strong>The one habit that saves you months:</strong> never learn a noun on its own. Do not learn <em>Haus</em>. Learn <code>das Haus</code>. Say the article out loud every time, put it on the flashcard, write it in your notes. A noun without its article is half a word — in a few lessons <code>der</code> turns into <code>den</code> and <code>dem</code>, and you cannot do that if you never knew it was <code>der</code> in the first place.</p><p>Good news for the next lesson: the <em>ending</em> of a noun predicts the article about <strong>80%</strong> of the time. Anything ending in <code>-ung</code> is <code>die</code>; anything ending in <code>-chen</code> is <code>das</code>. Turkish has no articles and no gender at all, so for a while this feels like pure extra work with no payoff. It does pay off — every case, every adjective ending and half of German word order hangs off it.</p>",
+      "tables": [
+        {
+          "title": "The three articles",
+          "headers": ["", "article", "example", "English"],
+          "rows": [
+            ["masculine", "der", "der Tisch", "the table"],
+            ["feminine", "die", "die Lampe", "the lamp"],
+            ["neuter", "das", "das Fenster", "the window"]
+          ],
+          "highlight": [[0, 1], [1, 1], [2, 1]]
+        },
+        {
+          "title": "Gender is a label on the word, not on the thing",
+          "headers": ["German", "English", "group"],
+          "rows": [
+            ["das Mädchen", "the girl", "neuter"],
+            ["der Löffel", "the spoon", "masculine"],
+            ["die Gabel", "the fork", "feminine"],
+            ["das Messer", "the knife", "neuter"]
+          ],
+          "highlight": [[0, 2]]
+        }
+      ],
+      "examples": [
+        {
+          "de": "Das Haus ist groß.",
+          "en": "The house is big.",
+          "note": "Haus is a noun, so it has a capital H — and you learn it as das Haus, never as Haus alone."
+        },
+        {
+          "de": "Ich kaufe Brot und Milch.",
+          "en": "I am buying bread and milk.",
+          "note": "Two nouns in the middle of the sentence, two capital letters."
+        },
+        {
+          "de": "Das Mädchen heißt Anna.",
+          "en": "The girl is called Anna.",
+          "note": "Mädchen means girl, but the word is neuter, so it takes das."
+        },
+        {
+          "de": "Der Tisch ist neu und die Lampe ist alt.",
+          "en": "The table is new and the lamp is old.",
+          "note": "Nothing about a table is male. der and die are just labels stuck on the words."
+        },
+        {
+          "de": "Ich lerne Deutsch.",
+          "en": "I am learning German.",
+          "note": "Deutsch is capitalised because it is a noun here, but the verb lerne stays small."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "Ich kaufe brot.",
+          "right": "Ich kaufe Brot.",
+          "why": "Every noun gets a capital, not just names and not just the first word of the sentence."
+        },
+        {
+          "wrong": "Die Mädchen ist nett.",
+          "right": "Das Mädchen ist nett.",
+          "why": "The gender belongs to the word, not to the person. Mädchen is neuter no matter who you are talking about."
+        },
+        {
+          "wrong": "Ich habe Auto.",
+          "right": "Ich habe ein Auto.",
+          "why": "Turkish has no articles, so leaving them out feels natural. German nouns almost always need der/die/das or ein/eine in front of them."
+        },
+        {
+          "wrong": "Ich Lerne Deutsch.",
+          "right": "Ich lerne Deutsch.",
+          "why": "Once you start capitalising, it is tempting to capitalise everything. Only nouns get capitals — verbs stay lowercase."
+        }
+      ],
+      "drills": [
+        {
+          "type": "choice",
+          "question": "Which sentence is written correctly?",
+          "options": ["Ich trinke wasser.", "Ich trinke Wasser.", "ich trinke Wasser."],
+          "answer": "Ich trinke Wasser.",
+          "explain": "Wasser names a thing, so it is a noun and keeps its capital letter even in the middle of the sentence."
+        },
+        {
+          "type": "fill",
+          "question": "Ich esse ___. (brot)",
+          "answer": "Brot",
+          "accept": ["Brot"],
+          "explain": "The position in the sentence never matters — a noun is capitalised wherever it stands."
+        },
+        {
+          "type": "choice",
+          "question": "___ Mädchen heißt Lena.",
+          "options": ["Der", "Die", "Das"],
+          "answer": "Das",
+          "explain": "The word Mädchen is neuter, and the real person's sex does not change the word's group."
+        },
+        {
+          "type": "order",
+          "words": ["Das", "Haus", "ist", "groß"],
+          "answer": "Das Haus ist groß",
+          "explain": "The article belongs to its noun and stands directly in front of it."
+        },
+        {
+          "type": "fill",
+          "question": "Wie heißt ___ Mann? (masculine)",
+          "answer": "der",
+          "accept": ["der"],
+          "explain": "Masculine nouns take der, and here it sits inside the sentence, so it stays lowercase."
+        },
+        {
+          "type": "choice",
+          "question": "Which of these words is NOT capitalised in a German sentence?",
+          "options": ["Auto", "Buch", "gut"],
+          "answer": "gut",
+          "explain": "gut describes something instead of naming it, so it is not a noun."
+        },
+        {
+          "type": "order",
+          "words": ["Die", "Lampe", "und", "der", "Tisch", "sind", "neu"],
+          "answer": "Die Lampe und der Tisch sind neu",
+          "explain": "Each noun carries its own article, and two things together need sind instead of ist."
+        },
+        {
+          "type": "choice",
+          "question": "Which sentence is completely correct?",
+          "options": ["Das mädchen trinkt Wasser.", "Die Mädchen trinkt wasser.", "Das Mädchen trinkt Wasser."],
+          "answer": "Das Mädchen trinkt Wasser.",
+          "explain": "There are two nouns, so two capitals — and Mädchen takes das, not die."
+        }
+      ],
+      "keyWords": ["der", "die", "das"]
+    },
+    {
+      "id": "gender-rules",
+      "number": 2,
+      "title": "Predicting der / die / das from the ending",
+      "level": "A1",
+      "group": "Nouns",
+      "summary": "The last few letters of a noun give away its article about 80% of the time — around twenty patterns instead of hundreds of separate facts.",
+      "rule": "<p>Lesson 1 left you with a scary picture: hundreds of nouns, three articles, no logic. Here is the fix. The <strong>ending</strong> of a word — its last two or three letters — tells you the article roughly <strong>80%</strong> of the time. About twenty patterns replace hundreds of separate memories.</p><p>The three tables below are the core, and the <code>die</code> list is the strongest of all. <code>-ung</code>, <code>-heit</code>, <code>-keit</code>, <code>-schaft</code>, <code>-tion</code> and <code>-tät</code> have essentially <strong>no exceptions</strong>. If a word ends in <code>-ung</code>, it is <code>die</code>. Every time.</p><p>Meaning helps too, but only in a few tight groups:</p><ul><li><code>der</code> — male people (<em>der Vater, der Bruder</em>), days (<em>der Montag</em>), months (<em>der Mai</em>), seasons (<em>der Sommer</em>) and weather words (<em>der Regen, der Wind, der Schnee</em>)</li><li><code>die</code> — female people (<em>die Mutter, die Schwester</em>), most flowers and trees (<em>die Rose, die Blume</em>) and numbers used as words (<em>die Eins, die Drei</em>)</li><li><code>das</code> — young beings (<em>das Kind, das Baby</em>), metals (<em>das Gold, das Silber</em>) and single letters (<em>das A, das B</em>)</li></ul><p>One extra pattern is worth as much as the tables: nouns ending in <strong>-e</strong> are feminine about 90% of the time — <code>die Lampe</code>, <code>die Straße</code>, <code>die Blume</code>, <code>die Schule</code>, <code>die Sprache</code>. The ones to watch are <code>der Junge</code> (boy), <code>der Name</code> and <code>das Auge</code> (eye).</p><p><strong>When the ending and the meaning disagree, the ending wins.</strong> <code>das Mädchen</code> is a girl but ends in <code>-chen</code>, so it is neuter — every <code>-chen</code> and <code>-lein</code> word is, because those endings mean <em>little</em>. And be honest about <code>-er</code>: it only means <code>der</code> when the word is a <em>doer</em> — <code>der Lehrer</code> (teacher), <code>der Fahrer</code> (driver), <code>der Computer</code>. Plain things break it: <code>das Fenster</code>, <code>das Wasser</code>, <code>das Messer</code>, <code>die Mutter</code>, <code>die Schwester</code>.</p>",
+      "tables": [
+        {
+          "title": "Endings that mean die (feminine)",
+          "headers": ["ending", "example", "English"],
+          "rows": [
+            ["-ung", "die Wohnung", "the flat"],
+            ["-heit", "die Gesundheit", "health"],
+            ["-keit", "die Möglichkeit", "the possibility"],
+            ["-schaft", "die Freundschaft", "the friendship"],
+            ["-tion", "die Information", "the information"],
+            ["-tät", "die Universität", "the university"],
+            ["-ei", "die Bäckerei", "the bakery"],
+            ["-ie", "die Familie", "the family"],
+            ["-in", "die Lehrerin", "the teacher (female)"]
+          ],
+          "highlight": [[0, 0], [8, 0]]
+        },
+        {
+          "title": "Endings that mean der (masculine)",
+          "headers": ["ending", "example", "English"],
+          "rows": [
+            ["-er (a doer)", "der Lehrer", "the teacher"],
+            ["-ling", "der Frühling", "the spring"],
+            ["-ismus", "der Tourismus", "tourism"],
+            ["-ant", "der Elefant", "the elephant"],
+            ["-or", "der Motor", "the engine"],
+            ["-ent", "der Student", "the student"]
+          ],
+          "highlight": [[0, 0]]
+        },
+        {
+          "title": "Endings that mean das (neuter)",
+          "headers": ["ending", "example", "English"],
+          "rows": [
+            ["-chen", "das Mädchen", "the girl"],
+            ["-lein", "das Büchlein", "the little book"],
+            ["-um", "das Museum", "the museum"],
+            ["-ment", "das Medikament", "the medicine"],
+            ["-nis", "das Ergebnis", "the result"],
+            ["Ge- at the start", "das Gemüse", "the vegetables"]
+          ],
+          "highlight": [[0, 0], [0, 1]]
+        }
+      ],
+      "examples": [
+        {
+          "de": "Die Wohnung ist klein.",
+          "en": "The flat is small.",
+          "note": "-ung is always die. This is the one pattern with no exceptions worth worrying about."
+        },
+        {
+          "de": "Der Student wohnt in Berlin.",
+          "en": "The student lives in Berlin.",
+          "note": "-ent gives you der, like -er, -or and -ling."
+        },
+        {
+          "de": "Das Mädchen ist meine Schwester.",
+          "en": "The girl is my sister.",
+          "note": "The ending beats the meaning: -chen makes it das, even for a real girl."
+        },
+        {
+          "de": "Die Bäckerei öffnet um sechs Uhr.",
+          "en": "The bakery opens at six o'clock.",
+          "note": "-ei is die. You will read this word on every second corner in Germany."
+        },
+        {
+          "de": "Das Fenster ist offen.",
+          "en": "The window is open.",
+          "note": "It ends in -er but it is das. The -er rule only works for people and machines that do something."
+        },
+        {
+          "de": "Der Sommer ist warm.",
+          "en": "The summer is warm.",
+          "note": "All four seasons are der: der Frühling, der Sommer, der Herbst, der Winter."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "der Mädchen",
+          "right": "das Mädchen",
+          "why": "-chen means little and always makes the word neuter. The ending decides, never the person."
+        },
+        {
+          "wrong": "das Wohnung",
+          "right": "die Wohnung",
+          "why": "-ung is feminine without exception, so any word ending in -ung is die."
+        },
+        {
+          "wrong": "der Lehrerin",
+          "right": "die Lehrerin",
+          "why": "-in marks a female person and is always die, even though the base word der Lehrer is masculine."
+        },
+        {
+          "wrong": "Der Fenster ist offen.",
+          "right": "Das Fenster ist offen.",
+          "why": "-er only predicts der for doers like der Fahrer. Everyday objects such as Fenster, Wasser and Messer are neuter."
+        }
+      ],
+      "drills": [
+        {
+          "type": "choice",
+          "question": "___ Wohnung ist neu.",
+          "options": ["Der", "Die", "Das"],
+          "answer": "Die",
+          "explain": "Every noun ending in -ung is feminine, so it takes die."
+        },
+        {
+          "type": "choice",
+          "question": "___ Mädchen heißt Lena.",
+          "options": ["Der", "Die", "Das"],
+          "answer": "Das",
+          "explain": "-chen makes a word neuter whatever it means, and the ending always beats the meaning."
+        },
+        {
+          "type": "fill",
+          "question": "Wo ist ___ Zeitung? (der / die / das)",
+          "answer": "die",
+          "accept": ["die"],
+          "explain": "Zeitung ends in -ung, and that ending is feminine every single time."
+        },
+        {
+          "type": "fill",
+          "question": "Ist ___ Gemüse frisch? (der / die / das)",
+          "answer": "das",
+          "accept": ["das"],
+          "explain": "Nouns that start with Ge- are usually neuter, like das Geschenk and das Geschäft."
+        },
+        {
+          "type": "choice",
+          "question": "Which one is correct?",
+          "options": ["der Museum", "die Museum", "das Museum"],
+          "answer": "das Museum",
+          "explain": "Words ending in -um came from Latin and are neuter, like das Zentrum and das Datum."
+        },
+        {
+          "type": "order",
+          "words": ["Die", "Lehrerin", "kommt", "aus", "Spanien"],
+          "answer": "Die Lehrerin kommt aus Spanien",
+          "explain": "The -in ending makes the female job title feminine, so it is die even though der Lehrer is masculine."
+        },
+        {
+          "type": "choice",
+          "question": "___ Fenster ist kaputt.",
+          "options": ["Der", "Die", "Das"],
+          "answer": "Das",
+          "explain": "-er only means der for doers such as der Fahrer; plain objects like Fenster and Messer are neuter."
+        },
+        {
+          "type": "order",
+          "words": ["Der", "Student", "lernt", "jeden", "Tag", "Deutsch"],
+          "answer": "Der Student lernt jeden Tag Deutsch",
+          "explain": "-ent gives der, and the verb lernt stays in second position no matter how long the sentence gets."
+        }
+      ],
+      "keyWords": ["der", "die", "das"]
+    },
+    {
+      "id": "plural-patterns",
+      "number": 3,
+      "title": "Making nouns plural — the five patterns",
+      "level": "A1",
+      "group": "Nouns",
+      "summary": "Five plural endings, often plus an umlaut — and one genuine relief: in the plural the article is always die.",
+      "rule": "<p><strong>Plural</strong> simply means <em>more than one</em>: one house, two houses. English adds <code>-s</code> and is finished. German has <strong>five</strong> different endings, and often changes the vowel on top of that.</p><p>First the relief, and it is a big one: <strong>in the plural the article is always die.</strong> <code>der Mann</code> becomes <code>die Männer</code>. <code>das Kind</code> becomes <code>die Kinder</code>. <code>die Frau</code> becomes <code>die Frauen</code>. All three genders collapse into one. Gender only exists in the singular — so if you are unsure of an article and the word is plural, you are safe.</p><p>The five endings are <code>-e</code>, <code>-er</code>, <code>-(e)n</code>, <code>-s</code> and <strong>nothing at all</strong>. Very often the vowel also takes an <strong>umlaut</strong> — the two dots in <code>ä ö ü</code>, which change how the vowel sounds: <em>a</em> becomes <em>ä</em> (Mann, Männer), <em>u</em> becomes <em>ü</em> (Stuhl, Stühle), <em>o</em> becomes <em>ö</em> (Sohn, Söhne). Only a, o and u can take the dots.</p><p>There are tendencies you can lean on. Feminine nouns almost always take <code>-(e)n</code> and never take an umlaut. Masculine nouns usually take <code>-e</code>, often with an umlaut. Neuter nouns take <code>-e</code> or <code>-er</code>. Anything borrowed from English or French takes <code>-s</code>: <code>die Autos</code>, <code>die Handys</code>, <code>die Hotels</code>. And nouns that already end in <code>-er</code>, <code>-en</code> or <code>-el</code> usually add nothing at all, so the plural looks exactly like the singular: <code>das Fenster</code> and <code>die Fenster</code>.</p><p>These are tendencies, not laws — so do the same thing you did with the article: <strong>learn the plural as part of the word.</strong> Not <em>Haus</em>, not even <em>das Haus</em>, but <code>das Haus, die Häuser</code>. Two extra seconds now instead of guessing forever. One last trap from Turkish: Turkish says <em>üç ev</em>, literally three house, keeping the noun singular after a number. German never does that. After a number the noun must be plural: <code>drei Häuser</code>.</p>",
+      "tables": [
+        {
+          "title": "The plural article is always die",
+          "headers": ["", "singular", "plural"],
+          "rows": [
+            ["masculine", "der Mann", "die Männer"],
+            ["feminine", "die Frau", "die Frauen"],
+            ["neuter", "das Kind", "die Kinder"]
+          ],
+          "highlight": [[0, 2], [1, 2], [2, 2]]
+        },
+        {
+          "title": "The five plural endings",
+          "headers": ["pattern", "singular", "plural", "English"],
+          "rows": [
+            ["-e", "der Tag", "die Tage", "days"],
+            ["-e + umlaut", "der Stuhl", "die Stühle", "chairs"],
+            ["-er + umlaut", "das Haus", "die Häuser", "houses"],
+            ["-(e)n", "die Frau", "die Frauen", "women"],
+            ["-s", "das Auto", "die Autos", "cars"],
+            ["no ending", "das Fenster", "die Fenster", "windows"],
+            ["no ending + umlaut", "der Vater", "die Väter", "fathers"]
+          ],
+          "highlight": [[3, 2], [5, 2], [6, 2]]
+        },
+        {
+          "title": "Which gender usually takes which plural",
+          "headers": ["gender", "usual plural", "example"],
+          "rows": [
+            ["die (feminine)", "-(e)n, never an umlaut", "die Lampe → die Lampen"],
+            ["der (masculine)", "-e, often with umlaut", "der Sohn → die Söhne"],
+            ["das (neuter)", "-e or -er, often with umlaut", "das Buch → die Bücher"],
+            ["foreign words", "-s", "das Handy → die Handys"]
+          ],
+          "highlight": [[0, 1]]
+        }
+      ],
+      "examples": [
+        {
+          "de": "Ich habe zwei Kinder.",
+          "en": "I have two children.",
+          "note": "das Kind becomes die Kinder — the -er group, and the article changes to die."
+        },
+        {
+          "de": "Die Stühle sind neu.",
+          "en": "The chairs are new.",
+          "note": "der Stuhl becomes die Stühle: the ending -e plus an umlaut, u to ü."
+        },
+        {
+          "de": "Wir haben drei Autos.",
+          "en": "We have three cars.",
+          "note": "Auto came from another language, so it takes -s, just like in English."
+        },
+        {
+          "de": "Die Fenster sind offen.",
+          "en": "The windows are open.",
+          "note": "das Fenster becomes die Fenster — no ending at all. Only the article die tells you there is more than one."
+        },
+        {
+          "de": "Meine Eltern wohnen in Hamburg.",
+          "en": "My parents live in Hamburg.",
+          "note": "A few words only exist in the plural: die Eltern (parents), die Leute (people), die Ferien (holidays)."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "Das Kinder spielen im Park.",
+          "right": "Die Kinder spielen im Park.",
+          "why": "In the plural every noun takes die, whatever its article was in the singular."
+        },
+        {
+          "wrong": "Ich habe zwei Kind.",
+          "right": "Ich habe zwei Kinder.",
+          "why": "Turkish leaves the noun singular after a number (üç ev). German always marks the plural, even when the number already says how many."
+        },
+        {
+          "wrong": "Ich sehe drei Mans.",
+          "right": "Ich sehe drei Männer.",
+          "why": "-s only belongs to foreign words like Auto and Handy. Most German nouns use -e, -er or -(e)n instead."
+        },
+        {
+          "wrong": "Die Fensters sind offen.",
+          "right": "Die Fenster sind offen.",
+          "why": "Nouns already ending in -er, -en or -el usually add nothing, so singular and plural look identical."
+        }
+      ],
+      "drills": [
+        {
+          "type": "choice",
+          "question": "___ Kinder spielen im Park.",
+          "options": ["Der", "Die", "Das"],
+          "answer": "Die",
+          "explain": "Every plural noun takes die, so the singular gender no longer matters."
+        },
+        {
+          "type": "choice",
+          "question": "der Stuhl → ?",
+          "options": ["die Stuhle", "die Stühle", "die Stuhls"],
+          "answer": "die Stühle",
+          "explain": "Masculine nouns commonly add -e and change the vowel to an umlaut at the same time."
+        },
+        {
+          "type": "fill",
+          "question": "Ich habe zwei ___. (das Kind)",
+          "answer": "Kinder",
+          "accept": ["Kinder"],
+          "explain": "German must show the plural on the noun after a number, unlike Turkish."
+        },
+        {
+          "type": "fill",
+          "question": "Wir haben drei ___. (das Auto)",
+          "answer": "Autos",
+          "accept": ["Autos"],
+          "explain": "Auto is a borrowed word, and borrowed words take -s."
+        },
+        {
+          "type": "choice",
+          "question": "das Fenster → ?",
+          "options": ["die Fensters", "die Fenstere", "die Fenster"],
+          "answer": "die Fenster",
+          "explain": "Nouns ending in -er usually add nothing, so only the article shows that it is plural."
+        },
+        {
+          "type": "order",
+          "words": ["Die", "Häuser", "in", "Berlin", "sind", "teuer"],
+          "answer": "Die Häuser in Berlin sind teuer",
+          "explain": "das Haus takes -er plus an umlaut, and every plural noun switches to the article die."
+        },
+        {
+          "type": "choice",
+          "question": "die Lampe → ?",
+          "options": ["die Lampen", "die Lampe", "die Lämpen"],
+          "answer": "die Lampen",
+          "explain": "Feminine nouns almost always add -n or -en and never take an umlaut."
+        },
+        {
+          "type": "order",
+          "words": ["Meine", "zwei", "Schwestern", "wohnen", "in", "Hamburg"],
+          "answer": "Meine zwei Schwestern wohnen in Hamburg",
+          "explain": "die Schwester adds -n in the plural, and the verb still stands in second position."
+        }
+      ],
+      "keyWords": ["die", "der", "das"]
+    }
+  ]
+}

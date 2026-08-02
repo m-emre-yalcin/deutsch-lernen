@@ -1,0 +1,466 @@
+{
+  "lessons": [
+    {
+      "id": "definite-indefinite",
+      "number": 4,
+      "title": "der/die/das and ein/eine — \"the\" and \"a\"",
+      "level": "A0",
+      "group": "Basics",
+      "summary": "German never lets a noun stand alone: it needs \"the\" or \"a\" in front — except in the plural, where \"a\" simply does not exist.",
+      "rule": "<p>Turkish has no word for <em>the</em> and no word for <em>a</em>. German has six of them, and you cannot leave them out. Almost every German noun walks around with one of these little words in front of it.</p><p><strong>Every noun has a gender.</strong> This is not about male and female in any real sense — it is a label glued to the word, and you learn it together with the word. Masculine nouns take <code>der</code>, feminine nouns take <code>die</code>, neuter nouns take <code>das</code>. So never learn <em>Tisch</em>. Learn <em>der Tisch</em>.</p><p><strong>der/die/das means \"the\"</strong> — the one we both already know about. <strong>ein/eine means \"a\"</strong> — any one of them, or one you are mentioning for the first time. <code>Da ist ein Café.</code> (you don't know it yet) becomes <code>Das Café ist neu.</code> (now you do).</p><p><strong>Two traps for you.</strong> First: <code>eine</code> is <em>only</em> for feminine nouns. Masculine and neuter both use plain <code>ein</code> — <em>ein Mann</em>, <em>ein Kind</em>. Second, and bigger: <strong>ein has no plural form at all.</strong> There is no \"eine Bücher\". The plural of <em>ein Buch</em> is simply <code>Bücher</code>, with nothing in front of it.</p><p>The plural is the one easy part of the whole system: <strong>every</strong> plural noun takes <code>die</code> as its \"the\", whatever gender it had in the singular. <em>der Mann → die Männer</em>, <em>das Kind → die Kinder</em>, <em>die Lampe → die Lampen</em>.</p>",
+      "tables": [
+        {
+          "title": "\"the\" — der / die / das",
+          "headers": ["", "masculine", "feminine", "neuter", "plural"],
+          "rows": [
+            ["the", "der", "die", "das", "die"],
+            ["example", "der Tisch", "die Lampe", "das Buch", "die Bücher"]
+          ],
+          "highlight": [[0, 4], [1, 4]]
+        },
+        {
+          "title": "\"a\" — ein / eine",
+          "headers": ["", "masculine", "feminine", "neuter", "plural"],
+          "rows": [
+            ["a", "ein", "eine", "ein", "— none —"],
+            ["example", "ein Tisch", "eine Lampe", "ein Buch", "Bücher"]
+          ],
+          "highlight": [[0, 2], [0, 4], [1, 4]]
+        },
+        {
+          "title": "Same noun: first mention, then after that",
+          "headers": ["", "first time (a)", "after that (the)"],
+          "rows": [
+            ["masculine", "ein Tisch", "der Tisch"],
+            ["feminine", "eine Lampe", "die Lampe"],
+            ["neuter", "ein Buch", "das Buch"],
+            ["plural", "Bücher", "die Bücher"]
+          ],
+          "highlight": [[3, 1]]
+        }
+      ],
+      "examples": [
+        {
+          "de": "Da ist ein Café. Das Café ist neu.",
+          "en": "There's a café. The café is new.",
+          "note": "First mention → ein. Second mention, we both know which one → das."
+        },
+        {
+          "de": "Ich habe eine Frage.",
+          "en": "I have a question.",
+          "note": "Frage is feminine, so it gets eine. You will say this sentence a lot at work."
+        },
+        {
+          "de": "Der Mann dort ist mein Nachbar.",
+          "en": "The man over there is my neighbour.",
+          "note": "Mann is masculine → der. \"dort\" shows we mean one specific man, so it's definite."
+        },
+        {
+          "de": "Ich kaufe Äpfel.",
+          "en": "I'm buying apples.",
+          "note": "Plural with no article at all. \"eine Äpfel\" does not exist in German."
+        },
+        {
+          "de": "Die Bücher sind teuer.",
+          "en": "The books are expensive.",
+          "note": "Every plural takes die, even though the singular is das Buch."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "Ich habe eine Auto.",
+          "right": "Ich habe ein Auto.",
+          "why": "Auto is neuter (das Auto), and neuter takes plain ein. Only feminine nouns get eine."
+        },
+        {
+          "wrong": "Ich kaufe eine Äpfel.",
+          "right": "Ich kaufe Äpfel.",
+          "why": "ein/eine has no plural form. In the plural you use no article at all."
+        },
+        {
+          "wrong": "Wo ist Bahnhof?",
+          "right": "Wo ist der Bahnhof?",
+          "why": "Turkish has no articles, so dropping them feels natural. In German a countable noun almost always needs der/die/das or ein/eine in front of it."
+        },
+        {
+          "wrong": "Das ist der Handy.",
+          "right": "Das ist das Handy.",
+          "why": "Gender belongs to the word, not to the object. You have to memorise Handy together with das."
+        }
+      ],
+      "drills": [
+        {
+          "type": "choice",
+          "question": "___ Mann ist mein Nachbar.",
+          "options": ["Der", "Die", "Das"],
+          "answer": "Der",
+          "explain": "Mann is a masculine noun, and masculine \"the\" is der."
+        },
+        {
+          "type": "choice",
+          "question": "Ich habe ___ Frage.",
+          "options": ["ein", "eine", "einen"],
+          "answer": "eine",
+          "explain": "Frage is feminine, and feminine is the only gender that takes eine."
+        },
+        {
+          "type": "fill",
+          "question": "Das ist ___ Auto. (a — das Auto)",
+          "answer": "ein",
+          "accept": ["ein", "Ein"],
+          "explain": "Neuter uses the same short form as masculine, so it is ein and never eine."
+        },
+        {
+          "type": "order",
+          "words": ["Das", "Buch", "ist", "neu"],
+          "answer": "Das Buch ist neu",
+          "explain": "The article sits directly in front of its noun, and the verb takes second position."
+        },
+        {
+          "type": "choice",
+          "question": "Which sentence is correct?",
+          "options": ["Ich kaufe Äpfel.", "Ich kaufe eine Äpfel.", "Ich kaufe ein Äpfel."],
+          "answer": "Ich kaufe Äpfel.",
+          "explain": "There is no plural of ein, so a plural noun mentioned for the first time gets nothing in front of it."
+        },
+        {
+          "type": "fill",
+          "question": "Da ist ein Café. ___ Café ist neu. (the)",
+          "answer": "Das",
+          "accept": ["Das", "das"],
+          "explain": "On the second mention we both know which café, so it switches from ein to the definite article."
+        },
+        {
+          "type": "choice",
+          "question": "___ Bücher sind teuer.",
+          "options": ["Der", "Die", "Das"],
+          "answer": "Die",
+          "explain": "All plurals take die, no matter what the singular gender was."
+        },
+        {
+          "type": "order",
+          "words": ["Ich", "suche", "eine", "Wohnung", "in", "Berlin"],
+          "answer": "Ich suche eine Wohnung in Berlin",
+          "explain": "Wohnung is feminine and you have not named a specific one yet, so it is eine."
+        }
+      ],
+      "keyWords": ["der", "die", "das", "ein", "eine"]
+    },
+    {
+      "id": "kein-nicht",
+      "number": 5,
+      "title": "Saying no: kein vs nicht",
+      "level": "A1",
+      "group": "Basics",
+      "summary": "German has two words for \"not\": kein cancels a noun, nicht cancels everything else — and nicht has its own place in the sentence.",
+      "rule": "<p>In Turkish you glue the negative onto the verb (<em>gelmiyorum</em>) or add <em>değil</em>. German makes you pick between two different words: <code>kein</code> and <code>nicht</code>. Picking the wrong one is the single most common beginner mistake there is.</p><p><strong><code>kein</code> cancels a noun.</strong> A noun is a thing-word: <em>Auto</em>, <em>Zeit</em>, <em>Geld</em>, <em>Hunger</em>. Here is the test: look at what stands in front of the noun. If it is <code>ein</code>/<code>eine</code>, or if there is <strong>nothing</strong> there, use <code>kein</code>. <em>Ich habe ein Auto</em> → <em>Ich habe kein Auto.</em> <em>Ich habe Zeit</em> → <em>Ich habe keine Zeit.</em> <code>kein</code> takes exactly the same endings as <code>ein</code>.</p><p><strong><code>nicht</code> cancels everything else</strong> — verbs (<em>Ich fahre nicht</em>), adjectives, which are describing words like <em>teuer</em> or <em>müde</em> (<em>nicht teuer</em>), places (<em>nicht in Berlin</em>), names (<em>Das ist nicht Emre</em>), and any noun that already has <code>der/die/das</code> or <code>mein/dein</code> in front of it. That slot is taken, so <code>kein</code> cannot get in.</p><p><strong>Where does nicht stand?</strong> Directly in front of whatever it is aiming at: before an adjective, before a place, before a second verb at the end of the sentence. If there is nothing to aim at, it drops to the very end: <code>Ich arbeite heute nicht.</code> It never goes between the subject and the verb.</p><p>One thing early, because you will need it every day: when the noun is the <em>thing being acted on</em>, masculine <code>kein</code> becomes <code>keinen</code> — <code>Ich habe keinen Hunger.</code> Feminine, neuter and plural stay unchanged. The case lessons will explain why; for now just learn the phrase.</p>",
+      "tables": [
+        {
+          "title": "kein takes the same endings as ein",
+          "headers": ["", "masculine", "feminine", "neuter", "plural"],
+          "rows": [
+            ["a", "ein", "eine", "ein", "— none —"],
+            ["not a / no", "kein", "keine", "kein", "keine"]
+          ],
+          "highlight": [[1, 4]]
+        },
+        {
+          "title": "Which word do I use?",
+          "headers": ["What stands in front of the noun", "Use", "Example"],
+          "rows": [
+            ["ein / eine", "kein", "Ich habe kein Auto."],
+            ["nothing at all", "kein", "Ich habe keine Zeit."],
+            ["der / die / das", "nicht", "Ich kenne den Mann nicht."],
+            ["mein / dein / sein", "nicht", "Das ist nicht mein Auto."],
+            ["no noun — a verb or adjective", "nicht", "Ich arbeite heute nicht."]
+          ],
+          "highlight": [[1, 1], [3, 1]]
+        },
+        {
+          "title": "Where nicht goes",
+          "headers": ["Situation", "Position", "Example"],
+          "rows": [
+            ["Nothing specific to aim at", "at the very end", "Ich arbeite heute nicht."],
+            ["An adjective", "directly before it", "Die Wohnung ist nicht teuer."],
+            ["A place", "directly before it", "Ich fahre nicht nach Berlin."],
+            ["A second verb at the end", "directly before it", "Ich kann heute nicht kommen."]
+          ],
+          "highlight": [[0, 1]]
+        }
+      ],
+      "examples": [
+        {
+          "de": "Ich habe kein Auto.",
+          "en": "I don't have a car.",
+          "note": "You could have said \"ein Auto\", so the negative word is kein."
+        },
+        {
+          "de": "Ich habe keine Zeit.",
+          "en": "I don't have time.",
+          "note": "Zeit had no article in front of it, and that is still kein territory. Zeit is feminine → keine."
+        },
+        {
+          "de": "Ich arbeite heute nicht.",
+          "en": "I'm not working today.",
+          "note": "There is no noun to cancel, so nicht falls to the end of the sentence."
+        },
+        {
+          "de": "Die Wohnung ist nicht teuer.",
+          "en": "The apartment isn't expensive.",
+          "note": "nicht stands right in front of the describing word it cancels."
+        },
+        {
+          "de": "Das ist nicht mein Fahrrad.",
+          "en": "That's not my bike.",
+          "note": "mein already fills the slot in front of the noun, so kein is impossible here."
+        },
+        {
+          "de": "Ich habe keinen Hunger.",
+          "en": "I'm not hungry.",
+          "note": "Hunger is masculine and is the thing being had, so kein takes the extra -en."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "Ich habe nicht Zeit.",
+          "right": "Ich habe keine Zeit.",
+          "why": "Zeit is a noun with nothing in front of it — exactly the situation kein is made for. This is the most frequent negation error of all."
+        },
+        {
+          "wrong": "Das ist kein mein Auto.",
+          "right": "Das ist nicht mein Auto.",
+          "why": "A noun gets only one word in front of it. mein is already there, so you must negate with nicht."
+        },
+        {
+          "wrong": "Ich nicht arbeite heute.",
+          "right": "Ich arbeite heute nicht.",
+          "why": "nicht never squeezes in between the subject and the verb. The verb stays in second position and nicht goes to the end."
+        },
+        {
+          "wrong": "Ich fahre nach Berlin nicht.",
+          "right": "Ich fahre nicht nach Berlin.",
+          "why": "When there is a place in the sentence, nicht goes in front of it. Only with nothing to aim at does nicht land at the very end."
+        }
+      ],
+      "drills": [
+        {
+          "type": "choice",
+          "question": "Ich habe ___ Auto.",
+          "options": ["nicht", "kein", "keine"],
+          "answer": "kein",
+          "explain": "Auto is a noun that could have taken ein, so it is cancelled with kein — and neuter adds no ending."
+        },
+        {
+          "type": "choice",
+          "question": "Ich habe ___ Zeit.",
+          "options": ["nicht", "kein", "keine"],
+          "answer": "keine",
+          "explain": "A bare noun with no article still belongs to kein, and Zeit is feminine so it takes -e."
+        },
+        {
+          "type": "choice",
+          "question": "Das ist ___ mein Handy.",
+          "options": ["kein", "keine", "nicht"],
+          "answer": "nicht",
+          "explain": "mein is already sitting in front of the noun, which blocks kein completely."
+        },
+        {
+          "type": "fill",
+          "question": "Ich arbeite heute ___. (not)",
+          "answer": "nicht",
+          "accept": ["nicht"],
+          "explain": "There is no adjective, place or noun to aim at, so nicht goes to the end."
+        },
+        {
+          "type": "order",
+          "words": ["Die", "Wohnung", "ist", "nicht", "teuer"],
+          "answer": "Die Wohnung ist nicht teuer",
+          "explain": "nicht stands immediately before the describing word it cancels, not after it."
+        },
+        {
+          "type": "choice",
+          "question": "Danke, ich habe ___ Hunger.",
+          "options": ["kein", "keinen", "nicht"],
+          "answer": "keinen",
+          "explain": "Hunger is masculine and it is the thing being had, which is where kein grows the ending -en."
+        },
+        {
+          "type": "order",
+          "words": ["Ich", "fahre", "nicht", "nach", "Berlin"],
+          "answer": "Ich fahre nicht nach Berlin",
+          "explain": "A place phrase pulls nicht in front of it instead of leaving it at the end."
+        },
+        {
+          "type": "fill",
+          "question": "Ich kann heute ___ kommen. (not)",
+          "answer": "nicht",
+          "accept": ["nicht"],
+          "explain": "When a second verb waits at the end of the sentence, nicht slots in just before it."
+        }
+      ],
+      "keyWords": ["kein", "keine", "keinen"]
+    },
+    {
+      "id": "personal-pronouns",
+      "number": 6,
+      "title": "ich, du, er, sie, es — and Sie",
+      "level": "A0",
+      "group": "Basics",
+      "summary": "The words for I, you, he, she, it, we and they — plus the du/Sie choice that Germans genuinely notice.",
+      "rule": "<p>A <strong>pronoun</strong> is a short stand-in word so you don't have to repeat a name. Instead of <em>Emre kommt aus der Türkei</em> you say <em>er kommt aus der Türkei</em>. These are the subject pronouns: the person or thing <em>doing</em> the action.</p><p><strong>Careful with <code>es</code>.</strong> English says \"it\" for every object. German does not — it follows the noun's gender instead. <em>Wo ist der Schlüssel? — <strong>Er</strong> ist hier.</em> <em>Wo ist die Rechnung? — <strong>Sie</strong> ist hier.</em> Only <code>das</code>-nouns turn into <code>es</code>.</p><p><strong>Three different sie.</strong> <code>sie</code> = she, <code>sie</code> = they, <code>Sie</code> = formal you. The formal one is <em>always</em> written with a capital S, even in the middle of a sentence. Apart from that, the verb ending tells you which is which: <em>sie wohnt</em> (she), <em>sie wohnen</em> (they), <em>Sie wohnen</em> (you, formal). Spoken aloud, <em>sie wohnen</em> and <em>Sie wohnen</em> sound identical — only the situation tells you.</p><p><strong>du or Sie?</strong> Turkish has sen and siz, so the idea is familiar, but Germany draws the line harder and keeps it much longer. <code>Sie</code> is the safe default with anyone you don't know: shop staff, waiters, your landlord, the Bürgeramt, a doctor, an older neighbour, a new colleague in a traditional company. <code>du</code> is for friends, family, children, teenagers, students — and most IT teams, where du is normal from the first day.</p><p>Do not switch to <code>du</code> on your own. The offer comes from the older or more senior person (<em>Wir können uns duzen</em> or <em>Sag doch du</em>), and then you take it. Using <code>du</code> too early is one of the very few language mistakes Germans really do react to.</p>",
+      "tables": [
+        {
+          "title": "The personal pronouns (subject form)",
+          "headers": ["German", "English", "with wohnen"],
+          "rows": [
+            ["ich", "I", "ich wohne"],
+            ["du", "you — one person you know well", "du wohnst"],
+            ["er", "he / it (a der-noun)", "er wohnt"],
+            ["sie", "she / it (a die-noun)", "sie wohnt"],
+            ["es", "it (a das-noun)", "es wohnt"],
+            ["wir", "we", "wir wohnen"],
+            ["ihr", "you — several people you know well", "ihr wohnt"],
+            ["sie", "they", "sie wohnen"],
+            ["Sie", "you — formal, one person or many", "Sie wohnen"]
+          ],
+          "highlight": [[3, 0], [7, 0], [8, 0]]
+        },
+        {
+          "title": "Telling the three sie apart",
+          "headers": ["Form", "Means", "Verb", "Example"],
+          "rows": [
+            ["sie", "she", "wohnt", "Wo wohnt sie?"],
+            ["sie", "they", "wohnen", "Wo wohnen sie?"],
+            ["Sie", "you (formal)", "wohnen", "Wo wohnen Sie?"]
+          ],
+          "highlight": [[2, 0], [2, 3]]
+        },
+        {
+          "title": "du or Sie in real life",
+          "headers": ["Who you're talking to", "Say", "Why"],
+          "rows": [
+            ["A stranger, shop staff, a waiter", "Sie", "Default for anyone you don't know."],
+            ["Bürgeramt, bank, doctor, landlord", "Sie", "Officials and services — always Sie."],
+            ["An older neighbour in the building", "Sie", "Wait to be offered du."],
+            ["A new colleague in a classic company", "Sie", "Until someone offers du."],
+            ["Your dev team in a tech company", "du", "Most IT workplaces are du from day one."],
+            ["Friends, family, children, students", "du", "Sie here would sound cold."],
+            ["Someone who says \"Sag doch du\"", "du", "That is the offer. Accept it and switch."]
+          ],
+          "highlight": [[4, 1], [6, 1]]
+        }
+      ],
+      "examples": [
+        {
+          "de": "Ich heiße Emre und ich komme aus der Türkei.",
+          "en": "My name is Emre and I come from Turkey.",
+          "note": "ich is written small in the middle of a sentence, unlike English \"I\"."
+        },
+        {
+          "de": "Wo wohnen Sie?",
+          "en": "Where do you live?",
+          "note": "To a stranger or an official: capital S, verb ending -en."
+        },
+        {
+          "de": "Wo wohnst du?",
+          "en": "Where do you live?",
+          "note": "The same question to a friend. du has its own verb ending, -st."
+        },
+        {
+          "de": "Wo ist der Schlüssel? — Er ist hier.",
+          "en": "Where is the key? — It's here.",
+          "note": "Schlüssel is a der-noun, so it becomes er. German follows gender, not the English \"it\"."
+        },
+        {
+          "de": "Sie arbeitet in München.",
+          "en": "She works in Munich.",
+          "note": "The -t ending shows this is one person: she, not they."
+        },
+        {
+          "de": "Kommt ihr auch?",
+          "en": "Are you coming too?",
+          "note": "ihr is for two or more people you would each call du — a couple of friends, for example."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "Wie heißt du? — to the clerk at the Bürgeramt",
+          "right": "Wie heißen Sie? — to the clerk at the Bürgeramt",
+          "why": "du with a stranger or an official sounds rude in Germany, even when you mean it warmly. Start with Sie every time."
+        },
+        {
+          "wrong": "Ich komme aus der Türkei und Ich wohne in Berlin.",
+          "right": "Ich komme aus der Türkei und ich wohne in Berlin.",
+          "why": "German capitalises nouns, not ich. The only pronoun with a capital letter mid-sentence is formal Sie."
+        },
+        {
+          "wrong": "Wo ist die Rechnung? Es ist auf dem Tisch.",
+          "right": "Wo ist die Rechnung? Sie ist auf dem Tisch.",
+          "why": "English uses \"it\" for every object; German picks er, sie or es from the noun's gender. Rechnung is a die-noun, so it is sie."
+        },
+        {
+          "wrong": "Meine Kollegen sind nett. Sie wohnt in Berlin.",
+          "right": "Meine Kollegen sind nett. Sie wohnen in Berlin.",
+          "why": "sie meaning \"they\" always takes the -en ending. The verb ending, not the pronoun, tells people how many."
+        }
+      ],
+      "drills": [
+        {
+          "type": "choice",
+          "question": "___ heiße Emre.",
+          "options": ["Ich", "Du", "Er"],
+          "answer": "Ich",
+          "explain": "The verb ending -e on heiße belongs to ich and to nobody else."
+        },
+        {
+          "type": "choice",
+          "question": "Wie heißen ___? (you're at the Bürgeramt)",
+          "options": ["du", "Sie", "ihr"],
+          "answer": "Sie",
+          "explain": "An official you have never met always gets the formal Sie."
+        },
+        {
+          "type": "choice",
+          "question": "Wo wohnst ___? (your friend Ali)",
+          "options": ["du", "Sie", "ihr"],
+          "answer": "du",
+          "explain": "The verb ending -st only ever pairs with du, and a friend gets du anyway."
+        },
+        {
+          "type": "fill",
+          "question": "Wo ist der Schlüssel? ___ ist hier. (it)",
+          "answer": "Er",
+          "accept": ["Er", "er"],
+          "explain": "Schlüssel is a der-noun, so the stand-in word is er even though English says \"it\"."
+        },
+        {
+          "type": "fill",
+          "question": "Wo ist die Rechnung? ___ ist auf dem Tisch. (it)",
+          "answer": "Sie",
+          "accept": ["Sie", "sie"],
+          "explain": "A die-noun is replaced by sie — gender decides the pronoun, not whether it's a person."
+        },
+        {
+          "type": "order",
+          "words": ["Wir", "wohnen", "in", "Berlin"],
+          "answer": "Wir wohnen in Berlin",
+          "explain": "wir takes the -en ending, and the verb stays in second position."
+        },
+        {
+          "type": "order",
+          "words": ["Können", "Sie", "mir", "helfen"],
+          "answer": "Können Sie mir helfen",
+          "explain": "In a question the verb comes first, and formal Sie keeps its capital letter and its -en ending."
+        },
+        {
+          "type": "choice",
+          "question": "Meine Kollegen sind nett. ___ kommen aus Hamburg.",
+          "options": ["Sie", "Er", "Es"],
+          "answer": "Sie",
+          "explain": "Several people means \"they\", which is sie — capitalised here only because it starts the sentence."
+        }
+      ],
+      "keyWords": ["ich", "du", "er", "sie-singular", "es", "wir", "ihr-nominativ", "sie-plural", "sie-formal"]
+    }
+  ]
+}

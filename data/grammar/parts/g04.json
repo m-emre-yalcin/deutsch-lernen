@@ -1,0 +1,213 @@
+{
+  "lessons": [
+    {
+      "id": "modal-verbs",
+      "number": 10,
+      "title": "können, müssen, dürfen, sollen, wollen, mögen",
+      "level": "A1",
+      "group": "Verbs",
+      "summary": "The six helper verbs for can, must, may, should, want and like — and why the real verb waits at the end of the sentence.",
+      "rule": "<p>A <strong>modal verb</strong> is a helper verb. It does not say what happens — it says how you stand towards what happens: I <em>can</em> do it, I <em>have to</em> do it, I <em>want</em> to do it. German has six of them, and they are among the most used words in the language.</p><p>The structure never changes. The modal verb sits in <strong>slot 2</strong> of the sentence and it is the one that takes the ending for ich / du / er. The real verb goes to the <strong>very end</strong> in its <strong>infinitive</strong> — the plain dictionary form that ends in <code>-en</code> (<code>arbeiten</code>, <code>gehen</code>, <code>trinken</code>). The infinitive never changes. <code>Ich muss heute arbeiten.</code> English keeps the two verbs together (\"I must work today\"); German pulls them apart, so you have to hold the second verb in your head until the end.</p><p>Two forms look wrong but are correct: <strong>ich</strong> and <strong>er / sie / es</strong> are <em>identical</em> and take <strong>no ending at all</strong> — <code>ich kann</code>, <code>er kann</code>; <code>ich muss</code>, <code>sie muss</code>; <code>ich darf</code>, <code>es darf</code>. Adding a <code>-t</code> or an <code>-e</code> here is the classic beginner slip.</p><p><strong>The difference that matters in real life:</strong> <code>Ich muss nicht arbeiten</code> means I <em>don't have to</em> work — nobody is forcing me, wonderful. <code>Ich darf nicht arbeiten</code> means I am <em>not allowed</em> to work — it is forbidden, a problem. English \"I must not\" means the second one, so translating word for word flips your meaning into the opposite. When you want to say something is banned, reach for <strong>dürfen + nicht</strong>.</p><p>Finally, <code>möchten</code> (\"would like\") is the polite branch of mögen and the normal way to ask for anything in a shop, a bakery or an office: <code>ich möchte, du möchtest, er möchte, wir möchten, ihr möchtet, sie möchten</code>. <code>Ich möchte einen Kaffee, bitte.</code> <code>Ich will einen Kaffee</code> is correct German but lands like a demand.</p>",
+      "tables": [
+        {
+          "title": "All six, fully conjugated",
+          "headers": ["", "können", "müssen", "dürfen", "sollen", "wollen", "mögen"],
+          "rows": [
+            ["ich", "kann", "muss", "darf", "soll", "will", "mag"],
+            ["du", "kannst", "musst", "darfst", "sollst", "willst", "magst"],
+            ["er / sie / es", "kann", "muss", "darf", "soll", "will", "mag"],
+            ["wir", "können", "müssen", "dürfen", "sollen", "wollen", "mögen"],
+            ["ihr", "könnt", "müsst", "dürft", "sollt", "wollt", "mögt"],
+            ["sie / Sie", "können", "müssen", "dürfen", "sollen", "wollen", "mögen"]
+          ],
+          "highlight": [[0, 1], [0, 2], [0, 3], [0, 4], [0, 5], [0, 6], [2, 1], [2, 2], [2, 3], [2, 4], [2, 5], [2, 6]]
+        },
+        {
+          "title": "What each one means",
+          "headers": ["Verb", "Meaning", "Example"],
+          "rows": [
+            ["können", "can, be able to", "Ich kann schwimmen."],
+            ["müssen", "must, have to", "Ich muss zur Arbeit gehen."],
+            ["dürfen", "be allowed to", "Darf ich hier sitzen?"],
+            ["sollen", "should, be supposed to", "Du sollst mehr schlafen."],
+            ["wollen", "want to", "Er will nach Berlin fahren."],
+            ["mögen", "like", "Ich mag Kaffee."]
+          ],
+          "highlight": []
+        },
+        {
+          "title": "müssen + nicht is NOT dürfen + nicht",
+          "headers": ["German", "English", "What it means for you"],
+          "rows": [
+            ["Ich muss arbeiten.", "I have to work.", "There is an obligation."],
+            ["Ich muss nicht arbeiten.", "I don't have to work.", "The obligation is gone. You are free."],
+            ["Ich darf arbeiten.", "I am allowed to work.", "You have permission."],
+            ["Ich darf nicht arbeiten.", "I am not allowed to work.", "It is forbidden."]
+          ],
+          "highlight": [[1, 0], [3, 0]]
+        }
+      ],
+      "examples": [
+        { "de": "Ich kann leider nicht kommen.", "en": "Unfortunately I can't come.", "note": "kann carries the ending, kommen stays in its dictionary form at the very end." },
+        { "de": "Wir müssen um acht Uhr am Bahnhof sein.", "en": "We have to be at the station at eight.", "note": "Even sein goes to the end as an infinitive. Everything else squeezes in before it." },
+        { "de": "Hier darf man nicht parken.", "en": "You're not allowed to park here.", "note": "darf nicht = forbidden. This is the sentence on half the signs in Germany." },
+        { "de": "Du musst nicht warten.", "en": "You don't have to wait.", "note": "musst nicht cancels the duty — it is not a ban. You may wait if you like." },
+        { "de": "Ich möchte einen Termin, bitte.", "en": "I'd like an appointment, please.", "note": "möchten is the standard polite request at any counter or office." },
+        { "de": "Am Wochenende will er lange schlafen.", "en": "At the weekend he wants to sleep in.", "note": "The sentence starts with a time, so the modal stays in slot 2 and er moves behind it." }
+      ],
+      "mistakes": [
+        { "wrong": "Ich kann sprechen Deutsch.", "right": "Ich kann Deutsch sprechen.", "why": "English keeps the two verbs together, German does not. The second verb is always the last word — objects, times and places all come before it." },
+        { "wrong": "Ich muss nicht rauchen. (meaning: smoking is forbidden)", "right": "Ich darf nicht rauchen.", "why": "müssen + nicht only removes an obligation. To say something is not allowed you need dürfen + nicht, otherwise you have said the opposite of what you meant." },
+        { "wrong": "Er kannt gut kochen.", "right": "Er kann gut kochen.", "why": "Modal verbs take no ending for ich and er/sie/es — those two forms are identical and bare." },
+        { "wrong": "Ich will ein Bier. (to a waiter)", "right": "Ich möchte ein Bier, bitte.", "why": "wollen is a blunt 'I want'. In shops, restaurants and offices Germans use möchten — it is the normal register, not extra formality." }
+      ],
+      "drills": [
+        { "type": "choice", "question": "Ich ___ heute nicht arbeiten. (können)", "options": ["kann", "kanne", "könne"], "answer": "kann", "explain": "The ich form of a modal verb takes no ending at all — that is what makes this group special." },
+        { "type": "choice", "question": "Er ___ um sechs Uhr aufstehen. (müssen)", "options": ["muss", "musst", "müsst"], "answer": "muss", "explain": "For er/sie/es a modal looks exactly like the ich form, so there is no -t on the end." },
+        { "type": "fill", "question": "Wir ___ hier nicht parken. (dürfen)", "answer": "dürfen", "accept": ["dürfen", "duerfen"], "explain": "For wir the modal goes back to the plain infinitive form, so it looks like the dictionary entry." },
+        { "type": "order", "words": ["Ich", "möchte", "einen", "Kaffee", "trinken"], "answer": "Ich möchte einen Kaffee trinken", "explain": "The modal takes slot 2 and the second verb is pushed all the way to the end, behind the object." },
+        { "type": "choice", "question": "There is a no-smoking sign. Which sentence tells someone smoking is FORBIDDEN?", "options": ["Ich muss nicht rauchen.", "Ich darf nicht rauchen.", "Ich will nicht rauchen."], "answer": "Ich darf nicht rauchen.", "explain": "Only dürfen + nicht expresses a ban; müssen + nicht just means there is no obligation." },
+        { "type": "fill", "question": "Es ist Samstag. Ich ___ nicht arbeiten. (= I don't have to)", "answer": "muss", "accept": ["muss"], "explain": "'Not having to' is the absence of duty, which is exactly what müssen + nicht expresses." },
+        { "type": "order", "words": ["Kannst", "du", "mir", "helfen"], "answer": "Kannst du mir helfen", "explain": "In a yes/no question the modal jumps to the front, but the second verb still waits at the end." },
+        { "type": "order", "words": ["Am", "Wochenende", "will", "er", "lange", "schlafen"], "answer": "Am Wochenende will er lange schlafen", "explain": "Starting with a time expression pushes the subject behind the modal, because the modal must stay in slot 2." }
+      ],
+      "keyWords": ["koennen", "muessen", "duerfen", "sollen", "wollen", "moegen", "arbeiten"]
+    },
+    {
+      "id": "nominativ",
+      "number": 11,
+      "title": "Nominativ — the subject",
+      "level": "A0",
+      "group": "Cases",
+      "summary": "German labels a noun's job in the sentence. Nominativ is the label for the doer — and it is the form you already learned.",
+      "rule": "<p>Every noun in a sentence has a <strong>job</strong>: it is doing something, or something is being done to it, or something is being given to it. German <em>labels</em> that job, and the label system is called <strong>case</strong>. Turkish does this with endings glued onto the noun (<em>ev</em>, <em>evi</em>, <em>eve</em>). German does it differently: it leaves the noun alone and changes the <strong>little word in front of it</strong> — der, die, das, ein, mein.</p><p>There are four cases. This is the first and by far the easiest: <strong>Nominativ</strong>. It marks the <strong>subject</strong> — the person or thing that is <em>doing</em> the verb. To find it, ask one question: <strong>who or what is doing this?</strong> In <code>Der Zug kommt um acht.</code> — who or what is coming? The train. So <em>der Zug</em> is nominative.</p><p>The best news in this whole topic: the nominative is the <strong>dictionary form</strong>. When you learn <em>der Tisch</em>, <em>die Lampe</em>, <em>das Fenster</em>, you have already learned the nominative. There is nothing extra to change.</p><p>German also insists that the subject is actually <em>said</em>. Turkish can drop it (<em>geliyorum</em>); German cannot — <code>Ich komme.</code> keeps the <code>ich</code>, always. And when nothing is really doing anything, German still puts a placeholder in the slot: <code>Es regnet.</code> <code>Es ist kalt.</code></p><p>One thing surprises everybody: after <code>sein</code> (to be), <code>werden</code> (to become) and <code>bleiben</code> (to stay), the word <em>after</em> the verb is <strong>also nominative</strong>. These three verbs don't do anything to anything — they put an equals sign between two things. So it is <code>Das ist ein Hund.</code>, never <em>einen</em> Hund. Same with <code>Er wird Vater.</code> and <code>Das bleibt ein Problem.</code></p>",
+      "tables": [
+        {
+          "title": "Nominativ — the word in front of the noun",
+          "headers": ["", "masculine", "feminine", "neuter", "plural"],
+          "rows": [
+            ["the", "der", "die", "das", "die"],
+            ["a / an", "ein", "eine", "ein", "—"],
+            ["no / not a", "kein", "keine", "kein", "keine"],
+            ["my", "mein", "meine", "mein", "meine"]
+          ],
+          "highlight": [[0, 1], [0, 2], [0, 3], [0, 4]]
+        },
+        {
+          "title": "The subject pronouns — all nominative",
+          "headers": ["German", "English", "Example"],
+          "rows": [
+            ["ich", "I", "Ich wohne in München."],
+            ["du", "you (one friend)", "Du kommst zu spät."],
+            ["er / sie / es", "he / she / it", "Er ist mein Kollege."],
+            ["wir", "we", "Wir haben Zeit."],
+            ["ihr", "you (a group)", "Ihr seid schon da."],
+            ["sie / Sie", "they / you (polite)", "Sie ist meine Chefin."]
+          ],
+          "highlight": []
+        },
+        {
+          "title": "Nominative on BOTH sides of the verb",
+          "headers": ["Verb", "Sentence", "It just means 'equals'"],
+          "rows": [
+            ["sein", "Das ist ein Hund.", "das = ein Hund"],
+            ["werden", "Mein Bruder wird Lehrer.", "mein Bruder = Lehrer"],
+            ["bleiben", "Er bleibt mein Freund.", "er = mein Freund"]
+          ],
+          "highlight": [[0, 1]]
+        }
+      ],
+      "examples": [
+        { "de": "Der Kaffee ist heiß.", "en": "The coffee is hot.", "note": "Who or what is hot? The coffee. It is the subject, so it keeps its dictionary form der." },
+        { "de": "Die Wohnung kostet 900 Euro.", "en": "The flat costs 900 euros.", "note": "The flat is doing the costing — feminine subject, so die." },
+        { "de": "Das ist ein Hund.", "en": "That is a dog.", "note": "After ist nothing changes. Both das and ein Hund are nominative." },
+        { "de": "Mein Kollege heißt Jonas.", "en": "My colleague is called Jonas.", "note": "mein has no ending here because Kollege is masculine and it is the subject." },
+        { "de": "Es regnet.", "en": "It's raining.", "note": "Nothing is really doing the raining, but German still needs a word in the subject slot: es." },
+        { "de": "Wer ist das?", "en": "Who is that?", "note": "wer is the nominative question word — it asks specifically for the doer." }
+      ],
+      "mistakes": [
+        { "wrong": "Ist sehr gut.", "right": "Das ist sehr gut.", "why": "Turkish can leave the subject out, German never can. Something must fill the subject slot, even if it is only das or es." },
+        { "wrong": "Die Mann ist alt.", "right": "Der Mann ist alt.", "why": "Gender is fixed per noun and has nothing to do with meaning. Always learn the noun together with its article: der Mann, die Frau, das Kind." },
+        { "wrong": "Das ist einen Hund.", "right": "Das ist ein Hund.", "why": "sein never creates an object. Nothing is happening to the dog, so it stays nominative — ein, not einen." },
+        { "wrong": "Ich bin ein Ingenieur.", "right": "Ich bin Ingenieur.", "why": "With jobs after sein or werden, German drops the article completely. The same goes for nationality: Ich bin Türke." }
+      ],
+      "drills": [
+        { "type": "choice", "question": "___ Mann arbeitet in Berlin.", "options": ["Der", "Den", "Dem"], "answer": "Der", "explain": "The man is the one doing the working, and the doer always gets the plain nominative form." },
+        { "type": "choice", "question": "Das ist ___ Auto.", "options": ["ein", "einen", "einem"], "answer": "ein", "explain": "sein just links two things, so the word after it stays in the dictionary form." },
+        { "type": "fill", "question": "___ Handy ist neu. (neuter noun)", "answer": "Das", "accept": ["Das", "das"], "explain": "The phone is the thing doing the 'being new', so the neuter subject form das is what you need." },
+        { "type": "order", "words": ["Der", "Zug", "kommt", "um", "acht"], "answer": "Der Zug kommt um acht", "explain": "The doer comes first and the verb takes slot 2 — the normal shape of a German statement." },
+        { "type": "choice", "question": "Wer ist der Chef? — ___ ist der Chef.", "options": ["Er", "Ihn", "Ihm"], "answer": "Er", "explain": "The pronoun here is the one doing the verb, and only er is the subject form." },
+        { "type": "fill", "question": "___ Kinder spielen draußen.", "answer": "Die", "accept": ["Die", "die"], "explain": "Every plural noun uses die as its subject word, no matter what gender the single noun has." },
+        { "type": "order", "words": ["Das", "ist", "mein", "Kollege"], "answer": "Das ist mein Kollege", "explain": "After ist the second part is still nominative, which is why mein carries no ending." },
+        { "type": "choice", "question": "Der Kaffee kostet zwei Euro. Which part is the subject — the one doing the verb?", "options": ["Der Kaffee", "zwei Euro", "kostet"], "answer": "Der Kaffee", "explain": "Ask 'who or what is doing the costing?' — the coffee is, and that answer is always the nominative." }
+      ],
+      "keyWords": ["der", "die", "das", "ein", "eine", "sein", "werden", "bleiben", "wer"]
+    },
+    {
+      "id": "akkusativ",
+      "number": 12,
+      "title": "Akkusativ — the direct object",
+      "level": "A1",
+      "group": "Cases",
+      "summary": "Who or what is receiving the action — and the great relief that only masculine visibly changes.",
+      "rule": "<p>Most verbs do something <em>to</em> something. <code>Ich trinke den Kaffee.</code> — the drinking lands on the coffee. The thing on the receiving end is called the <strong>direct object</strong>, and German marks it with the <strong>Akkusativ</strong> case.</p><p>There is a simple test. Say the subject and the verb, then ask <strong>wen oder was?</strong> ('whom or what?'). <em>Ich kaufe … wen oder was?</em> → <em>einen Apfel</em>. Whatever answers that question is the accusative.</p><p>Now the relief. Of the four genders, <strong>only masculine actually changes</strong>: <code>der → den</code>, <code>ein → einen</code>, <code>kein → keinen</code>, <code>mein → meinen</code>. Feminine, neuter and plural look exactly the same as in the nominative. Three quarters of the job is doing nothing at all — so when you spot a masculine noun as the object, that <code>-n</code> is the only thing you have to remember.</p><p>The pronouns do change, and you will use these hourly:<br><code>ich → mich</code>, <code>du → dich</code>, <code>er → ihn</code>, <code>sie → sie</code>, <code>es → es</code>, <code>wir → uns</code>, <code>ihr → euch</code>, <code>sie/Sie → sie/Sie</code>.</p><p>Some words switch the accusative on <strong>automatically</strong>, no thinking required. After <strong>durch, für, gegen, ohne, um</strong> the following noun is <em>always</em> accusative, even when nothing is receiving any action at all. And two everyday verbs always take an accusative object: <code>haben</code> and <code>es gibt</code> — <code>Ich habe einen Termin.</code> <code>Es gibt hier einen Supermarkt.</code></p>",
+      "tables": [
+        {
+          "title": "The definite article: nominative vs accusative",
+          "headers": ["", "masculine", "feminine", "neuter", "plural"],
+          "rows": [
+            ["Nominativ", "der", "die", "das", "die"],
+            ["Akkusativ", "den", "die", "das", "die"]
+          ],
+          "highlight": [[1, 1]]
+        },
+        {
+          "title": "ein, kein, mein — same single change",
+          "headers": ["", "masculine", "feminine", "neuter", "plural"],
+          "rows": [
+            ["Nominativ", "ein / kein / mein", "eine / keine / meine", "ein / kein / mein", "keine / meine"],
+            ["Akkusativ", "einen / keinen / meinen", "eine / keine / meine", "ein / kein / mein", "keine / meine"]
+          ],
+          "highlight": [[1, 1]]
+        },
+        {
+          "title": "Prepositions that always trigger the accusative",
+          "headers": ["Word", "Meaning", "Example"],
+          "rows": [
+            ["durch", "through", "Wir gehen durch den Park."],
+            ["für", "for", "Das ist für meinen Chef."],
+            ["gegen", "against; around (a time)", "Ich habe nichts gegen den Plan."],
+            ["ohne", "without", "Ich gehe nie ohne meinen Ausweis."],
+            ["um", "around", "Wir sitzen um den Tisch."]
+          ],
+          "highlight": []
+        }
+      ],
+      "examples": [
+        { "de": "Ich nehme den Salat.", "en": "I'll take the salad.", "note": "I take wen oder was? The salad. Der Salat is masculine, so it becomes den Salat." },
+        { "de": "Ich möchte einen Kaffee, bitte.", "en": "I'd like a coffee, please.", "note": "der Kaffee is masculine, so ein becomes einen. Probably the most useful accusative in Germany." },
+        { "de": "Ich lese das Buch.", "en": "I'm reading the book.", "note": "Neuter, so absolutely nothing changes — das stays das." },
+        { "de": "Wir gehen durch den Park.", "en": "We're walking through the park.", "note": "The park isn't receiving any action, but durch forces the accusative anyway." },
+        { "de": "Das Geschenk ist für dich.", "en": "The present is for you.", "note": "für always takes the accusative, and pronouns feel it too: du becomes dich." },
+        { "de": "Ich habe morgen einen Termin.", "en": "I have an appointment tomorrow.", "note": "haben always takes an accusative object, so der Termin becomes einen Termin." }
+      ],
+      "mistakes": [
+        { "wrong": "Ich sehe der Mann.", "right": "Ich sehe den Mann.", "why": "The man is what the seeing lands on, and masculine is the one gender that visibly changes: der → den." },
+        { "wrong": "Ich habe ein Termin.", "right": "Ich habe einen Termin.", "why": "haben always takes an accusative object, and Termin is masculine, so ein must become einen." },
+        { "wrong": "Das ist für ich.", "right": "Das ist für mich.", "why": "für switches on the accusative automatically, and pronouns change form there: ich → mich, du → dich, er → ihn." },
+        { "wrong": "Ich möchte eine Kaffee.", "right": "Ich möchte einen Kaffee.", "why": "Kaffee is masculine (der Kaffee), not feminine. The accusative ending is only right if you learned the gender right." }
+      ],
+      "drills": [
+        { "type": "choice", "question": "Die Frau sucht den Schlüssel. Which part is the direct object — the thing the action lands on?", "options": ["Die Frau", "den Schlüssel", "sucht"], "answer": "den Schlüssel", "explain": "Ask 'sie sucht wen oder was?' — whatever answers that question is the accusative object." },
+        { "type": "choice", "question": "Ich trinke ___ Kaffee.", "options": ["der", "den", "dem"], "answer": "den", "explain": "The coffee is what the drinking lands on, and masculine der becomes den in the accusative." },
+        { "type": "fill", "question": "Ich lese ___ Buch. (das Buch)", "answer": "das", "accept": ["das", "Das"], "explain": "Neuter nouns look identical in the nominative and the accusative, so there is nothing to change." },
+        { "type": "order", "words": ["Ich", "kaufe", "einen", "Apfel"], "answer": "Ich kaufe einen Apfel", "explain": "Subject first, verb in slot 2, then the object — and masculine ein turns into einen." },
+        { "type": "choice", "question": "Wir gehen durch ___ Park.", "options": ["der", "den", "dem"], "answer": "den", "explain": "durch is one of the five prepositions that force the accusative, no matter what the sentence means." },
+        { "type": "fill", "question": "Das Geschenk ist für ___. (ich)", "answer": "mich", "accept": ["mich"], "explain": "Pronouns take accusative forms too, and für always demands the accusative." },
+        { "type": "order", "words": ["Ich", "gehe", "nie", "ohne", "meinen", "Ausweis"], "answer": "Ich gehe nie ohne meinen Ausweis", "explain": "ohne is an automatic accusative trigger, so mein has to become meinen before a masculine noun." },
+        { "type": "choice", "question": "Den Kuchen isst der Mann. Who is doing the eating?", "options": ["der Mann", "den Kuchen"], "answer": "der Mann", "explain": "German shows the job through the article rather than the position, so der Mann is the doer even standing at the end." }
+      ],
+      "keyWords": ["den", "einen", "keinen", "durch", "fuer", "gegen", "ohne", "um", "mich", "ihn", "haben"]
+    }
+  ]
+}

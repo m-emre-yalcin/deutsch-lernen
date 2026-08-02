@@ -1,0 +1,483 @@
+{
+  "lessons": [
+    {
+      "id": "comparative-superlative",
+      "number": 28,
+      "title": "bigger, biggest — comparison",
+      "level": "A2",
+      "group": "Adjectives",
+      "summary": "Add -er to compare two things and am -sten for the winner — then learn the five irregulars and stop mixing up als and wie.",
+      "rule": "<p>An <strong>adjective</strong> is a describing word: <em>big</em>, <em>old</em>, <em>cheap</em>. When you hold two things next to each other you need a stronger version of it — <em>bigger</em>, <em>older</em>, <em>cheaper</em>. That stronger version has a name: the <strong>comparative</strong>. And when one thing beats everything else you need the top version — <em>biggest</em>, <em>oldest</em> — called the <strong>superlative</strong>. German builds both almost exactly the way English does with short words, so this lesson is mostly good news.</p><p><strong>Comparing two things: add <code>-er</code>.</strong> <code>klein → kleiner</code>, <code>schnell → schneller</code>, <code>billig → billiger</code>. German does this to <em>every</em> adjective, no matter how long it is. English gives up on long words and switches to <em>more</em> (<em>more interesting</em>), and Turkish puts <em>daha</em> in front. German never does either. It is <code>interessanter</code>, <code>wichtiger</code>, <code>bequemer</code> — never <em>mehr interessant</em>.</p><p><strong>The winner: <code>am</code> plus <code>-sten</code>.</strong> <code>am kleinsten</code>, <code>am schnellsten</code>, <code>am billigsten</code>. Two small adjustments. If the adjective ends in <strong>d, t, s, z</strong> or <strong>ß</strong>, an extra <strong>e</strong> slides in so your mouth can manage it: <code>alt → am ältesten</code>, <code>kurz → am kürzesten</code>. And many short one-syllable adjectives grow an <strong>Umlaut</strong> — the two dots — as soon as they are compared: <code>alt → älter</code>, <code>jung → jünger</code>, <code>lang → länger</code>, <code>warm → wärmer</code>. There is no rule for which ones do this. It is a small memorised group, and the second table below is most of it.</p><p><strong>Now the part people get wrong for years: <code>wie</code> or <code>als</code>?</strong> If the two things are <strong>equal</strong>, use the pair <code>so … wie</code>: <code>Ich bin so groß wie du.</code> If one is <strong>more</strong> than the other, use <code>als</code>: <code>Ich bin größer als du.</code> The test is mechanical — the moment there is an <code>-er</code> form in the sentence, the next little word is <code>als</code>. You will hear people in Berlin say <em>größer wie du</em>; it is still marked wrong in writing and in every exam, so do not copy it.</p><p>One more thing you will see everywhere. Next to <code>am besten</code> there is a second superlative that stands directly in front of a noun and takes an ending: <code>der beste Kaffee</code>, <code>die größte Stadt</code>, <code>mein bester Freund</code>. Same meaning, different position. Use <code>am …sten</code> after a verb, and <code>der/die/das …ste</code> in front of a noun.</p>",
+      "tables": [
+        {
+          "title": "The three steps",
+          "headers": ["adjective", "comparative (of two)", "superlative (the winner)", "meaning"],
+          "rows": [
+            ["klein", "kleiner", "am kleinsten", "small"],
+            ["schnell", "schneller", "am schnellsten", "fast"],
+            ["billig", "billiger", "am billigsten", "cheap"],
+            ["schön", "schöner", "am schönsten", "beautiful"],
+            ["interessant", "interessanter", "am interessantesten", "interesting"]
+          ],
+          "highlight": [[4, 1], [4, 2]]
+        },
+        {
+          "title": "Short adjectives that grow two dots",
+          "headers": ["adjective", "comparative", "superlative", "meaning"],
+          "rows": [
+            ["alt", "älter", "am ältesten", "old"],
+            ["jung", "jünger", "am jüngsten", "young"],
+            ["groß", "größer", "am größten", "big"],
+            ["lang", "länger", "am längsten", "long"],
+            ["kurz", "kürzer", "am kürzesten", "short"],
+            ["warm", "wärmer", "am wärmsten", "warm"],
+            ["kalt", "kälter", "am kältesten", "cold"],
+            ["stark", "stärker", "am stärksten", "strong"]
+          ],
+          "highlight": [[0, 2], [2, 2], [4, 2]]
+        },
+        {
+          "title": "The five irregulars you simply memorise",
+          "headers": ["adjective", "comparative", "superlative", "meaning"],
+          "rows": [
+            ["gut", "besser", "am besten", "good"],
+            ["viel", "mehr", "am meisten", "much, a lot"],
+            ["gern", "lieber", "am liebsten", "like doing something"],
+            ["hoch", "höher", "am höchsten", "high"],
+            ["nah", "näher", "am nächsten", "near"]
+          ],
+          "highlight": [[0, 1], [0, 2], [1, 1], [2, 1], [2, 2]]
+        }
+      ],
+      "examples": [
+        {
+          "de": "Berlin ist größer als Hamburg.",
+          "en": "Berlin is bigger than Hamburg.",
+          "note": "groß takes the two dots and the -er, and als is the word for than."
+        },
+        {
+          "de": "Ich bin so alt wie mein Bruder.",
+          "en": "I am the same age as my brother.",
+          "note": "Equal, so no -er at all — just the plain adjective inside so … wie."
+        },
+        {
+          "de": "Der Zug ist nicht so teuer wie das Flugzeug.",
+          "en": "The train is not as expensive as the plane.",
+          "note": "nicht so … wie is how you say less than something, without changing the adjective."
+        },
+        {
+          "de": "Ich trinke gern Tee, aber lieber Kaffee.",
+          "en": "I like tea, but I prefer coffee.",
+          "note": "lieber is the comparative of gern. It has nothing to do with the word lieb."
+        },
+        {
+          "de": "Welcher Wein schmeckt am besten?",
+          "en": "Which wine tastes best?",
+          "note": "gut is fully irregular: gut, besser, am besten. There is no gutsten."
+        },
+        {
+          "de": "Heute ist es kälter als gestern.",
+          "en": "Today it is colder than yesterday.",
+          "note": "Everyday weather talk — kalt gets its umlaut, and als follows the -er form."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "Berlin ist größer wie Hamburg.",
+          "right": "Berlin ist größer als Hamburg.",
+          "why": "wie is only for things that are equal. Once you have an -er form, the sentence needs als."
+        },
+        {
+          "wrong": "Das Buch ist mehr interessant.",
+          "right": "Das Buch ist interessanter.",
+          "why": "German never builds a comparative with mehr, however long the adjective is. It is always the -er ending."
+        },
+        {
+          "wrong": "Ich bin so groß als du.",
+          "right": "Ich bin so groß wie du.",
+          "why": "The mirror mistake. so belongs with wie, always — the two words come as a pair."
+        },
+        {
+          "wrong": "Meine Schwester ist alter als ich.",
+          "right": "Meine Schwester ist älter als ich.",
+          "why": "Short adjectives like alt, jung, lang, warm and kalt take the two dots. Without them, alter is a different word that means an old thing, not older."
+        }
+      ],
+      "drills": [
+        {
+          "type": "choice",
+          "question": "Berlin ist ___ als Hamburg.",
+          "options": ["groß", "größer", "am größten"],
+          "answer": "größer",
+          "explain": "Two cities are being held against each other, so the -er form — and the als sitting there confirms it."
+        },
+        {
+          "type": "choice",
+          "question": "Ich bin so alt ___ du.",
+          "options": ["als", "wie", "dass"],
+          "answer": "wie",
+          "explain": "The adjective has no -er ending, which means the two people are equal, and equality always uses so … wie."
+        },
+        {
+          "type": "choice",
+          "question": "Kaffee trinke ich ___ als Tee.",
+          "options": ["gerner", "lieber", "mehr gern"],
+          "answer": "lieber",
+          "explain": "gern is one of the five irregulars — it does not take -er, it turns into the separate word lieber."
+        },
+        {
+          "type": "choice",
+          "question": "Welches Handy ist ___?",
+          "options": ["am billig", "am billigsten", "der billigste Handy"],
+          "answer": "am billigsten",
+          "explain": "After a verb the top form is am plus -sten, and billig needs no extra vowel."
+        },
+        {
+          "type": "fill",
+          "question": "Der Winter in Berlin ist ___ als in Istanbul. (kalt)",
+          "answer": "kälter",
+          "accept": ["kälter", "kaelter"],
+          "explain": "kalt is a short adjective, so it grows the two dots before taking the -er."
+        },
+        {
+          "type": "fill",
+          "question": "Mein Deutsch wird jeden Tag ___. (gut)",
+          "answer": "besser",
+          "accept": ["besser"],
+          "explain": "gut never takes an -er ending; its comparative is a completely different word."
+        },
+        {
+          "type": "order",
+          "words": ["Der", "Zug", "ist", "schneller", "als", "das", "Auto"],
+          "answer": "Der Zug ist schneller als das Auto",
+          "explain": "The verb keeps position two, the comparative follows it, and als introduces the thing being beaten."
+        },
+        {
+          "type": "order",
+          "words": ["Ich", "trinke", "am", "liebsten", "Wasser"],
+          "answer": "Ich trinke am liebsten Wasser",
+          "explain": "am liebsten is the top form of gern and travels as one two-word block right after the verb."
+        }
+      ],
+      "keyWords": ["gern", "viel", "mehr", "als", "wie", "sehr"]
+    },
+    {
+      "id": "reflexive-verbs",
+      "number": 29,
+      "title": "sich freuen, sich waschen — reflexive verbs",
+      "level": "A2",
+      "group": "Verbs",
+      "summary": "Some German verbs need a small extra word pointing back at the doer — and the ones English leaves unmarked are exactly the ones you will forget.",
+      "rule": "<p>Usually an action goes out from you and lands on something else: <code>Ich wasche das Auto.</code> Sometimes it loops back and lands on <em>you</em>: <code>Ich wasche mich.</code> — I wash myself. That little word pointing back at the doer is called a <strong>reflexive pronoun</strong>, and a verb that needs one is a <strong>reflexive verb</strong>. Turkish handles this inside the verb itself (<em>yıkanmak</em>); German uses a separate word that you must remember to say out loud.</p><p>In a dictionary these verbs are listed with <code>sich</code> stuck to the front — <code>sich waschen</code>, <code>sich freuen</code>. Treat that <code>sich</code> the way you treat <code>der</code>, <code>die</code> and <code>das</code> on a noun: it is part of the word, learn them together. In a real sentence the <code>sich</code> changes to match whoever is doing it, and it sits <strong>right after the conjugated verb</strong>: <code>Ich freue mich.</code> <code>Heute freue ich mich.</code> <code>Freust du dich?</code> Only <em>ich</em> and <em>du</em> have two different shapes to worry about; everybody else uses <code>sich</code>, <code>uns</code> or <code>euch</code> for both jobs.</p><p><strong>Which shape — <code>mich</code> or <code>mir</code>?</strong> Two of German's grammar jobs are involved. The <strong>accusative</strong> is the thing the action lands on directly. The <strong>dative</strong> is the person the action is done <em>for</em> or <em>to</em>. So: <code>Ich wasche mich.</code> — nothing else is being washed, only me, so the accusative <code>mich</code>. But <code>Ich wasche mir die Hände.</code> — now <em>die Hände</em> is the thing being washed, so I step back into the dative <code>mir</code>, meaning <em>for myself</em>. The rule in practice: <strong>if a second thing appears after the pronoun, switch to the dative.</strong> Same with <code>Ich putze mir die Zähne.</code> and <code>Ich ziehe mir eine Jacke an.</code></p><p>The real trap is not the endings. It is the verbs that carry a pronoun in German while English says nothing at all, so you will simply leave it out. Learn these as fixed phrases:</p><ul><li><code>sich freuen</code> — to be glad, to look forward to</li><li><code>sich erinnern an</code> — to remember</li><li><code>sich beeilen</code> — to hurry</li><li><code>sich entschuldigen</code> — to apologise</li><li><code>sich vorstellen</code> — to introduce yourself</li><li><code>sich setzen</code> — to sit down</li><li><code>sich fühlen</code> — to feel</li><li><code>sich interessieren für</code> — to be interested in</li></ul><p>Two practical notes. <code>sich vorstellen</code> means two different things depending on the shape: <code>Ich stelle mich vor</code> is <em>I introduce myself</em>, while <code>Ich stelle mir das vor</code> is <em>I imagine that</em>. And you will hear the polite version constantly in Germany — <code>Setzen Sie sich, bitte.</code> at the doctor, <code>Beeilen Sie sich!</code> on a platform. With <code>Sie</code> the pronoun is always <code>sich</code>, with a small s.</p>",
+      "tables": [
+        {
+          "title": "The reflexive pronouns",
+          "headers": ["doer", "accusative (only me)", "dative (me plus another thing)"],
+          "rows": [
+            ["ich", "mich", "mir"],
+            ["du", "dich", "dir"],
+            ["er / sie / es", "sich", "sich"],
+            ["wir", "uns", "uns"],
+            ["ihr", "euch", "euch"],
+            ["sie / Sie", "sich", "sich"]
+          ],
+          "highlight": [[0, 1], [0, 2], [1, 1], [1, 2]]
+        },
+        {
+          "title": "When does mich become mir?",
+          "headers": ["sentence", "pronoun", "why"],
+          "rows": [
+            ["Ich wasche mich.", "mich", "Nothing else is being washed — only me."],
+            ["Ich wasche mir die Hände.", "mir", "die Hände is the thing washed, so mir just says whose."],
+            ["Ich ziehe mich an.", "mich", "Getting dressed, no second thing named."],
+            ["Ich ziehe mir eine Jacke an.", "mir", "eine Jacke is the thing, mir says for whom."]
+          ],
+          "highlight": [[1, 1], [3, 1]]
+        },
+        {
+          "title": "Reflexive in German, invisible in English",
+          "headers": ["German", "English", "example"],
+          "rows": [
+            ["sich freuen", "to be glad", "Ich freue mich."],
+            ["sich erinnern an", "to remember", "Ich erinnere mich an ihn."],
+            ["sich beeilen", "to hurry", "Wir müssen uns beeilen."],
+            ["sich entschuldigen", "to apologise", "Er entschuldigt sich."],
+            ["sich vorstellen", "to introduce yourself", "Ich stelle mich vor."],
+            ["sich fühlen", "to feel", "Ich fühle mich gut."]
+          ],
+          "highlight": [[0, 0], [1, 0], [4, 0]]
+        }
+      ],
+      "examples": [
+        {
+          "de": "Ich freue mich auf das Wochenende.",
+          "en": "I am looking forward to the weekend.",
+          "note": "freuen cannot stand alone. The mich is not decoration — without it the sentence is broken."
+        },
+        {
+          "de": "Wir müssen uns beeilen, der Bus kommt.",
+          "en": "We have to hurry, the bus is coming.",
+          "note": "With a modal verb the pronoun stays near the front and beeilen goes to the very end."
+        },
+        {
+          "de": "Ich wasche mir die Hände.",
+          "en": "I am washing my hands.",
+          "note": "die Hände is what gets washed, so the pronoun steps back into the dative mir."
+        },
+        {
+          "de": "Wie fühlst du dich heute?",
+          "en": "How do you feel today?",
+          "note": "English uses no extra word here at all. German needs dich, and it comes right after the subject."
+        },
+        {
+          "de": "Darf ich mich vorstellen? Ich heiße Emre.",
+          "en": "May I introduce myself? My name is Emre.",
+          "note": "Say this at every first meeting. mich sits after ich, and the separable vorstellen waits at the end."
+        },
+        {
+          "de": "Setzen Sie sich bitte.",
+          "en": "Please have a seat.",
+          "note": "You will hear this at the doctor and at the Amt. With Sie the pronoun is always sich."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "Ich freue auf das Wochenende.",
+          "right": "Ich freue mich auf das Wochenende.",
+          "why": "English has no extra word here, so this is the easiest one in the world to drop. freuen does not exist without its pronoun."
+        },
+        {
+          "wrong": "Er freut mich über das Geschenk.",
+          "right": "Er freut sich über das Geschenk.",
+          "why": "The pronoun must copy the doer. People learn ich freue mich as one chunk and then reuse mich for everybody — but er takes sich."
+        },
+        {
+          "wrong": "Ich wasche mich die Hände.",
+          "right": "Ich wasche mir die Hände.",
+          "why": "As soon as a second thing (die Hände) is what actually gets washed, the pronoun switches from accusative to dative."
+        },
+        {
+          "wrong": "Ich erinnere den Termin.",
+          "right": "Ich erinnere mich an den Termin.",
+          "why": "sich erinnern needs both the pronoun and an. In German you do not remember a thing, you remind yourself of it."
+        }
+      ],
+      "drills": [
+        {
+          "type": "choice",
+          "question": "Ich freue ___ auf das Wochenende.",
+          "options": ["mich", "mir", "sich"],
+          "answer": "mich",
+          "explain": "The doer is ich and nothing else is named after the pronoun, so the accusative shape."
+        },
+        {
+          "type": "choice",
+          "question": "Er freut ___ über das Geschenk.",
+          "options": ["mich", "sich", "ihn"],
+          "answer": "sich",
+          "explain": "The pronoun always matches the doer, and everything except ich and du uses sich or uns or euch."
+        },
+        {
+          "type": "choice",
+          "question": "Ich wasche ___ die Hände.",
+          "options": ["mich", "mir", "meine"],
+          "answer": "mir",
+          "explain": "die Hände is already the thing being washed, so the person steps back into the dative."
+        },
+        {
+          "type": "choice",
+          "question": "___ Sie sich bitte!",
+          "options": ["Setzt", "Setzen", "Setz"],
+          "answer": "Setzen",
+          "explain": "The polite form uses the full -en verb with Sie, and its pronoun is sich."
+        },
+        {
+          "type": "fill",
+          "question": "Wir treffen ___ um acht Uhr. (sich treffen)",
+          "answer": "uns",
+          "accept": ["uns"],
+          "explain": "wir takes uns, and the plural forms are identical in both cases so there is nothing to decide."
+        },
+        {
+          "type": "fill",
+          "question": "Ich erinnere ___ nicht an seinen Namen. (sich erinnern)",
+          "answer": "mich",
+          "accept": ["mich"],
+          "explain": "erinnern is reflexive in German even though remember is not in English, and no second thing follows the pronoun."
+        },
+        {
+          "type": "order",
+          "words": ["Ich", "muss", "mich", "beeilen"],
+          "answer": "Ich muss mich beeilen",
+          "explain": "The pronoun follows the conjugated verb muss, while the reflexive verb itself is parked at the end."
+        },
+        {
+          "type": "order",
+          "words": ["Wie", "fühlen", "Sie", "sich", "heute"],
+          "answer": "Wie fühlen Sie sich heute",
+          "explain": "In a question word question the verb comes second and the subject Sie next, so sich lands just behind the subject."
+        }
+      ],
+      "keyWords": ["sich", "waschen", "erinnern", "beeilen", "vorstellen", "setzen", "treffen", "anziehen"]
+    },
+    {
+      "id": "imperative",
+      "number": 30,
+      "title": "Telling someone what to do",
+      "level": "A1",
+      "group": "Verbs",
+      "summary": "Three command forms for three kinds of you — and the polite one is what you will actually hear on the train, at the doctor and at the Amt.",
+      "rule": "<p>An <strong>imperative</strong> is the form you use to tell or ask somebody to do something: <em>Come in. Wait here. Sign there.</em> German has three of them, because German has three words for <em>you</em>: <code>du</code> for one person you know, <code>ihr</code> for several people you know, and <code>Sie</code> for strangers, officials and anyone you have not been invited to call <code>du</code>.</p><p><strong>The <code>du</code> command.</strong> Take the ordinary <code>du</code> form and chop off the <code>-st</code>: <code>du gehst → Geh!</code>, <code>du kommst → Komm!</code>, <code>du machst → Mach!</code>. And leave the word <code>du</code> out — the command carries no pronoun. Two details. If the stem ends in <strong>t</strong> or <strong>d</strong>, keep an <code>-e</code> so it is sayable: <code>Warte!</code>, <code>Arbeite!</code>. And if the <code>du</code> form changes its vowel from <strong>e</strong> to <strong>i</strong>, the command keeps that change: <code>du nimmst → Nimm!</code>, <code>du gibst → Gib!</code>, <code>du sprichst → Sprich!</code>, <code>du liest → Lies!</code>. But if the change was <strong>a</strong> to <strong>ä</strong>, the command throws the dots away again: <code>du fährst → Fahr!</code>, <code>du schläfst → Schlaf!</code></p><p><strong>The <code>ihr</code> command</strong> is the easy one: it is exactly the normal <code>ihr</code> form with the pronoun removed. <code>Geht!</code> <code>Kommt!</code> <code>Wartet!</code> <code>Nehmt!</code> <strong>The <code>Sie</code> command</strong> is also simple, and it is the only one that <em>keeps</em> its pronoun: the full <code>-en</code> verb, then <code>Sie</code>. <code>Gehen Sie!</code> <code>Kommen Sie!</code> <code>Warten Sie!</code> It looks identical to a statement with the words flipped, and that is all it is.</p><p><code>sein</code> is the one genuinely irregular verb here: <code>Sei ruhig!</code>, <code>Seid ruhig!</code>, <code>Seien Sie ruhig!</code> — never <em>Sind Sie</em>. And a separable verb splits as usual, with its little front piece dropping to the end of the sentence: <code>Steh bitte auf!</code>, <code>Macht die Tür zu!</code>, <code>Steigen Sie bitte ein!</code></p><p>One social point that matters more than the grammar. A bare command sounds sharp in German, so <code>bitte</code> goes in almost every one: <code>Komm bitte um acht.</code>, <code>Warten Sie bitte einen Moment.</code> You will meet the <code>Sie</code> form constantly — <code>Nehmen Sie bitte Platz.</code> at the doctor, <code>Steigen Sie bitte ein.</code> on a platform, <code>Füllen Sie das Formular aus.</code> at the Amt. On written signs German often skips the imperative entirely and uses the plain dictionary form instead: <code>Bitte nicht rauchen.</code>, <code>Tür schließen.</code>, <code>Drücken</code>, <code>Ziehen</code>. Same meaning, no ending to worry about.</p>",
+      "tables": [
+        {
+          "title": "The three forms",
+          "headers": ["verb", "du", "ihr", "Sie"],
+          "rows": [
+            ["gehen", "Geh!", "Geht!", "Gehen Sie!"],
+            ["kommen", "Komm!", "Kommt!", "Kommen Sie!"],
+            ["warten", "Warte!", "Wartet!", "Warten Sie!"],
+            ["nehmen", "Nimm!", "Nehmt!", "Nehmen Sie!"],
+            ["fahren", "Fahr!", "Fahrt!", "Fahren Sie!"],
+            ["sein", "Sei!", "Seid!", "Seien Sie!"]
+          ],
+          "highlight": [[2, 1], [3, 1], [4, 1], [5, 1], [5, 3]]
+        },
+        {
+          "title": "What happens to the vowel",
+          "headers": ["du form", "command", "what changed"],
+          "rows": [
+            ["du nimmst", "Nimm!", "the e to i change stays"],
+            ["du gibst", "Gib!", "the e to i change stays"],
+            ["du liest", "Lies!", "the e to ie change stays"],
+            ["du fährst", "Fahr!", "the two dots disappear"],
+            ["du schläfst", "Schlaf!", "the two dots disappear"]
+          ],
+          "highlight": [[3, 1], [4, 1]]
+        },
+        {
+          "title": "Where you will actually meet it",
+          "headers": ["German", "where", "English"],
+          "rows": [
+            ["Nehmen Sie bitte Platz.", "doctor, office", "Please take a seat."],
+            ["Warten Sie bitte einen Moment.", "counter at the Amt", "Please wait a moment."],
+            ["Steigen Sie bitte ein.", "train, bus", "Please get in."],
+            ["Drücken / Ziehen", "every door", "Push / Pull"],
+            ["Bitte nicht rauchen.", "signs", "No smoking, please."]
+          ],
+          "highlight": [[0, 0], [1, 0], [2, 0]]
+        }
+      ],
+      "examples": [
+        {
+          "de": "Komm bitte um acht!",
+          "en": "Please come at eight!",
+          "note": "du form: the -st of du kommst is gone and the word du is not said."
+        },
+        {
+          "de": "Nimm den Bus, das ist schneller.",
+          "en": "Take the bus, it is faster.",
+          "note": "nehmen keeps its e to i change in the command, so it is Nimm and never Nehm."
+        },
+        {
+          "de": "Wartet hier, bitte!",
+          "en": "Wait here, please!",
+          "note": "ihr form: exactly the everyday ihr verb with the pronoun taken away."
+        },
+        {
+          "de": "Gehen Sie geradeaus und dann links.",
+          "en": "Go straight ahead and then left.",
+          "note": "The polite form keeps Sie. Ask for directions and this is what comes back at you."
+        },
+        {
+          "de": "Seien Sie bitte pünktlich.",
+          "en": "Please be on time.",
+          "note": "sein is the one truly irregular command. Seien Sie, never Sind Sie."
+        },
+        {
+          "de": "Mach bitte die Tür zu.",
+          "en": "Please close the door.",
+          "note": "A separable verb splits: mach at the front, and the little zu at the very end."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "Kommst bitte um acht.",
+          "right": "Komm bitte um acht.",
+          "why": "The -st ending has to come off. Leave it on and you have just made an ordinary statement or half a question."
+        },
+        {
+          "wrong": "Du komm her!",
+          "right": "Komm her!",
+          "why": "The du command never carries its pronoun. Only the polite Sie form keeps one."
+        },
+        {
+          "wrong": "Nehm den Bus.",
+          "right": "Nimm den Bus.",
+          "why": "If the du form swaps e for i (du nimmst, du gibst, du sprichst), the command keeps that vowel — though a to ä verbs lose their dots: du fährst gives Fahr!"
+        },
+        {
+          "wrong": "Geh Sie bitte nach links.",
+          "right": "Gehen Sie bitte nach links.",
+          "why": "The polite command is not the du form plus Sie. It is the full -en verb with Sie behind it, like a statement turned around."
+        }
+      ],
+      "drills": [
+        {
+          "type": "choice",
+          "question": "___ bitte um acht! (to a friend)",
+          "options": ["Komm", "Kommst", "Kommen"],
+          "answer": "Komm",
+          "explain": "The du command is the du form with the -st cut off and no pronoun."
+        },
+        {
+          "type": "choice",
+          "question": "___ Sie bitte einen Moment!",
+          "options": ["Wart", "Warte", "Warten"],
+          "answer": "Warten",
+          "explain": "The polite command uses the full -en verb, and Sie stays right behind it."
+        },
+        {
+          "type": "choice",
+          "question": "___ den Bus, das ist schneller. (to a friend)",
+          "options": ["Nehm", "Nimm", "Nehmen"],
+          "answer": "Nimm",
+          "explain": "du nimmst already swaps e for i, and the command hangs on to that vowel."
+        },
+        {
+          "type": "choice",
+          "question": "___ bitte pünktlich! (to your boss)",
+          "options": ["Sind Sie", "Seien Sie", "Seid Sie"],
+          "answer": "Seien Sie",
+          "explain": "sein is the only verb whose polite command is not just the dictionary form plus Sie."
+        },
+        {
+          "type": "fill",
+          "question": "___ langsam! (fahren, to a friend)",
+          "answer": "Fahr",
+          "accept": ["Fahr", "fahr", "Fahre", "fahre"],
+          "explain": "The a to ä swap is the one vowel change the command throws away again."
+        },
+        {
+          "type": "fill",
+          "question": "___ hier, Kinder! (warten, to several people)",
+          "answer": "Wartet",
+          "accept": ["Wartet", "wartet"],
+          "explain": "The ihr command is simply the normal ihr form with the pronoun deleted."
+        },
+        {
+          "type": "order",
+          "words": ["Machen", "Sie", "bitte", "die", "Tür", "zu"],
+          "answer": "Machen Sie bitte die Tür zu",
+          "explain": "Polite verb first, then Sie, and the separable piece zu is pushed to the very end."
+        },
+        {
+          "type": "order",
+          "words": ["Steh", "bitte", "um", "sieben", "auf"],
+          "answer": "Steh bitte um sieben auf",
+          "explain": "The du command opens the sentence and the separable auf still has to wait at the end."
+        }
+      ],
+      "keyWords": ["kommen", "gehen", "nehmen", "warten", "sein", "machen"]
+    }
+  ]
+}

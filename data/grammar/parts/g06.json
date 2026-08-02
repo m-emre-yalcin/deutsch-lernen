@@ -1,0 +1,476 @@
+{
+  "lessons": [
+    {
+      "id": "possessives",
+      "number": 16,
+      "title": "mein, dein, sein, ihr — possessive articles",
+      "level": "A1",
+      "group": "Nouns",
+      "summary": "One set of endings covers my, your, his, her, our and their — the exact same endings ein and kein already use.",
+      "rule": "<p>A <strong>possessive</strong> is the little word that says who something belongs to: <em>my</em> bag, <em>your</em> car, <em>her</em> brother. Turkish glues this onto the noun as a suffix — <em>çanta-m</em> — but German puts a separate word in front of the noun, in the very same slot where <code>der</code> or <code>ein</code> would go. So you say <code>meine Tasche</code>, never <em>die meine Tasche</em>. One slot, one word.</p><p>Here is the good news, and it really is the whole lesson: <strong>possessives take exactly the same endings as <code>ein</code> and <code>kein</code></strong>. If you can already say <code>einen Bruder</code>, then you can say <code>meinen Bruder</code>, <code>deinen Bruder</code>, <code>seinen Bruder</code>, <code>unseren Bruder</code>. Eight words, one pattern.</p><p>Think of every possessive as two pieces stuck together. The <strong>front piece</strong> says <em>whose</em> it is and follows the owner: <code>mein-</code>, <code>dein-</code>, <code>sein-</code>, <code>ihr-</code>. The <strong>ending</strong> ignores the owner completely — it reacts only to the noun that comes next: is that noun a <em>der</em>, <em>die</em> or <em>das</em> word, and what job is it doing in the sentence? German calls those jobs <strong>cases</strong>:</p><ul><li><strong>Nominative</strong> — the doer of the sentence: <code>Mein Bruder kommt.</code></li><li><strong>Accusative</strong> — the thing the action lands on: <code>Ich suche meinen Bruder.</code></li><li><strong>Dative</strong> — the receiver, and whatever follows <code>mit</code>, <code>bei</code>, <code>zu</code>: <code>Ich fahre mit meinem Bruder.</code></li></ul><p>So in <code>Anna sucht ihren Bruder</code>, <code>ihr-</code> is there because Anna is female, and <code>-en</code> is there because <em>der Bruder</em> is masculine and is the thing being searched for. The two halves have nothing to do with each other.</p><p>Two of these words are famously confusing. <code>sein</code> means <em>his</em> — and also <em>its</em>. <code>ihr</code> means <em>her</em> — and also <em>their</em>. And <code>Ihr</code> with a capital I in the middle of a sentence means <em>your</em>, when you address someone politely as <code>Sie</code>. Only that capital letter separates the last two, so write it carefully in emails and forms. One spelling wrinkle too: <code>euer</code> (<em>your</em>, to several friends) drops its second <strong>e</strong> as soon as an ending appears — <code>euer Auto</code> but <code>eure Wohnung</code>, <code>euren Bruder</code>. Nobody says <em>eueren</em>.</p>",
+      "tables": [
+        {
+          "title": "The eight owners",
+          "headers": ["person", "possessive", "means"],
+          "rows": [
+            ["ich", "mein", "my"],
+            ["du", "dein", "your (one friend)"],
+            ["er / es", "sein", "his / its"],
+            ["sie (she)", "ihr", "her"],
+            ["wir", "unser", "our"],
+            ["ihr (you all)", "euer", "your (several friends)"],
+            ["sie (they)", "ihr", "their"],
+            ["Sie (polite)", "Ihr", "your (formal, capital I)"]
+          ],
+          "highlight": [[2, 1], [3, 1], [6, 1], [7, 1]]
+        },
+        {
+          "title": "mein — endings by case",
+          "headers": ["", "masculine (der)", "feminine (die)", "neuter (das)", "plural (die)"],
+          "rows": [
+            ["Nominativ", "mein", "meine", "mein", "meine"],
+            ["Akkusativ", "meinen", "meine", "mein", "meine"],
+            ["Dativ", "meinem", "meiner", "meinem", "meinen"]
+          ],
+          "highlight": [[1, 1], [2, 1], [2, 2], [2, 3], [2, 4]]
+        },
+        {
+          "title": "ein, kein, mein, ihr — identical endings",
+          "headers": ["", "masc. Nominativ", "masc. Akkusativ", "feminine", "plural"],
+          "rows": [
+            ["ein", "ein", "einen", "eine", "—"],
+            ["kein", "kein", "keinen", "keine", "keine"],
+            ["mein", "mein", "meinen", "meine", "meine"],
+            ["ihr", "ihr", "ihren", "ihre", "ihre"]
+          ],
+          "highlight": [[2, 2], [3, 2]]
+        }
+      ],
+      "examples": [
+        {
+          "de": "Das ist mein Bruder.",
+          "en": "This is my brother.",
+          "note": "Bruder is masculine and it is the doer here, so no ending at all — exactly like ein Bruder."
+        },
+        {
+          "de": "Ich suche meinen Schlüssel.",
+          "en": "I'm looking for my key.",
+          "note": "Same word, different job: the key is what I'm looking for, so masculine takes -en."
+        },
+        {
+          "de": "Wo ist deine Tasche?",
+          "en": "Where is your bag?",
+          "note": "die Tasche is feminine, so the ending is -e — like eine Tasche."
+        },
+        {
+          "de": "Das ist Anna. Ihr Mann heißt Tom.",
+          "en": "That's Anna. Her husband is called Tom.",
+          "note": "Anna is the owner, so the stem is ihr-. Mann is masculine and the doer, so no ending."
+        },
+        {
+          "de": "Ich fahre mit meinem Auto.",
+          "en": "I'm going by car.",
+          "note": "mit always forces the dative, and neuter dative is -em."
+        },
+        {
+          "de": "Wie ist Ihre Telefonnummer?",
+          "en": "What is your phone number?",
+          "note": "Capital I = polite 'your'. With a small i, ihre would mean her or their."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "Ich suche mein Schlüssel.",
+          "right": "Ich suche meinen Schlüssel.",
+          "why": "der Schlüssel is masculine and it is the thing being searched for, so the ending is -en — the same -en you already use in einen Schlüssel."
+        },
+        {
+          "wrong": "Das ist Anna. Seine Tasche ist neu.",
+          "right": "Das ist Anna. Ihre Tasche ist neu.",
+          "why": "The front piece follows the owner, not the noun. Anna is female, so it is ihr-; sein- would say the bag belongs to a man."
+        },
+        {
+          "wrong": "Das ist meine Vater.",
+          "right": "Das ist mein Vater.",
+          "why": "Masculine in the nominative takes no ending at all. -e is not a default; it belongs to feminine and plural."
+        },
+        {
+          "wrong": "Wie ist ihre Adresse, Herr Schmidt?",
+          "right": "Wie ist Ihre Adresse, Herr Schmidt?",
+          "why": "When you say Sie to someone, their 'your' is written with a capital I. Lowercase ihre means her or their and reads as a different person."
+        }
+      ],
+      "drills": [
+        {
+          "type": "choice",
+          "question": "Das ist ___ Bruder. (my)",
+          "options": ["mein", "meine", "meinen"],
+          "answer": "mein",
+          "explain": "Bruder is masculine and is the doer of the sentence, and masculine doers take no ending — just like ein Bruder."
+        },
+        {
+          "type": "fill",
+          "question": "Wo ist ___ Tasche? (your — to a friend)",
+          "answer": "deine",
+          "accept": ["deine", "Deine"],
+          "explain": "die Tasche is feminine, and feminine always adds -e, exactly like eine Tasche."
+        },
+        {
+          "type": "choice",
+          "question": "Ich suche ___ Schlüssel. (my)",
+          "options": ["mein", "meine", "meinen"],
+          "answer": "meinen",
+          "explain": "The key is the thing the action lands on, and masculine is the only gender that visibly changes there: -en."
+        },
+        {
+          "type": "choice",
+          "question": "Das ist Anna. ___ Mann heißt Tom.",
+          "options": ["Sein", "Ihr", "Ihre"],
+          "answer": "Ihr",
+          "explain": "The owner is Anna, so the stem must be ihr-, and masculine Mann as the doer adds nothing."
+        },
+        {
+          "type": "choice",
+          "question": "Wie ist ___ Telefonnummer, Frau Meier?",
+          "options": ["deine", "ihre", "Ihre"],
+          "answer": "Ihre",
+          "explain": "You are using Sie with Frau Meier, and the polite 'your' is written with a capital I."
+        },
+        {
+          "type": "fill",
+          "question": "Er fährt mit ___ Auto. (his)",
+          "answer": "seinem",
+          "accept": ["seinem"],
+          "explain": "mit always pushes the next word into the dative, and neuter dative ends in -em."
+        },
+        {
+          "type": "order",
+          "words": ["Meine", "Eltern", "wohnen", "in", "Köln"],
+          "answer": "Meine Eltern wohnen in Köln",
+          "explain": "Plural takes -e, and the conjugated verb still has to be the second element of the sentence."
+        },
+        {
+          "type": "order",
+          "words": ["Ich", "gebe", "meiner", "Schwester", "einen", "Apfel"],
+          "answer": "Ich gebe meiner Schwester einen Apfel",
+          "explain": "The sister receives, so feminine dative -er; the apple is what gets handed over, so masculine -en."
+        }
+      ],
+      "keyWords": ["mein", "dein", "sein-possessiv", "ihr-possessiv", "unser", "euer", "ihr-formal"]
+    },
+    {
+      "id": "word-order-v2",
+      "number": 17,
+      "title": "The verb goes second — always",
+      "level": "A1",
+      "group": "Word order",
+      "summary": "In a German statement the conjugated verb is the second element, no matter what you put first — and the subject moves behind it.",
+      "rule": "<p>If you learn one structural rule in German, learn this one: in a normal statement the <strong>conjugated verb sits in position 2</strong>. \"Conjugated\" just means the form that has changed to match the person doing it — <code>ich gehe</code>, <code>du gehst</code>, <code>wir gehen</code>. Position 2 means: exactly one thing stands before it, then the verb.</p><p>And position 2 counts <strong>chunks of meaning, not words</strong>. Everything in front of the verb has to be one single unit — one idea. <code>Ich</code> is a chunk. <code>Morgen</code> is a chunk. <code>Morgen früh um sechs Uhr</code> is still one chunk, because it is one piece of information about time. Whatever you choose, only that one chunk is allowed in front of the verb.</p><p>Now the consequence that feels strange at first. If you put something other than the subject in front — a time word, a place, a linking word — the subject does not disappear. It <strong>jumps behind the verb</strong>. <code>Ich gehe heute ins Kino.</code> becomes <code>Heute gehe ich ins Kino.</code> Never <em>Heute ich gehe...</em> That is the loudest foreign-accent mistake in German, and it is exactly what English and Turkish word order push you towards.</p><p>Germans front things constantly, because position 1 is where you put whatever the sentence is really about, or whatever links it to the sentence before: <code>Dann fahre ich nach Hause.</code> <code>Deshalb lerne ich Deutsch.</code> <code>In Berlin ist das normal.</code> The verb itself never moves — everything else rearranges around it.</p><p>Two footnotes. The glue words <code>und</code>, <code>aber</code>, <code>oder</code>, <code>denn</code> sit <em>outside</em> the sentence, so they do not fill position 1: <code>Aber ich habe keine Zeit.</code> is correct. And this rule describes <strong>main clauses</strong> — a piece that could stand alone as a complete sentence. Words like <code>weil</code> and <code>dass</code> build a different kind of clause that kicks the verb all the way to the end, which is its own lesson.</p>",
+      "tables": [
+        {
+          "title": "Same sentence, five ways in — the verb never moves",
+          "headers": ["Position 1", "Verb (position 2)", "the rest"],
+          "rows": [
+            ["Ich", "gehe", "heute ins Kino."],
+            ["Heute", "gehe", "ich ins Kino."],
+            ["Ins Kino", "gehe", "ich heute."],
+            ["Am Montag", "arbeite", "ich zu Hause."],
+            ["Deshalb", "lerne", "ich Deutsch."],
+            ["Meine Frau und ich", "wohnen", "in Berlin."]
+          ],
+          "highlight": [[1, 1], [1, 2], [5, 0]]
+        },
+        {
+          "title": "One slot — however many words",
+          "headers": ["Position 1 (one chunk)", "Verb", "the rest"],
+          "rows": [
+            ["Morgen", "fahre", "ich nach Hamburg."],
+            ["Morgen früh", "fahre", "ich nach Hamburg."],
+            ["Morgen früh um sechs Uhr", "fahre", "ich nach Hamburg."]
+          ],
+          "highlight": [[2, 0], [2, 1]]
+        },
+        {
+          "title": "Where the verb goes, by sentence type",
+          "headers": ["Sentence type", "Verb position", "Example"],
+          "rows": [
+            ["Statement", "second", "Heute gehe ich ins Kino."],
+            ["Yes/no question", "first", "Gehst du ins Kino?"],
+            ["W-question", "second (after the W-word)", "Wann gehst du ins Kino?"],
+            ["Command", "first", "Komm bitte mit!"]
+          ],
+          "highlight": [[1, 1], [3, 1]]
+        }
+      ],
+      "examples": [
+        {
+          "de": "Ich arbeite heute zu Hause.",
+          "en": "I'm working from home today.",
+          "note": "The plain version: subject in position 1, verb in position 2."
+        },
+        {
+          "de": "Heute arbeite ich zu Hause.",
+          "en": "Today I'm working from home.",
+          "note": "heute took position 1, so ich had to move behind the verb. Same meaning, more natural in a conversation about today."
+        },
+        {
+          "de": "Am Wochenende fahren wir nach Hamburg.",
+          "en": "At the weekend we're going to Hamburg.",
+          "note": "Am Wochenende is two words but one chunk, so it fills position 1 by itself."
+        },
+        {
+          "de": "Deshalb lerne ich Deutsch.",
+          "en": "That's why I'm learning German.",
+          "note": "Linking words like deshalb take position 1 themselves — the subject follows the verb."
+        },
+        {
+          "de": "Morgen muss ich früh aufstehen.",
+          "en": "Tomorrow I have to get up early.",
+          "note": "With two verbs only the conjugated one (muss) is in position 2; aufstehen waits at the very end."
+        },
+        {
+          "de": "Aber ich habe keine Zeit.",
+          "en": "But I don't have time.",
+          "note": "aber is glue between sentences, not position 1 — so the normal order simply continues."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "Heute ich gehe ins Kino.",
+          "right": "Heute gehe ich ins Kino.",
+          "why": "Only one chunk may stand before the verb. Once heute has that spot, ich has to move behind gehe."
+        },
+        {
+          "wrong": "Morgen ich muss früh aufstehen.",
+          "right": "Morgen muss ich früh aufstehen.",
+          "why": "The same trap with a modal verb: the conjugated piece is muss, and that is what belongs in position 2."
+        },
+        {
+          "wrong": "Ich jeden Tag fahre mit dem Bus.",
+          "right": "Ich fahre jeden Tag mit dem Bus.",
+          "why": "Nothing is allowed to squeeze in between position 1 and the verb. Time expressions go after the verb, not before it."
+        },
+        {
+          "wrong": "Aber bin ich müde.",
+          "right": "Aber ich bin müde.",
+          "why": "This is over-applying the rule. und, aber, oder and denn sit outside the sentence, so they never occupy position 1."
+        }
+      ],
+      "drills": [
+        {
+          "type": "choice",
+          "question": "Which sentence is correct?",
+          "options": ["Heute ich gehe ins Kino.", "Heute gehe ich ins Kino.", "Ich heute gehe ins Kino."],
+          "answer": "Heute gehe ich ins Kino.",
+          "explain": "heute already fills position 1, so the verb must come straight after it and the subject drops in behind."
+        },
+        {
+          "type": "choice",
+          "question": "Morgen ___ nach Hamburg.",
+          "options": ["fahre ich", "ich fahre", "ich fahren"],
+          "answer": "fahre ich",
+          "explain": "After a fronted time word the verb comes immediately, and the subject follows it."
+        },
+        {
+          "type": "fill",
+          "question": "Am Montag ___ ich zu Hause. (arbeiten)",
+          "answer": "arbeite",
+          "accept": ["arbeite"],
+          "explain": "The verb takes position 2 right after the time chunk, and it still has to match ich."
+        },
+        {
+          "type": "fill",
+          "question": "Rewrite with heute first — Ich habe heute Zeit. → Heute ___ ich Zeit.",
+          "answer": "habe",
+          "accept": ["habe"],
+          "explain": "Fronting heute pushes the subject behind the verb, but the verb form itself does not change."
+        },
+        {
+          "type": "choice",
+          "question": "Aber ___ heute keine Zeit.",
+          "options": ["habe ich", "ich habe", "ich haben"],
+          "answer": "ich habe",
+          "explain": "aber is glue between sentences and does not fill position 1, so the normal subject-then-verb order stays."
+        },
+        {
+          "type": "order",
+          "words": ["Am", "Wochenende", "fahren", "wir", "nach", "Hamburg"],
+          "answer": "Am Wochenende fahren wir nach Hamburg",
+          "explain": "Am Wochenende is a single chunk in position 1, so the verb is next and wir comes after it."
+        },
+        {
+          "type": "order",
+          "words": ["Meine", "Frau", "und", "ich", "wohnen", "in", "Berlin"],
+          "answer": "Meine Frau und ich wohnen in Berlin",
+          "explain": "Four words, but one chunk — the subject — so the verb is still counted as the second element."
+        },
+        {
+          "type": "order",
+          "words": ["Morgen", "muss", "ich", "früh", "aufstehen"],
+          "answer": "Morgen muss ich früh aufstehen",
+          "explain": "Only the conjugated verb muss takes position 2; the unchanged aufstehen is parked at the end."
+        }
+      ],
+      "keyWords": ["heute", "jetzt", "gehen", "wohnen", "fahren", "deshalb", "aber"]
+    },
+    {
+      "id": "questions",
+      "number": 18,
+      "title": "Asking questions",
+      "level": "A0",
+      "group": "Word order",
+      "summary": "Two shapes only: verb first for yes/no questions, question word first for everything else — plus the wo / wohin / woher split.",
+      "rule": "<p>German asks questions in exactly two shapes, and neither one needs a helper word. English sticks <em>do</em> in front — <em>Do you live here?</em> German has nothing like that. You simply move the verb.</p><p><strong>Shape 1 — yes/no questions.</strong> Take the statement and put the <strong>conjugated verb</strong> right at the front. \"Conjugated\" means the form that changed to match the person: <code>ich wohne</code>, <code>du wohnst</code>, <code>er wohnt</code>. So <code>Du wohnst hier.</code> becomes <code>Wohnst du hier?</code> The subject follows immediately after it.</p><p><strong>Shape 2 — W-questions.</strong> Start with the question word (nearly all of them begin with <em>w</em>), then the verb, then the subject: <code>Wo wohnst du?</code> <code>Wann kommt der Zug?</code> This is not a new rule at all — the W-word is simply filling position 1, and the verb is still the second element, exactly as in a statement.</p><p>The part that trips up every English speaker is <strong>wo / wohin / woher</strong>. English uses <em>where</em> for all three. German splits them, and here Turkish helps you far more than English does: <code>wo</code> = <em>nerede</em>, <code>wohin</code> = <em>nereye</em>, <code>woher</code> = <em>nereden</em>. If the verb involves movement (<code>gehen</code>, <code>fahren</code>, <code>kommen</code>), you almost certainly need <code>wohin</code> or <code>woher</code>, not <code>wo</code>.</p><p>Answering: <code>ja</code> for yes, <code>nein</code> for no — and <code>doch</code>, which English has no word for. Use <code>doch</code> to contradict a negative question: <em>Kommst du nicht mit?</em> — <em>Doch!</em> meaning \"Yes, I actually am coming.\"</p>",
+      "tables": [
+        {
+          "title": "The question words",
+          "headers": ["German", "English", "Example"],
+          "rows": [
+            ["wer", "who", "Wer ist das?"],
+            ["was", "what", "Was machst du?"],
+            ["wo", "where (at)", "Wo wohnst du?"],
+            ["wohin", "where to", "Wohin gehst du?"],
+            ["woher", "where from", "Woher kommst du?"],
+            ["wann", "when", "Wann kommt der Zug?"],
+            ["wie", "how", "Wie heißt du?"],
+            ["warum", "why", "Warum lernst du Deutsch?"],
+            ["wie viel", "how much", "Wie viel kostet das?"],
+            ["welcher", "which", "Welcher Bus fährt zum Bahnhof?"]
+          ],
+          "highlight": [[2, 0], [3, 0], [4, 0]]
+        },
+        {
+          "title": "Three kinds of \"where\"",
+          "headers": ["German", "Turkish", "English", "Use it for"],
+          "rows": [
+            ["wo", "nerede", "where", "a place you are — Wo bist du?"],
+            ["wohin", "nereye", "where (to)", "a direction — Wohin fährst du?"],
+            ["woher", "nereden", "where (from)", "an origin — Woher kommst du?"]
+          ],
+          "highlight": [[0, 0], [1, 0], [2, 0]]
+        },
+        {
+          "title": "The two shapes next to a statement",
+          "headers": ["", "1", "2", "3"],
+          "rows": [
+            ["Statement", "Du", "wohnst", "in Berlin."],
+            ["Yes/no question", "Wohnst", "du", "in Berlin?"],
+            ["W-question", "Wo", "wohnst", "du?"]
+          ],
+          "highlight": [[1, 1], [2, 2]]
+        }
+      ],
+      "examples": [
+        {
+          "de": "Kommst du mit?",
+          "en": "Are you coming along?",
+          "note": "Verb at the front = yes/no question. Nothing else is added."
+        },
+        {
+          "de": "Hast du Zeit?",
+          "en": "Do you have time?",
+          "note": "English needs 'do'; German just moves hast to the front."
+        },
+        {
+          "de": "Wo wohnst du?",
+          "en": "Where do you live?",
+          "note": "Question word, then verb, then subject — the verb is still the second element."
+        },
+        {
+          "de": "Woher kommen Sie?",
+          "en": "Where are you from?",
+          "note": "Origin → woher (nereden). Probably the first question a new neighbour will ask you."
+        },
+        {
+          "de": "Wohin geht dieser Bus?",
+          "en": "Where does this bus go?",
+          "note": "The bus is moving, so it is a direction → wohin (nereye), never wo."
+        },
+        {
+          "de": "Wie viel kostet das?",
+          "en": "How much does that cost?",
+          "note": "wie viel is one chunk in position 1, so kostet comes straight after it."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "Wo gehst du?",
+          "right": "Wohin gehst du?",
+          "why": "gehen is movement, so German needs the direction word wohin (Turkish nereye). wo only asks about a fixed place."
+        },
+        {
+          "wrong": "Wo kommst du?",
+          "right": "Woher kommst du?",
+          "why": "kommen points back at an origin, so the question word must be woher (nereden)."
+        },
+        {
+          "wrong": "Wo du wohnst?",
+          "right": "Wo wohnst du?",
+          "why": "The verb comes immediately after the question word. German never leaves the subject sitting between the two."
+        },
+        {
+          "wrong": "Was ist dein Name?",
+          "right": "Wie ist dein Name?",
+          "why": "German asks 'how' is your name, not 'what'. In everyday speech people just say Wie heißt du?"
+        }
+      ],
+      "drills": [
+        {
+          "type": "choice",
+          "question": "___ wohnst du?",
+          "options": ["Wo", "Wohin", "Woher"],
+          "answer": "Wo",
+          "explain": "wohnen is about the place you are, not a direction — Turkish nerede."
+        },
+        {
+          "type": "choice",
+          "question": "___ kommst du? — Aus der Türkei.",
+          "options": ["Wo", "Wohin", "Woher"],
+          "answer": "Woher",
+          "explain": "The answer names an origin, and origins are asked with woher — Turkish nereden."
+        },
+        {
+          "type": "choice",
+          "question": "___ fährt dieser Bus?",
+          "options": ["Wo", "Wohin", "Woher"],
+          "answer": "Wohin",
+          "explain": "The bus is going somewhere, and a direction always takes wohin — Turkish nereye."
+        },
+        {
+          "type": "fill",
+          "question": "___ du Zeit? (haben)",
+          "answer": "Hast",
+          "accept": ["Hast", "hast"],
+          "explain": "A yes/no question starts with the conjugated verb, and haben with du becomes hast."
+        },
+        {
+          "type": "choice",
+          "question": "Which sentence is correct?",
+          "options": ["Wo du wohnst?", "Wo wohnst du?", "Wo wohnst?"],
+          "answer": "Wo wohnst du?",
+          "explain": "After the question word the verb comes next and the subject after it — nothing may sit in between."
+        },
+        {
+          "type": "fill",
+          "question": "___ kostet das Ticket? (how much)",
+          "answer": "Wie viel",
+          "accept": ["Wie viel", "wie viel", "Wieviel"],
+          "explain": "wie viel asks about an amount, and it counts as the single chunk in position 1."
+        },
+        {
+          "type": "order",
+          "words": ["Wann", "kommt", "der", "Zug"],
+          "answer": "Wann kommt der Zug",
+          "explain": "Question word first, verb second, subject last — the same position-2 rule as in a statement."
+        },
+        {
+          "type": "order",
+          "words": ["Sprechen", "Sie", "Englisch"],
+          "answer": "Sprechen Sie Englisch",
+          "explain": "There is no question word here, so the verb itself starts the sentence — that is what makes it a yes/no question."
+        }
+      ],
+      "keyWords": ["wo", "wohin", "woher", "wann", "wie", "warum", "wer", "was"]
+    }
+  ]
+}

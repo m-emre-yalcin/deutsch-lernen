@@ -1,0 +1,469 @@
+{
+  "lessons": [
+    {
+      "id": "subordinate-clauses",
+      "number": 25,
+      "title": "weil, dass, wenn — the verb goes to the END",
+      "level": "A2",
+      "group": "Word order",
+      "summary": "Eight little words — weil, dass, wenn, ob and friends — that kick the conjugated verb all the way to the back of its own clause.",
+      "rule": "<p>A <strong>clause</strong> is a piece of a sentence that has its own subject and its own verb. <code>Ich bleibe zu Hause</code> is a clause. So is <code>weil ich krank bin</code> — but notice the difference. The first one can stand alone as a whole sentence. The second one cannot: say <em>weil ich krank bin</em> to someone out of the blue and they will stand there waiting for the rest. That second kind is a <strong>subordinate clause</strong> — a piece that hangs off a main sentence and explains it, qualifies it or reports it.</p><p>German marks these clauses with a signal word at the front: <code>weil</code> (because), <code>dass</code> (that), <code>wenn</code> (if / whenever), <code>ob</code> (whether), <code>obwohl</code> (although), <code>damit</code> (so that), <code>bevor</code> (before), <code>als</code> (when, one time in the past). The moment one of those appears, one thing happens, and it always happens: <strong>the conjugated verb slides to the very end of that clause.</strong> \"Conjugated\" just means the form that changed to match the person doing it — <code>ich bin</code>, <code>er kommt</code>, <code>wir haben</code>. And there is always a comma in front of the signal word.</p><p>So <code>Ich bin krank</code> turns into <code>…, weil ich krank bin.</code> Nothing else moves; only the verb travels. This should feel less alien to you than it does to an English speaker, because Turkish puts the verb at the end too. The hard part is not the idea — it is doing it at speaking speed, since <code>weil</code> comes out of your mouth long before you have decided which verb will finish the sentence.</p><p>Three situations where people lose the thread. With a <strong>modal verb</strong> (<code>muss</code>, <code>kann</code>, <code>will</code>), the modal is the conjugated one, so <em>it</em> goes last and the plain verb waits just in front of it: <code>…, weil ich arbeiten muss.</code> With a <strong>separable verb</strong> — one whose little prefix normally flies off to the end, like <code>ich rufe dich an</code> — the two halves glue back together into a single word: <code>…, dass ich dich anrufe.</code> And in the past, <code>habe</code> or <code>bin</code> is the conjugated part, so that is what lands last: <code>…, weil ich zu viel gegessen habe.</code></p><p>Two warnings. First, if you put the subordinate clause first, the whole clause counts as one single chunk in position 1, so the main verb must come immediately after the comma: <code>Weil ich krank bin, bleibe ich zu Hause.</code> You end up with two verbs meeting around the comma — <em>bin, bleibe</em> — which looks broken to a beginner and is exactly right. Second, do not over-apply this. <code>denn</code> means the same as <code>weil</code>, and <code>und</code>, <code>aber</code> and <code>oder</code> join things too, but all four are plain joiners that change <strong>nothing</strong>: <code>Ich bleibe zu Hause, denn ich bin krank.</code></p>",
+      "tables": [
+        {
+          "title": "The words that send the verb to the end",
+          "headers": ["word", "means", "example"],
+          "rows": [
+            ["weil", "because", "Ich bleibe hier, weil es regnet."],
+            ["dass", "that", "Ich glaube, dass er kommt."],
+            ["wenn", "if / whenever", "Wenn es regnet, bleibe ich hier."],
+            ["ob", "whether", "Ich weiß nicht, ob er kommt."],
+            ["obwohl", "although", "Ich komme, obwohl ich müde bin."],
+            ["damit", "so that", "Ich lerne, damit ich alles verstehe."],
+            ["bevor", "before", "Ich esse, bevor ich gehe."],
+            ["als", "when (one time, in the past)", "Als ich klein war, hatte ich einen Hund."]
+          ],
+          "highlight": [[0, 2], [3, 2]]
+        },
+        {
+          "title": "Same meaning, opposite word order",
+          "headers": ["joiner", "sentence", "where the verb sits"],
+          "rows": [
+            ["weil", "Ich bleibe zu Hause, weil ich krank bin.", "at the very end"],
+            ["denn", "Ich bleibe zu Hause, denn ich bin krank.", "in position 2, as normal"]
+          ],
+          "highlight": [[0, 1]]
+        },
+        {
+          "title": "What lands in the last slot",
+          "headers": ["verb type", "on its own", "in a subordinate clause"],
+          "rows": [
+            ["one plain verb", "Ich bin krank.", "…, weil ich krank bin."],
+            ["with a modal", "Ich muss arbeiten.", "…, weil ich arbeiten muss."],
+            ["separable verb", "Ich rufe dich an.", "…, dass ich dich anrufe."],
+            ["past tense", "Ich habe geschlafen.", "…, weil ich geschlafen habe."]
+          ],
+          "highlight": [[1, 2], [2, 2]]
+        }
+      ],
+      "examples": [
+        {
+          "de": "Ich bleibe zu Hause, weil ich krank bin.",
+          "en": "I'm staying home because I'm sick.",
+          "note": "On its own it would be ich bin krank. weil pushes bin past krank into the last slot."
+        },
+        {
+          "de": "Ich glaube, dass der Bus gleich kommt.",
+          "en": "I think the bus is coming any moment.",
+          "note": "dass carries a piece of information after glauben, sagen, denken, wissen — and kommt drops to the end."
+        },
+        {
+          "de": "Wenn es regnet, nehme ich den Bus.",
+          "en": "When it rains, I take the bus.",
+          "note": "The clause comes first, so it fills position 1 by itself and the main verb nehme follows straight after the comma."
+        },
+        {
+          "de": "Ich weiß nicht, ob er heute kommt.",
+          "en": "I don't know whether he's coming today.",
+          "note": "\"Whether\" is ob, not wenn. wenn would make it a condition, which is not what you mean here."
+        },
+        {
+          "de": "Ich kann nicht kommen, weil ich arbeiten muss.",
+          "en": "I can't come because I have to work.",
+          "note": "The modal muss is the conjugated verb, so it goes last of all and arbeiten stands in front of it."
+        },
+        {
+          "de": "Sie sagt, dass sie mich morgen anruft.",
+          "en": "She says she'll call me tomorrow.",
+          "note": "Normally you'd say sie ruft mich an. In the clause the prefix an- glues back on and anruft goes to the end as one word."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "Ich bleibe zu Hause, weil ich bin krank.",
+          "right": "Ich bleibe zu Hause, weil ich krank bin.",
+          "why": "This is English word order and it is the single most common mistake in German. weil always drives the conjugated verb behind everything else."
+        },
+        {
+          "wrong": "Ich kann nicht kommen, weil ich muss arbeiten.",
+          "right": "Ich kann nicht kommen, weil ich arbeiten muss.",
+          "why": "With two verbs only the conjugated one goes last — that is the modal muss. The unchanged arbeiten waits in front of it."
+        },
+        {
+          "wrong": "Weil ich krank bin, ich bleibe zu Hause.",
+          "right": "Weil ich krank bin, bleibe ich zu Hause.",
+          "why": "The whole weil-clause is one chunk sitting in position 1, so the main verb must come right after the comma and ich moves behind it."
+        },
+        {
+          "wrong": "Ich bleibe zu Hause, denn ich krank bin.",
+          "right": "Ich bleibe zu Hause, denn ich bin krank.",
+          "why": "Over-applying the rule. denn means the same as weil but is a plain joiner — it leaves the word order completely alone."
+        }
+      ],
+      "drills": [
+        {
+          "type": "choice",
+          "question": "Which sentence is correct?",
+          "options": [
+            "Ich lerne Deutsch, weil ich in Berlin wohne.",
+            "Ich lerne Deutsch, weil ich wohne in Berlin.",
+            "Ich lerne Deutsch, weil wohne ich in Berlin."
+          ],
+          "answer": "Ich lerne Deutsch, weil ich in Berlin wohne.",
+          "explain": "weil sends the conjugated verb behind everything else in its clause, so wohne ends up after in Berlin."
+        },
+        {
+          "type": "fill",
+          "question": "Ich gehe nicht ins Büro, weil ich krank ___. (sein)",
+          "answer": "bin",
+          "accept": ["bin"],
+          "explain": "The verb still has to match ich, but weil parks it in the last slot, after krank."
+        },
+        {
+          "type": "choice",
+          "question": "Er sagt, dass er heute keine Zeit ___.",
+          "options": ["hat", "hat er", "er hat"],
+          "answer": "hat",
+          "explain": "In a dass-clause the subject stays where it is and only the verb moves, so nothing at all may stand after hat."
+        },
+        {
+          "type": "fill",
+          "question": "Ich weiß nicht, ___ der Laden heute offen ist. (whether)",
+          "answer": "ob",
+          "accept": ["ob"],
+          "explain": "\"Whether\" is ob; wenn would turn it into a condition, which makes no sense after ich weiß nicht."
+        },
+        {
+          "type": "choice",
+          "question": "Ich kann nicht kommen, weil ich ___.",
+          "options": ["arbeiten muss", "muss arbeite", "muss arbeiten"],
+          "answer": "arbeiten muss",
+          "explain": "The modal muss is the conjugated verb, so it takes the final slot and the plain arbeiten stands in front of it."
+        },
+        {
+          "type": "order",
+          "words": ["Ich", "stehe", "früh", "auf,", "weil", "der", "Zug", "um", "sechs", "fährt"],
+          "answer": "Ich stehe früh auf, weil der Zug um sechs fährt",
+          "explain": "The main clause keeps its normal shape; only inside the weil-clause does fährt jump to the end."
+        },
+        {
+          "type": "order",
+          "words": ["Sie", "sagt,", "dass", "sie", "mich", "morgen", "anruft"],
+          "answer": "Sie sagt, dass sie mich morgen anruft",
+          "explain": "In a subordinate clause the prefix an- glues back onto ruft and the whole word goes last."
+        },
+        {
+          "type": "order",
+          "words": ["Wenn", "es", "regnet,", "nehme", "ich", "den", "Bus"],
+          "answer": "Wenn es regnet, nehme ich den Bus",
+          "explain": "The whole wenn-clause counts as one chunk in position 1, so the main verb has to come straight after the comma."
+        }
+      ],
+      "keyWords": ["weil", "dass", "wenn", "ob", "obwohl", "damit", "bevor", "als", "denn"]
+    },
+    {
+      "id": "conjunctions",
+      "number": 26,
+      "title": "Joining sentences: und, aber, denn, oder, sondern, deshalb",
+      "level": "A1",
+      "group": "Word order",
+      "summary": "Three kinds of glue between sentences: some change nothing, some flip the subject behind the verb, some throw the verb to the end.",
+      "rule": "<p>Once you can build one sentence, you want to stick two of them together. German has three different kinds of glue for that, and they all look equally harmless — but each one does something different to the <strong>word order</strong>. Choosing the right glue and then getting the order right is most of what makes a beginner suddenly sound fluent.</p><p><strong>Group 1: the plain joiners.</strong> <code>und</code> (and), <code>aber</code> (but), <code>oder</code> (or), <code>denn</code> (because), <code>sondern</code> (but rather). These five stand <em>outside</em> both sentences, in a kind of position zero. They change <strong>nothing</strong>. Whatever the second half would have looked like on its own, that is what you say: <code>Ich bin müde, aber ich komme mit.</code> Subject first, verb second, exactly as normal.</p><p><strong>Group 2: the connectors.</strong> <code>deshalb</code> (that's why), <code>trotzdem</code> (even so), <code>dann</code> (then), <code>außerdem</code> (besides), <code>danach</code> (after that). These are real words <em>inside</em> the sentence, and they are greedy — they take position 1 for themselves. Since the conjugated verb has to be in position 2, the subject gets pushed behind it: <code>Es regnet. Deshalb nehme ich den Bus.</code> Never <em>Deshalb ich nehme</em>. If you remember one thing from this lesson, remember that this group flips subject and verb.</p><p><strong>Group 3: the subordinators.</strong> <code>weil</code>, <code>dass</code>, <code>wenn</code>, <code>obwohl</code> and their friends. These send the conjugated verb all the way to the end of their own clause: <code>Ich nehme den Bus, weil es regnet.</code> Notice that one single thought can be said with all three kinds of glue, and only the word order tells them apart: <code>…, denn es regnet</code> / <code>…, weil es regnet</code> / <code>Deshalb nehme ich den Bus.</code></p><p>Finally, the pair that trips up everybody: <code>aber</code> versus <code>sondern</code>. Both come out as \"but\" in English and as <em>ama</em> in Turkish, so nothing in your head warns you. Use <code>sondern</code> only when the first half was <strong>negative</strong> — it had <code>nicht</code> or <code>kein</code> in it — and the second half <strong>replaces</strong> the thing you just cancelled: <code>Das ist kein Tee, sondern Kaffee.</code> <code>Ich komme nicht heute, sondern morgen.</code> If the second half adds something new instead of replacing it, you stay with <code>aber</code>, negative or not: <code>Ich habe kein Auto, aber ich habe ein Fahrrad.</code></p>",
+      "tables": [
+        {
+          "title": "Three groups, three effects",
+          "headers": ["group", "words", "what happens in the second half"],
+          "rows": [
+            ["plain joiners (outside the sentence)", "und, aber, oder, denn, sondern", "nothing changes — subject, then verb"],
+            ["connectors (they take position 1)", "deshalb, trotzdem, dann, außerdem", "verb comes next, subject jumps behind it"],
+            ["subordinators", "weil, dass, wenn, obwohl", "conjugated verb goes to the very end"]
+          ],
+          "highlight": [[1, 2], [2, 2]]
+        },
+        {
+          "title": "One idea, three ways to say it",
+          "headers": ["glue", "sentence"],
+          "rows": [
+            ["denn", "Ich bleibe zu Hause, denn ich bin krank."],
+            ["weil", "Ich bleibe zu Hause, weil ich krank bin."],
+            ["deshalb", "Ich bin krank. Deshalb bleibe ich zu Hause."]
+          ],
+          "highlight": [[1, 1], [2, 1]]
+        },
+        {
+          "title": "aber or sondern?",
+          "headers": ["first half", "second half", "word you need"],
+          "rows": [
+            ["Ich bin müde,", "ich komme mit.", "aber"],
+            ["Das ist kein Tee,", "Kaffee.", "sondern"],
+            ["Ich habe kein Auto,", "ich habe ein Fahrrad.", "aber"],
+            ["Ich komme nicht heute,", "morgen.", "sondern"]
+          ],
+          "highlight": [[1, 2], [3, 2]]
+        }
+      ],
+      "examples": [
+        {
+          "de": "Ich trinke Kaffee und meine Frau trinkt Tee.",
+          "en": "I drink coffee and my wife drinks tea.",
+          "note": "und just parks between two finished sentences. Both halves keep the normal subject-then-verb order."
+        },
+        {
+          "de": "Ich bin müde, aber ich komme mit.",
+          "en": "I'm tired, but I'm coming along.",
+          "note": "aber sits outside the sentence, so the second half starts with ich exactly as if it stood alone."
+        },
+        {
+          "de": "Ich bleibe zu Hause, denn ich bin krank.",
+          "en": "I'm staying home, because I'm sick.",
+          "note": "denn means the same as weil — but unlike weil it leaves the word order completely alone."
+        },
+        {
+          "de": "Es regnet. Deshalb nehme ich den Bus.",
+          "en": "It's raining. That's why I'm taking the bus.",
+          "note": "deshalb is a real element and it occupies position 1, so the verb follows immediately and ich lands behind it."
+        },
+        {
+          "de": "Das ist kein Tee, sondern Kaffee.",
+          "en": "That isn't tea, it's coffee.",
+          "note": "kein cancels Tee and Kaffee replaces it. Cancel-and-replace is always sondern, never aber."
+        },
+        {
+          "de": "Ich habe keine Zeit, trotzdem helfe ich dir.",
+          "en": "I don't have time, even so I'll help you.",
+          "note": "trotzdem behaves like deshalb: it grabs position 1, so helfe comes next and ich follows the verb."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "Deshalb ich bleibe zu Hause.",
+          "right": "Deshalb bleibe ich zu Hause.",
+          "why": "deshalb takes position 1 itself, so only the verb is allowed after it. The subject has to move behind the verb."
+        },
+        {
+          "wrong": "Ich bin müde, aber komme ich mit.",
+          "right": "Ich bin müde, aber ich komme mit.",
+          "why": "The deshalb rule applied to the wrong group. aber is not part of the sentence, so it never flips subject and verb."
+        },
+        {
+          "wrong": "Das ist kein Tee, aber Kaffee.",
+          "right": "Das ist kein Tee, sondern Kaffee.",
+          "why": "The second half cancels the negative and puts something in its place. German uses sondern for that job, never aber."
+        },
+        {
+          "wrong": "Ich bleibe zu Hause, denn ich krank bin.",
+          "right": "Ich bleibe zu Hause, denn ich bin krank.",
+          "why": "denn is a plain joiner and keeps the verb in position 2. Only weil throws it to the end."
+        }
+      ],
+      "drills": [
+        {
+          "type": "choice",
+          "question": "Ich bin müde, ___ ich komme mit.",
+          "options": ["aber", "sondern", "deshalb"],
+          "answer": "aber",
+          "explain": "Nothing is being cancelled and the word order does not change, so it is the plain contrast word aber."
+        },
+        {
+          "type": "choice",
+          "question": "Das ist kein Tee, ___ Kaffee.",
+          "options": ["und", "aber", "sondern"],
+          "answer": "sondern",
+          "explain": "sondern is the word you use when the second half replaces something you just negated with kein or nicht."
+        },
+        {
+          "type": "choice",
+          "question": "Es regnet. Deshalb ___ zu Hause.",
+          "options": ["ich bleibe", "bleibe ich", "bleiben ich"],
+          "answer": "bleibe ich",
+          "explain": "deshalb fills position 1, so the verb must come second and the subject drops in behind it."
+        },
+        {
+          "type": "fill",
+          "question": "Ich lerne Deutsch, ___ ich in Berlin wohne. (because)",
+          "answer": "weil",
+          "accept": ["weil"],
+          "explain": "wohne is already sitting at the end of the clause, and only weil puts it there — denn would leave it in position 2."
+        },
+        {
+          "type": "fill",
+          "question": "Ich lerne Deutsch, ___ ich wohne in Berlin. (because)",
+          "answer": "denn",
+          "accept": ["denn"],
+          "explain": "Here wohne is in its normal second position, which only the plain joiner denn allows."
+        },
+        {
+          "type": "order",
+          "words": ["Ich", "bin", "müde,", "aber", "ich", "komme", "mit"],
+          "answer": "Ich bin müde, aber ich komme mit",
+          "explain": "aber stands outside both halves, so the second half begins with its subject just as if it were a sentence on its own."
+        },
+        {
+          "type": "order",
+          "words": ["Ich", "habe", "keine", "Zeit,", "trotzdem", "helfe", "ich", "dir"],
+          "answer": "Ich habe keine Zeit, trotzdem helfe ich dir",
+          "explain": "trotzdem takes position 1 in the second half, so the verb comes next and ich ends up behind the verb."
+        },
+        {
+          "type": "order",
+          "words": ["Ich", "komme", "nicht", "heute,", "sondern", "morgen"],
+          "answer": "Ich komme nicht heute, sondern morgen",
+          "explain": "nicht cancels heute and morgen takes its place — replacing a negative is exactly what sondern is for."
+        }
+      ],
+      "keyWords": ["und", "aber", "oder", "denn", "sondern", "deshalb", "trotzdem", "dann", "ausserdem"]
+    },
+    {
+      "id": "adjective-endings",
+      "number": 27,
+      "title": "Adjective endings — the scary table, made manageable",
+      "level": "A2",
+      "group": "Adjectives",
+      "summary": "No ending after ist, always an ending before a noun — and one simple idea that makes the three-part table finally make sense.",
+      "rule": "<p>An <strong>adjective</strong> is a describing word: <code>neu</code> (new), <code>alt</code> (old), <code>groß</code> (big), <code>klein</code> (small), <code>kalt</code> (cold). In German an adjective can stand in two very different places, and the whole lesson is about telling those two places apart.</p><p><strong>After the verb, nothing happens.</strong> When the adjective comes after <code>ist</code>, <code>sind</code> or <code>wird</code>, it is completely bare — no ending, ever, for any gender or number: <code>Das Auto ist neu.</code> <code>Die Wohnung ist neu.</code> <code>Die Autos sind neu.</code> This half is free, and it works just like Turkish and English.</p><p><strong>In front of a noun, an ending is compulsory.</strong> There is no such thing as a bare adjective standing before a German noun. <code>das neue Auto</code>, <code>ein neues Auto</code>, <code>mit neuen Autos</code>. Leaving the ending off entirely is more noticeable to German ears than picking the wrong one, so when in doubt, add something.</p><p>Here is the idea that makes the famous table manageable. Every German noun phrase has to show two things somewhere: its <strong>gender</strong> (is it a der, die or das word) and its <strong>case</strong> — the job the noun is doing in the sentence. Somebody has to do that work. If the article in front already does it clearly, the adjective can be lazy and just takes <code>-e</code> or <code>-en</code>. If there is no article, or the article is vague, the adjective has to do the job itself and takes the ending <code>der/die/das</code> would have had. That is the entire logic behind all three tables.</p><p>So, three situations. <strong>After der/die/das</strong>: only two endings exist in the whole table, <code>-e</code> and <code>-en</code> — <code>-e</code> in the nominative singular corner, <code>-en</code> everywhere else. <strong>After ein/kein/mein</strong>: the same, except in the three spots where <code>ein</code> itself shows nothing (<code>ein</code> looks identical for a der-word and a das-word), and there the adjective steps in: <code>ein guter Kaffee</code>, <code>ein neues Auto</code>. <strong>With no article at all</strong>: <code>guter Kaffee</code>, <code>kalte Milch</code>, <code>kaltes Wasser</code> — the adjective simply wears der/die/das's own ending. And one cheat that is right far more often than it deserves to be: if you are not in the nominative singular, guess <code>-en</code>.</p>",
+      "tables": [
+        {
+          "title": "After der / die / das — only -e and -en exist",
+          "headers": ["", "masculine", "feminine", "neuter", "plural"],
+          "rows": [
+            ["Nominativ", "-e", "-e", "-e", "-en"],
+            ["Akkusativ", "-en", "-e", "-e", "-en"],
+            ["Dativ", "-en", "-en", "-en", "-en"]
+          ],
+          "highlight": [[0, 1], [0, 2], [0, 3], [1, 2], [1, 3]]
+        },
+        {
+          "title": "After ein / kein / mein — only three cells differ",
+          "headers": ["", "masculine", "feminine", "neuter", "plural"],
+          "rows": [
+            ["Nominativ", "-er", "-e", "-es", "-en"],
+            ["Akkusativ", "-en", "-e", "-es", "-en"],
+            ["Dativ", "-en", "-en", "-en", "-en"]
+          ],
+          "highlight": [[0, 1], [0, 3], [1, 3]]
+        },
+        {
+          "title": "No article — the adjective becomes the article",
+          "headers": ["", "masculine", "feminine", "neuter", "plural"],
+          "rows": [
+            ["Nominativ", "-er", "-e", "-es", "-e"],
+            ["Akkusativ", "-en", "-e", "-es", "-e"],
+            ["Dativ", "-em", "-er", "-em", "-en"]
+          ],
+          "highlight": [[0, 1], [0, 3], [2, 1], [2, 3]]
+        }
+      ],
+      "examples": [
+        {
+          "de": "Der Kaffee ist heiß.",
+          "en": "The coffee is hot.",
+          "note": "The adjective stands after ist, not in front of a noun, so it stays bare. No ending, no thinking."
+        },
+        {
+          "de": "Ich möchte einen heißen Kaffee, bitte.",
+          "en": "I'd like a hot coffee, please."
+          ,
+          "note": "einen has already announced masculine and accusative, so the adjective can be lazy: -en."
+        },
+        {
+          "de": "Das ist ein leckerer Kuchen.",
+          "en": "That's a delicious cake.",
+          "note": "ein says nothing here — it looks the same for der-words and das-words — so the adjective supplies der's -er."
+        },
+        {
+          "de": "Ich habe ein neues Handy.",
+          "en": "I have a new phone.",
+          "note": "ein is silent again, so the adjective carries das Handy's information with -es."
+        },
+        {
+          "de": "Wir wohnen in einer kleinen Wohnung.",
+          "en": "We live in a small flat.",
+          "note": "After in with the dative, every adjective ending is -en, whatever the gender. This is the safest guess in the language."
+        },
+        {
+          "de": "Guten Tag!",
+          "en": "Hello! (literally: good day)",
+          "note": "A frozen leftover of ich wünsche Ihnen einen guten Tag — masculine, accusative, so guten. You already say a correct ending every day."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "Ich habe ein neu Auto.",
+          "right": "Ich habe ein neues Auto.",
+          "why": "An adjective in front of a noun is never bare. ein tells you nothing about das Auto, so the adjective has to show it with -es."
+        },
+        {
+          "wrong": "Das Handy ist kaputtes.",
+          "right": "Das Handy ist kaputt.",
+          "why": "The opposite trap, from trying too hard. After ist, sind or wird the adjective takes no ending at all."
+        },
+        {
+          "wrong": "Ich möchte ein großer Kaffee.",
+          "right": "Ich möchte einen großen Kaffee.",
+          "why": "The coffee is what you want, so it is accusative: ein becomes einen. And once the article shows the case, the adjective drops to -en."
+        },
+        {
+          "wrong": "Ich trinke gern kalt Milch.",
+          "right": "Ich trinke gern kalte Milch.",
+          "why": "There is no article at all here, so the adjective has to do the article's job: die Milch gives kalte Milch."
+        }
+      ],
+      "drills": [
+        {
+          "type": "choice",
+          "question": "Das Auto ist ___.",
+          "options": ["neu", "neue", "neues"],
+          "answer": "neu",
+          "explain": "The adjective comes after ist and is not standing in front of a noun, so it takes no ending."
+        },
+        {
+          "type": "choice",
+          "question": "Ich habe ein ___ Auto.",
+          "options": ["neu", "neue", "neues"],
+          "answer": "neues",
+          "explain": "ein shows nothing about neuter das Auto, so the adjective supplies the -es that das would have had."
+        },
+        {
+          "type": "fill",
+          "question": "Das ___ Auto ist teuer. (neu)",
+          "answer": "neue",
+          "accept": ["neue"],
+          "explain": "das already marks neuter and nominative, so the adjective relaxes into the lazy -e."
+        },
+        {
+          "type": "choice",
+          "question": "Ich möchte einen ___ Kaffee.",
+          "options": ["heiß", "heißer", "heißen"],
+          "answer": "heißen",
+          "explain": "einen has already marked masculine accusative, so the adjective only needs the lazy -en."
+        },
+        {
+          "type": "fill",
+          "question": "Das ist ein ___ Plan. (gut)",
+          "answer": "guter",
+          "accept": ["guter"],
+          "explain": "Masculine nominative after ein — ein gives no information, so the adjective takes der's -er."
+        },
+        {
+          "type": "fill",
+          "question": "Wir wohnen in einer ___ Wohnung. (klein)",
+          "answer": "kleinen",
+          "accept": ["kleinen"],
+          "explain": "in einer is dative, and in the dative every single adjective ending is -en."
+        },
+        {
+          "type": "order",
+          "words": ["Ich", "kaufe", "gern", "frisches", "Brot"],
+          "answer": "Ich kaufe gern frisches Brot",
+          "explain": "There is no article in front, so the adjective itself has to show that Brot is a das-word: -es."
+        },
+        {
+          "type": "order",
+          "words": ["Das", "neue", "Handy", "ist", "sehr", "teuer"],
+          "answer": "Das neue Handy ist sehr teuer",
+          "explain": "One adjective sits in front of the noun and needs -e after das; the other comes after ist and stays bare."
+        }
+      ],
+      "keyWords": ["frisch", "lecker", "kaputt"]
+    }
+  ]
+}

@@ -1,0 +1,483 @@
+{
+  "lessons": [
+    {
+      "id": "present-regular",
+      "number": 7,
+      "title": "Present tense — regular verbs",
+      "level": "A0",
+      "group": "Verbs",
+      "summary": "Six little endings glued onto the stem — and one present tense that covers both \"I work\" and \"I am working\".",
+      "rule": "<p>A <strong>verb</strong> is the word that says what is happening: <em>wohnen</em> (to live), <em>spielen</em> (to play), <em>lernen</em> (to learn). The form you find in a dictionary is called the <strong>infinitive</strong>, and in German it nearly always ends in <code>-en</code>.</p><p>Cut that <code>-en</code> off and what is left is the <strong>stem</strong>: <code>wohnen</code> → <code>wohn-</code>, <code>spielen</code> → <code>spiel-</code>. Now you glue a small <strong>ending</strong> onto the stem, and the ending tells you <em>who</em> is doing it — me, you, him, us. Turkish does exactly the same thing (<em>çalış-ıyor-um</em>); German just has fewer and shorter endings, and there are only six to learn.</p><p>If the stem already ends in <code>-t</code> or <code>-d</code>, slide an extra <code>-e</code> in so the word is still sayable: <code>arbeiten</code> → <code>du arbeitest</code>, <code>er arbeitet</code>, <code>ihr arbeitet</code>. Say <em>arbeitst</em> out loud once and you will understand why. Also notice that <code>er wohnt</code> and <code>ihr wohnt</code> look identical — you tell them apart from the word in front, not from the ending.</p><p><strong>German has only one present tense.</strong> English splits <em>I work</em> and <em>I am working</em> into two different forms. German does not: <code>Ich arbeite</code> is both of them. There is no <em>-ing</em> form at all, so never build something like <em>Ich bin arbeiten</em> — that sentence simply does not exist in German.</p><p>The same present tense also does the job of the future. Add a time word and you are finished: <code>Ich fahre morgen nach Berlin</code> means <em>I'm going to Berlin tomorrow</em>. Germans say it this way far more often than with the longer <em>werden</em>-future.</p>",
+      "tables": [
+        {
+          "title": "The six endings",
+          "headers": ["who", "ending", "example: wohnen"],
+          "rows": [
+            ["ich (I)", "-e", "ich wohne"],
+            ["du (you, one friend)", "-st", "du wohnst"],
+            ["er / sie / es (he / she / it)", "-t", "er wohnt"],
+            ["wir (we)", "-en", "wir wohnen"],
+            ["ihr (you, several friends)", "-t", "ihr wohnt"],
+            ["sie / Sie (they / you, polite)", "-en", "sie wohnen"]
+          ],
+          "highlight": [[1, 1], [2, 1]]
+        },
+        {
+          "title": "Three regular verbs side by side",
+          "headers": ["", "wohnen (live)", "spielen (play)", "lernen (learn)"],
+          "rows": [
+            ["ich", "wohne", "spiele", "lerne"],
+            ["du", "wohnst", "spielst", "lernst"],
+            ["er / sie / es", "wohnt", "spielt", "lernt"],
+            ["wir", "wohnen", "spielen", "lernen"],
+            ["ihr", "wohnt", "spielt", "lernt"],
+            ["sie / Sie", "wohnen", "spielen", "lernen"]
+          ],
+          "highlight": [[2, 1], [2, 2], [2, 3]]
+        },
+        {
+          "title": "When the stem ends in -t or -d: an extra -e",
+          "headers": ["", "arbeiten (work)", "warten (wait)"],
+          "rows": [
+            ["ich", "arbeite", "warte"],
+            ["du", "arbeitest", "wartest"],
+            ["er / sie / es", "arbeitet", "wartet"],
+            ["ihr", "arbeitet", "wartet"]
+          ],
+          "highlight": [[1, 1], [1, 2], [2, 1], [2, 2]]
+        }
+      ],
+      "examples": [
+        {
+          "de": "Ich wohne in Berlin.",
+          "en": "I live in Berlin.",
+          "note": "Stem wohn- plus -e for ich. This is also how you say \"I am living in Berlin\" — same sentence, no second form."
+        },
+        {
+          "de": "Was machst du?",
+          "en": "What are you doing?",
+          "note": "du takes -st. English needs \"are ... doing\"; German gets there with one word."
+        },
+        {
+          "de": "Er spielt am Samstag Fußball.",
+          "en": "He plays football on Saturday.",
+          "note": "er / sie / es always takes -t on the stem spiel-."
+        },
+        {
+          "de": "Wir lernen zusammen Deutsch.",
+          "en": "We learn German together.",
+          "note": "The wir form is identical to the dictionary form lernen. That is not a coincidence — both end in -en."
+        },
+        {
+          "de": "Meine Frau arbeitet in einem Büro.",
+          "en": "My wife works in an office.",
+          "note": "\"Meine Frau\" is a she, so it behaves like er / sie / es. Stem arbeit- ends in -t, so we get -et."
+        },
+        {
+          "de": "Ich fahre morgen nach München.",
+          "en": "I'm going to Munich tomorrow.",
+          "note": "Present tense doing future work. The word morgen (tomorrow) carries the time; the verb stays in the present."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "Ich bin arbeiten.",
+          "right": "Ich arbeite.",
+          "why": "There is no \"am ...-ing\" construction in German. Copying English word for word produces a sentence Germans cannot parse — one verb with one ending is the whole thing."
+        },
+        {
+          "wrong": "Er wohnen in Hamburg.",
+          "right": "Er wohnt in Hamburg.",
+          "why": "The bare -en form is only for wir and sie/Sie. For er / sie / es you must swap it for -t."
+        },
+        {
+          "wrong": "Du arbeitst zu viel.",
+          "right": "Du arbeitest zu viel.",
+          "why": "The stem arbeit- already ends in -t, so an -e goes in before the ending. Same for warten, antworten, finden."
+        },
+        {
+          "wrong": "Wo wohnst Sie?",
+          "right": "Wo wohnen Sie?",
+          "why": "Polite Sie is not the du form dressed up — it always takes the -en ending, exactly like sie (they). You will use this every single day at work and in offices."
+        }
+      ],
+      "drills": [
+        {
+          "type": "choice",
+          "question": "Ich ___ in Berlin.",
+          "options": ["wohne", "wohnst", "wohnt"],
+          "answer": "wohne",
+          "explain": "ich always takes -e, no matter which verb it is."
+        },
+        {
+          "type": "choice",
+          "question": "Er ___ jeden Tag Fußball.",
+          "options": ["spiele", "spielst", "spielt"],
+          "answer": "spielt",
+          "explain": "er / sie / es takes -t; the -en form would be wir or sie."
+        },
+        {
+          "type": "fill",
+          "question": "Du ___ sehr schnell Deutsch. (lernen)",
+          "answer": "lernst",
+          "accept": ["lernst"],
+          "explain": "du is the only person that gets the -st ending."
+        },
+        {
+          "type": "choice",
+          "question": "\"I am living in Hamburg\" in German is:",
+          "options": ["Ich bin wohnen in Hamburg.", "Ich wohne in Hamburg.", "Ich bin wohne in Hamburg."],
+          "answer": "Ich wohne in Hamburg.",
+          "explain": "German has no continuous form, so the plain present has to cover the English -ing meaning too."
+        },
+        {
+          "type": "fill",
+          "question": "Wir ___ um acht Uhr. (kommen)",
+          "answer": "kommen",
+          "accept": ["kommen"],
+          "explain": "wir keeps the -en, which makes it look like the dictionary form."
+        },
+        {
+          "type": "fill",
+          "question": "Ihr ___ zu viel. (arbeiten)",
+          "answer": "arbeitet",
+          "accept": ["arbeitet"],
+          "explain": "ihr normally takes -t, but a stem ending in -t needs a linking -e first or nobody could pronounce it."
+        },
+        {
+          "type": "order",
+          "words": ["Ich", "fahre", "morgen", "nach", "Berlin"],
+          "answer": "Ich fahre morgen nach Berlin",
+          "explain": "A present-tense verb plus a future time word is the normal way Germans talk about tomorrow."
+        },
+        {
+          "type": "order",
+          "words": ["Meine", "Tochter", "lernt", "auch", "Deutsch"],
+          "answer": "Meine Tochter lernt auch Deutsch",
+          "explain": "\"Meine Tochter\" counts as she, so the verb takes the er / sie / es ending -t."
+        }
+      ],
+      "keyWords": ["wohnen", "spielen", "lernen", "arbeiten", "kommen"]
+    },
+    {
+      "id": "present-irregular",
+      "number": 8,
+      "title": "Stem-changing verbs — fahren, nehmen, lesen",
+      "level": "A1",
+      "group": "Verbs",
+      "summary": "A handful of everyday verbs change their vowel — but only in the du and er/sie/es forms, nowhere else.",
+      "rule": "<p>Some of the most common German verbs quietly change the vowel inside their <strong>stem</strong> (the part left after you remove <code>-en</code>). The endings stay exactly the ones you already know. Only the vowel moves.</p><p>And it happens in <strong>only two places</strong>: the <code>du</code> form and the <code>er / sie / es</code> form. <code>ich</code>, <code>wir</code>, <code>ihr</code> and <code>sie / Sie</code> are completely normal. If you remember nothing else, remember that: two forms, then back to normal.</p><p>There are three changes. <code>a → ä</code>: <em>fahren</em> (to drive/go) gives <code>du fährst</code>, <code>er fährt</code>. <code>e → i</code>: <em>nehmen</em> (to take) gives <code>du nimmst</code>, <code>er nimmt</code>. <code>e → ie</code>: <em>lesen</em> (to read) gives <code>du liest</code>, <code>er liest</code>.</p><p>Two of them need a small warning. <em>nehmen</em> loses its <code>h</code> and doubles the <code>m</code> — it is <code>nimmt</code>, not <em>nihmt</em>. And with <em>lesen</em> the stem <code>lies-</code> already ends in an s-sound, so the <code>-st</code> ending gives up its <code>s</code>: <code>du liest</code>, not <em>du liesst</em>. That means <code>du</code> and <code>er</code> look identical here. Same thing with <em>essen</em>: <code>du isst</code>, <code>er isst</code>.</p><p>There is no rule that tells you in advance which verbs do this — you learn them one at a time. The consolation is that it is a short list, and they are verbs you will say twenty times a day: <em>fahren, nehmen, lesen, sprechen, geben, essen, schlafen, tragen, laufen, sehen</em>.</p>",
+      "tables": [
+        {
+          "title": "The three changes",
+          "headers": ["change", "infinitive", "du", "er / sie / es"],
+          "rows": [
+            ["a → ä", "fahren (to drive, to go)", "du fährst", "er fährt"],
+            ["e → i", "nehmen (to take)", "du nimmst", "er nimmt"],
+            ["e → ie", "lesen (to read)", "du liest", "er liest"]
+          ],
+          "highlight": [[0, 2], [0, 3], [1, 2], [1, 3], [2, 2], [2, 3]]
+        },
+        {
+          "title": "fahren, nehmen, lesen in full",
+          "headers": ["", "fahren", "nehmen", "lesen"],
+          "rows": [
+            ["ich", "fahre", "nehme", "lese"],
+            ["du", "fährst", "nimmst", "liest"],
+            ["er / sie / es", "fährt", "nimmt", "liest"],
+            ["wir", "fahren", "nehmen", "lesen"],
+            ["ihr", "fahrt", "nehmt", "lest"],
+            ["sie / Sie", "fahren", "nehmen", "lesen"]
+          ],
+          "highlight": [[1, 1], [1, 2], [1, 3], [2, 1], [2, 2], [2, 3]]
+        },
+        {
+          "title": "More of them you will meet every day",
+          "headers": ["infinitive", "meaning", "du", "er / sie / es"],
+          "rows": [
+            ["sprechen", "to speak", "du sprichst", "er spricht"],
+            ["geben", "to give", "du gibst", "er gibt"],
+            ["essen", "to eat", "du isst", "er isst"],
+            ["sehen", "to see", "du siehst", "er sieht"],
+            ["schlafen", "to sleep", "du schläfst", "er schläft"],
+            ["tragen", "to carry, to wear", "du trägst", "er trägt"],
+            ["laufen", "to run, to walk", "du läufst", "er läuft"]
+          ],
+          "highlight": [[6, 2], [6, 3]]
+        }
+      ],
+      "examples": [
+        {
+          "de": "Ich fahre mit dem Bus, aber Anna fährt mit dem Rad.",
+          "en": "I go by bus, but Anna goes by bike.",
+          "note": "Same verb, same sentence: ich stays plain fahre, Anna counts as she and gets the umlaut — fährt."
+        },
+        {
+          "de": "Nimmst du Zucker?",
+          "en": "Do you take sugar?",
+          "note": "nehmen → nimmst. The h disappears and the m doubles. You will hear this one in every German kitchen."
+        },
+        {
+          "de": "Er liest jeden Abend die Zeitung.",
+          "en": "He reads the newspaper every evening.",
+          "note": "lesen → liest. The e stretches into ie."
+        },
+        {
+          "de": "Sprichst du Englisch?",
+          "en": "Do you speak English?",
+          "note": "sprechen → sprichst, e becomes i. Compare: ich spreche, wir sprechen — untouched."
+        },
+        {
+          "de": "Wir sprechen zu Hause Türkisch.",
+          "en": "We speak Turkish at home.",
+          "note": "Proof that wir keeps the plain stem. The change never leaves du and er / sie / es."
+        },
+        {
+          "de": "Sie gibt mir ihre Nummer.",
+          "en": "She gives me her number.",
+          "note": "geben → gibt for er / sie / es."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "Ich nimme den Bus.",
+          "right": "Ich nehme den Bus.",
+          "why": "Once you learn nimmst / nimmt it is tempting to use that stem everywhere. The ich form never changes — it stays nehme."
+        },
+        {
+          "wrong": "Du fahrst nach Hause.",
+          "right": "Du fährst nach Hause.",
+          "why": "The umlaut is not decoration; du fahrst is simply not a German word. a → ä in du and er / sie / es."
+        },
+        {
+          "wrong": "Wir fähren nach Köln.",
+          "right": "Wir fahren nach Köln.",
+          "why": "The opposite error: spreading the umlaut to wir. Only two persons change, and wir is not one of them."
+        },
+        {
+          "wrong": "Du liesst gern.",
+          "right": "Du liest gern.",
+          "why": "The stem already ends in an s-sound, so the -st ending drops its s. Same with du isst (essen) and du heißt (heißen)."
+        }
+      ],
+      "drills": [
+        {
+          "type": "choice",
+          "question": "Du ___ morgen nach Hamburg.",
+          "options": ["fahrst", "fährst", "fahrt"],
+          "answer": "fährst",
+          "explain": "du triggers the a → ä change; fahrt without umlaut is the ihr form."
+        },
+        {
+          "type": "choice",
+          "question": "Er ___ immer den Bus.",
+          "options": ["nehmt", "nehme", "nimmt"],
+          "answer": "nimmt",
+          "explain": "er / sie / es turns nehm- into nimm-, and the -t ending goes on top."
+        },
+        {
+          "type": "fill",
+          "question": "Wir ___ am Wochenende nach Köln. (fahren)",
+          "answer": "fahren",
+          "accept": ["fahren"],
+          "explain": "wir is outside the two changing forms, so the vowel stays untouched."
+        },
+        {
+          "type": "choice",
+          "question": "___ du Deutsch?",
+          "options": ["Sprechst", "Sprichst", "Spricht"],
+          "answer": "Sprichst",
+          "explain": "sprechen changes e → i for du, and Spricht would be the er / sie / es form."
+        },
+        {
+          "type": "fill",
+          "question": "Du ___ jeden Tag die Zeitung. (lesen)",
+          "answer": "liest",
+          "accept": ["liest"],
+          "explain": "The stem becomes lies-, and because it ends in an s-sound the ending loses its own s."
+        },
+        {
+          "type": "fill",
+          "question": "Ihr ___ zu schnell. (sprechen)",
+          "answer": "sprecht",
+          "accept": ["sprecht"],
+          "explain": "ihr is a normal form — plain stem plus -t, no vowel change at all."
+        },
+        {
+          "type": "order",
+          "words": ["Er", "gibt", "mir", "seine", "Nummer"],
+          "answer": "Er gibt mir seine Nummer",
+          "explain": "geben becomes gibt for er, and the verb sits in second position as usual."
+        },
+        {
+          "type": "order",
+          "words": ["Nimmst", "du", "den", "Bus", "oder", "das", "Auto"],
+          "answer": "Nimmst du den Bus oder das Auto",
+          "explain": "A yes/no question starts with the verb — and the du form still carries the i, so it is Nimmst, not Nehmst."
+        }
+      ],
+      "keyWords": ["fahren", "nehmen", "lesen", "sprechen", "geben", "essen", "schlafen"]
+    },
+    {
+      "id": "sein-haben-werden",
+      "number": 9,
+      "title": "sein, haben, werden — the three you cannot avoid",
+      "level": "A0",
+      "group": "Verbs",
+      "summary": "To be, to have, to become: wildly irregular, in every second sentence, and the machinery behind the past tense and the passive.",
+      "rule": "<p><em>sein</em> means <strong>to be</strong>, <em>haben</em> means <strong>to have</strong>, <em>werden</em> means <strong>to become</strong> or <strong>to get</strong>. You will use all three in your first conversation in Germany and in every one after that.</p><p>They are irregular in a way no other verbs are. Look at <em>sein</em>: <code>ich bin</code>, <code>du bist</code>, <code>er ist</code>. Not one of those looks like <em>sein</em>. There is nothing to work out here — these are the tables you simply memorise, and they buy you more than any other page in this course.</p><p>The tables below also give the <strong>Präteritum</strong>. That is just the grammar name for the simple past: <em>I was, I had, it became</em>. For most German verbs you will use a different past form in conversation, but for these three the Präteritum is what people actually say: <code>war</code>, <code>hatte</code>, <code>wurde</code>. \"Ich war gestern krank\" is normal spoken German.</p><p>These three are also <strong>helper verbs</strong> (grammar books say <em>auxiliary</em>) — a verb that adds no meaning of its own and just holds a bigger structure together. <em>haben</em> and <em>sein</em> build the everyday past: <code>Ich habe gegessen</code> (I ate), <code>Ich bin gefahren</code> (I went). <em>werden</em> builds the future and the <strong>passive</strong> — the passive is when you say what happens to something without naming who does it: <code>Das Auto wird repariert</code> = the car is being repaired. You do not need those yet, but every one of them runs on this page.</p><p>Finally, watch where German picks a different verb than English. Hunger, thirst and fear are things you <em>have</em>: <code>Ich habe Hunger</code>, literally \"I have hunger\". Your age is something you <em>are</em>: <code>Ich bin 30 Jahre alt</code>. And being cold is neither — Germans say <code>Mir ist kalt</code>, literally \"to me it is cold\". <em>Ich bin kalt</em> says something about your personality.</p>",
+      "tables": [
+        {
+          "title": "Present tense",
+          "headers": ["", "sein (to be)", "haben (to have)", "werden (to become)"],
+          "rows": [
+            ["ich", "bin", "habe", "werde"],
+            ["du", "bist", "hast", "wirst"],
+            ["er / sie / es", "ist", "hat", "wird"],
+            ["wir", "sind", "haben", "werden"],
+            ["ihr", "seid", "habt", "werdet"],
+            ["sie / Sie", "sind", "haben", "werden"]
+          ],
+          "highlight": [[1, 1], [1, 2], [1, 3], [2, 1], [2, 2], [2, 3]]
+        },
+        {
+          "title": "Präteritum — the simple past",
+          "headers": ["", "sein (was / were)", "haben (had)", "werden (became)"],
+          "rows": [
+            ["ich", "war", "hatte", "wurde"],
+            ["du", "warst", "hattest", "wurdest"],
+            ["er / sie / es", "war", "hatte", "wurde"],
+            ["wir", "waren", "hatten", "wurden"],
+            ["ihr", "wart", "hattet", "wurdet"],
+            ["sie / Sie", "waren", "hatten", "wurden"]
+          ],
+          "highlight": [[0, 1], [0, 2], [0, 3]]
+        },
+        {
+          "title": "Where German picks the other verb",
+          "headers": ["German", "word for word", "what it means"],
+          "rows": [
+            ["Ich habe Hunger.", "I have hunger", "I'm hungry."],
+            ["Ich habe Durst.", "I have thirst", "I'm thirsty."],
+            ["Ich habe Angst.", "I have fear", "I'm scared."],
+            ["Ich bin 30 Jahre alt.", "I am 30 years old", "I'm 30."],
+            ["Mir ist kalt.", "to me is cold", "I'm cold."],
+            ["Ich bin fertig.", "I am finished", "I'm done."]
+          ],
+          "highlight": [[0, 0], [4, 0]]
+        }
+      ],
+      "examples": [
+        {
+          "de": "Ich bin Ingenieur.",
+          "en": "I'm an engineer.",
+          "note": "sein for jobs — and German drops the article: not \"ein Ingenieur\"."
+        },
+        {
+          "de": "Hast du Zeit?",
+          "en": "Do you have time?",
+          "note": "haben loses its b in du and er / sie / es: du hast, er hat."
+        },
+        {
+          "de": "Ich habe Hunger. Gehen wir essen?",
+          "en": "I'm hungry. Shall we go eat?",
+          "note": "German owns its hunger. \"Ich bin Hunger\" sounds like you are claiming to be a feeling."
+        },
+        {
+          "de": "Gestern war ich in Köln.",
+          "en": "I was in Cologne yesterday.",
+          "note": "war is the simple past of sein and is used constantly in speech — much more than the longer past form."
+        },
+        {
+          "de": "Es wird kalt.",
+          "en": "It's getting cold.",
+          "note": "werden = to become / to get. Es ist kalt would mean it already is cold."
+        },
+        {
+          "de": "Wir hatten letzte Woche kein Internet.",
+          "en": "We had no internet last week.",
+          "note": "hatten — the wir form of the simple past of haben."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "Ich bin Hunger.",
+          "right": "Ich habe Hunger.",
+          "why": "English says \"I am hungry\", so the hand writes bin automatically. German treats hunger, thirst and fear as things you possess, so they take haben."
+        },
+        {
+          "wrong": "Ich bin kalt.",
+          "right": "Mir ist kalt.",
+          "why": "Ich bin kalt describes you as a cold person. To say your body feels cold, German puts the cold outside you: mir ist kalt, \"to me it is cold\"."
+        },
+        {
+          "wrong": "Er werdet müde.",
+          "right": "Er wird müde.",
+          "why": "The er / sie / es form of werden is a short irregular word, wird. You do not add -t to it, and du is wirst, not werdst."
+        },
+        {
+          "wrong": "Ich habe gestern in Köln gewesen.",
+          "right": "Ich war gestern in Köln.",
+          "why": "Two errors at once: sein never builds its past with haben, and in normal speech you would use war anyway rather than any longer form."
+        }
+      ],
+      "drills": [
+        {
+          "type": "choice",
+          "question": "Ich ___ aus der Türkei.",
+          "options": ["bin", "bist", "ist"],
+          "answer": "bin",
+          "explain": "sein has a separate, unrelated word for each person — ich gets bin and nothing else."
+        },
+        {
+          "type": "choice",
+          "question": "___ du heute Zeit?",
+          "options": ["Hast", "Habst", "Hat"],
+          "answer": "Hast",
+          "explain": "haben drops its b in the du and er forms, so the regular-looking Habst does not exist."
+        },
+        {
+          "type": "fill",
+          "question": "Wir ___ um acht zu Hause. (sein)",
+          "answer": "sind",
+          "accept": ["sind"],
+          "explain": "wir and sie / Sie share the same form of sein, sind."
+        },
+        {
+          "type": "choice",
+          "question": "Ich ___ Hunger.",
+          "options": ["bin", "habe", "werde"],
+          "answer": "habe",
+          "explain": "German counts hunger as something you own rather than something you are."
+        },
+        {
+          "type": "fill",
+          "question": "Es ___ langsam kalt. (werden)",
+          "answer": "wird",
+          "accept": ["wird"],
+          "explain": "werden describes a change in progress — the weather is turning cold, not simply being cold."
+        },
+        {
+          "type": "fill",
+          "question": "Gestern ___ ich krank. (sein — Präteritum)",
+          "answer": "war",
+          "accept": ["war"],
+          "explain": "For sein the simple past is what Germans really say; the longer past form sounds heavy in conversation."
+        },
+        {
+          "type": "order",
+          "words": ["Wir", "hatten", "gestern", "keine", "Zeit"],
+          "answer": "Wir hatten gestern keine Zeit",
+          "explain": "hatten is the wir form of the simple past of haben, and the verb keeps its second-position seat."
+        },
+        {
+          "type": "order",
+          "words": ["Meine", "Tochter", "wird", "morgen", "fünf"],
+          "answer": "Meine Tochter wird morgen fünf",
+          "explain": "Turning an age is a change of state, so German uses werden here where English would use \"is\"."
+        }
+      ],
+      "keyWords": ["sein", "haben", "werden"]
+    }
+  ]
+}
