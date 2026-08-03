@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+<!--
+  Integration test. Loads the real app modules against the real server and
+  exercises the study loop end to end.
+
+  Run it headless:
+    node tools/tests/browser.test.js
+  Or just open http://localhost:5555/../tools/tests/browser.test.html in a browser
+  (served by the app server at /tests/browser.test.html — see server static root).
+-->
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>Deutsch Lernen — integration test</title>
+  <style>
+    body { font: 14px ui-monospace, monospace; padding: 1.5rem; background: #111; color: #ddd; }
+    .ok { color: #4ec27f; } .no { color: #ee6d6d; } .sum { margin-top: 1rem; font-weight: bold; }
+  </style>
+</head>
+
+<body>
+  <div id="out"></div>
+
+  <!-- The app's markup, so views have something to render into. -->
+  <div id="app" hidden>
+    <aside id="sidebar">
+      <button id="sidebarToggle"></button>
+      <span id="dueBadge"></span><span id="streakNum"></span>
+      <div id="masteryMini"></div><span id="masteryMiniText"></span><div id="saveState"></div>
+    </aside>
+    <main id="main">
+      <div class="view" id="view-study"></div>
+      <div class="view" id="view-drills"></div>
+      <div class="view" id="view-grammar"></div>
+      <div class="view" id="view-browse"></div>
+      <div class="view" id="view-stats"></div>
+      <div class="view" id="view-settings"></div>
+    </main>
+  </div>
+  <div id="drawer" hidden><div id="drawerPanel"></div></div>
+  <div id="toast" hidden></div>
+  <div id="shortcuts" hidden></div>
+
+  <script type="module">
+    const out = document.getElementById('out')
+    let pass = 0, fail = 0
+    const ok = (name, cond, detail = '') => {
+      cond ? pass++ : fail++
+      out.insertAdjacentHTML('beforeend',
+        `<div class="${cond ? 'ok' : 'no'}">${cond ? '✓' : '✗'} ${name}${detail ? ' — ' + detail : ''}</div>`)
+    }
+
+    // Don't let the test write over real progress.
+    localStorage.clear()
+
+    try {
+      const store = await import('/js/store.js')
+      const session = await import('/js/session.js')
+      const srs = await import('/js/srs.js')
+      const study = await import('/js/views/study.js')
+      const browse = await import('/js/views/browse.js')
+      const stats = await import('/js/views/stats.js')
+      const grammar = await import('/js/views/grammar.js')
+      const settings = await import('/js/views/settings.js')
+      const drills = await import('/js/views/drills.js')
+
+      // ── data loads ──
+      await store.loadAll()
+      const S = store.state
+      ok('deck loads', S.words.length > 0, `${S.words.length} words`)
+      ok('grammar loads', S.grammar.length > 0, `${S.grammar.length} lessons`)
+      ok('every word has an id', S.words.every(w => w.id))
+      ok('every word has 2 examples', S.words.every(w => w.example_sentences?.length === 2))
+      ok('words sorted by usefulness', S.words[0].frequency <= S.words[S.words.length - 1].frequency)
+      ok('progress starts empty', Object.keys(S.progress.cards).length === 0)
+
+      // ── queue building ──
+      const q = session.buildQueue()
+      ok('queue builds', q.length > 0, `${q.length} items`)
+      ok('queue respects new-per-day', q.filter(i => i.isNew).length <= S.settings.newPerDay)
+      ok('every queue item has a mode', q.every(i => i.mode && i.word))
+      ok('new words start on multiple choice', q.filter(i => i.isNew).every(i => i.mode === 'mc' || i.genderOnly))
+
+      const counts = session.dueCounts()
+      ok('dueCounts works', counts.total === S.words.length, `${counts.new} new available`)
+
+      const sleep = (ms) => new Promise(r => setTimeout(r, ms))
+
+      /**
+       * Drives the real session loop the way a person does, whatever mode
+       * comes up. Every mode answers differently — multiple choice and the
+       * gender drill want a click, typing/cloze/conjugation/listening want
+       * text then Enter, flashcard wants Space — and several resolve on a
+       * timer. The quick drills (gender, conjugation) never show a rating row
+       * at all, so progress is measured by the card actually changing rather
+       * than by counting rating presses.
+       */
+      const answerCurrentCard = async () => {
+        const v = document.querySelector('#view-study')
+        const click = (sel) => { const e = v.querySelector(sel); if (e) { e.click(); return true } return false }
+
+        if (click('.mc-opt:not([disabled])')) { /* multiple choice */ }
+        else if (click('.gender-btn:not([disabled])')) { /* der/die/das */ }
+        else {
+          const input = v.querySelector('.type-input:not([disabled]), .cloze-input:not([disabled])')
+          if (input) {
+            input.value = 'x'   // deliberately wrong; grading still advances
+            input.dispatchEvent(new KeyboardEvent('keydown', { key: 'Enter', bubbles: true }))
+          } else {
+            study.handleKey({ key: ' ', preventDefault() { } })   // flashcard reveal
+          }
+        }
+
+        // Wait for either a rating row (full modes) or the card to move on
+        // (quick drills auto-advance).
+        for (let t = 0; t < 40; t++) {
+          if (v.querySelector('.rate-btn')) {
+            study.handleKey({ key: '3', preventDefault() { } })    // Good
+            await sleep(40)
+            return true
+          }
+          await sleep(60)
+        }
+        return false
+      }
+
+      const runSession = async (n) => {
+        let advanced = 0
+        for (let i = 0; i < n; i++) {
+          const v = document.querySelector('#view-study')
+          if (!v.querySelector('.card-stage')) break     // session finished
+          const before = v.querySelector('.prompt-word')?.textContent
+          const rated = await answerCurrentCard()
+          const after = document.querySelector('#view-study .prompt-word')?.textContent
+          if (rated || (before && after && before !== after)) advanced++
+          else break
+        }
+        return advanced
+      }
+
+      // ── the SCHEDULED study loop — this is what must move FSRS ──
+      study.open()                       // no options = the real daily session
+      const stage = document.querySelector('#view-study .card-stage')
+      ok('study view renders a card', !!stage && stage.innerHTML.length > 50)
+      ok('card shows a German word', !!document.querySelector('#view-study .prompt-word'))
+
+      const advanced = await runSession(6)
+      ok('can answer cards', advanced >= 5, `${advanced}/6 rated`)
+      ok('answering wrote progress', Object.keys(S.progress.cards).length >= 3,
+        `${Object.keys(S.progress.cards).length} cards scheduled`)
+
+      const anyCard = Object.values(S.progress.cards)[0]
+      ok('scheduled card has FSRS state',
+        anyCard && anyCard.stability > 0 && anyCard.difficulty > 0 && anyCard.due > Date.now(),
+        `S=${anyCard?.stability?.toFixed(2)} D=${anyCard?.difficulty?.toFixed(1)}`)
+      ok('review log queued', S.pendingReviews.length >= 5, `${S.pendingReviews.length} entries`)
+      ok('daily stats counted', store.todayStats().reviews >= 5)
+      ok('streak started', S.progress.stats.streak === 1)
+
+      // ── free practice must NOT touch the schedule ──
+      // The Drills page promises "this never changes your review schedule".
+      // Practice previously wrote full FSRS state and burned the new-card
+      // budget, so an hour of extra practice buried the next day in reviews.
+      {
+        const before = JSON.stringify(S.progress.cards)
+        const newBefore = store.todayStats().newCards
+        const reviewsBefore = store.todayStats().reviews
+
+        const unseen = S.words.filter(w => !S.progress.cards[w.id]).slice(0, 5).map(w => w.id)
+        study.open({ ids: unseen, ignoreSchedule: true, mode: 'flashcard', limit: 5 })
+        const practised = await runSession(5)
+
+        ok('practice answers cards', practised >= 4, `${practised}/5`)
+        ok('practice writes NO FSRS state', JSON.stringify(S.progress.cards) === before)
+        ok('practice does not burn the new-card budget',
+          store.todayStats().newCards === newBefore,
+          `${newBefore} → ${store.todayStats().newCards}`)
+        ok('practice still counts in daily stats',
+          store.todayStats().reviews > reviewsBefore)
+      }
+
+      // ── a drill must not hijack the next scheduled session ──
+      // opts used to persist, so after one drill the Study tab silently
+      // replayed it forever while "due" climbed in the background.
+      study.open()
+      ok('Study returns to the scheduled session after a drill',
+        !!document.querySelector('#view-study .card-stage, #view-study .empty, #view-study .done'))
+
+      // ── every mode renders without throwing ──
+      for (const mode of ['mc', 'flashcard', 'typing', 'gender', 'listening', 'cloze', 'conjugation']) {
+        try {
+          const pool = mode === 'gender'
+            ? S.words.filter(w => w.partOfSpeech === 'noun' && w.article)
+            : mode === 'conjugation'
+              ? S.words.filter(w => w.partOfSpeech === 'verb' && w.forms?.du)
+              : mode === 'cloze' ? S.words.filter(w => w.cloze?.[0]?.de) : S.words
+          study.open({ limit: 2, ignoreSchedule: true, mode, ids: pool.slice(0, 2).map(w => w.id) })
+          const html = document.querySelector('#view-study').innerHTML
+          ok(`mode "${mode}" renders`, html.length > 200 && !/undefined|NaN|\[object/.test(html))
+        } catch (e) {
+          ok(`mode "${mode}" renders`, false, e.message)
+        }
+      }
+
+      // ── the two quick tracks write to their own state, not FSRS ──
+      {
+        const noun = S.words.find(w => w.partOfSpeech === 'noun' && w.article)
+        const verb = S.words.find(w => w.partOfSpeech === 'verb' && w.forms?.du)
+        const beforeCards = Object.keys(S.progress.cards).length
+
+        session.commit({ word: noun, mode: 'gender', genderOnly: true }, 3, {})
+        session.commit({ word: verb, mode: 'conjugation', verbOnly: true }, 3, {})
+
+        ok('gender drill writes the gender track', !!S.progress.gender[noun.id]?.lastReview)
+        ok('conjugation drill writes the verb track', !!S.progress.verbs?.[verb.id]?.lastReview)
+        ok('quick drills do not create FSRS cards',
+          Object.keys(S.progress.cards).length === beforeCards,
+          `${beforeCards} before, ${Object.keys(S.progress.cards).length} after`)
+      }
+
+      // ── conjugation data is actually usable ──
+      {
+        const verbs = S.words.filter(w => w.partOfSpeech === 'verb')
+        const withForms = verbs.filter(w => w.forms?.ich && w.forms?.du && w.forms?.er)
+        ok('verbs carry full present forms', withForms.length === verbs.length,
+          `${withForms.length}/${verbs.length}`)
+        const withPerfekt = verbs.filter(w => w.forms?.perfekt && w.auxiliary)
+        ok('verbs carry Perfekt + auxiliary', withPerfekt.length / verbs.length > 0.95,
+          `${withPerfekt.length}/${verbs.length}`)
+      }
+
+      // ── other views render ──
+      for (const [name, view] of Object.entries({ browse, stats, grammar, settings, drills })) {
+        try {
+          view.open()
+          const html = document.querySelector('#view-' + name).innerHTML
+          ok(`view "${name}" renders`, html.length > 200 && !/undefined<|NaN|\[object Object\]/.test(html),
+            `${(html.length / 1024).toFixed(1)}kb`)
+        } catch (e) {
+          ok(`view "${name}" renders`, false, e.message)
+        }
+      }
+
+      // ── add-word form ──
+      // Renders only; actually submitting would write to the real
+      // data/vocab/00-my-words.json, which a test has no business touching.
+      // The POST endpoint itself is covered by the server tests.
+      browse.open()
+      document.querySelector('#view-browse #addWordBtn')?.click()
+      {
+        const f = document.querySelector('#addForm')
+        ok('add-word form opens', !!f)
+        ok('add-word form has the required fields',
+          !!f?.word && !!f?.translation && !!f?.partOfSpeech && !!f?.level && !!f?.plural)
+        // plural is noun-only
+        f.partOfSpeech.value = 'verb'
+        f.partOfSpeech.dispatchEvent(new Event('change'))
+        ok('plural field hides for non-nouns', document.querySelector('#pluralField').hidden)
+        document.getElementById('drawer').hidden = true
+      }
+
+      // ── word detail drawer ──
+      browse.showDetail(S.words[0].id)
+      ok('word drawer opens', !document.getElementById('drawer').hidden
+        && document.getElementById('drawerPanel').innerHTML.includes('Look it up'))
+
+      // ── grammar drills are answerable ──
+      const lesson = S.grammar.find(l => l.drills?.some(d => d.type === 'choice'))
+      ok('grammar has answerable drills', !!lesson)
+      const badDrills = S.grammar.flatMap(l =>
+        (l.drills || []).filter(d => d.type === 'choice' && !d.options?.includes(d.answer)))
+      ok('every choice drill has its answer in options', badDrills.length === 0, `${badDrills.length} broken`)
+
+      // ── persistence round-trip through the real server ──
+      await store.saveNow()
+      ok('save reached the server', S.online)
+      const onDisk = await fetch('/api/progress').then(r => r.json())
+      ok('server persisted the cards',
+        Object.keys(onDisk.cards).length === Object.keys(S.progress.cards).length,
+        `${Object.keys(onDisk.cards).length} cards on disk`)
+      ok('review log flushed', S.pendingReviews.length === 0)
+      const log = await fetch('/api/reviews').then(r => r.json())
+      ok('reviews.jsonl has entries', log.reviews.length >= 5, `${log.reviews.length} rows`)
+
+    } catch (e) {
+      ok('SUITE CRASHED', false, e.stack?.split('\n').slice(0, 3).join(' | '))
+    }
+
+    out.insertAdjacentHTML('beforeend',
+      `<div class="sum" id="summary">RESULT ${pass} passed, ${fail} failed</div>`)
+    document.title = fail ? `FAIL ${fail}` : `PASS ${pass}`
+  </script>
+</body>
+
+</html>
