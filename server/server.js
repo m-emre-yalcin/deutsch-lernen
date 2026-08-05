@@ -7,7 +7,7 @@
  */
 
 import { createServer } from 'node:http'
-import { readFileSync, writeFileSync, renameSync, existsSync, readdirSync, statSync, createReadStream } from 'node:fs'
+import { readFileSync, writeFileSync, renameSync, existsSync, readdirSync, statSync, createReadStream, mkdirSync } from 'node:fs'
 import { join, extname, normalize, dirname, sep } from 'node:path'
 import { fileURLToPath } from 'node:url'
 import { ProgressStore } from './progress.js'
@@ -26,8 +26,23 @@ const PORT = Number(arg('port', process.env.PORT || 5555))
 // real study history. Vocabulary is still read from the real data/.
 const DATA_DIR = arg('data', process.env.DATA_DIR || null)
 
+// ── running inside the desktop app ────────────────────────────────────────────
+// The three below all default to today's behaviour, so ./start.sh and the test
+// suite are unaffected. They exist because the packaged app keeps this whole
+// directory read-only — it is replaced wholesale by the updater — so everything
+// that gets WRITTEN has to live somewhere else.
+//
+// A directory, not a file: loadDeck() reads every *.json in it, so it cannot be
+// <userData> itself, which also holds progress.json.
+const USER_VOCAB = arg('user-vocab', process.env.USER_VOCAB_DIR || null)
+const CACHE_DIR = arg('cache', process.env.CACHE_DIR || null)
+// Loopback-only in the app. The default stays open so that studying from your
+// phone over the LAN — which is what the iOS home-screen support in
+// web/index.html is for — keeps working from the command line.
+const HOST = arg('host', process.env.HOST || null)
+
 const store = new ProgressStore(ROOT, DATA_DIR)
-const media = new MediaCache(ROOT)
+const media = new MediaCache(ROOT, CACHE_DIR)
 
 const MIME = {
   '.html': 'text/html; charset=utf-8',
@@ -78,11 +93,23 @@ const readBody = (req, limit = 32 * 1024 * 1024) => new Promise((resolve, reject
 let deckCache = null
 
 function loadDeck() {
-  const vocabDir = join(ROOT, 'data', 'vocab')
+  // The curated deck, then your own words. Both directories are the same in a
+  // normal checkout; they differ in the desktop app, where the curated files are
+  // replaced by every update and yours must sit somewhere that never is.
+  //
+  // Reading the second directory is not optional. --data has always sent
+  // added words to a separate file, and this function has always read only the
+  // first directory — so a word added under --data was written successfully,
+  // reported as saved, and then never appeared anywhere. In the app, where the
+  // two are always different, that would be the normal case.
+  const vocabDirs = [join(ROOT, 'data', 'vocab')]
+  if (USER_VOCAB && !vocabDirs.includes(USER_VOCAB)) vocabDirs.push(USER_VOCAB)
+
   const words = []
   const files = []
 
-  if (existsSync(vocabDir)) {
+  for (const vocabDir of vocabDirs) {
+    if (!existsSync(vocabDir)) continue
     for (const file of readdirSync(vocabDir).filter((f) => f.endsWith('.json')).sort()) {
       try {
         const data = JSON.parse(readFileSync(join(vocabDir, file), 'utf8'))
@@ -140,11 +167,15 @@ const deckLevels = () => (deckCache || loadDeck()).meta.levels
 
 // ─── ADDING YOUR OWN WORDS ────────────────────────────────────────────────────
 
-// Honours --data so a sandboxed run (tests) can never write into the real
-// data/vocab/. Falls back to the real path in normal use.
-const MY_WORDS = DATA_DIR
-  ? join(DATA_DIR, 'my-words.json')
-  : join(ROOT, 'data', 'vocab', '00-my-words.json')
+// Written to --user-vocab in the desktop app (where data/vocab/ is read-only and
+// replaced by every update), --data in a sandboxed test run, and data/vocab/
+// itself in a normal checkout. Whichever it is, loadDeck() reads that directory
+// too, so a word you add is in the deck immediately.
+const MY_WORDS = USER_VOCAB
+  ? join(USER_VOCAB, '00-my-words.json')
+  : DATA_DIR
+    ? join(DATA_DIR, 'my-words.json')
+    : join(ROOT, 'data', 'vocab', '00-my-words.json')
 
 const slugify = (s) => String(s || '')
   .replace(/^(der|die|das)\s+/i, '')
@@ -210,7 +241,7 @@ function addWord(input) {
       if (!Array.isArray(deck.words)) throw new Error('missing "words" array')
     } catch (e) {
       throw new Error(
-        `data/vocab/00-my-words.json is unreadable (${e.message}). ` +
+        `${MY_WORDS} is unreadable (${e.message}). ` +
         `Fix or rename it, then try again — refusing to overwrite your words.`)
     }
   }
@@ -294,6 +325,9 @@ function addWord(input) {
   }
 
   deck.words.push(entry)
+  // In the app this directory is created on demand — it lives outside the app
+  // bundle and does not exist until the first word is added.
+  mkdirSync(dirname(MY_WORDS), { recursive: true })
   const tmp = `${MY_WORDS}.tmp`
   writeFileSync(tmp, JSON.stringify(deck, null, 2) + '\n', 'utf8')
   renameSync(tmp, MY_WORDS)
@@ -468,12 +502,14 @@ server.on('error', (e) => {
   throw e
 })
 
-server.listen(PORT, () => {
+// HOST is unset from the command line, which keeps listening on every interface
+// so you can study from your phone. The app passes 127.0.0.1.
+server.listen(PORT, HOST ?? undefined, () => {
   const known = Object.values(p.cards || {}).filter((c) => (c.reps || 0) > 0).length
   console.log(`
   \x1b[1m🇩🇪  Deutsch Lernen\x1b[0m
   ─────────────────────────────────────────────
-  \x1b[1mhttp://localhost:${PORT}\x1b[0m
+  \x1b[1mhttp://${HOST || 'localhost'}:${PORT}\x1b[0m
 
   ${deck.words.length} words · ${deck.grammar.length} grammar lessons
   ${known} words studied · ${p.stats?.streak || 0} day streak

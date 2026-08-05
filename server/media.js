@@ -31,12 +31,23 @@ async function fetchWithTimeout(url, opts = {}) {
 }
 
 export class MediaCache {
-  constructor(root) {
-    this.audioDir = join(root, 'cache', 'audio')
-    this.imageDir = join(root, 'cache', 'images')
-    this.metaFile = join(root, 'cache', 'images', '_index.json')
-    mkdirSync(this.audioDir, { recursive: true })
-    mkdirSync(this.imageDir, { recursive: true })
+  /**
+   * `cacheDir` moves the whole cache off the app directory, which the desktop
+   * app keeps read-only. Unset, it is cache/ next to the code, as before.
+   */
+  constructor(root, cacheDir) {
+    const base = cacheDir || join(root, 'cache')
+    this.audioDir = join(base, 'audio')
+    this.imageDir = join(base, 'images')
+    this.metaFile = join(base, 'images', '_index.json')
+    // Same reasoning as ProgressStore: this runs at boot, so an unwritable
+    // cache has to mean "fetch every time", not "the app won't start".
+    try {
+      mkdirSync(this.audioDir, { recursive: true })
+      mkdirSync(this.imageDir, { recursive: true })
+    } catch (e) {
+      console.error(`  ⚠️  media cache unavailable at ${base} (${e.message}) — audio and images will not be cached.`)
+    }
     this.imageIndex = this.#loadIndex()
   }
 

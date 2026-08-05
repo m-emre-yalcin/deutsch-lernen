@@ -37,7 +37,14 @@ export class ProgressStore {
     this.file = join(this.dataDir, 'progress.json')
     this.backupDir = join(this.dataDir, 'backups')
     this.reviewLog = join(this.dataDir, 'reviews.jsonl')
-    mkdirSync(this.backupDir, { recursive: true })
+    // This runs at import time, before the server exists. An unwritable
+    // location must degrade to "no backups", not take the process down with an
+    // uncaught error and no page to show it on.
+    try {
+      mkdirSync(this.backupDir, { recursive: true })
+    } catch (e) {
+      console.error(`  ⚠️  cannot create ${this.backupDir} (${e.message}) — progress will not be backed up.`)
+    }
   }
 
   /** Read from disk. Falls back to the newest backup if the main file is corrupt. */
