@@ -4,16 +4,14 @@ A German A0–A2 study app that runs on your own machine.
 
 ## Why
 
-I built this while getting ready to move to Germany. The apps I tried taught me German for an exam,
-and then I stood at the Bürgeramt not knowing what an *Anmeldung* was.
+A basic tool I vibecoded for myself, to learn German efficiently. It's here in case it's useful to
+someone else.
 
-So the word list is picked for a life rather than a level. Next to the normal Goethe A1/A2 core
-there's Kaltmiete, Kaution, Krankenkasse, Pfand, Handyvertrag, Termin, Bescheinigung — the words you
-hit in week one and no course bothers with.
+The word list covers the usual Goethe A1/A2 core plus everyday-admin vocabulary — Kaltmiete, Kaution,
+Krankenkasse, Pfand, Handyvertrag, Termin, Bescheinigung.
 
-The other reason: it's yours. No account, no subscription, no cloud. Your progress is a JSON file in
-`data/`. Nothing leaves your laptop except fetching audio and pictures, and you can turn that off by
-prefetching once.
+No account, no subscription, no cloud. Progress is a JSON file in `data/`. Nothing leaves your laptop
+except fetching audio and pictures, and you can turn that off by prefetching once.
 
 ## What's in it
 
