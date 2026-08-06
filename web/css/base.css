@@ -18,7 +18,10 @@
   --text2: #55524c;
   --text3: #8e8a83;
 
-  /* ── accent ──────────────────────────────────────────── */
+  /* ── accent ──────────────────────────────────────────────
+     One accent, three semantics, and nothing else. Purple and
+     teal used to exist purely to tint boxes a different colour;
+     the boxes are now neutral and labelled, so the hues went. */
   --accent: #2f5ce0;
   --accent2: #1c3fb0;
   --accent-bg: #eef1fe;
@@ -26,14 +29,10 @@
 
   --green: #17784a;
   --green-bg: #e9f6ef;
-  --amber: #9a5a00;
+  --amber: #9a5a00;          /* "close, but not quite" and the streak */
   --amber-bg: #fdf4e5;
   --red: #b32828;
   --red-bg: #fdeeee;
-  --purple: #6636aa;
-  --purple-bg: #f2ecfa;
-  --teal: #0d7573;
-  --teal-bg: #e7f4f4;
 
   /* der / die / das keep one colour each, everywhere in the app.
      This is a deliberate memory hook: gender becomes a colour you
@@ -51,10 +50,14 @@
   --r-xs: 6px;  --r-sm: 9px;  --r: 13px;  --r-lg: 18px;  --r-xl: 24px;
   --r-pill: 999px;
 
-  /* ── elevation ───────────────────────────────────────── */
-  --sh-1: 0 1px 2px rgba(23, 22, 20, .05), 0 1px 3px rgba(23, 22, 20, .04);
-  --sh-2: 0 2px 6px rgba(23, 22, 20, .06), 0 6px 16px rgba(23, 22, 20, .05);
-  --sh-3: 0 8px 24px rgba(23, 22, 20, .10), 0 24px 56px rgba(23, 22, 20, .10);
+  /* ── elevation ───────────────────────────────────────────
+     Depth comes from the hairline border. Shadow is a whisper
+     that stops a raised surface from looking pasted on, and
+     --sh-3 is reserved for things that genuinely float above
+     the page: the drawer, the modal, the toast. */
+  --sh-1: 0 1px 2px rgba(23, 22, 20, .04);
+  --sh-2: 0 1px 3px rgba(23, 22, 20, .05);
+  --sh-3: 0 8px 28px rgba(23, 22, 20, .10);
 
   /* ── type ────────────────────────────────────────────── */
   --font: ui-sans-serif, -apple-system, BlinkMacSystemFont, "SF Pro Text",
@@ -62,6 +65,23 @@
   --font-de: "Iowan Old Style", "Palatino Linotype", Palatino, Georgia,
              "Times New Roman", serif;
   --mono: ui-monospace, "SF Mono", "JetBrains Mono", Menlo, monospace;
+
+  /* One scale, seven steps. This replaced 57 ad-hoc rem values
+     that differed from each other by as little as 0.01rem —
+     under a pixel, so the difference was never intentional. */
+  --t-xs: .75rem;      /* micro-labels, uppercase keys */
+  --t-sm: .82rem;      /* secondary text, hints */
+  --t-base: .9375rem;  /* body */
+  --t-md: 1.05rem;     /* lead-in, list titles */
+  --t-lg: 1.3rem;      /* section headings */
+  --t-xl: 1.6rem;      /* page headings */
+  --t-2xl: clamp(1.9rem, 1.2rem + 3vw, 2.8rem);   /* the card word */
+
+  /* Four weights. Anything between them was invisible. */
+  --w-normal: 400;
+  --w-medium: 500;
+  --w-semi: 600;
+  --w-bold: 700;
 
   /* ── layout ──────────────────────────────────────────── */
   --sidebar-w: 244px;
@@ -103,18 +123,14 @@
   --amber-bg: #2b2314;
   --red: #f07575;
   --red-bg: #2e1a1a;
-  --purple: #ab89e3;
-  --purple-bg: #221b31;
-  --teal: #4cc0bc;
-  --teal-bg: #122726;
 
   --der: #7b9bfa;  --der-bg: #1a2340;
-  --die: #f2769f;  --die-bg: #33192440;
+  --die: #f2769f;  --die-bg: #331924;
   --das: #4fc584;  --das-bg: #13291d;
 
-  --sh-1: 0 1px 2px rgba(0, 0, 0, .5);
-  --sh-2: 0 2px 8px rgba(0, 0, 0, .5), 0 8px 20px rgba(0, 0, 0, .35);
-  --sh-3: 0 10px 30px rgba(0, 0, 0, .6), 0 30px 60px rgba(0, 0, 0, .45);
+  --sh-1: 0 1px 2px rgba(0, 0, 0, .4);
+  --sh-2: 0 1px 3px rgba(0, 0, 0, .45);
+  --sh-3: 0 8px 28px rgba(0, 0, 0, .55);
 }
 
 /* ── reset ─────────────────────────────────────────────── */
@@ -138,7 +154,7 @@ body {
   font-family: var(--font);
   background: var(--bg);
   color: var(--text);
-  font-size: 15px;
+  font-size: var(--t-base);
   line-height: 1.55;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -151,14 +167,14 @@ body {
 }
 
 h1, h2, h3, h4 {
-  line-height: 1.2;
-  font-weight: 640;
-  letter-spacing: -.021em;
+  line-height: 1.25;
+  font-weight: var(--w-semi);
+  letter-spacing: -.02em;
   text-wrap: balance;
 }
-h1 { font-size: clamp(1.4rem, 1.1rem + 1.1vw, 1.75rem); }
-h2 { font-size: 1.28rem; }
-h3 { font-size: 1.02rem; }
+h1 { font-size: var(--t-xl); }
+h2 { font-size: var(--t-lg); }
+h3 { font-size: var(--t-md); }
 
 p { text-wrap: pretty; }
 
@@ -199,6 +215,28 @@ kbd {
    so the word itself is what your eye lands on. */
 .de { font-family: var(--font-de); }
 
+/* ── icons ─────────────────────────────────────────────────
+   One stroked sprite, drawn in currentColor at 1.75 weight, so
+   an icon is always exactly the colour and size of the text it
+   sits beside — and it themes itself for free. This is what
+   replaced the emoji: those rendered in the OS's own colours,
+   at the OS's own weight, and ignored the palette entirely. */
+.icon {
+  width: 1em; height: 1em;
+  flex-shrink: 0;
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 1.75;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  vertical-align: -.125em;
+  /* Hold the stroke at a literal 1.75 device pixels whatever the
+     rendered size, so a 30px empty-state icon reads as light as a
+     15px inline one instead of four times heavier. */
+  vector-effect: non-scaling-stroke;
+}
+.icon-lg { width: 1.5em; height: 1.5em; }
+
 ::selection { background: var(--accent-ring); color: var(--text); }
 
 /* ── scrollbars ────────────────────────────────────────── */
@@ -229,16 +267,9 @@ kbd {
   padding: var(--s6);
   text-align: center;
 }
-.boot-flag { font-size: 52px; animation: bob 2.2s var(--ease) infinite; }
-.boot-text { font-size: 1.3rem; font-weight: 650; letter-spacing: -.025em; }
-.boot-sub { color: var(--text3); font-size: .88rem; }
-.boot.error .boot-flag { animation: none; }
+.boot-text { font-size: var(--t-lg); font-weight: var(--w-semi); letter-spacing: -.02em; }
+.boot-sub { color: var(--text3); font-size: var(--t-sm); }
 .boot.error .boot-sub { color: var(--red); max-width: 44ch; line-height: 1.65; }
-
-@keyframes bob {
-  0%, 100% { transform: translateY(0); }
-  50% { transform: translateY(-10px); }
-}
 
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after {
