@@ -39,10 +39,9 @@
 }
 .logo {
   display: flex; align-items: center; gap: var(--s2);
-  font-weight: 660; letter-spacing: -.025em; font-size: 1.02rem;
+  font-weight: var(--w-semi); letter-spacing: -.02em; font-size: var(--t-md);
   min-width: 0;
 }
-.logo-flag { font-size: 1.15rem; flex-shrink: 0; }
 .logo-text { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 
 .icon-btn {
@@ -51,13 +50,13 @@
   border-radius: var(--r-sm);
   color: var(--text3);
   display: grid; place-items: center;
-  font-size: 1.05rem;
-  transition: background var(--fast), color var(--fast), transform var(--fast);
+  transition: background var(--fast), color var(--fast);
 }
+.icon-btn .icon { width: 16px; height: 16px; }
 @media (hover: hover) {
   .icon-btn:hover { background: var(--surface2); color: var(--text); }
 }
-.icon-btn:active { transform: scale(.92); }
+.icon-btn:active { background: var(--surface2); }
 
 .sidebar-nav { display: flex; flex-direction: column; gap: 2px; min-width: 0; }
 
@@ -69,8 +68,8 @@
   min-height: var(--tap);
   border-radius: var(--r-sm);
   color: var(--text2);
-  font-size: .92rem;
-  font-weight: 520;
+  font-size: var(--t-base);
+  font-weight: var(--w-normal);
   text-align: left;
   position: relative;
   min-width: 0;
@@ -79,24 +78,29 @@
 @media (hover: hover) {
   .nav-btn:hover { background: var(--surface2); color: var(--text); }
 }
-.nav-btn.active { background: var(--accent-bg); color: var(--accent2); font-weight: 620; }
+.nav-btn.active { background: var(--surface2); color: var(--text); font-weight: var(--w-medium); }
 /* A quiet rail on the active item, so the state reads even at a glance. */
 .nav-btn.active::before {
   content: '';
   position: absolute; left: 0; top: 50%;
-  width: 3px; height: 18px;
+  width: 2px; height: 18px;
   margin-top: -9px;
-  border-radius: 0 3px 3px 0;
+  border-radius: 0 2px 2px 0;
   background: var(--accent);
 }
-.nav-icon { font-size: 1.02rem; width: 1.2rem; text-align: center; flex-shrink: 0; }
+.nav-icon { display: flex; align-items: center; justify-content: center; width: 1.25rem; flex-shrink: 0; }
+.nav-icon .icon { width: 17px; height: 17px; }
+.nav-btn.active .nav-icon { color: var(--accent); }
 .nav-label { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 
+/* A count, not an alarm. This was a filled blue capsule with
+   white bold text — the loudest thing on the page, permanently,
+   for a number that is just "how many are due". */
 .nav-badge {
   margin-left: auto;
-  background: var(--accent);
-  color: #fff;
-  font-size: .68rem; font-weight: 700;
+  background: var(--surface3);
+  color: var(--text2);
+  font-size: var(--t-xs); font-weight: var(--w-medium);
   font-variant-numeric: tabular-nums;
   padding: 1px 7px;
   border-radius: var(--r-pill);
@@ -114,29 +118,34 @@
 }
 
 .streak-box {
-  display: flex; align-items: baseline; gap: var(--s2);
+  display: flex; align-items: center; gap: var(--s2);
   padding: var(--s2) var(--s3);
-  background: var(--amber-bg);
+  background: var(--surface2);
   border-radius: var(--r-sm);
   min-width: 0;
 }
-.streak-num { font-size: 1.2rem; font-weight: 720; color: var(--amber); line-height: 1; font-variant-numeric: tabular-nums; }
-.streak-label { font-size: .72rem; color: var(--text2); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.streak-box .icon { width: 15px; height: 15px; color: var(--amber); flex-shrink: 0; }
+.streak-num { font-size: var(--t-md); font-weight: var(--w-semi); line-height: 1; font-variant-numeric: tabular-nums; }
+.streak-label { font-size: var(--t-xs); color: var(--text3); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 
 .mastery-mini { display: flex; flex-direction: column; gap: var(--s1); padding: 0 var(--s2); }
-.mastery-mini-track { height: 5px; background: var(--surface3); border-radius: var(--r-pill); overflow: hidden; }
+.mastery-mini-track { height: 4px; background: var(--surface3); border-radius: var(--r-pill); overflow: hidden; }
 .mastery-mini-fill {
-  height: 100%; background: var(--green); border-radius: var(--r-pill);
-  transition: width .5s var(--ease);
+  height: 100%; background: var(--accent); border-radius: var(--r-pill);
+  transition: width .4s var(--ease);
 }
-.mastery-mini span { font-size: .72rem; color: var(--text3); font-variant-numeric: tabular-nums; }
+.mastery-mini span { font-size: var(--t-xs); color: var(--text3); font-variant-numeric: tabular-nums; }
 
+/* Only rendered when saving is actually broken. "Saved to disk"
+   on every screen, forever, is a status line reporting that
+   nothing is wrong — which is not news. */
 .save-state {
-  font-size: .7rem; color: var(--text3);
+  font-size: var(--t-xs); color: var(--amber);
   padding: 0 var(--s2);
   display: flex; align-items: center; gap: var(--s1);
 }
-.save-state.offline { color: var(--amber); }
+.save-state .icon { width: 13px; height: 13px; }
+.save-state:empty { display: none; }
 
 /* ─── COLLAPSED SIDEBAR (desktop, manual) ──────────────── */
 /* Scoped to desktop widths: the .collapsed class survives a window resize, and
@@ -193,14 +202,14 @@
   gap: var(--s4); margin-bottom: var(--s6); flex-wrap: wrap;
 }
 .view-head h1 { margin-bottom: 2px; }
-.view-head .sub { color: var(--text3); font-size: .88rem; }
+.view-head .sub { color: var(--text3); font-size: var(--t-sm); }
 
 .section-title {
-  font-size: .715rem;
+  font-size: var(--t-xs);
   text-transform: uppercase;
-  letter-spacing: .08em;
+  letter-spacing: .07em;
   color: var(--text3);
-  font-weight: 660;
+  font-weight: var(--w-medium);
   margin: var(--s7) 0 var(--s3);
 }
 .section-title:first-child { margin-top: 0; }
@@ -265,28 +274,28 @@
     min-height: var(--bottombar-h);
     min-width: 0;
     border-radius: var(--r-sm);
-    font-size: 11px;
-    font-weight: 560;
+    font-size: var(--t-xs);
+    font-weight: var(--w-normal);
     letter-spacing: -.01em;
   }
-  .nav-btn.active { background: transparent; }
+  .nav-btn.active { background: transparent; font-weight: var(--w-medium); }
   .nav-btn.active::before { display: none; }
   /* The icon gets the highlight instead of the whole row — cleaner in a bar. */
   .nav-btn.active .nav-icon {
-    background: var(--accent-bg);
-    color: var(--accent2);
+    background: var(--surface3);
+    color: var(--accent);
   }
   .nav-icon {
-    font-size: 1.12rem;
     width: 46px; height: 27px;
     display: grid; place-items: center;
     border-radius: var(--r-pill);
     transition: background var(--fast);
   }
+  .nav-icon .icon { width: 19px; height: 19px; }
   .nav-label {
     display: block;
     max-width: 100%;
-    font-size: 11px;
+    font-size: var(--t-xs);
   }
   .nav-badge {
     position: absolute;
@@ -294,7 +303,6 @@
     margin: 0;
     min-width: 17px;
     padding: 0 5px;
-    font-size: .6rem;
     line-height: 17px;
     height: 17px;
   }

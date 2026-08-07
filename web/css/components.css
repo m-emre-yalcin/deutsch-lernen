@@ -12,27 +12,25 @@
   border: 1px solid var(--border2);
   background: var(--surface);
   color: var(--text);
-  font-size: .89rem;
-  font-weight: 560;
+  font-size: var(--t-sm);
+  font-weight: var(--w-medium);
   white-space: nowrap;
-  box-shadow: var(--sh-1);
-  transition: background var(--fast), border-color var(--fast),
-              transform var(--fast), box-shadow var(--fast);
+  transition: background var(--fast), border-color var(--fast);
 }
 @media (hover: hover) {
   .btn:hover { background: var(--surface2); border-color: var(--text3); }
 }
-.btn:active { transform: translateY(1px) scale(.99); box-shadow: none; }
-.btn:disabled { opacity: .45; cursor: not-allowed; transform: none; }
+.btn:active { background: var(--surface2); }
+.btn:disabled { opacity: .45; cursor: not-allowed; }
 
 .btn.primary {
   background: var(--accent); border-color: var(--accent); color: #fff;
-  box-shadow: var(--sh-1), inset 0 1px 0 rgba(255, 255, 255, .14);
 }
 @media (hover: hover) {
   .btn.primary:hover { background: var(--accent2); border-color: var(--accent2); }
 }
-.btn.ghost { border-color: transparent; background: transparent; color: var(--text2); box-shadow: none; }
+.btn.primary:active { background: var(--accent2); }
+.btn.ghost { border-color: transparent; background: transparent; color: var(--text2); }
 @media (hover: hover) {
   .btn.ghost:hover { background: var(--surface2); color: var(--text); }
 }
@@ -40,8 +38,9 @@
 @media (hover: hover) {
   .btn.danger:hover { background: var(--red-bg); border-color: var(--red); }
 }
-.btn.big { padding: 0 var(--s6); min-height: 52px; font-size: .98rem; border-radius: var(--r); }
-.btn.sm { min-height: 34px; padding: 0 var(--s3); font-size: .82rem; }
+.btn.big { padding: 0 var(--s6); min-height: 50px; font-size: var(--t-base); border-radius: var(--r); }
+.btn.sm { min-height: 34px; padding: 0 var(--s3); font-size: var(--t-sm); }
+.btn .icon { width: 1.05em; height: 1.05em; }
 
 /* ─── CHIPS ────────────────────────────────────────────── */
 
@@ -54,30 +53,33 @@
   border: 1px solid var(--border);
   background: var(--surface);
   color: var(--text2);
-  font-size: .84rem;
-  font-weight: 520;
-  transition: all var(--fast);
+  font-size: var(--t-sm);
+  font-weight: var(--w-normal);
+  transition: border-color var(--fast), color var(--fast), background var(--fast);
 }
 @media (hover: hover) {
   .chip:hover { border-color: var(--text3); color: var(--text); }
 }
 .chip.active {
   background: var(--accent-bg); border-color: var(--accent);
-  color: var(--accent2); font-weight: 620;
+  color: var(--accent2); font-weight: var(--w-medium);
 }
 
+/* One badge for every level. It used to be three hardcoded
+   colour variants, which meant a B1 word would have rendered
+   with no styling at all — the level chip was quietly the
+   thing standing between this deck and a fourth level. */
 .level-badge {
   display: inline-block;
-  font-size: 11px; font-weight: 730; letter-spacing: .05em;
+  font-size: var(--t-xs); font-weight: var(--w-medium); letter-spacing: .05em;
   padding: 2px 6px; border-radius: var(--r-xs);
+  background: var(--surface2); color: var(--text3);
 }
-.level-A0 { background: var(--green-bg); color: var(--green); }
-.level-A1 { background: var(--accent-bg); color: var(--accent2); }
-.level-A2 { background: var(--purple-bg); color: var(--purple); }
 
+/* der / die / das keep their colours — see modes.css. */
 .art-pill {
   display: inline-block;
-  font-size: .74rem; font-weight: 700;
+  font-size: var(--t-xs); font-weight: var(--w-bold);
   padding: 2px 8px; border-radius: var(--r-xs);
   font-family: var(--font-de);
 }
@@ -85,7 +87,7 @@
 .art-die { background: var(--die-bg); color: var(--die); }
 .art-das { background: var(--das-bg); color: var(--das); }
 
-.pos-tag { font-size: .74rem; color: var(--text3); font-style: italic; }
+.pos-tag { font-size: var(--t-xs); color: var(--text3); font-style: italic; }
 
 /* ─── PANELS ───────────────────────────────────────────── */
 
@@ -98,7 +100,28 @@
 }
 .panel + .panel { margin-top: var(--s3); }
 .panel h3 { margin-bottom: var(--s2); }
-.panel .muted { color: var(--text3); font-size: .86rem; }
+.panel .muted { color: var(--text3); font-size: var(--t-sm); }
+
+/* Detail panels — the place where the numbers that used to be
+   shouting from the top of the page now live. */
+details.panel > summary {
+  cursor: pointer; list-style: none;
+  display: flex; align-items: center; justify-content: space-between;
+  gap: var(--s2);
+  font-weight: var(--w-semi); font-size: var(--t-md);
+  min-height: var(--tap);
+}
+details.panel > summary::-webkit-details-marker { display: none; }
+details.panel > summary::after {
+  content: ''; flex-shrink: 0;
+  width: 8px; height: 8px;
+  border-right: 1.75px solid var(--text3);
+  border-bottom: 1.75px solid var(--text3);
+  transform: rotate(45deg); margin-right: 4px;
+  transition: transform var(--fast);
+}
+details.panel[open] > summary::after { transform: rotate(-135deg); margin-bottom: -4px; }
+details.panel[open] > summary { margin-bottom: var(--s3); }
 
 .stat-grid {
   display: grid;
@@ -113,28 +136,32 @@
   box-shadow: var(--sh-1);
 }
 .stat-num {
-  font-size: 1.8rem; font-weight: 700;
-  letter-spacing: -.035em; line-height: 1.1;
+  font-size: var(--t-xl); font-weight: var(--w-semi);
+  letter-spacing: -.03em; line-height: 1.15;
   font-variant-numeric: tabular-nums;
 }
-.stat-label { font-size: .76rem; color: var(--text3); margin-top: 2px; }
-.stat-card.accent .stat-num { color: var(--accent); }
-.stat-card.green .stat-num { color: var(--green); }
-.stat-card.amber .stat-num { color: var(--amber); }
+.stat-label {
+  font-size: var(--t-xs); color: var(--text3); margin-top: 2px;
+  display: flex; align-items: center; gap: 5px;
+}
+/* The numbers are the same size and the same colour. Making one
+   of them amber and one of them green implied a ranking that
+   was never real. Only red survives, because "your accuracy
+   dropped" is genuinely something to look at. */
 .stat-card.red .stat-num { color: var(--red); }
 
 /* ─── BARS ─────────────────────────────────────────────── */
 
 .bar-track {
-  height: 7px; background: var(--surface3);
+  height: 6px; background: var(--surface3);
   border-radius: var(--r-pill); overflow: hidden;
 }
 .bar-fill {
   height: 100%; border-radius: var(--r-pill);
   background: var(--accent);
-  transition: width .55s var(--ease);
+  transition: width .4s var(--ease);
 }
-.bar-fill.green { background: var(--green); }
+.bar-fill.green { background: var(--accent); }
 
 .row-bar {
   display: grid;
@@ -143,11 +170,11 @@
   padding: var(--s2) 0;
 }
 .row-bar-name {
-  font-size: .86rem; color: var(--text2);
+  font-size: var(--t-sm); color: var(--text2);
   overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
 }
 .row-bar-val {
-  font-size: .78rem; color: var(--text3);
+  font-size: var(--t-xs); color: var(--text3);
   font-variant-numeric: tabular-nums;
   min-width: 66px; text-align: right;
 }
@@ -158,9 +185,10 @@
   display: flex; flex-direction: column; align-items: center; justify-content: center;
   gap: var(--s2); padding: var(--s9) var(--s4); text-align: center; color: var(--text3);
 }
-.empty-icon { font-size: 2.8rem; opacity: .85; }
+.empty-icon { color: var(--text3); display: flex; }
+.empty-icon .icon { width: 30px; height: 30px; stroke-width: 1.5; }
 .empty h3 { color: var(--text); }
-.empty p { max-width: 46ch; font-size: .9rem; line-height: 1.65; }
+.empty p { max-width: 46ch; font-size: var(--t-base); line-height: 1.65; }
 
 /* ─── FORM CONTROLS ────────────────────────────────────── */
 
@@ -176,7 +204,7 @@
   outline: none;
   transition: border-color var(--fast), box-shadow var(--fast);
 }
-.search-input:focus { border-color: var(--accent); box-shadow: 0 0 0 3.5px var(--accent-ring); }
+.search-input:focus { border-color: var(--accent); box-shadow: 0 0 0 2px var(--accent-ring); }
 .search-input::placeholder { color: var(--text3); }
 
 select.ctrl, input.ctrl {
@@ -190,7 +218,7 @@ select.ctrl, input.ctrl {
   max-width: 100%;
 }
 select.ctrl { padding-right: var(--s6); }
-select.ctrl:focus, input.ctrl:focus { border-color: var(--accent); box-shadow: 0 0 0 3.5px var(--accent-ring); }
+select.ctrl:focus, input.ctrl:focus { border-color: var(--accent); box-shadow: 0 0 0 2px var(--accent-ring); }
 
 label.field { display: flex; flex-direction: column; gap: var(--s1); font-size: .85rem; color: var(--text2); min-width: 0; }
 label.inline { flex-direction: row; align-items: center; gap: var(--s2); cursor: pointer; min-height: var(--tap); }
@@ -201,16 +229,19 @@ input[type="checkbox"] { accent-color: var(--accent); width: 19px; height: 19px;
 
 .word-table { display: flex; flex-direction: column; }
 
+/* Five columns, not six. The sixth was "Next", printing the raw
+   spaced-repetition interval on up to 400 rows at once — a
+   number you can do nothing with, 400 times over. */
 .wt-head, .wt-row {
   display: grid;
-  grid-template-columns: 14px minmax(120px, 1.4fr) minmax(110px, 1.5fr) 100px 62px 58px;
+  grid-template-columns: 14px minmax(120px, 1.4fr) minmax(110px, 1.5fr) 100px 62px;
   gap: var(--s3);
   align-items: center;
   padding: var(--s2) var(--s3);
 }
 .wt-head {
-  font-size: 11px; text-transform: uppercase; letter-spacing: .07em;
-  color: var(--text3); font-weight: 660;
+  font-size: var(--t-xs); text-transform: uppercase; letter-spacing: .07em;
+  color: var(--text3); font-weight: var(--w-medium);
   border-bottom: 1px solid var(--border);
   position: sticky; top: 0; z-index: 2;
   background: var(--bg);
@@ -224,10 +255,10 @@ input[type="checkbox"] { accent-color: var(--accent); width: 19px; height: 19px;
 @media (hover: hover) { .wt-row:hover { background: var(--surface2); } }
 .wt-row:active { background: var(--surface2); }
 
-.wt-word { font-family: var(--font-de); font-size: .98rem; font-weight: 560; min-width: 0; }
-.wt-trans { color: var(--text2); font-size: .87rem; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
-.wt-cat { font-size: .76rem; color: var(--text3); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
-.wt-strength { font-size: .75rem; color: var(--text3); font-variant-numeric: tabular-nums; }
+.wt-word { font-family: var(--font-de); font-size: var(--t-base); font-weight: var(--w-medium); min-width: 0; }
+.wt-trans { color: var(--text2); font-size: var(--t-sm); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.wt-cat { font-size: var(--t-xs); color: var(--text3); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.wt-strength { font-size: var(--t-xs); color: var(--text3); font-variant-numeric: tabular-nums; }
 
 .dot {
   display: inline-block;
@@ -262,9 +293,8 @@ input[type="checkbox"] { accent-color: var(--accent); width: 19px; height: 19px;
   .wt-row > :nth-child(3) { grid-area: trans; }
   .wt-row > :nth-child(4) { display: none; }   /* category */
   .wt-row > :nth-child(5) { grid-area: level; }
-  .wt-row > :nth-child(6) { display: none; }   /* next review */
-  .wt-word { font-size: 1.02rem; }
-  .wt-trans { white-space: normal; font-size: .85rem; line-height: 1.4; }
+  .wt-word { font-size: var(--t-md); }
+  .wt-trans { white-space: normal; font-size: var(--t-sm); line-height: 1.4; }
 }
 
 /* ─── DRAWER ───────────────────────────────────────────── */
@@ -297,12 +327,12 @@ input[type="checkbox"] { accent-color: var(--accent); width: 19px; height: 19px;
   position: fixed; top: var(--s4); right: var(--s4);
   width: var(--tap); height: var(--tap);
   display: grid; place-items: center;
-  font-size: 1.5rem; color: var(--text2);
+  color: var(--text2);
   background: var(--surface); border: 1px solid var(--border);
   border-radius: 50%;
-  box-shadow: var(--sh-1);
   z-index: 3;
 }
+.drawer-close .icon { width: 18px; height: 18px; }
 @media (hover: hover) { .drawer-close:hover { color: var(--text); background: var(--surface2); } }
 
 /* On a phone the drawer becomes a bottom sheet — reachable by thumb. */
@@ -347,8 +377,8 @@ input[type="checkbox"] { accent-color: var(--accent); width: 19px; height: 19px;
   animation: slideIn .22s var(--ease);
 }
 .shortcut-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap: var(--s6); margin: var(--s5) 0 var(--s6); }
-.sc-group h3 { font-size: 11.5px; text-transform: uppercase; letter-spacing: .07em; color: var(--text3); margin-bottom: var(--s2); }
-.sc { display: flex; align-items: center; gap: var(--s2); padding: 3px 0; font-size: .86rem; color: var(--text2); }
+.sc-group h3 { font-size: var(--t-xs); text-transform: uppercase; letter-spacing: .07em; color: var(--text3); margin-bottom: var(--s2); }
+.sc { display: flex; align-items: center; gap: var(--s2); padding: 3px 0; font-size: var(--t-sm); color: var(--text2); }
 .sc kbd { flex-shrink: 0; }
 
 /* Keyboard shortcuts are meaningless on a touch-only device — collapse the
@@ -374,7 +404,7 @@ input[type="checkbox"] { accent-color: var(--accent); width: 19px; height: 19px;
   background: var(--text); color: var(--bg);
   padding: var(--s3) var(--s5);
   border-radius: var(--r-pill);
-  font-size: .87rem; font-weight: 520;
+  font-size: var(--t-sm); font-weight: var(--w-medium);
   box-shadow: var(--sh-3);
   z-index: 400;
   max-width: calc(100vw - var(--s8));
@@ -405,10 +435,12 @@ input[type="checkbox"] { accent-color: var(--accent); width: 19px; height: 19px;
   background: var(--surface3);
   flex-shrink: 0;
 }
-.heat-cell[data-l="1"] { background: color-mix(in srgb, var(--green) 30%, var(--surface3)); }
-.heat-cell[data-l="2"] { background: color-mix(in srgb, var(--green) 52%, var(--surface3)); }
-.heat-cell[data-l="3"] { background: color-mix(in srgb, var(--green) 76%, var(--surface3)); }
-.heat-cell[data-l="4"] { background: var(--green); }
+/* One hue, four steps. A green-to-dark-green ramp read as a
+   scorecard; this reads as what it is — how much, which day. */
+.heat-cell[data-l="1"] { background: color-mix(in srgb, var(--accent) 26%, var(--surface3)); }
+.heat-cell[data-l="2"] { background: color-mix(in srgb, var(--accent) 50%, var(--surface3)); }
+.heat-cell[data-l="3"] { background: color-mix(in srgb, var(--accent) 75%, var(--surface3)); }
+.heat-cell[data-l="4"] { background: var(--accent); }
 
 /* ─── TOUCH TARGETS ────────────────────────────────────── */
 /* Apple and Google both put the comfortable minimum at ~44px. Small buttons
@@ -468,4 +500,4 @@ input[type="checkbox"] { accent-color: var(--accent); width: 19px; height: 19px;
 
 /* Compact metadata chips on card fronts — smaller than filter chips but never
    below the 11px legibility floor. */
-.chip.chip-mini { min-height: 24px; padding: 0 var(--s2); font-size: 11px; }
+.chip.chip-mini { min-height: 24px; padding: 0 var(--s2); font-size: var(--t-xs); }
