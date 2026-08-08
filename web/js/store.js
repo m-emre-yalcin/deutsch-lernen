@@ -28,9 +28,16 @@ export const DEFAULT_SETTINGS = {
   modes: { mc: true, flashcard: true, typing: true, listening: true, cloze: true, conjugation: true },
   genderDrillRatio: 0.2,     // share of a session spent on der/die/das
   verbDrillRatio: 0.15,      // share of a session spent on conjugation
-  levels: ['A0', 'A1', 'A2'],
+  // Empty = every level in the deck. This used to be a hardcoded
+  // ['A0','A1','A2'], which meant a B1 word would load, appear in Browse, be
+  // counted in the totals — and never once be shown to you.
+  levels: [],
   categories: [],            // empty = all
   typingStrict: false,       // false = accept ue/oe/ae/ss for ü/ö/ä/ß
+  // OFF: a card waits for you. Every mode used to advance itself on a timer,
+  // and two of them skipped the answer entirely.
+  autoAdvance: false,
+  autoAdvanceMs: 1200,
 }
 
 export const state = {
@@ -45,6 +52,20 @@ export const state = {
   loaded: false,
 }
 
+/**
+ * Every level present in the deck, in order — the single source of truth.
+ *
+ * Six places used to hardcode `['A0','A1','A2']`: the default filter, the
+ * settings chips, two Browse dropdowns, the Drills dropdown and the add-word
+ * form. The server has always computed this list from the data and shipped it
+ * as `meta.levels`, and nothing read it. Now everything does, so a B1 file
+ * dropped into data/vocab/ appears everywhere at once.
+ */
+export const deckLevels = () =>
+  (state.meta?.levels?.length
+    ? state.meta.levels
+    : [...new Set(state.words.map((w) => w.level).filter(Boolean))].sort())
+
 const listeners = new Set()
 export const subscribe = (fn) => { listeners.add(fn); return () => listeners.delete(fn) }
 export const emit = (evt, data) => listeners.forEach((fn) => fn(evt, data))
@@ -58,6 +79,8 @@ const emptyProgress = () => ({
   grammar: {},
   daily: {},
   settings: {},
+  knownLevels: null,   // levels this save has already been offered — see migrateLevels
+
   stats: { totalReviews: 0, streak: 0, longestStreak: 0, lastStudyDate: null },
 })
 
@@ -90,6 +113,7 @@ export async function loadAll() {
   state.progress = { ...emptyProgress(), ...(pick(server, local) || {}) }
   state.settings = { ...DEFAULT_SETTINGS, ...(state.progress.settings || {}) }
   state.settings.modes = { ...DEFAULT_SETTINGS.modes, ...(state.progress.settings?.modes || {}) }
+  if (migrateLevels()) save()
 
   // If localStorage was ahead, push it up immediately.
   if (local && server && new Date(local.updatedAt || 0) > new Date(server.updatedAt || 0)) {
@@ -104,6 +128,44 @@ export async function loadAll() {
   return state
 }
 
+/**
+ * Adopt levels that appeared in the deck after the settings were last saved.
+ *
+ * Changing the default alone does not reach an existing user: `loadAll` spreads
+ * the SAVED settings over the defaults, so a stored `['A0','A1','A2']` wins.
+ * Anyone who had ever opened the app would drop a new B1 file in, watch the
+ * word count go up, and get no new cards — with nothing on screen to explain it.
+ *
+ * So: any level the deck has that the saved filter has never seen gets switched
+ * on once. A level you have deliberately turned OFF stays off, because it is
+ * already in the list — this only ever adds levels it has never heard of.
+ *
+ * @returns {boolean} whether anything changed and needs saving
+ */
+function migrateLevels() {
+  const known = state.meta?.levels
+  if (!Array.isArray(known) || !known.length) return false
+
+  const seen = state.progress.knownLevels
+  // First run on an old save: treat whatever is selected as "already seen", so
+  // an existing deliberate selection survives, and only genuinely new levels
+  // (B1 and beyond) get switched on from here.
+  if (!Array.isArray(seen)) {
+    state.progress.knownLevels = known
+    return true
+  }
+
+  const fresh = known.filter((l) => !seen.includes(l))
+  if (!fresh.length) return false
+
+  state.progress.knownLevels = [...seen, ...fresh]
+  // An empty filter already means "everything" — leave it empty.
+  if (state.settings.levels?.length) {
+    state.settings.levels = [...state.settings.levels, ...fresh].sort()
+  }
+  return true
+}
+
 /** Re-read the deck from the server — after adding a word, or editing a file. */
 export async function reloadDeck() {
   const deck = await fetch('/api/deck?reload=1').then((r) => r.json())
@@ -111,6 +173,9 @@ export async function reloadDeck() {
   state.grammar = deck.grammar || []
   state.meta = deck.meta || {}
   state.wordsById = new Map(state.words.map((w) => [w.id, w]))
+  // Dropping a new vocab file in and hitting reload is the whole point of the
+  // reload button, so a level that arrives this way has to be picked up too.
+  if (migrateLevels()) save()
   emit('loaded')
   return state.words.length
 }
@@ -374,6 +439,11 @@ export async function importProgress(file) {
   }
   state.progress = { ...emptyProgress(), ...data }
   state.settings = { ...DEFAULT_SETTINGS, ...(data.settings || {}) }
+  // `modes` is the one nested object in settings, so a shallow spread of an
+  // older export drops any mode that did not exist when it was written — the
+  // mode then reads as undefined, i.e. off, and silently never comes up again.
+  state.settings.modes = { ...DEFAULT_SETTINGS.modes, ...(data.settings?.modes || {}) }
+  migrateLevels()
   await saveNow()
   emit('loaded')
 }
@@ -381,6 +451,7 @@ export async function importProgress(file) {
 export async function resetProgress() {
   state.progress = emptyProgress()
   state.settings = { ...DEFAULT_SETTINGS }
+  migrateLevels()
   await saveNow()
   emit('loaded')
 }
