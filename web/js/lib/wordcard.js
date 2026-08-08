@@ -6,6 +6,7 @@
  */
 
 import { esc } from './ui.js'
+import { icon } from './icons.js'
 import { buildLinks, explainMistakeLink, sentenceAiLink } from './links.js'
 import { stripArticle } from './normalize.js'
 import { speak, speakSentence } from './tts.js'
@@ -18,39 +19,87 @@ const FORM_LABELS = {
   genitiv: 'Genitiv', dativPlural: 'Dativ pl.',
 }
 
+/** The word, its article and its meaning — the top of every answer panel. */
+function headword(word, isNoun) {
+  return `
+    <div class="answer-main">
+      ${isNoun && word.article ? `<span class="art-pill art-${word.article}">${esc(word.article)}</span>` : ''}
+      <span>${esc(isNoun ? stripArticle(word.word) : word.word)}</span>
+      <button class="btn ghost sm" data-speak="${esc(word.word)}" title="Listen (L)">${icon('volume')}</button>
+    </div>
+    <div class="answer-trans">${esc(word.translations?.join(' · ') || word.translation)}</div>
+  `
+}
+
+/** What you wrote, next to what was wanted. Never one without the other. */
+function mistakeBox(word, mistake) {
+  return `
+    <div class="mistake-box">
+      You wrote <span class="bad">${esc(mistake.given || '—')}</span>
+      → <span class="good">${esc(mistake.expected)}</span>
+      <a class="link-chip" style="margin-left:var(--s2)"
+         href="${explainMistakeLink(word, mistake.given, mistake.expected)}"
+         target="_blank" rel="noopener">${icon('sparkle')} Why?</a>
+    </div>
+  `
+}
+
+/**
+ * Right / close / wrong, in one shape for every mode.
+ *
+ * Each mode used to draw its own, which is how "≈" ended up meaning "close" —
+ * an approximation sign nobody reads as encouragement — and how three modes
+ * came to compute `checkGerman`'s explanation ("Right, but the article is
+ * die") and then throw it away without showing it to anyone.
+ */
+export function renderVerdict(result) {
+  if (result.correct === null || result.correct === undefined) return ''
+  const kind = result.correct ? 'ok' : result.close ? 'close' : 'no'
+  const label = result.correct ? 'Right' : result.close ? 'Close' : 'Not quite'
+  return `
+    <div class="verdict ${kind}">
+      ${icon(result.correct ? 'check' : 'x')}
+      <span>${label}</span>
+      ${result.message ? `<span class="verdict-note">${esc(result.message)}</span>` : ''}
+    </div>
+  `
+}
+
+/**
+ * The short answer panel, for the fast drills.
+ *
+ * Gender and conjugation run dozens of cards back to back, so they get the word,
+ * the meaning, and the one rule that explains the miss — and nothing else. The
+ * full panel below would bury a 250-card drill.
+ *
+ * They used to get no panel at all: the card auto-advanced after 950ms and the
+ * rule you needed to read went with it.
+ */
+export function renderBrief(word, opts = {}) {
+  const isNoun = word.partOfSpeech === 'noun'
+  return `
+    <div class="answer answer-brief">
+      ${headword(word, isNoun)}
+      ${opts.mistake ? `<div class="answer-section">${mistakeBox(word, opts.mistake)}</div>` : ''}
+      ${opts.detail ? `<div class="answer-section">${opts.detail}</div>` : ''}
+    </div>
+  `
+}
+
 /**
  * Full answer panel.
  * @param {object} word
- * @param {object} opts  { mistake: {given, expected}, compact: bool }
+ * @param {object} opts  { mistake: {given, expected}, detail: html, compact: bool }
  */
 export function renderAnswer(word, opts = {}) {
   const isNoun = word.partOfSpeech === 'noun'
   const parts = []
 
   // ── headword ──
-  parts.push(`
-    <div class="answer-main">
-      ${isNoun && word.article ? `<span class="art-pill art-${word.article}">${esc(word.article)}</span>` : ''}
-      <span>${esc(isNoun ? stripArticle(word.word) : word.word)}</span>
-      <button class="btn ghost sm" data-speak="${esc(word.word)}" title="Listen (L)">🔊</button>
-    </div>
-    <div class="answer-trans">${esc(word.translations?.join(' · ') || word.translation)}</div>
-  `)
+  parts.push(headword(word, isNoun))
 
   // ── mistake feedback, when we came here from a wrong answer ──
-  if (opts.mistake) {
-    parts.push(`
-      <div class="answer-section">
-        <div class="mistake-box">
-          You wrote <span class="bad">${esc(opts.mistake.given || '—')}</span>
-          → <span class="good">${esc(opts.mistake.expected)}</span>
-          <a class="link-chip" style="margin-left:.5rem"
-             href="${explainMistakeLink(word, opts.mistake.given, opts.mistake.expected)}"
-             target="_blank" rel="noopener">✨ Why?</a>
-        </div>
-      </div>
-    `)
-  }
+  if (opts.mistake) parts.push(`<div class="answer-section">${mistakeBox(word, opts.mistake)}</div>`)
 
   // ── noun facts ──
   if (isNoun && (word.plural || word.forms?.genitiv)) {
@@ -98,8 +147,8 @@ export function renderAnswer(word, opts = {}) {
     const items = word.example_sentences.map((ex) => `
       <div class="example">
         <div class="example-de">${esc(ex.de)}
-          <button class="example-play" data-speak="${esc(ex.de)}" title="Listen">🔊</button>
-          <a class="example-play" href="${sentenceAiLink(ex.de)}" target="_blank" rel="noopener" title="Break this sentence down">✨</a>
+          <button class="example-play" data-speak="${esc(ex.de)}" title="Listen">${icon('volume')}</button>
+          <a class="example-play" href="${sentenceAiLink(ex.de)}" target="_blank" rel="noopener" title="Break this sentence down">${icon('sparkle')}</a>
         </div>
         <div class="example-en">${esc(ex.en)}</div>
       </div>
@@ -108,10 +157,12 @@ export function renderAnswer(word, opts = {}) {
   }
 
   // ── the teaching bits ──
+  // These were an amber box, a purple box and a teal box. Three colours to
+  // learn in order to find out which one is the mnemonic — so they say it now.
   const boxes = []
   if (word.notes) boxes.push(`<div class="note-box">${esc(word.notes)}</div>`)
-  if (word.mnemonic) boxes.push(`<div class="mnemonic-box">💡 ${esc(word.mnemonic)}</div>`)
-  if (word.germany_context) boxes.push(`<div class="context-box"><strong>In Germany:</strong> ${esc(word.germany_context)}</div>`)
+  if (word.mnemonic) boxes.push(`<div class="mnemonic-box"><span class="box-label">Memory hook</span>${esc(word.mnemonic)}</div>`)
+  if (word.germany_context) boxes.push(`<div class="context-box"><span class="box-label">In Germany</span>${esc(word.germany_context)}</div>`)
   if (boxes.length) parts.push(`<div class="answer-section">${boxes.join('')}</div>`)
 
   // ── synonyms / antonyms ──
@@ -129,17 +180,24 @@ export function renderAnswer(word, opts = {}) {
   }
 
   // ── external lookups ──
+  // Twelve chips, each previously wearing a different emoji — a magnifying
+  // glass, a globe, a graduation cap — none of which told you anything the
+  // site's own name didn't. The names are the labels now.
   if (!opts.compact) {
     const links = buildLinks(word).map((l) =>
-      `<a class="link-chip" href="${l.url}" target="_blank" rel="noopener" title="${esc(l.title)}">${l.icon} ${esc(l.label)}</a>`
+      `<a class="link-chip" href="${l.url}" target="_blank" rel="noopener" title="${esc(l.title)}">${esc(l.label)}</a>`
     ).join('')
-    parts.push(`<div class="answer-section"><div class="answer-label">Look it up</div><div class="link-row">${links}</div></div>`)
+    parts.push(`
+      <div class="answer-section">
+        <div class="answer-label">${icon('external')} Look it up</div>
+        <div class="link-row">${links}</div>
+      </div>`)
   }
 
   return `<div class="answer">${parts.join('')}</div>`
 }
 
-/** Wire the 🔊 buttons inside a rendered answer panel. */
+/** Wire the listen buttons inside a rendered answer panel. */
 export function bindAnswerAudio(root) {
   root.querySelectorAll('[data-speak]').forEach((btn) => {
     btn.addEventListener('click', (e) => {

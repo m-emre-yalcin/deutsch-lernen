@@ -9,6 +9,7 @@
  */
 
 import { stripArticle } from './normalize.js'
+import { deckLevels } from '../store.js'
 
 const enc = encodeURIComponent
 
@@ -22,7 +23,6 @@ export function buildLinks(word) {
     {
       id: 'ai',
       label: 'Google AI',
-      icon: '✨',
       title: 'Ask Google AI Mode to explain this word',
       // udm=50 is Google's AI Mode. A framed question gets a far better answer
       // than just pasting the word in.
@@ -36,63 +36,54 @@ export function buildLinks(word) {
     {
       id: 'translate',
       label: 'Translate',
-      icon: '🌐',
       title: 'Google Translate',
       url: `https://translate.google.com/?sl=de&tl=en&text=${enc(bare)}&op=translate`,
     },
     {
       id: 'deepl',
       label: 'DeepL',
-      icon: '🎯',
       title: 'DeepL — usually better German than Google',
       url: `https://www.deepl.com/translator#de/en/${enc(bare)}`,
     },
     {
       id: 'reverso',
       label: 'In context',
-      icon: '📄',
       title: 'Reverso Context — the word in thousands of real sentences',
       url: `https://context.reverso.net/translation/german-english/${enc(bare)}`,
     },
     {
       id: 'youglish',
       label: 'Hear it',
-      icon: '📺',
       title: 'YouGlish — real Germans saying this word on video',
       url: `https://youglish.com/pronounce/${enc(bare)}/german`,
     },
     {
       id: 'forvo',
       label: 'Forvo',
-      icon: '🗣️',
       title: 'Forvo — native speaker pronunciations',
       url: `https://forvo.com/word/${enc(bare.toLowerCase())}/#de`,
     },
     {
       id: 'dictcc',
       label: 'dict.cc',
-      icon: '📖',
       title: 'dict.cc — the dictionary Germans actually use',
       url: `https://www.dict.cc/?s=${enc(bare)}`,
     },
     {
       id: 'linguee',
       label: 'Linguee',
-      icon: '📑',
       title: 'Linguee — bilingual example pairs',
       url: `https://www.linguee.com/german-english/search?query=${enc(bare)}`,
     },
     {
       id: 'dwds',
       label: 'DWDS',
-      icon: '🎓',
       title: 'DWDS — the authoritative German dictionary',
       url: `https://www.dwds.de/wb/${enc(bare)}`,
     },
     {
       id: 'wiktionary',
       label: 'Wiktionary',
-      icon: '📚',
       title: 'Wiktionary — full declension and etymology',
       url: `https://de.wiktionary.org/wiki/${enc(bare)}`,
     },
@@ -102,7 +93,6 @@ export function buildLinks(word) {
     links.splice(3, 0, {
       id: 'verbformen',
       label: 'Conjugate',
-      icon: '🔀',
       title: 'Verbformen — every form of this verb',
       url: `https://www.verbformen.de/konjugation/${enc(bare)}.htm`,
     })
@@ -112,7 +102,6 @@ export function buildLinks(word) {
     links.splice(3, 0, {
       id: 'declension',
       label: 'Decline',
-      icon: '🔤',
       title: 'Full declension table',
       url: `https://www.verbformen.de/deklination/substantive/${enc(bare)}.htm`,
     })
@@ -121,11 +110,20 @@ export function buildLinks(word) {
   return links
 }
 
-/** Ask Google AI Mode about a grammar point rather than a word. */
-export const grammarAiLink = (topic) =>
-  `https://www.google.com/search?udm=50&q=${enc(
-    `Explain German grammar: ${topic}. Give clear rules, a table, common mistakes English speakers make, and 5 examples with translations. Keep it at A1-A2 level.`
+/**
+ * Ask Google AI Mode about a grammar point rather than a word.
+ *
+ * The level range comes from the deck rather than a hardcoded "A1-A2", so
+ * adding a B1 file also stops the app quietly asking for beginner explanations
+ * of intermediate grammar.
+ */
+export const grammarAiLink = (topic) => {
+  const levels = deckLevels()
+  const range = levels.length ? `${levels[0]}-${levels[levels.length - 1]}` : 'A1-A2'
+  return `https://www.google.com/search?udm=50&q=${enc(
+    `Explain German grammar: ${topic}. Give clear rules, a table, common mistakes English speakers make, and 5 examples with translations. Keep it at ${range} level.`
   )}`
+}
 
 /** Ask why a specific answer was wrong — the most useful link after a mistake. */
 export const explainMistakeLink = (word, given, expected) =>
