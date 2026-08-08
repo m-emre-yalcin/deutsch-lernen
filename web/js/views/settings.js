@@ -170,10 +170,15 @@ function render() {
       <div class="section-title">Your data</div>
       <div class="panel">
         <p class="muted" style="margin-bottom:.8rem">
+          ${window.deutschLernen ? `
+          Progress is written to <code>progress.json</code> after every answer, with a snapshot in
+          <code>backups/</code> once a day and every single review appended to
+          <code>reviews.jsonl</code> — all in your own folder, which App updates below can open for
+          you. Updating the app never touches any of it, and neither does deleting the app.` : `
           Progress is written to <code>data/progress.json</code> after every answer, with a snapshot
           in <code>data/backups/</code> once a day and every single review appended to
-          <code>data/reviews.jsonl</code>. Your browser holds a copy too, so a stopped server
-          never costs you a session.</p>
+          <code>data/reviews.jsonl</code>.`}
+          Your browser holds a copy too, so a stopped server never costs you a session.</p>
         <div style="display:flex;gap:.4rem;flex-wrap:wrap">
           <button class="btn" id="exportBtn">Export progress</button>
           <button class="btn" id="importBtn">Import progress</button>
@@ -184,13 +189,43 @@ function render() {
         <div id="cacheInfo" class="muted" style="margin-top:.6rem"></div>
       </div>
 
+      ${window.deutschLernen ? `
+      <div class="section-title">App updates</div>
+      <div class="panel">
+        <p class="muted" style="margin-bottom:.8rem">
+          New words, lessons and fixes are pulled straight from the public
+          <a href="https://github.com/m-emre-yalcin/deutsch-lernen" target="_blank" rel="noopener">GitHub
+          repository</a>, so you never have to download the app again. Checks happen on launch and
+          every few hours; the download happens in the background and nothing changes until you
+          restart. Your progress and your own words are never part of an update.</p>
+        <label class="field inline" style="margin-bottom:var(--s4)">
+          <input type="checkbox" id="autoUpdate">
+          <span>Keep the app up to date automatically</span>
+        </label>
+        <div style="display:flex;gap:.4rem;flex-wrap:wrap">
+          <button class="btn" id="updateCheck">Check now</button>
+          <button class="btn primary" id="updateRestart" hidden>Restart to update</button>
+          <button class="btn" id="openData">Show my files</button>
+          <button class="btn ghost" id="updateRollback">Undo update</button>
+        </div>
+        <div id="updateInfo" class="muted" style="margin-top:.6rem"></div>
+      </div>` : ''}
+
       <div class="section-title">Adding your own words</div>
       <div class="panel">
         <p class="muted">
+          ${window.deutschLernen ? `
+          The quickest way is <strong>Browse → + Add a word</strong>. In bulk, drop a
+          <code>.json</code> file into the <code>vocab/</code> folder inside your own folder —
+          <strong>Show my files</strong> above opens it — following the shape in
+          <a href="https://github.com/m-emre-yalcin/deutsch-lernen/blob/main/data/SCHEMA.md"
+             target="_blank" rel="noopener">SCHEMA.md</a>, then restart. Words you add live outside
+          the app, so an update can never overwrite them.` : `
           Drop a new <code>.json</code> file into <code>data/vocab/</code> following the shape in
           <code>data/SCHEMA.md</code>, then run <code>node tools/validate.js</code> to check it and
-          restart the app. Existing files can be edited freely — your progress is keyed by word
-          <code>id</code>, so fixing a translation or adding an example never loses your history.</p>
+          restart the app.`}
+          Existing files can be edited freely — your progress is keyed by word <code>id</code>, so
+          fixing a translation or adding an example never loses your history.</p>
       </div>
     </div>
   `
@@ -296,5 +331,68 @@ function wire() {
     await resetProgress()
     toast('Everything reset')
     render()
+  })
+
+  wireUpdates(el, on)
+}
+
+/**
+ * The "App updates" panel — desktop app only.
+ *
+ * These preferences deliberately do NOT go through updateSettings(). That
+ * writes into progress.json, which "Reset everything" wipes and "Import
+ * progress" replaces from an arbitrary file — so restoring an old backup would
+ * quietly switch updates back on. They live with the updater instead.
+ */
+// Settings re-renders itself after a reset or an import, which throws the old
+// panel away. The subscription outlives it, so the previous one has to be
+// dropped or each render leaves another handler painting a detached element.
+let unsubscribeUpdates = null
+let lastStatus = {}
+
+function wireUpdates(el, on) {
+  const dl = window.deutschLernen
+  if (!dl || !el.querySelector('#updateInfo')) return
+
+  const info = el.querySelector('#updateInfo')
+  const restart = el.querySelector('#updateRestart')
+  let version = ''
+
+  const paint = (s = lastStatus) => {
+    const line = {
+      ready: 'An update is ready. Restart to use it.',
+      downloading: 'Downloading…',
+      checking: 'Checking…',
+      'rolled-back': 'That update did not work, so the version that shipped with the app is back.',
+      error: `Could not check for updates: ${s.error || 'no connection'}`,
+    }[s.state] || 'Up to date.'
+    info.textContent = version ? `${version} — ${line}` : line
+    restart.hidden = s.state !== 'ready'
+  }
+
+  dl.getInfo().then((i) => {
+    version = `Version ${i.version}${i.sha ? ` · content ${i.sha.slice(0, 7)}` : ''}`
+    paint()
+  })
+  dl.getPrefs().then((p) => { el.querySelector('#autoUpdate').checked = p.autoUpdate })
+  dl.getUpdateStatus().then((s) => { lastStatus = s; paint(s) })
+
+  unsubscribeUpdates?.()
+  unsubscribeUpdates = dl.onUpdateStatus((s) => { lastStatus = s; paint(s) })
+
+  on('#autoUpdate', 'change', (e) => dl.setPrefs({ autoUpdate: e.target.checked }))
+  on('#updateCheck', 'click', async () => {
+    paint({ state: 'checking' })
+    lastStatus = await dl.checkForUpdates()
+    paint(lastStatus)
+  })
+  on('#updateRestart', 'click', () => dl.restart())
+  on('#openData', 'click', () => dl.openUserData())
+  on('#updateRollback', 'click', async () => {
+    if (!confirm('This goes back to the words and lessons that shipped inside the app, and stops that update being downloaded again.\n\nYour progress and your own words are untouched. Continue?')) return
+    await dl.rollback()
+    toast('Reverted — restart to apply')
+    lastStatus = { state: 'rolled-back' }
+    paint(lastStatus)
   })
 }

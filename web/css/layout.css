@@ -37,6 +37,7 @@
   padding: 0 var(--s2) var(--s5);
   min-width: 0;
 }
+
 .logo {
   display: flex; align-items: center; gap: var(--s2);
   font-weight: var(--w-semi); letter-spacing: -.02em; font-size: var(--t-md);
@@ -147,6 +148,17 @@
 .save-state .icon { width: 13px; height: 13px; }
 .save-state:empty { display: none; }
 
+/* Same rule, same reason: an app that is up to date is not news. This only
+   appears when an update is waiting or a download failed. It opens Settings —
+   the sidebar collapses to 68px, which is no place for buttons. */
+.update-state {
+  background: none; border: 0; cursor: pointer; font: inherit; text-align: left;
+  color: var(--accent);
+  width: 100%;
+}
+.update-state.is-warn { color: var(--amber); }
+@media (hover: hover) { .update-state:hover { text-decoration: underline; } }
+
 /* ─── COLLAPSED SIDEBAR (desktop, manual) ──────────────── */
 /* Scoped to desktop widths: the .collapsed class survives a window resize, and
    without the guard its higher specificity would hide the phone tab-bar labels. */
@@ -156,7 +168,8 @@
   #app.collapsed .nav-label,
   #app.collapsed .streak-label,
   #app.collapsed .mastery-mini span,
-  #app.collapsed .save-state { display: none; }
+  #app.collapsed .save-state,
+  #app.collapsed .update-state { display: none; }
   #app.collapsed .sidebar-top { justify-content: center; }
   #app.collapsed #sidebarToggle { transform: rotate(180deg); }
   #app.collapsed .nav-btn { justify-content: center; padding-inline: 0; }

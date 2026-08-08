@@ -86,6 +86,27 @@ export function refreshChrome() {
     : `${icon('alert')} saving locally — server unreachable`
 }
 
+// ─── APP UPDATES ──────────────────────────────────────────────────────────────
+// Desktop app only. In a browser `window.deutschLernen` is undefined and every
+// one of these is a no-op, so one web/ tree serves both.
+
+/**
+ * Same rule as the save line above: only speak up when there is something to
+ * act on. "Up to date" and "checking…" are not worth a permanent line, so they
+ * render as nothing.
+ */
+export function renderUpdate(status = {}) {
+  const el = $('#updateState')
+  if (!el) return
+  el.classList.toggle('is-warn', status.state === 'error')
+  el.innerHTML =
+      status.state === 'ready'       ? `${icon('download')} Update ready — restart`
+    : status.state === 'downloading' ? `${icon('download')} Downloading update…`
+    : status.state === 'rolled-back' ? `${icon('alert')} Update reverted`
+    : status.state === 'error'       ? `${icon('alert')} Update check failed`
+    : ''
+}
+
 // ─── KEYBOARD ─────────────────────────────────────────────────────────────────
 
 document.addEventListener('keydown', (e) => {
@@ -156,9 +177,11 @@ async function boot() {
     await loadAll()
   } catch (e) {
     document.getElementById('boot').classList.add('error')
-    bootSub.innerHTML = `Couldn't load the deck.<br><br>${e.message}<br><br>
-      Make sure the server is running — start it with <code>./start.sh</code> from the
-      study-german folder rather than opening index.html directly.`
+    bootSub.innerHTML = `Couldn't load the deck.<br><br>${e.message}<br><br>` + (window.deutschLernen
+      ? `Quit and reopen Deutsch Lernen. If it keeps happening, Settings → App updates
+         can go back to the version that shipped with the app.`
+      : `Make sure the server is running — start it with <code>./start.sh</code> from the
+         study-german folder rather than opening index.html directly.`)
     return
   }
 
@@ -193,6 +216,15 @@ async function boot() {
   document.addEventListener('visibilitychange', () => {
     if (document.visibilityState === 'hidden') saveNow()
   })
+
+  if (window.deutschLernen) {
+    $('#updateState').addEventListener('click', () => navigate('settings'))
+    window.deutschLernen.onUpdateStatus(renderUpdate)
+    renderUpdate(await window.deutschLernen.getUpdateStatus())
+    // Saving is debounced by two seconds, so quitting straight after an answer
+    // would drop it. The app waits for this before it closes.
+    window.deutschLernen.onFlush(() => saveNow())
+  }
 
   console.log(
     `%cDeutsch Lernen%c  ${state.words.length} words · ${state.grammar.length} grammar lessons`,
