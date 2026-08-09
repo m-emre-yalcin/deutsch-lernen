@@ -12,6 +12,7 @@
  */
 
 import { esc } from '../lib/ui.js'
+import { bindTextSubmit } from '../lib/keys.js'
 import { checkGerman, normalize, stripArticle, diffChars } from '../lib/normalize.js'
 import { imageHtml } from '../lib/wordcard.js'
 import { state } from '../store.js'
@@ -40,7 +41,7 @@ function sameMeaningWords(word) {
 export const meta = {
   id: 'typing',
   name: 'Typing recall',
-  icon: '⌨️',
+  icon: 'keyboard',
   desc: 'Type the German from memory. The strongest mode for producing the language.',
 }
 
@@ -59,7 +60,6 @@ export function render(el, ctx) {
       </div>
       ${imageHtml(word)}
       <div class="prompt-word en">${esc(word.translations?.[0] || word.translation)}</div>
-      <div class="prompt-sub">${isNoun ? 'type it <b>with</b> der/die/das' : 'write it in German'}</div>
     </div>
 
     <div style="width:100%;max-width:440px;margin:0 auto">
@@ -69,11 +69,15 @@ export function render(el, ctx) {
       <div class="umlaut-bar">
         ${UMLAUTS.map((u) => `<button class="umlaut-key" data-u="${u}">${u}</button>`).join('')}
       </div>
-      <div class="hint-line" style="text-align:center">
-        <kbd>Enter</kbd> to check · type <b>ue</b> for <b>ü</b> if it's easier
-      </div>
     </div>
   `
+
+  // The instruction moved out of .prompt-sub and into the task line, which
+  // lives outside the scroll area and — unlike .hint-line — is not hidden on
+  // touch. On a phone this mode used to be a bare box with a placeholder.
+  ctx.setTask(isNoun
+    ? 'Type this in German, <b>with</b> its der/die/das.'
+    : 'Type this in German. You can type <b>ue</b> for <b>ü</b>.')
 
   const input = el.querySelector('#typeIn')
   setTimeout(() => input.focus(), 30)
@@ -115,38 +119,30 @@ export function render(el, ctx) {
     input.disabled = true
     input.classList.add(result.correct ? 'correct' : result.close ? 'close' : 'wrong')
 
+    // Which letters went wrong — the one thing this mode knows that the shared
+    // answer panel cannot work out for itself. Everything else about the
+    // verdict is now drawn once, by study.js, in the same shape for every mode.
     const diff = result.correct ? [] : diffChars(stripArticle(given), stripArticle(word.word))
-    const verdict = document.createElement('div')
-    verdict.className = `verdict ${result.correct ? 'ok' : result.close ? 'close' : 'no'}`
-    verdict.innerHTML = `
-      <div class="verdict-icon">${result.correct ? '✓' : result.close ? '≈' : '✗'}</div>
-      ${synonymOf
-        ? `<div class="verdict-text">Also correct — this card was asking for
-             <b class="de">${esc(word.word)}</b>.</div>`
-        : result.message ? `<div class="verdict-text">${esc(result.message)}</div>` : ''}
-      ${!result.correct ? `
-        <div class="verdict-correct de">${esc(word.word)}</div>
-        ${diff.length ? `<div class="char-diff">${diff
-          .map((c) => `<span class="${c.ok ? 'ok' : 'bad'}">${esc(c.ch)}</span>`).join('')}</div>` : ''}
-      ` : ''}
-    `
-    input.parentElement.appendChild(verdict)
 
-    setTimeout(() => ctx.onAnswer({
+    ctx.showResult({
       correct: result.correct,
       close: result.close,
       answer: given,
       expected: word.word,
+      message: synonymOf
+        ? `Also correct — this card was asking for "${word.word}".`
+        : result.message,
+      detail: diff.length
+        ? `<div class="answer-label">Letter by letter</div>
+           <div class="char-diff">${diff
+             .map((c) => `<span class="${c.ok ? 'ok' : 'bad'}">${esc(c.ch)}</span>`).join('')}</div>`
+        : null,
       // A near-miss shouldn't reset a word you basically know — it lands on Hard.
       suggestedRating: result.correct ? 3 : result.close ? 2 : 1,
-    }), result.correct ? 320 : 900)
+    })
   }
 
-  input.addEventListener('keydown', (e) => {
-    if (e.key === 'Enter') { e.preventDefault(); submit() }
-    e.stopPropagation()   // digits are letters here, not rating shortcuts
-  })
-
-  ctx.setSubmit(submit)
+  bindTextSubmit(input, submit)
+  ctx.setPrimary({ label: 'Check', run: submit })
   ctx.setFocusTarget(input)
 }

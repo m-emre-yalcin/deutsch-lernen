@@ -12,6 +12,7 @@
  */
 
 import { esc } from '../lib/ui.js'
+import { bindTextSubmit } from '../lib/keys.js'
 import { checkGerman } from '../lib/normalize.js'
 import { speak } from '../lib/tts.js'
 import { state } from '../store.js'
@@ -19,7 +20,7 @@ import { state } from '../store.js'
 export const meta = {
   id: 'conjugation',
   name: 'Conjugation',
-  icon: '🔀',
+  icon: 'shuffle',
   desc: 'Produce the right verb form. Drills the stem changes and Perfekt that catch everyone.',
 }
 
@@ -63,8 +64,10 @@ export function render(el, ctx) {
   const slot = pickSlot(word)
 
   // A verb with no forms shouldn't reach here, but a hand-added one might.
+  // This used to skip the card synchronously mid-render, which flashed it past
+  // and lost the review.
   if (!slot) {
-    ctx.onAnswer({ correct: null, answer: null, skipped: true })
+    ctx.unavailable('no conjugation forms for this verb')
     return
   }
 
@@ -92,11 +95,24 @@ export function render(el, ctx) {
       <input class="type-input" id="conjIn" autocomplete="off" autocorrect="off"
              autocapitalize="off" spellcheck="false"
              placeholder="${isCompound ? 'two words' : '…'}" />
-      <div class="hint-line" style="text-align:center">
-        <kbd>Enter</kbd> to check${word.separable ? ' · this verb splits' : ''}
-      </div>
     </div>
   `
+
+  // This was the most under-specified card in the app. It shows you a verb and
+  // the word "du" and an empty box — and never said whether it wanted the
+  // pronoun, whether a separable prefix comes along, or whether the Perfekt
+  // includes its auxiliary. That matters: normalize() does not strip a leading
+  // pronoun, so typing the obvious "du fährst" against an expected "fährst"
+  // was graded wrong, with nothing on screen to explain why.
+  ctx.setTask(
+    slot.key === 'perfekt'
+      ? `Type the Perfekt: <b>${esc(word.auxiliary || 'hat')}</b> + the participle. Two words, no pronoun.`
+      : slot.key === 'praeteritum'
+        ? 'Type the Präteritum (simple past), 3rd person. One word, no pronoun.'
+        : word.separable
+          ? `Type the <b>${esc(slot.label)}</b> form: verb first, then the prefix, as two words. No pronoun.`
+          : `Type the <b>${esc(slot.label)}</b> form of this verb. No pronoun.`
+  )
 
   const input = el.querySelector('#conjIn')
   setTimeout(() => input.focus(), 30)
@@ -105,9 +121,19 @@ export function render(el, ctx) {
 
   const submit = () => {
     if (submitted) return
-    const given = input.value.trim()
+    let given = input.value.trim()
     if (!given) { input.focus(); return false }
     submitted = true
+
+    // Belt and braces to the task line above: if you typed the pronoun anyway,
+    // drop it rather than mark a correct conjugation wrong over a word we
+    // ourselves put on the screen. Done here, not in normalize.js — that file's
+    // behaviour is pinned by answers.test.mjs and shared with every other mode.
+    const pronouns = slot.label.toLowerCase().split(' / ')
+    const firstWord = given.split(/\s+/)[0]?.toLowerCase()
+    if (pronouns.includes(firstWord) && given.split(/\s+/).length > 1) {
+      given = given.slice(firstWord.length).trim()
+    }
 
     const result = checkGerman(given, expected, { strict: state.settings.typingStrict })
     input.disabled = true
@@ -121,36 +147,28 @@ export function render(el, ctx) {
         <span class="form-val">${esc(word.forms[s.key])}</span>
       </div>`).join('')
 
-    el.insertAdjacentHTML('beforeend', `
-      <div class="verdict ${result.correct ? 'ok' : result.close ? 'close' : 'no'}">
-        <div class="verdict-icon">${result.correct ? '✓' : result.close ? '≈' : '✗'}</div>
-        ${!result.correct ? `<div class="verdict-correct de">${esc(slot.label)} ${esc(expected)}</div>` : ''}
-      </div>
-      <div class="answer" style="margin-top:.8rem">
-        <div class="answer-label">Full conjugation</div>
-        <div class="forms-grid">${table}</div>
-        ${word.notes ? `<div class="note-box" style="margin-top:.6rem">${esc(word.notes)}</div>` : ''}
-      </div>
-    `)
-
     speak(`${slot.key === 'perfekt' || slot.key === 'praeteritum' ? '' : slot.label.split(' ')[0] + ' '}${expected}`)
 
-    setTimeout(() => ctx.onAnswer({
+    // The table used to be rendered here and then wiped 700ms later — a full
+    // conjugation, shown for two thirds of a second, on the mode whose entire
+    // purpose is seeing the pattern rather than the single form you missed.
+    ctx.showResult({
       correct: result.correct,
       close: result.close,
       answer: given,
       expected,
       verbOnly: true,
+      message: result.message,
+      detail: `
+        <div class="answer-label">Full conjugation</div>
+        <div class="forms-grid">${table}</div>
+        ${word.notes ? `<div class="note-box" style="margin-top:var(--s3)">${esc(word.notes)}</div>` : ''}`,
       suggestedRating: result.correct ? 3 : result.close ? 2 : 1,
-    }), result.correct ? 700 : 1600)
+    })
   }
 
-  input.addEventListener('keydown', (e) => {
-    if (e.key === 'Enter') { e.preventDefault(); submit() }
-    e.stopPropagation()
-  })
-
-  ctx.setSubmit(submit)
+  bindTextSubmit(input, submit)
+  ctx.setPrimary({ label: 'Check', run: submit })
   ctx.setFocusTarget(input)
 }
 

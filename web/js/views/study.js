@@ -2,12 +2,24 @@
  * The study surface.
  *
  * Owns the loop: pick the next item → hand it to a mode → collect the answer →
- * show the full word → take a rating → schedule → repeat. Modes stay dumb about
+ * show the truth → take a rating → schedule → repeat. Modes stay dumb about
  * scheduling; this file stays dumb about how any individual exercise works.
+ *
+ * The division of labour used to be drawn one step further along, and that one
+ * step was the source of most of what was wrong here. Each mode graded the
+ * answer, drew its own verdict, waited on its own hand-tuned timer — 260ms,
+ * 950ms, 2200ms, all different — and only then handed the turn back. Two modes
+ * skipped the answer panel altogether and advanced with no input at all.
+ *
+ * So the line moved. A mode's job now ends the instant it has graded the input.
+ * It calls ctx.showResult() and stops. Everything after that — the verdict, the
+ * answer, the rating, the keyboard, the advance — happens exactly once, here.
+ * No mode sets a timer. No card moves on until you say so.
  */
 
 import { esc, plural, fmtDuration } from '../lib/ui.js'
-import { renderAnswer, bindAnswerAudio } from '../lib/wordcard.js'
+import { icon } from '../lib/icons.js'
+import { renderAnswer, renderBrief, renderVerdict, bindAnswerAudio } from '../lib/wordcard.js'
 import { previewIntervals, formatInterval, AGAIN, HARD, GOOD, EASY } from '../srs.js'
 import { buildQueue, commit, requeue, dueCounts } from '../session.js'
 import { state, saveNow } from '../store.js'
@@ -23,22 +35,39 @@ import * as conjugation from '../modes/conjugation.js'
 
 export const MODE_IMPL = { flashcard, mc, typing, gender, listening, cloze, conjugation }
 
+/**
+ * How long after the screen changes a rating keystroke is ignored.
+ *
+ * A key pressed before the eye can register that the screen means something new
+ * is the previous screen's keystroke arriving late. In multiple choice, "3"
+ * picked an option and then — 260ms later — rated the card and advanced past
+ * the answer. Two meanings for one key, a quarter of a second apart.
+ */
+const PHASE_GUARD_MS = 350
+
 let queue = []
 let index = 0
 let phase = 'question'        // question | answer | done
+let phaseAt = 0
 let current = null
 let lastAnswer = null
 let cardStart = 0
 let sessionStart = 0
 let counters = { answered: 0, correct: 0, newSeen: 0 }
 let opts = {}
+let advanceTimer = null
 
 // Handlers the active mode installs, reset for every card.
-let submitFn = null
 let keyFn = null
 let focusTarget = null
+let primary = null            // { label, run } — the visible button AND the key
+let suggested = GOOD
+let quickRating = false       // true = the two-button drill row
 
 const root = () => document.getElementById('view-study')
+
+const setPhase = (p) => { phase = p; phaseAt = performance.now() }
+const settled = () => performance.now() - phaseAt >= PHASE_GUARD_MS
 
 /**
  * `options` present  → an explicit request (a drill), always start fresh.
@@ -67,7 +96,7 @@ export function start() {
   index = 0
   counters = { answered: 0, correct: 0, newSeen: 0 }
   sessionStart = Date.now()
-  phase = 'question'
+  setPhase('question')
   render()
 }
 
@@ -79,6 +108,7 @@ export function refresh() {
 // ─── RENDER ───────────────────────────────────────────────────────────────────
 
 function render() {
+  clearTimeout(advanceTimer)
   const el = root()
   if (!queue.length) return renderEmpty(el)
   if (index >= queue.length) return renderDone(el)
@@ -86,6 +116,9 @@ function render() {
   current = queue[index]
   const impl = MODE_IMPL[current.mode] || MODE_IMPL.flashcard
 
+  // #task and #controls live OUTSIDE #stage. #stage is the only thing that
+  // scrolls, and the instruction and the buttons are the two things you must
+  // always be able to see — so they must not be scrollable away.
   el.innerHTML = `
     <div class="session">
       <div class="session-top">
@@ -98,89 +131,165 @@ function render() {
         </div>
         <button class="btn ghost sm" id="endBtn" title="End session (Esc)">End</button>
       </div>
-      <div class="card-stage" id="stage"></div>
+      <div class="task-line" id="task"></div>
+      <div class="card-stage" id="stage" tabindex="-1"></div>
       <div id="controls"></div>
     </div>
   `
 
   el.querySelector('#endBtn').addEventListener('click', finish)
 
-  submitFn = null
   keyFn = null
   focusTarget = null
-  phase = 'question'
+  primary = null
+  quickRating = false
   lastAnswer = null
   cardStart = Date.now()
+  setPhase('question')
 
-  impl.render(el.querySelector('#stage'), {
+  const stage = el.querySelector('#stage')
+  const task = el.querySelector('#task')
+
+  impl.render(stage, {
     word: current.word,
     card: state.progress.cards[current.word.id],
     direction: state.settings.direction,
-    onAnswer: handleAnswer,
-    setSubmit: (fn) => { submitFn = fn },
+    drill: isDrill(),
+    showResult: handleResult,
+    unavailable: fallBack,
+    setTask: (html) => { task.innerHTML = html },
+    setPrimary: (p) => { primary = p },
     setKeyHandler: (fn) => { keyFn = fn },
     setFocusTarget: (t) => { focusTarget = t },
   })
+
+  renderQuestionControls(el.querySelector('#controls'))
 }
 
-/** A mode has collected the user's response. Show the truth and ask for a rating. */
-function handleAnswer(result) {
-  if (phase !== 'question') return
-  phase = 'answer'
-  lastAnswer = result
+/** Gender and conjugation cards, whether injected into a session or drilled. */
+const isDrill = () => Boolean(current?.genderOnly || current?.verbOnly)
 
-  if (result.skipped) { next(); return }
+function renderQuestionControls(controls) {
+  // Modes that answer with their own grid of large buttons (multiple choice,
+  // der/die/das) already satisfy "there is something visible to press", so
+  // they set no primary and get no extra button. Note the guard: templating
+  // an absent primary would print `undefined` into the label.
+  controls.innerHTML = `
+    ${primary ? `
+      <div class="card-actions">
+        <button class="btn primary big" id="primaryBtn">${esc(primary.label)}</button>
+      </div>` : ''}
+    ${primary
+      ? `<div class="hint-line"><kbd>Enter</kbd> to ${esc(primary.label.toLowerCase())}</div>`
+      : ''}
+  `
+  controls.querySelector('#primaryBtn')?.addEventListener('click', () => primary?.run())
+}
+
+// ─── ANSWER ───────────────────────────────────────────────────────────────────
+
+/** A mode has graded the response. Everything from here is ours. */
+function handleResult(result) {
+  if (phase !== 'question') return
+  setPhase('answer')
+  lastAnswer = result
+  keyFn = null
 
   const el = root()
-  const controls = el.querySelector('#controls')
   const stage = el.querySelector('#stage')
-
-  // Quick drills stay fast — correct/incorrect is the whole story, no answer
-  // panel, no rating row. Slowing them down would defeat the point. The
-  // conjugation mode has already shown its own table by this point.
-  if (current.genderOnly || current.verbOnly) {
-    commitAndAdvance(result.correct ? GOOD : AGAIN, result)
-    return
-  }
+  const drill = isDrill()
 
   const mistake = result.correct === false && result.answer
     ? { given: result.answer, expected: result.expected || current.word.word }
     : null
 
-  stage.insertAdjacentHTML('beforeend', renderAnswer(current.word, { mistake }))
+  stage.insertAdjacentHTML('beforeend',
+    renderVerdict(result) +
+    (drill
+      ? renderBrief(current.word, { mistake, detail: result.detail })
+      : renderAnswer(current.word, { mistake, detail: result.detail })))
   bindAnswerAudio(stage)
-  stage.scrollTop = stage.scrollHeight
 
-  const card = state.progress.cards[current.word.id] || {}
-  const iv = previewIntervals(card, { targetRetention: state.settings.targetRetention })
-  const suggested = result.suggestedRating
+  // Bring the TOP of what just appeared into view. This used to be
+  // `stage.scrollTop = stage.scrollHeight` — a jump to the very bottom of the
+  // panel, so on a verb (conjugation table, two examples, notes, mnemonic,
+  // context, synonyms, twelve lookup links) you landed on the link chips and
+  // the word itself was somewhere above you.
+  const panel = stage.querySelector('.verdict, .answer')
+  if (panel) {
+    stage.scrollTop += panel.getBoundingClientRect().top - stage.getBoundingClientRect().top - 8
+  }
+  stage.focus({ preventScroll: true })
+
+  suggested = result.suggestedRating || GOOD
+  quickRating = drill
+  renderRating(el.querySelector('#controls'), result)
+
+  if (state.settings.autoAdvance) {
+    advanceTimer = setTimeout(() => advance(suggested, result),
+      state.settings.autoAdvanceMs ?? 1200)
+  }
+}
+
+function renderRating(controls, result) {
+  // Drill cards are graded objectively — a der/die/das button is right or it
+  // isn't. Hard and Easy have nowhere to go: scheduleQuick() only ever asks
+  // "was this at least Good?". Four buttons would be theatre, and the interval
+  // preview on them would be a schedule that never gets honoured, so it isn't
+  // computed at all for drills.
+  const rows = quickRating
+    ? [[AGAIN, 'rate-again', 'Missed it', '1'], [GOOD, 'rate-good', 'Got it', '3']]
+    : [[AGAIN, 'rate-again', 'Again', '1'], [HARD, 'rate-hard', 'Hard', '2'],
+       [GOOD, 'rate-good', 'Good', '3'], [EASY, 'rate-easy', 'Easy', '4']]
+
+  const iv = quickRating
+    ? null
+    : previewIntervals(state.progress.cards[current.word.id] || {},
+        { targetRetention: state.settings.targetRetention })
 
   controls.innerHTML = `
-    <div class="rating-row">
-      ${[
-        [AGAIN, 'rate-again', 'Again', '1'],
-        [HARD, 'rate-hard', 'Hard', '2'],
-        [GOOD, 'rate-good', 'Good', '3'],
-        [EASY, 'rate-easy', 'Easy', '4'],
-      ].map(([r, cls, label, key]) => `
-        <button class="rate-btn ${cls}" data-r="${r}"
-          style="${suggested === r ? 'border-width:2px' : ''}">
+    <div class="rating-row${quickRating ? ' rating-quick' : ''}">
+      ${rows.map(([r, cls, label, key]) => `
+        <button class="rate-btn ${cls}${suggested === r ? ' suggested' : ''}" data-r="${r}">
           <span class="rate-label">${label}</span>
-          <span class="rate-when">${formatInterval(iv[r])}</span>
+          ${iv ? `<span class="rate-when">${formatInterval(iv[r])}</span>` : ''}
           <span class="rate-key">${key}</span>
         </button>`).join('')}
     </div>
-    <div class="hint-line" style="text-align:center">
-      ${suggested ? `<kbd>Space</kbd> accepts <b>${['', 'Again', 'Hard', 'Good', 'Easy'][suggested]}</b>` : `<kbd>1</kbd>–<kbd>4</kbd> to rate`}
+    <div class="hint-line">
+      <kbd>Space</kbd> takes <b>${esc(rows.find(([r]) => r === suggested)?.[2] || 'Good')}</b>
     </div>
   `
 
   controls.querySelectorAll('.rate-btn').forEach((b) => {
-    b.addEventListener('click', () => commitAndAdvance(Number(b.dataset.r), result))
+    // Clicks are exempt from the phase guard on purpose: a tap lands on a
+    // button that did not exist a moment ago, so it cannot be a stale press.
+    b.addEventListener('click', () => advance(Number(b.dataset.r), result))
   })
 }
 
-function commitAndAdvance(rating, result = {}) {
+/**
+ * The mode cannot run on this word — a hand-added word with no cloze sentence,
+ * a verb with no conjugation table.
+ *
+ * This used to call next() synchronously from inside impl.render(), i.e.
+ * re-entering render() during render(). The card flashed and vanished, the
+ * review was silently lost, and several in a row looked exactly like the app
+ * skipping ahead by itself. Fall back to the mode that needs no data instead.
+ */
+function fallBack(reason) {
+  const at = index
+  queueMicrotask(() => {
+    if (index !== at) return
+    console.warn(`${current.mode} unusable for "${current.word.id}": ${reason}`)
+    if (current.fellBack) { advance(AGAIN, { correct: null }); return }
+    queue[at] = { ...current, mode: 'flashcard', fellBack: true }
+    render()
+  })
+}
+
+function advance(rating, result = {}) {
+  clearTimeout(advanceTimer)
   stopSpeaking()
   const ms = Date.now() - cardStart
   commit(current, rating, { ...result, ms })
@@ -193,18 +302,15 @@ function commitAndAdvance(rating, result = {}) {
   // session actually teach rather than just measure.
   if (rating === AGAIN && !current.requeued) requeue(queue, index, current)
 
-  next()
-}
-
-function next() {
   index++
   if (index >= queue.length) { finish(); return }
   render()
 }
 
 async function finish() {
+  clearTimeout(advanceTimer)
   stopSpeaking()
-  phase = 'done'
+  setPhase('done')
   // A finished drill must not leave its options armed — "Keep going" and the
   // next visit to Study mean the scheduled session, not the drill again.
   if (opts.ignoreSchedule) opts = {}
@@ -221,7 +327,6 @@ function renderDone(el) {
 
   el.innerHTML = `
     <div class="done">
-      <div class="done-icon">${accuracy >= 85 ? '🎉' : accuracy >= 60 ? '👏' : '💪'}</div>
       <h2>Session complete</h2>
       <div class="done-stats">
         <div class="done-stat">
@@ -265,19 +370,19 @@ function renderEmpty(el) {
   // Three genuinely different situations, three honest messages. The old code
   // collapsed them and told someone whose filters excluded everything that
   // they had "studied every word in the deck".
-  let icon, title, body
+  let name, title, body
   if (counts.total === 0) {
-    icon = '🔍'
+    name = 'browse'
     title = 'Your filters exclude every word'
     body = `The level and category filters in Settings currently match nothing.
             Switch a level back on to keep studying.`
   } else if (counts.newAvailable === 0 && counts.due + counts.learning === 0) {
-    icon = '🏆'
+    name = 'award'
     title = 'You have studied every word in the deck'
     body = `Nothing is due and there are no unseen words left. Add your own in
             Browse, or keep everything warm with free practice.`
   } else {
-    icon = '☕'
+    name = 'coffee'
     title = 'Nothing due right now'
     body = state.settings.newPerDay === 0
       ? `New words are paused (daily limit is 0), and today's reviews are done.
@@ -289,10 +394,10 @@ function renderEmpty(el) {
 
   el.innerHTML = `
     <div class="empty" style="height:100%">
-      <div class="empty-icon">${icon}</div>
+      <div class="empty-icon">${icon(name)}</div>
       <h3>${title}</h3>
       <p>${body}</p>
-      <div class="done-actions" style="margin-top:.6rem">
+      <div class="done-actions" style="margin-top:var(--s2)">
         ${counts.total === 0
           ? `<button class="btn primary" data-nav="settings">Open Settings</button>`
           : `<button class="btn primary" data-nav="drills">Free practice</button>
@@ -304,35 +409,63 @@ function renderEmpty(el) {
 
 // ─── KEYBOARD ─────────────────────────────────────────────────────────────────
 
+/**
+ * One contract, both phases:
+ *
+ *   Enter   submits          — and is INERT once there is nothing left to submit
+ *   Space   continues        — runs the primary button, then takes the rating
+ *   1-4     rate             — only in the answer phase, never while asking
+ *   Esc     ends the session — never guarded, you can always get out
+ *
+ * Enter used to do both jobs. Every typed mode submitted on Enter and then
+ * disabled its input, which dropped focus to <body> — so the auto-repeats of a
+ * held Enter reached this handler, which read Enter as "accept and advance".
+ * Hold the key half a second and you never saw what you got wrong.
+ */
 export function handleKey(e) {
+  // An auto-repeat is the operating system talking, never the user. Swallowed
+  // outright so no held key can ever ride across a phase boundary.
+  if (e.repeat) { e.preventDefault(); return true }
+
   if (phase === 'done') {
     if (e.key === ' ' || e.key === 'Enter') { e.preventDefault(); start(); return true }
     return false
   }
 
-  // Give the active mode first refusal — it owns 1-4 during the question phase.
-  if (phase === 'question' && keyFn?.(e)) { e.preventDefault(); return true }
-
   if (e.key === 'Escape') { e.preventDefault(); finish(); return true }
 
   if (phase === 'question') {
-    if (e.key === ' ' && document.activeElement !== focusTarget) {
+    // The mode owns 1-4 (multiple choice, der/die/das) and Space (listening
+    // replays the audio) while it is still asking.
+    if (keyFn?.(e)) { e.preventDefault(); return true }
+    if (!primary) return false
+    const inInput = document.activeElement === focusTarget
+    if (e.key === 'Enter' || (e.key === ' ' && !inInput)) {
       e.preventDefault()
-      submitFn?.()
+      if (settled()) primary.run()
       return true
     }
     return false
   }
 
-  // answer phase — rating
-  if (e.key >= '1' && e.key <= '4') {
+  // ── answer phase ──
+  // Enter is deliberately dead here. This is the exact key that used to skip
+  // the feedback you had just earned.
+  if (e.key === 'Enter') { e.preventDefault(); return true }
+
+  if (e.key === ' ') {
     e.preventDefault()
-    commitAndAdvance(Number(e.key), lastAnswer || {})
+    if (settled()) advance(suggested, lastAnswer || {})
     return true
   }
-  if (e.key === ' ' || e.key === 'Enter') {
+
+  if (e.key >= '1' && e.key <= '4') {
     e.preventDefault()
-    commitAndAdvance(lastAnswer?.suggestedRating || GOOD, lastAnswer || {})
+    if (!settled()) return true
+    const r = Number(e.key)
+    // The quick row only has two buttons; 2 and 4 are not on screen.
+    if (quickRating && r !== AGAIN && r !== GOOD) return true
+    advance(r, lastAnswer || {})
     return true
   }
   return false

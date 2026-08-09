@@ -10,7 +10,8 @@
  * choice is actually about meaning rather than "which one looks like a verb".
  */
 
-import { esc, shuffle, sample } from '../lib/ui.js'
+import { esc, shuffle } from '../lib/ui.js'
+import { icon } from '../lib/icons.js'
 import { imageHtml } from '../lib/wordcard.js'
 import { speakWord } from '../lib/tts.js'
 import { state } from '../store.js'
@@ -18,7 +19,7 @@ import { state } from '../store.js'
 export const meta = {
   id: 'mc',
   name: 'Multiple choice',
-  icon: '📋',
+  icon: 'list',
   desc: 'Pick the right meaning from four. Used for brand-new words.',
 }
 
@@ -104,7 +105,7 @@ export function render(el, ctx) {
       </div>
       ${imageHtml(word)}
       <div class="prompt-word de">${esc(word.word)}</div>
-      <button class="btn ghost sm" id="mcPlay" style="margin-top:.5rem">🔊 Listen</button>
+      <button class="btn ghost sm" id="mcPlay" style="margin-top:var(--s2)">${icon('volume')} Listen</button>
     </div>
     <div class="mc-options">
       ${options.map((o, i) => `
@@ -115,6 +116,8 @@ export function render(el, ctx) {
     </div>
     <div class="hint-line">Press <kbd>1</kbd>–<kbd>4</kbd> or click</div>
   `
+
+  ctx.setTask('Which English meaning is this?')
 
   el.querySelector('#mcPlay').addEventListener('click', (e) => { e.stopPropagation(); speakWord(word) })
   if (state.settings.autoPlayAudio) speakWord(word)
@@ -134,14 +137,18 @@ export function render(el, ctx) {
     })
     if (!correct) chosen.classList.add('wrong')
 
-    // A beat to actually see which one was right before the answer panel lands.
+    // No pause. The right option is already marked green and the wrong one red,
+    // and they stay that way underneath the answer panel — the 260ms beat that
+    // used to sit here bought a glance at colours that are still on screen, and
+    // cost a window in which "3" meant two different things.
     // The answer recorded is the option text alone — textContent of the button
     // would include the "1"/"2" key badge and its whitespace.
-    setTimeout(() => ctx.onAnswer({
+    ctx.showResult({
       correct,
       answer: options[i].text,
       expected: word.translation,
-    }), correct ? 260 : 750)
+      suggestedRating: correct ? 3 : 1,
+    })
   }
 
   buttons.forEach((b, i) => b.addEventListener('click', () => choose(i)))
@@ -151,7 +158,4 @@ export function render(el, ctx) {
     if (n >= 1 && n <= options.length) { choose(n - 1); return true }
     return false
   })
-
-  // Space shouldn't skip past an unanswered question.
-  ctx.setSubmit(() => { if (!answered) return false })
 }

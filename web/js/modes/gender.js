@@ -20,7 +20,7 @@ import { state } from '../store.js'
 export const meta = {
   id: 'gender',
   name: 'Der / die / das',
-  icon: '🎨',
+  icon: 'palette',
   desc: 'Rapid-fire article drill. Learn the patterns, not 900 separate facts.',
 }
 
@@ -83,12 +83,13 @@ export function render(el, ctx) {
       <div class="prompt-sub">${esc(word.translation)}</div>
     </div>
     <div class="gender-row">
-      <button class="gender-btn" data-a="der">der<span class="g-key">1 or ←</span></button>
-      <button class="gender-btn" data-a="die">die<span class="g-key">2 or ↓</span></button>
-      <button class="gender-btn" data-a="das">das<span class="g-key">3 or →</span></button>
+      <button class="gender-btn" data-a="der">der<span class="g-key">1</span></button>
+      <button class="gender-btn" data-a="die">die<span class="g-key">2</span></button>
+      <button class="gender-btn" data-a="das">das<span class="g-key">3</span></button>
     </div>
-    <div id="genderRule"></div>
   `
+
+  ctx.setTask('Which article — <b>der</b>, <b>die</b> or <b>das</b>?')
 
   let answered = false
   const buttons = [...el.querySelectorAll('.gender-btn')]
@@ -104,39 +105,40 @@ export function render(el, ctx) {
       else if (b.dataset.a === article) b.classList.add('wrong')
     })
 
-    // Hearing the correct article with the word is half the learning.
+    // Hearing the correct article with the word is half the learning. It always
+    // finishes now: the card no longer advances out from under it.
     speakWord(word)
 
+    // The rule is the entire point of this drill — 20 endings beat 900 facts.
+    // It used to be rendered here and then wiped 950ms later along with the
+    // card, so the one thing worth reading got under a second on screen. It now
+    // goes into the answer panel and stays until you move on.
     const rule = genderRule(word)
-    if (rule) {
-      el.querySelector('#genderRule').innerHTML = `<div class="gender-rule">${rule}</div>`
-    } else if (!correct && word.mnemonic) {
-      el.querySelector('#genderRule').innerHTML = `<div class="gender-rule">💡 ${esc(word.mnemonic)}</div>`
-    }
+    const detail = rule
+      ? `<div class="gender-rule">${rule}</div>`
+      : word.mnemonic
+        ? `<div class="gender-rule"><span class="box-label">Memory hook</span>${esc(word.mnemonic)}</div>`
+        : null
 
-    // Long enough for "das Haus" to actually finish. At 420ms the session
-    // advanced mid-word and stopSpeaking() cut off the very pronunciation the
-    // drill exists to teach.
-    setTimeout(() => ctx.onAnswer({
+    ctx.showResult({
       correct,
       answer: article,
       expected: word.article,
       genderOnly: true,
-    }), correct ? 950 : (rule ? 2200 : 1500))
+      detail,
+      suggestedRating: correct ? 3 : 1,
+    })
   }
 
   buttons.forEach((b) => b.addEventListener('click', () => choose(b.dataset.a)))
 
   ctx.setKeyHandler((e) => {
-    const map = {
-      1: 'der', 2: 'die', 3: 'das',
-      ArrowLeft: 'der', ArrowDown: 'die', ArrowRight: 'das',
-    }
+    // Arrow keys are gone: they were undocumented, and left/down/right mapping
+    // to der/die/das is not something anyone would guess or remember.
+    const map = { 1: 'der', 2: 'die', 3: 'das' }
     if (map[e.key]) { choose(map[e.key]); return true }
     return false
   })
-
-  ctx.setSubmit(() => { if (!answered) return false })
 }
 
 /** Nouns whose gender is still shaky, for the standalone drill. */

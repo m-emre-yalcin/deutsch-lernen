@@ -11,6 +11,7 @@
  */
 
 import { esc } from '../lib/ui.js'
+import { bindTextSubmit } from '../lib/keys.js'
 import { checkGerman, splitCloze } from '../lib/normalize.js'
 import { speak } from '../lib/tts.js'
 import { state } from '../store.js'
@@ -18,7 +19,7 @@ import { state } from '../store.js'
 export const meta = {
   id: 'cloze',
   name: 'Sentence gap',
-  icon: '📝',
+  icon: 'blank',
   desc: 'Fill the missing word in a real sentence. Meaning in context.',
 }
 
@@ -26,10 +27,12 @@ export function render(el, ctx) {
   const { word } = ctx
   const item = word.cloze?.[0]
 
-  // Guard: the session shouldn't route here without cloze data, but a hand-added
-  // word might lack it, and silently rendering a broken card would be worse.
+  // The session shouldn't route here without cloze data, but a hand-added word
+  // might lack it. This used to call back synchronously mid-render and skip the
+  // card outright — it flashed past and the review was lost. Now the card falls
+  // back to a mode that needs no data.
   if (!item?.de || !item?.answer) {
-    ctx.onAnswer({ correct: null, answer: null, skipped: true })
+    ctx.unavailable('no cloze sentence for this word')
     return
   }
 
@@ -53,6 +56,13 @@ export function render(el, ctx) {
     </div>
   `
 
+  // This mode shipped with no instruction of any kind — no hint line, no
+  // button, nothing saying which language, and nothing saying that what is
+  // graded is the INFLECTED form the sentence needs rather than the headword.
+  // "Haus" in a gap that wants "Häuser" was marked wrong with no explanation.
+  ctx.setTask(`Type the missing German word in the form this sentence needs${
+    word.partOfSpeech === 'noun' ? ' — watch the ending' : ''}.`)
+
   const input = el.querySelector('#clozeIn')
   setTimeout(() => input.focus(), 30)
 
@@ -75,26 +85,30 @@ export function render(el, ctx) {
     const result = checkGerman(given, item.answer, { strict: state.settings.typingStrict })
     input.disabled = true
     input.classList.add(result.correct ? 'correct' : 'wrong')
-    if (!result.correct) input.value = item.answer
     resize()
+
+    // What you typed stays in the box. It used to be overwritten with the right
+    // answer the instant you submitted — so the sentence quietly corrected
+    // itself in front of you and you never saw what you had actually written.
 
     // Hearing the completed sentence is the reward and the reinforcement.
     speak(item.de.replace('___', item.answer))
 
-    setTimeout(() => ctx.onAnswer({
+    ctx.showResult({
       correct: result.correct,
       close: result.close,
       answer: given,
       expected: item.answer,
+      message: result.message,
+      // The completed sentence — the thing this mode is actually teaching.
+      detail: `<div class="answer-label">The full sentence</div>
+        <div class="example-de">${esc(item.de.replace('___', item.answer))}</div>
+        <div class="example-en">${esc(item.en)}</div>`,
       suggestedRating: result.correct ? 3 : result.close ? 2 : 1,
-    }), result.correct ? 900 : 1400)
+    })
   }
 
-  input.addEventListener('keydown', (e) => {
-    if (e.key === 'Enter') { e.preventDefault(); submit() }
-    e.stopPropagation()
-  })
-
-  ctx.setSubmit(submit)
+  bindTextSubmit(input, submit)
+  ctx.setPrimary({ label: 'Check', run: submit })
   ctx.setFocusTarget(input)
 }
