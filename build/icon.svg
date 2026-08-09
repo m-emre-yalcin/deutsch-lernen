@@ -1,0 +1,34 @@
+<!--
+  App icon — the same wordmark the web app uses for its favicon, drawn at
+  macOS icon-grid proportions (824pt squircle on a 1024pt canvas) so it sits
+  correctly next to system icons in the Dock and Launchpad.
+
+  A "D" rather than a 🇩🇪: the flag emoji is drawn by the OS, in its own
+  colours, at whatever size it feels like — which is exactly what an app icon
+  must not do.
+
+  Regenerate the raster icons with:  node tools/make-icons.js
+-->
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <defs>
+    <linearGradient id="face" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#4a74ea" />
+      <stop offset="1" stop-color="#2246c4" />
+    </linearGradient>
+    <linearGradient id="sheen" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.22" />
+      <stop offset="0.55" stop-color="#ffffff" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+
+  <rect x="100" y="100" width="824" height="824" rx="185" ry="185" fill="url(#face)" />
+  <rect x="100" y="100" width="824" height="824" rx="185" ry="185" fill="url(#sheen)" />
+
+  <!-- Positioned by baseline, not dominant-baseline: renderers disagree about
+       where "central" is, and the letter came out visibly high. Helvetica's cap
+       height is ~0.717em, so a 520px cap centred on y=512 puts the baseline at
+       512 + (520 × 0.717) / 2 ≈ 698. -->
+  <text x="512" y="698" fill="#ffffff" text-anchor="middle"
+    font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-weight="600"
+    font-size="520" letter-spacing="-14">D</text>
+</svg>
