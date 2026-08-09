@@ -17,44 +17,47 @@
   <link rel="stylesheet" href="/css/layout.css" />
   <link rel="stylesheet" href="/css/components.css" />
   <link rel="stylesheet" href="/css/modes.css" />
+  <!-- A wordmark, not a flag emoji: the OS drew that one, in its own colours,
+       at whatever size it felt like, in every tab and every app switcher. -->
   <link rel="icon"
-    href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🇩🇪</text></svg>" />
+    href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='7' fill='%232f5ce0'/><text x='16' y='23' font-size='20' font-weight='600' font-family='ui-sans-serif,system-ui,sans-serif' fill='white' text-anchor='middle'>D</text></svg>" />
 </head>
 
 <body>
   <div id="boot" class="boot">
-    <div class="boot-flag">🇩🇪</div>
     <div class="boot-text">Deutsch Lernen</div>
     <div class="boot-sub" id="bootSub">Loading your deck…</div>
   </div>
 
   <div id="app" hidden>
-    <!-- ─── SIDEBAR ─────────────────────────────────────────────────── -->
+    <!-- ─── SIDEBAR ─────────────────────────────────────────────────────
+         The nav icons are filled in by main.js from lib/icons.js, so there
+         is exactly one place the icon set lives. -->
     <aside id="sidebar">
       <div class="sidebar-top">
-        <span class="logo"><span class="logo-flag">🇩🇪</span><span class="logo-text">Deutsch</span></span>
-        <button id="sidebarToggle" class="icon-btn" title="Collapse sidebar (\)">‹</button>
+        <span class="logo"><span class="logo-text">Deutsch</span></span>
+        <button id="sidebarToggle" class="icon-btn" title="Collapse sidebar (\)"></button>
       </div>
 
       <nav class="sidebar-nav">
         <button class="nav-btn" data-view="study">
-          <span class="nav-icon">🎯</span><span class="nav-label">Study</span>
+          <span class="nav-icon" data-icon="study"></span><span class="nav-label">Study</span>
           <span class="nav-badge" id="dueBadge"></span>
         </button>
         <button class="nav-btn" data-view="drills">
-          <span class="nav-icon">⚡</span><span class="nav-label">Drills</span>
+          <span class="nav-icon" data-icon="drills"></span><span class="nav-label">Drills</span>
         </button>
         <button class="nav-btn" data-view="grammar">
-          <span class="nav-icon">📐</span><span class="nav-label">Grammar</span>
+          <span class="nav-icon" data-icon="grammar"></span><span class="nav-label">Grammar</span>
         </button>
         <button class="nav-btn" data-view="browse">
-          <span class="nav-icon">🔍</span><span class="nav-label">Browse</span>
+          <span class="nav-icon" data-icon="browse"></span><span class="nav-label">Browse</span>
         </button>
         <button class="nav-btn" data-view="stats">
-          <span class="nav-icon">📊</span><span class="nav-label">Progress</span>
+          <span class="nav-icon" data-icon="stats"></span><span class="nav-label">Progress</span>
         </button>
         <button class="nav-btn" data-view="settings">
-          <span class="nav-icon">⚙️</span><span class="nav-label">Settings</span>
+          <span class="nav-icon" data-icon="settings"></span><span class="nav-label">Settings</span>
         </button>
       </nav>
 
@@ -62,8 +65,9 @@
 
       <div class="sidebar-foot">
         <div class="streak-box" id="streakBox">
+          <span data-icon="flame"></span>
           <span class="streak-num" id="streakNum">0</span>
-          <span class="streak-label">day streak 🔥</span>
+          <span class="streak-label">day streak</span>
         </div>
         <div class="mastery-mini">
           <div class="mastery-mini-track"><div class="mastery-mini-fill" id="masteryMini"></div></div>
@@ -103,13 +107,17 @@
       <div class="shortcut-grid">
         <div class="sc-group">
           <h3>Studying</h3>
-          <div class="sc"><kbd>Space</kbd><span>Show answer / continue</span></div>
+          <div class="sc"><kbd>Enter</kbd><span>Check your answer</span></div>
+          <div class="sc"><kbd>Space</kbd><span>Reveal, then move to the next card</span></div>
           <div class="sc"><kbd>1</kbd><span>Again — I didn't know it</span></div>
           <div class="sc"><kbd>2</kbd><span>Hard</span></div>
           <div class="sc"><kbd>3</kbd><span>Good</span></div>
           <div class="sc"><kbd>4</kbd><span>Easy</span></div>
-          <div class="sc"><kbd>Enter</kbd><span>Submit typed answer</span></div>
           <div class="sc"><kbd>Esc</kbd><span>End session</span></div>
+          <p class="muted" style="margin-top:var(--s3);line-height:1.5">
+            <kbd>1</kbd>–<kbd>4</kbd> rate only once the answer is showing, and a
+            held key never carries across — so you cannot skip past a card by accident.
+          </p>
         </div>
         <div class="sc-group">
           <h3>Anywhere</h3>

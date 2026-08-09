@@ -5,6 +5,7 @@
 import { loadAll, state, subscribe, saveNow } from './store.js'
 import { dueCounts } from './session.js'
 import { $, toast } from './lib/ui.js'
+import { icon } from './lib/icons.js'
 import { speakWord, speakSlowly } from './lib/tts.js'
 
 import * as studyView from './views/study.js'
@@ -77,9 +78,12 @@ export function refreshChrome() {
   $('#masteryMiniText').textContent = `${known} / ${total}`
   $('#streakNum').textContent = state.progress.stats?.streak || 0
 
-  const save = $('#saveState')
-  save.textContent = state.online ? '✓ saved to disk' : '⚠ local only'
-  save.className = 'save-state' + (state.online ? '' : ' offline')
+  // Only when something is actually wrong. A permanent "✓ saved to disk" is a
+  // status line reporting that nothing has happened, on every screen, forever.
+  // If saving breaks, that IS worth a line — so that is the only time it shows.
+  $('#saveState').innerHTML = state.online
+    ? ''
+    : `${icon('alert')} saving locally — server unreachable`
 }
 
 // ─── KEYBOARD ─────────────────────────────────────────────────────────────────
@@ -167,6 +171,7 @@ async function boot() {
   }
 
   applyTheme()
+  paintIcons()
 
   document.querySelectorAll('.nav-btn').forEach((b) => {
     b.addEventListener('click', () => navigate(b.dataset.view))
@@ -190,9 +195,17 @@ async function boot() {
   })
 
   console.log(
-    `%c🇩🇪 Deutsch Lernen%c  ${state.words.length} words · ${state.grammar.length} grammar lessons`,
+    `%cDeutsch Lernen%c  ${state.words.length} words · ${state.grammar.length} grammar lessons`,
     'font-weight:bold;font-size:13px', 'color:#888'
   )
+}
+
+/** Fill every `data-icon` in the static markup from the one icon set. */
+function paintIcons() {
+  document.querySelectorAll('[data-icon]').forEach((el) => {
+    el.innerHTML = icon(el.dataset.icon)
+  })
+  $('#sidebarToggle').innerHTML = icon('chevronLeft')
 }
 
 window.addEventListener('DOMContentLoaded', boot)
