@@ -7,8 +7,9 @@
  * hour of extra practice can't wreck tomorrow's review load.
  */
 
-import { esc, plural } from '../lib/ui.js'
-import { state } from '../store.js'
+import { esc } from '../lib/ui.js'
+import { icon } from '../lib/icons.js'
+import { state, deckLevels as levels } from '../store.js'
 import { eligibleWords } from '../session.js'
 import * as study from './study.js'
 
@@ -54,17 +55,17 @@ function render() {
       <div class="drill-grid">
         ${MODES.map((m) => `
           <button class="drill-card" data-mode="${m.meta.id}">
-            <div class="drill-icon">${m.meta.icon}</div>
+            <div class="drill-icon">${icon(m.meta.icon)}</div>
             <div class="drill-name">${esc(m.meta.name)}</div>
             <div class="drill-desc">${esc(m.meta.desc)}</div>
-            <div class="drill-desc" style="margin-top:.4rem;color:var(--accent)">
+            <div class="drill-desc" style="margin-top:var(--s2)">
               ${countFor(m.meta.id, picked.category, picked.level)} words available
             </div>
           </button>`).join('')}
       </div>
 
       <div class="section-title">Narrow it down (optional)</div>
-      <div style="display:flex;gap:.7rem;flex-wrap:wrap;align-items:center">
+      <div style="display:flex;gap:var(--s3);flex-wrap:wrap;align-items:center">
         <label class="field">
           <span>Category</span>
           <select class="ctrl" id="dCat">
@@ -77,7 +78,7 @@ function render() {
           <span>Level</span>
           <select class="ctrl" id="dLevel">
             <option value="">All</option>
-            ${['A0', 'A1', 'A2'].map((l) => `<option value="${l}" ${picked.level === l ? 'selected' : ''}>${l}</option>`).join('')}
+            ${levels().map((l) => `<option value="${l}" ${picked.level === l ? 'selected' : ''}>${l}</option>`).join('')}
           </select>
         </label>
         <label class="field">
@@ -91,22 +92,22 @@ function render() {
       <div class="section-title">Or target a weak spot</div>
       <div class="drill-grid">
         <button class="drill-card" id="weakBtn">
-          <div class="drill-icon">🩹</div>
+          <div class="drill-icon">${icon('bandage')}</div>
           <div class="drill-name">Trouble words</div>
           <div class="drill-desc">The words you keep forgetting, worst first.</div>
         </button>
         <button class="drill-card" id="genderWeakBtn">
-          <div class="drill-icon">🎨</div>
+          <div class="drill-icon">${icon('palette')}</div>
           <div class="drill-name">Shaky genders</div>
           <div class="drill-desc">Nouns whose der/die/das you've got wrong before.</div>
         </button>
         <button class="drill-card" id="verbWeakBtn">
-          <div class="drill-icon">🔀</div>
+          <div class="drill-icon">${icon('shuffle')}</div>
           <div class="drill-name">Shaky conjugations</div>
           <div class="drill-desc">Verbs whose forms you've got wrong before.</div>
         </button>
         <button class="drill-card" id="newestBtn">
-          <div class="drill-icon">🌱</div>
+          <div class="drill-icon">${icon('sprout')}</div>
           <div class="drill-name">Today's new words</div>
           <div class="drill-desc">Everything you met for the first time today.</div>
         </button>

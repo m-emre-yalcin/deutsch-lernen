@@ -7,9 +7,9 @@
  */
 
 import { esc, plural } from '../lib/ui.js'
+import { icon } from '../lib/icons.js'
 import { state, weakWords, exportWeakCsv } from '../store.js'
 import { dueCounts } from '../session.js'
-import { formatInterval } from '../srs.js'
 import { showDetail } from './browse.js'
 
 const DAY = 86400000
@@ -55,37 +55,26 @@ function render() {
       </div>
 
       <div class="stat-grid">
-        <div class="stat-card accent"><div class="stat-num">${counts.due + counts.learning}</div>
+        <div class="stat-card"><div class="stat-num">${counts.due + counts.learning}</div>
           <div class="stat-label">due right now</div></div>
-        <div class="stat-card green"><div class="stat-num">${b.mature}</div>
+        <div class="stat-card"><div class="stat-num">${b.mature}</div>
           <div class="stat-label">known well</div></div>
-        <div class="stat-card"><div class="stat-num">${b.young}</div>
-          <div class="stat-label">still settling</div></div>
-        <div class="stat-card amber"><div class="stat-num">${st.streak || 0}</div>
-          <div class="stat-label">day streak 🔥</div></div>
-        <div class="stat-card"><div class="stat-num">${st.totalReviews || 0}</div>
-          <div class="stat-label">total reviews</div></div>
-        <div class="stat-card ${accuracy !== null && accuracy < 70 ? 'red' : ''}">
-          <div class="stat-num">${accuracy !== null ? accuracy + '%' : '—'}</div>
-          <div class="stat-label">accuracy today</div></div>
+        <div class="stat-card"><div class="stat-num">${st.streak || 0}</div>
+          <div class="stat-label">${icon('flame')} day streak</div></div>
       </div>
 
       <div class="section-title">Overall mastery</div>
       <div class="panel">
-        <div class="bar-track" style="height:12px">
-          <div class="bar-fill green" style="width:${masteryPct}%"></div>
+        <div class="bar-track" style="height:10px">
+          <div class="bar-fill" style="width:${masteryPct}%"></div>
         </div>
-        <div style="display:flex;justify-content:space-between;margin-top:.5rem;font-size:.8rem;color:var(--text3)">
-          <span>${masteryPct}% in long-term memory</span>
-          <span>${b.untouched} not started yet</span>
-        </div>
-        <div class="chips" style="margin-top:.7rem">
-          <span class="chip"><span class="dot mature"></span> ${b.mature} known</span>
-          <span class="chip"><span class="dot young"></span> ${b.young} young</span>
-          <span class="chip"><span class="dot learning"></span> ${b.learning} learning</span>
-          <span class="chip"><span class="dot leech"></span> ${b.leech} trouble</span>
-          <span class="chip"><span class="dot new"></span> ${b.untouched} new</span>
-        </div>
+        <p class="muted" style="margin-top:var(--s3)">
+          ${masteryPct}% of the deck is in long-term memory. ${b.young} more ${
+            b.young === 1 ? 'word is' : 'words are'} still settling, and ${b.untouched} haven't
+          been started.${accuracy !== null
+            ? ` You're at <b${accuracy < 70 ? ' style="color:var(--red)"' : ''}>${accuracy}%</b> today across ${plural(today.reviews, 'answer')}.`
+            : ''}
+        </p>
       </div>
 
       <div class="section-title">Study history</div>
@@ -94,17 +83,21 @@ function render() {
       <div class="section-title">Coming up</div>
       <div class="panel">${renderForecast()}</div>
 
-      <div class="section-title">Grammar & drills</div>
-      <div class="panel">${renderGrammarAndDrills()}</div>
-
-      <div class="section-title">By level</div>
-      <div class="panel">${renderByKey('level')}</div>
-
-      <div class="section-title">By category</div>
-      <div class="panel">${renderByKey('category')}</div>
-
       <div class="section-title">Words giving you trouble</div>
       <div class="panel">${renderWeak()}</div>
+
+      <details class="panel" style="margin-top:var(--s6)">
+        <summary>Grammar &amp; drills</summary>
+        ${renderGrammarAndDrills()}
+      </details>
+
+      <details class="panel">
+        <summary>Breakdown by level and category</summary>
+        <div class="answer-label" style="margin-top:var(--s3)">By level</div>
+        ${renderByKey('level')}
+        <div class="answer-label" style="margin-top:var(--s5)">By category</div>
+        ${renderByKey('category')}
+      </details>
     </div>
   `
 
@@ -155,9 +148,17 @@ function renderHeatmap() {
   `
 }
 
-/** How many cards come due over the next 14 days. */
+/**
+ * How many cards come due over the coming week.
+ *
+ * Fourteen bars, half of them labelled "+9d" and "+13d", was a fortnight of
+ * numbers to answer a question you ask about tomorrow. Seven is the horizon
+ * anyone actually plans against.
+ */
+const FORECAST_DAYS = 7
+
 function renderForecast() {
-  const days = Array.from({ length: 14 }, () => 0)
+  const days = Array.from({ length: FORECAST_DAYS }, () => 0)
   let overdue = 0
 
   // Bucket by CALENDAR day, not by rolling 24-hour windows. The labels say
@@ -166,7 +167,7 @@ function renderForecast() {
   const midnights = []
   const m = new Date()
   m.setHours(0, 0, 0, 0)
-  for (let i = 0; i <= 14; i++) {
+  for (let i = 0; i <= FORECAST_DAYS; i++) {
     midnights.push(m.getTime())
     m.setDate(m.getDate() + 1)
   }
@@ -175,13 +176,13 @@ function renderForecast() {
     const c = state.progress.cards[w.id]
     if (!c?.due || !c.reps) continue
     if (c.due < midnights[0]) { overdue++; continue }
-    for (let i = 0; i < 14; i++) {
+    for (let i = 0; i < FORECAST_DAYS; i++) {
       if (c.due < midnights[i + 1]) { days[i]++; break }
     }
   }
 
   const max = Math.max(1, ...days, overdue)
-  const labels = ['today', 'tomorrow', ...Array.from({ length: 12 }, (_, i) => `+${i + 2}d`)]
+  const labels = ['today', 'tomorrow', ...Array.from({ length: FORECAST_DAYS - 2 }, (_, i) => `+${i + 2}d`)]
 
   return `
     ${overdue > 0 ? `<div class="row-bar">
@@ -303,19 +304,20 @@ function renderWeak() {
     return `<p style="color:var(--text3)">Nothing here yet — you haven't forgotten a word twice.
       This list fills up as you study, and it's the most useful page in the app when it does.</p>`
   }
+  // The fifth column used to be the raw FSRS stability in days, under no header
+  // at all. Nobody could tell what "3d" next to a word was measuring.
   return `
-    <p style="font-size:.82rem;color:var(--text3);margin-bottom:.6rem">
-      These keep slipping. More repetitions won't fix them — click one and read the note,
-      the mnemonic, or use the ✨ link to have it explained a different way.</p>
+    <p class="muted" style="margin-bottom:var(--s3)">
+      These keep slipping. More repetitions won't fix them — click one and read the note or
+      the memory hook, or follow a lookup link to have it explained a different way.</p>
     <div class="word-table">
       ${weak.map(({ word, card }) => `
         <div class="wt-row" data-word="${esc(word.id)}"
-             style="grid-template-columns:15px 1.3fr 1.3fr 80px 70px">
+             style="grid-template-columns:15px 1.3fr 1.3fr 110px">
           <span class="dot leech"></span>
           <span class="wt-word de">${esc(word.word)}</span>
           <span class="wt-trans">${esc(word.translation)}</span>
-          <span class="wt-strength">${card.lapses}× forgotten</span>
-          <span class="wt-strength">${card.stability ? formatInterval(Math.round(card.stability)) : '—'}</span>
+          <span class="wt-strength">forgotten ${plural(card.lapses, 'time')}</span>
         </div>`).join('')}
     </div>
   `

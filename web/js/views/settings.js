@@ -3,8 +3,10 @@
  */
 
 import { esc, toast, plural } from '../lib/ui.js'
+import { icon } from '../lib/icons.js'
 import {
   state, updateSettings, exportProgress, importProgress, resetProgress, saveNow, DEFAULT_SETTINGS,
+  deckLevels,
 } from '../store.js'
 import { germanVoices, speak } from '../lib/tts.js'
 import { MODE_IMPL } from './study.js'
@@ -30,52 +32,33 @@ function render() {
 
       <div class="section-title">Daily pace</div>
       <div class="panel">
-        <label class="field" style="margin-bottom:1rem">
+        <label class="field">
           <span>New words per day — <b id="npdVal">${s.newPerDay}</b></span>
           <input type="range" id="npd" min="0" max="60" step="5" value="${s.newPerDay}">
           <span class="muted">Every new word today becomes several reviews over the coming weeks.
             15–20 is sustainable; 40 feels great for three days and then buries you.</span>
         </label>
-
-        <label class="field" style="margin-bottom:1rem">
-          <span>Maximum reviews per session — <b id="mrVal">${s.maxReviews}</b></span>
-          <input type="range" id="mr" min="20" max="400" step="20" value="${s.maxReviews}">
-        </label>
-
-        <label class="field">
-          <span>Target retention — <b id="trVal">${Math.round(s.targetRetention * 100)}%</b></span>
-          <input type="range" id="tr" min="0.75" max="0.97" step="0.01" value="${s.targetRetention}">
-          <span class="muted">How much you want to remember. Higher means more frequent reviews.
-            90% is the sweet spot — chasing 97% roughly doubles your workload for very little gain.</span>
-        </label>
       </div>
 
       <div class="section-title">Practice modes</div>
       <div class="panel">
-        <p class="muted" style="margin-bottom:.7rem">
+        <p class="muted" style="margin-bottom:var(--s3)">
           Modes get harder as a word gets stronger: recognise it → recall it → type it →
           understand it by ear → use it in a sentence. Switching one off drops that rung.</p>
         ${Object.values(MODE_IMPL).map((m) => `
-          <label class="field inline" style="padding:.3rem 0">
+          <label class="field inline" style="padding:var(--s1) 0">
             <input type="checkbox" data-mode="${m.meta.id}" ${s.modes[m.meta.id] !== false ? 'checked' : ''}>
-            <span><b>${m.meta.icon} ${esc(m.meta.name)}</b> — ${esc(m.meta.desc)}</span>
+            <span><b>${esc(m.meta.name)}</b> — ${esc(m.meta.desc)}</span>
           </label>`).join('')}
 
-        <label class="field" style="margin-top:1rem">
-          <span>Gender drills mixed into each session — <b id="gdVal">${Math.round(s.genderDrillRatio * 100)}%</b></span>
-          <input type="range" id="gd" min="0" max="0.5" step="0.05" value="${s.genderDrillRatio}">
-          <span class="muted">Quick der/die/das cards, about two seconds each.</span>
-        </label>
-
-        <label class="field" style="margin-top:1rem">
-          <span>Conjugation drills mixed in — <b id="vdVal">${Math.round((s.verbDrillRatio ?? 0.15) * 100)}%</b></span>
-          <input type="range" id="vd" min="0" max="0.5" step="0.05" value="${s.verbDrillRatio ?? 0.15}">
-          <span class="muted">Quick "du + fahren → ?" cards. Keeps the stem changes and haben/sein warm.</span>
-        </label>
-
-        <label class="field inline" style="margin-top:.8rem">
+        <label class="field inline" style="margin-top:var(--s4)">
           <input type="checkbox" id="strict" ${s.typingStrict ? 'checked' : ''}>
           <span>Strict typing — require real umlauts (reject <code>ue</code> for <code>ü</code>)</span>
+        </label>
+
+        <label class="field inline">
+          <input type="checkbox" id="autoAdv" ${s.autoAdvance ? 'checked' : ''}>
+          <span>Move on by itself once you've answered, instead of waiting for you</span>
         </label>
       </div>
 
@@ -90,7 +73,7 @@ function render() {
             </select>
             <span class="muted">${plural(voices.length, 'German voice')} installed on this Mac.</span>
           </label>
-          <button class="btn sm" id="testVoice">🔊 Test it</button>
+          <button class="btn sm" id="testVoice">${icon('volume')} Test it</button>
         ` : `
           <p class="muted">No German voice installed. The app will use the server's speech instead,
             which needs internet the first time it says each word.<br><br>
@@ -120,7 +103,7 @@ function render() {
         </label>
 
         <label class="field" style="margin-bottom:.9rem">
-          <span>Card direction</span>
+          <span>Flashcard direction</span>
           <select class="ctrl" id="dir">
             <option value="de-en" ${s.direction === 'de-en' ? 'selected' : ''}>German → English (easier)</option>
             <option value="en-de" ${s.direction === 'en-de' ? 'selected' : ''}>English → German (harder, better)</option>
@@ -136,10 +119,10 @@ function render() {
 
       <div class="section-title">What to study</div>
       <div class="panel">
-        <div class="field" style="margin-bottom:.9rem">
-          <span>Levels</span>
+        <div class="field" style="margin-bottom:var(--s4)">
+          <span>Levels — none selected means all of them</span>
           <div class="chips">
-            ${['A0', 'A1', 'A2'].map((l) => `
+            ${deckLevels().map((l) => `
               <button class="chip ${s.levels.includes(l) ? 'active' : ''}" data-level="${l}">${l}
                 (${state.words.filter((w) => w.level === l).length})</button>`).join('')}
           </div>
@@ -153,6 +136,36 @@ function render() {
           </div>
         </div>
       </div>
+
+      <details class="panel" style="margin-top:var(--s6)">
+        <summary>Advanced</summary>
+        <p class="muted" style="margin-bottom:var(--s4)">
+          Sensible defaults. You are unlikely to need any of these.</p>
+
+        <label class="field" style="margin-bottom:var(--s4)">
+          <span>Maximum reviews per session — <b id="mrVal">${s.maxReviews}</b></span>
+          <input type="range" id="mr" min="20" max="400" step="20" value="${s.maxReviews}">
+        </label>
+
+        <label class="field" style="margin-bottom:var(--s4)">
+          <span>Target retention — <b id="trVal">${Math.round(s.targetRetention * 100)}%</b></span>
+          <input type="range" id="tr" min="0.75" max="0.97" step="0.01" value="${s.targetRetention}">
+          <span class="muted">How much you want to remember. 90% is the sweet spot — chasing 97%
+            roughly doubles your workload for very little gain.</span>
+        </label>
+
+        <label class="field" style="margin-bottom:var(--s4)">
+          <span>Gender drills mixed into each session — <b id="gdVal">${Math.round(s.genderDrillRatio * 100)}%</b></span>
+          <input type="range" id="gd" min="0" max="0.5" step="0.05" value="${s.genderDrillRatio}">
+          <span class="muted">Quick der/die/das cards.</span>
+        </label>
+
+        <label class="field">
+          <span>Conjugation drills mixed in — <b id="vdVal">${Math.round((s.verbDrillRatio ?? 0.15) * 100)}%</b></span>
+          <input type="range" id="vd" min="0" max="0.5" step="0.05" value="${s.verbDrillRatio ?? 0.15}">
+          <span class="muted">Quick "du + fahren → ?" cards. Keeps the stem changes and haben/sein warm.</span>
+        </label>
+      </details>
 
       <div class="section-title">Your data</div>
       <div class="panel">
@@ -220,6 +233,7 @@ function wire() {
   })
 
   on('#strict', 'change', (e) => updateSettings({ typingStrict: e.target.checked }))
+  on('#autoAdv', 'change', (e) => updateSettings({ autoAdvance: e.target.checked }))
   on('#autoplay', 'change', (e) => updateSettings({ autoPlayAudio: e.target.checked }))
   on('#images', 'change', (e) => updateSettings({ showImages: e.target.checked }))
   on('#voice', 'change', (e) => updateSettings({ voice: e.target.value }))

@@ -6,9 +6,9 @@
  */
 
 import { esc, debounce, plural, toast } from '../lib/ui.js'
+import { icon } from '../lib/icons.js'
 import { renderAnswer, bindAnswerAudio } from '../lib/wordcard.js'
-import { formatInterval } from '../srs.js'
-import { state, getCard, addWord } from '../store.js'
+import { state, getCard, addWord, deckLevels } from '../store.js'
 import { stripArticle } from '../lib/normalize.js'
 import { speakWord } from '../lib/tts.js'
 
@@ -80,7 +80,7 @@ function render() {
       <div class="filter-row">
         <select class="ctrl" id="fLevel">
           <option value="all">All levels</option>
-          ${['A0', 'A1', 'A2'].map((l) => `<option value="${l}" ${filterLevel === l ? 'selected' : ''}>${l}</option>`).join('')}
+          ${deckLevels().map((l) => `<option value="${l}" ${filterLevel === l ? 'selected' : ''}>${l}</option>`).join('')}
         </select>
         <select class="ctrl" id="fCat">
           <option value="all">All categories</option>
@@ -101,7 +101,7 @@ function render() {
 
       ${shown.length === 0 ? `
         <div class="empty">
-          <div class="empty-icon">🔍</div>
+          <div class="empty-icon">${icon('browse')}</div>
           <h3>Nothing matches</h3>
           <p>Try a different search, or clear the filters.</p>
         </div>
@@ -109,11 +109,11 @@ function render() {
         <div class="word-table">
           <div class="wt-head">
             <span></span><span>Word</span><span>Meaning</span>
-            <span>Category</span><span>Level</span><span>Next</span>
+            <span>Category</span><span>Level</span>
           </div>
           ${shown.slice(0, 400).map(renderRow).join('')}
         </div>
-        ${shown.length > 400 ? `<p class="muted" style="text-align:center;padding:1rem;color:var(--text3)">
+        ${shown.length > 400 ? `<p class="muted" style="text-align:center;padding:var(--s4);color:var(--text3)">
           Showing the first 400. Narrow the search to see more.</p>` : ''}
       `}
     </div>
@@ -154,7 +154,7 @@ function render() {
 function openAddForm() {
   const panel = document.getElementById('drawerPanel')
   panel.innerHTML = `
-    <button class="drawer-close" data-close>×</button>
+    <button class="drawer-close" data-close>${icon('x')}</button>
     <h2 style="margin-bottom:.2rem">Add a word</h2>
     <p class="muted" style="color:var(--text3);font-size:.85rem;margin-bottom:1rem">
       Goes into <code>data/vocab/00-my-words.json</code>. Only the first two fields are required.
@@ -191,9 +191,7 @@ function openAddForm() {
         <label class="field">
           <span>Level</span>
           <select class="ctrl" name="level">
-            <option value="A1" selected>A1</option>
-            <option value="A0">A0</option>
-            <option value="A2">A2</option>
+            ${deckLevels().map((l) => `<option value="${l}"${l === 'A1' ? ' selected' : ''}>${l}</option>`).join('')}
           </select>
         </label>
       </div>
@@ -277,10 +275,14 @@ function openAddForm() {
   })
 }
 
+/**
+ * One row. The "Next" column is gone: it printed the raw scheduling interval
+ * ("12d", "3mo") on up to 400 rows at once — a number you can act on in no way
+ * whatsoever, four hundred times over. The coloured status dot already says the
+ * only thing about a word's schedule that is worth knowing at a glance.
+ */
 function renderRow(w) {
-  const card = getCard(w.id)
   const st = status(state.progress.cards[w.id])
-  const next = card.reps && card.intervalDays ? formatInterval(card.intervalDays) : '—'
   return `
     <div class="wt-row" data-id="${esc(w.id)}" title="${esc(STATUS_LABEL[st])}">
       <span class="dot ${st}"></span>
@@ -290,7 +292,6 @@ function renderRow(w) {
       <span class="wt-trans">${esc(w.translation)}</span>
       <span class="wt-cat">${esc(w.category)}</span>
       <span><span class="level-badge level-${esc(w.level)}">${esc(w.level)}</span></span>
-      <span class="wt-strength">${next}</span>
     </div>
   `
 }
@@ -304,25 +305,28 @@ export function showDetail(id) {
   const st = status(state.progress.cards[w.id])
   const g = state.progress.gender[w.id]
 
+  // "memory" was the FSRS stability parameter and "difficulty" was its D
+  // coefficient — Anki's ease factor, a 1-to-10 model internal — presented as
+  // headline statistics with no explanation and nothing you could do about
+  // either. What is left is what you can actually read: how many times you have
+  // seen this word, and how many times it got away from you.
   document.getElementById('drawerPanel').innerHTML = `
-    <button class="drawer-close" data-close>×</button>
+    <button class="drawer-close" data-close>${icon('x')}</button>
     <div class="prompt-meta" style="justify-content:flex-start">
       <span class="level-badge level-${esc(w.level)}">${esc(w.level)}</span>
       <span class="prompt-cat">${esc(w.category)}</span>
       <span class="dot ${st}"></span><span class="prompt-cat">${STATUS_LABEL[st]}</span>
     </div>
     ${renderAnswer(w)}
-    <div class="panel" style="margin-top:.8rem">
-      <h3>Your history</h3>
-      <div class="stat-grid" style="grid-template-columns:repeat(auto-fit,minmax(88px,1fr))">
-        <div><div class="stat-num" style="font-size:1.15rem">${card.reps || 0}</div><div class="stat-label">reviews</div></div>
-        <div><div class="stat-num" style="font-size:1.15rem">${card.lapses || 0}</div><div class="stat-label">forgotten</div></div>
-        <div><div class="stat-num" style="font-size:1.15rem">${card.stability ? formatInterval(Math.round(card.stability)) : '—'}</div><div class="stat-label">memory</div></div>
-        <div><div class="stat-num" style="font-size:1.15rem">${card.difficulty ? card.difficulty.toFixed(1) : '—'}</div><div class="stat-label">difficulty</div></div>
-      </div>
-      ${g ? `<p style="color:var(--text3);font-size:.82rem;margin-top:.6rem">
-        Gender drill: ${g.correct || 0} right, ${g.wrong || 0} wrong${g.streak ? ` · ${g.streak} in a row` : ''}</p>` : ''}
-    </div>
+    ${card.reps ? `
+      <div class="panel" style="margin-top:var(--s3)">
+        <h3>Your history</h3>
+        <p style="color:var(--text3);font-size:var(--t-sm)">
+          Seen ${plural(card.reps, 'time')}${
+            card.lapses ? `, forgotten ${plural(card.lapses, 'time')}` : ' — never forgotten'}.
+          ${g ? `Gender drill: ${g.correct || 0} right, ${g.wrong || 0} wrong.` : ''}
+        </p>
+      </div>` : ''}
   `
 
   const drawer = document.getElementById('drawer')
