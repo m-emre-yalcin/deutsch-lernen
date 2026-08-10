@@ -7,6 +7,8 @@
  */
 
 import { esc, shuffle } from '../lib/ui.js'
+import { icon } from '../lib/icons.js'
+import { bindTextSubmit } from '../lib/keys.js'
 import { state, save } from '../store.js'
 import { grammarAiLink } from '../lib/links.js'
 import { speak } from '../lib/tts.js'
@@ -36,7 +38,7 @@ function renderList() {
     root().innerHTML = `
       <div class="view-pad">
         <div class="empty">
-          <div class="empty-icon">📐</div>
+          <div class="empty-icon">${icon('grammar')}</div>
           <h3>No grammar lessons loaded</h3>
           <p>Lessons live in <code>data/grammar/lessons.json</code>.
              Run <code>node tools/build-grammar.js</code> to build them from
@@ -56,7 +58,7 @@ function renderList() {
       <div class="view-head">
         <div>
           <h1>Grammar</h1>
-          <div class="sub">${doneCount} of ${lessons.length} lessons read · A0 → A2</div>
+          <div class="sub">${doneCount} of ${lessons.length} lessons read</div>
         </div>
       </div>
       ${Object.entries(groups).map(([group, list]) => `
@@ -67,7 +69,7 @@ function renderList() {
             const pct = p.drills.total ? Math.round((p.drills.correct / p.drills.total) * 100) : null
             return `
             <button class="lesson-card" data-lesson="${esc(l.id)}">
-              ${p.seen ? '<span class="lesson-done">✓</span>' : ''}
+              ${p.seen ? `<span class="lesson-done">${icon('check')}</span>` : ''}
               <div class="lesson-num">
                 ${String(l.number).padStart(2, '0')} ·
                 <span class="level-badge level-${esc(l.level)}">${esc(l.level)}</span>
@@ -106,7 +108,7 @@ function renderLesson() {
 
   root().innerHTML = `
     <div class="view-pad">
-      <button class="btn ghost sm" id="backBtn" style="margin-bottom:.8rem">← All lessons</button>
+      <button class="btn ghost sm" id="backBtn" style="margin-bottom:var(--s3)">${icon('arrowLeft')} All lessons</button>
 
       <div class="view-head">
         <div>
@@ -116,7 +118,7 @@ function renderLesson() {
           <div class="sub">${esc(l.summary || '')}</div>
         </div>
         <a class="link-chip" href="${grammarAiLink(l.title)}" target="_blank" rel="noopener">
-          ✨ Ask Google AI about this</a>
+          ${icon('sparkle')} Ask Google AI about this</a>
       </div>
 
       <div class="panel">${sanitize(l.rule || '')}</div>
@@ -129,9 +131,9 @@ function renderLesson() {
           ${l.examples.map((ex) => `
             <div class="example">
               <div class="example-de">${esc(ex.de)}
-                <button class="example-play" data-say="${esc(ex.de)}">🔊</button></div>
+                <button class="example-play" data-say="${esc(ex.de)}">${icon('volume')}</button></div>
               <div class="example-en">${esc(ex.en)}</div>
-              ${ex.note ? `<div class="example-en" style="color:var(--accent);margin-top:.1rem">↳ ${esc(ex.note)}</div>` : ''}
+              ${ex.note ? `<div class="example-en" style="color:var(--accent);margin-top:2px">${esc(ex.note)}</div>` : ''}
             </div>`).join('')}
         </div>` : ''}
 
@@ -270,11 +272,17 @@ function renderDrillBody(d) {
   }
 
   // fill
+  // The Check button is not decoration: this drill's only way to submit used to
+  // be a line reading "Enter to check" inside .hint-line, which touch devices
+  // hide — so on a phone a fill drill had no visible way to be answered at all.
   return `
     <div class="prompt">
       <div class="cloze-sentence de">${esc(d.question).replace(/___/g,
         '<input class="cloze-input" id="fillIn" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false">')}</div>
-      ${!d.question.includes('___') ? '<input class="type-input" id="fillIn" style="margin-top:1rem">' : ''}
+      ${!d.question.includes('___') ? '<input class="type-input" id="fillIn" style="margin-top:var(--s4)">' : ''}
+    </div>
+    <div class="card-actions" style="margin-top:var(--s4)">
+      <button class="btn primary big" id="fillCheck">Check</button>
     </div>
     <div class="hint-line"><kbd>Enter</kbd> to check</div>`
 }
@@ -312,10 +320,8 @@ function wireDrill(d) {
   const input = el.querySelector('#fillIn')
   if (input) {
     setTimeout(() => input.focus(), 30)
-    input.addEventListener('keydown', (e) => {
-      e.stopPropagation()
-      if (e.key === 'Enter') { e.preventDefault(); gradeDrill(d, input.value) }
-    })
+    bindTextSubmit(input, () => gradeDrill(d, input.value))
+    el.querySelector('#fillCheck')?.addEventListener('click', () => gradeDrill(d, input.value))
   }
 }
 
@@ -349,12 +355,13 @@ function gradeDrill(d, given) {
 
   el.querySelector('#dFeedback').innerHTML = `
     <div class="verdict ${correct ? 'ok' : 'no'}">
-      <div class="verdict-icon">${correct ? '✓' : '✗'}</div>
-      ${!correct ? `<div class="verdict-correct de">${esc(d.answer)}</div>` : ''}
-      <div class="verdict-text">${esc(d.explain || '')}</div>
+      ${icon(correct ? 'check' : 'x')}
+      <span>${correct ? 'Right' : 'Not quite'}</span>
+      ${!correct ? `<span class="de" style="font-weight:var(--w-semi)">${esc(d.answer)}</span>` : ''}
     </div>
-    <div style="text-align:center;margin-top:.8rem">
-      <button class="btn primary" id="nextDrill">${dIndex + 1 >= drills.length ? 'Finish' : 'Next'} →</button>
+    ${d.explain ? `<p class="muted" style="text-align:center;margin-top:var(--s2)">${esc(d.explain)}</p>` : ''}
+    <div class="card-actions" style="margin-top:var(--s4)">
+      <button class="btn primary big" id="nextDrill">${dIndex + 1 >= drills.length ? 'Finish' : 'Next'}</button>
     </div>
   `
   el.querySelector('#nextDrill').addEventListener('click', () => { dIndex++; render() })
@@ -376,7 +383,6 @@ function renderDrillDone() {
 
   root().innerHTML = `
     <div class="done">
-      <div class="done-icon">${pct >= 85 ? '🎉' : pct >= 60 ? '👏' : '📚'}</div>
       <h2>${esc(lesson.title)}</h2>
       <div class="done-stats">
         <div class="done-stat">
@@ -415,6 +421,10 @@ function render() {
 }
 
 export function handleKey(e) {
+  // Same rule as study.js: an auto-repeat is the OS talking, never the user.
+  // `answered` already blocks the double-fire, but one rule in one shape across
+  // the codebase is worth more than the line it costs.
+  if (e.repeat) return false
   if (mode !== 'drill' || answered) return false
   const d = drills[dIndex]
   if (d?.type === 'choice') {
