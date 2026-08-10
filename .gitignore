@@ -10,3 +10,15 @@ cache/
 node_modules/
 .DS_Store
 *.log
+
+# Desktop build output
+dist/
+# Stamped at build time from the current commit — see tools/stamp-build.js
+electron/bundled.json
+
+# Signing material. Never commit any of this.
+*.p12
+*.pfx
+*.mobileprovision
+.env
+.env.local

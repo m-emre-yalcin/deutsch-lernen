@@ -1,9 +1,17 @@
 {
   "name": "deutsch-lernen",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "private": true,
-  "description": "German A0-A2 learning app \u2014 spaced repetition, six practice modes, grammar course",
+  "description": "German A0-A2 learning app — spaced repetition, seven practice modes, grammar course",
   "type": "module",
+  "main": "electron/main.js",
+  "license": "MIT",
+  "author": "M. Emre Yalcin",
+  "homepage": "https://github.com/m-emre-yalcin/deutsch-lernen",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/m-emre-yalcin/deutsch-lernen.git"
+  },
   "engines": {
     "node": ">=18"
   },
@@ -15,7 +23,19 @@
     "grammar": "node tools/build-grammar.js",
     "dedupe": "node tools/dedupe.js",
     "prefetch": "node tools/prefetch.js --images --sentences",
-    "responsive": "node --experimental-websocket tools/responsive-check.js"
+    "responsive": "node --experimental-websocket tools/responsive-check.js",
+    "icons": "node tools/make-icons.js",
+    "stamp": "node tools/stamp-build.js",
+    "app": "npm run stamp && electron .",
+    "app:pack": "npm run stamp && electron-builder --config electron-builder.config.cjs --dir",
+    "app:dist": "npm run stamp && electron-builder --config electron-builder.config.cjs",
+    "app:mac": "npm run stamp && electron-builder --config electron-builder.config.cjs --mac --arm64 --x64",
+    "app:win": "npm run stamp && electron-builder --config electron-builder.config.cjs --win --x64",
+    "app:linux": "npm run stamp && electron-builder --config electron-builder.config.cjs --linux --x64"
   },
-  "comment": "There are deliberately NO dependencies. Node 18+ has everything this needs, so there is nothing to install and nothing to break later. `npm install` is never required."
+  "devDependencies": {
+    "electron": "43.3.0",
+    "electron-builder": "^26.15.3"
+  },
+  "comment": "The app itself still has NO runtime dependencies — Node 18+ has everything it needs, so `./start.sh` never requires `npm install`. The two devDependencies above exist only to package the desktop build; nothing they produce ends up inside the running app beyond Electron itself."
 }

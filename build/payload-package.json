@@ -1,0 +1,6 @@
+{
+  "name": "deutsch-lernen-payload",
+  "private": true,
+  "type": "module",
+  "comment": "Shipped as payload/package.json next to the bundled copy of web/, server/ and data/. Its only job is the \"type\": \"module\" line — without a package.json above it, Node refuses to load server/server.js, which uses import. A downloaded payload gets the repository's own package.json instead, which says the same thing."
+}
