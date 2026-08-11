@@ -281,7 +281,11 @@ function createWindow() {
     height: saved.height || 820,
     x: saved.x,
     y: saved.y,
-    minWidth: 720,
+    // Above the 860px breakpoint in web/css/layout.css, deliberately. Below it
+    // the sidebar becomes a phone-style bottom tab bar and .sidebar-top — which
+    // is this window's only title bar and its only drag handle — is hidden, so
+    // a narrower window would be one you cannot move.
+    minWidth: 880,
     minHeight: 560,
     title: 'Deutsch Lernen',
     backgroundColor: nativeTheme.shouldUseDarkColors ? '#111110' : '#faf9f7',

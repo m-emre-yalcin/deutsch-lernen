@@ -26,6 +26,15 @@ const VIEWS = {
 
 let currentView = 'study'
 
+// Set before anything renders, including the boot splash: the desktop window
+// has no title bar, so the sidebar doubles as one — it has to leave room for
+// the macOS window buttons and provide somewhere to drag the window by. Doing
+// this at boot() instead would shift the layout after the first paint.
+if (window.deutschLernen) {
+  document.documentElement.dataset.app = 'electron'
+  document.documentElement.dataset.platform = window.deutschLernen.platform
+}
+
 // ─── THEME ────────────────────────────────────────────────────────────────────
 
 export function applyTheme() {

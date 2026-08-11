@@ -37,6 +37,25 @@
   padding: 0 var(--s2) var(--s5);
   min-width: 0;
 }
+/* ─── DESKTOP APP TITLE BAR ────────────────────────────── */
+/* The window has no title bar of its own, so this strip is it: the only place
+   you can drag the window from, and on macOS the only thing standing between
+   the logo and the close/minimise/zoom buttons, which the system draws on top
+   of the page at the top-left — directly over "Deutsch" without the padding.
+   Set from main.js, so a browser tab is completely unaffected. */
+
+[data-app="electron"][data-platform="darwin"] .sidebar-top {
+  /* Clears the window buttons. They are ~20px tall inset ~12px from the top. */
+  padding-top: 26px;
+}
+[data-app="electron"] .sidebar-top {
+  -webkit-app-region: drag;
+}
+/* Draggable regions swallow clicks, so anything you can press has to opt out. */
+[data-app="electron"] .sidebar-top .icon-btn,
+[data-app="electron"] .sidebar-top button {
+  -webkit-app-region: no-drag;
+}
 
 .logo {
   display: flex; align-items: center; gap: var(--s2);

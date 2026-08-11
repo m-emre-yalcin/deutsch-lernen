@@ -23,6 +23,14 @@ ipcRenderer.on('dl:update-status', (_e, status) => {
 })
 
 contextBridge.exposeInMainWorld('deutschLernen', {
+  /**
+   * Plain value, not a promise, because the stylesheet depends on it: macOS
+   * draws its window buttons on top of the page and the sidebar has to leave
+   * room for them. Anything asynchronous here would land after the first paint
+   * and move the layout under the user.
+   */
+  platform: process.platform,
+
   /** Version, content SHA, where your files live. */
   getInfo: () => ipcRenderer.invoke('dl:info'),
 
