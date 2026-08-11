@@ -90,8 +90,12 @@ export class Updater {
    *                  any payload downloaded by the previous one
    * @param onStatus  called with every status change, for the UI
    */
-  constructor({ root, bundled, identity, useDownloads = true, onStatus = () => {}, log = console.log }) {
+  constructor({ root, bundled, bundledSha = null, identity, useDownloads = true, onStatus = () => {}, log = console.log }) {
     this.bundled = bundled
+    // Which commit the copy inside the app was built from. Without it, a fresh
+    // install downloads the identical commit it already contains and then asks
+    // to be restarted for a change nobody would be able to see.
+    this.bundledSha = bundledSha
     this.identity = identity
     // Off during development, where "bundled" is the working tree: running a
     // payload downloaded from GitHub instead of the files being edited would
@@ -259,7 +263,9 @@ export class Updater {
         this.#save()
         return this.#emit({ state: 'current' })
       }
-      if (sha === this.activeSha()) {
+      // Already running this commit — either as a download, or because it is
+      // the one that shipped inside the app and no download is needed at all.
+      if (sha === this.activeSha() || (!this.activeSha() && sha === this.bundledSha)) {
         this.state.etag = etag
         this.#save()
         return this.#emit({ state: 'current' })

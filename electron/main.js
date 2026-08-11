@@ -478,6 +478,7 @@ if (!app.requestSingleInstanceLock()) {
     updater = new Updater({
       root: USER_DATA,
       bundled: BUNDLED,
+      bundledSha: BUILD.dirty ? null : BUILD.sha || null,
       identity: IDENTITY,
       // `npm run app` serves the working tree. DL_DEV_USE_PAYLOAD=1 opts back
       // in, which is how the update path gets tested without a packaged build.
