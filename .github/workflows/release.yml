@@ -57,23 +57,62 @@ jobs:
         if: matrix.os == 'ubuntu-latest'
         run: npm test
 
-      - name: Build
+      # The app records which commit its bundled copy came from, so that
+      # installing a new build retires anything the previous one downloaded.
+      # electron-builder is invoked directly below rather than through
+      # `npm run app:dist`, so this has to be its own step or every release
+      # ships without the stamp.
+      - name: Stamp the build
+        run: npm run stamp
+
+      # A tag is the version. Without this, electron-builder uploads to a
+      # release named after package.json, so a v3.0.1 tag whose package.json
+      # still says 3.0.0 publishes into the wrong release — or creates a second,
+      # empty one.
+      - name: Version from tag
+        if: startsWith(github.ref, 'refs/tags/v')
+        shell: bash
+        run: |
+          TAG="${GITHUB_REF_NAME#v}"
+          node -e "
+            const fs = require('fs')
+            const p = JSON.parse(fs.readFileSync('package.json', 'utf8'))
+            if (p.version !== '$TAG') {
+              p.version = '$TAG'
+              fs.writeFileSync('package.json', JSON.stringify(p, null, 2) + '\n')
+              console.log('version set to $TAG')
+            }
+          "
+
+      # Two build steps only because the macOS one needs the signing
+      # environment and the others must not have it.
+      - name: Build (Windows and Linux)
+        if: matrix.os != 'macos-14'
         run: npx electron-builder --config electron-builder.config.cjs ${{ matrix.target }} --publish ${{ github.event_name == 'push' && 'always' || 'never' }}
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          # Signing is optional and entirely driven by whether these secrets
-          # exist. With them, macOS gets a signed and notarized build that opens
-          # with no warning at all. Without them, electron-builder.config.cjs
-          # falls back to an ad-hoc signature — see the README for what users
-          # then see on first launch.
+
+      - name: Build (macOS)
+        if: matrix.os == 'macos-14'
+        run: npx electron-builder --config electron-builder.config.cjs ${{ matrix.target }} --publish ${{ github.event_name == 'push' && 'always' || 'never' }}
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # Only on macOS. A Developer ID is a macOS certificate; exporting it
+          # to the Windows job makes electron-builder try to sign the installer
+          # with it, and that fails the build.
+          #
+          # Signing is optional and driven entirely by whether these secrets
+          # exist. With them, macOS gets a signed, notarized build that opens
+          # with no warning. Without them the config falls back to an ad-hoc
+          # signature — see the README for what users then see on first launch.
           CSC_LINK: ${{ secrets.CSC_LINK }}
           CSC_KEY_PASSWORD: ${{ secrets.CSC_KEY_PASSWORD }}
           APPLE_ID: ${{ secrets.APPLE_ID }}
           APPLE_APP_SPECIFIC_PASSWORD: ${{ secrets.APPLE_APP_SPECIFIC_PASSWORD }}
           APPLE_TEAM_ID: ${{ secrets.APPLE_TEAM_ID }}
-          # Without this, a build machine holding any unrelated Apple
-          # certificate has it picked up automatically and the build fails with
-          # "this identity cannot be used for signing code".
+          # Without this, a runner holding any unrelated Apple certificate has
+          # it picked up automatically and the build dies with "this identity
+          # cannot be used for signing code".
           CSC_IDENTITY_AUTO_DISCOVERY: ${{ secrets.CSC_LINK != '' }}
 
       # Kept for manual runs, where nothing is published and there would

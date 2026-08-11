@@ -8,7 +8,7 @@
 
 import { createServer } from 'node:http'
 import { readFileSync, writeFileSync, renameSync, existsSync, readdirSync, statSync, createReadStream, mkdirSync } from 'node:fs'
-import { join, extname, normalize, dirname, sep } from 'node:path'
+import { join, extname, normalize, dirname, sep, resolve } from 'node:path'
 import { fileURLToPath } from 'node:url'
 import { ProgressStore } from './progress.js'
 import { MediaCache } from './media.js'
@@ -32,14 +32,20 @@ const DATA_DIR = arg('data', process.env.DATA_DIR || null)
 // directory read-only — it is replaced wholesale by the updater — so everything
 // that gets WRITTEN has to live somewhere else.
 //
+// Flags only, with no environment fallback. HOST especially: it is an ordinary
+// variable that plenty of toolchains export for their own reasons, and reading
+// it here would silently change which interfaces ./start.sh binds — or refuse
+// to start at all — on a machine that happens to have it set. The app passes
+// all three explicitly, so nothing needs the fallback.
+//
 // A directory, not a file: loadDeck() reads every *.json in it, so it cannot be
 // <userData> itself, which also holds progress.json.
-const USER_VOCAB = arg('user-vocab', process.env.USER_VOCAB_DIR || null)
-const CACHE_DIR = arg('cache', process.env.CACHE_DIR || null)
-// Loopback-only in the app. The default stays open so that studying from your
-// phone over the LAN — which is what the iOS home-screen support in
+const USER_VOCAB = arg('user-vocab', null)
+const CACHE_DIR = arg('cache', null)
+// Loopback-only in the app. Unset still means every interface, so studying from
+// your phone over the LAN — which is what the iOS home-screen support in
 // web/index.html is for — keeps working from the command line.
-const HOST = arg('host', process.env.HOST || null)
+const HOST = arg('host', null)
 
 const store = new ProgressStore(ROOT, DATA_DIR)
 const media = new MediaCache(ROOT, CACHE_DIR)
@@ -103,7 +109,10 @@ function loadDeck() {
   // reported as saved, and then never appeared anywhere. In the app, where the
   // two are always different, that would be the normal case.
   const vocabDirs = [join(ROOT, 'data', 'vocab')]
-  if (USER_VOCAB && !vocabDirs.includes(USER_VOCAB)) vocabDirs.push(USER_VOCAB)
+  // resolve() before comparing: pointing --user-vocab at the curated directory
+  // by a different spelling of the same path would otherwise load every file
+  // twice and report every word as a duplicate.
+  if (USER_VOCAB && !vocabDirs.some((d) => resolve(d) === resolve(USER_VOCAB))) vocabDirs.push(USER_VOCAB)
 
   const words = []
   const files = []

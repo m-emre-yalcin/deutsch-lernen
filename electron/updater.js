@@ -124,6 +124,11 @@ export class Updater {
     }
     this.state.identity = identity
 
+    // Collect payloads superseded by a previous run. Here, before resolve() has
+    // latched anything and before the server exists, is the only moment when
+    // nothing on disk is in use and deleting is unambiguously safe.
+    try { this.#prune(this.state.sha) } catch {}
+
     this.status = { state: 'idle', sha: this.state.sha, current: this.activeSha() }
     this.#save()
   }
@@ -159,10 +164,20 @@ export class Updater {
    * The directory the server should be started from. Always returns something
    * runnable: an incomplete or missing download falls back to the copy inside
    * the app rather than failing.
+   *
+   * The answer is latched the first time it is asked, because everything else
+   * here has to distinguish "the newest payload on disk" from "the payload this
+   * process is actually running". They stop being the same the moment an update
+   * is staged, and confusing the two means deleting files out from under a live
+   * server, or blaming a commit that never ran for a failure.
    */
   resolve() {
-    const sha = this.useDownloads ? this.activeSha() : null
-    return sha ? join(this.dir, sha) : this.bundled
+    if (this.running === undefined) {
+      const sha = this.useDownloads ? this.activeSha() : null
+      this.running = sha
+      this.runningDir = sha ? join(this.dir, sha) : this.bundled
+    }
+    return this.runningDir
   }
 
   /** True when the server is running downloaded code — the only case a rollback can help. */
@@ -176,7 +191,8 @@ export class Updater {
    * development, where downloads are staged but never used.
    */
   runningSha() {
-    return this.isRunningDownloaded() ? this.activeSha() : null
+    this.resolve()
+    return this.running || null
   }
 
   #isComplete(dir) {
@@ -204,9 +220,13 @@ export class Updater {
     try {
       const url = `https://codeload.github.com/${REPO.owner}/${REPO.name}/tar.gz/${encodeURIComponent(branch)}`
       const headers = { 'User-Agent': UA }
-      // A manual check should actually go and look, even if we have an ETag
-      // that would come back 304 — otherwise the button appears to do nothing.
-      if (this.state.etag && !manual) headers['If-None-Match'] = this.state.etag
+      // Skip the ETag when a manual check asks — otherwise the button appears
+      // to do nothing — and when the payload it refers to has gone missing.
+      // Without that second case, a payload deleted or damaged on disk would be
+      // met with a 304 forever and never re-fetched, leaving the app stuck on
+      // the bundled copy with no way back except reinstalling.
+      const staleEtag = this.state.sha && !this.#isComplete(join(this.dir, this.state.sha))
+      if (this.state.etag && !manual && !staleEtag) headers['If-None-Match'] = this.state.etag
 
       const res = await this.#fetch(url, headers)
 
@@ -245,7 +265,16 @@ export class Updater {
         return this.#emit({ state: 'current' })
       }
 
-      this.#install(files, sha)
+      try {
+        this.#install(files, sha)
+      } catch (e) {
+        // Record it, or every check from now on downloads the same broken
+        // archive in full and fails at exactly the same place.
+        this.state.failed[sha] = `could not be unpacked: ${e.message}`
+        this.state.etag = etag
+        this.#save()
+        throw e
+      }
 
       this.state.etag = etag
       this.state.sha = sha
@@ -309,10 +338,20 @@ export class Updater {
     }
   }
 
-  /** Keep the live payload and nothing else. Old ones are re-downloadable. */
+  /**
+   * Drop payloads nothing needs any more.
+   *
+   * `running` is spared, and that is the whole point of this method having a
+   * second argument. Deleting it would pull the ground out from under a live
+   * server: web/ is read from disk on every request and the deck is re-read
+   * whenever a word is added, so the app would start 404ing its own pages and
+   * report an empty deck mid-session. The superseded payload is collected on
+   * the next launch instead, by #prune's other caller, when nothing has it open.
+   */
   #prune(keep) {
+    const spare = new Set([keep, this.running].filter(Boolean))
     for (const entry of readdirSync(this.dir)) {
-      if (entry === keep) continue
+      if (spare.has(entry)) continue
       try { rmSync(join(this.dir, entry), { recursive: true, force: true }) } catch {}
     }
   }
@@ -327,8 +366,11 @@ export class Updater {
    * downloaded and tried again on the next check.
    */
   rollback(reason = 'reverted by hand') {
-    const sha = this.state.sha
-    if (sha) {
+    // Both, and deliberately. The running payload is the one that misbehaved —
+    // blaming state.sha alone would condemn a commit that was only staged and
+    // has never run. The staged one goes too, or "undo" would be undone again
+    // by the next check a few hours later.
+    for (const sha of new Set([this.runningSha(), this.state.sha].filter(Boolean))) {
       this.state.failed[sha] = reason
       this.log(`update: abandoning ${sha.slice(0, 7)} — ${reason}`)
     }
@@ -336,7 +378,10 @@ export class Updater {
     // Drop the ETag too, or the next check returns 304 and the app would never
     // pick up the commit that fixes whatever went wrong.
     this.state.etag = null
-    try { rmSync(this.dir, { recursive: true, force: true }); mkdirSync(this.dir, { recursive: true }) } catch {}
+    // Everything except what is open right now. Deleting the running payload
+    // here would break the very session the user is trying to rescue; it is
+    // collected on the next launch instead.
+    this.#prune(null)
     this.#save()
     return this.#emit({ state: 'idle' })
   }

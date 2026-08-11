@@ -113,8 +113,12 @@ export function readTarGz(gzBuffer) {
     }
     zeroBlocks = 0
 
+    // POSIX writes "ustar\0", GNU writes "ustar " — six bytes either way, so
+    // the GNU form reads back as five characters and a trailing space once the
+    // NUL padding is stripped. Comparing against two spaces silently rejected
+    // every GNU archive.
     const magic = str(header, F.magic)
-    if (magic !== 'ustar' && magic !== 'ustar  ') {
+    if (magic !== 'ustar' && magic !== 'ustar ') {
       throw new Error(`tar: not a ustar archive (magic ${JSON.stringify(magic)}) at byte ${offset - BLOCK}`)
     }
 

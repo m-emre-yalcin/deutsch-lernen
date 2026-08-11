@@ -51,6 +51,11 @@ module.exports = {
     '!tools/**', '!build/**', '!dist/**', '!.github/**',
     '!start.sh', '!*.md', '!electron-builder.config.cjs',
     '!**/.DS_Store',
+    // Never, under any circumstances, ship signing material or secrets. These
+    // only exist on a machine that signs locally, and the rule above is
+    // "everything, minus" — so without this they would be packed into the
+    // asar and handed to every person who downloads the app.
+    '!**/*.p12', '!**/*.pfx', '!**/*.mobileprovision', '!**/.env*',
   ],
 
   extraResources: [

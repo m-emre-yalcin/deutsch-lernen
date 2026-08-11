@@ -30,7 +30,7 @@ import { createServer } from 'node:net'
 import { existsSync, readFileSync, writeFileSync, mkdirSync } from 'node:fs'
 import { join, dirname } from 'node:path'
 import { fileURLToPath } from 'node:url'
-import { Updater, REPO, CHECK_INTERVAL } from './updater.js'
+import { Updater, REPO } from './updater.js'
 
 const HERE = dirname(fileURLToPath(import.meta.url))
 const HOST = '127.0.0.1'
@@ -124,7 +124,11 @@ function spawnServer(entry, port) {
     '--host', HOST,
     '--data', USER_DATA,
     '--user-vocab', join(USER_DATA, 'vocab'),
-    '--cache', join(USER_DATA, 'cache'),
+    // "media", not "cache": Chromium keeps its own Cache/ directory in here and
+    // clears it whenever it likes, and macOS filesystems are case-insensitive
+    // by default — so cache/ and Cache/ would be the same directory, and a
+    // browser eviction would take the prefetched audio and images with it.
+    '--cache', join(USER_DATA, 'media'),
   ], {
     // Electron's own Node, so nothing needs to be installed on the machine.
     env: { ...process.env, ELECTRON_RUN_AS_NODE: '1' },
@@ -147,7 +151,13 @@ function spawnServer(entry, port) {
       // Ask the child, not just the port: this is only proof of life if the
       // process we started is the one answering.
       if (child.exitCode === null && await health(port)) return done('ready')
-      if (Date.now() > deadline) return done('exited')
+      if (Date.now() > deadline) {
+        // Giving up on it is not the same as it having stopped. Left alive it
+        // would hold its port and outlive the app, and the module-level
+        // `server` is about to point at the next attempt instead.
+        try { child.kill() } catch {}
+        return done('exited')
+      }
       setTimeout(poll, 120)
     }
     poll()
@@ -244,9 +254,18 @@ function stopServer() {
 
 function fatal(e) {
   log('fatal:', e.message)
+  // app.exit skips will-quit, so the child has to be taken down here or it
+  // survives the app that started it and keeps holding its port.
+  stopServer()
   dialog.showErrorBox('Deutsch Lernen could not start', `${e.message}\n\nYour progress is safe in:\n${USER_DATA}`)
   app.exit(1)
 }
+
+// The last line of defence against leaving a server behind. Anything that ends
+// this process while a child is alive — an unhandled throw, app.exit from
+// somewhere new — passes through here first. A SIGKILL does not, and nothing in
+// JavaScript can catch that one; pickPort() is what copes with the leftover.
+process.on('exit', () => { try { server?.kill() } catch {} })
 
 // ─── WINDOW ───────────────────────────────────────────────────────────────────
 
@@ -266,11 +285,21 @@ const readWindowState = () => {
   } catch { return {} }
 }
 
-const saveWindowState = () => {
-  if (!win || win.isDestroyed() || win.isMinimized()) return
-  try {
-    writeFileSync(stateFile, JSON.stringify({ ...win.getNormalBounds(), maximized: win.isMaximized() }), 'utf8')
-  } catch {}
+// Debounced, because 'resize' and 'move' fire continuously while a window is
+// being dragged and this writes synchronously. Undebounced it was hundreds of
+// blocking writes per drag, on the same thread that renders the app.
+let saveWindowTimer = null
+const saveWindowState = ({ now = false } = {}) => {
+  clearTimeout(saveWindowTimer)
+  const write = () => {
+    if (!win || win.isDestroyed() || win.isMinimized()) return
+    try {
+      writeFileSync(stateFile, JSON.stringify({ ...win.getNormalBounds(), maximized: win.isMaximized() }), 'utf8')
+    } catch {}
+  }
+  // On close there is no later to defer to.
+  if (now) write()
+  else saveWindowTimer = setTimeout(write, 400)
 }
 
 function createWindow() {
@@ -309,7 +338,8 @@ function createWindow() {
 
   if (saved.maximized) win.maximize()
   win.once('ready-to-show', () => win.show())
-  for (const e of ['resize', 'move', 'close']) win.on(e, saveWindowState)
+  for (const e of ['resize', 'move']) win.on(e, () => saveWindowState())
+  win.on('close', () => saveWindowState({ now: true }))
   win.on('closed', () => { win = null })
 
   // Every dictionary and conjugation link in the app is target="_blank". Without
@@ -332,6 +362,43 @@ function createWindow() {
 
 const notify = (status) => {
   if (win && !win.isDestroyed()) win.webContents.send('dl:update-status', status)
+}
+
+/**
+ * Ask the page to write out anything it is sitting on, and wait — briefly.
+ *
+ * Progress saves on a two-second debounce, so quitting or restarting straight
+ * after an answer would drop it. Both paths go through here.
+ *
+ * The timeout is the important half. A page that is wedged, mid-navigation, or
+ * simply has no handler must not be able to stop the app from closing, so this
+ * resolves either way and never rejects.
+ */
+function flushRenderer(ms = 2000) {
+  return new Promise((resolve) => {
+    if (!win || win.isDestroyed() || win.webContents.isDestroyed()) return resolve()
+    let done = false
+    const finish = () => {
+      if (done) return
+      done = true
+      ipcMain.removeListener('dl:flushed', finish)
+      resolve()
+    }
+    ipcMain.once('dl:flushed', finish)
+    setTimeout(finish, ms)
+    try { win.webContents.send('dl:flush') } catch { finish() }
+  })
+}
+
+/** Start or stop the background check, so the Settings toggle takes effect at once. */
+function armUpdateTimer(on) {
+  clearInterval(checkTimer)
+  checkTimer = null
+  if (!on) return
+  // Polled well inside the check interval rather than in lockstep with it: two
+  // timers of the same period drift against each other, and isDue() would then
+  // be false on most ticks and skip a whole interval.
+  checkTimer = setInterval(() => { if (updater.isDue()) checkForUpdates() }, 15 * 60 * 1000)
 }
 
 async function checkForUpdates({ manual = false } = {}) {
@@ -438,7 +505,7 @@ if (!app.requestSingleInstanceLock()) {
     // interval only matters for a window left open for days.
     if (updater.prefs().autoUpdate) {
       setTimeout(() => checkForUpdates(), 4000)
-      checkTimer = setInterval(() => { if (updater.isDue()) checkForUpdates() }, CHECK_INTERVAL)
+      armUpdateTimer(true)
     }
 
     app.on('activate', () => { if (!BrowserWindow.getAllWindows().length) createWindow() })
@@ -447,9 +514,29 @@ if (!app.requestSingleInstanceLock()) {
   // ── IPC. Everything the renderer can ask for, and nothing that takes a path ──
   ipcMain.handle('dl:update-status', () => updater.status)
   ipcMain.handle('dl:update-check', () => checkForUpdates({ manual: true }))
-  ipcMain.handle('dl:update-prefs', (_e, patch) => (patch ? updater.setPrefs(patch) : updater.prefs()))
+  ipcMain.handle('dl:update-prefs', (_e, patch) => {
+    const prefs = patch ? updater.setPrefs(patch) : updater.prefs()
+    // Switching the toggle has to take effect now, not at the next launch.
+    if (patch) armUpdateTimer(prefs.autoUpdate)
+    return prefs
+  })
   ipcMain.handle('dl:update-rollback', () => updater.rollback())
-  ipcMain.handle('dl:restart', () => { quitting = true; stopServer(); app.relaunch(); app.exit(0) })
+  /**
+   * Restart, without losing the last answer.
+   *
+   * app.exit() would skip before-quit entirely, so the page would never be
+   * asked to flush — and the replacement process would race the still-dying
+   * server for port 5555 and settle on 5556, which is a different origin and a
+   * different localStorage. Going through the normal quit path costs a second
+   * and avoids both.
+   */
+  ipcMain.handle('dl:restart', async () => {
+    await flushRenderer()
+    quitting = true
+    stopServer()
+    app.relaunch()
+    app.exit(0)
+  })
   ipcMain.handle('dl:info', () => ({
     version: app.getVersion(),
     // What is running, not what has been downloaded — after staging an update
@@ -464,23 +551,11 @@ if (!app.requestSingleInstanceLock()) {
   }))
   ipcMain.handle('dl:open-user-data', () => shell.openPath(USER_DATA))
 
-  /**
-   * Quit only once the page has flushed.
-   *
-   * Progress is saved on a 2-second debounce, so quitting straight after an
-   * answer would lose it. beforeunload is not reliable on quit, so the renderer
-   * is asked directly and given a moment to reply — but only a moment: a page
-   * that cannot answer must not be able to block the quit.
-   */
   app.on('before-quit', (e) => {
-    if (quitting || !win || win.isDestroyed()) return
+    if (quitting || !win || win.isDestroyed() || win.webContents.isDestroyed()) return
     e.preventDefault()
     quitting = true
-    let done = false
-    const finish = () => { if (done) return; done = true; stopServer(); app.quit() }
-    ipcMain.once('dl:flushed', finish)
-    setTimeout(finish, 1500)
-    win.webContents.send('dl:flush')
+    flushRenderer().then(() => { stopServer(); app.quit() })
   })
 
   app.on('window-all-closed', () => { if (process.platform !== 'darwin') app.quit() })
