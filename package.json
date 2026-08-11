@@ -6,7 +6,10 @@
   "type": "module",
   "main": "electron/main.js",
   "license": "MIT",
-  "author": "M. Emre Yalcin",
+  "author": {
+    "name": "M. Emre Yalcin",
+    "email": "emrreyalcin@gmail.com"
+  },
   "homepage": "https://github.com/m-emre-yalcin/deutsch-lernen",
   "repository": {
     "type": "git",

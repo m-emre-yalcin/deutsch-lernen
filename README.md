@@ -35,7 +35,7 @@ Download from [**Releases**](https://github.com/m-emre-yalcin/deutsch-lernen/rel
 | **macOS** (Apple silicon) | `Deutsch Lernen-*-mac-arm64.dmg` |
 | **macOS** (Intel) | `Deutsch Lernen-*-mac-x64.dmg` |
 | **Windows** | `Deutsch Lernen-*-win-x64.exe` |
-| **Linux** | `Deutsch Lernen-*-linux-x86_64.AppImage` or `.deb` |
+| **Linux** | `Deutsch Lernen-*-linux-x64.AppImage` or `.deb` |
 
 Open it and study. There is nothing to install alongside it — not even Node.
 
