@@ -117,7 +117,13 @@ module.exports = {
     ],
   },
 
+  // Both Windows targets produce a .exe, so both match the global
+  // artifactName template and both resolve to the same filename. They then
+  // overwrite each other locally and collide on upload — which does not fail
+  // fast, it retries until the release request times out and takes the whole
+  // Windows job with it. Naming them apart is the fix.
   nsis: {
+    artifactName: '${productName}-${version}-${os}-${arch}-setup.${ext}',
     // Per-user, so it never asks for an administrator password, and a real
     // installer page rather than a silent one-click that leaves people unsure
     // whether anything happened.
@@ -126,6 +132,10 @@ module.exports = {
     allowToChangeInstallationDirectory: true,
     // Study history lives in userData and is never touched by uninstalling.
     deleteAppDataOnUninstall: false,
+  },
+
+  portable: {
+    artifactName: '${productName}-${version}-${os}-${arch}-portable.${ext}',
   },
 
   linux: {
