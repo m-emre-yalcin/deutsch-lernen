@@ -89,12 +89,19 @@
 
       /**
        * Drives the real session loop the way a person does, whatever mode
-       * comes up. Every mode answers differently — multiple choice and the
-       * gender drill want a click, typing/cloze/conjugation/listening want
-       * text then Enter, flashcard wants Space — and several resolve on a
-       * timer. The quick drills (gender, conjugation) never show a rating row
-       * at all, so progress is measured by the card actually changing rather
-       * than by counting rating presses.
+       * comes up. Multiple choice and the gender drill want a click on an
+       * option; the typed modes want text then Enter; flashcard wants its
+       * "Show answer" button. Every mode then ends the same way — a rating
+       * row that waits — so there is exactly one exit condition.
+       *
+       * It CLICKS the rating rather than sending the keystroke. study.js
+       * ignores rating keys for 350ms after the phase flips (a held or
+       * double-tapped key must never carry across a phase boundary), and this
+       * loop is far faster than a human; clicks are deliberately exempt from
+       * that guard because a tap can only land on a button that already
+       * exists. Sending '3' here would be silently swallowed, the session
+       * would never move, and the failure would surface several assertions
+       * later as "0 cards scheduled".
        */
       const answerCurrentCard = async () => {
         const v = document.querySelector('#view-study')
@@ -108,15 +115,14 @@
             input.value = 'x'   // deliberately wrong; grading still advances
             input.dispatchEvent(new KeyboardEvent('keydown', { key: 'Enter', bubbles: true }))
           } else {
-            study.handleKey({ key: ' ', preventDefault() { } })   // flashcard reveal
+            click('#primaryBtn')   // flashcard / listening reveal
           }
         }
 
-        // Wait for either a rating row (full modes) or the card to move on
-        // (quick drills auto-advance).
         for (let t = 0; t < 40; t++) {
-          if (v.querySelector('.rate-btn')) {
-            study.handleKey({ key: '3', preventDefault() { } })    // Good
+          const rate = v.querySelector('.rate-btn[data-r="3"]') || v.querySelector('.rate-btn')
+          if (rate) {
+            rate.click()
             await sleep(40)
             return true
           }
