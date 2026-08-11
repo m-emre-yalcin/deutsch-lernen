@@ -135,6 +135,9 @@ function loadDeck() {
   return deckCache
 }
 
+/** Every level present in the deck — the same list the client filters by. */
+const deckLevels = () => (deckCache || loadDeck()).meta.levels
+
 // ─── ADDING YOUR OWN WORDS ────────────────────────────────────────────────────
 
 // Honours --data so a sandboxed run (tests) can never write into the real
@@ -262,7 +265,10 @@ function addWord(input) {
     lemma,
     translation,
     translations: [translation],
-    level: ['A0', 'A1', 'A2'].includes(input.level) ? input.level : 'A1',
+    // Accept any level the deck already contains. A hardcoded allowlist here
+    // silently downgraded a B1 word to A1 on the way in — the add-word form
+    // said B1, the file said A1, and nothing reported the difference.
+    level: deckLevels().includes(input.level) ? input.level : 'A1',
     category: 'My Words',
     partOfSpeech: pos,
     frequency: 2900,          // sorts after the curated deck

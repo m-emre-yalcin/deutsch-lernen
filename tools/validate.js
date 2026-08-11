@@ -16,7 +16,10 @@ import { fileURLToPath } from 'node:url'
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..')
 const VOCAB = join(ROOT, 'data', 'vocab')
 
-const LEVELS = new Set(['A0', 'A1', 'A2'])
+// A0 is this project's own "day one, before A1" tier; the rest are CEFR.
+// B1 and B2 are accepted so the deck can grow past A2 without the validator —
+// which exits 1 on an unknown level — being the thing that stops it.
+const LEVELS = new Set(['A0', 'A1', 'A2', 'B1', 'B2'])
 const POS = new Set([
   'noun', 'verb', 'adjective', 'adverb', 'preposition', 'conjunction',
   'pronoun', 'article', 'numeral', 'interjection', 'phrase',

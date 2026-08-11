@@ -45,7 +45,7 @@ for (const file of readdirSync(PARTS).filter((f) => f.endsWith('.json')).sort())
     if (!l.title) errors.push(`${where}: missing title`)
     if (!l.rule) errors.push(`${where}: missing rule`)
     if (typeof l.number !== 'number') warnings.push(`${where}: missing number`)
-    if (!['A0', 'A1', 'A2'].includes(l.level)) warnings.push(`${where}: odd level "${l.level}"`)
+    if (!['A0', 'A1', 'A2', 'B1', 'B2'].includes(l.level)) warnings.push(`${where}: odd level "${l.level}"`)
 
     // Drills are the part that silently breaks — a choice whose answer isn't in
     // its options is unanswerable, and you'd only find out mid-session.
